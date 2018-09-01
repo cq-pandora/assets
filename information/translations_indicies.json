@@ -8893,5 +8893,91 @@
             "version": "4.7.0",
             "original": true
         }
+    ],
+    "champions": [
+        {
+            "key": "TEXT_CHAMPION_EAST_NAME",
+            "path": 0,
+            "text": "Kurenai",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_PUMP_NAME",
+            "path": 1,
+            "text": "Remi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_GRAN_NAME",
+            "path": 2,
+            "text": "Galahad",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_FREE_NAME",
+            "path": 3,
+            "text": "Horseman Winchester",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_NETH_NAME",
+            "path": 4,
+            "text": "Frantz",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_HAN_NAME",
+            "path": 5,
+            "text": "Hanee Baram",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_WEST_NAME",
+            "path": 6,
+            "text": "Ibelin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_ROMAN_NAME",
+            "path": 7,
+            "text": "Beast King Agrius",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMP_GODDESS_NAME",
+            "path": 8,
+            "text": "Noa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_NOS_NAME",
+            "path": 9,
+            "text": "Lia",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_MINO_NAME",
+            "path": 10,
+            "text": "Aindel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_CHEN_NAME",
+            "path": 11,
+            "text": "Luhe",
+            "version": "4.7.0",
+            "original": true
+        }
     ]
 }
