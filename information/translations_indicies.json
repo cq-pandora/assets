@@ -8979,5 +8979,448 @@
             "version": "4.7.0",
             "original": true
         }
+    ],
+    "sp_skills": [
+        {
+            "key": "TEXT_SKILL_AR_BOOMERANG_NAME",
+            "path": 0,
+            "text": "Threat at the Back",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_NAME",
+            "path": 1,
+            "text": "Rapid Firing Soul",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_FLOATNSTING_NAME",
+            "path": 2,
+            "text": "Float like a Butterfly, Sting like a Bee!",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_GHOST_ARROW_NAME",
+            "path": 3,
+            "text": "Voice of the Spirit",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_KNIFE_STORM_NAME",
+            "path": 4,
+            "text": "Blade Storm",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_PHOENIX_ARROW_NAME",
+            "path": 5,
+            "text": "Phoenix Feather",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_POISON_DART_NAME",
+            "path": 6,
+            "text": "Apply Poison",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_NAME",
+            "path": 7,
+            "text": "Fire Rain",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AR_STRAFE_SHOT_NAME",
+            "path": 8,
+            "text": "Blitz",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AF_BREAD_NAME",
+            "path": 9,
+            "text": "Atk Power Buff",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AF_BLOCK_NAME",
+            "path": 10,
+            "text": "Block Buff",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_AF_SPEED_NAME",
+            "path": 11,
+            "text": "Speed Buff",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_BULLET_TIME_NAME",
+            "path": 12,
+            "text": "Lapis & Lazuli",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_CARPET_BOMB_NAME",
+            "path": 13,
+            "text": "CURV-603 Carpet Bomb",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_DEADLY_SPIRIT_NAME",
+            "path": 14,
+            "text": "Deadly Soul",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_ENCHANTED_BULLET_NAME",
+            "path": 15,
+            "text": "Bullet Improvement!",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_MANLY_FIRE_NAME",
+            "path": 16,
+            "text": "Western Gunner",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_NAPALMBOMB_NAME",
+            "path": 17,
+            "text": "ILSU-425 Bombing",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_NAPALM_BABY_NAME",
+            "path": 18,
+            "text": "NB-8 Grenade",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_OPEN_ALL_FIRE_NAME",
+            "path": 19,
+            "text": "Overdrive!",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_QUICKEN_NAME",
+            "path": 20,
+            "text": "Swift Attack",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_SMOKE_NAME",
+            "path": 21,
+            "text": "NS-17 Smoke Bomb",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_HU_TURRET_009_NAME",
+            "path": 22,
+            "text": "BLBT-009 Support Turret",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_KOF_POWER_MAX_NAME",
+            "path": 23,
+            "text": "Power MAX",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_AVATAR_NAME",
+            "path": 24,
+            "text": "Spirit of Protection",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_BOMBING_WATERS_NAME",
+            "path": 25,
+            "text": "Consecutive Depth Bomb",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_BRAVERY_ROAR_NAME",
+            "path": 26,
+            "text": "Shout of Courage",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_CAPTAIN_NAME",
+            "path": 27,
+            "text": "Super Mecha Robot",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_DOCKING_ANCHOR_NAME",
+            "path": 28,
+            "text": "Lower the Anchor!",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_ORBITAL_HAMMER_NAME",
+            "path": 29,
+            "text": "Revolution Hammer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_OVERPOWER_NAME",
+            "path": 30,
+            "text": "Strength of Oppression",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_PALA_HEAL_NAME",
+            "path": 31,
+            "text": "Light of Grace",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_SACRED_HAMMER_NAME",
+            "path": 32,
+            "text": "Holy Hammer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_THORNS_ARMOR_NAME",
+            "path": 33,
+            "text": "Thorns of Vengeance",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PA_UNBEATABLE_NAME",
+            "path": 34,
+            "text": "Shield of Invincibility",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_AMATERASU_NAME",
+            "path": 35,
+            "text": "Spirit of Benevolence",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_NAME",
+            "path": 36,
+            "text": "Smile of the Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_BLKGEN_NAME",
+            "path": 37,
+            "text": "Energy of Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_HOLY_SANCTUARY_NAME",
+            "path": 38,
+            "text": "Sanctuary of the Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_QUAKE_TOTEM_NAME",
+            "path": 39,
+            "text": "Fierce Totem",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_RESURRECTION_NAME",
+            "path": 40,
+            "text": "Resurrection",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_SHIELD_NAME",
+            "path": 41,
+            "text": "Protection of the Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_STARFALL_NAME",
+            "path": 42,
+            "text": "Wrath of Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_PR_STICK_AND_CARROT_NAME",
+            "path": 43,
+            "text": "Time for Blood Donation!",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_AIR_SLASH_NAME",
+            "path": 44,
+            "text": "Heaven Slash",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_AVATAR_NAME",
+            "path": 45,
+            "text": "Spirit of Vengeance",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_NAME",
+            "path": 46,
+            "text": "Crescent Moon Rampage",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_DANCING_SWORD_NAME",
+            "path": 47,
+            "text": "Dancing Blade",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_FIGHTSPIRIT_NAME",
+            "path": 48,
+            "text": "Overflowing Determination",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_FINAL_JUSTICE_NAME",
+            "path": 49,
+            "text": "Final Judgment",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_FIRESHOT_NAME",
+            "path": 50,
+            "text": "Flame of Avarice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_WHIRLWIND_NAME",
+            "path": 51,
+            "text": "Spinning Storm",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WA_WIND_CLEAVE_NAME",
+            "path": 52,
+            "text": "Wind Slash",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_BEAMBURST_NAME",
+            "path": 53,
+            "text": "Consecutive Magic Beam",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_BLACKHOLE_NAME",
+            "path": 54,
+            "text": "Call of Darkness",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_CALL_IFRIT_NAME",
+            "path": 55,
+            "text": "Flame Spirit",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_LIGHTNING_BALL_NAME",
+            "path": 56,
+            "text": "Electric Sphere",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_LIGHTNING_DROP_NAME",
+            "path": 57,
+            "text": "Thunderbolt",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_MANACHARGE_NAME",
+            "path": 58,
+            "text": "Mana Recycle",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_MANA_SHIELD_NAME",
+            "path": 59,
+            "text": "Mana Shield",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_PAIN_FOG_NAME",
+            "path": 60,
+            "text": "Mysterious Fog",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_SHADOW_CALL_NAME",
+            "path": 61,
+            "text": "Shadow Mage",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SKILL_WI_TEMPEST_NAME",
+            "path": 62,
+            "text": "Magic Storm",
+            "version": "4.7.0",
+            "original": true
+        }
     ]
 }
