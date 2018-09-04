@@ -5830,7 +5830,7 @@
         "original": true
     },
     "TEXT_CHA_AR_6_12_NAME": {
-        "text": "MoonShadow Artair",
+        "text": "MoonShadow Altair",
         "version": "4.7.0",
         "original": true
     },
@@ -19325,7 +19325,7 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_10": {
-        "text": "(Passive enhanced) Isabel's critical chance is increased by 50% and critical damage by 75% for 5 seconds. Additionally, she receives a damage reduction effect of 50%.",
+        "text": "(Upon Activating Passive) For 5 seconds, Isabel's critical chance is increased by 50% and critical damage by 75%. Additionally, she receives 50% less damage and deals 70% more damage with her passive.",
         "version": "4.7.0",
         "original": true
     },
@@ -29095,12 +29095,12 @@
         "original": true
     },
     "TEXT_MESSAGE_GACHA_POPUP_DESC": {
-        "text": "Continue opening {0}?",
+        "text": "Use selected item?",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_MESSAGE_GACHA_POPUP_TITLE": {
-        "text": "Open {0}",
+        "text": "Use Treasure",
         "version": "4.7.0",
         "original": true
     },
@@ -30165,7 +30165,7 @@
         "original": true
     },
     "TEXT_MON_EP6_SWORDMAN_HARD": {
-        "text": "Neth Elite Worrior",
+        "text": "Neth Elite Warrior",
         "version": "4.7.0",
         "original": true
     },
@@ -34735,7 +34735,7 @@
         "original": true
     },
     "TEXT_PVPINFO_REAL_MATCHED": {
-        "text": "Found!",
+        "text": "Match found!",
         "version": "4.7.0",
         "original": true
     },
@@ -34755,7 +34755,7 @@
         "original": true
     },
     "TEXT_PVPINFO_REAL_WAITING": {
-        "text": "Looking for an opponent...",
+        "text": "Searching for match...",
         "version": "4.7.0",
         "original": true
     },
@@ -35650,12 +35650,12 @@
         "original": true
     },
     "TEXT_RANKUP_INFO_SPECIAL_2_TITLE": {
-        "text": "Equip Adv. special skill!",
+        "text": "Special Skill Available!",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_RANKUP_INFO_SPECIAL_DESC": {
-        "text": "Following skills avail.",
+        "text": "The hero can now learn new Special Skills.",
         "version": "4.7.0",
         "original": true
     },
@@ -37840,7 +37840,7 @@
         "original": true
     },
     "TEXT_RUNE_BUTTON_UNLOCK": {
-        "text": "Unlock",
+        "text": "Level Up",
         "version": "4.7.0",
         "original": true
     },
@@ -37850,12 +37850,12 @@
         "original": true
     },
     "TEXT_RUNE_CONFIRM_DESC": {
-        "text": "The previous skill will be deleted. \nReplace skill?",
+        "text": "The currently learned Special Skill will be replaced. Continue?",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_RUNE_CONFIRM_EXCEED_DESC": {
-        "text": "You already own this special skill.",
+        "text": "This hero already knows a maxed Special Skill. Learn a new one anyway?",
         "version": "4.7.0",
         "original": true
     },
@@ -37915,7 +37915,7 @@
         "original": true
     },
     "TEXT_RUNE_LEVELUP_TITLE": {
-        "text": "Special skill upgrade!",
+        "text": "Special Skill Level Up!",
         "version": "4.7.0",
         "original": true
     },
@@ -40000,7 +40000,7 @@
         "original": true
     },
     "TEXT_SKILL_AR_SHOOTING_STAR_LV3_SUBDESC": {
-        "text": "One fairy essence is added after every auto attack or when this hero is healed (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal @magic damage@ equal to 50% of the hero's attack power in addition to (100/200/300)% of the hero's attack power by exhausting all of the fairy essences.",
+        "text": "One fairy essence is added after every auto attack or when this hero is healed (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal @magic damage@ equal to 50% of the hero's attack power in addition to (200/400/600)% of the hero's attack power by exhausting all of the fairy essences.",
         "version": "4.7.0",
         "original": true
     },
@@ -48045,32 +48045,32 @@
         "original": true
     },
     "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_1_NAME": {
-        "text": "The Gates - 1",
+        "text": "The Gates",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_2_NAME": {
-        "text": "The Gates - 2",
+        "text": "The Dark Hall",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_3_NAME": {
-        "text": "The Dark Hall - 1",
+        "text": "The Wall",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_4_NAME": {
-        "text": "The Dark Hall - 2",
+        "text": "March of Darkness",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_5_NAME": {
-        "text": "The Wall - 1",
+        "text": "Looming Darkness",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_6_NAME": {
-        "text": "The Wall - 2",
+        "text": "Lord of Souls",
         "version": "4.7.0",
         "original": true
     },
@@ -48790,7 +48790,7 @@
         "original": true
     },
     "TEXT_SUBSCENARIO_RESET_DESC": {
-        "text": "Reset the Fortress with holy water?",
+        "text": "Purifying the stage will increase the stage reward. Continue?",
         "version": "4.7.0",
         "original": true
     },
@@ -49790,7 +49790,7 @@
         "original": true
     },
     "TEXT_TIP_PVP_PVP_5": {
-        "text": "You can use Honor to switch your opponent in the Master League of the Colosseum.",
+        "text": "You can use honor to find another opponent.",
         "version": "4.7.0",
         "original": true
     },
@@ -57785,7 +57785,7 @@
         "original": true
     },
     "TEXT_BUYCOUNT_PVP_GOAL": {
-        "text": "Purchase Item in Colosseum {0} times",
+        "text": "Buy Colosseum Buffs {0} Time(s)",
         "version": "4.7.0",
         "original": true
     },
@@ -57910,7 +57910,7 @@
         "original": true
     },
     "TEXT_CARVE_SLOT_ADD_DESC": {
-        "text": "Use a 6-star Soulbound Weapon to add a slot.\nGetting Great Success adds 2 slots.",
+        "text": "Use a ★6 Soulbound Weapon to add a slot.\nGetting Great Success adds 2 slots.",
         "version": "4.7.0",
         "original": true
     },
@@ -58075,7 +58075,7 @@
         "original": true
     },
     "TEXT_CHALLENGE_INFO_RECOMMEND_LEVEL": {
-        "text": "Recommended Hero Level",
+        "text": "Recommended Inheritance Level",
         "version": "4.7.0",
         "original": true
     },
@@ -58655,7 +58655,7 @@
         "original": true
     },
     "TEXT_CHA_PA_4_24_DESC": {
-        "text": "A wizard idol star produced to compete against Cano. Despite her slogan \"Wizard Girl with Magic Power that Hunts Down Villains\", some say she pushes around the special effects team to make her look like an actual magic wielding wizard.",
+        "text": "A magical girl idol produced to compete against Cano. Despite her slogan \"Magical Girl with Magical Powers that Hunts Down Villains,\" some say she pushes around the special effects team to make her look like an actual magical girl.",
         "version": "4.7.0",
         "original": true
     },
@@ -58845,7 +58845,7 @@
         "original": true
     },
     "TEXT_CHA_PR_5_24_DESC": {
-        "text": "Thanks to his luck, Ricky easily takes victories against many talented card players and finally faces the champion, Spade Queen. However, his luck runs dry against her and he finds himself completely defeated for the first time by someone of tireless practice and self-discipline. On his way back home, Ricky is more motivated than ever and determines to work hard to be able to challenge the reigning champion once again.",
+        "text": "Thanks to his luck, Ricky easily takes victories against many talented card players and finally faces the champion, Spade Queen. However, his luck runs dry against her and he finds himself completely defeated for the first time by someone of tireless practice and self-discipline. On his way back home, Ricky is more motivated than ever and determined to work harder in order to challenge the reigning champion once again.",
         "version": "4.7.0",
         "original": true
     },
@@ -61310,12 +61310,12 @@
         "original": true
     },
     "TEXT_EPIC_LEVEL": {
-        "text": "Hero Level",
+        "text": "Inheritance Level",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_EPIC_LEVEL_UP": {
-        "text": "Hero Level Expanded",
+        "text": "Inheritance Level Up",
         "version": "4.7.0",
         "original": true
     },
@@ -62375,12 +62375,12 @@
         "original": true
     },
     "TEXT_FAME_EPIC_LEVEL_TITLE": {
-        "text": "Hero Total Level",
+        "text": "Total Inheritance Level",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_FAME_FISH_RANK_TITLE": {
-        "text": "Fishing Rank",
+        "text": "Fisher Rank",
         "version": "4.7.0",
         "original": true
     },
@@ -64190,12 +64190,12 @@
         "original": true
     },
     "TEXT_GACHA_CHA_ADVERTISEMENT_DESC": {
-        "text": "1~5 Star Hero",
+        "text": "★1~5 Hero",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_GACHA_CHA_AR_DESC": {
-        "text": "2~6 Star Archer",
+        "text": "★3~6 Archer",
         "version": "4.7.0",
         "original": true
     },
@@ -64205,7 +64205,7 @@
         "original": true
     },
     "TEXT_GACHA_CHA_C_DESC": {
-        "text": "3~6 Star Hero",
+        "text": "★3~6 Hero",
         "version": "4.7.0",
         "original": true
     },
@@ -64350,7 +64350,7 @@
         "original": true
     },
     "TEXT_GACHA_CHA_HU_DESC": {
-        "text": "2~6 Star Hunter",
+        "text": "★3~6 Hunter",
         "version": "4.7.0",
         "original": true
     },
@@ -64360,12 +64360,12 @@
         "original": true
     },
     "TEXT_GACHA_CHA_PA_DESC": {
-        "text": "2~6 Star Paladin",
+        "text": "★3~6 Paladin",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_GACHA_CHA_PR_DESC": {
-        "text": "2~6 Star Priest",
+        "text": "★3~6 Priest",
         "version": "4.7.0",
         "original": true
     },
@@ -64380,12 +64380,12 @@
         "original": true
     },
     "TEXT_GACHA_CHA_WA_DESC": {
-        "text": "2~6 Star Warrior",
+        "text": "★3~6 Warrior",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_GACHA_CHA_WI_DESC": {
-        "text": "2~6 Star Wizard",
+        "text": "★3~6 Wizard",
         "version": "4.7.0",
         "original": true
     },
@@ -64665,7 +64665,7 @@
         "original": true
     },
     "TEXT_GET_HOUSE_ITEM_GOAL": {
-        "text": "Obtain Hero Home Item",
+        "text": "Obtain Home Deco Item",
         "version": "4.7.0",
         "original": true
     },
@@ -65190,7 +65190,7 @@
         "original": true
     },
     "TEXT_HELP_10201_MAIN_DESC": {
-        "text": "1. Check out your Account Level, Colosseum Rank, and Fame.\n2. You can also check your Achievements, Fame distribution, and Portrait Panel in the Fame tab.\n3. Look over the Monuments you have collected in game.\n4. Check the accumulation of your wealth and resources.",
+        "text": "1. You can check your Account Level, Fame, and information of other main features.\n2. You can also check your Achievements, Fame distribution, and Portrait Frame in the Fame tab.\n3. Look over the Monuments you have collected in game.\n4. Check your wealth and resources.",
         "version": "4.7.0",
         "original": true
     },
@@ -65735,7 +65735,7 @@
         "original": true
     },
     "TEXT_HELP_30103_MAIN_DESC": {
-        "text": "1. Earn resources needed to forge Soulbound Weapons.\n2. A Hero can enter the Fortress only once a day. However, you can use Jewels to reset any Hero's entrance.\n3. A floor can be entered only once a day. However, you can use Jewels to replay a stage.\n4. An event is activated on a random floor every day. Clearing this event will grant 50% more rewards.\n5. On certain floors you have a chance of finding either a currupted fragment or a fragment of Danan.\nFragment of Danan: If you succeed in defending it to the end of the stage, you will receive 50% more rewards. \n- Event Floors Include: The Dark Hall - 1, The Wall 1, The Grand Gallery\nCorrupted Fragment: If you fail to destroy it in time, nearby enemies will grow stronger.\n- Event Floors Include: The Gates - 2, The Dark Hall - 2, The Wall - 2\n6. The Hero Bosses of the Fortress are constituted of Heroes of top Colosseum victors from the previous week.\n7. If you die in the Fortress, you can continue playing by watching ads or using Jewels.",
+        "text": "1. You can acquire materials needed to forge Soulbound Weapons in Fortress of Souls.\n2. A Hero can enter the Fortress only once a day. However, you can use Jewels to reset any Hero's entrance.\n3. While each stage can be played only once per day, you can use Jewels to reset and replay a stage.\n4. You have a chance of finding either Corrupted Fragments or Fragments of Danan on particular floors. \n- Particular floors: The Gates, The Dark Hall, The Wall \n- Fragment of Danan: Clearing the stage with the Fragment intact will grant you a 50% bonus reward.\n- Corrupted Fragment: Failing to destroy it in time will cause nearby enemies to grow stronger. \n5. The Hero Bosses of the Fortress are constituted of Heroes of top Colosseum victors from the previous week.\n6. If you die in the Fortress, you can continue playing by watching an ad or by using Jewels.",
         "version": "4.7.0",
         "original": true
     },
@@ -66145,7 +66145,7 @@
         "original": true
     },
     "TEXT_HOUSE_LOAD_WARNING": {
-        "text": "Your current edit will be lost and \nthe wall and floor will be immediately applied. Continue?",
+        "text": "Your current edit will be lost.\nThe wall, floor, and frame will be immediately applied. Continue?",
         "version": "4.7.0",
         "original": true
     },
@@ -66310,7 +66310,7 @@
         "original": true
     },
     "TEXT_INHERIT_BOOK_EPIC_LEVEL_MAX_DESC": {
-        "text": "This hero has already reached maximum level.",
+        "text": "This hero has reached maximum Inheritance Level.",
         "version": "4.7.0",
         "original": true
     },
@@ -66325,7 +66325,7 @@
         "original": true
     },
     "TEXT_INHERIT_BOOK_MAX_EPIC_LEVEL_SIMPLE_NOTI": {
-        "text": "The hero reached the Maximum Level.",
+        "text": "Cannot be used when at maximum Inheritance Level.",
         "version": "4.7.0",
         "original": true
     },
@@ -70025,7 +70025,7 @@
         "original": true
     },
     "TEXT_NOTYET_CHALLENGE": {
-        "text": "Challenge Mode is unlocked only after clearing all stages of the Kalard Chronicles episode.",
+        "text": "You must complete all stages of Episode 1 of the Kalard Chronicles to enter.",
         "version": "4.7.0",
         "original": true
     },
@@ -71000,7 +71000,7 @@
         "original": true
     },
     "TEXT_RANDOM_LEGENDARY_WEAPON_6_GRADE_NAME": {
-        "text": "6-Star Soulbound Weapon Box",
+        "text": "★6 Soulbound Weapon Box",
         "version": "4.7.0",
         "original": true
     },
@@ -71705,12 +71705,12 @@
         "original": true
     },
     "TEXT_RING_ENHANCE_GOAL": {
-        "text": "Convert Ring Sub Option",
+        "text": "Convert Option",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_RING_ENHANCE_GOAL_2": {
-        "text": "Convert Ring Main Option",
+        "text": "Convert Rank",
         "version": "4.7.0",
         "original": true
     },
@@ -75215,12 +75215,12 @@
         "original": true
     },
     "TEXT_SUBSCENARIO_DESTROY_HELP_DESC": {
-        "text": "On certain floors you have a chance of finding a fragment of Danan. If you succeed in defending it to the end of the stage, you will receive 50% more rewards.",
+        "text": "On certain floors you have a chance of finding a corrupted fragment. Failing to destroy it within time will result in stronger enemies, so watch out!",
         "version": "4.7.0",
         "original": true
     },
     "TEXT_SUBSCENARIO_ESCORT_HELP_DESC": {
-        "text": "On certain floors you have a chance of finding a corrupted fragment. Failing to destroy it within time will result in stronger enemies, so watch out!",
+        "text": "On certain floors you have a chance of finding a fragment of Danan. If you succeed in defending it to the end of the stage, you will receive 50% more rewards.",
         "version": "4.7.0",
         "original": true
     },
@@ -75805,7 +75805,7 @@
         "original": true
     },
     "TEXT_TUTO_FISH_03": {
-        "text": "This 'FR' stands for \"Fisher Rank,\" nya. It's the official measurement \nof fishing expertise as regulated by the Hasla Fishing Association, HFA.",
+        "text": "This is your Fisher Rank, nya. It's the official standard set by\nthe Hasla Fishing Association to judge your fishing skills, nya!",
         "version": "4.7.0",
         "original": true
     },
@@ -75815,7 +75815,7 @@
         "original": true
     },
     "TEXT_TUTO_FISH_05": {
-        "text": "Catching fish will increase your Fisher Rank, nya.",
+        "text": "Catch fish to increase your Fisher Rank, nya!",
         "version": "4.7.0",
         "original": true
     },
@@ -78106,6 +78106,1256 @@
     },
     "TEXT_YS8_TITLE_SHIP_BUILDING": {
         "text": "Build Escape Boat",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_01_TITLE": {
+        "text": "Have you decided which club to enter?",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_02_TITLE": {
+        "text": "Look! New clubs!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_03_TITLE": {
+        "text": "Let's look for a club to join!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_04_TITLE": {
+        "text": "Heard of the Fishing Club?",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_05_TITLE": {
+        "text": "The Athletic Club is gathering new members!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_06_TITLE": {
+        "text": "Come join the Baking Club!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_07_TITLE": {
+        "text": "Make new friends in your new club.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201809_LIMIT_QUEST_SCHOOL_08_TITLE": {
+        "text": "Care for a guided tour of the clubs?",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_CARD_DESC": {
+        "text": "Fight real-time battles against other Captains and receive rewards!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_CARD_LOCK_CHECK": {
+        "text": "You cannot enter the Arena during maintenance.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_CARD_LOCK_NOHERO": {
+        "text": "At least {0} different heroes are required to play.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_CARD_NAME": {
+        "text": "Arena (BETA)",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_BRONZE_01": {
+        "text": "Bronze I",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_BRONZE_02": {
+        "text": "Bronze II",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_BRONZE_03": {
+        "text": "Bronze III",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_BRONZE_04": {
+        "text": "Bronze IV",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_BRONZE_05": {
+        "text": "Bronze V",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_GOLD_01": {
+        "text": "Gold I",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_GOLD_02": {
+        "text": "Gold II",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_GOLD_03": {
+        "text": "Gold III",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_GOLD_04": {
+        "text": "Gold IV",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_GOLD_05": {
+        "text": "Gold V",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_MASTER": {
+        "text": "Master League",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_SILVER_01": {
+        "text": "Silver I",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_SILVER_02": {
+        "text": "Silver II",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_SILVER_03": {
+        "text": "Silver III",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_SILVER_04": {
+        "text": "Silver IV",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_GRADE_ARENA_SILVER_05": {
+        "text": "Silver V",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_BAN_INFO": {
+        "text": "Until Ban Change",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_INFO_01": {
+        "text": "Banned heroes cannot compete.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_INFO_02": {
+        "text": "Banned heroes are changed every Monday at 00:00 (UTC).",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_INFO_03": {
+        "text": "This week's Top 5 Heroes will be banned from entering next week.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_INFO_BANLIST": {
+        "text": "Banned Heroes",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_INFO_CALCULATE": {
+        "text": "Calculating Rank...",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_INFO_FAVORITE_01": {
+        "text": "Popular Heroes",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_INFO_FAVORITE_02": {
+        "text": "Top 5 Most Used Heroes this Week",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_POPUP_CALCULATE": {
+        "text": "Arena is under maintenance. \n\nYou will be redirected to Town.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_POPUP_CHANGE_DESC": {
+        "text": "Last week's Top 5 Heroes have been banned.\n\nThe above heroes cannot enter the Arena for 2 weeks.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_POPUP_CHANGE_TITLE": {
+        "text": "This Week's Banned Heroes",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_POPUP_REWARD_DESC": {
+        "text": "You will start this week's Arena from the Rank one grade lower than your previous week's final Rank.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_POPUP_REWARD_RESULT": {
+        "text": "You Achieved Rank {0}!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_LOBBY_POPUP_REWARD_TITLE": {
+        "text": "Arena Results",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_MATCH": {
+        "text": "Opponent found. Match will start soon!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_MATCH_FAIL": {
+        "text": "Match not found. Please try again.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_UNABLE_TO_START_TITLE_DESC": {
+        "text": "You cannot play in the Arena during maintenance.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ARENA_UNABLE_TO_USE_HERO_DESC": {
+        "text": "You cannot play with banned heroes in your team.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_BEFORE_REFRESH": {
+        "text": "Until Refresh",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_BUTTON_PVP_REAL_CLOSE": {
+        "text": "Close",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_BUTTON_PVP_REAL_LOBBY": {
+        "text": "Lobby",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_25_DESC": {
+        "text": "A demon of Valencia. Although Sfera's only dream is to lead an ordinary life with her younger sister Echidna, the two sisters become a target of the villagers' fear and prejudice of demons. The discrimination exacerbates year by year until Sfera decides that their home is no longer safe for neither herself nor the young Echidna. The two sisters flee to a deserted castle on the outskirts of the country where they make their new home, Shpera sighing with relief that their safety will no longer be threatened by anyone for the rest of their lives.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_25_NAME": {
+        "text": "Sfera",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_25_DESC": {
+        "text": "Many years later, a mysterious man in a mask comes to visit Sfera and Echidna. He introduces himself as 'Elf Mask,' a member of the Minor Tribes' Confederation. He offers them a position in the Confederation, proposing that they venture out into the wide world and join a harmonious, progressive community free of any inequality.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_25_NAME": {
+        "text": "Demonic Sheep Sfera",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_25_DESC": {
+        "text": "Sfera declines Elf Mask's offer, stating that she would rather not be seen by other people. Echidna, however, reacts violently to Sfera's decision and claims that she will depart alone if necessary. Sfera attempts to persuade her sister that any attempt to return to the outside world shall prove futile, and that it is much wiser to remain in the castle and quietly spend out their lives. After all, who will ever accept them when they're demons, the most feared and hated race in Hasla?",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_25_NAME": {
+        "text": "Sfera, Queen of Sheep",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_25_DESC": {
+        "text": "A free-spirited young demon living with her older sister Sfera in a deserted castle on the outskirts of Valencia. While Echidna does try to take heed of her sister's warning and keep to herself, it's so difficult when she is so curious about the outside world! It is obviously not her fault (or so she claims) that she is so often seen by unwitting passerbys who just happen to look in her direction.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_25_NAME": {
+        "text": "Echidna",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_25_DESC": {
+        "text": "One day, a mysterious traveler calling himself 'Elf Mask' comes to offer the two sisters a position in the Minor Tribes' Confederation. Echidna wholeheartedly agrees to the stranger's proposal, as it has been her lifelong dream to travel the world. Needless to say, she is very much disappointed when Sfera declines the offer.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_25_NAME": {
+        "text": "Demonic Serpent Echidna",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_25_DESC": {
+        "text": "The sulky Echidna attempts to 'persuade' Sfera by threatening to release her snakes in the nearby village. Sfera, worried that they will venture out of the castle only to return disheartened and betrayed, attempts to explain her reasons for declining. Echidna refuses to listen, however - her heart is set on a new life in a new world.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_25_NAME": {
+        "text": "Echidna, Queen of Serpents",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_CM": {
+        "text": "cm",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_COMMON_LONG": {
+        "text": "Basic",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_HU_19_SCHOOLCLUB": {
+        "text": "Calligraphy Club Momotaro",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_PA_19_SCHOOLCLUB": {
+        "text": "Tennis Club Fenrir",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_DAILY_ARENA_QUEST_GOAL_0001": {
+        "text": "Play Arena x 5",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_DAILY_ARENA_QUEST_TITLE_0001": {
+        "text": "Chocolat's Invitation",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ERROR_DISCONNECT_DESC_01": {
+        "text": "Your connection has been lost.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ERROR_DISCONNECT_DESC_02": {
+        "text": "You have lost this round due to connection failure.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ERROR_DISCONNECT_DESC_03": {
+        "text": "The other player's connection has been lost.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHERY_EVENT": {
+        "text": "Event Fishing Spot",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHERY_FEST": {
+        "text": "Event Fishing Spot",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHER_RANK_EXP": {
+        "text": "FR EXP",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHER_RANK_UP": {
+        "text": "Fisher Rank Up!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_BAIT_EVENTROE_DESC": {
+        "text": "Eggs laid by salmon that have returned to the stream where they have hatched. They can be used as effective bait, playing on the species' characteristic behavior to bury their eggs in a safe place.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_BAIT_EVENTROE_NAME": {
+        "text": "Salmon Roe",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_CAPTURE_REWARD": {
+        "text": "Capture Reward",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_CONTEST_END": {
+        "text": "Reeling it in…",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_ADDREWARD": {
+        "text": "Bonus Reward",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_CAPTURE_REWARD_LOCK": {
+        "text": "You can receive rewards after catching at least {0} fish.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_MAX_MY_RECORD": {
+        "text": "My Best Record",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_RANKING": {
+        "text": "Ranking",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_REWARD": {
+        "text": "Reward",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_TARGET_FISH": {
+        "text": "Target Fish",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_TOTAL_MY_CAPTURE": {
+        "text": "My Caught Fish",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_FEST_TOTAL_USER_CAPTURE": {
+        "text": "Total Caught Fish",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_GEAR_OPTION_EVENT": {
+        "text": "Contest Fish Rate UP",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISHING_SIZE_REWARD": {
+        "text": "Size Reward",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_BAIT_HELP": {
+        "text": "Can be obtained/used only during Fishing Contest",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_CATBOX_DESC": {
+        "text": "A mysterious cat chest. Open it and there's - tada - another cat chest!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_CATBOX_NAME": {
+        "text": "Mysterious Cat Chest",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_SALMON_DESC": {
+        "text": "An anadromous species that return to the icy waters of Nosgard to reproduce. Like the Nosgardian salmon, Fishernyan hopes to return to meet his Hasla friends very soon.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_SALMON_NAME": {
+        "text": "Nosgardian Salmon",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_BASIC_WOOD_01_DESC": {
+        "text": "The most basic wooden frame for your hero home.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_BASIC_WOOD_01_NAME": {
+        "text": "Wooden Frame",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_CHRISTMAS_WOOD_01_DESC": {
+        "text": "A wooden frame that seems to emanate warmth and good cheer.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_CHRISTMAS_WOOD_01_NAME": {
+        "text": "Christmas Wooden Frame",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_MANSION_MARBLE_01_DESC": {
+        "text": "A marble frame fit for a grand mansion.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_MANSION_MARBLE_01_NAME": {
+        "text": "Mansion Marble Frame",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_NETH_IRON_01_DESC": {
+        "text": "A cold, mechanical steel frame.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_NETH_IRON_01_NAME": {
+        "text": "Neth Lab Steel Frame",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_PUMPKIN_WOOD_01_DESC": {
+        "text": "An elaborate, antique wooden frame.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRAME_PUMPKIN_WOOD_01_NAME": {
+        "text": "Witch House Wooden Frame",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_FRIEND_FB_LOGIN_DESC": {
+        "text": "Send a game invitation to your friends on Facebook!\n\nTrade meat and honor with your friends every day on Crusaders Quest!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_AR_REPEAT10_DESC": {
+        "text": "3-6 Star Archer Contracts\nContract Hero Guaranteed on 10th Pull",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_AR_REPEAT10_NAME": {
+        "text": "10 x Archer Contracts",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_HU_REPEAT10_DESC": {
+        "text": "3-6 Star Hunter Contracts\nContract Hero Guaranteed on 10th Pull",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_HU_REPEAT10_NAME": {
+        "text": "10 x Hunter Contracts",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_PA_REPEAT10_DESC": {
+        "text": "3-6 Star Paladin Contracts\nContract Hero Guaranteed on 10th Pull",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_PA_REPEAT10_NAME": {
+        "text": "10 x Paladin Contracts",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_PR_REPEAT10_DESC": {
+        "text": "3-6 Star Priest Contracts\nContract Hero Guaranteed on 10th Pull",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_PR_REPEAT10_NAME": {
+        "text": "10 x Priest Contracts",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_WA_REPEAT10_DESC": {
+        "text": "3-6 Star Warrior Contracts\nContract Hero Guaranteed on 10th Pull",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_WA_REPEAT10_NAME": {
+        "text": "10 x Warrior Contracts",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_WI_REPEAT10_DESC": {
+        "text": "3-6 Star Wizard Contracts\nContract Hero Guaranteed on 10th Pull",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_WI_REPEAT10_NAME": {
+        "text": "10 x Wizard Contracts",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHOICE_HERO_SKILL_NAME": {
+        "text": "Skill Unlock Hero Select Ticket",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GROUND_NETH_IRON_01_DESC": {
+        "text": "The steel floor of a Neth laboratory, polished to a pin.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_GROUND_NETH_IRON_01_NAME": {
+        "text": "Neth Lab Steel Floor",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_01_DESC": {
+        "text": "1. Fight real-time battles with other Crusaders to raise your Arena Rank and receive a weekly reward!\n2. You must have at least 13 heroes to play in the Arena.\n3. Each Arena competition starts every Monday and lasts a week.\n4. The Arena goes under maintenance every Monday for one hour, from 00:00~01:00 UTC. You cannot enter the Arena during this time.\n5. You will receive your weekly reward after Arena Maintenance in accordance to your Arena Rank and Tier.\n6. The Arena requires no additional playing conditions after you initially enter.\n7. Each round lasts 3 minutes. Victory goes to the player with more heroes remaining by the end of the round.\n8. Should both players have the same number of heroes remaining at the end of the round, victory goes to the player with the higher sum of their heroes' remaining HP. \n9. Only Goddesses can accompany your team to the Arena. Champions are banned from entering.\n10. If you exit the game or lose connection during the round, you will automatically lose.\n11. Using a forbidden third-party program may result in penalty regarding your gameplay.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_01_NAME": {
+        "text": "Arena: Basic Rules",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_02_DESC": {
+        "text": "1. All Crusaders who play the Arena will be given an Arena Rank.\n2. Arena Ranks are divided into Bronze, Silver, Gold, and Master.\n3. Bronze, Silver, and Gold Ranks are further divided into Tiers. Each Rank is comprised of 5 Tiers.\n4. Each victory in the Arena will award you 1 point. Winning a round at 5 points will take you to the next Tier, where you will start with 1 point. Leveling up from the highest Tier 1 will take you to the next Arena Rank.\n5. Each loss in the Arena will cost you 1 point. Losing a round at 0 points will take your Tier down by one grade, where you will start with 4 points. \n6. While losing a round may result in the decrease of your Tier, it will never affect your attained Rank. \n7. There are no Tiers in Master Rank. You will start Master Rank from 1 point.\n8. Each victory in the Master Rank will award you 1 point. A loss will cost you 1 point.\n9. You will receive your Arena Reward every Monday after Arena Maintenance in accordance to your Arena Rank and Tier. You will start the new week's Arena from Tier 5 of the Rank one grade lower than your previous week's final Arena Rank.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_02_NAME": {
+        "text": "Arena: Ranks and Tiers",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_03_DESC": {
+        "text": "1. Certain heroes will be banned from the Arena every week. \n2. Banned heroes cannot compete in the Arena.\n3. Up to 10 heroes may be banned at once.\n4. The roster of banned heroes changes every Monday after Arena Maintenance.\n5. The five most popular heroes in the Arena will be banned from playing the following week.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_03_NAME": {
+        "text": "Arena: Banned Heroes",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_BOOKNAME_10": {
+        "text": "Nosgard Saga",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_87": {
+        "text": "Seeking the Truth",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_88": {
+        "text": "Treasure of the Sanctuary",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_89": {
+        "text": "Farewells and Beginnings",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_INGAME_EVENT_COUNTDOWN": {
+        "text": "{0}D {1}H {2}M left",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_INGAME_EVENT_COUNTDOWN_2": {
+        "text": "{0}H {1}M {2}S left",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ITEM_FRAME": {
+        "text": "Outer Frame",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_ITEM_FRAME_HELP": {
+        "text": "Decorate the outer sides of your hero home.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_LEARNSKILL_GREAT_SUCCESS_INFO": {
+        "text": "Great Success Skill Info",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_LEARNSKILL_NORMAL": {
+        "text": "Normal Transfer",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_LEARNSKILL_POINT": {
+        "text": "Bridget Point Transfer",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_MAIL_FISHERCAT_CONTENT": {
+        "text": "Here's your reward, nya!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_MAIL_FISHERCAT_NAME": {
+        "text": "Fishernyan",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_COMPUTERCHAIR_01_DESC": {
+        "text": "Take a seat and you'll never want to leave your computer.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_COMPUTERCHAIR_01_NAME": {
+        "text": "Computer Chair",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_COMPUTER_01_DESC": {
+        "text": "This latest model from Neth Empire can handle the heaviest of programs. Games not included.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_COMPUTER_01_NAME": {
+        "text": "Computer",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_FACILITY_01_DESC": {
+        "text": "Step in to receive a burst of energy. Perfect for groggy mornings when you need a little pick-me-up.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_FACILITY_01_NAME": {
+        "text": "Life Support System Device",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_LOCKER_01_DESC": {
+        "text": "This locker can hold all your supplies, clothes, and even you!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_LOCKER_01_NAME": {
+        "text": "Locker",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_MACHINEHAND_01_NAME": {
+        "text": "Manipulator",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_MACHINEHANE_01_DESC": {
+        "text": "A mechanical device that can perform elaborate actions like a human arm.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_MACHINE_01_DESC": {
+        "text": "What can we say? Neth Empire cranes are the best in Hasla.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_MACHINE_01_NAME": {
+        "text": "Crane A",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_MACHINE_02_DESC": {
+        "text": "What can we say? Neth Empire cranes are the best in Hasla.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_MACHINE_02_NAME": {
+        "text": "Crane B",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_ROCKET_01_DESC": {
+        "text": "The epitome of Neth Empire's, uh, rocket science.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_BOTTOM_ROCKET_01_NAME": {
+        "text": "Mini Rocket",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLACKWIRE_01_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLACKWIRE_01_NAME": {
+        "text": "Black Wire A",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLACKWIRE_02_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLACKWIRE_02_NAME": {
+        "text": "Black Wire B",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLACKWIRE_03_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLACKWIRE_03_NAME": {
+        "text": "Black Wire C",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLUEPRINT_01_DESC": {
+        "text": "What are you doing with these? These blueprints are strictly confidential!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BLUEPRINT_01_NAME": {
+        "text": "Blueprint",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BROWNWIRE_01_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BROWNWIRE_01_NAME": {
+        "text": "Brown Wire A",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BROWNWIRE_02_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BROWNWIRE_02_NAME": {
+        "text": "Brown Wire B",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BROWNWIRE_03_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_BROWNWIRE_03_NAME": {
+        "text": "Brown Wire C",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_CCTV_01_DESC": {
+        "text": "Record EVERYTHING you want, 24 hours a day, 365 days a year.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_CCTV_01_NAME": {
+        "text": "Security Camera",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_DISTRIBUTOR_01_DESC": {
+        "text": "Distributes electric currents into different circuits in accordance to usage.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_DISTRIBUTOR_01_NAME": {
+        "text": "Distribution Board",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_DRONE_01_DESC": {
+        "text": "A drone specially built to ward off intruders.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_DRONE_01_NAME": {
+        "text": "Drone",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_DUALSCANNER_01_DESC": {
+        "text": "Trespassers better beware. Comes with two gun barrels for the price of one.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_DUALSCANNER_01_NAME": {
+        "text": "Sentry Gun",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_FAN_01_DESC": {
+        "text": "Everybody in the Neth Empire knows that turning on a fan is much more efficient than opening a window.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_FAN_01_NAME": {
+        "text": "Fan",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_NETHPATTERN_01_DESC": {
+        "text": "Display your loyalty to the Empire with this ornament.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_NETHPATTERN_01_NAME": {
+        "text": "Neth Empire Insignia",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_PANEL_01_DESC": {
+        "text": "State-of-the-art monitor for all your supervising needs.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_PANEL_01_NAME": {
+        "text": "Monitor",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_REDWIRE_01_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_REDWIRE_01_NAME": {
+        "text": "Red Wire A",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_REDWIRE_02_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_REDWIRE_02_NAME": {
+        "text": "Red Wire B",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_REDWIRE_03_DESC": {
+        "text": "Conductor of electricity and electric signals.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_REDWIRE_03_NAME": {
+        "text": "Red Wire C",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_SWITCH_01_DESC": {
+        "text": "Switch on for electricity, switch off for no electricity.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_NETH_CENTER_SWITCH_01_NAME": {
+        "text": "Switch",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_PVPINFO_GRADEUP_DESC": {
+        "text": "You have reached {0} Rank!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_PVP_LOBBY": {
+        "text": "Lobby",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_NAME": {
+        "text": "Intact Cat Chest",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_NAME": {
+        "text": "Mossy Cat Chest",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_TRISTA_TREASURE_NAME": {
+        "text": "Treasure of Trista",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RANDOM_CATBOX_HELP": {
+        "text": "Obtain various supplies from Fishernyan's treasure chests.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RARITY_COMMON_LONG": {
+        "text": "Normal",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RARITY_EPIC_LONG": {
+        "text": "Epic",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RARITY_LEGENDARY_LONG": {
+        "text": "Legendary",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RARITY_RARE_LONG": {
+        "text": "Rare",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RARITY_SET_LONG": {
+        "text": "Set",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_REMAIN_DD_HH": {
+        "text": "{0}D {1}H Left",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_REMAIN_HH_MM": {
+        "text": "{0}H {1}M Left",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_REMAIN_NEXT_RANK": {
+        "text": "Next Rank In",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_RUNE_CURRENT_SKILL": {
+        "text": "Unlocked Special Skills",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_CONTENT": {
+        "text": "Skill Unlock Hero",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_COVER": {
+        "text": "May the Spirits be with you! #(1 per Account)#",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_DESC": {
+        "text": "Advanced Special Skill Unlock Hero Guaranteed!\nLimited to 1 per Account!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_HELP": {
+        "text": "Joan of Arc, Kaori, Vivian, Abel, Alexander, Achilles, Vane, Robin Hood, Gon, Giparang, Spyro, D'Artagnan, Viper, Dorothy, Sasquatch, Korin, Lilith, Mew, Nightingale, Himiko, Arona, Tia",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_HELP_INFO": {
+        "text": "Click the button to see the list of heroes that unlock Adv. Special Skills.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_ITEM1_DESC": {
+        "text": "Can Select a 4-Star Skill Unlock Hero",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_ITEM2_DESC": {
+        "text": "x 200",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_MAIL_CONTENT": {
+        "text": "Here's your Skill Researcher's Package purchase!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_NAME": {
+        "text": "Skill Researcher's Package",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SFERA_DESC": {
+        "text": "According to chain number, Sfera uses [10/10/10]% of her remaining HP to bestow 'Impulse' over the entire party for 5 seconds, increasing their life steal by [15/20/25]%.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SFERA_LV2_SUBDESC": {
+        "text": "Upon using her 3-chain, Sfera summons her familiar 'Ovis' for 6 seconds. (Cooltime: 6 seconds) Ovis heals Sfera by 1500 HP each time an ally is healed by Sfera's 'Impulse' or another healing skill.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SFERA_LV3_SUBDESC": {
+        "text": "Upon using her 3-chain, Sfera summons her familiar 'Ovis' for 6 seconds. (Cooltime: 6 seconds) \nOvis heals Sfera by 1500 HP each time an ally is healed by Sfera's 'Impulse' or another healing skill. Additionally, Ovis grants a buff to the entire party that increases critical damage by 20%, armor penetration by 300, and resistance penetration by 300 for the duration of its summoning.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SFERA_NAME": {
+        "text": "Impulse",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SFERA_SUBNAME": {
+        "text": "Convocation",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ECHIDNA_DESC": {
+        "text": "According to chain number, Echidna uses [5/8/10]% of her remaining HP to deal #physical damage# equal to [300/500/700]% of her attack power.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ECHIDNA_LV2_SUBDESC": {
+        "text": "Upon using another ally's 3-chain, Echidna activates 'Serpentine Domain' over her surrounding area for 5 seconds. 'Serpentine Domain' deals #physical damage# equal to 500% of Echidna's attack power to enemies within the area. (Cooltime: 6 seconds)\nIf Echidna uses her own block during 'Serpentine Domain,' the duration of the skill increases by 3 seconds. When 'Serpentine Domain' ends, Echidna deals #physical damage# equal to 100% of her attack power to the enemy in the front.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ECHIDNA_LV3_SUBDESC": {
+        "text": "Upon using another ally's 3-chain, Echidna activates 'Serpentine Domain' over her surrounding area for 5 seconds. 'Serpentine Domain' deals #physical damage# equal to 500% of Echidna's attack power to enemies within the area. (Cooltime: 6 seconds)\nIf Echidna uses her own block during 'Serpentine Domain,' the duration of the skill increases by 3 seconds. When 'Serpentine Domain' ends, Echidna deals #physical damage# equal to 100% of her attack power to the enemy in the front.\nAdditionally, with every 25 hits 'Serpentine Domain' deals to the enemy, Echidna summons her familiar 'Loydie' that deals #physical damage# equal to 800% of her attack power to the enemy in the front. (Cooltime: 2 seconds) 'Loydie' also generates 1 ally leader block upon being summoned. (Cooltime: 3 seconds)",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ECHIDNA_NAME": {
+        "text": "Serpentine Whip",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ECHIDNA_SUBNAME": {
+        "text": "Serpentine Domain",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_SUB_CATEGORY_FRAME_NAME": {
+        "text": "Frame",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_1": {
+        "text": "You can battle other Captains real-time in the Arena.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_2": {
+        "text": "The Arena goes under maintenance every Monday from 9 to 10 AM. You cannot enter during this time.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_3": {
+        "text": "After Arena Maintenance, you will start the new week's Arena from Tier 5 of the Rank one grade lower than your previous week's final Arena Rank.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_4": {
+        "text": "There are four Ranks in the Arena: Bronze, Silver, Gold, and Master.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_5": {
+        "text": "There are no Tiers in Master Rank. Your score will be calculated only by the number of points you gain through victory.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_6": {
+        "text": "Check for related quests after playing the Arena!",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_7": {
+        "text": "The Top 5 Popular Heroes of the week are banned for the following week's Arena.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TIP_ARENA_9": {
+        "text": "Losing in the Arena may lower your Tier, but not your Rank.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_TUNDRA_FISHERY_NAME": {
+        "text": "Nosgard Stream",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WALL_NETH_IRON_01_DESC": {
+        "text": "Created from the most durable steel panel adhered side-by-side.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WALL_NETH_IRON_01_NAME": {
+        "text": "Neth Lab Steel Wall",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEEKLY_ARENA_QUEST_GOAL_0001": {
+        "text": "Win in Arena x 30",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEEKLY_ARENA_QUEST_TITLE_0001": {
+        "text": "Fight for Victory",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_25_DESC": {
+        "text": "(Passive Enhanced) Each time an ally is healed by Sfera's 'Impulse' or another healing skill while Ovis is summoned, Ovis grants an additional buff to the entire party that increases critical damage by 1% and attack power by 1%. (Maximum 20 stacks)",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_25_NAME": {
+        "text": "Demonic Orb",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_25_DESC": {
+        "text": "(Passive Enhanced) Each time an ally is healed by Sfera's 'Impulse' or another healing skill while Ovis is summoned, Ovis grants an additional buff to the entire party that increases critical damage by 1% and attack power by 1%. (Maximum 20 stacks)",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_25_NAME": {
+        "text": "Familiar's Soul",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_25_DESC": {
+        "text": "(Passive Enhanced) Each time an ally is healed by Sfera's 'Impulse' or another healing skill while Ovis is summoned, Ovis grants an additional buff to the entire party that increases critical damage by 3% and attack power by 1%. (Maximum 25 stacks)\n(Passive Added) Using Sfera's 2- or 3-chain Ovis is summoned increases its summon duration by 2 seconds.\n(Passive Added) Whenever the summon duration of Ovis is increased, Sfera increases the duration of all debuffs affecting the enemy by 3 seconds. (Cooltime: 3 seconds)",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_25_NAME": {
+        "text": "Ovis's Soul",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_25_DESC": {
+        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her remaining HP per second, but strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_25_NAME": {
+        "text": "Whip Blade",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_25_DESC": {
+        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her remaining HP per second, but strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_25_NAME": {
+        "text": "Snake Fang",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_25_DESC": {
+        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her remaining HP per second, but strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.\n(Passive Enhanced) Echidna's familiar 'Loydie' is strengthened to deal neutral damage equal to 2000% of Echidna's attack power.\n(Passive Added) Upon using her own block after another ally's 3-chain, Echidna summons a 'Serpentine Shadow' that pulls in all enemies within her range. If this passive activates during 'Serpentine Domain,' Echidna immobilizes the enemy for 5 seconds. (Cooltime: 6 seconds)",
+        "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_25_NAME": {
+        "text": "Jörmungandr",
         "version": "4.7.0",
         "original": true
     }

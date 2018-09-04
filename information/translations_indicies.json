@@ -381,7 +381,7 @@
         {
             "key": "TEXT_CHA_AR_6_12_NAME",
             "path": "39.2",
-            "text": "MoonShadow Artair",
+            "text": "MoonShadow Altair",
             "version": "4.7.0",
             "original": true
         },
@@ -2206,8 +2206,15 @@
             "original": true
         },
         {
-            "key": "TEXT_COS_HU_19_20_NAME",
+            "key": "TEXT_COS_EVENT_HU_19_SCHOOLCLUB",
             "path": "125.0",
+            "text": "Calligraphy Club Momotaro",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_HU_19_20_NAME",
+            "path": "125.1",
             "text": "Takoyaki Momotaro",
             "version": "4.7.0",
             "original": true
@@ -3480,8 +3487,15 @@
             "original": true
         },
         {
-            "key": "TEXT_COS_PA_19_19",
+            "key": "TEXT_COS_EVENT_PA_19_SCHOOLCLUB",
             "path": "199.0",
+            "text": "Tennis Club Fenrir",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_PA_19_19",
+            "path": "199.1",
             "text": "Shepherd Fenrir",
             "version": "4.7.0",
             "original": true

@@ -4121,9 +4121,7 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [
-            "portrait_kaguya_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "image": "cos_ar_18_19",
@@ -7919,9 +7917,7 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [
-            "portrait_crow_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "image": "cos_hu_5_10",
@@ -8857,9 +8853,7 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [
-            "portrait_tia_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "image": "cos_hu_13_15",
@@ -9683,6 +9677,14 @@
         ],
         "portraits": [],
         "skins": [
+            {
+                "image": "cos_event_hu_19_schoolclub",
+                "cost": 1000,
+                "name": "TEXT_COS_EVENT_HU_19_SCHOOLCLUB",
+                "stats": {
+                    "atk_power": 100
+                }
+            },
             {
                 "image": "cos_hu_19_20",
                 "cost": 1000,
@@ -15533,9 +15535,7 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [
-            "portrait_captain_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "image": "cos_pa_17_15",
@@ -15804,8 +15804,18 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_fenrir_default"
+        ],
         "skins": [
+            {
+                "image": "cos_event_pa_19_schoolclub",
+                "cost": 1000,
+                "name": "TEXT_COS_EVENT_PA_19_SCHOOLCLUB",
+                "stats": {
+                    "atk_power": 100
+                }
+            },
             {
                 "image": "cos_pa_19_19",
                 "cost": 1000,
@@ -20421,7 +20431,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_faust_default"
+        ],
         "skins": [
             {
                 "image": "cos_pr_16_16",
@@ -26425,9 +26437,7 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [
-            "portrait_victoria_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "image": "cos_wa_13_12",
@@ -26850,7 +26860,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sien_default"
+        ],
         "skins": [
             {
                 "image": "cos_wa_16_16",
@@ -26978,9 +26990,7 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [
-            "portrait_borgos_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "image": "cos_wa_17_20",
@@ -31761,9 +31771,7 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [
-            "portrait_uriel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "image": "cos_wi_13_12",
