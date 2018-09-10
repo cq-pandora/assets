@@ -1,5 +1,6 @@
 [
     {
+        "id": "ADDSTAT_ACC_LEGEND",
         "name": "TEXT_ADDSTAT_ACC_LEGEND",
         "rarity": "legendary",
         "target_stat": "accuracy",
@@ -13,6 +14,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_ACC_LOW",
         "name": "TEXT_ADDSTAT_ACC_LOW",
         "rarity": "common",
         "target_stat": "accuracy",
@@ -26,6 +28,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_ACC_NORMAL",
         "name": "TEXT_ADDSTAT_ACC_NORMAL",
         "rarity": "common",
         "target_stat": "accuracy",
@@ -39,6 +42,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_ACC_PROB",
         "name": "TEXT_ADDSTAT_ACC_PROB",
         "rarity": "common",
         "target_stat": "accuracy",
@@ -52,6 +56,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_ALL_STAT",
         "name": "TEXT_ADDSTAT_ALL_STAT",
         "rarity": "common",
         "target_stat": "all",
@@ -65,6 +70,7 @@
         "eat_cost": 4000
     },
     {
+        "id": "ADDSTAT_ALL_STAT_HERO",
         "name": "TEXT_ADDSTAT_ALL_STAT_HERO",
         "rarity": "epic",
         "target_stat": "all",
@@ -78,6 +84,7 @@
         "eat_cost": 10000
     },
     {
+        "id": "ADDSTAT_ALL_STAT_HIGH",
         "name": "TEXT_ADDSTAT_ALL_STAT_HIGH",
         "rarity": "rare",
         "target_stat": "all",
@@ -91,6 +98,7 @@
         "eat_cost": 6000
     },
     {
+        "id": "ADDSTAT_ARMOR_LEGEND",
         "name": "TEXT_ADDSTAT_ARMOR_LEGEND",
         "rarity": "legendary",
         "target_stat": "armor",
@@ -104,6 +112,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_ARMOR_LOW",
         "name": "TEXT_ADDSTAT_ARMOR_LOW",
         "rarity": "common",
         "target_stat": "armor",
@@ -117,6 +126,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_ARMOR_NORMAL",
         "name": "TEXT_ADDSTAT_ARMOR_NORMAL",
         "rarity": "common",
         "target_stat": "armor",
@@ -130,6 +140,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_ARMOR_PROB",
         "name": "TEXT_ADDSTAT_ARMOR_PROB",
         "rarity": "common",
         "target_stat": "armor",
@@ -143,6 +154,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_ATK_LEGEND",
         "name": "TEXT_ADDSTAT_ATK_LEGEND",
         "rarity": "legendary",
         "target_stat": "atk_power",
@@ -156,6 +168,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_ATK_LOW",
         "name": "TEXT_ADDSTAT_ATK_LOW",
         "rarity": "common",
         "target_stat": "atk_power",
@@ -169,6 +182,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_ATK_NORMAL",
         "name": "TEXT_ADDSTAT_ATK_NORMAL",
         "rarity": "common",
         "target_stat": "atk_power",
@@ -182,6 +196,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_ATK_PROB",
         "name": "TEXT_ADDSTAT_ATK_PROB",
         "rarity": "common",
         "target_stat": "atk_power",
@@ -195,6 +210,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_CRI_DMG_LEGEND",
         "name": "TEXT_ADDSTAT_CRI_DMG_LEGEND",
         "rarity": "legendary",
         "target_stat": "crit_dmg",
@@ -208,6 +224,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_CRI_DMG_LOW",
         "name": "TEXT_ADDSTAT_CRI_DMG_LOW",
         "rarity": "common",
         "target_stat": "crit_dmg",
@@ -221,6 +238,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_CRI_DMG_NORMAL",
         "name": "TEXT_ADDSTAT_CRI_DMG_NORMAL",
         "rarity": "common",
         "target_stat": "crit_dmg",
@@ -234,6 +252,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_CRI_DMG_PROB",
         "name": "TEXT_ADDSTAT_CRI_DMG_PROB",
         "rarity": "common",
         "target_stat": "crit_dmg",
@@ -247,6 +266,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_CRI_LEGEND",
         "name": "TEXT_ADDSTAT_CRI_LEGEND",
         "rarity": "legendary",
         "target_stat": "crit_chance",
@@ -260,6 +280,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_CRI_LOW",
         "name": "TEXT_ADDSTAT_CRI_LOW",
         "rarity": "common",
         "target_stat": "crit_chance",
@@ -273,6 +294,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_CRI_NORMAL",
         "name": "TEXT_ADDSTAT_CRI_NORMAL",
         "rarity": "common",
         "target_stat": "crit_chance",
@@ -286,6 +308,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_CRI_PROB",
         "name": "TEXT_ADDSTAT_CRI_PROB",
         "rarity": "common",
         "target_stat": "crit_chance",
@@ -299,6 +322,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_DODGE_LEGEND",
         "name": "TEXT_ADDSTAT_DODGE_LEGEND",
         "rarity": "legendary",
         "target_stat": "evasion",
@@ -312,6 +336,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_DODGE_LOW",
         "name": "TEXT_ADDSTAT_DODGE_LOW",
         "rarity": "common",
         "target_stat": "evasion",
@@ -325,6 +350,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_DODGE_NORMAL",
         "name": "TEXT_ADDSTAT_DODGE_NORMAL",
         "rarity": "common",
         "target_stat": "evasion",
@@ -338,6 +364,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_DODGE_PROB",
         "name": "TEXT_ADDSTAT_DODGE_PROB",
         "rarity": "common",
         "target_stat": "evasion",
@@ -351,6 +378,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_EVENT_BUGLC",
         "name": "TEXT_ADDSTAT_EVENT_BUGLC_NAME",
         "rarity": "epic",
         "target_stat": "all",
@@ -364,6 +392,7 @@
         "eat_cost": 5000
     },
     {
+        "id": "ADDSTAT_EVENT_DELIGHT",
         "name": "TEXT_ADDSTAT_EVENT_DELIGHT",
         "rarity": "rare",
         "target_stat": "all",
@@ -377,6 +406,7 @@
         "eat_cost": 888
     },
     {
+        "id": "ADDSTAT_EVENT_DESIRE",
         "name": "TEXT_ADDSTAT_EVENT_DESIRE",
         "rarity": "rare",
         "target_stat": "great",
@@ -390,6 +420,7 @@
         "eat_cost": 1004
     },
     {
+        "id": "ADDSTAT_EVENT_GRAPE",
         "name": "TEXT_ADDSTAT_EVENT_GRAPE",
         "rarity": "rare",
         "target_stat": "great",
@@ -403,6 +434,7 @@
         "eat_cost": 888
     },
     {
+        "id": "ADDSTAT_EVENT_LANTERN",
         "name": "TEXT_ADDSTAT_EVENT_LANTERN",
         "rarity": "rare",
         "target_stat": "all",
@@ -416,6 +448,7 @@
         "eat_cost": 1004
     },
     {
+        "id": "ADDSTAT_EVENT_MUSIC",
         "name": "TEXT_ADDSTAT_EVENT_MUSIC",
         "rarity": "rare",
         "target_stat": "great",
@@ -429,6 +462,7 @@
         "eat_cost": 888
     },
     {
+        "id": "ADDSTAT_EVENT_MYSTIC",
         "name": "TEXT_ADDSTAT_EVENT_MYSTIC",
         "rarity": "rare",
         "target_stat": "great",
@@ -442,6 +476,7 @@
         "eat_cost": 1004
     },
     {
+        "id": "ADDSTAT_EVENT_SOULMATES",
         "name": "TEXT_ADDSTAT_EVENT_SOULMATES",
         "rarity": "rare",
         "target_stat": "all",
@@ -455,6 +490,7 @@
         "eat_cost": 1004
     },
     {
+        "id": "ADDSTAT_EVENT_WHEAT",
         "name": "TEXT_ADDSTAT_EVENT_WHEAT",
         "rarity": "rare",
         "target_stat": "all",
@@ -468,6 +504,7 @@
         "eat_cost": 888
     },
     {
+        "id": "ADDSTAT_GREAT_PROB",
         "name": "TEXT_ADDSTAT_GREAT_PROB",
         "rarity": "common",
         "target_stat": "great",
@@ -481,6 +518,7 @@
         "eat_cost": 1000
     },
     {
+        "id": "ADDSTAT_GREAT_PROB_HERO",
         "name": "TEXT_ADDSTAT_GREAT_PROB_HERO",
         "rarity": "rare",
         "target_stat": "great",
@@ -494,6 +532,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_GREAT_PROB_HIGH",
         "name": "TEXT_ADDSTAT_GREAT_PROB_HIGH",
         "rarity": "rare",
         "target_stat": "great",
@@ -507,6 +546,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_HP_LEGEND",
         "name": "TEXT_ADDSTAT_HP_LEGEND",
         "rarity": "legendary",
         "target_stat": "hp",
@@ -520,6 +560,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_HP_LOW",
         "name": "TEXT_ADDSTAT_HP_LOW",
         "rarity": "common",
         "target_stat": "hp",
@@ -533,6 +574,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_HP_NORMAL",
         "name": "TEXT_ADDSTAT_HP_NORMAL",
         "rarity": "common",
         "target_stat": "hp",
@@ -546,6 +588,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_HP_PROB",
         "name": "TEXT_ADDSTAT_HP_PROB",
         "rarity": "common",
         "target_stat": "hp",
@@ -559,6 +602,7 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_RES_LEGEND",
         "name": "TEXT_ADDSTAT_RES_LEGEND",
         "rarity": "legendary",
         "target_stat": "resistance",
@@ -572,6 +616,7 @@
         "eat_cost": 0
     },
     {
+        "id": "ADDSTAT_RES_LOW",
         "name": "TEXT_ADDSTAT_RES_LOW",
         "rarity": "common",
         "target_stat": "resistance",
@@ -585,6 +630,7 @@
         "eat_cost": 500
     },
     {
+        "id": "ADDSTAT_RES_NORMAL",
         "name": "TEXT_ADDSTAT_RES_NORMAL",
         "rarity": "common",
         "target_stat": "resistance",
@@ -598,6 +644,7 @@
         "eat_cost": 1500
     },
     {
+        "id": "ADDSTAT_RES_PROB",
         "name": "TEXT_ADDSTAT_RES_PROB",
         "rarity": "common",
         "target_stat": "resistance",

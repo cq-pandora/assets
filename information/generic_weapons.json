@@ -1,5 +1,6 @@
 [
     {
+        "id": "WEP_LEGEND_BO_CHA_4_1",
         "name": "TEXT_WEP_BO_S4_1_NAME",
         "image": "bo_s4_01",
         "ability": "TEXT_EXCLUSIVE_AR_4_1",
@@ -11,6 +12,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_10",
         "name": "TEXT_WEP_BO_S4_10_NAME",
         "image": "bo_s4_10",
         "ability": "TEXT_EXCLUSIVE_AR_4_10",
@@ -22,6 +24,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_11",
         "name": "TEXT_WEP_BO_S4_11_NAME",
         "image": "bo_s4_11",
         "ability": "TEXT_EXCLUSIVE_AR_4_11",
@@ -33,6 +36,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_12",
         "name": "TEXT_WEP_BO_S4_12_NAME",
         "image": "bo_s4_12",
         "ability": "TEXT_EXCLUSIVE_AR_4_12",
@@ -44,6 +48,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_13",
         "name": "TEXT_WEP_BO_S4_13_NAME",
         "image": "bo_s4_13",
         "ability": "TEXT_EXCLUSIVE_AR_4_13",
@@ -55,6 +60,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_14",
         "name": "TEXT_WEP_BO_S4_14_NAME",
         "image": "bo_s4_14",
         "ability": "TEXT_EXCLUSIVE_AR_4_14",
@@ -66,6 +72,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_15",
         "name": "TEXT_WEP_BO_S4_15_NAME",
         "image": "bo_s4_15",
         "ability": "TEXT_EXCLUSIVE_AR_4_15",
@@ -77,6 +84,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_16",
         "name": "TEXT_WEP_BO_S4_16_NAME",
         "image": "bo_s4_16",
         "ability": "TEXT_EXCLUSIVE_AR_4_16",
@@ -88,6 +96,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_17",
         "name": "TEXT_WEP_BO_S4_17_NAME",
         "image": "bo_s4_17",
         "ability": "TEXT_EXCLUSIVE_AR_4_17",
@@ -99,6 +108,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_18",
         "name": "TEXT_WEP_BO_S4_18_NAME",
         "image": "bo_s4_18",
         "ability": "TEXT_EXCLUSIVE_BO_4_18",
@@ -110,6 +120,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_19",
         "name": "TEXT_WEP_BO_S4_19_NAME",
         "image": "bo_s4_19",
         "ability": "TEXT_EXCLUSIVE_BO_4_19",
@@ -121,6 +132,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_2",
         "name": "TEXT_WEP_BO_S4_2_NAME",
         "image": "bo_s4_02",
         "ability": "TEXT_EXCLUSIVE_AR_4_2",
@@ -132,6 +144,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_20",
         "name": "TEXT_WEP_BO_S4_20_NAME",
         "image": "bo_s4_20",
         "ability": "TEXT_EXCLUSIVE_BO_4_20",
@@ -143,6 +156,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_21",
         "name": "TEXT_WEP_BO_S4_21_NAME",
         "image": "bo_s4_21",
         "ability": "TEXT_EXCLUSIVE_BO_4_21",
@@ -154,6 +168,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_22",
         "name": "TEXT_WEP_LEGEND_BO_CHA_4_22_NAME",
         "image": "ar_s4_22",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_4_22_DESC",
@@ -165,6 +180,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_23",
         "name": "TEXT_WEP_LEGEND_BO_CHA_4_23_NAME",
         "image": "bo_s4_23",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_4_23_DESC",
@@ -176,6 +192,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_BO_CHA_4_24_NAME",
         "image": "bo_s4_24",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_4_24_DESC",
@@ -187,6 +204,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_3",
         "name": "TEXT_WEP_BO_S4_3_NAME",
         "image": "bo_s4_03",
         "ability": "TEXT_EXCLUSIVE_AR_4_3",
@@ -198,6 +216,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_4",
         "name": "TEXT_WEP_BO_S4_4_NAME",
         "image": "bo_s4_04",
         "ability": "TEXT_EXCLUSIVE_AR_4_4",
@@ -209,6 +228,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_5",
         "name": "TEXT_WEP_BO_S4_5_NAME",
         "image": "bo_s4_05",
         "ability": "TEXT_EXCLUSIVE_AR_4_5",
@@ -220,6 +240,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_6",
         "name": "TEXT_WEP_BO_S4_6_NAME",
         "image": "bo_s4_06",
         "ability": "TEXT_EXCLUSIVE_AR_4_6",
@@ -231,6 +252,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_7",
         "name": "TEXT_WEP_BO_S4_7_NAME",
         "image": "bo_s4_07",
         "ability": "TEXT_EXCLUSIVE_AR_4_7",
@@ -242,6 +264,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_8",
         "name": "TEXT_WEP_BO_S4_8_NAME",
         "image": "bo_s4_08",
         "ability": "TEXT_EXCLUSIVE_AR_4_8",
@@ -253,6 +276,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_9",
         "name": "TEXT_WEP_BO_S4_9_NAME",
         "image": "bo_s4_09",
         "ability": "TEXT_EXCLUSIVE_AR_4_9",
@@ -264,6 +288,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_1",
         "name": "TEXT_WEP_BO_S5_1_NAME",
         "image": "bo_s5_01",
         "ability": "TEXT_EXCLUSIVE_AR_4_1",
@@ -275,6 +300,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_10",
         "name": "TEXT_WEP_BO_S5_10_NAME",
         "image": "bo_s5_10",
         "ability": "TEXT_EXCLUSIVE_AR_4_10",
@@ -286,6 +312,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_11",
         "name": "TEXT_WEP_BO_S5_11_NAME",
         "image": "bo_s5_11",
         "ability": "TEXT_EXCLUSIVE_AR_4_11",
@@ -297,6 +324,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_12",
         "name": "TEXT_WEP_BO_S5_12_NAME",
         "image": "bo_s5_12",
         "ability": "TEXT_EXCLUSIVE_AR_4_12",
@@ -308,6 +336,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_13",
         "name": "TEXT_WEP_BO_S5_13_NAME",
         "image": "bo_s5_13",
         "ability": "TEXT_EXCLUSIVE_AR_4_13",
@@ -319,6 +348,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_14",
         "name": "TEXT_WEP_BO_S5_14_NAME",
         "image": "bo_s5_14",
         "ability": "TEXT_EXCLUSIVE_AR_4_14",
@@ -330,6 +360,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_15",
         "name": "TEXT_WEP_BO_S5_15_NAME",
         "image": "bo_s5_15",
         "ability": "TEXT_EXCLUSIVE_AR_4_15",
@@ -341,6 +372,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_16",
         "name": "TEXT_WEP_BO_S5_16_NAME",
         "image": "bo_s5_16",
         "ability": "TEXT_EXCLUSIVE_AR_4_16",
@@ -352,6 +384,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_17",
         "name": "TEXT_WEP_BO_S5_17_NAME",
         "image": "bo_s5_17",
         "ability": "TEXT_EXCLUSIVE_AR_4_17",
@@ -363,6 +396,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_18",
         "name": "TEXT_WEP_BO_S5_18_NAME",
         "image": "bo_s5_18",
         "ability": "TEXT_EXCLUSIVE_BO_5_18",
@@ -374,6 +408,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_19",
         "name": "TEXT_WEP_BO_S5_19_NAME",
         "image": "bo_s5_19",
         "ability": "TEXT_EXCLUSIVE_BO_5_19",
@@ -385,6 +420,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_2",
         "name": "TEXT_WEP_BO_S5_2_NAME",
         "image": "bo_s5_02",
         "ability": "TEXT_EXCLUSIVE_AR_4_2",
@@ -396,6 +432,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_20",
         "name": "TEXT_WEP_BO_S5_20_NAME",
         "image": "bo_s5_20",
         "ability": "TEXT_EXCLUSIVE_BO_5_20",
@@ -407,6 +444,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_21",
         "name": "TEXT_WEP_BO_S5_21_NAME",
         "image": "bo_s5_21",
         "ability": "TEXT_EXCLUSIVE_BO_5_21",
@@ -418,6 +456,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_22",
         "name": "TEXT_WEP_LEGEND_BO_CHA_5_22_NAME",
         "image": "ar_s5_22",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_5_22_DESC",
@@ -429,6 +468,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_23",
         "name": "TEXT_WEP_LEGEND_BO_CHA_5_23_NAME",
         "image": "bo_s5_23",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_5_23_DESC",
@@ -440,6 +480,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_BO_CHA_5_24_NAME",
         "image": "bo_s5_24",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_5_24_DESC",
@@ -451,6 +492,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_3",
         "name": "TEXT_WEP_BO_S5_3_NAME",
         "image": "bo_s5_03",
         "ability": "TEXT_EXCLUSIVE_AR_4_3",
@@ -462,6 +504,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_4",
         "name": "TEXT_WEP_BO_S5_4_NAME",
         "image": "bo_s5_04",
         "ability": "TEXT_EXCLUSIVE_AR_4_4",
@@ -473,6 +516,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_5",
         "name": "TEXT_WEP_BO_S5_5_NAME",
         "image": "bo_s5_05",
         "ability": "TEXT_EXCLUSIVE_AR_4_5",
@@ -484,6 +528,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_6",
         "name": "TEXT_WEP_BO_S5_6_NAME",
         "image": "bo_s5_06",
         "ability": "TEXT_EXCLUSIVE_AR_4_6",
@@ -495,6 +540,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_7",
         "name": "TEXT_WEP_BO_S5_7_NAME",
         "image": "bo_s5_07",
         "ability": "TEXT_EXCLUSIVE_AR_4_7",
@@ -506,6 +552,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_8",
         "name": "TEXT_WEP_BO_S5_8_NAME",
         "image": "bo_s5_08",
         "ability": "TEXT_EXCLUSIVE_AR_4_8",
@@ -517,6 +564,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_9",
         "name": "TEXT_WEP_BO_S5_9_NAME",
         "image": "bo_s5_09",
         "ability": "TEXT_EXCLUSIVE_AR_4_9",
@@ -528,6 +576,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_1",
         "name": "TEXT_WEP_BO_S6_1_NAME",
         "image": "bo_s6_01",
         "ability": "TEXT_EXCLUSIVE_AR_6_1",
@@ -539,6 +588,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_10",
         "name": "TEXT_WEP_BO_S6_10_NAME",
         "image": "bo_s6_10",
         "ability": "TEXT_EXCLUSIVE_AR_6_10",
@@ -550,6 +600,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_11",
         "name": "TEXT_WEP_BO_S6_11_NAME",
         "image": "bo_s6_11",
         "ability": "TEXT_EXCLUSIVE_AR_6_11",
@@ -561,6 +612,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_12",
         "name": "TEXT_WEP_BO_S6_12_NAME",
         "image": "bo_s6_12",
         "ability": "TEXT_EXCLUSIVE_AR_6_12",
@@ -572,6 +624,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_13",
         "name": "TEXT_WEP_BO_S6_13_NAME",
         "image": "bo_s6_13",
         "ability": "TEXT_EXCLUSIVE_AR_6_13",
@@ -583,6 +636,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_14",
         "name": "TEXT_WEP_BO_S6_14_NAME",
         "image": "bo_s6_14",
         "ability": "TEXT_EXCLUSIVE_AR_6_14",
@@ -594,6 +648,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_15",
         "name": "TEXT_WEP_BO_S6_15_NAME",
         "image": "bo_s6_15",
         "ability": "TEXT_EXCLUSIVE_AR_6_15",
@@ -605,6 +660,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_16",
         "name": "TEXT_WEP_BO_S6_16_NAME",
         "image": "bo_s6_16",
         "ability": "TEXT_EXCLUSIVE_AR_6_16",
@@ -616,6 +672,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_17",
         "name": "TEXT_WEP_BO_S6_17_NAME",
         "image": "bo_s6_17",
         "ability": "TEXT_EXCLUSIVE_AR_6_17",
@@ -627,6 +684,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_18",
         "name": "TEXT_WEP_BO_S6_18_NAME",
         "image": "bo_s6_18",
         "ability": "TEXT_EXCLUSIVE_BO_6_18",
@@ -638,6 +696,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_19",
         "name": "TEXT_WEP_BO_S6_19_NAME",
         "image": "bo_s6_19",
         "ability": "TEXT_EXCLUSIVE_BO_6_19",
@@ -649,6 +708,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_2",
         "name": "TEXT_WEP_BO_S6_2_NAME",
         "image": "bo_s6_02",
         "ability": "TEXT_EXCLUSIVE_AR_6_2",
@@ -660,6 +720,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_20",
         "name": "TEXT_WEP_BO_S6_20_NAME",
         "image": "bo_s6_20",
         "ability": "TEXT_EXCLUSIVE_BO_6_20",
@@ -671,6 +732,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_21",
         "name": "TEXT_WEP_BO_S6_21_NAME",
         "image": "bo_s6_21",
         "ability": "TEXT_EXCLUSIVE_BO_6_21",
@@ -682,6 +744,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_22",
         "name": "TEXT_WEP_LEGEND_BO_CHA_6_22_NAME",
         "image": "ar_s6_22",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_6_22_DESC",
@@ -693,6 +756,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_23",
         "name": "TEXT_WEP_LEGEND_BO_CHA_6_23_NAME",
         "image": "bo_s6_23",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_6_23_DESC",
@@ -704,6 +768,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_BO_CHA_6_24_NAME",
         "image": "bo_s6_24",
         "ability": "TEXT_WEP_LEGEND_BO_CHA_6_24_DESC",
@@ -715,6 +780,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_3",
         "name": "TEXT_WEP_BO_S6_3_NAME",
         "image": "bo_s6_03",
         "ability": "TEXT_EXCLUSIVE_AR_6_3",
@@ -726,6 +792,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_4",
         "name": "TEXT_WEP_BO_S6_4_NAME",
         "image": "bo_s6_04",
         "ability": "TEXT_EXCLUSIVE_AR_6_4",
@@ -737,6 +804,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_5",
         "name": "TEXT_WEP_BO_S6_5_NAME",
         "image": "bo_s6_05",
         "ability": "TEXT_EXCLUSIVE_AR_6_5",
@@ -748,6 +816,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_6",
         "name": "TEXT_WEP_BO_S6_6_NAME",
         "image": "bo_s6_06",
         "ability": "TEXT_EXCLUSIVE_AR_6_6",
@@ -759,6 +828,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_7",
         "name": "TEXT_WEP_BO_S6_7_NAME",
         "image": "bo_s6_07",
         "ability": "TEXT_EXCLUSIVE_AR_6_7",
@@ -770,6 +840,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_8",
         "name": "TEXT_WEP_BO_S6_8_NAME",
         "image": "bo_s6_08",
         "ability": "TEXT_EXCLUSIVE_AR_6_8",
@@ -781,6 +852,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_6_9",
         "name": "TEXT_WEP_BO_S6_9_NAME",
         "image": "bo_s6_09",
         "ability": "TEXT_EXCLUSIVE_AR_6_9",
@@ -792,6 +864,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_LIMITED_4_1",
         "name": "TEXT_WEP_BO_LIMITED_4_1_NAME",
         "image": "bo_limited_4_01",
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_4_1",
@@ -803,6 +876,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_LIMITED_5_1",
         "name": "TEXT_WEP_BO_LIMITED_5_1_NAME",
         "image": "bo_limited_5_01",
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_4_1",
@@ -814,6 +888,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_LIMITED_6_1",
         "name": "TEXT_WEP_BO_LIMITED_6_1_NAME",
         "image": "bo_limited_6_01",
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_6_1",
@@ -825,6 +900,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_GG_CHA_4_1",
         "name": "TEXT_WEP_BO_LIMITED_GG_4_1_NAME",
         "image": "bo_limited_gg_chipp_6",
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_GG_4_1",
@@ -836,6 +912,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_GG_CHA_5_1",
         "name": "TEXT_WEP_BO_LIMITED_GG_5_1_NAME",
         "image": "bo_limited_gg_chipp_6",
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_GG_4_1",
@@ -847,6 +924,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_GG_CHA_6_1",
         "name": "TEXT_WEP_BO_LIMITED_GG_6_1_NAME",
         "image": "bo_limited_gg_chipp_6",
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_GG_6_1",
@@ -858,6 +936,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_KOF_MAI_4",
         "name": "TEXT_WEP_LEGEND_BO_KOF_MAI_NAME",
         "image": "bo_limited_kof_mai",
         "ability": "TEXT_EXCLUSIVE_BO_LIMITED_KOF_MAI_4",
@@ -869,6 +948,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_KOF_MAI_5",
         "name": "TEXT_WEP_LEGEND_BO_KOF_MAI_NAME",
         "image": "bo_limited_kof_mai",
         "ability": "TEXT_EXCLUSIVE_BO_LIMITED_KOF_MAI_4",
@@ -880,6 +960,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_BO_KOF_MAI_6",
         "name": "TEXT_WEP_LEGEND_BO_KOF_MAI_NAME",
         "image": "bo_limited_kof_mai",
         "ability": "TEXT_EXCLUSIVE_BO_LIMITED_KOF_MAI_6",
@@ -891,6 +972,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_1",
         "name": "TEXT_WEP_GU_S4_1_NAME",
         "image": "gu_s4_01",
         "ability": "TEXT_EXCLUSIVE_HU_4_1",
@@ -902,6 +984,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_10",
         "name": "TEXT_WEP_GU_S4_10_NAME",
         "image": "gu_s4_10",
         "ability": "TEXT_EXCLUSIVE_HU_4_10",
@@ -913,6 +996,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_11",
         "name": "TEXT_WEP_GU_S4_11_NAME",
         "image": "gu_s4_11",
         "ability": "TEXT_EXCLUSIVE_HU_4_11",
@@ -924,6 +1008,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_12",
         "name": "TEXT_WEP_GU_S4_12_NAME",
         "image": "gu_s4_12",
         "ability": "TEXT_EXCLUSIVE_HU_4_12",
@@ -935,6 +1020,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_13",
         "name": "TEXT_WEP_GU_S4_13_NAME",
         "image": "gu_s4_13",
         "ability": "TEXT_EXCLUSIVE_HU_4_13",
@@ -946,6 +1032,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_14",
         "name": "TEXT_WEP_GU_S4_14_NAME",
         "image": "gu_s4_14",
         "ability": "TEXT_EXCLUSIVE_HU_4_14",
@@ -957,6 +1044,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_15",
         "name": "TEXT_WEP_GU_S4_15_NAME",
         "image": "gu_s4_15",
         "ability": "TEXT_EXCLUSIVE_HU_4_15",
@@ -968,6 +1056,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_16",
         "name": "TEXT_WEP_GU_S4_16_NAME",
         "image": "gu_s4_16",
         "ability": "TEXT_EXCLUSIVE_HU_4_16",
@@ -979,6 +1068,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_17",
         "name": "TEXT_WEP_GU_S4_17_NAME",
         "image": "gu_s4_17",
         "ability": "TEXT_EXCLUSIVE_HU_4_17",
@@ -990,6 +1080,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_18",
         "name": "TEXT_WEP_GU_S4_18_NAME",
         "image": "gu_s4_18",
         "ability": "TEXT_EXCLUSIVE_GU_4_18",
@@ -1001,6 +1092,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_19",
         "name": "TEXT_WEP_GU_S4_19_NAME",
         "image": "gu_s4_19",
         "ability": "TEXT_EXCLUSIVE_GU_4_19",
@@ -1012,6 +1104,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_2",
         "name": "TEXT_WEP_GU_S4_2_NAME",
         "image": "gu_s4_02",
         "ability": "TEXT_EXCLUSIVE_HU_4_2",
@@ -1023,6 +1116,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_20",
         "name": "TEXT_WEP_GU_S4_20_NAME",
         "image": "gu_s4_20",
         "ability": "TEXT_EXCLUSIVE_GU_4_20",
@@ -1034,6 +1128,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_21",
         "name": "TEXT_WEP_GU_S4_21_NAME",
         "image": "gu_s4_21",
         "ability": "TEXT_EXCLUSIVE_GU_4_21",
@@ -1045,6 +1140,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_22",
         "name": "TEXT_WEP_LEGEND_GU_CHA_4_22_NAME",
         "image": "gu_s4_22",
         "ability": "TEXT_WEP_LEGEND_GU_CHA_4_22_DESC",
@@ -1056,6 +1152,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_GU_CHA_4_24_NAME",
         "image": "gu_s4_24",
         "ability": "TEXT_WEP_LEGEND_GU_CHA_4_24_DESC",
@@ -1067,6 +1164,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_3",
         "name": "TEXT_WEP_GU_S4_3_NAME",
         "image": "gu_s4_03",
         "ability": "TEXT_EXCLUSIVE_HU_4_3",
@@ -1078,6 +1176,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_4",
         "name": "TEXT_WEP_GU_S4_4_NAME",
         "image": "gu_s4_04",
         "ability": "TEXT_EXCLUSIVE_HU_4_4",
@@ -1089,6 +1188,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_5",
         "name": "TEXT_WEP_GU_S4_5_NAME",
         "image": "gu_s4_05",
         "ability": "TEXT_EXCLUSIVE_HU_4_5",
@@ -1100,6 +1200,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_6",
         "name": "TEXT_WEP_GU_S4_6_NAME",
         "image": "gu_s4_06",
         "ability": "TEXT_EXCLUSIVE_HU_4_6",
@@ -1111,6 +1212,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_7",
         "name": "TEXT_WEP_GU_S4_7_NAME",
         "image": "gu_s4_07",
         "ability": "TEXT_EXCLUSIVE_HU_4_7",
@@ -1122,6 +1224,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_8",
         "name": "TEXT_WEP_GU_S4_8_NAME",
         "image": "gu_s4_08",
         "ability": "TEXT_EXCLUSIVE_HU_4_8",
@@ -1133,6 +1236,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_9",
         "name": "TEXT_WEP_GU_S4_9_NAME",
         "image": "gu_s4_09",
         "ability": "TEXT_EXCLUSIVE_HU_4_9",
@@ -1144,6 +1248,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_1",
         "name": "TEXT_WEP_GU_S5_1_NAME",
         "image": "gu_s5_01",
         "ability": "TEXT_EXCLUSIVE_HU_4_1",
@@ -1155,6 +1260,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_10",
         "name": "TEXT_WEP_GU_S5_10_NAME",
         "image": "gu_s5_10",
         "ability": "TEXT_EXCLUSIVE_HU_4_10",
@@ -1166,6 +1272,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_11",
         "name": "TEXT_WEP_GU_S5_11_NAME",
         "image": "gu_s5_11",
         "ability": "TEXT_EXCLUSIVE_HU_4_11",
@@ -1177,6 +1284,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_12",
         "name": "TEXT_WEP_GU_S5_12_NAME",
         "image": "gu_s5_12",
         "ability": "TEXT_EXCLUSIVE_HU_4_12",
@@ -1188,6 +1296,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_13",
         "name": "TEXT_WEP_GU_S5_13_NAME",
         "image": "gu_s5_13",
         "ability": "TEXT_EXCLUSIVE_HU_4_13",
@@ -1199,6 +1308,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_14",
         "name": "TEXT_WEP_GU_S5_14_NAME",
         "image": "gu_s5_14",
         "ability": "TEXT_EXCLUSIVE_HU_4_14",
@@ -1210,6 +1320,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_15",
         "name": "TEXT_WEP_GU_S5_15_NAME",
         "image": "gu_s5_15",
         "ability": "TEXT_EXCLUSIVE_HU_4_15",
@@ -1221,6 +1332,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_16",
         "name": "TEXT_WEP_GU_S5_16_NAME",
         "image": "gu_s5_16",
         "ability": "TEXT_EXCLUSIVE_HU_4_16",
@@ -1232,6 +1344,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_17",
         "name": "TEXT_WEP_GU_S5_17_NAME",
         "image": "gu_s5_17",
         "ability": "TEXT_EXCLUSIVE_HU_4_17",
@@ -1243,6 +1356,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_18",
         "name": "TEXT_WEP_GU_S5_18_NAME",
         "image": "gu_s5_18",
         "ability": "TEXT_EXCLUSIVE_GU_5_18",
@@ -1254,6 +1368,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_19",
         "name": "TEXT_WEP_GU_S5_19_NAME",
         "image": "gu_s5_19",
         "ability": "TEXT_EXCLUSIVE_GU_5_19",
@@ -1265,6 +1380,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_2",
         "name": "TEXT_WEP_GU_S5_2_NAME",
         "image": "gu_s5_02",
         "ability": "TEXT_EXCLUSIVE_HU_4_2",
@@ -1276,6 +1392,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_20",
         "name": "TEXT_WEP_GU_S5_20_NAME",
         "image": "gu_s5_20",
         "ability": "TEXT_EXCLUSIVE_GU_5_20",
@@ -1287,6 +1404,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_21",
         "name": "TEXT_WEP_GU_S5_21_NAME",
         "image": "gu_s5_21",
         "ability": "TEXT_EXCLUSIVE_GU_5_21",
@@ -1298,6 +1416,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_22",
         "name": "TEXT_WEP_LEGEND_GU_CHA_5_22_NAME",
         "image": "gu_s5_22",
         "ability": "TEXT_WEP_LEGEND_GU_CHA_5_22_DESC",
@@ -1309,6 +1428,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_GU_CHA_5_24_NAME",
         "image": "gu_s5_24",
         "ability": "TEXT_WEP_LEGEND_GU_CHA_5_24_DESC",
@@ -1320,6 +1440,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_3",
         "name": "TEXT_WEP_GU_S5_3_NAME",
         "image": "gu_s5_03",
         "ability": "TEXT_EXCLUSIVE_HU_4_3",
@@ -1331,6 +1452,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_4",
         "name": "TEXT_WEP_GU_S5_4_NAME",
         "image": "gu_s5_04",
         "ability": "TEXT_EXCLUSIVE_HU_4_4",
@@ -1342,6 +1464,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_5",
         "name": "TEXT_WEP_GU_S5_5_NAME",
         "image": "gu_s5_05",
         "ability": "TEXT_EXCLUSIVE_HU_4_5",
@@ -1353,6 +1476,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_6",
         "name": "TEXT_WEP_GU_S5_6_NAME",
         "image": "gu_s5_06",
         "ability": "TEXT_EXCLUSIVE_HU_4_6",
@@ -1364,6 +1488,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_7",
         "name": "TEXT_WEP_GU_S5_7_NAME",
         "image": "gu_s5_07",
         "ability": "TEXT_EXCLUSIVE_HU_4_7",
@@ -1375,6 +1500,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_8",
         "name": "TEXT_WEP_GU_S5_8_NAME",
         "image": "gu_s5_08",
         "ability": "TEXT_EXCLUSIVE_HU_4_8",
@@ -1386,6 +1512,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_9",
         "name": "TEXT_WEP_GU_S5_9_NAME",
         "image": "gu_s5_09",
         "ability": "TEXT_EXCLUSIVE_HU_4_9",
@@ -1397,6 +1524,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_1",
         "name": "TEXT_WEP_GU_S6_1_NAME",
         "image": "gu_s6_01",
         "ability": "TEXT_EXCLUSIVE_HU_6_1",
@@ -1408,6 +1536,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_10",
         "name": "TEXT_WEP_GU_S6_10_NAME",
         "image": "gu_s6_10",
         "ability": "TEXT_EXCLUSIVE_HU_6_10",
@@ -1419,6 +1548,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_11",
         "name": "TEXT_WEP_GU_S6_11_NAME",
         "image": "gu_s6_11",
         "ability": "TEXT_EXCLUSIVE_HU_6_11",
@@ -1430,6 +1560,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_12",
         "name": "TEXT_WEP_GU_S6_12_NAME",
         "image": "gu_s6_12",
         "ability": "TEXT_EXCLUSIVE_HU_6_12",
@@ -1441,6 +1572,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_13",
         "name": "TEXT_WEP_GU_S6_13_NAME",
         "image": "gu_s6_13",
         "ability": "TEXT_EXCLUSIVE_HU_6_13",
@@ -1452,6 +1584,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_14",
         "name": "TEXT_WEP_GU_S6_14_NAME",
         "image": "gu_s6_14",
         "ability": "TEXT_EXCLUSIVE_HU_6_14",
@@ -1463,6 +1596,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_15",
         "name": "TEXT_WEP_GU_S6_15_NAME",
         "image": "gu_s6_15",
         "ability": "TEXT_EXCLUSIVE_HU_6_15",
@@ -1474,6 +1608,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_16",
         "name": "TEXT_WEP_GU_S6_16_NAME",
         "image": "gu_s6_16",
         "ability": "TEXT_EXCLUSIVE_HU_6_16",
@@ -1485,6 +1620,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_17",
         "name": "TEXT_WEP_GU_S6_17_NAME",
         "image": "gu_s6_17",
         "ability": "TEXT_EXCLUSIVE_HU_6_17",
@@ -1496,6 +1632,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_18",
         "name": "TEXT_WEP_GU_S6_18_NAME",
         "image": "gu_s6_18",
         "ability": "TEXT_EXCLUSIVE_GU_6_18",
@@ -1507,6 +1644,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_19",
         "name": "TEXT_WEP_GU_S6_19_NAME",
         "image": "gu_s6_19",
         "ability": "TEXT_EXCLUSIVE_GU_6_19",
@@ -1518,6 +1656,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_2",
         "name": "TEXT_WEP_GU_S6_2_NAME",
         "image": "gu_s6_02",
         "ability": "TEXT_EXCLUSIVE_HU_6_2",
@@ -1529,6 +1668,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_20",
         "name": "TEXT_WEP_GU_S6_20_NAME",
         "image": "gu_s6_20",
         "ability": "TEXT_EXCLUSIVE_GU_6_20",
@@ -1540,6 +1680,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_21",
         "name": "TEXT_WEP_GU_S6_21_NAME",
         "image": "gu_s6_21",
         "ability": "TEXT_EXCLUSIVE_GU_6_21",
@@ -1551,6 +1692,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_22",
         "name": "TEXT_WEP_LEGEND_GU_CHA_6_22_NAME",
         "image": "gu_s6_22",
         "ability": "TEXT_WEP_LEGEND_GU_CHA_6_22_DESC",
@@ -1562,6 +1704,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_GU_CHA_6_24_NAME",
         "image": "gu_s6_24",
         "ability": "TEXT_WEP_LEGEND_GU_CHA_6_24_DESC",
@@ -1573,6 +1716,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_3",
         "name": "TEXT_WEP_GU_S6_3_NAME",
         "image": "gu_s6_03",
         "ability": "TEXT_EXCLUSIVE_HU_6_3",
@@ -1584,6 +1728,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_4",
         "name": "TEXT_WEP_GU_S6_4_NAME",
         "image": "gu_s6_04",
         "ability": "TEXT_EXCLUSIVE_HU_6_4",
@@ -1595,6 +1740,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_5",
         "name": "TEXT_WEP_GU_S6_5_NAME",
         "image": "gu_s6_05",
         "ability": "TEXT_EXCLUSIVE_HU_6_5",
@@ -1606,6 +1752,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_6",
         "name": "TEXT_WEP_GU_S6_6_NAME",
         "image": "gu_s6_06",
         "ability": "TEXT_EXCLUSIVE_HU_6_6",
@@ -1617,6 +1764,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_7",
         "name": "TEXT_WEP_GU_S6_7_NAME",
         "image": "gu_s6_07",
         "ability": "TEXT_EXCLUSIVE_HU_6_7",
@@ -1628,6 +1776,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_8",
         "name": "TEXT_WEP_GU_S6_8_NAME",
         "image": "gu_s6_08",
         "ability": "TEXT_EXCLUSIVE_HU_6_8",
@@ -1639,6 +1788,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_6_9",
         "name": "TEXT_WEP_GU_S6_9_NAME",
         "image": "gu_s6_09",
         "ability": "TEXT_EXCLUSIVE_HU_6_9",
@@ -1650,6 +1800,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_4_1",
         "name": "TEXT_WEP_GU_ARMOR_S4_1_NAME",
         "image": "gu_limited_armor_nio_4",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_4_1",
@@ -1661,6 +1812,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_4_2",
         "name": "TEXT_WEP_GU_ARMOR_S4_2_NAME",
         "image": "gu_limited_armor_leila_4",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_4_2",
@@ -1672,6 +1824,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_4_3",
         "name": "TEXT_WEP_GU_ARMOR_S4_3_NAME",
         "image": "gu_limited_armor_mel_4",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_4_3",
@@ -1683,6 +1836,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_5_1",
         "name": "TEXT_WEP_GU_ARMOR_S5_1_NAME",
         "image": "gu_limited_armor_nio_5",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_4_1",
@@ -1694,6 +1848,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_5_2",
         "name": "TEXT_WEP_GU_ARMOR_S5_2_NAME",
         "image": "gu_limited_armor_leila_5",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_4_2",
@@ -1705,6 +1860,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_5_3",
         "name": "TEXT_WEP_GU_ARMOR_S5_3_NAME",
         "image": "gu_limited_armor_mel_5",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_4_3",
@@ -1716,6 +1872,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_6_1",
         "name": "TEXT_WEP_GU_ARMOR_S6_1_NAME",
         "image": "gu_limited_armor_nio_6",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_6_1",
@@ -1727,6 +1884,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_6_2",
         "name": "TEXT_WEP_GU_ARMOR_S6_2_NAME",
         "image": "gu_limited_armor_leila_6",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_6_2",
@@ -1738,6 +1896,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_ARMOR_6_3",
         "name": "TEXT_WEP_GU_ARMOR_S6_3_NAME",
         "image": "gu_limited_armor_mel_6",
         "ability": "TEXT_EXCLUSIVE_GU_ARMOR_6_3",
@@ -1749,6 +1908,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_GG_CHA_4_1",
         "name": "TEXT_WEP_GU_LIMITED_4_1_NAME",
         "image": "gu_limited_gg_elphelt_4",
         "ability": "TEXT_EXCLUSIVE_HU_LIMITED_GG_4_1",
@@ -1760,6 +1920,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_GG_CHA_5_1",
         "name": "TEXT_WEP_GU_LIMITED_5_1_NAME",
         "image": "gu_limited_gg_elphelt_5",
         "ability": "TEXT_EXCLUSIVE_HU_LIMITED_GG_4_1",
@@ -1771,6 +1932,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_GG_CHA_6_1",
         "name": "TEXT_WEP_GU_LIMITED_6_1_NAME",
         "image": "gu_limited_gg_elphelt_6",
         "ability": "TEXT_EXCLUSIVE_HU_LIMITED_GG_6_1",
@@ -1782,6 +1944,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_KOF_LEONA_4",
         "name": "TEXT_WEP_LEGEND_GU_KOF_LEONA_NAME",
         "image": "gu_limited_kof_leona",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_KOF_LEONA_4",
@@ -1793,6 +1956,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_KOF_LEONA_5",
         "name": "TEXT_WEP_LEGEND_GU_KOF_LEONA_NAME",
         "image": "gu_limited_kof_leona",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_KOF_LEONA_4",
@@ -1804,6 +1968,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_KOF_LEONA_6",
         "name": "TEXT_WEP_LEGEND_GU_KOF_LEONA_NAME",
         "image": "gu_limited_kof_leona",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_KOF_LEONA_6",
@@ -1815,6 +1980,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_RB_NORA_4",
         "name": "TEXT_WEP_LEGEND_GU_RB_NORA_NAME",
         "image": "gu_limited_rb_nora_gun",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_RB_NORA_4",
@@ -1826,6 +1992,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_RB_NORA_5",
         "name": "TEXT_WEP_LEGEND_GU_RB_NORA_NAME",
         "image": "gu_limited_rb_nora_gun",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_RB_NORA_4",
@@ -1837,6 +2004,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_RB_NORA_6",
         "name": "TEXT_WEP_LEGEND_GU_RB_NORA_NAME",
         "image": "gu_limited_rb_nora_gun",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_RB_NORA_6",
@@ -1848,6 +2016,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_RB_RUBY_4",
         "name": "TEXT_WEP_LEGEND_GU_RB_RUBY_NAME",
         "image": "gu_limited_rb_ruby",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_RB_RUBY_4",
@@ -1859,6 +2028,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_RB_RUBY_5",
         "name": "TEXT_WEP_LEGEND_GU_RB_RUBY_NAME",
         "image": "gu_limited_rb_ruby",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_RB_RUBY_4",
@@ -1870,6 +2040,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_RB_RUBY_6",
         "name": "TEXT_WEP_LEGEND_GU_RB_RUBY_NAME",
         "image": "gu_limited_rb_ruby",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_RB_RUBY_6",
@@ -1881,6 +2052,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_YS8_HUMMEL_4",
         "name": "TEXT_WEP_LEGEND_GU_YS8_HUMMEL_NAME",
         "image": "gu_limited_ys8_hummel",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_YS8_HUMMEL_4",
@@ -1892,6 +2064,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_YS8_HUMMEL_5",
         "name": "TEXT_WEP_LEGEND_GU_YS8_HUMMEL_NAME",
         "image": "gu_limited_ys8_hummel",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_YS8_HUMMEL_4",
@@ -1903,6 +2076,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_GU_YS8_HUMMEL_6",
         "name": "TEXT_WEP_LEGEND_GU_YS8_HUMMEL_NAME",
         "image": "gu_limited_ys8_hummel",
         "ability": "TEXT_EXCLUSIVE_GU_LIMITED_YS8_HUMMEL_6",
@@ -1914,6 +2088,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_1",
         "name": "TEXT_WEP_HA_S4_1_NAME",
         "image": "ha_s4_01",
         "ability": "TEXT_EXCLUSIVE_HA_4_1",
@@ -1925,6 +2100,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_10",
         "name": "TEXT_WEP_HA_S4_10_NAME",
         "image": "ha_s4_10",
         "ability": "TEXT_EXCLUSIVE_HA_4_10",
@@ -1936,6 +2112,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_11",
         "name": "TEXT_WEP_HA_S4_11_NAME",
         "image": "ha_s4_11",
         "ability": "TEXT_EXCLUSIVE_HA_4_11",
@@ -1947,6 +2124,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_12",
         "name": "TEXT_WEP_HA_S4_12_NAME",
         "image": "ha_s4_12",
         "ability": "TEXT_EXCLUSIVE_HA_4_12",
@@ -1958,6 +2136,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_13",
         "name": "TEXT_WEP_HA_S4_13_NAME",
         "image": "ha_s4_13",
         "ability": "TEXT_EXCLUSIVE_HA_4_13",
@@ -1969,6 +2148,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_14",
         "name": "TEXT_WEP_HA_S4_14_NAME",
         "image": "ha_s4_14",
         "ability": "TEXT_EXCLUSIVE_HA_4_14",
@@ -1980,6 +2160,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_15",
         "name": "TEXT_WEP_HA_S4_15_NAME",
         "image": "ha_s4_15",
         "ability": "TEXT_EXCLUSIVE_HA_4_15",
@@ -1991,6 +2172,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_16",
         "name": "TEXT_WEP_HA_S4_16_NAME",
         "image": "ha_s4_16",
         "ability": "TEXT_EXCLUSIVE_HA_4_16",
@@ -2002,6 +2184,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_17",
         "name": "TEXT_WEP_HA_S4_17_NAME",
         "image": "ha_s4_17",
         "ability": "TEXT_EXCLUSIVE_HA_4_17",
@@ -2013,6 +2196,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_18",
         "name": "TEXT_WEP_HA_S4_18_NAME",
         "image": "ha_s4_18",
         "ability": "TEXT_EXCLUSIVE_HA_4_18",
@@ -2024,6 +2208,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_19",
         "name": "TEXT_WEP_HA_S4_19_NAME",
         "image": "ha_s4_19",
         "ability": "TEXT_EXCLUSIVE_HA_4_19",
@@ -2035,6 +2220,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_2",
         "name": "TEXT_WEP_HA_S4_2_NAME",
         "image": "ha_s4_02",
         "ability": "TEXT_EXCLUSIVE_HA_4_2",
@@ -2046,6 +2232,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_20",
         "name": "TEXT_WEP_HA_S4_20_NAME",
         "image": "ha_s4_20",
         "ability": "TEXT_EXCLUSIVE_HA_4_20",
@@ -2057,6 +2244,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_21",
         "name": "TEXT_WEP_HA_S4_21_NAME",
         "image": "ha_s4_21",
         "ability": "TEXT_EXCLUSIVE_HA_4_21",
@@ -2068,6 +2256,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_22",
         "name": "TEXT_WEP_LEGEND_HA_CHA_4_22_NAME",
         "image": "ha_s4_22",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_4_22_DESC",
@@ -2079,6 +2268,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_23",
         "name": "TEXT_WEP_LEGEND_HA_CHA_4_23_NAME",
         "image": "ha_s4_23",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_4_23_DESC",
@@ -2090,6 +2280,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_HA_CHA_4_24_NAME",
         "image": "ha_s4_24",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_4_24_DESC",
@@ -2101,6 +2292,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_3",
         "name": "TEXT_WEP_HA_S4_3_NAME",
         "image": "ha_s4_03",
         "ability": "TEXT_EXCLUSIVE_HA_4_3",
@@ -2112,6 +2304,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_4",
         "name": "TEXT_WEP_HA_S4_4_NAME",
         "image": "ha_s4_04",
         "ability": "TEXT_EXCLUSIVE_HA_4_4",
@@ -2123,6 +2316,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_5",
         "name": "TEXT_WEP_HA_S4_5_NAME",
         "image": "ha_s4_05",
         "ability": "TEXT_EXCLUSIVE_HA_4_5",
@@ -2134,6 +2328,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_6",
         "name": "TEXT_WEP_HA_S4_6_NAME",
         "image": "ha_s4_06",
         "ability": "TEXT_EXCLUSIVE_HA_4_6",
@@ -2145,6 +2340,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_7",
         "name": "TEXT_WEP_HA_S4_7_NAME",
         "image": "ha_s4_07",
         "ability": "TEXT_EXCLUSIVE_HA_4_7",
@@ -2156,6 +2352,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_8",
         "name": "TEXT_WEP_HA_S4_8_NAME",
         "image": "ha_s4_08",
         "ability": "TEXT_EXCLUSIVE_HA_4_8",
@@ -2167,6 +2364,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_4_9",
         "name": "TEXT_WEP_HA_S4_9_NAME",
         "image": "ha_s4_09",
         "ability": "TEXT_EXCLUSIVE_HA_4_9",
@@ -2178,6 +2376,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_1",
         "name": "TEXT_WEP_HA_S5_1_NAME",
         "image": "ha_s5_01",
         "ability": "TEXT_EXCLUSIVE_HA_4_1",
@@ -2189,6 +2388,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_10",
         "name": "TEXT_WEP_HA_S5_10_NAME",
         "image": "ha_s5_10",
         "ability": "TEXT_EXCLUSIVE_HA_4_10",
@@ -2200,6 +2400,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_11",
         "name": "TEXT_WEP_HA_S5_11_NAME",
         "image": "ha_s5_11",
         "ability": "TEXT_EXCLUSIVE_HA_4_11",
@@ -2211,6 +2412,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_12",
         "name": "TEXT_WEP_HA_S5_12_NAME",
         "image": "ha_s5_12",
         "ability": "TEXT_EXCLUSIVE_HA_4_12",
@@ -2222,6 +2424,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_13",
         "name": "TEXT_WEP_HA_S5_13_NAME",
         "image": "ha_s5_13",
         "ability": "TEXT_EXCLUSIVE_HA_4_13",
@@ -2233,6 +2436,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_14",
         "name": "TEXT_WEP_HA_S5_14_NAME",
         "image": "ha_s5_14",
         "ability": "TEXT_EXCLUSIVE_HA_4_14",
@@ -2244,6 +2448,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_15",
         "name": "TEXT_WEP_HA_S5_15_NAME",
         "image": "ha_s5_15",
         "ability": "TEXT_EXCLUSIVE_HA_4_15",
@@ -2255,6 +2460,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_16",
         "name": "TEXT_WEP_HA_S5_16_NAME",
         "image": "ha_s5_16",
         "ability": "TEXT_EXCLUSIVE_HA_4_16",
@@ -2266,6 +2472,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_17",
         "name": "TEXT_WEP_HA_S5_17_NAME",
         "image": "ha_s5_17",
         "ability": "TEXT_EXCLUSIVE_HA_4_17",
@@ -2277,6 +2484,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_18",
         "name": "TEXT_WEP_HA_S5_18_NAME",
         "image": "ha_s5_18",
         "ability": "TEXT_EXCLUSIVE_HA_5_18",
@@ -2288,6 +2496,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_19",
         "name": "TEXT_WEP_HA_S5_19_NAME",
         "image": "ha_s5_19",
         "ability": "TEXT_EXCLUSIVE_HA_5_19",
@@ -2299,6 +2508,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_2",
         "name": "TEXT_WEP_HA_S5_2_NAME",
         "image": "ha_s5_02",
         "ability": "TEXT_EXCLUSIVE_HA_4_2",
@@ -2310,6 +2520,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_20",
         "name": "TEXT_WEP_HA_S5_20_NAME",
         "image": "ha_s5_20",
         "ability": "TEXT_EXCLUSIVE_HA_5_20",
@@ -2321,6 +2532,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_21",
         "name": "TEXT_WEP_HA_S5_21_NAME",
         "image": "ha_s5_21",
         "ability": "TEXT_EXCLUSIVE_HA_5_21",
@@ -2332,6 +2544,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_22",
         "name": "TEXT_WEP_LEGEND_HA_CHA_5_22_NAME",
         "image": "ha_s5_22",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_5_22_DESC",
@@ -2343,6 +2556,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_23",
         "name": "TEXT_WEP_LEGEND_HA_CHA_5_23_NAME",
         "image": "ha_s5_23",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_5_23_DESC",
@@ -2354,6 +2568,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_HA_CHA_5_24_NAME",
         "image": "ha_s5_24",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_5_24_DESC",
@@ -2365,6 +2580,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_3",
         "name": "TEXT_WEP_HA_S5_3_NAME",
         "image": "ha_s5_03",
         "ability": "TEXT_EXCLUSIVE_HA_4_3",
@@ -2376,6 +2592,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_4",
         "name": "TEXT_WEP_HA_S5_4_NAME",
         "image": "ha_s5_04",
         "ability": "TEXT_EXCLUSIVE_HA_4_4",
@@ -2387,6 +2604,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_5",
         "name": "TEXT_WEP_HA_S5_5_NAME",
         "image": "ha_s5_05",
         "ability": "TEXT_EXCLUSIVE_HA_4_5",
@@ -2398,6 +2616,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_6",
         "name": "TEXT_WEP_HA_S5_6_NAME",
         "image": "ha_s5_06",
         "ability": "TEXT_EXCLUSIVE_HA_4_6",
@@ -2409,6 +2628,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_7",
         "name": "TEXT_WEP_HA_S5_7_NAME",
         "image": "ha_s5_07",
         "ability": "TEXT_EXCLUSIVE_HA_4_7",
@@ -2420,6 +2640,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_8",
         "name": "TEXT_WEP_HA_S5_8_NAME",
         "image": "ha_s5_08",
         "ability": "TEXT_EXCLUSIVE_HA_4_8",
@@ -2431,6 +2652,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_5_9",
         "name": "TEXT_WEP_HA_S5_9_NAME",
         "image": "ha_s5_09",
         "ability": "TEXT_EXCLUSIVE_HA_4_9",
@@ -2442,6 +2664,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_1",
         "name": "TEXT_WEP_HA_S6_1_NAME",
         "image": "ha_s6_01",
         "ability": "TEXT_EXCLUSIVE_HA_6_1",
@@ -2453,6 +2676,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_10",
         "name": "TEXT_WEP_HA_S6_10_NAME",
         "image": "ha_s6_10",
         "ability": "TEXT_EXCLUSIVE_HA_6_10",
@@ -2464,6 +2688,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_11",
         "name": "TEXT_WEP_HA_S6_11_NAME",
         "image": "ha_s6_11",
         "ability": "TEXT_EXCLUSIVE_HA_6_11",
@@ -2475,6 +2700,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_12",
         "name": "TEXT_WEP_HA_S6_12_NAME",
         "image": "ha_s6_12",
         "ability": "TEXT_EXCLUSIVE_HA_6_12",
@@ -2486,6 +2712,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_13",
         "name": "TEXT_WEP_HA_S6_13_NAME",
         "image": "ha_s6_13",
         "ability": "TEXT_EXCLUSIVE_HA_6_13",
@@ -2497,6 +2724,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_14",
         "name": "TEXT_WEP_HA_S6_14_NAME",
         "image": "ha_s6_14",
         "ability": "TEXT_EXCLUSIVE_HA_6_14",
@@ -2508,6 +2736,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_15",
         "name": "TEXT_WEP_HA_S6_15_NAME",
         "image": "ha_s6_15",
         "ability": "TEXT_EXCLUSIVE_HA_6_15",
@@ -2519,6 +2748,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_16",
         "name": "TEXT_WEP_HA_S6_16_NAME",
         "image": "ha_s6_16",
         "ability": "TEXT_EXCLUSIVE_HA_6_16",
@@ -2530,6 +2760,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_17",
         "name": "TEXT_WEP_HA_S6_17_NAME",
         "image": "ha_s6_17",
         "ability": "TEXT_EXCLUSIVE_HA_6_17",
@@ -2541,6 +2772,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_18",
         "name": "TEXT_WEP_HA_S6_18_NAME",
         "image": "ha_s6_18",
         "ability": "TEXT_EXCLUSIVE_HA_6_18",
@@ -2552,6 +2784,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_19",
         "name": "TEXT_WEP_HA_S6_19_NAME",
         "image": "ha_s6_19",
         "ability": "TEXT_EXCLUSIVE_HA_6_19",
@@ -2563,6 +2796,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_2",
         "name": "TEXT_WEP_HA_S6_2_NAME",
         "image": "ha_s6_02",
         "ability": "TEXT_EXCLUSIVE_HA_6_2",
@@ -2574,6 +2808,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_20",
         "name": "TEXT_WEP_HA_S6_20_NAME",
         "image": "ha_s6_20",
         "ability": "TEXT_EXCLUSIVE_HA_6_20",
@@ -2585,6 +2820,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_21",
         "name": "TEXT_WEP_HA_S6_21_NAME",
         "image": "ha_s6_21",
         "ability": "TEXT_EXCLUSIVE_HA_6_21",
@@ -2596,6 +2832,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_22",
         "name": "TEXT_WEP_LEGEND_HA_CHA_6_22_NAME",
         "image": "ha_s6_22",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_6_22_DESC",
@@ -2607,6 +2844,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_23",
         "name": "TEXT_WEP_LEGEND_HA_CHA_6_23_NAME",
         "image": "ha_s6_23",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_6_23_DESC",
@@ -2618,6 +2856,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_HA_CHA_6_24_NAME",
         "image": "ha_s6_24",
         "ability": "TEXT_WEP_LEGEND_HA_CHA_6_24_DESC",
@@ -2629,6 +2868,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_3",
         "name": "TEXT_WEP_HA_S6_3_NAME",
         "image": "ha_s6_03",
         "ability": "TEXT_EXCLUSIVE_HA_6_3",
@@ -2640,6 +2880,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_4",
         "name": "TEXT_WEP_HA_S6_4_NAME",
         "image": "ha_s6_04",
         "ability": "TEXT_EXCLUSIVE_HA_6_4",
@@ -2651,6 +2892,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_5",
         "name": "TEXT_WEP_HA_S6_5_NAME",
         "image": "ha_s6_05",
         "ability": "TEXT_EXCLUSIVE_HA_6_5",
@@ -2662,6 +2904,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_6",
         "name": "TEXT_WEP_HA_S6_6_NAME",
         "image": "ha_s6_06",
         "ability": "TEXT_EXCLUSIVE_HA_6_6",
@@ -2673,6 +2916,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_7",
         "name": "TEXT_WEP_HA_S6_7_NAME",
         "image": "ha_s6_07",
         "ability": "TEXT_EXCLUSIVE_HA_6_7",
@@ -2684,6 +2928,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_8",
         "name": "TEXT_WEP_HA_S6_8_NAME",
         "image": "ha_s6_08",
         "ability": "TEXT_EXCLUSIVE_HA_6_8",
@@ -2695,6 +2940,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_6_9",
         "name": "TEXT_WEP_HA_S6_9_NAME",
         "image": "ha_s6_09",
         "ability": "TEXT_EXCLUSIVE_HA_6_9",
@@ -2706,6 +2952,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_LIMITED_4_1",
         "name": "TEXT_WEP_HA_LIMITED_4_1_NAME",
         "image": "ha_limited_4_01",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_4_1",
@@ -2717,6 +2964,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_LIMITED_5_1",
         "name": "TEXT_WEP_HA_LIMITED_5_1_NAME",
         "image": "ha_limited_5_01",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_4_1",
@@ -2728,6 +2976,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_CHA_LIMITED_6_1",
         "name": "TEXT_WEP_HA_LIMITED_6_1_NAME",
         "image": "ha_limited_6_01",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_6_1",
@@ -2739,6 +2988,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_GG_CHA_4_1",
         "name": "TEXT_WEP_HA_LIMITED_GG_4_1_NAME",
         "image": "ha_limited_gg_may_6",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_GG_4_1",
@@ -2750,6 +3000,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_GG_CHA_4_2",
         "name": "TEXT_WEP_HA_LIMITED_4_2_NAME",
         "image": "ha_limited_gg_sin_4",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_GG_4_2",
@@ -2761,6 +3012,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_GG_CHA_5_1",
         "name": "TEXT_WEP_HA_LIMITED_GG_5_1_NAME",
         "image": "ha_limited_gg_may_6",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_GG_4_1",
@@ -2772,6 +3024,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_GG_CHA_5_2",
         "name": "TEXT_WEP_HA_LIMITED_5_2_NAME",
         "image": "ha_limited_gg_sin_5",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_GG_4_2",
@@ -2783,6 +3036,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_GG_CHA_6_1",
         "name": "TEXT_WEP_HA_LIMITED_GG_6_1_NAME",
         "image": "ha_limited_gg_may_6",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_GG_6_1",
@@ -2794,6 +3048,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_GG_CHA_6_2",
         "name": "TEXT_WEP_HA_LIMITED_6_2_NAME",
         "image": "ha_limited_gg_sin_6",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_GG_6_2",
@@ -2805,6 +3060,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_BILLY_4",
         "name": "TEXT_WEP_LEGEND_HA_KOF_BILLY_NAME",
         "image": "ha_limited_kof_billy",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_BILLY_4",
@@ -2816,6 +3072,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_BILLY_5",
         "name": "TEXT_WEP_LEGEND_HA_KOF_BILLY_NAME",
         "image": "ha_limited_kof_billy",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_BILLY_4",
@@ -2827,6 +3084,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_BILLY_6",
         "name": "TEXT_WEP_LEGEND_HA_KOF_BILLY_NAME",
         "image": "ha_limited_kof_billy",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_BILLY_6",
@@ -2838,6 +3096,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_KIM_4",
         "name": "TEXT_WEP_LEGEND_HA_KOF_KIM_NAME",
         "image": "ha_limited_kof_kim",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_KIM_4",
@@ -2849,6 +3108,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_KIM_5",
         "name": "TEXT_WEP_LEGEND_HA_KOF_KIM_NAME",
         "image": "ha_limited_kof_kim",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_KIM_4",
@@ -2860,6 +3120,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_KIM_6",
         "name": "TEXT_WEP_LEGEND_HA_KOF_KIM_NAME",
         "image": "ha_limited_kof_kim",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_KIM_6",
@@ -2871,6 +3132,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_TERRY_4",
         "name": "TEXT_WEP_LEGEND_HA_KOF_TERRY_NAME",
         "image": "ha_limited_kof_terry",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_TERRY_4",
@@ -2882,6 +3144,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_TERRY_5",
         "name": "TEXT_WEP_LEGEND_HA_KOF_TERRY_NAME",
         "image": "ha_limited_kof_terry",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_TERRY_4",
@@ -2893,6 +3156,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_KOF_TERRY_6",
         "name": "TEXT_WEP_LEGEND_HA_KOF_TERRY_NAME",
         "image": "ha_limited_kof_terry",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_KOF_TERRY_6",
@@ -2904,6 +3168,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_RB_PYRRHA_4",
         "name": "TEXT_WEP_LEGEND_HA_RB_PYRRHA_NAME",
         "image": "ha_limited_rb_pyrrha",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_RB_PYRRHA_4",
@@ -2915,6 +3180,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_RB_PYRRHA_5",
         "name": "TEXT_WEP_LEGEND_HA_RB_PYRRHA_NAME",
         "image": "ha_limited_rb_pyrrha",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_RB_PYRRHA_4",
@@ -2926,6 +3192,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_RB_PYRRHA_6",
         "name": "TEXT_WEP_LEGEND_HA_RB_PYRRHA_NAME",
         "image": "ha_limited_rb_pyrrha",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_RB_PYRRHA_6",
@@ -2937,6 +3204,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_RB_YANG_4",
         "name": "TEXT_WEP_LEGEND_HA_RB_YANG_NAME",
         "image": "ha_limited_rb_yang",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_RB_YANG_4",
@@ -2948,6 +3216,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_RB_YANG_5",
         "name": "TEXT_WEP_LEGEND_HA_RB_YANG_NAME",
         "image": "ha_limited_rb_yang",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_RB_YANG_4",
@@ -2959,6 +3228,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_RB_YANG_6",
         "name": "TEXT_WEP_LEGEND_HA_RB_YANG_NAME",
         "image": "ha_limited_rb_yang",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_RB_YANG_6",
@@ -2970,6 +3240,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_YS8_SAHAD_4",
         "name": "TEXT_WEP_LEGEND_HA_YS8_SAHAD_NAME",
         "image": "ha_limited_ys8_sahad",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_YS8_SAHAD_4",
@@ -2981,6 +3252,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_YS8_SAHAD_5",
         "name": "TEXT_WEP_LEGEND_HA_YS8_SAHAD_NAME",
         "image": "ha_limited_ys8_sahad",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_YS8_SAHAD_4",
@@ -2992,6 +3264,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_YS8_SAHAD_6",
         "name": "TEXT_WEP_LEGEND_HA_YS8_SAHAD_NAME",
         "image": "ha_limited_ys8_sahad",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_YS8_SAHAD_6",
@@ -3003,6 +3276,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_YS_RICOTTA_4",
         "name": "TEXT_WEP_LEGEND_HA_YS8_RICOTTA_NAME",
         "image": "ha_limited_ys8_ricotta",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_YS8_RICOTTA_4",
@@ -3014,6 +3288,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_YS_RICOTTA_5",
         "name": "TEXT_WEP_LEGEND_HA_YS8_RICOTTA_NAME",
         "image": "ha_limited_ys8_ricotta",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_YS8_RICOTTA_4",
@@ -3025,6 +3300,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_HA_YS_RICOTTA_6",
         "name": "TEXT_WEP_LEGEND_HA_YS8_RICOTTA_NAME",
         "image": "ha_limited_ys8_ricotta",
         "ability": "TEXT_EXCLUSIVE_HA_LIMITED_YS8_RICOTTA_6",
@@ -3036,6 +3312,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_1",
         "name": "TEXT_WEP_OR_S4_1_NAME",
         "image": "or_s4_01",
         "ability": "TEXT_EXCLUSIVE_PR_4_1",
@@ -3047,6 +3324,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_10",
         "name": "TEXT_WEP_OR_S4_10_NAME",
         "image": "or_s4_10",
         "ability": "TEXT_EXCLUSIVE_PR_4_10",
@@ -3058,6 +3336,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_11",
         "name": "TEXT_WEP_OR_S4_11_NAME",
         "image": "or_s4_11",
         "ability": "TEXT_EXCLUSIVE_PR_4_11",
@@ -3069,6 +3348,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_12",
         "name": "TEXT_WEP_OR_S4_12_NAME",
         "image": "or_s4_12",
         "ability": "TEXT_EXCLUSIVE_PR_4_12",
@@ -3080,6 +3360,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_13",
         "name": "TEXT_WEP_OR_S4_13_NAME",
         "image": "or_s4_13",
         "ability": "TEXT_EXCLUSIVE_PR_4_13",
@@ -3091,6 +3372,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_14",
         "name": "TEXT_WEP_OR_S4_14_NAME",
         "image": "or_s4_14",
         "ability": "TEXT_EXCLUSIVE_PR_4_14",
@@ -3102,6 +3384,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_15",
         "name": "TEXT_WEP_OR_S4_15_NAME",
         "image": "or_s4_15",
         "ability": "TEXT_EXCLUSIVE_PR_4_15",
@@ -3113,6 +3396,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_16",
         "name": "TEXT_WEP_OR_S4_16_NAME",
         "image": "or_s4_16",
         "ability": "TEXT_EXCLUSIVE_PR_4_16",
@@ -3124,6 +3408,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_17",
         "name": "TEXT_WEP_OR_S4_17_NAME",
         "image": "or_s4_17",
         "ability": "TEXT_EXCLUSIVE_OR_4_17",
@@ -3135,6 +3420,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_18",
         "name": "TEXT_WEP_OR_S4_18_NAME",
         "image": "or_s4_18",
         "ability": "TEXT_EXCLUSIVE_OR_4_18",
@@ -3146,6 +3432,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_19",
         "name": "TEXT_WEP_OR_S4_19_NAME",
         "image": "or_s4_19",
         "ability": "TEXT_EXCLUSIVE_OR_4_19",
@@ -3157,6 +3444,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_2",
         "name": "TEXT_WEP_OR_S4_2_NAME",
         "image": "or_s4_02",
         "ability": "TEXT_EXCLUSIVE_PR_4_2",
@@ -3168,6 +3456,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_20",
         "name": "TEXT_WEP_OR_S4_20_NAME",
         "image": "or_s4_20",
         "ability": "TEXT_EXCLUSIVE_OR_4_20",
@@ -3179,6 +3468,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_21",
         "name": "TEXT_WEP_OR_S4_21_NAME",
         "image": "or_s4_21",
         "ability": "TEXT_EXCLUSIVE_OR_4_21",
@@ -3190,6 +3480,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_22",
         "name": "TEXT_WEP_LEGEND_OR_CHA_4_22_NAME",
         "image": "or_s4_22",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_4_22_DESC",
@@ -3201,6 +3492,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_23",
         "name": "TEXT_WEP_LEGEND_OR_CHA_4_23_NAME",
         "image": "or_s4_23",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_4_23_DESC",
@@ -3212,6 +3504,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_OR_CHA_4_24_NAME",
         "image": "or_s4_24",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_4_24_DESC",
@@ -3223,6 +3516,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_3",
         "name": "TEXT_WEP_OR_S4_3_NAME",
         "image": "or_s4_03",
         "ability": "TEXT_EXCLUSIVE_PR_4_3",
@@ -3234,6 +3528,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_4",
         "name": "TEXT_WEP_OR_S4_4_NAME",
         "image": "or_s4_04",
         "ability": "TEXT_EXCLUSIVE_PR_4_4",
@@ -3245,6 +3540,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_5",
         "name": "TEXT_WEP_OR_S4_5_NAME",
         "image": "or_s4_05",
         "ability": "TEXT_EXCLUSIVE_PR_4_5",
@@ -3256,6 +3552,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_6",
         "name": "TEXT_WEP_OR_S4_6_NAME",
         "image": "or_s4_06",
         "ability": "TEXT_EXCLUSIVE_PR_4_6",
@@ -3267,6 +3564,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_7",
         "name": "TEXT_WEP_OR_S4_7_NAME",
         "image": "or_s4_07",
         "ability": "TEXT_EXCLUSIVE_PR_4_7",
@@ -3278,6 +3576,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_8",
         "name": "TEXT_WEP_OR_S4_8_NAME",
         "image": "or_s4_08",
         "ability": "TEXT_EXCLUSIVE_PR_4_8",
@@ -3289,6 +3588,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_9",
         "name": "TEXT_WEP_OR_S4_9_NAME",
         "image": "or_s4_09",
         "ability": "TEXT_EXCLUSIVE_PR_4_9",
@@ -3300,6 +3600,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_1",
         "name": "TEXT_WEP_OR_S5_1_NAME",
         "image": "or_s5_01",
         "ability": "TEXT_EXCLUSIVE_PR_4_1",
@@ -3311,6 +3612,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_10",
         "name": "TEXT_WEP_OR_S5_10_NAME",
         "image": "or_s5_10",
         "ability": "TEXT_EXCLUSIVE_PR_4_10",
@@ -3322,6 +3624,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_11",
         "name": "TEXT_WEP_OR_S5_11_NAME",
         "image": "or_s5_11",
         "ability": "TEXT_EXCLUSIVE_PR_4_11",
@@ -3333,6 +3636,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_12",
         "name": "TEXT_WEP_OR_S5_12_NAME",
         "image": "or_s5_12",
         "ability": "TEXT_EXCLUSIVE_PR_4_12",
@@ -3344,6 +3648,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_13",
         "name": "TEXT_WEP_OR_S5_13_NAME",
         "image": "or_s5_13",
         "ability": "TEXT_EXCLUSIVE_PR_4_13",
@@ -3355,6 +3660,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_14",
         "name": "TEXT_WEP_OR_S5_14_NAME",
         "image": "or_s5_14",
         "ability": "TEXT_EXCLUSIVE_PR_4_14",
@@ -3366,6 +3672,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_15",
         "name": "TEXT_WEP_OR_S5_15_NAME",
         "image": "or_s5_15",
         "ability": "TEXT_EXCLUSIVE_PR_4_15",
@@ -3377,6 +3684,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_16",
         "name": "TEXT_WEP_OR_S5_16_NAME",
         "image": "or_s5_16",
         "ability": "TEXT_EXCLUSIVE_PR_4_16",
@@ -3388,6 +3696,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_17",
         "name": "TEXT_WEP_OR_S5_17_NAME",
         "image": "or_s5_17",
         "ability": "TEXT_EXCLUSIVE_OR_4_17",
@@ -3399,6 +3708,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_18",
         "name": "TEXT_WEP_OR_S5_18_NAME",
         "image": "or_s5_18",
         "ability": "TEXT_EXCLUSIVE_OR_5_18",
@@ -3410,6 +3720,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_19",
         "name": "TEXT_WEP_OR_S5_19_NAME",
         "image": "or_s5_19",
         "ability": "TEXT_EXCLUSIVE_OR_5_19",
@@ -3421,6 +3732,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_2",
         "name": "TEXT_WEP_OR_S5_2_NAME",
         "image": "or_s5_02",
         "ability": "TEXT_EXCLUSIVE_PR_4_2",
@@ -3432,6 +3744,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_20",
         "name": "TEXT_WEP_OR_S5_20_NAME",
         "image": "or_s5_20",
         "ability": "TEXT_EXCLUSIVE_OR_5_20",
@@ -3443,6 +3756,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_21",
         "name": "TEXT_WEP_OR_S5_21_NAME",
         "image": "or_s5_21",
         "ability": "TEXT_EXCLUSIVE_OR_5_21",
@@ -3454,6 +3768,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_22",
         "name": "TEXT_WEP_LEGEND_OR_CHA_5_22_NAME",
         "image": "or_s5_22",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_5_22_DESC",
@@ -3465,6 +3780,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_23",
         "name": "TEXT_WEP_LEGEND_OR_CHA_5_23_NAME",
         "image": "or_s5_23",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_5_23_DESC",
@@ -3476,6 +3792,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_OR_CHA_5_24_NAME",
         "image": "or_s5_24",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_5_24_DESC",
@@ -3487,6 +3804,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_3",
         "name": "TEXT_WEP_OR_S5_3_NAME",
         "image": "or_s5_03",
         "ability": "TEXT_EXCLUSIVE_PR_4_3",
@@ -3498,6 +3816,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_4",
         "name": "TEXT_WEP_OR_S5_4_NAME",
         "image": "or_s5_04",
         "ability": "TEXT_EXCLUSIVE_PR_4_4",
@@ -3509,6 +3828,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_5",
         "name": "TEXT_WEP_OR_S5_5_NAME",
         "image": "or_s5_05",
         "ability": "TEXT_EXCLUSIVE_PR_4_5",
@@ -3520,6 +3840,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_6",
         "name": "TEXT_WEP_OR_S5_6_NAME",
         "image": "or_s5_06",
         "ability": "TEXT_EXCLUSIVE_PR_4_6",
@@ -3531,6 +3852,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_7",
         "name": "TEXT_WEP_OR_S5_7_NAME",
         "image": "or_s5_07",
         "ability": "TEXT_EXCLUSIVE_PR_4_7",
@@ -3542,6 +3864,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_8",
         "name": "TEXT_WEP_OR_S5_8_NAME",
         "image": "or_s5_08",
         "ability": "TEXT_EXCLUSIVE_PR_4_8",
@@ -3553,6 +3876,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_9",
         "name": "TEXT_WEP_OR_S5_9_NAME",
         "image": "or_s5_09",
         "ability": "TEXT_EXCLUSIVE_PR_4_9",
@@ -3564,6 +3888,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_1",
         "name": "TEXT_WEP_OR_S6_1_NAME",
         "image": "or_s6_01",
         "ability": "TEXT_EXCLUSIVE_PR_6_1",
@@ -3575,6 +3900,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_10",
         "name": "TEXT_WEP_OR_S6_10_NAME",
         "image": "or_s6_10",
         "ability": "TEXT_EXCLUSIVE_PR_6_10",
@@ -3586,6 +3912,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_11",
         "name": "TEXT_WEP_OR_S6_11_NAME",
         "image": "or_s6_11",
         "ability": "TEXT_EXCLUSIVE_PR_6_11",
@@ -3597,6 +3924,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_12",
         "name": "TEXT_WEP_OR_S6_12_NAME",
         "image": "or_s6_12",
         "ability": "TEXT_EXCLUSIVE_PR_6_12",
@@ -3608,6 +3936,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_13",
         "name": "TEXT_WEP_OR_S6_13_NAME",
         "image": "or_s6_13",
         "ability": "TEXT_EXCLUSIVE_PR_6_13",
@@ -3619,6 +3948,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_14",
         "name": "TEXT_WEP_OR_S6_14_NAME",
         "image": "or_s6_14",
         "ability": "TEXT_EXCLUSIVE_PR_6_14",
@@ -3630,6 +3960,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_15",
         "name": "TEXT_WEP_OR_S6_15_NAME",
         "image": "or_s6_15",
         "ability": "TEXT_EXCLUSIVE_PR_6_15",
@@ -3641,6 +3972,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_16",
         "name": "TEXT_WEP_OR_S6_16_NAME",
         "image": "or_s6_16",
         "ability": "TEXT_EXCLUSIVE_PR_6_16",
@@ -3652,6 +3984,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_17",
         "name": "TEXT_WEP_OR_S6_17_NAME",
         "image": "or_s6_17",
         "ability": "TEXT_EXCLUSIVE_OR_6_17",
@@ -3663,6 +3996,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_18",
         "name": "TEXT_WEP_OR_S6_18_NAME",
         "image": "or_s6_18",
         "ability": "TEXT_EXCLUSIVE_OR_6_18",
@@ -3674,6 +4008,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_19",
         "name": "TEXT_WEP_OR_S6_19_NAME",
         "image": "or_s6_19",
         "ability": "TEXT_EXCLUSIVE_OR_6_19",
@@ -3685,6 +4020,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_2",
         "name": "TEXT_WEP_OR_S6_2_NAME",
         "image": "or_s6_02",
         "ability": "TEXT_EXCLUSIVE_PR_6_2",
@@ -3696,6 +4032,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_20",
         "name": "TEXT_WEP_OR_S6_20_NAME",
         "image": "or_s6_20",
         "ability": "TEXT_EXCLUSIVE_OR_6_20",
@@ -3707,6 +4044,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_21",
         "name": "TEXT_WEP_OR_S6_21_NAME",
         "image": "or_s6_21",
         "ability": "TEXT_EXCLUSIVE_OR_6_21",
@@ -3718,6 +4056,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_22",
         "name": "TEXT_WEP_LEGEND_OR_CHA_6_22_NAME",
         "image": "or_s6_22",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_6_22_DESC",
@@ -3729,6 +4068,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_23",
         "name": "TEXT_WEP_LEGEND_OR_CHA_6_23_NAME",
         "image": "or_s6_23",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_6_23_DESC",
@@ -3740,6 +4080,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_OR_CHA_6_24_NAME",
         "image": "or_s6_24",
         "ability": "TEXT_WEP_LEGEND_OR_CHA_6_24_DESC",
@@ -3751,6 +4092,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_3",
         "name": "TEXT_WEP_OR_S6_3_NAME",
         "image": "or_s6_03",
         "ability": "TEXT_EXCLUSIVE_PR_6_3",
@@ -3762,6 +4104,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_4",
         "name": "TEXT_WEP_OR_S6_4_NAME",
         "image": "or_s6_04",
         "ability": "TEXT_EXCLUSIVE_PR_6_4",
@@ -3773,6 +4116,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_5",
         "name": "TEXT_WEP_OR_S6_5_NAME",
         "image": "or_s6_05",
         "ability": "TEXT_EXCLUSIVE_PR_6_5",
@@ -3784,6 +4128,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_6",
         "name": "TEXT_WEP_OR_S6_6_NAME",
         "image": "or_s6_06",
         "ability": "TEXT_EXCLUSIVE_PR_6_6",
@@ -3795,6 +4140,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_7",
         "name": "TEXT_WEP_OR_S6_7_NAME",
         "image": "or_s6_07",
         "ability": "TEXT_EXCLUSIVE_PR_6_7",
@@ -3806,6 +4152,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_8",
         "name": "TEXT_WEP_OR_S6_8_NAME",
         "image": "or_s6_08",
         "ability": "TEXT_EXCLUSIVE_PR_6_8",
@@ -3817,6 +4164,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_6_9",
         "name": "TEXT_WEP_OR_S6_9_NAME",
         "image": "or_s6_09",
         "ability": "TEXT_EXCLUSIVE_PR_6_9",
@@ -3828,6 +4176,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_OR_GG_CHA_4_1",
         "name": "TEXT_WEP_OR_LIMITED_4_1_NAME",
         "image": "or_limited_gg_ino_4",
         "ability": "TEXT_EXCLUSIVE_PR_LIMITED_GG_4_1",
@@ -3839,6 +4188,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_GG_CHA_5_1",
         "name": "TEXT_WEP_OR_LIMITED_5_1_NAME",
         "image": "or_limited_gg_ino_5",
         "ability": "TEXT_EXCLUSIVE_PR_LIMITED_GG_4_1",
@@ -3850,6 +4200,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_GG_CHA_6_1",
         "name": "TEXT_WEP_OR_LIMITED_6_1_NAME",
         "image": "or_limited_gg_ino_6",
         "ability": "TEXT_EXCLUSIVE_PR_LIMITED_GG_6_1",
@@ -3861,6 +4212,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_KOF_ATHENA_4",
         "name": "TEXT_WEP_LEGEND_OR_KOF_ATHENA_NAME",
         "image": "or_limited_kof_atena",
         "ability": "TEXT_EXCLUSIVE_OR_LIMITED_KOF_ATHENA_4",
@@ -3872,6 +4224,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_KOF_ATHENA_5",
         "name": "TEXT_WEP_LEGEND_OR_KOF_ATHENA_NAME",
         "image": "or_limited_kof_atena",
         "ability": "TEXT_EXCLUSIVE_OR_LIMITED_KOF_ATHENA_4",
@@ -3883,6 +4236,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_KOF_ATHENA_6",
         "name": "TEXT_WEP_LEGEND_OR_KOF_ATHENA_NAME",
         "image": "or_limited_kof_atena",
         "ability": "TEXT_EXCLUSIVE_OR_LIMITED_KOF_ATHENA_6",
@@ -3894,6 +4248,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_KOF_KENSOU_4",
         "name": "TEXT_WEP_LEGEND_OR_KOF_KENSOU_NAME",
         "image": "or_limited_kof_kensou",
         "ability": "TEXT_EXCLUSIVE_OR_LIMITED_KOF_KENSOU_4",
@@ -3905,6 +4260,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_KOF_KENSOU_5",
         "name": "TEXT_WEP_LEGEND_OR_KOF_KENSOU_NAME",
         "image": "or_limited_kof_kensou",
         "ability": "TEXT_EXCLUSIVE_OR_LIMITED_KOF_KENSOU_4",
@@ -3916,6 +4272,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_OR_KOF_KENSOU_6",
         "name": "TEXT_WEP_LEGEND_OR_KOF_KENSOU_NAME",
         "image": "or_limited_kof_kensou",
         "ability": "TEXT_EXCLUSIVE_OR_LIMITED_KOF_KENSOU_6",
@@ -3927,6 +4284,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_1",
         "name": "TEXT_WEP_ST_S4_1_NAME",
         "image": "st_s4_01",
         "ability": "TEXT_EXCLUSIVE_WI_4_1",
@@ -3938,6 +4296,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_10",
         "name": "TEXT_WEP_ST_S4_10_NAME",
         "image": "st_s4_10",
         "ability": "TEXT_EXCLUSIVE_WI_4_10",
@@ -3949,6 +4308,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_11",
         "name": "TEXT_WEP_ST_S4_11_NAME",
         "image": "st_s4_11",
         "ability": "TEXT_EXCLUSIVE_WI_4_11",
@@ -3960,6 +4320,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_12",
         "name": "TEXT_WEP_ST_S4_12_NAME",
         "image": "st_s4_12",
         "ability": "TEXT_EXCLUSIVE_WI_4_12",
@@ -3971,6 +4332,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_13",
         "name": "TEXT_WEP_ST_S4_13_NAME",
         "image": "st_s4_13",
         "ability": "TEXT_EXCLUSIVE_WI_4_13",
@@ -3982,6 +4344,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_14",
         "name": "TEXT_WEP_ST_S4_14_NAME",
         "image": "st_s4_14",
         "ability": "TEXT_EXCLUSIVE_WI_4_14",
@@ -3993,6 +4356,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_15",
         "name": "TEXT_WEP_ST_S4_15_NAME",
         "image": "st_s4_15",
         "ability": "TEXT_EXCLUSIVE_WI_4_15",
@@ -4004,6 +4368,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_16",
         "name": "TEXT_WEP_ST_S4_16_NAME",
         "image": "st_s4_16",
         "ability": "TEXT_EXCLUSIVE_WI_4_16",
@@ -4015,6 +4380,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_17",
         "name": "TEXT_WEP_ST_S4_17_NAME",
         "image": "st_s4_17",
         "ability": "TEXT_EXCLUSIVE_WI_4_17",
@@ -4026,6 +4392,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_18",
         "name": "TEXT_WEP_ST_S4_18_NAME",
         "image": "st_s4_18",
         "ability": "TEXT_EXCLUSIVE_ST_4_18",
@@ -4037,6 +4404,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_19",
         "name": "TEXT_WEP_ST_S4_19_NAME",
         "image": "st_s4_19",
         "ability": "TEXT_EXCLUSIVE_ST_4_19",
@@ -4048,6 +4416,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_2",
         "name": "TEXT_WEP_ST_S4_2_NAME",
         "image": "st_s4_02",
         "ability": "TEXT_EXCLUSIVE_WI_4_2",
@@ -4059,6 +4428,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_20",
         "name": "TEXT_WEP_ST_S4_20_NAME",
         "image": "st_s4_20",
         "ability": "TEXT_EXCLUSIVE_ST_4_20",
@@ -4070,6 +4440,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_21",
         "name": "TEXT_WEP_ST_S4_21_NAME",
         "image": "st_s4_21",
         "ability": "TEXT_EXCLUSIVE_ST_4_21",
@@ -4081,6 +4452,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_22",
         "name": "TEXT_WEP_LEGEND_ST_CHA_4_22_NAME",
         "image": "st_s4_22",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_4_22_DESC",
@@ -4092,6 +4464,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_ST_CHA_4_24_NAME",
         "image": "st_s4_24",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_4_24_DESC",
@@ -4103,6 +4476,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_3",
         "name": "TEXT_WEP_ST_S4_3_NAME",
         "image": "st_s4_03",
         "ability": "TEXT_EXCLUSIVE_WI_4_3",
@@ -4114,6 +4488,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_4",
         "name": "TEXT_WEP_ST_S4_4_NAME",
         "image": "st_s4_04",
         "ability": "TEXT_EXCLUSIVE_WI_4_4",
@@ -4125,6 +4500,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_5",
         "name": "TEXT_WEP_ST_S4_5_NAME",
         "image": "st_s4_05",
         "ability": "TEXT_EXCLUSIVE_WI_4_5",
@@ -4136,6 +4512,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_6",
         "name": "TEXT_WEP_ST_S4_6_NAME",
         "image": "st_s4_06",
         "ability": "TEXT_EXCLUSIVE_WI_4_6",
@@ -4147,6 +4524,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_7",
         "name": "TEXT_WEP_ST_S4_7_NAME",
         "image": "st_s4_07",
         "ability": "TEXT_EXCLUSIVE_WI_4_7",
@@ -4158,6 +4536,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_8",
         "name": "TEXT_WEP_ST_S4_8_NAME",
         "image": "st_s4_08",
         "ability": "TEXT_EXCLUSIVE_WI_4_8",
@@ -4169,6 +4548,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_9",
         "name": "TEXT_WEP_ST_S4_9_NAME",
         "image": "st_s4_09",
         "ability": "TEXT_EXCLUSIVE_WI_4_9",
@@ -4180,6 +4560,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_1",
         "name": "TEXT_WEP_ST_S5_1_NAME",
         "image": "st_s5_01",
         "ability": "TEXT_EXCLUSIVE_WI_4_1",
@@ -4191,6 +4572,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_10",
         "name": "TEXT_WEP_ST_S5_10_NAME",
         "image": "st_s5_10",
         "ability": "TEXT_EXCLUSIVE_WI_4_10",
@@ -4202,6 +4584,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_11",
         "name": "TEXT_WEP_ST_S5_11_NAME",
         "image": "st_s5_11",
         "ability": "TEXT_EXCLUSIVE_WI_4_11",
@@ -4213,6 +4596,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_12",
         "name": "TEXT_WEP_ST_S5_12_NAME",
         "image": "st_s5_12",
         "ability": "TEXT_EXCLUSIVE_WI_4_12",
@@ -4224,6 +4608,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_13",
         "name": "TEXT_WEP_ST_S5_13_NAME",
         "image": "st_s5_13",
         "ability": "TEXT_EXCLUSIVE_WI_4_13",
@@ -4235,6 +4620,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_14",
         "name": "TEXT_WEP_ST_S5_14_NAME",
         "image": "st_s5_14",
         "ability": "TEXT_EXCLUSIVE_WI_4_14",
@@ -4246,6 +4632,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_15",
         "name": "TEXT_WEP_ST_S5_15_NAME",
         "image": "st_s5_15",
         "ability": "TEXT_EXCLUSIVE_WI_4_15",
@@ -4257,6 +4644,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_16",
         "name": "TEXT_WEP_ST_S5_16_NAME",
         "image": "st_s5_16",
         "ability": "TEXT_EXCLUSIVE_WI_4_16",
@@ -4268,6 +4656,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_17",
         "name": "TEXT_WEP_ST_S5_17_NAME",
         "image": "st_s5_17",
         "ability": "TEXT_EXCLUSIVE_WI_4_17",
@@ -4279,6 +4668,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_18",
         "name": "TEXT_WEP_ST_S5_18_NAME",
         "image": "st_s5_18",
         "ability": "TEXT_EXCLUSIVE_ST_5_18",
@@ -4290,6 +4680,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_19",
         "name": "TEXT_WEP_ST_S5_19_NAME",
         "image": "st_s5_19",
         "ability": "TEXT_EXCLUSIVE_ST_5_19",
@@ -4301,6 +4692,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_2",
         "name": "TEXT_WEP_ST_S5_2_NAME",
         "image": "st_s5_02",
         "ability": "TEXT_EXCLUSIVE_WI_4_2",
@@ -4312,6 +4704,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_20",
         "name": "TEXT_WEP_ST_S5_20_NAME",
         "image": "st_s5_20",
         "ability": "TEXT_EXCLUSIVE_ST_5_20",
@@ -4323,6 +4716,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_21",
         "name": "TEXT_WEP_ST_S5_21_NAME",
         "image": "st_s5_21",
         "ability": "TEXT_EXCLUSIVE_ST_5_21",
@@ -4334,6 +4728,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_22",
         "name": "TEXT_WEP_LEGEND_ST_CHA_5_22_NAME",
         "image": "st_s5_22",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_5_22_DESC",
@@ -4345,6 +4740,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_ST_CHA_5_24_NAME",
         "image": "st_s5_24",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_5_24_DESC",
@@ -4356,6 +4752,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_3",
         "name": "TEXT_WEP_ST_S5_3_NAME",
         "image": "st_s5_03",
         "ability": "TEXT_EXCLUSIVE_WI_4_3",
@@ -4367,6 +4764,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_4",
         "name": "TEXT_WEP_ST_S5_4_NAME",
         "image": "st_s5_04",
         "ability": "TEXT_EXCLUSIVE_WI_4_4",
@@ -4378,6 +4776,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_5",
         "name": "TEXT_WEP_ST_S5_5_NAME",
         "image": "st_s5_05",
         "ability": "TEXT_EXCLUSIVE_WI_4_5",
@@ -4389,6 +4788,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_6",
         "name": "TEXT_WEP_ST_S5_6_NAME",
         "image": "st_s5_06",
         "ability": "TEXT_EXCLUSIVE_WI_4_6",
@@ -4400,6 +4800,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_7",
         "name": "TEXT_WEP_ST_S5_7_NAME",
         "image": "st_s5_07",
         "ability": "TEXT_EXCLUSIVE_WI_4_7",
@@ -4411,6 +4812,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_8",
         "name": "TEXT_WEP_ST_S5_8_NAME",
         "image": "st_s5_08",
         "ability": "TEXT_EXCLUSIVE_WI_4_8",
@@ -4422,6 +4824,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_9",
         "name": "TEXT_WEP_ST_S5_9_NAME",
         "image": "st_s5_09",
         "ability": "TEXT_EXCLUSIVE_WI_4_9",
@@ -4433,6 +4836,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_1",
         "name": "TEXT_WEP_ST_S6_1_NAME",
         "image": "st_s6_01",
         "ability": "TEXT_EXCLUSIVE_WI_6_1",
@@ -4444,6 +4848,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_10",
         "name": "TEXT_WEP_ST_S6_10_NAME",
         "image": "st_s6_10",
         "ability": "TEXT_EXCLUSIVE_WI_6_10",
@@ -4455,6 +4860,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_11",
         "name": "TEXT_WEP_ST_S6_11_NAME",
         "image": "st_s6_11",
         "ability": "TEXT_EXCLUSIVE_WI_6_11",
@@ -4466,6 +4872,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_12",
         "name": "TEXT_WEP_ST_S6_12_NAME",
         "image": "st_s6_12",
         "ability": "TEXT_EXCLUSIVE_WI_6_12",
@@ -4477,6 +4884,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_13",
         "name": "TEXT_WEP_ST_S6_13_NAME",
         "image": "st_s6_13",
         "ability": "TEXT_EXCLUSIVE_WI_6_13",
@@ -4488,6 +4896,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_14",
         "name": "TEXT_WEP_ST_S6_14_NAME",
         "image": "st_s6_14",
         "ability": "TEXT_EXCLUSIVE_WI_6_14",
@@ -4499,6 +4908,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_15",
         "name": "TEXT_WEP_ST_S6_15_NAME",
         "image": "st_s6_15",
         "ability": "TEXT_EXCLUSIVE_WI_6_15",
@@ -4510,6 +4920,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_16",
         "name": "TEXT_WEP_ST_S6_16_NAME",
         "image": "st_s6_16",
         "ability": "TEXT_EXCLUSIVE_WI_6_16",
@@ -4521,6 +4932,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_17",
         "name": "TEXT_WEP_ST_S6_17_NAME",
         "image": "st_s6_17",
         "ability": "TEXT_EXCLUSIVE_WI_6_17",
@@ -4532,6 +4944,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_18",
         "name": "TEXT_WEP_ST_S6_18_NAME",
         "image": "st_s6_18",
         "ability": "TEXT_EXCLUSIVE_ST_6_18",
@@ -4543,6 +4956,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_19",
         "name": "TEXT_WEP_ST_S6_19_NAME",
         "image": "st_s6_19",
         "ability": "TEXT_EXCLUSIVE_ST_6_19",
@@ -4554,6 +4968,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_2",
         "name": "TEXT_WEP_ST_S6_2_NAME",
         "image": "st_s6_02",
         "ability": "TEXT_EXCLUSIVE_WI_6_2",
@@ -4565,6 +4980,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_20",
         "name": "TEXT_WEP_ST_S6_20_NAME",
         "image": "st_s6_20",
         "ability": "TEXT_EXCLUSIVE_ST_6_20",
@@ -4576,6 +4992,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_21",
         "name": "TEXT_WEP_ST_S6_21_NAME",
         "image": "st_s6_21",
         "ability": "TEXT_EXCLUSIVE_ST_6_21",
@@ -4587,6 +5004,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_22",
         "name": "TEXT_WEP_LEGEND_ST_CHA_6_22_NAME",
         "image": "st_s6_22",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_6_22_DESC",
@@ -4598,6 +5016,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_ST_CHA_6_24_NAME",
         "image": "st_s6_24",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_6_24_DESC",
@@ -4609,6 +5028,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_3",
         "name": "TEXT_WEP_ST_S6_3_NAME",
         "image": "st_s6_03",
         "ability": "TEXT_EXCLUSIVE_WI_6_3",
@@ -4620,6 +5040,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_4",
         "name": "TEXT_WEP_ST_S6_4_NAME",
         "image": "st_s6_04",
         "ability": "TEXT_EXCLUSIVE_WI_6_4",
@@ -4631,6 +5052,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_5",
         "name": "TEXT_WEP_ST_S6_5_NAME",
         "image": "st_s6_05",
         "ability": "TEXT_EXCLUSIVE_WI_6_5",
@@ -4642,6 +5064,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_6",
         "name": "TEXT_WEP_ST_S6_6_NAME",
         "image": "st_s6_06",
         "ability": "TEXT_EXCLUSIVE_WI_6_6",
@@ -4653,6 +5076,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_7",
         "name": "TEXT_WEP_ST_S6_7_NAME",
         "image": "st_s6_07",
         "ability": "TEXT_EXCLUSIVE_WI_6_7",
@@ -4664,6 +5088,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_8",
         "name": "TEXT_WEP_ST_S6_8_NAME",
         "image": "st_s6_08",
         "ability": "TEXT_EXCLUSIVE_WI_6_8",
@@ -4675,6 +5100,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_9",
         "name": "TEXT_WEP_ST_S6_9_NAME",
         "image": "st_s6_09",
         "ability": "TEXT_EXCLUSIVE_WI_6_9",
@@ -4686,6 +5112,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_DEEMO_4",
         "name": "TEXT_WEP_LEGEND_ST_DEEMO_NAME",
         "image": "st_limited_dm_girl",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_DEEMO_4",
@@ -4697,6 +5124,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_DEEMO_5",
         "name": "TEXT_WEP_LEGEND_ST_DEEMO_NAME",
         "image": "st_limited_dm_girl",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_DEEMO_4",
@@ -4708,6 +5136,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_DEEMO_6",
         "name": "TEXT_WEP_LEGEND_ST_DEEMO_NAME",
         "image": "st_limited_dm_girl",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_DEEMO_6",
@@ -4719,6 +5148,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_GG_CHA_4_1",
         "name": "TEXT_WEP_ST_LIMITED_4_1_NAME",
         "image": "st_limited_gg_ramlethal_4",
         "ability": "TEXT_EXCLUSIVE_WI_LIMITED_GG_4_1",
@@ -4730,6 +5160,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_GG_CHA_4_2",
         "name": "TEXT_WEP_ST_LIMITED_4_2_NAME",
         "image": "st_limited_gg_jack_4",
         "ability": "TEXT_EXCLUSIVE_WI_LIMITED_GG_4_2",
@@ -4741,6 +5172,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_GG_CHA_5_1",
         "name": "TEXT_WEP_ST_LIMITED_5_1_NAME",
         "image": "st_limited_gg_ramlethal_5",
         "ability": "TEXT_EXCLUSIVE_WI_LIMITED_GG_4_1",
@@ -4752,6 +5184,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_GG_CHA_5_2",
         "name": "TEXT_WEP_ST_LIMITED_5_2_NAME",
         "image": "st_limited_gg_jack_5",
         "ability": "TEXT_EXCLUSIVE_WI_LIMITED_GG_4_2",
@@ -4763,6 +5196,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_GG_CHA_6_1",
         "name": "TEXT_WEP_ST_LIMITED_6_1_NAME",
         "image": "st_limited_gg_ramlethal_6",
         "ability": "TEXT_EXCLUSIVE_WI_LIMITED_GG_6_1",
@@ -4774,6 +5208,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_GG_CHA_6_2",
         "name": "TEXT_WEP_ST_LIMITED_6_2_NAME",
         "image": "st_limited_gg_jack_6",
         "ability": "TEXT_EXCLUSIVE_WI_LIMITED_GG_6_2",
@@ -4785,6 +5220,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_KOF_CHIZURU_4",
         "name": "TEXT_WEP_LEGEND_ST_KOF_CHIZURU_NAME",
         "image": "st_limited_kof_chizuru",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_KOF_CHIZURU_4",
@@ -4796,6 +5232,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_KOF_CHIZURU_5",
         "name": "TEXT_WEP_LEGEND_ST_KOF_CHIZURU_NAME",
         "image": "st_limited_kof_chizuru",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_KOF_CHIZURU_4",
@@ -4807,6 +5244,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_KOF_CHIZURU_6",
         "name": "TEXT_WEP_LEGEND_ST_KOF_CHIZURU_NAME",
         "image": "st_limited_kof_chizuru",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_KOF_CHIZURU_6",
@@ -4818,6 +5256,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_KOF_SHERMIE_4",
         "name": "TEXT_WEP_LEGEND_ST_KOF_SHERMIE_NAME",
         "image": "st_limited_kof_shermie",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_KOF_SHERMIE_4",
@@ -4829,6 +5268,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_KOF_SHERMIE_5",
         "name": "TEXT_WEP_LEGEND_ST_KOF_SHERMIE_NAME",
         "image": "st_limited_kof_shermie",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_KOF_SHERMIE_4",
@@ -4840,6 +5280,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_KOF_SHERMIE_6",
         "name": "TEXT_WEP_LEGEND_ST_KOF_SHERMIE_NAME",
         "image": "st_limited_kof_shermie",
         "ability": "TEXT_EXCLUSIVE_ST_LIMITED_KOF_SHERMIE_6",
@@ -4851,6 +5292,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_SPR_ANNA_4",
         "name": "TEXT_WEP_LEGEND_ST_SPR_ANNA_4_NAME",
         "image": "st_limited_spr_4_anna",
         "ability": "TEXT_WEP_LEGEND_ST_SPR_ANNA_4_DESC",
@@ -4862,6 +5304,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_SPR_ANNA_5",
         "name": "TEXT_WEP_LEGEND_ST_SPR_ANNA_5_NAME",
         "image": "st_limited_spr_5_anna",
         "ability": "TEXT_WEP_LEGEND_ST_SPR_ANNA_5_DESC",
@@ -4873,6 +5316,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_SPR_ANNA_6",
         "name": "TEXT_WEP_LEGEND_ST_SPR_ANNA_6_NAME",
         "image": "st_limited_spr_6_anna",
         "ability": "TEXT_WEP_LEGEND_ST_SPR_ANNA_6_DESC",
@@ -4884,6 +5328,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_1",
         "name": "TEXT_WEP_SW_S4_1_NAME",
         "image": "sw_s4_01",
         "ability": "TEXT_EXCLUSIVE_SW_4_1",
@@ -4895,6 +5340,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_10",
         "name": "TEXT_WEP_SW_S4_10_NAME",
         "image": "sw_s4_10",
         "ability": "TEXT_EXCLUSIVE_SW_4_10",
@@ -4906,6 +5352,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_11",
         "name": "TEXT_WEP_SW_S4_11_NAME",
         "image": "sw_s4_11",
         "ability": "TEXT_EXCLUSIVE_SW_4_11",
@@ -4917,6 +5364,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_12",
         "name": "TEXT_WEP_SW_S4_12_NAME",
         "image": "sw_s4_12",
         "ability": "TEXT_EXCLUSIVE_SW_4_12",
@@ -4928,6 +5376,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_13",
         "name": "TEXT_WEP_SW_S4_13_NAME",
         "image": "sw_s4_13",
         "ability": "TEXT_EXCLUSIVE_SW_4_13",
@@ -4939,6 +5388,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_14",
         "name": "TEXT_WEP_SW_S4_14_NAME",
         "image": "sw_s4_14",
         "ability": "TEXT_EXCLUSIVE_SW_4_14",
@@ -4950,6 +5400,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_15",
         "name": "TEXT_WEP_SW_S4_15_NAME",
         "image": "sw_s4_15",
         "ability": "TEXT_EXCLUSIVE_SW_4_15",
@@ -4961,6 +5412,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_16",
         "name": "TEXT_WEP_SW_S4_16_NAME",
         "image": "sw_s4_16",
         "ability": "TEXT_EXCLUSIVE_SW_4_16",
@@ -4972,6 +5424,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_17",
         "name": "TEXT_WEP_SW_S4_17_NAME",
         "image": "sw_s4_17",
         "ability": "TEXT_EXCLUSIVE_SW_4_17",
@@ -4983,6 +5436,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_18",
         "name": "TEXT_WEP_SW_S4_18_NAME",
         "image": "sw_s4_18",
         "ability": "TEXT_EXCLUSIVE_SW_4_18",
@@ -4994,6 +5448,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_19",
         "name": "TEXT_WEP_SW_S4_19_NAME",
         "image": "sw_s4_19",
         "ability": "TEXT_EXCLUSIVE_SW_4_19",
@@ -5005,6 +5460,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_2",
         "name": "TEXT_WEP_SW_S4_2_NAME",
         "image": "sw_s4_02",
         "ability": "TEXT_EXCLUSIVE_SW_4_2",
@@ -5016,6 +5472,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_20",
         "name": "TEXT_WEP_SW_S4_20_NAME",
         "image": "sw_s4_20",
         "ability": "TEXT_EXCLUSIVE_SW_4_20",
@@ -5027,6 +5484,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_21",
         "name": "TEXT_WEP_SW_S4_21_NAME",
         "image": "sw_s4_21",
         "ability": "TEXT_EXCLUSIVE_SW_4_21",
@@ -5038,6 +5496,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_22",
         "name": "TEXT_WEP_LEGEND_SW_CHA_4_22_NAME",
         "image": "sw_s4_22",
         "ability": "TEXT_WEP_LEGEND_SW_CHA_4_22_DESC",
@@ -5049,6 +5508,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_SW_CHA_4_24_NAME",
         "image": "sw_s4_24",
         "ability": "TEXT_WEP_LEGEND_SW_CHA_4_24_DESC",
@@ -5060,6 +5520,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_3",
         "name": "TEXT_WEP_SW_S4_3_NAME",
         "image": "sw_s4_03",
         "ability": "TEXT_EXCLUSIVE_SW_4_3",
@@ -5071,6 +5532,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_4",
         "name": "TEXT_WEP_SW_S4_4_NAME",
         "image": "sw_s4_04",
         "ability": "TEXT_EXCLUSIVE_SW_4_4",
@@ -5082,6 +5544,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_5",
         "name": "TEXT_WEP_SW_S4_5_NAME",
         "image": "sw_s4_05",
         "ability": "TEXT_EXCLUSIVE_SW_4_5",
@@ -5093,6 +5556,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_6",
         "name": "TEXT_WEP_SW_S4_6_NAME",
         "image": "sw_s4_06",
         "ability": "TEXT_EXCLUSIVE_SW_4_6",
@@ -5104,6 +5568,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_7",
         "name": "TEXT_WEP_SW_S4_7_NAME",
         "image": "sw_s4_07",
         "ability": "TEXT_EXCLUSIVE_SW_4_7",
@@ -5115,6 +5580,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_8",
         "name": "TEXT_WEP_SW_S4_8_NAME",
         "image": "sw_s4_08",
         "ability": "TEXT_EXCLUSIVE_SW_4_8",
@@ -5126,6 +5592,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_9",
         "name": "TEXT_WEP_SW_S4_9_NAME",
         "image": "sw_s4_09",
         "ability": "TEXT_EXCLUSIVE_SW_4_9",
@@ -5137,6 +5604,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_1",
         "name": "TEXT_WEP_SW_S5_1_NAME",
         "image": "sw_s5_01",
         "ability": "TEXT_EXCLUSIVE_SW_4_1",
@@ -5148,6 +5616,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_10",
         "name": "TEXT_WEP_SW_S5_10_NAME",
         "image": "sw_s5_10",
         "ability": "TEXT_EXCLUSIVE_SW_4_10",
@@ -5159,6 +5628,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_11",
         "name": "TEXT_WEP_SW_S5_11_NAME",
         "image": "sw_s5_11",
         "ability": "TEXT_EXCLUSIVE_SW_4_11",
@@ -5170,6 +5640,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_12",
         "name": "TEXT_WEP_SW_S5_12_NAME",
         "image": "sw_s5_12",
         "ability": "TEXT_EXCLUSIVE_SW_4_12",
@@ -5181,6 +5652,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_13",
         "name": "TEXT_WEP_SW_S5_13_NAME",
         "image": "sw_s5_13",
         "ability": "TEXT_EXCLUSIVE_SW_4_13",
@@ -5192,6 +5664,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_14",
         "name": "TEXT_WEP_SW_S5_14_NAME",
         "image": "sw_s5_14",
         "ability": "TEXT_EXCLUSIVE_SW_4_14",
@@ -5203,6 +5676,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_15",
         "name": "TEXT_WEP_SW_S5_15_NAME",
         "image": "sw_s5_15",
         "ability": "TEXT_EXCLUSIVE_SW_4_15",
@@ -5214,6 +5688,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_16",
         "name": "TEXT_WEP_SW_S5_16_NAME",
         "image": "sw_s5_16",
         "ability": "TEXT_EXCLUSIVE_SW_4_16",
@@ -5225,6 +5700,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_17",
         "name": "TEXT_WEP_SW_S5_17_NAME",
         "image": "sw_s5_17",
         "ability": "TEXT_EXCLUSIVE_SW_4_17",
@@ -5236,6 +5712,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_18",
         "name": "TEXT_WEP_SW_S5_18_NAME",
         "image": "sw_s5_18",
         "ability": "TEXT_EXCLUSIVE_SW_5_18",
@@ -5247,6 +5724,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_19",
         "name": "TEXT_WEP_SW_S5_19_NAME",
         "image": "sw_s5_19",
         "ability": "TEXT_EXCLUSIVE_SW_5_19",
@@ -5258,6 +5736,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_2",
         "name": "TEXT_WEP_SW_S5_2_NAME",
         "image": "sw_s5_02",
         "ability": "TEXT_EXCLUSIVE_SW_4_2",
@@ -5269,6 +5748,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_20",
         "name": "TEXT_WEP_SW_S5_20_NAME",
         "image": "sw_s5_20",
         "ability": "TEXT_EXCLUSIVE_SW_5_20",
@@ -5280,6 +5760,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_21",
         "name": "TEXT_WEP_SW_S5_21_NAME",
         "image": "sw_s5_21",
         "ability": "TEXT_EXCLUSIVE_SW_5_21",
@@ -5291,6 +5772,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_22",
         "name": "TEXT_WEP_LEGEND_SW_CHA_5_22_NAME",
         "image": "sw_s5_22",
         "ability": "TEXT_WEP_LEGEND_SW_CHA_5_22_DESC",
@@ -5302,6 +5784,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_SW_CHA_5_24_NAME",
         "image": "sw_s5_24",
         "ability": "TEXT_WEP_LEGEND_SW_CHA_5_24_DESC",
@@ -5313,6 +5796,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_3",
         "name": "TEXT_WEP_SW_S5_3_NAME",
         "image": "sw_s5_03",
         "ability": "TEXT_EXCLUSIVE_SW_4_3",
@@ -5324,6 +5808,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_4",
         "name": "TEXT_WEP_SW_S5_4_NAME",
         "image": "sw_s5_04",
         "ability": "TEXT_EXCLUSIVE_SW_4_4",
@@ -5335,6 +5820,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_5",
         "name": "TEXT_WEP_SW_S5_5_NAME",
         "image": "sw_s5_05",
         "ability": "TEXT_EXCLUSIVE_SW_4_5",
@@ -5346,6 +5832,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_6",
         "name": "TEXT_WEP_SW_S5_6_NAME",
         "image": "sw_s5_06",
         "ability": "TEXT_EXCLUSIVE_SW_4_6",
@@ -5357,6 +5844,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_7",
         "name": "TEXT_WEP_SW_S5_7_NAME",
         "image": "sw_s5_07",
         "ability": "TEXT_EXCLUSIVE_SW_4_7",
@@ -5368,6 +5856,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_8",
         "name": "TEXT_WEP_SW_S5_8_NAME",
         "image": "sw_s5_08",
         "ability": "TEXT_EXCLUSIVE_SW_4_8",
@@ -5379,6 +5868,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_5_9",
         "name": "TEXT_WEP_SW_S5_9_NAME",
         "image": "sw_s5_09",
         "ability": "TEXT_EXCLUSIVE_SW_4_9",
@@ -5390,6 +5880,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_1",
         "name": "TEXT_WEP_SW_S6_1_NAME",
         "image": "sw_s6_01",
         "ability": "TEXT_EXCLUSIVE_SW_6_1",
@@ -5401,6 +5892,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_10",
         "name": "TEXT_WEP_SW_S6_10_NAME",
         "image": "sw_s6_10",
         "ability": "TEXT_EXCLUSIVE_SW_6_10",
@@ -5412,6 +5904,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_11",
         "name": "TEXT_WEP_SW_S6_11_NAME",
         "image": "sw_s6_11",
         "ability": "TEXT_EXCLUSIVE_SW_6_11",
@@ -5423,6 +5916,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_12",
         "name": "TEXT_WEP_SW_S6_12_NAME",
         "image": "sw_s6_12",
         "ability": "TEXT_EXCLUSIVE_SW_6_12",
@@ -5434,6 +5928,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_13",
         "name": "TEXT_WEP_SW_S6_13_NAME",
         "image": "sw_s6_13",
         "ability": "TEXT_EXCLUSIVE_SW_6_13",
@@ -5445,6 +5940,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_14",
         "name": "TEXT_WEP_SW_S6_14_NAME",
         "image": "sw_s6_14",
         "ability": "TEXT_EXCLUSIVE_SW_6_14",
@@ -5456,6 +5952,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_15",
         "name": "TEXT_WEP_SW_S6_15_NAME",
         "image": "sw_s6_15",
         "ability": "TEXT_EXCLUSIVE_SW_6_15",
@@ -5467,6 +5964,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_16",
         "name": "TEXT_WEP_SW_S6_16_NAME",
         "image": "sw_s6_16",
         "ability": "TEXT_EXCLUSIVE_SW_6_16",
@@ -5478,6 +5976,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_17",
         "name": "TEXT_WEP_SW_S6_17_NAME",
         "image": "sw_s6_17",
         "ability": "TEXT_EXCLUSIVE_SW_6_17",
@@ -5489,6 +5988,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_18",
         "name": "TEXT_WEP_SW_S6_18_NAME",
         "image": "sw_s6_18",
         "ability": "TEXT_EXCLUSIVE_SW_6_18",
@@ -5500,6 +6000,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_19",
         "name": "TEXT_WEP_SW_S6_19_NAME",
         "image": "sw_s6_19",
         "ability": "TEXT_EXCLUSIVE_SW_6_19",
@@ -5511,6 +6012,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_2",
         "name": "TEXT_WEP_SW_S6_2_NAME",
         "image": "sw_s6_02",
         "ability": "TEXT_EXCLUSIVE_SW_6_2",
@@ -5522,6 +6024,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_20",
         "name": "TEXT_WEP_SW_S6_20_NAME",
         "image": "sw_s6_20",
         "ability": "TEXT_EXCLUSIVE_SW_6_20",
@@ -5533,6 +6036,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_21",
         "name": "TEXT_WEP_SW_S6_21_NAME",
         "image": "sw_s6_21",
         "ability": "TEXT_EXCLUSIVE_SW_6_21",
@@ -5544,6 +6048,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_22",
         "name": "TEXT_WEP_LEGEND_SW_CHA_6_22_NAME",
         "image": "sw_s6_22",
         "ability": "TEXT_WEP_LEGEND_SW_CHA_6_22_DESC",
@@ -5555,6 +6060,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_SW_CHA_6_24_NAME",
         "image": "sw_s6_24",
         "ability": "TEXT_WEP_LEGEND_SW_CHA_6_24_DESC",
@@ -5566,6 +6072,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_3",
         "name": "TEXT_WEP_SW_S6_3_NAME",
         "image": "sw_s6_03",
         "ability": "TEXT_EXCLUSIVE_SW_6_3",
@@ -5577,6 +6084,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_4",
         "name": "TEXT_WEP_SW_S6_4_NAME",
         "image": "sw_s6_04",
         "ability": "TEXT_EXCLUSIVE_SW_6_4",
@@ -5588,6 +6096,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_5",
         "name": "TEXT_WEP_SW_S6_5_NAME",
         "image": "sw_s6_05",
         "ability": "TEXT_EXCLUSIVE_SW_6_5",
@@ -5599,6 +6108,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_6",
         "name": "TEXT_WEP_SW_S6_6_NAME",
         "image": "sw_s6_06",
         "ability": "TEXT_EXCLUSIVE_SW_6_6",
@@ -5610,6 +6120,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_7",
         "name": "TEXT_WEP_SW_S6_7_NAME",
         "image": "sw_s6_07",
         "ability": "TEXT_EXCLUSIVE_SW_6_7",
@@ -5621,6 +6132,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_8",
         "name": "TEXT_WEP_SW_S6_8_NAME",
         "image": "sw_s6_08",
         "ability": "TEXT_EXCLUSIVE_SW_6_8",
@@ -5632,6 +6144,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_9",
         "name": "TEXT_WEP_SW_S6_9_NAME",
         "image": "sw_s6_09",
         "ability": "TEXT_EXCLUSIVE_SW_6_9",
@@ -5643,6 +6156,7 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_4_1",
         "name": "TEXT_WEP_SW_LIMITED_4_1_NAME",
         "image": "sw_limited_gg_ky_4",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_1",
@@ -5654,6 +6168,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_4_2",
         "name": "TEXT_WEP_SW_LIMITED_4_2_NAME",
         "image": "sw_limited_gg_sol_4",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_2",
@@ -5665,6 +6180,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_4_3",
         "name": "TEXT_WEP_SW_LIMITED_4_3_NAME",
         "image": "sw_limited_gg_millia_04",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_3",
@@ -5676,6 +6192,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_4_4",
         "name": "TEXT_WEP_SW_LIMITED_4_4_NAME",
         "image": "sw_limited_gg_johnny_04",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_4",
@@ -5687,6 +6204,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_5_1",
         "name": "TEXT_WEP_SW_LIMITED_5_1_NAME",
         "image": "sw_limited_gg_ky_5",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_1",
@@ -5698,6 +6216,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_5_2",
         "name": "TEXT_WEP_SW_LIMITED_5_2_NAME",
         "image": "sw_limited_gg_sol_5",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_2",
@@ -5709,6 +6228,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_5_3",
         "name": "TEXT_WEP_SW_LIMITED_5_3_NAME",
         "image": "sw_limited_gg_millia_05",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_3",
@@ -5720,6 +6240,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_5_4",
         "name": "TEXT_WEP_SW_LIMITED_5_4_NAME",
         "image": "sw_limited_gg_johnny_05",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_4",
@@ -5731,6 +6252,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_6_1",
         "name": "TEXT_WEP_SW_LIMITED_6_1_NAME",
         "image": "sw_limited_gg_ky_6",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_1",
@@ -5742,6 +6264,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_6_2",
         "name": "TEXT_WEP_SW_LIMITED_6_2_NAME",
         "image": "sw_limited_gg_sol_6",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_2",
@@ -5753,6 +6276,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_6_3",
         "name": "TEXT_WEP_SW_LIMITED_6_3_NAME",
         "image": "sw_limited_gg_millia_06",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_3",
@@ -5764,6 +6288,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_GG_CHA_6_4",
         "name": "TEXT_WEP_SW_LIMITED_6_4_NAME",
         "image": "sw_limited_gg_johnny_06",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_4",
@@ -5775,6 +6300,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_CHRIS_4",
         "name": "TEXT_WEP_LEGEND_SW_KOF_CHRIS_NAME",
         "image": "sw_limited_kof_christ",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_CHRIS_4",
@@ -5786,6 +6312,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_CHRIS_5",
         "name": "TEXT_WEP_LEGEND_SW_KOF_CHRIS_NAME",
         "image": "sw_limited_kof_christ",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_CHRIS_4",
@@ -5797,6 +6324,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_CHRIS_6",
         "name": "TEXT_WEP_LEGEND_SW_KOF_CHRIS_NAME",
         "image": "sw_limited_kof_christ",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_CHRIS_6",
@@ -5808,6 +6336,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_IORI_4",
         "name": "TEXT_WEP_LEGEND_SW_KOF_IORI_NAME",
         "image": "sw_limited_kof_iori",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_IORI_4",
@@ -5819,6 +6348,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_IORI_5",
         "name": "TEXT_WEP_LEGEND_SW_KOF_IORI_NAME",
         "image": "sw_limited_kof_iori",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_IORI_4",
@@ -5830,6 +6360,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_IORI_6",
         "name": "TEXT_WEP_LEGEND_SW_KOF_IORI_NAME",
         "image": "sw_limited_kof_iori",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_IORI_6",
@@ -5841,6 +6372,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_KYO_4",
         "name": "TEXT_WEP_LEGEND_SW_KOF_KYO_NAME",
         "image": "sw_limited_kof_kyo",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_KYO_4",
@@ -5852,6 +6384,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_KYO_5",
         "name": "TEXT_WEP_LEGEND_SW_KOF_KYO_NAME",
         "image": "sw_limited_kof_kyo",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_KYO_4",
@@ -5863,6 +6396,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_KYO_6",
         "name": "TEXT_WEP_LEGEND_SW_KOF_KYO_NAME",
         "image": "sw_limited_kof_kyo",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_KYO_6",
@@ -5874,6 +6408,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_RUGAL_4",
         "name": "TEXT_WEP_LEGEND_SW_KOF_RUGAL_NAME",
         "image": "sw_limited_kof_rugal",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_RUGAL_4",
@@ -5885,6 +6420,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_RUGAL_5",
         "name": "TEXT_WEP_LEGEND_SW_KOF_RUGAL_NAME",
         "image": "sw_limited_kof_rugal",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_RUGAL_4",
@@ -5896,6 +6432,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_KOF_RUGAL_6",
         "name": "TEXT_WEP_LEGEND_SW_KOF_RUGAL_NAME",
         "image": "sw_limited_kof_rugal",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_KOF_RUGAL_6",
@@ -5907,6 +6444,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_RB_BLAKE_4",
         "name": "TEXT_WEP_LEGEND_SW_RB_BLAKE_NAME",
         "image": "sw_limited_rb_blake",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_RB_BLAKE_4",
@@ -5918,6 +6456,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_RB_BLAKE_5",
         "name": "TEXT_WEP_LEGEND_SW_RB_BLAKE_NAME",
         "image": "sw_limited_rb_blake",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_RB_BLAKE_4",
@@ -5929,6 +6468,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_RB_BLAKE_6",
         "name": "TEXT_WEP_LEGEND_SW_RB_BLAKE_NAME",
         "image": "sw_limited_rb_blake",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_RB_BLAKE_6",
@@ -5940,6 +6480,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_RB_WEISS_4",
         "name": "TEXT_WEP_LEGEND_SW_RB_WEISS_NAME",
         "image": "sw_limited_rb_weiss",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_RB_WEISS_4",
@@ -5951,6 +6492,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_RB_WEISS_5",
         "name": "TEXT_WEP_LEGEND_SW_RB_WEISS_NAME",
         "image": "sw_limited_rb_weiss",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_RB_WEISS_4",
@@ -5962,6 +6504,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_RB_WEISS_6",
         "name": "TEXT_WEP_LEGEND_SW_RB_WEISS_NAME",
         "image": "sw_limited_rb_weiss",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_RB_WEISS_6",
@@ -5973,6 +6516,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_SPR_TWILLY_4",
         "name": "TEXT_WEP_LEGEND_SW_SPR_TWILLY_4_NAME",
         "image": "sw_limited_spr_4_twilly",
         "ability": "TEXT_WEP_LEGEND_SW_SPR_TWILLY_4_DESC",
@@ -5984,6 +6528,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_SPR_TWILLY_5",
         "name": "TEXT_WEP_LEGEND_SW_SPR_TWILLY_5_NAME",
         "image": "sw_limited_spr_5_twilly",
         "ability": "TEXT_WEP_LEGEND_SW_SPR_TWILLY_5_DESC",
@@ -5995,6 +6540,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_SPR_TWILLY_6",
         "name": "TEXT_WEP_LEGEND_SW_SPR_TWILLY_6_NAME",
         "image": "sw_limited_spr_6_twilly",
         "ability": "TEXT_WEP_LEGEND_SW_SPR_TWILLY_6_DESC",
@@ -6006,6 +6552,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS8_ADOL_4",
         "name": "TEXT_WEP_LEGEND_SW_YS8_ADOL_NAME",
         "image": "sw_limited_ys8_adol",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_ADOL_4",
@@ -6017,6 +6564,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS8_ADOL_5",
         "name": "TEXT_WEP_LEGEND_SW_YS8_ADOL_NAME",
         "image": "sw_limited_ys8_adol",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_ADOL_4",
@@ -6028,6 +6576,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS8_ADOL_6",
         "name": "TEXT_WEP_LEGEND_SW_YS8_ADOL_NAME",
         "image": "sw_limited_ys8_adol",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_ADOL_6",
@@ -6039,6 +6588,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS_DANA_4",
         "name": "TEXT_WEP_LEGEND_SW_YS8_DANA_NAME",
         "image": "sw_limited_ys8_dana",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_DANA_4",
@@ -6050,6 +6600,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS_DANA_5",
         "name": "TEXT_WEP_LEGEND_SW_YS8_DANA_NAME",
         "image": "sw_limited_ys8_dana",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_DANA_4",
@@ -6061,6 +6612,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS_DANA_6",
         "name": "TEXT_WEP_LEGEND_SW_YS8_DANA_NAME",
         "image": "sw_limited_ys8_dana",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_DANA_6",
@@ -6072,6 +6624,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS_LAXIA_4",
         "name": "TEXT_WEP_LEGEND_SW_YS8_LAXIA_NAME",
         "image": "sw_limited_ys8_laxia",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_LAXIA_4",
@@ -6083,6 +6636,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS_LAXIA_5",
         "name": "TEXT_WEP_LEGEND_SW_YS8_LAXIA_NAME",
         "image": "sw_limited_ys8_laxia",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_LAXIA_4",
@@ -6094,6 +6648,7 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_SW_YS_LAXIA_6",
         "name": "TEXT_WEP_LEGEND_SW_YS8_LAXIA_NAME",
         "image": "sw_limited_ys8_laxia",
         "ability": "TEXT_EXCLUSIVE_SW_LIMITED_YS8_LAXIA_6",

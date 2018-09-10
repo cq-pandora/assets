@@ -1,5 +1,6 @@
 [
     {
+        "id": "SIS_CHRONOS",
         "name": "TEXT_CRONOS_NAME",
         "image": "sis_7",
         "skill_name": "TEXT_SIS_SKILL_CHRONOS_NAME",
@@ -7,6 +8,7 @@
         "ingame_id": "SIS_CHRONOS"
     },
     {
+        "id": "SIS_DESERT",
         "name": "TEXT_SISANUT_NAME",
         "image": "sis_2",
         "skill_name": "TEXT_SIS_SKILL_DESERT_NAME",
@@ -14,6 +16,7 @@
         "ingame_id": "SIS_DESERT"
     },
     {
+        "id": "SIS_DESERT_HEAD_1_LV1",
         "name": "TEXT_SISANUT_NAME",
         "image": "sis_2",
         "skill_name": "TEXT_SIS_SKILL_DESERT_NAME",
@@ -21,6 +24,7 @@
         "ingame_id": "SIS_DESERT_HEAD_1_LV1"
     },
     {
+        "id": "SIS_DOG",
         "name": "TEXT_SISDOG_NAME",
         "image": "sis_0",
         "skill_name": "TEXT_SIS_SKILL_DOG_NAME",
@@ -28,6 +32,7 @@
         "ingame_id": "SIS_DOG"
     },
     {
+        "id": "SIS_DOG_HEAD_1_LV1",
         "name": "TEXT_SISDOG_NAME",
         "image": "sis_0",
         "skill_name": "TEXT_SIS_SKILL_DOG_NAME",
@@ -35,6 +40,7 @@
         "ingame_id": "SIS_DOG_HEAD_1_LV1"
     },
     {
+        "id": "SIS_FOREST",
         "name": "TEXT_FRESTINA_NAME",
         "image": "sis_1",
         "skill_name": "TEXT_SIS_SKILL_FRESTINA_NAME",
@@ -42,6 +48,7 @@
         "ingame_id": "SIS_FOREST"
     },
     {
+        "id": "SIS_FOREST_HEAD_1_LV1",
         "name": "TEXT_FRESTINA_NAME",
         "image": "sis_1",
         "skill_name": "TEXT_SIS_SKILL_FRESTINA_NAME",
@@ -49,6 +56,7 @@
         "ingame_id": "SIS_FOREST_HEAD_1_LV1"
     },
     {
+        "id": "SIS_FOREST_S2",
         "name": "TEXT_FRESTINA_NAME",
         "image": "sis_1_s2",
         "skill_name": "TEXT_SIS_SKILL_FRESTINA_NAME",
@@ -56,6 +64,7 @@
         "ingame_id": "SIS_FOREST_S2"
     },
     {
+        "id": "SIS_SEA",
         "name": "TEXT_SISKRAKEN_NAME",
         "image": "sis_3",
         "skill_name": "TEXT_SIS_SKILL_SEA_NAME",
@@ -63,6 +72,7 @@
         "ingame_id": "SIS_SEA"
     },
     {
+        "id": "SIS_SEA_HEAD_1_LV1",
         "name": "TEXT_SISKRAKEN_NAME",
         "image": "sis_3",
         "skill_name": "TEXT_SIS_SKILL_SEA_NAME",
@@ -70,6 +80,7 @@
         "ingame_id": "SIS_SEA_HEAD_1_LV1"
     },
     {
+        "id": "SIS_SILUNIS",
         "name": "TEXT_SILUNIS_NAME",
         "image": "sis_9",
         "skill_name": "TEXT_SIS_SKILL_SILUNIS_NAME",
@@ -77,6 +88,7 @@
         "ingame_id": "SIS_SILUNIS"
     },
     {
+        "id": "SIS_SILUNIS_HIDDEN",
         "name": "TEXT_SILUNIS_HIDDEN_NAME",
         "image": "sis_8",
         "skill_name": "TEXT_SIS_SKILL_SILUNIS_NAME",
@@ -84,6 +96,7 @@
         "ingame_id": "SIS_SILUNIS_HIDDEN"
     },
     {
+        "id": "SIS_VOLCANO",
         "name": "TEXT_SISDRAGON_NAME",
         "image": "sis_4",
         "skill_name": "TEXT_SIS_SKILL_VOLCANO_NAME",
@@ -91,6 +104,7 @@
         "ingame_id": "SIS_VOLCANO"
     },
     {
+        "id": "SIS_VOLCANO_HEAD_1_LV1",
         "name": "TEXT_SISDRAGON_NAME",
         "image": "sis_4",
         "skill_name": "TEXT_SIS_SKILL_VOLCANO_NAME",
@@ -98,6 +112,7 @@
         "ingame_id": "SIS_VOLCANO_HEAD_1_LV1"
     },
     {
+        "id": "SIS_WINTER",
         "name": "TEXT_DIONE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
@@ -105,6 +120,7 @@
         "ingame_id": "SIS_WINTER"
     },
     {
+        "id": "SIS_WINTER_HEAD_1_LV0",
         "name": "TEXT_DIONE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
@@ -112,6 +128,7 @@
         "ingame_id": "SIS_WINTER_HEAD_1_LV0"
     },
     {
+        "id": "SIS_WINTER_HEAD_1_LV1",
         "name": "TEXT_DIONE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
@@ -119,6 +136,7 @@
         "ingame_id": "SIS_WINTER_HEAD_1_LV1"
     },
     {
+        "id": "SIS_WINTER_HEAD_1_LV2",
         "name": "TEXT_DIONE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",

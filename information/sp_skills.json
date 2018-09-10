@@ -1,5 +1,6 @@
 [
     {
+        "id": "text_skill_ar_boomerang_name",
         "name": "TEXT_SKILL_AR_BOOMERANG_NAME",
         "class": "archer",
         "type": "normal",
@@ -37,6 +38,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_fastshot_spirit_name",
         "name": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_NAME",
         "class": "archer",
         "type": "ultimate",
@@ -62,6 +64,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_floatnsting_name",
         "name": "TEXT_SKILL_AR_FLOATNSTING_NAME",
         "class": "archer",
         "type": "normal",
@@ -99,6 +102,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_ghost_arrow_name",
         "name": "TEXT_SKILL_AR_GHOST_ARROW_NAME",
         "class": "archer",
         "type": "ultimate",
@@ -124,6 +128,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_knife_storm_name",
         "name": "TEXT_SKILL_AR_KNIFE_STORM_NAME",
         "class": "archer",
         "type": "normal",
@@ -161,6 +166,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_phoenix_arrow_name",
         "name": "TEXT_SKILL_AR_PHOENIX_ARROW_NAME",
         "class": "archer",
         "type": "ultimate",
@@ -186,6 +192,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_poison_dart_name",
         "name": "TEXT_SKILL_AR_POISON_DART_NAME",
         "class": "archer",
         "type": "normal",
@@ -223,6 +230,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_rain_of_firearrow_name",
         "name": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_NAME",
         "class": "archer",
         "type": "normal",
@@ -260,6 +268,7 @@
         ]
     },
     {
+        "id": "text_skill_ar_strafe_shot_name",
         "name": "TEXT_SKILL_AR_STRAFE_SHOT_NAME",
         "class": "archer",
         "type": "ultimate",
@@ -285,6 +294,7 @@
         ]
     },
     {
+        "id": "text_skill_af_bread_name",
         "name": "TEXT_SKILL_AF_BREAD_NAME",
         "type": "normal",
         "forms": [
@@ -297,6 +307,7 @@
         ]
     },
     {
+        "id": "text_skill_af_block_name",
         "name": "TEXT_SKILL_AF_BLOCK_NAME",
         "type": "normal",
         "forms": [
@@ -309,6 +320,7 @@
         ]
     },
     {
+        "id": "text_skill_af_speed_name",
         "name": "TEXT_SKILL_AF_SPEED_NAME",
         "type": "normal",
         "forms": [
@@ -321,6 +333,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_bullet_time_name",
         "name": "TEXT_SKILL_HU_BULLET_TIME_NAME",
         "class": "hunter",
         "type": "ultimate",
@@ -346,6 +359,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_carpet_bomb_name",
         "name": "TEXT_SKILL_HU_CARPET_BOMB_NAME",
         "class": "hunter",
         "type": "ultimate",
@@ -371,6 +385,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_deadly_spirit_name",
         "name": "TEXT_SKILL_HU_DEADLY_SPIRIT_NAME",
         "class": "hunter",
         "type": "ultimate",
@@ -396,6 +411,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_enchanted_bullet_name",
         "name": "TEXT_SKILL_HU_ENCHANTED_BULLET_NAME",
         "class": "hunter",
         "type": "normal",
@@ -433,6 +449,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_manly_fire_name",
         "name": "TEXT_SKILL_HU_MANLY_FIRE_NAME",
         "class": "hunter",
         "type": "normal",
@@ -470,6 +487,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_napalmbomb_name",
         "name": "TEXT_SKILL_HU_NAPALMBOMB_NAME",
         "class": "hunter",
         "type": "normal",
@@ -507,6 +525,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_napalm_baby_name",
         "name": "TEXT_SKILL_HU_NAPALM_BABY_NAME",
         "class": "hunter",
         "type": "normal",
@@ -544,6 +563,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_open_all_fire_name",
         "name": "TEXT_SKILL_HU_OPEN_ALL_FIRE_NAME",
         "class": "hunter",
         "type": "normal",
@@ -581,6 +601,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_quicken_name",
         "name": "TEXT_SKILL_HU_QUICKEN_NAME",
         "class": "hunter",
         "type": "normal",
@@ -618,6 +639,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_smoke_name",
         "name": "TEXT_SKILL_HU_SMOKE_NAME",
         "class": "hunter",
         "type": "normal",
@@ -655,6 +677,7 @@
         ]
     },
     {
+        "id": "text_skill_hu_turret_009_name",
         "name": "TEXT_SKILL_HU_TURRET_009_NAME",
         "class": "hunter",
         "type": "ultimate",
@@ -680,6 +703,7 @@
         ]
     },
     {
+        "id": "text_skill_kof_power_max_name",
         "name": "TEXT_SKILL_KOF_POWER_MAX_NAME",
         "type": "normal",
         "forms": [
@@ -704,6 +728,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_avatar_name",
         "name": "TEXT_SKILL_PA_AVATAR_NAME",
         "class": "paladin",
         "type": "ultimate",
@@ -729,6 +754,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_bombing_waters_name",
         "name": "TEXT_SKILL_PA_BOMBING_WATERS_NAME",
         "class": "paladin",
         "type": "normal",
@@ -766,6 +792,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_bravery_roar_name",
         "name": "TEXT_SKILL_PA_BRAVERY_ROAR_NAME",
         "class": "paladin",
         "type": "normal",
@@ -803,6 +830,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_captain_name",
         "name": "TEXT_SKILL_PA_CAPTAIN_NAME",
         "type": "normal",
         "forms": [
@@ -815,6 +843,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_docking_anchor_name",
         "name": "TEXT_SKILL_PA_DOCKING_ANCHOR_NAME",
         "class": "paladin",
         "type": "normal",
@@ -852,6 +881,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_orbital_hammer_name",
         "name": "TEXT_SKILL_PA_ORBITAL_HAMMER_NAME",
         "class": "paladin",
         "type": "normal",
@@ -889,6 +919,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_overpower_name",
         "name": "TEXT_SKILL_PA_OVERPOWER_NAME",
         "class": "paladin",
         "type": "normal",
@@ -926,6 +957,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_pala_heal_name",
         "name": "TEXT_SKILL_PA_PALA_HEAL_NAME",
         "class": "paladin",
         "type": "normal",
@@ -963,6 +995,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_sacred_hammer_name",
         "name": "TEXT_SKILL_PA_SACRED_HAMMER_NAME",
         "class": "paladin",
         "type": "ultimate",
@@ -988,6 +1021,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_thorns_armor_name",
         "name": "TEXT_SKILL_PA_THORNS_ARMOR_NAME",
         "class": "paladin",
         "type": "normal",
@@ -1025,6 +1059,7 @@
         ]
     },
     {
+        "id": "text_skill_pa_unbeatable_name",
         "name": "TEXT_SKILL_PA_UNBEATABLE_NAME",
         "class": "paladin",
         "type": "ultimate",
@@ -1050,6 +1085,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_amaterasu_name",
         "name": "TEXT_SKILL_PR_AMATERASU_NAME",
         "class": "priest",
         "type": "ultimate",
@@ -1075,6 +1111,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_blessing_of_goddess_name",
         "name": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_NAME",
         "class": "priest",
         "type": "ultimate",
@@ -1100,6 +1137,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_blkgen_name",
         "name": "TEXT_SKILL_PR_BLKGEN_NAME",
         "class": "priest",
         "type": "ultimate",
@@ -1125,6 +1163,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_holy_sanctuary_name",
         "name": "TEXT_SKILL_PR_HOLY_SANCTUARY_NAME",
         "class": "priest",
         "type": "normal",
@@ -1162,6 +1201,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_quake_totem_name",
         "name": "TEXT_SKILL_PR_QUAKE_TOTEM_NAME",
         "class": "priest",
         "type": "normal",
@@ -1199,6 +1239,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_resurrection_name",
         "name": "TEXT_SKILL_PR_RESURRECTION_NAME",
         "class": "priest",
         "type": "ultimate",
@@ -1224,6 +1265,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_shield_name",
         "name": "TEXT_SKILL_PR_SHIELD_NAME",
         "class": "priest",
         "type": "normal",
@@ -1261,6 +1303,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_starfall_name",
         "name": "TEXT_SKILL_PR_STARFALL_NAME",
         "class": "priest",
         "type": "normal",
@@ -1298,6 +1341,7 @@
         ]
     },
     {
+        "id": "text_skill_pr_stick_and_carrot_name",
         "name": "TEXT_SKILL_PR_STICK_AND_CARROT_NAME",
         "class": "priest",
         "type": "normal",
@@ -1335,6 +1379,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_air_slash_name",
         "name": "TEXT_SKILL_WA_AIR_SLASH_NAME",
         "class": "warrior",
         "type": "ultimate",
@@ -1360,6 +1405,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_avatar_name",
         "name": "TEXT_SKILL_WA_AVATAR_NAME",
         "class": "warrior",
         "type": "ultimate",
@@ -1385,6 +1431,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_crescent_rampage_name",
         "name": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_NAME",
         "class": "warrior",
         "type": "normal",
@@ -1422,6 +1469,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_dancing_sword_name",
         "name": "TEXT_SKILL_WA_DANCING_SWORD_NAME",
         "class": "warrior",
         "type": "ultimate",
@@ -1447,6 +1495,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_fightspirit_name",
         "name": "TEXT_SKILL_WA_FIGHTSPIRIT_NAME",
         "class": "warrior",
         "type": "normal",
@@ -1484,6 +1533,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_final_justice_name",
         "name": "TEXT_SKILL_WA_FINAL_JUSTICE_NAME",
         "class": "warrior",
         "type": "normal",
@@ -1521,6 +1571,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_fireshot_name",
         "name": "TEXT_SKILL_WA_FIRESHOT_NAME",
         "class": "warrior",
         "type": "ultimate",
@@ -1546,6 +1597,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_whirlwind_name",
         "name": "TEXT_SKILL_WA_WHIRLWIND_NAME",
         "class": "warrior",
         "type": "normal",
@@ -1583,6 +1635,7 @@
         ]
     },
     {
+        "id": "text_skill_wa_wind_cleave_name",
         "name": "TEXT_SKILL_WA_WIND_CLEAVE_NAME",
         "class": "warrior",
         "type": "normal",
@@ -1620,6 +1673,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_beamburst_name",
         "name": "TEXT_SKILL_WI_BEAMBURST_NAME",
         "class": "wizard",
         "type": "ultimate",
@@ -1645,6 +1699,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_blackhole_name",
         "name": "TEXT_SKILL_WI_BLACKHOLE_NAME",
         "class": "wizard",
         "type": "normal",
@@ -1682,6 +1737,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_call_ifrit_name",
         "name": "TEXT_SKILL_WI_CALL_IFRIT_NAME",
         "class": "wizard",
         "type": "normal",
@@ -1719,6 +1775,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_lightning_ball_name",
         "name": "TEXT_SKILL_WI_LIGHTNING_BALL_NAME",
         "class": "wizard",
         "type": "normal",
@@ -1756,6 +1813,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_lightning_drop_name",
         "name": "TEXT_SKILL_WI_LIGHTNING_DROP_NAME",
         "class": "wizard",
         "type": "ultimate",
@@ -1781,6 +1839,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_manacharge_name",
         "name": "TEXT_SKILL_WI_MANACHARGE_NAME",
         "class": "wizard",
         "type": "normal",
@@ -1818,6 +1877,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_mana_shield_name",
         "name": "TEXT_SKILL_WI_MANA_SHIELD_NAME",
         "class": "wizard",
         "type": "normal",
@@ -1855,6 +1915,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_pain_fog_name",
         "name": "TEXT_SKILL_WI_PAIN_FOG_NAME",
         "class": "wizard",
         "type": "normal",
@@ -1892,6 +1953,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_shadow_call_name",
         "name": "TEXT_SKILL_WI_SHADOW_CALL_NAME",
         "class": "wizard",
         "type": "ultimate",
@@ -1917,6 +1979,7 @@
         ]
     },
     {
+        "id": "text_skill_wi_tempest_name",
         "name": "TEXT_SKILL_WI_TEMPEST_NAME",
         "class": "wizard",
         "type": "ultimate",

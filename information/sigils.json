@@ -1,6 +1,7 @@
 [
     {
         "ingame_id": "COMMON_ACCURACY_RATE_STONE_1",
+        "id": "COMMON_ACCURACY_RATE_STONE_1",
         "name": "TEXT_COMMON_ACCURACY_RATE_STONE_1_TITLE",
         "description": "TEXT_COMMON_ACCURACY_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -27,6 +28,7 @@
     },
     {
         "ingame_id": "COMMON_ATK_POWER_STONE_1",
+        "id": "COMMON_ATK_POWER_STONE_1",
         "name": "TEXT_COMMON_ATK_POWER_STONE_1_TITLE",
         "description": "TEXT_COMMON_ATK_POWER_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -53,6 +55,7 @@
     },
     {
         "ingame_id": "COMMON_BOUILLABAISSE_STONE_1",
+        "id": "COMMON_BOUILLABAISSE_STONE_1",
         "name": "TEXT_COMMON_BOUILLABAISSE_STONE_1_TITLE",
         "description": "TEXT_COMMON_BOUILLABAISSE_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_19",
@@ -79,6 +82,7 @@
     },
     {
         "ingame_id": "COMMON_BOUILLABAISSE_STONE_2",
+        "id": "COMMON_BOUILLABAISSE_STONE_2",
         "name": "TEXT_COMMON_BOUILLABAISSE_STONE_2_TITLE",
         "description": "TEXT_COMMON_BOUILLABAISSE_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_20",
@@ -105,6 +109,7 @@
     },
     {
         "ingame_id": "COMMON_CRIT_DODGE_RATE_STONE_1",
+        "id": "COMMON_CRIT_DODGE_RATE_STONE_1",
         "name": "TEXT_COMMON_CRIT_DODGE_RATE_STONE_1_TITLE",
         "description": "TEXT_COMMON_CRIT_DODGE_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -131,6 +136,7 @@
     },
     {
         "ingame_id": "COMMON_CRIT_RATE_STONE_1",
+        "id": "COMMON_CRIT_RATE_STONE_1",
         "name": "TEXT_COMMON_CRIT_RATE_STONE_1_TITLE",
         "description": "TEXT_COMMON_CRIT_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -157,6 +163,7 @@
     },
     {
         "ingame_id": "COMMON_DEF_STONE_1",
+        "id": "COMMON_DEF_STONE_1",
         "name": "TEXT_COMMON_DEF_STONE_1_TITLE",
         "description": "TEXT_COMMON_DEF_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -183,6 +190,7 @@
     },
     {
         "ingame_id": "COMMON_DODGE_RATE_STONE_1",
+        "id": "COMMON_DODGE_RATE_STONE_1",
         "name": "TEXT_COMMON_DODGE_RATE_STONE_1_TITLE",
         "description": "TEXT_COMMON_DODGE_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -209,6 +217,7 @@
     },
     {
         "ingame_id": "COMMON_DOMPERIGNON_STONE_1",
+        "id": "COMMON_DOMPERIGNON_STONE_1",
         "name": "TEXT_COMMON_DOMPERIGNON_STONE_1_TITLE",
         "description": "TEXT_COMMON_DOMPERIGNON_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_16",
@@ -235,6 +244,7 @@
     },
     {
         "ingame_id": "COMMON_DOMPERIGNON_STONE_2",
+        "id": "COMMON_DOMPERIGNON_STONE_2",
         "name": "TEXT_COMMON_DOMPERIGNON_STONE_2_TITLE",
         "description": "TEXT_COMMON_DOMPERIGNON_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_17",
@@ -261,6 +271,7 @@
     },
     {
         "ingame_id": "COMMON_GOBLINCHIEF_STONE_1",
+        "id": "COMMON_GOBLINCHIEF_STONE_1",
         "name": "TEXT_COMMON_GOBLINCHIEF_STONE_1_TITLE",
         "description": "TEXT_COMMON_GOBLINCHIEF_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_10",
@@ -287,6 +298,7 @@
     },
     {
         "ingame_id": "COMMON_GOBLINCHIEF_STONE_2",
+        "id": "COMMON_GOBLINCHIEF_STONE_2",
         "name": "TEXT_COMMON_GOBLINCHIEF_STONE_2_TITLE",
         "description": "TEXT_COMMON_GOBLINCHIEF_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_11",
@@ -313,6 +325,7 @@
     },
     {
         "ingame_id": "COMMON_GOBLINCHIEF_STONE_3",
+        "id": "COMMON_GOBLINCHIEF_STONE_3",
         "name": "TEXT_COMMON_GOBLINCHIEF_STONE_3_TITLE",
         "description": "TEXT_COMMON_GOBLINCHIEF_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_12",
@@ -339,6 +352,7 @@
     },
     {
         "ingame_id": "COMMON_GOBLINMASTER_STONE_1",
+        "id": "COMMON_GOBLINMASTER_STONE_1",
         "name": "TEXT_COMMON_GOBLINMASTER_STONE_1_TITLE",
         "description": "TEXT_COMMON_GOBLINMASTER_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_07",
@@ -365,6 +379,7 @@
     },
     {
         "ingame_id": "COMMON_GOBLINMASTER_STONE_2",
+        "id": "COMMON_GOBLINMASTER_STONE_2",
         "name": "TEXT_COMMON_GOBLINMASTER_STONE_2_TITLE",
         "description": "TEXT_COMMON_GOBLINMASTER_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_08",
@@ -391,6 +406,7 @@
     },
     {
         "ingame_id": "COMMON_GOBLINMASTER_STONE_3",
+        "id": "COMMON_GOBLINMASTER_STONE_3",
         "name": "TEXT_COMMON_GOBLINMASTER_STONE_3_TITLE",
         "description": "TEXT_COMMON_GOBLINMASTER_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_09",
@@ -417,6 +433,7 @@
     },
     {
         "ingame_id": "COMMON_KINGTIGER_STONE_1",
+        "id": "COMMON_KINGTIGER_STONE_1",
         "name": "TEXT_COMMON_KINGTIGER_STONE_1_TITLE",
         "description": "TEXT_COMMON_KINGTIGER_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_04",
@@ -443,6 +460,7 @@
     },
     {
         "ingame_id": "COMMON_KINGTIGER_STONE_2",
+        "id": "COMMON_KINGTIGER_STONE_2",
         "name": "TEXT_COMMON_KINGTIGER_STONE_2_TITLE",
         "description": "TEXT_COMMON_KINGTIGER_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_05",
@@ -469,6 +487,7 @@
     },
     {
         "ingame_id": "COMMON_KINGTIGER_STONE_3",
+        "id": "COMMON_KINGTIGER_STONE_3",
         "name": "TEXT_COMMON_KINGTIGER_STONE_3_TITLE",
         "description": "TEXT_COMMON_KINGTIGER_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_06",
@@ -495,6 +514,7 @@
     },
     {
         "ingame_id": "COMMON_MATAHARI_STONE_1",
+        "id": "COMMON_MATAHARI_STONE_1",
         "name": "TEXT_COMMON_MATAHARI_STONE_1_TITLE",
         "description": "TEXT_COMMON_MATAHARI_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_13",
@@ -521,6 +541,7 @@
     },
     {
         "ingame_id": "COMMON_MATAHARI_STONE_2",
+        "id": "COMMON_MATAHARI_STONE_2",
         "name": "TEXT_COMMON_MATAHARI_STONE_2_TITLE",
         "description": "TEXT_COMMON_MATAHARI_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_14",
@@ -547,6 +568,7 @@
     },
     {
         "ingame_id": "COMMON_MAX_HP_STONE_1",
+        "id": "COMMON_MAX_HP_STONE_1",
         "name": "TEXT_COMMON_MAX_HP_STONE_1_TITLE",
         "description": "TEXT_COMMON_MAX_HP_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -573,6 +595,7 @@
     },
     {
         "ingame_id": "COMMON_PENETRATE_DEF_STONE_1",
+        "id": "COMMON_PENETRATE_DEF_STONE_1",
         "name": "TEXT_COMMON_PENETRATE_DEF_STONE_1_TITLE",
         "description": "TEXT_COMMON_PENETRATE_DEF_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -599,6 +622,7 @@
     },
     {
         "ingame_id": "COMMON_PENETRATE_RST_STONE_1",
+        "id": "COMMON_PENETRATE_RST_STONE_1",
         "name": "TEXT_COMMON_PENETRATE_RST_STONE_1_TITLE",
         "description": "TEXT_COMMON_PENETRATE_RST_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -625,6 +649,7 @@
     },
     {
         "ingame_id": "COMMON_RECEIVE_DMG_RATE_STONE_1",
+        "id": "COMMON_RECEIVE_DMG_RATE_STONE_1",
         "name": "TEXT_COMMON_RECEIVE_DMG_RATE_STONE_1_TITLE",
         "description": "TEXT_COMMON_RECEIVE_DMG_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -651,6 +676,7 @@
     },
     {
         "ingame_id": "COMMON_RST_STONE_1",
+        "id": "COMMON_RST_STONE_1",
         "name": "TEXT_COMMON_RST_STONE_1_TITLE",
         "description": "TEXT_COMMON_RST_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -677,6 +703,7 @@
     },
     {
         "ingame_id": "COMMON_SET_DEFFENCE_STONE_1",
+        "id": "COMMON_SET_DEFFENCE_STONE_1",
         "name": "TEXT_COMMON_SET_DEFFENCE_STONE_1_TITLE",
         "description": "TEXT_COMMON_SET_DEFFENCE_STONE_1_DESC",
         "image": "ui_item_stone_1_set_01",
@@ -707,6 +734,7 @@
     },
     {
         "ingame_id": "COMMON_SET_DEFFENCE_STONE_2",
+        "id": "COMMON_SET_DEFFENCE_STONE_2",
         "name": "TEXT_COMMON_SET_DEFFENCE_STONE_2_TITLE",
         "description": "TEXT_COMMON_SET_DEFFENCE_STONE_2_DESC",
         "image": "ui_item_stone_1_set_02",
@@ -737,6 +765,7 @@
     },
     {
         "ingame_id": "COMMON_SET_HEAL_STONE_1",
+        "id": "COMMON_SET_HEAL_STONE_1",
         "name": "TEXT_COMMON_SET_HEAL_STONE_1_TITLE",
         "description": "TEXT_COMMON_SET_HEAL_STONE_1_DESC",
         "image": "ui_item_stone_1_set_07",
@@ -767,6 +796,7 @@
     },
     {
         "ingame_id": "COMMON_SET_HEAL_STONE_2",
+        "id": "COMMON_SET_HEAL_STONE_2",
         "name": "TEXT_COMMON_SET_HEAL_STONE_2_TITLE",
         "description": "TEXT_COMMON_SET_HEAL_STONE_2_DESC",
         "image": "ui_item_stone_1_set_08",
@@ -797,6 +827,7 @@
     },
     {
         "ingame_id": "COMMON_SET_MAGIC_STONE_1",
+        "id": "COMMON_SET_MAGIC_STONE_1",
         "name": "TEXT_COMMON_SET_MAGIC_STONE_1_TITLE",
         "description": "TEXT_COMMON_SET_MAGIC_STONE_1_DESC",
         "image": "ui_item_stone_1_set_05",
@@ -827,6 +858,7 @@
     },
     {
         "ingame_id": "COMMON_SET_MAGIC_STONE_2",
+        "id": "COMMON_SET_MAGIC_STONE_2",
         "name": "TEXT_COMMON_SET_MAGIC_STONE_2_TITLE",
         "description": "TEXT_COMMON_SET_MAGIC_STONE_2_DESC",
         "image": "ui_item_stone_1_set_06",
@@ -857,6 +889,7 @@
     },
     {
         "ingame_id": "COMMON_SET_PHYSIC_STONE_1",
+        "id": "COMMON_SET_PHYSIC_STONE_1",
         "name": "TEXT_COMMON_SET_PHYSIC_STONE_1_TITLE",
         "description": "TEXT_COMMON_SET_PHYSIC_STONE_1_DESC",
         "image": "ui_item_stone_1_set_03",
@@ -887,6 +920,7 @@
     },
     {
         "ingame_id": "COMMON_SET_PHYSIC_STONE_2",
+        "id": "COMMON_SET_PHYSIC_STONE_2",
         "name": "TEXT_COMMON_SET_PHYSIC_STONE_2_TITLE",
         "description": "TEXT_COMMON_SET_PHYSIC_STONE_2_DESC",
         "image": "ui_item_stone_1_set_04",
@@ -917,6 +951,7 @@
     },
     {
         "ingame_id": "COMMON_WINDWALKER_STONE_1",
+        "id": "COMMON_WINDWALKER_STONE_1",
         "name": "TEXT_COMMON_WINDWALKER_STONE_1_TITLE",
         "description": "TEXT_COMMON_WINDWALKER_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_01",
@@ -943,6 +978,7 @@
     },
     {
         "ingame_id": "COMMON_WINDWALKER_STONE_2",
+        "id": "COMMON_WINDWALKER_STONE_2",
         "name": "TEXT_COMMON_WINDWALKER_STONE_2_TITLE",
         "description": "TEXT_COMMON_WINDWALKER_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_02",
@@ -969,6 +1005,7 @@
     },
     {
         "ingame_id": "COMMON_WINDWALKER_STONE_3",
+        "id": "COMMON_WINDWALKER_STONE_3",
         "name": "TEXT_COMMON_WINDWALKER_STONE_3_TITLE",
         "description": "TEXT_COMMON_WINDWALKER_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_03",
@@ -995,6 +1032,7 @@
     },
     {
         "ingame_id": "EPIC_3G_STONE_1",
+        "id": "EPIC_3G_STONE_1",
         "name": "TEXT_EPIC_3G_STONE_1_TITLE",
         "description": "TEXT_EPIC_3G_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_36",
@@ -1021,6 +1059,7 @@
     },
     {
         "ingame_id": "EPIC_ACCURACY_RATE_STONE_1",
+        "id": "EPIC_ACCURACY_RATE_STONE_1",
         "name": "TEXT_EPIC_ACCURACY_RATE_STONE_1_TITLE",
         "description": "TEXT_EPIC_ACCURACY_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -1047,6 +1086,7 @@
     },
     {
         "ingame_id": "EPIC_ANCIENREGIME_STONE_1",
+        "id": "EPIC_ANCIENREGIME_STONE_1",
         "name": "TEXT_EPIC_ANCIENREGIME_STONE_1_TITLE",
         "description": "TEXT_EPIC_ANCIENREGIME_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_22",
@@ -1073,6 +1113,7 @@
     },
     {
         "ingame_id": "EPIC_ANCIENREGIME_STONE_2",
+        "id": "EPIC_ANCIENREGIME_STONE_2",
         "name": "TEXT_EPIC_ANCIENREGIME_STONE_2_TITLE",
         "description": "TEXT_EPIC_ANCIENREGIME_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_23",
@@ -1099,6 +1140,7 @@
     },
     {
         "ingame_id": "EPIC_ANCIENREGIME_STONE_3",
+        "id": "EPIC_ANCIENREGIME_STONE_3",
         "name": "TEXT_EPIC_ANCIENREGIME_STONE_3_TITLE",
         "description": "TEXT_EPIC_ANCIENREGIME_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_24",
@@ -1125,6 +1167,7 @@
     },
     {
         "ingame_id": "EPIC_ATK_POWER_STONE_1",
+        "id": "EPIC_ATK_POWER_STONE_1",
         "name": "TEXT_EPIC_ATK_POWER_STONE_1_TITLE",
         "description": "TEXT_EPIC_ATK_POWER_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -1151,6 +1194,7 @@
     },
     {
         "ingame_id": "EPIC_AVENIR_STONE_1",
+        "id": "EPIC_AVENIR_STONE_1",
         "name": "TEXT_EPIC_AVENIR_STONE_1_TITLE",
         "description": "TEXT_EPIC_AVENIR_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_52",
@@ -1177,6 +1221,7 @@
     },
     {
         "ingame_id": "EPIC_AVENIR_STONE_2",
+        "id": "EPIC_AVENIR_STONE_2",
         "name": "TEXT_EPIC_AVENIR_STONE_2_TITLE",
         "description": "TEXT_EPIC_AVENIR_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_53",
@@ -1203,6 +1248,7 @@
     },
     {
         "ingame_id": "EPIC_AVENIR_STONE_3",
+        "id": "EPIC_AVENIR_STONE_3",
         "name": "TEXT_EPIC_AVENIR_STONE_3_TITLE",
         "description": "TEXT_EPIC_AVENIR_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_54",
@@ -1229,6 +1275,7 @@
     },
     {
         "ingame_id": "EPIC_AZATHOTH_STONE_1",
+        "id": "EPIC_AZATHOTH_STONE_1",
         "name": "TEXT_EPIC_AZATHOTH_STONE_1_TITLE",
         "description": "TEXT_EPIC_AZATHOTH_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_37",
@@ -1255,6 +1302,7 @@
     },
     {
         "ingame_id": "EPIC_AZATHOTH_STONE_2",
+        "id": "EPIC_AZATHOTH_STONE_2",
         "name": "TEXT_EPIC_AZATHOTH_STONE_2_TITLE",
         "description": "TEXT_EPIC_AZATHOTH_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_38",
@@ -1281,6 +1329,7 @@
     },
     {
         "ingame_id": "EPIC_AZATHOTH_STONE_3",
+        "id": "EPIC_AZATHOTH_STONE_3",
         "name": "TEXT_EPIC_AZATHOTH_STONE_3_TITLE",
         "description": "TEXT_EPIC_AZATHOTH_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_39",
@@ -1307,6 +1356,7 @@
     },
     {
         "ingame_id": "EPIC_CRIT_DODGE_RATE_STONE_1",
+        "id": "EPIC_CRIT_DODGE_RATE_STONE_1",
         "name": "TEXT_EPIC_CRIT_DODGE_RATE_STONE_1_TITLE",
         "description": "TEXT_EPIC_CRIT_DODGE_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -1333,6 +1383,7 @@
     },
     {
         "ingame_id": "EPIC_CRIT_RATE_STONE_1",
+        "id": "EPIC_CRIT_RATE_STONE_1",
         "name": "TEXT_EPIC_CRIT_RATE_STONE_1_TITLE",
         "description": "TEXT_EPIC_CRIT_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -1359,6 +1410,7 @@
     },
     {
         "ingame_id": "EPIC_DEF_STONE_1",
+        "id": "EPIC_DEF_STONE_1",
         "name": "TEXT_EPIC_DEF_STONE_1_TITLE",
         "description": "TEXT_EPIC_DEF_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -1385,6 +1437,7 @@
     },
     {
         "ingame_id": "EPIC_DODGE_RATE_STONE_1",
+        "id": "EPIC_DODGE_RATE_STONE_1",
         "name": "TEXT_EPIC_DODGE_RATE_STONE_1_TITLE",
         "description": "TEXT_EPIC_DODGE_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -1411,6 +1464,7 @@
     },
     {
         "ingame_id": "EPIC_GG_STONE_1",
+        "id": "EPIC_GG_STONE_1",
         "name": "TEXT_EPIC_GG_STONE_1_TITLE",
         "description": "TEXT_EPIC_GG_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_30",
@@ -1437,6 +1491,7 @@
     },
     {
         "ingame_id": "EPIC_LEESIN_STONE_1",
+        "id": "EPIC_LEESIN_STONE_1",
         "name": "TEXT_EPIC_LEESIN_STONE_1_TITLE",
         "description": "TEXT_EPIC_LEESIN_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_33",
@@ -1463,6 +1518,7 @@
     },
     {
         "ingame_id": "EPIC_MAX_HP_STONE_1",
+        "id": "EPIC_MAX_HP_STONE_1",
         "name": "TEXT_EPIC_MAX_HP_STONE_1_TITLE",
         "description": "TEXT_EPIC_MAX_HP_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -1489,6 +1545,7 @@
     },
     {
         "ingame_id": "EPIC_PENETRATE_DEF_STONE_1",
+        "id": "EPIC_PENETRATE_DEF_STONE_1",
         "name": "TEXT_EPIC_PENETRATE_DEF_STONE_1_TITLE",
         "description": "TEXT_EPIC_PENETRATE_DEF_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -1515,6 +1572,7 @@
     },
     {
         "ingame_id": "EPIC_PENETRATE_RST_STONE_1",
+        "id": "EPIC_PENETRATE_RST_STONE_1",
         "name": "TEXT_EPIC_PENETRATE_RST_STONE_1_TITLE",
         "description": "TEXT_EPIC_PENETRATE_RST_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -1541,6 +1599,7 @@
     },
     {
         "ingame_id": "EPIC_REBOUILLABAISSE_STONE_1",
+        "id": "EPIC_REBOUILLABAISSE_STONE_1",
         "name": "TEXT_EPIC_REBOUILLABAISSE_STONE_1_TITLE",
         "description": "TEXT_EPIC_REBOUILLABAISSE_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_49",
@@ -1567,6 +1626,7 @@
     },
     {
         "ingame_id": "EPIC_REBOUILLABAISSE_STONE_2",
+        "id": "EPIC_REBOUILLABAISSE_STONE_2",
         "name": "TEXT_EPIC_REBOUILLABAISSE_STONE_2_TITLE",
         "description": "TEXT_EPIC_REBOUILLABAISSE_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_50",
@@ -1593,6 +1653,7 @@
     },
     {
         "ingame_id": "EPIC_REBOUILLABAISSE_STONE_3",
+        "id": "EPIC_REBOUILLABAISSE_STONE_3",
         "name": "TEXT_EPIC_REBOUILLABAISSE_STONE_3_TITLE",
         "description": "TEXT_EPIC_REBOUILLABAISSE_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_51",
@@ -1619,6 +1680,7 @@
     },
     {
         "ingame_id": "EPIC_RECEIVE_DMG_RATE_STONE_1",
+        "id": "EPIC_RECEIVE_DMG_RATE_STONE_1",
         "name": "TEXT_EPIC_RECEIVE_DMG_RATE_STONE_1_TITLE",
         "description": "TEXT_EPIC_RECEIVE_DMG_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -1645,6 +1707,7 @@
     },
     {
         "ingame_id": "EPIC_REDOMPERIGNON_STONE_1",
+        "id": "EPIC_REDOMPERIGNON_STONE_1",
         "name": "TEXT_EPIC_REDOMPERIGNON_STONE_1_TITLE",
         "description": "TEXT_EPIC_REDOMPERIGNON_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_46",
@@ -1671,6 +1734,7 @@
     },
     {
         "ingame_id": "EPIC_REDOMPERIGNON_STONE_2",
+        "id": "EPIC_REDOMPERIGNON_STONE_2",
         "name": "TEXT_EPIC_REDOMPERIGNON_STONE_2_TITLE",
         "description": "TEXT_EPIC_REDOMPERIGNON_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_47",
@@ -1697,6 +1761,7 @@
     },
     {
         "ingame_id": "EPIC_REDOMPERIGNON_STONE_3",
+        "id": "EPIC_REDOMPERIGNON_STONE_3",
         "name": "TEXT_EPIC_REDOMPERIGNON_STONE_3_TITLE",
         "description": "TEXT_EPIC_REDOMPERIGNON_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_48",
@@ -1723,6 +1788,7 @@
     },
     {
         "ingame_id": "EPIC_RESIDUALLION_STONE_1",
+        "id": "EPIC_RESIDUALLION_STONE_1",
         "name": "TEXT_EPIC_RESIDUALLION_STONE_1_TITLE",
         "description": "TEXT_EPIC_RESIDUALLION_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_43",
@@ -1749,6 +1815,7 @@
     },
     {
         "ingame_id": "EPIC_RESIDUALLION_STONE_2",
+        "id": "EPIC_RESIDUALLION_STONE_2",
         "name": "TEXT_EPIC_RESIDUALLION_STONE_2_TITLE",
         "description": "TEXT_EPIC_RESIDUALLION_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_44",
@@ -1775,6 +1842,7 @@
     },
     {
         "ingame_id": "EPIC_RESIDUALLION_STONE_3",
+        "id": "EPIC_RESIDUALLION_STONE_3",
         "name": "TEXT_EPIC_RESIDUALLION_STONE_3_TITLE",
         "description": "TEXT_EPIC_RESIDUALLION_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_45",
@@ -1801,6 +1869,7 @@
     },
     {
         "ingame_id": "EPIC_RST_STONE_1",
+        "id": "EPIC_RST_STONE_1",
         "name": "TEXT_EPIC_RST_STONE_1_TITLE",
         "description": "TEXT_EPIC_RST_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -1827,6 +1896,7 @@
     },
     {
         "ingame_id": "EPIC_RUDERAT_STONE_1",
+        "id": "EPIC_RUDERAT_STONE_1",
         "name": "TEXT_EPIC_RUDERAT_STONE_1_TITLE",
         "description": "TEXT_EPIC_RUDERAT_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_40",
@@ -1853,6 +1923,7 @@
     },
     {
         "ingame_id": "EPIC_RUDERAT_STONE_2",
+        "id": "EPIC_RUDERAT_STONE_2",
         "name": "TEXT_EPIC_RUDERAT_STONE_2_TITLE",
         "description": "TEXT_EPIC_RUDERAT_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_41",
@@ -1879,6 +1950,7 @@
     },
     {
         "ingame_id": "EPIC_RUDERAT_STONE_3",
+        "id": "EPIC_RUDERAT_STONE_3",
         "name": "TEXT_EPIC_RUDERAT_STONE_3_TITLE",
         "description": "TEXT_EPIC_RUDERAT_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_42",
@@ -1905,6 +1977,7 @@
     },
     {
         "ingame_id": "EPIC_SET_DEFFENCE_STONE_1",
+        "id": "EPIC_SET_DEFFENCE_STONE_1",
         "name": "TEXT_EPIC_SET_DEFFENCE_STONE_1_TITLE",
         "description": "TEXT_EPIC_SET_DEFFENCE_STONE_1_DESC",
         "image": "ui_item_stone_1_set_17",
@@ -1935,6 +2008,7 @@
     },
     {
         "ingame_id": "EPIC_SET_DEFFENCE_STONE_2",
+        "id": "EPIC_SET_DEFFENCE_STONE_2",
         "name": "TEXT_EPIC_SET_DEFFENCE_STONE_2_TITLE",
         "description": "TEXT_EPIC_SET_DEFFENCE_STONE_2_DESC",
         "image": "ui_item_stone_1_set_18",
@@ -1965,6 +2039,7 @@
     },
     {
         "ingame_id": "EPIC_SET_HEAL_STONE_1",
+        "id": "EPIC_SET_HEAL_STONE_1",
         "name": "TEXT_EPIC_SET_HEAL_STONE_1_TITLE",
         "description": "TEXT_EPIC_SET_HEAL_STONE_1_DESC",
         "image": "ui_item_stone_1_set_23",
@@ -1995,6 +2070,7 @@
     },
     {
         "ingame_id": "EPIC_SET_HEAL_STONE_2",
+        "id": "EPIC_SET_HEAL_STONE_2",
         "name": "TEXT_EPIC_SET_HEAL_STONE_2_TITLE",
         "description": "TEXT_EPIC_SET_HEAL_STONE_2_DESC",
         "image": "ui_item_stone_1_set_24",
@@ -2025,6 +2101,7 @@
     },
     {
         "ingame_id": "EPIC_SET_MAGIC_STONE_1",
+        "id": "EPIC_SET_MAGIC_STONE_1",
         "name": "TEXT_EPIC_SET_MAGIC_STONE_1_TITLE",
         "description": "TEXT_EPIC_SET_MAGIC_STONE_1_DESC",
         "image": "ui_item_stone_1_set_21",
@@ -2055,6 +2132,7 @@
     },
     {
         "ingame_id": "EPIC_SET_MAGIC_STONE_2",
+        "id": "EPIC_SET_MAGIC_STONE_2",
         "name": "TEXT_EPIC_SET_MAGIC_STONE_2_TITLE",
         "description": "TEXT_EPIC_SET_MAGIC_STONE_2_DESC",
         "image": "ui_item_stone_1_set_22",
@@ -2085,6 +2163,7 @@
     },
     {
         "ingame_id": "EPIC_SET_PHYSIC_STONE_1",
+        "id": "EPIC_SET_PHYSIC_STONE_1",
         "name": "TEXT_EPIC_SET_PHYSIC_STONE_1_TITLE",
         "description": "TEXT_EPIC_SET_PHYSIC_STONE_1_DESC",
         "image": "ui_item_stone_1_set_19",
@@ -2115,6 +2194,7 @@
     },
     {
         "ingame_id": "EPIC_SET_PHYSIC_STONE_2",
+        "id": "EPIC_SET_PHYSIC_STONE_2",
         "name": "TEXT_EPIC_SET_PHYSIC_STONE_2_TITLE",
         "description": "TEXT_EPIC_SET_PHYSIC_STONE_2_DESC",
         "image": "ui_item_stone_1_set_20",
@@ -2145,6 +2225,7 @@
     },
     {
         "ingame_id": "RARE_3G_STONE_1",
+        "id": "RARE_3G_STONE_1",
         "name": "TEXT_RARE_3G_STONE_1_TITLE",
         "description": "TEXT_RARE_3G_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_34",
@@ -2171,6 +2252,7 @@
     },
     {
         "ingame_id": "RARE_3G_STONE_2",
+        "id": "RARE_3G_STONE_2",
         "name": "TEXT_RARE_3G_STONE_2_TITLE",
         "description": "TEXT_RARE_3G_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_35",
@@ -2197,6 +2279,7 @@
     },
     {
         "ingame_id": "RARE_ACCURACY_RATE_STONE_1",
+        "id": "RARE_ACCURACY_RATE_STONE_1",
         "name": "TEXT_RARE_ACCURACY_RATE_STONE_1_TITLE",
         "description": "TEXT_RARE_ACCURACY_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -2223,6 +2306,7 @@
     },
     {
         "ingame_id": "RARE_ATK_POWER_STONE_1",
+        "id": "RARE_ATK_POWER_STONE_1",
         "name": "TEXT_RARE_ATK_POWER_STONE_1_TITLE",
         "description": "TEXT_RARE_ATK_POWER_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -2249,6 +2333,7 @@
     },
     {
         "ingame_id": "RARE_BOUILLABAISSE_STONE_1",
+        "id": "RARE_BOUILLABAISSE_STONE_1",
         "name": "TEXT_RARE_BOUILLABAISSE_STONE_1_TITLE",
         "description": "TEXT_RARE_BOUILLABAISSE_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_21",
@@ -2275,6 +2360,7 @@
     },
     {
         "ingame_id": "RARE_CRIT_DODGE_RATE_STONE_1",
+        "id": "RARE_CRIT_DODGE_RATE_STONE_1",
         "name": "TEXT_RARE_CRIT_DODGE_RATE_STONE_1_TITLE",
         "description": "TEXT_RARE_CRIT_DODGE_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -2301,6 +2387,7 @@
     },
     {
         "ingame_id": "RARE_CRIT_RATE_STONE_1",
+        "id": "RARE_CRIT_RATE_STONE_1",
         "name": "TEXT_RARE_CRIT_RATE_STONE_1_TITLE",
         "description": "TEXT_RARE_CRIT_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -2327,6 +2414,7 @@
     },
     {
         "ingame_id": "RARE_DEF_STONE_1",
+        "id": "RARE_DEF_STONE_1",
         "name": "TEXT_RARE_DEF_STONE_1_TITLE",
         "description": "TEXT_RARE_DEF_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -2353,6 +2441,7 @@
     },
     {
         "ingame_id": "RARE_DODGE_RATE_STONE_1",
+        "id": "RARE_DODGE_RATE_STONE_1",
         "name": "TEXT_RARE_DODGE_RATE_STONE_1_TITLE",
         "description": "TEXT_RARE_DODGE_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_func",
@@ -2379,6 +2468,7 @@
     },
     {
         "ingame_id": "RARE_DOMPERIGNON_STONE_1",
+        "id": "RARE_DOMPERIGNON_STONE_1",
         "name": "TEXT_RARE_DOMPERIGNON_STONE_1_TITLE",
         "description": "TEXT_RARE_DOMPERIGNON_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_18",
@@ -2405,6 +2495,7 @@
     },
     {
         "ingame_id": "RARE_GG_STONE_1",
+        "id": "RARE_GG_STONE_1",
         "name": "TEXT_RARE_GG_STONE_1_TITLE",
         "description": "TEXT_RARE_GG_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_28",
@@ -2431,6 +2522,7 @@
     },
     {
         "ingame_id": "RARE_GG_STONE_2",
+        "id": "RARE_GG_STONE_2",
         "name": "TEXT_RARE_GG_STONE_2_TITLE",
         "description": "TEXT_RARE_GG_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_29",
@@ -2457,6 +2549,7 @@
     },
     {
         "ingame_id": "RARE_LEESIN_STONE_1",
+        "id": "RARE_LEESIN_STONE_1",
         "name": "TEXT_RARE_LEESIN_STONE_1_TITLE",
         "description": "TEXT_RARE_LEESIN_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_31",
@@ -2483,6 +2576,7 @@
     },
     {
         "ingame_id": "RARE_LEESIN_STONE_2",
+        "id": "RARE_LEESIN_STONE_2",
         "name": "TEXT_RARE_LEESIN_STONE_2_TITLE",
         "description": "TEXT_RARE_LEESIN_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_32",
@@ -2509,6 +2603,7 @@
     },
     {
         "ingame_id": "RARE_MATAHARI_STONE_1",
+        "id": "RARE_MATAHARI_STONE_1",
         "name": "TEXT_RARE_MATAHARI_STONE_1_TITLE",
         "description": "TEXT_RARE_MATAHARI_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_15",
@@ -2535,6 +2630,7 @@
     },
     {
         "ingame_id": "RARE_MAX_HP_STONE_1",
+        "id": "RARE_MAX_HP_STONE_1",
         "name": "TEXT_RARE_MAX_HP_STONE_1_TITLE",
         "description": "TEXT_RARE_MAX_HP_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -2561,6 +2657,7 @@
     },
     {
         "ingame_id": "RARE_PENETRATE_DEF_STONE_1",
+        "id": "RARE_PENETRATE_DEF_STONE_1",
         "name": "TEXT_RARE_PENETRATE_DEF_STONE_1_TITLE",
         "description": "TEXT_RARE_PENETRATE_DEF_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -2587,6 +2684,7 @@
     },
     {
         "ingame_id": "RARE_PENETRATE_RST_STONE_1",
+        "id": "RARE_PENETRATE_RST_STONE_1",
         "name": "TEXT_RARE_PENETRATE_RST_STONE_1_TITLE",
         "description": "TEXT_RARE_PENETRATE_RST_STONE_1_DESC",
         "image": "ui_item_stone_1_atk",
@@ -2613,6 +2711,7 @@
     },
     {
         "ingame_id": "RARE_RECEIVE_DMG_RATE_STONE_1",
+        "id": "RARE_RECEIVE_DMG_RATE_STONE_1",
         "name": "TEXT_RARE_RECEIVE_DMG_RATE_STONE_1_TITLE",
         "description": "TEXT_RARE_RECEIVE_DMG_RATE_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -2639,6 +2738,7 @@
     },
     {
         "ingame_id": "RARE_RST_STONE_1",
+        "id": "RARE_RST_STONE_1",
         "name": "TEXT_RARE_RST_STONE_1_TITLE",
         "description": "TEXT_RARE_RST_STONE_1_DESC",
         "image": "ui_item_stone_1_def",
@@ -2665,6 +2765,7 @@
     },
     {
         "ingame_id": "RARE_SET_DEFFENCE_STONE_1",
+        "id": "RARE_SET_DEFFENCE_STONE_1",
         "name": "TEXT_RARE_SET_DEFFENCE_STONE_1_TITLE",
         "description": "TEXT_RARE_SET_DEFFENCE_STONE_1_DESC",
         "image": "ui_item_stone_1_set_09",
@@ -2695,6 +2796,7 @@
     },
     {
         "ingame_id": "RARE_SET_DEFFENCE_STONE_2",
+        "id": "RARE_SET_DEFFENCE_STONE_2",
         "name": "TEXT_RARE_SET_DEFFENCE_STONE_2_TITLE",
         "description": "TEXT_RARE_SET_DEFFENCE_STONE_2_DESC",
         "image": "ui_item_stone_1_set_10",
@@ -2725,6 +2827,7 @@
     },
     {
         "ingame_id": "RARE_SET_HEAL_STONE_1",
+        "id": "RARE_SET_HEAL_STONE_1",
         "name": "TEXT_RARE_SET_HEAL_STONE_1_TITLE",
         "description": "TEXT_RARE_SET_HEAL_STONE_1_DESC",
         "image": "ui_item_stone_1_set_15",
@@ -2755,6 +2858,7 @@
     },
     {
         "ingame_id": "RARE_SET_HEAL_STONE_2",
+        "id": "RARE_SET_HEAL_STONE_2",
         "name": "TEXT_RARE_SET_HEAL_STONE_2_TITLE",
         "description": "TEXT_RARE_SET_HEAL_STONE_2_DESC",
         "image": "ui_item_stone_1_set_16",
@@ -2785,6 +2889,7 @@
     },
     {
         "ingame_id": "RARE_SET_MAGIC_STONE_1",
+        "id": "RARE_SET_MAGIC_STONE_1",
         "name": "TEXT_RARE_SET_MAGIC_STONE_1_TITLE",
         "description": "TEXT_RARE_SET_MAGIC_STONE_1_DESC",
         "image": "ui_item_stone_1_set_13",
@@ -2815,6 +2920,7 @@
     },
     {
         "ingame_id": "RARE_SET_MAGIC_STONE_2",
+        "id": "RARE_SET_MAGIC_STONE_2",
         "name": "TEXT_RARE_SET_MAGIC_STONE_2_TITLE",
         "description": "TEXT_RARE_SET_MAGIC_STONE_2_DESC",
         "image": "ui_item_stone_1_set_14",
@@ -2845,6 +2951,7 @@
     },
     {
         "ingame_id": "RARE_SET_PHYSIC_STONE_1",
+        "id": "RARE_SET_PHYSIC_STONE_1",
         "name": "TEXT_RARE_SET_PHYSIC_STONE_1_TITLE",
         "description": "TEXT_RARE_SET_PHYSIC_STONE_1_DESC",
         "image": "ui_item_stone_1_set_11",
@@ -2875,6 +2982,7 @@
     },
     {
         "ingame_id": "RARE_SET_PHYSIC_STONE_2",
+        "id": "RARE_SET_PHYSIC_STONE_2",
         "name": "TEXT_RARE_SET_PHYSIC_STONE_2_TITLE",
         "description": "TEXT_RARE_SET_PHYSIC_STONE_2_DESC",
         "image": "ui_item_stone_1_set_12",
@@ -2905,6 +3013,7 @@
     },
     {
         "ingame_id": "RARE_SHADOWDEVILFINAL_STONE_1",
+        "id": "RARE_SHADOWDEVILFINAL_STONE_1",
         "name": "TEXT_RARE_SHADOWDEVILFINAL_STONE_1_TITLE",
         "description": "TEXT_RARE_SHADOWDEVILFINAL_STONE_1_DESC",
         "image": "ui_item_stone_1_legend_25",
@@ -2931,6 +3040,7 @@
     },
     {
         "ingame_id": "RARE_SHADOWDEVILFINAL_STONE_2",
+        "id": "RARE_SHADOWDEVILFINAL_STONE_2",
         "name": "TEXT_RARE_SHADOWDEVILFINAL_STONE_2_TITLE",
         "description": "TEXT_RARE_SHADOWDEVILFINAL_STONE_2_DESC",
         "image": "ui_item_stone_1_legend_26",
@@ -2957,6 +3067,7 @@
     },
     {
         "ingame_id": "RARE_SHADOWDEVILFINAL_STONE_3",
+        "id": "RARE_SHADOWDEVILFINAL_STONE_3",
         "name": "TEXT_RARE_SHADOWDEVILFINAL_STONE_3_TITLE",
         "description": "TEXT_RARE_SHADOWDEVILFINAL_STONE_3_DESC",
         "image": "ui_item_stone_1_legend_27",

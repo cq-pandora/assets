@@ -1,5 +1,6 @@
 [
     {
+        "id": "BREAD_BALANCE_01",
         "name": "TEXT_BREAD_BALANCE_01_NAME",
         "rarity": "common",
         "value": 24,
@@ -9,6 +10,7 @@
         "sell_cost": 70
     },
     {
+        "id": "BREAD_BALANCE_02",
         "name": "TEXT_BREAD_BALANCE_02_NAME",
         "rarity": "common",
         "value": 40,
@@ -18,6 +20,7 @@
         "sell_cost": 110
     },
     {
+        "id": "BREAD_BALANCE_03",
         "name": "TEXT_BREAD_BALANCE_03_NAME",
         "rarity": "common",
         "value": 80,
@@ -27,6 +30,7 @@
         "sell_cost": 170
     },
     {
+        "id": "BREAD_BALANCE_04",
         "name": "TEXT_BREAD_BALANCE_04_NAME",
         "rarity": "common",
         "value": 144,
@@ -36,6 +40,7 @@
         "sell_cost": 260
     },
     {
+        "id": "BREAD_BALANCE_05",
         "name": "TEXT_BREAD_BALANCE_05_NAME",
         "rarity": "common",
         "value": 264,
@@ -45,6 +50,7 @@
         "sell_cost": 400
     },
     {
+        "id": "BREAD_BALANCE_06",
         "name": "TEXT_BREAD_BALANCE_06_NAME",
         "rarity": "common",
         "value": 480,
@@ -54,6 +60,7 @@
         "sell_cost": 600
     },
     {
+        "id": "BREAD_BAMBOO",
         "name": "TEXT_BREAD_BAMBOO_NAME",
         "rarity": "rare",
         "value": 200,
@@ -63,6 +70,7 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_BRAZIL_CAKE",
         "name": "TEXT_BREAD_BRAZIL_CAKE_NAME",
         "rarity": "rare",
         "value": 200,
@@ -72,6 +80,7 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_BUGLC_GOD",
         "name": "TEXT_BREAD_BUGLC_GOD_NAME",
         "rarity": "legendary",
         "value": 1000,
@@ -81,6 +90,7 @@
         "sell_cost": 1
     },
     {
+        "id": "BREAD_CRITICAL_01",
         "name": "TEXT_BREAD_CRITICAL_01_NAME",
         "rarity": "common",
         "value": 18,
@@ -90,6 +100,7 @@
         "sell_cost": 70
     },
     {
+        "id": "BREAD_CRITICAL_02",
         "name": "TEXT_BREAD_CRITICAL_02_NAME",
         "rarity": "common",
         "value": 30,
@@ -99,6 +110,7 @@
         "sell_cost": 110
     },
     {
+        "id": "BREAD_CRITICAL_03",
         "name": "TEXT_BREAD_CRITICAL_03_NAME",
         "rarity": "common",
         "value": 60,
@@ -108,6 +120,7 @@
         "sell_cost": 170
     },
     {
+        "id": "BREAD_CRITICAL_04",
         "name": "TEXT_BREAD_CRITICAL_04_NAME",
         "rarity": "common",
         "value": 108,
@@ -117,6 +130,7 @@
         "sell_cost": 260
     },
     {
+        "id": "BREAD_CRITICAL_05",
         "name": "TEXT_BREAD_CRITICAL_05_NAME",
         "rarity": "common",
         "value": 198,
@@ -126,6 +140,7 @@
         "sell_cost": 400
     },
     {
+        "id": "BREAD_CRITICAL_06",
         "name": "TEXT_BREAD_CRITICAL_06_NAME",
         "rarity": "common",
         "value": 360,
@@ -135,6 +150,7 @@
         "sell_cost": 600
     },
     {
+        "id": "BREAD_ELM_RICE_CAKE",
         "name": "TEXT_BREAD_ELM_RICE_CAKE_NAME",
         "rarity": "rare",
         "value": 720,
@@ -144,6 +160,7 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_EXP_01",
         "name": "TEXT_BREAD_EXP_01_NAME",
         "rarity": "common",
         "value": 30,
@@ -153,6 +170,7 @@
         "sell_cost": 70
     },
     {
+        "id": "BREAD_EXP_02",
         "name": "TEXT_BREAD_EXP_02_NAME",
         "rarity": "common",
         "value": 50,
@@ -162,6 +180,7 @@
         "sell_cost": 110
     },
     {
+        "id": "BREAD_EXP_03",
         "name": "TEXT_BREAD_EXP_03_NAME",
         "rarity": "common",
         "value": 100,
@@ -171,6 +190,7 @@
         "sell_cost": 170
     },
     {
+        "id": "BREAD_EXP_04",
         "name": "TEXT_BREAD_EXP_04_NAME",
         "rarity": "common",
         "value": 180,
@@ -180,6 +200,7 @@
         "sell_cost": 260
     },
     {
+        "id": "BREAD_EXP_05",
         "name": "TEXT_BREAD_EXP_05_NAME",
         "rarity": "common",
         "value": 330,
@@ -189,6 +210,7 @@
         "sell_cost": 400
     },
     {
+        "id": "BREAD_EXP_06",
         "name": "TEXT_BREAD_EXP_06_NAME",
         "rarity": "common",
         "value": 600,
@@ -198,6 +220,7 @@
         "sell_cost": 600
     },
     {
+        "id": "BREAD_EXP_LEGEND_04",
         "name": "TEXT_LEGENDBREAD_BOARD_TYPE_2",
         "rarity": "legendary",
         "value": 2900,
@@ -207,6 +230,7 @@
         "sell_cost": 10000
     },
     {
+        "id": "BREAD_EXP_LEGEND_05",
         "name": "TEXT_LEGENDBREAD_BOARD_TYPE_3",
         "rarity": "legendary",
         "value": 7900,
@@ -216,6 +240,7 @@
         "sell_cost": 20000
     },
     {
+        "id": "BREAD_EXP_LEGEND_06",
         "name": "TEXT_LEGENDBREAD_BOARD_TYPE_4",
         "rarity": "legendary",
         "value": 18500,
@@ -225,6 +250,7 @@
         "sell_cost": 30000
     },
     {
+        "id": "BREAD_FLOWER_RICE_CAKE",
         "name": "TEXT_BREAD_FLOWER_RICE_CAKE_NAME",
         "rarity": "rare",
         "value": 500,
@@ -234,6 +260,7 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_FUGUS",
         "name": "TEXT_BREAD_FUGUS_NAME",
         "rarity": "epic",
         "value": 1000,
@@ -243,6 +270,7 @@
         "sell_cost": 1
     },
     {
+        "id": "BREAD_HALLOWEEN",
         "name": "TEXT_BREAD_HALLOWEEN_NAME",
         "rarity": "rare",
         "value": 150,
@@ -252,6 +280,7 @@
         "sell_cost": 350
     },
     {
+        "id": "BREAD_LEBKUCHEN",
         "name": "TEXT_BREAD_LEBKUCHEN_NAME",
         "rarity": "rare",
         "value": 500,
@@ -261,6 +290,7 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_MANDU",
         "name": "TEXT_BREAD_MANDU_NAME",
         "rarity": "rare",
         "value": 200,
@@ -270,6 +300,7 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_MOON_CAKE",
         "name": "TEXT_BREAD_MOON_CAKE_NAME",
         "rarity": "rare",
         "value": 180,
@@ -279,6 +310,7 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_SHAMROCK",
         "name": "TEXT_BREAD_SHAMROCK_NAME",
         "rarity": "rare",
         "value": 200,
@@ -288,6 +320,7 @@
         "sell_cost": 350
     },
     {
+        "id": "BREAD_SIS_DESERT_1",
         "name": "TEXT_BREAD_SIS_DESERT_1_NAME",
         "rarity": "rare",
         "value": 720,
@@ -297,6 +330,7 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_SIS_DOG_1",
         "name": "TEXT_BREAD_SIS_DOG_1_NAME",
         "rarity": "rare",
         "value": 720,
@@ -306,6 +340,7 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_SIS_FOREST_1",
         "name": "TEXT_BREAD_SIS_FOREST_1_NAME",
         "rarity": "rare",
         "value": 720,
@@ -315,6 +350,7 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_SIS_SEA_1",
         "name": "TEXT_BREAD_SIS_SEA_1_NAME",
         "rarity": "rare",
         "value": 720,
@@ -324,6 +360,7 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_SIS_VOLCANO_1",
         "name": "TEXT_BREAD_SIS_VOLCANO_1_NAME",
         "rarity": "rare",
         "value": 720,
@@ -333,6 +370,7 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_TIRAMISU",
         "name": "TEXT_BREAD_TIRAMISU_NAME",
         "rarity": "rare",
         "value": 216,
@@ -342,6 +380,7 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_VALENTINE_01",
         "name": "TEXT_BREAD_VALENTINE_01_NAME",
         "rarity": "rare",
         "value": 280,
@@ -351,6 +390,7 @@
         "sell_cost": 214
     },
     {
+        "id": "BREAD_VALENTINE_02",
         "name": "TEXT_BREAD_VALENTINE_02_NAME",
         "rarity": "rare",
         "value": 240,
@@ -360,6 +400,7 @@
         "sell_cost": 214
     },
     {
+        "id": "BREAD_VALENTINE_03",
         "name": "TEXT_BREAD_VALENTINE_03_NAME",
         "rarity": "rare",
         "value": 140,
@@ -369,6 +410,7 @@
         "sell_cost": 214
     },
     {
+        "id": "BREAD_VASILOPITA",
         "name": "TEXT_BREAD_VASILOPITA_NAME",
         "rarity": "rare",
         "value": 396,
@@ -378,6 +420,7 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_WITCH_01",
         "name": "TEXT_BREAD_WITCH_01_NAME",
         "rarity": "rare",
         "value": 270,
@@ -387,6 +430,7 @@
         "sell_cost": 300
     },
     {
+        "id": "BREAD_WITCH_02",
         "name": "TEXT_BREAD_WITCH_02_NAME",
         "rarity": "rare",
         "value": 500,
@@ -396,6 +440,7 @@
         "sell_cost": 600
     },
     {
+        "id": "BREAD_WITCH_03",
         "name": "TEXT_BREAD_WITCH_03_NAME",
         "rarity": "rare",
         "value": 900,
@@ -405,6 +450,7 @@
         "sell_cost": 900
     },
     {
+        "id": "BREAD_XMAS",
         "name": "TEXT_BREAD_XMAS_NAME",
         "rarity": "rare",
         "value": 150,
@@ -414,6 +460,7 @@
         "sell_cost": 350
     },
     {
+        "id": "BREAD_YAKGWA",
         "name": "TEXT_BREAD_YAKGWA_NAME",
         "rarity": "rare",
         "value": 216,
