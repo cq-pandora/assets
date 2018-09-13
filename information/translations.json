@@ -37840,8 +37840,8 @@
         "original": true
     },
     "TEXT_RUNE_BUTTON_UNLOCK": {
-        "text": "Level Up",
-        "version": "4.7.0",
+        "text": "Unlock",
+        "version": "4.8.0",
         "original": true
     },
     "TEXT_RUNE_BUTTON_USE": {
@@ -40000,8 +40000,8 @@
         "original": true
     },
     "TEXT_SKILL_AR_SHOOTING_STAR_LV3_SUBDESC": {
-        "text": "One fairy essence is added after every auto attack or when this hero is healed (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal @magic damage@ equal to 50% of the hero's attack power in addition to (200/400/600)% of the hero's attack power by exhausting all of the fairy essences.",
-        "version": "4.7.0",
+        "text": "One fairy essence is added after every auto attack or when this hero is healed (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal @magic damage@ equal to 50% of the enemy's attack power in addition to (200/400/600)% of the hero's attack power by exhausting all of the fairy essences.",
+        "version": "4.8.0",
         "original": true
     },
     "TEXT_SKILL_AR_SHOOTING_STAR_NAME": {
@@ -78715,8 +78715,8 @@
         "original": true
     },
     "TEXT_HELP_ARENA_02_DESC": {
-        "text": "1. All Crusaders who play the Arena will be given an Arena Rank.\n2. Arena Ranks are divided into Bronze, Silver, Gold, and Master.\n3. Bronze, Silver, and Gold Ranks are further divided into Tiers. Each Rank is comprised of 5 Tiers.\n4. Each victory in the Arena will award you 1 point. Winning a round at 5 points will take you to the next Tier, where you will start with 1 point. Leveling up from the highest Tier 1 will take you to the next Arena Rank.\n5. Each loss in the Arena will cost you 1 point. Losing a round at 0 points will take your Tier down by one grade, where you will start with 4 points. \n6. While losing a round may result in the decrease of your Tier, it will never affect your attained Rank. \n7. There are no Tiers in Master Rank. You will start Master Rank from 1 point.\n8. Each victory in the Master Rank will award you 1 point. A loss will cost you 1 point.\n9. You will receive your Arena Reward every Monday after Arena Maintenance in accordance to your Arena Rank and Tier. You will start the new week's Arena from Tier 5 of the Rank one grade lower than your previous week's final Arena Rank.",
-        "version": "4.7.0",
+        "text": "1. All Crusaders who play the Arena will be given an Arena Rank.\n2. Arena Ranks are divided into Bronze, Silver, Gold, and Master.\n3. Bronze, Silver, and Gold Ranks are further divided into Tiers. Each Rank is comprised of 5 Tiers.\n4. Each victory in the Arena will award you 1 point. Winning a round at 5 points will take you to the next Tier, where you will start with 1 point. Leveling up from the highest Tier 1 will take you to the next Arena Rank.\n5. Each loss in the Arena will cost you 1 point. Losing a round at 0 points will take your Tier down by one grade, where you will start with 4 points. \n6. While losing a round may result in the decrease of your Tier, it will never affect your attained Rank. \n7. There are no Tiers in Master Rank. You will start Master Rank from 1 point.\n8. Each victory in the Master Rank will award you 1 point. A loss will cost you 1 point.\n9. You will receive the Arena Reward every Monday after Arena Reset that matches your Arena Rank and Tier. Your subsequent week's placement will be Tier 5 of the Rank one grade below your previous week's final Arena Rank.",
+        "version": "4.8.0",
         "original": true
     },
     "TEXT_HELP_ARENA_02_NAME": {
@@ -79330,8 +79330,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_4_25_DESC": {
-        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her remaining HP per second, but strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her HP per second based on the HP she had when the skill was activated, and strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.",
+        "version": "4.8.0",
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_4_25_NAME": {
@@ -79340,8 +79340,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_5_25_DESC": {
-        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her remaining HP per second, but strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her HP per second based on the HP she had when the skill was activated, and strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.",
+        "version": "4.8.0",
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_5_25_NAME": {
@@ -79350,8 +79350,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_6_25_DESC": {
-        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her remaining HP per second, but strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.\n(Passive Enhanced) Echidna's familiar 'Loydie' is strengthened to deal neutral damage equal to 2000% of Echidna's attack power.\n(Passive Added) Upon using her own block after another ally's 3-chain, Echidna summons a 'Serpentine Shadow' that pulls in all enemies within her range. If this passive activates during 'Serpentine Domain,' Echidna immobilizes the enemy for 5 seconds. (Cooltime: 6 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her HP per second based on the HP she had when the skill was activated, and strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.\n (Passive Enhanced) Echidna's familiar 'Loydie' is strengthened to deal neutral damage equal to 2000% of Echidna's attack power.\n (Passive Added) Upon using her own block after another ally's 3-chain, Echidna summons a 'Serpentine Shadow' that pulls in all enemies within her range. If this passive activates during 'Serpentine Domain,' Echidna immobilizes the enemy for 5 seconds. (Cooltime: 6 seconds)",
+        "version": "4.8.0",
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_6_25_NAME": {

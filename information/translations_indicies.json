@@ -4775,2542 +4775,2584 @@
             "original": true
         },
         {
-            "key": "TEXT_CHA_WA_1_1_NAME",
+            "key": "TEXT_CHA_PR_4_25_NAME",
             "path": "269.0",
+            "text": "Sfera",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_25_NAME",
+            "path": "269.1",
+            "text": "Demonic Sheep Sfera",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_25_NAME",
+            "path": "269.2",
+            "text": "Sfera, Queen of Sheep",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_1_1_NAME",
+            "path": "270.0",
             "text": "Young Villager",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_10_NAME",
-            "path": "270.0",
+            "path": "271.0",
             "text": "Red Velvet",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_11_NAME",
-            "path": "271.0",
+            "path": "272.0",
             "text": "Adventure Guildsman",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_2_NAME",
-            "path": "272.0",
+            "path": "273.0",
             "text": "Squire",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_4_NAME",
-            "path": "273.0",
+            "path": "274.0",
             "text": "Farm Boy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_5_NAME",
-            "path": "274.0",
+            "path": "275.0",
             "text": "Treasure Hunter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_7_NAME",
-            "path": "275.0",
+            "path": "276.0",
             "text": "Eastern Alliance Soldier (Ryu)",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_8_NAME",
-            "path": "276.0",
+            "path": "277.0",
             "text": "Neth Commando",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_9_NAME",
-            "path": "277.0",
+            "path": "278.0",
             "text": "Follower of the Order",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_1_NAME",
-            "path": "278.0",
+            "path": "279.0",
             "text": "Warrior of the East",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_11_NAME",
-            "path": "279.0",
+            "path": "280.0",
             "text": "Zodiac Army Leo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_12_NAME",
-            "path": "280.0",
+            "path": "281.0",
             "text": "East Alliance - Chen",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_13_NAME",
-            "path": "281.0",
+            "path": "282.0",
             "text": "Manager of the Minor Tribes' Confederation",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_14_NAME",
-            "path": "282.0",
+            "path": "283.0",
             "text": "Manager of Grancia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_15_NAME",
-            "path": "283.0",
+            "path": "284.0",
             "text": "Shadow Rose Agent",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_2_NAME",
-            "path": "284.0",
+            "path": "285.0",
             "text": "Apprentice Knight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_3_NAME",
-            "path": "285.0",
+            "path": "286.0",
             "text": "Green Knight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_4_NAME",
-            "path": "286.0",
+            "path": "287.0",
             "text": "Valencian Navy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_5_NAME",
-            "path": "287.0",
+            "path": "288.0",
             "text": "Royal Academy Track Club",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_7_NAME",
-            "path": "288.0",
+            "path": "289.0",
             "text": "Amazon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_8_NAME",
-            "path": "289.0",
+            "path": "290.0",
             "text": "Central Empire Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_9_NAME",
-            "path": "290.0",
+            "path": "291.0",
             "text": "Ice Sculptor",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_1_NAME",
-            "path": "291.0",
+            "path": "292.0",
             "text": "Wing Knight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_11_NAME",
-            "path": "292.0",
+            "path": "293.0",
             "text": "Wolf Guard",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_13_NAME",
-            "path": "293.0",
+            "path": "294.0",
             "text": "Zodiac Army Aries",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_14_NAME",
-            "path": "294.0",
+            "path": "295.0",
             "text": "Valencian Knight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_15_NAME",
-            "path": "295.0",
+            "path": "296.0",
             "text": "David of the Cobalt Knights",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_16_NAME",
-            "path": "296.0",
+            "path": "297.0",
             "text": "Linia of the Cobalt Knights",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_17_NAME",
-            "path": "297.0",
+            "path": "298.0",
             "text": "Ratman Enthusiast",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_2_NAME",
-            "path": "298.0",
+            "path": "299.0",
             "text": "Southern Guard",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_3_NAME",
-            "path": "299.0",
+            "path": "300.0",
             "text": "Sister Knight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_4_NAME",
-            "path": "300.0",
+            "path": "301.0",
             "text": "Space Swordsman",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_5_NAME",
-            "path": "301.0",
+            "path": "302.0",
             "text": "Brave Dog",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_6_NAME",
-            "path": "302.0",
+            "path": "303.0",
             "text": "Gatcha Ranger R",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_7_NAME",
-            "path": "303.0",
+            "path": "304.0",
             "text": "Banshee",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_8_NAME",
-            "path": "304.0",
+            "path": "305.0",
             "text": "Private Academy Kendo Club",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_3_NAME",
-            "path": "305.0",
+            "path": "306.0",
             "text": "Leon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_6_NAME",
-            "path": "305.1",
+            "path": "306.1",
             "text": "Skilled Leon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_9_NAME",
-            "path": "305.2",
+            "path": "306.2",
             "text": "Famous Leon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_1_NAME",
-            "path": "305.3",
+            "path": "306.3",
             "text": "Leon of Destiny",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_1_NAME",
-            "path": "305.4",
+            "path": "306.4",
             "text": "Leon of Fate",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_1_NAME",
-            "path": "305.5",
+            "path": "306.5",
             "text": "Leon of Light",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_1_VACANCE",
-            "path": "305.0",
+            "path": "306.0",
             "text": "Water Gun Festival Leon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_1_1",
-            "path": "305.1",
+            "path": "306.1",
             "text": "Leon of Fate",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_1_6",
-            "path": "305.2",
+            "path": "306.2",
             "text": "Magnax Leon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_6_NAME",
-            "path": "306.0",
+            "path": "307.0",
             "text": "Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_10_NAME",
-            "path": "306.1",
+            "path": "307.1",
             "text": "Libertine Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_12_NAME",
-            "path": "306.2",
+            "path": "307.2",
             "text": "Romantic Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_11_NAME",
-            "path": "306.3",
+            "path": "307.3",
             "text": "One-Eyed Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_11_NAME",
-            "path": "306.4",
+            "path": "307.4",
             "text": "Musketeer Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_11_NAME",
-            "path": "306.5",
+            "path": "307.5",
             "text": "Victor Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_11_THANKS",
-            "path": "306.0",
+            "path": "307.0",
             "text": "Moon Rabbit Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_11_3",
-            "path": "306.1",
+            "path": "307.1",
             "text": "Neth Commander Rochefort",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_KURENAI_NAME",
-            "path": "307.0",
+            "path": "308.0",
             "text": "Tsukino Kurenai",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_10_NAME",
-            "path": "308.0",
+            "path": "309.0",
             "text": "Snowman",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_4_2_NAME",
-            "path": "309.0",
+            "path": "310.0",
             "text": "Sol Badguy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_5_2_NAME",
-            "path": "309.1",
+            "path": "310.1",
             "text": "Sol Badguy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_6_2_NAME",
-            "path": "309.2",
+            "path": "310.2",
             "text": "Sol Badguy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_4_3_NAME",
-            "path": "310.0",
+            "path": "311.0",
             "text": "Millia Rage",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_5_3_NAME",
-            "path": "310.1",
+            "path": "311.1",
             "text": "Millia Rage",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_6_3_NAME",
-            "path": "310.2",
+            "path": "311.2",
             "text": "Millia Rage",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_KOF1_KYO_NAME",
-            "path": "311.2",
+            "path": "312.2",
             "text": "Kyo Kusanagi",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_KOF2_CHRIS_NAME",
-            "path": "312.2",
+            "path": "313.2",
             "text": "Chris of the Destiny of Flames",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_RB_WEISS_NAME",
-            "path": "313.2",
+            "path": "314.2",
             "text": "Weiss Schnee",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_LIMITED_RB_WEISS_PAJAMAS",
-            "path": "313.0",
+            "path": "314.0",
             "text": "Weiss's Elegant Slip",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_LIMITED_RB_WEISS_SCHOOL",
-            "path": "313.1",
+            "path": "314.1",
             "text": "Weiss's Beacon Uniform",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_4_1_NAME",
-            "path": "314.0",
+            "path": "315.0",
             "text": "Ky Kiske",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_5_1_NAME",
-            "path": "314.1",
+            "path": "315.1",
             "text": "Ky Kiske",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_6_1_NAME",
-            "path": "314.2",
+            "path": "315.2",
             "text": "Ky Kiske",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_4_4_NAME",
-            "path": "315.0",
+            "path": "316.0",
             "text": "Johnny",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_5_4_NAME",
-            "path": "315.1",
+            "path": "316.1",
             "text": "Johnny",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_GG_6_4_NAME",
-            "path": "315.2",
+            "path": "316.2",
             "text": "Johnny",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_KOF1_IORI_NAME",
-            "path": "316.2",
+            "path": "317.2",
             "text": "Iori Yagami",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_KOF1_RUGAL_NAME",
-            "path": "317.2",
+            "path": "318.2",
             "text": "Omega Rugal",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_RB_BLAKE_NAME",
-            "path": "318.2",
+            "path": "319.2",
             "text": "Blake Belladonna",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_LIMITED_RB_BLAKE_PAJAMAS",
-            "path": "318.0",
+            "path": "319.0",
             "text": "Blake's Silent Night",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_LIMITED_RB_BLAKE_SCHOOL",
-            "path": "318.1",
+            "path": "319.1",
             "text": "Blake's Beacon Uniform",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_SPR_4_TWILLY_NAME",
-            "path": "319.0",
+            "path": "320.0",
             "text": "Twillie",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_SPR_5_TWILLY_NAME",
-            "path": "319.1",
+            "path": "320.1",
             "text": "Twillie of Noble Duty",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_SPR_6_TWILLY_NAME",
-            "path": "319.2",
+            "path": "320.2",
             "text": "Twillie of the Final Battle",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_YS8_ADOL_NAME",
-            "path": "320.2",
+            "path": "321.2",
             "text": "Adol Christin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_ADOL_COLOR",
-            "path": "320.0",
+            "path": "321.0",
             "text": "Cool Fencer Adol",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_ADOL_SPECIAL",
-            "path": "320.1",
+            "path": "321.1",
             "text": "Silver Armor Adol",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_ADOL_TROPICAL",
-            "path": "320.2",
+            "path": "321.2",
             "text": "Tropical Adol",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_YS8_DANA_NAME",
-            "path": "321.2",
+            "path": "322.2",
             "text": "Dana Icarusia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_DANA_COLOR",
-            "path": "321.0",
+            "path": "322.0",
             "text": "Gratica Dana",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_DANA_SPECIAL",
-            "path": "321.1",
+            "path": "322.1",
             "text": "Luminous Dana",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_DANA_TROPICAL",
-            "path": "321.2",
+            "path": "322.2",
             "text": "Tropical Dana",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_LIMITED_YS8_LAXIA_NAME",
-            "path": "322.2",
+            "path": "323.2",
             "text": "Laxia von Roswell",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_LAXIA_COLOR",
-            "path": "322.0",
+            "path": "323.0",
             "text": "Pretty Lady Laxia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_LIMITED_YS8_LAXIA_TROPICAL",
-            "path": "322.1",
+            "path": "323.1",
             "text": "Tropical Laxia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_2_NAME",
-            "path": "323.0",
+            "path": "324.0",
             "text": "Joan of Arc",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_2_NAME",
-            "path": "323.1",
+            "path": "324.1",
             "text": "Knight Joan of Arc",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_2_NAME",
-            "path": "323.2",
+            "path": "324.2",
             "text": "Steel Knight Joan of Arc",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_2_OLYMPIC_2018",
-            "path": "323.0",
+            "path": "324.0",
             "text": "Skier Joan of Arc",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_2_2",
-            "path": "323.2",
+            "path": "324.2",
             "text": "Joan, Knight of Roses",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_3_NAME",
-            "path": "324.0",
+            "path": "325.0",
             "text": "Susanoo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_3_NAME",
-            "path": "324.1",
+            "path": "325.1",
             "text": "Warrior Susanoo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_3_NAME",
-            "path": "324.2",
+            "path": "325.2",
             "text": "Shogun Susanoo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_3_9",
-            "path": "324.0",
+            "path": "325.0",
             "text": "Sword Spirit Susanoo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_4_NAME",
-            "path": "325.0",
+            "path": "326.0",
             "text": "Vivian",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_4_NAME",
-            "path": "325.1",
+            "path": "326.1",
             "text": "Devil Vivian",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_4_NAME",
-            "path": "325.2",
+            "path": "326.2",
             "text": "Absolute Devil Vivian",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_4_FLOWER",
-            "path": "325.0",
+            "path": "326.0",
             "text": "Vivian Waiting for Spring",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_4_7",
-            "path": "325.1",
+            "path": "326.1",
             "text": "Hellmaid Vivian",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_5_NAME",
-            "path": "326.0",
+            "path": "327.0",
             "text": "Monte Proto",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_5_NAME",
-            "path": "326.1",
+            "path": "327.1",
             "text": "Mass Produced Monte",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_5_NAME",
-            "path": "326.2",
+            "path": "327.2",
             "text": "Monte Cristo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_5_LAVORDAY_NAME",
-            "path": "326.0",
+            "path": "327.0",
             "text": "Monte98",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_5_14",
-            "path": "326.1",
+            "path": "327.1",
             "text": "Full Armor Monte",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_6_NAME",
-            "path": "327.0",
+            "path": "328.0",
             "text": "Kaori",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_6_NAME",
-            "path": "327.1",
+            "path": "328.1",
             "text": "Kaori of Victory",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_6_NAME",
-            "path": "327.2",
+            "path": "328.2",
             "text": "Kaori the Undefeated",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_6_15_NAME",
-            "path": "327.0",
+            "path": "328.0",
             "text": "Sleep Fairy Kaori",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_6_4",
-            "path": "327.1",
+            "path": "328.1",
             "text": "Gang Member Kaori",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_7_NAME",
-            "path": "328.0",
+            "path": "329.0",
             "text": "Abel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_7_NAME",
-            "path": "328.1",
+            "path": "329.1",
             "text": "Devil Hunter Abel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_7_NAME",
-            "path": "328.2",
+            "path": "329.2",
             "text": "Devil Slayer Abel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_7_FAMILY_NAME",
-            "path": "328.0",
+            "path": "329.0",
             "text": "Grand Rocroix Abel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_7_12",
-            "path": "328.1",
+            "path": "329.1",
             "text": "Prince Abel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_8_NAME",
-            "path": "329.0",
+            "path": "330.0",
             "text": "Uzimant",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_8_NAME",
-            "path": "329.1",
+            "path": "330.1",
             "text": "Uzimant the Undefeated",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_8_NAME",
-            "path": "329.2",
+            "path": "330.2",
             "text": "Tribal King Uzimant",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_8_WINTER",
-            "path": "329.0",
+            "path": "330.0",
             "text": "Holidays Part-Time Working Uziment",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_8_5",
-            "path": "329.1",
+            "path": "330.1",
             "text": "Drum Destroyer Uzimant",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_9_NAME",
-            "path": "330.0",
+            "path": "331.0",
             "text": "B. Sworden",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_9_NAME",
-            "path": "330.1",
+            "path": "331.1",
             "text": "Magistrate B. Sworden",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_9_NAME",
-            "path": "330.2",
+            "path": "331.2",
             "text": "Captain B. Sworden",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_9_15_NAME",
-            "path": "330.0",
+            "path": "331.0",
             "text": "Wandering Swordsman Sworden",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_10_NAME",
-            "path": "331.0",
+            "path": "332.0",
             "text": "Isabel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_10_NAME",
-            "path": "331.1",
+            "path": "332.1",
             "text": "Mad Isabel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_10_NAME",
-            "path": "331.2",
+            "path": "332.2",
             "text": "Psychic Isabel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_10_13",
-            "path": "331.0",
+            "path": "332.0",
             "text": "Consumed Isabel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_10_17_NAME",
-            "path": "331.1",
+            "path": "332.1",
             "text": "Rock Spirit Isabel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_12_NAME",
-            "path": "332.0",
+            "path": "333.0",
             "text": "Koxinga",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_12_NAME",
-            "path": "332.1",
+            "path": "333.1",
             "text": "Sea King Koxinga",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_12_NAME",
-            "path": "332.2",
+            "path": "333.2",
             "text": "Ocean King Koxinga",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_12_FISH",
-            "path": "332.0",
+            "path": "333.0",
             "text": "Speargun Diver Koxinga",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_12_8",
-            "path": "332.1",
+            "path": "333.1",
             "text": "Victorious General Koxinga",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_13_NAME",
-            "path": "333.0",
+            "path": "334.0",
             "text": "Victoria",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_13_NAME",
-            "path": "333.1",
+            "path": "334.1",
             "text": "Victoria of the Battlefield",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_13_NAME",
-            "path": "333.2",
+            "path": "334.2",
             "text": "Victoria of the Oath",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_13_12",
-            "path": "333.0",
+            "path": "334.0",
             "text": "Sugar & Spice Victoria",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_13_18_NAME",
-            "path": "333.1",
+            "path": "334.1",
             "text": "Cheerleader Victoria",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_14_NAME",
-            "path": "334.0",
+            "path": "335.0",
             "text": "Lionel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_14_NAME",
-            "path": "334.1",
+            "path": "335.1",
             "text": "Suffering Lionel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_14_NAME",
-            "path": "334.2",
+            "path": "335.2",
             "text": "Dark Knight Lionel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_14_SOULREWARD",
-            "path": "334.0",
+            "path": "335.0",
             "text": "Freed Lionel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_14_17",
-            "path": "334.1",
+            "path": "335.1",
             "text": "Lionel of the Opera",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_15_NAME",
-            "path": "335.0",
+            "path": "336.0",
             "text": "Arita",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_15_NAME",
-            "path": "335.1",
+            "path": "336.1",
             "text": "Insomniac Arita",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_15_NAME",
-            "path": "335.2",
+            "path": "336.2",
             "text": "Forest Witch Arita",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_15_HALLOWEEN",
-            "path": "335.0",
+            "path": "336.0",
             "text": "Evil Witch Arita",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_15_WARGAME",
-            "path": "335.1",
+            "path": "336.1",
             "text": "Magic Academy Student Arita",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_15_11",
-            "path": "335.2",
+            "path": "336.2",
             "text": "Young Duchess Arita",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_16_NAME",
-            "path": "336.0",
+            "path": "337.0",
             "text": "Sien",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_16_NAME",
-            "path": "336.1",
+            "path": "337.1",
             "text": "Jiangshi Sien",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_16_NAME",
-            "path": "336.2",
+            "path": "337.2",
             "text": "Sien of Bloodlust",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_16_16",
-            "path": "336.0",
+            "path": "337.0",
             "text": "Franken Sien",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_17_NAME",
-            "path": "337.0",
+            "path": "338.0",
             "text": "Borgos",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_17_NAME",
-            "path": "337.1",
+            "path": "338.1",
             "text": "Borgos of Darkness",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_17_NAME",
-            "path": "337.2",
+            "path": "338.2",
             "text": "Overlord Borgos of Darkness",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_17_20_NAME",
-            "path": "337.0",
+            "path": "338.0",
             "text": "Borbuddy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_18_NAME",
-            "path": "338.0",
+            "path": "339.0",
             "text": "Bihyeongrang",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_18_NAME",
-            "path": "338.1",
+            "path": "339.1",
             "text": "Ghost Eye Bihyeongrang",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_18_NAME",
-            "path": "338.2",
+            "path": "339.2",
             "text": "Ghost King Bihyeongrang",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_18",
-            "path": "338.0",
+            "path": "339.0",
             "text": "Lion Dance Bihyeongrang",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_18_19",
-            "path": "338.1",
+            "path": "339.1",
             "text": "Oni Bihyeongrang",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_19_NAME",
-            "path": "339.0",
+            "path": "340.0",
             "text": "Shasha",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_19_NAME",
-            "path": "339.1",
+            "path": "340.1",
             "text": "Shasha of Rage",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_19_NAME",
-            "path": "339.2",
+            "path": "340.2",
             "text": "Shasha, Witch of Fire",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_19_WARGAME",
-            "path": "339.0",
+            "path": "340.0",
             "text": "Magic Academy Student Shasha",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_19_21",
-            "path": "339.1",
+            "path": "340.1",
             "text": "Hipster Shasha",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_20_NAME",
-            "path": "340.0",
+            "path": "341.0",
             "text": "Harpya",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_20_NAME",
-            "path": "340.1",
+            "path": "341.1",
             "text": "Harpya the Belligerent",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_20_NAME",
-            "path": "340.2",
+            "path": "341.2",
             "text": "Harpya the Butcher",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WA_20_WARGAME_2",
-            "path": "340.0",
+            "path": "341.0",
             "text": "Magic Professor Harpya",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_20_23",
-            "path": "340.1",
+            "path": "341.1",
             "text": "Aviator Harpya",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_21_NAME",
-            "path": "341.0",
+            "path": "342.0",
             "text": "Isis",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_21_NAME",
-            "path": "341.1",
+            "path": "342.1",
             "text": "Isis, Warrior of Magic",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_21_NAME",
-            "path": "341.2",
+            "path": "342.2",
             "text": "Isis, Paver of the Path",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_21_22",
-            "path": "341.0",
+            "path": "342.0",
             "text": "Desert Nomad Isis",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_22_NAME",
-            "path": "342.0",
+            "path": "343.0",
             "text": "Izuna",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_22_NAME",
-            "path": "342.1",
+            "path": "343.1",
             "text": "Izuna of the Blade",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_22_NAME",
-            "path": "342.2",
+            "path": "343.2",
             "text": "Izuna the Vigilante",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_22_24",
-            "path": "342.0",
+            "path": "343.0",
             "text": "Housemaid Izuna",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_4_24_NAME",
-            "path": "343.0",
+            "path": "344.0",
             "text": "Cassia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_5_24_NAME",
-            "path": "343.1",
+            "path": "344.1",
             "text": "Cassia of Greed",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_6_24_NAME",
-            "path": "343.2",
+            "path": "344.2",
             "text": "Soul Devouring Plaga",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WA_24_24",
-            "path": "343.0",
+            "path": "344.0",
             "text": "Housekeeper Cassia",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_CHA_WA_4_25_NAME",
+            "path": "345.0",
+            "text": "Echidna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_25_NAME",
+            "path": "345.1",
+            "text": "Demonic Serpent Echidna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_25_NAME",
+            "path": "345.2",
+            "text": "Echidna, Queen of Serpents",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_WA_SUPPORT_3_1_NAME",
-            "path": "344.0",
+            "path": "346.0",
             "text": "Battleloid S-3",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_SUPPORT_4_1_NAME",
-            "path": "344.1",
+            "path": "346.1",
             "text": "Battleloid S-4",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_SUPPORT_5_1_NAME",
-            "path": "344.2",
+            "path": "346.2",
             "text": "Battleloid S-5",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_SUPPORT_6_1_NAME",
-            "path": "344.3",
+            "path": "346.3",
             "text": "Battleloid S-6",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_1_NAME",
-            "path": "345.0",
+            "path": "347.0",
             "text": "Nerd",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_10_NAME",
-            "path": "346.0",
+            "path": "348.0",
             "text": "Church Volunteer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_11_NAME",
-            "path": "347.0",
+            "path": "349.0",
             "text": "Hermit",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_2_NAME",
-            "path": "348.0",
+            "path": "350.0",
             "text": "Magic Student",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_4_NAME",
-            "path": "349.0",
+            "path": "351.0",
             "text": "Old Man Neighbor",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_5_NAME",
-            "path": "350.0",
+            "path": "352.0",
             "text": "Clock Repairman",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_7_NAME",
-            "path": "351.0",
+            "path": "353.0",
             "text": "Grancia Magician",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_8_NAME",
-            "path": "352.0",
+            "path": "354.0",
             "text": "Neth Magician Army",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_9_NAME",
-            "path": "353.0",
+            "path": "355.0",
             "text": "Solitude of the Deep Sea",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_1_NAME",
-            "path": "354.0",
+            "path": "356.0",
             "text": "Witch Delivery Trainee",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_11_NAME",
-            "path": "355.0",
+            "path": "357.0",
             "text": "Zodiac Army Ophiuchus",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_12_NAME",
-            "path": "356.0",
+            "path": "358.0",
             "text": "Revolutionary Researcher",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_13_NAME",
-            "path": "357.0",
+            "path": "359.0",
             "text": "Librarian of the Order",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_14_NAME",
-            "path": "358.0",
+            "path": "360.0",
             "text": "Manager of Pumpkin City",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_15_NAME",
-            "path": "359.0",
+            "path": "361.0",
             "text": "Noble Lady",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_2_NAME",
-            "path": "360.0",
+            "path": "362.0",
             "text": "Common Magician",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_3_NAME",
-            "path": "361.0",
+            "path": "363.0",
             "text": "Royal Magic Student",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_4_NAME",
-            "path": "362.0",
+            "path": "364.0",
             "text": "Druid Elf",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_5_NAME",
-            "path": "363.0",
+            "path": "365.0",
             "text": "Royal Librarian",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_7_NAME",
-            "path": "364.0",
+            "path": "366.0",
             "text": "Elegant Lady",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_8_NAME",
-            "path": "365.0",
+            "path": "367.0",
             "text": "Dancer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_9_NAME",
-            "path": "366.0",
+            "path": "368.0",
             "text": "Robotics Engineer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_1_NAME",
-            "path": "367.0",
+            "path": "369.0",
             "text": "Stormy Ninja",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_11_NAME",
-            "path": "368.0",
+            "path": "370.0",
             "text": "Frost Mage",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_13_NAME",
-            "path": "369.0",
+            "path": "371.0",
             "text": "Zodiac Army Cancer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_14_NAME",
-            "path": "370.0",
+            "path": "372.0",
             "text": "Announcer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_15_NAME",
-            "path": "371.0",
+            "path": "373.0",
             "text": "Lawiya of the Cobalt Knights",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_16_NAME",
-            "path": "372.0",
+            "path": "374.0",
             "text": "Inquisitor of the Order",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_17_NAME",
-            "path": "373.0",
+            "path": "375.0",
             "text": "Bewitched Magician",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_2_NAME",
-            "path": "374.0",
+            "path": "376.0",
             "text": "Neth Army Female Executive",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_3_NAME",
-            "path": "375.0",
+            "path": "377.0",
             "text": "Vampire",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_4_NAME",
-            "path": "376.0",
+            "path": "378.0",
             "text": "Lost Mountain Girl",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_5_NAME",
-            "path": "377.0",
+            "path": "379.0",
             "text": "Gatcha Ranger B",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_6_NAME",
-            "path": "378.0",
+            "path": "380.0",
             "text": "Enlightened Sea Otter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_7_NAME",
-            "path": "379.0",
+            "path": "381.0",
             "text": "Mecha Girl ver.0",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_8_NAME",
-            "path": "380.0",
+            "path": "382.0",
             "text": "Private Occultist",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_3_NAME",
-            "path": "381.0",
+            "path": "383.0",
             "text": "Dorothy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_6_NAME",
-            "path": "381.1",
+            "path": "383.1",
             "text": "Genius Dorothy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_9_NAME",
-            "path": "381.2",
+            "path": "383.2",
             "text": "Genius Witch Dorothy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_3_NAME",
-            "path": "381.3",
+            "path": "383.3",
             "text": "Purple Light Witch Dorothy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_3_NAME",
-            "path": "381.4",
+            "path": "383.4",
             "text": "Red Witch Dorothy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_3_NAME",
-            "path": "381.5",
+            "path": "383.5",
             "text": "Black Witch Dorothy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_3_8",
-            "path": "381.0",
+            "path": "383.0",
             "text": "Dorothy the White Witch",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_6_NAME",
-            "path": "382.0",
+            "path": "384.0",
             "text": "Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_10_NAME",
-            "path": "382.1",
+            "path": "384.1",
             "text": "Top Student Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_12_NAME",
-            "path": "382.2",
+            "path": "384.2",
             "text": "Beautiful Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_11_NAME",
-            "path": "382.3",
+            "path": "384.3",
             "text": "Transformed Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_11_NAME",
-            "path": "382.4",
+            "path": "384.4",
             "text": "Popstar Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_11_NAME",
-            "path": "382.5",
+            "path": "384.5",
             "text": "Magical Girl Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_11_OLYMPIC",
-            "path": "382.0",
+            "path": "384.0",
             "text": "Samba Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_11_12",
-            "path": "382.1",
+            "path": "384.1",
             "text": "Superstar Cano",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_10_NAME",
-            "path": "383.0",
+            "path": "385.0",
             "text": "Santa Claus",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_3_CHOCOLA_VT_NAME",
-            "path": "383.1",
+            "path": "385.1",
             "text": "Lovely Chocolat",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_GG_4_1_NAME",
-            "path": "384.0",
+            "path": "386.0",
             "text": "Ramlethal Valentine",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_GG_5_1_NAME",
-            "path": "384.1",
+            "path": "386.1",
             "text": "Ramlethal Valentine",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_GG_6_1_NAME",
-            "path": "384.2",
+            "path": "386.2",
             "text": "Ramlethal Valentine",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_GG_4_2_NAME",
-            "path": "385.0",
+            "path": "387.0",
             "text": "Jack-O`",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_GG_5_2_NAME",
-            "path": "385.1",
+            "path": "387.1",
             "text": "Jack-O`",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_GG_6_2_NAME",
-            "path": "385.2",
+            "path": "387.2",
             "text": "Jack-O`",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_KOF1_CHIZURU_NAME",
-            "path": "386.2",
+            "path": "388.2",
             "text": "Chizuru Kagura",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_KOF2_SHERMIE_NAME",
-            "path": "387.2",
+            "path": "389.2",
             "text": "Shermie of the Insanely Violent Lightning",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_DEEMO_4_NAME",
-            "path": "388.0",
+            "path": "390.0",
             "text": "Little Girl",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_DEEMO_5_NAME",
-            "path": "388.1",
+            "path": "390.1",
             "text": "Little Girl",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_DEEMO_6_NAME",
-            "path": "388.2",
+            "path": "390.2",
             "text": "Little Girl",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_LIMITED_DM_GIRL_FAREWELLWALTZ",
-            "path": "388.0",
+            "path": "390.0",
             "text": "Girl of the Farewell Waltz",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_LIMITED_DM_GIRL_INVITE",
-            "path": "388.1",
+            "path": "390.1",
             "text": "Sailor Girl",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_LIMITED_DM_GIRL_SAIKA",
-            "path": "388.2",
+            "path": "390.2",
             "text": "Girl of Lovely Flowers",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_SPR_4_ANNA_NAME",
-            "path": "389.0",
+            "path": "391.0",
             "text": "Ana",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_SPR_5_ANNA_NAME",
-            "path": "389.1",
+            "path": "391.1",
             "text": "Ana of the Regiment",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_SPR_6_ANNA_NAME",
-            "path": "389.2",
+            "path": "391.2",
             "text": "Ana of the Golden Lily",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_1_NAME",
-            "path": "390.0",
+            "path": "392.0",
             "text": "Archon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_1_NAME",
-            "path": "390.1",
+            "path": "392.1",
             "text": "Archon the Undiscovered",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_1_NAME",
-            "path": "390.2",
+            "path": "392.2",
             "text": "Archon the Enlightened",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_1_1",
-            "path": "390.0",
+            "path": "392.0",
             "text": "Teacher Archon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_1_17",
-            "path": "390.1",
+            "path": "392.1",
             "text": "Goddess of the Beach Archon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_2_NAME",
-            "path": "391.0",
+            "path": "393.0",
             "text": "Korin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_2_NAME",
-            "path": "391.1",
+            "path": "393.1",
             "text": "Grim Reaper Korin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_2_NAME",
-            "path": "391.2",
+            "path": "393.2",
             "text": "Death Messenger Korin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_2",
-            "path": "391.0",
+            "path": "393.0",
             "text": "Winter Girl Korin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_2_3",
-            "path": "391.1",
+            "path": "393.1",
             "text": "Flower Korin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_4_NAME",
-            "path": "392.0",
+            "path": "394.0",
             "text": "Sasquatch",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_4_NAME",
-            "path": "392.1",
+            "path": "394.1",
             "text": "Sasquatch of Cold",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_4_NAME",
-            "path": "392.2",
+            "path": "394.2",
             "text": "Freezing Sasquatch",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_4_ZOOSCHOOL",
-            "path": "392.0",
+            "path": "394.0",
             "text": "Raccoon Sasquatch",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_4_2",
-            "path": "392.1",
+            "path": "394.1",
             "text": "Sasquatch of the South",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_5_NAME",
-            "path": "393.0",
+            "path": "395.0",
             "text": "Lilith",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_5_NAME",
-            "path": "393.1",
+            "path": "395.1",
             "text": "Night Queen Lilith",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_5_NAME",
-            "path": "393.2",
+            "path": "395.2",
             "text": "Night Goddess Lilith",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_5_OLYMPIC",
-            "path": "393.0",
+            "path": "395.0",
             "text": "Carnival Lilith",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_5_WINTER",
-            "path": "393.1",
+            "path": "395.1",
             "text": "Ice Queen Lilith",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_6_NAME",
-            "path": "394.0",
+            "path": "396.0",
             "text": "Rachel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_6_NAME",
-            "path": "394.1",
+            "path": "396.1",
             "text": "Succubus Rachel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_6_NAME",
-            "path": "394.2",
+            "path": "396.2",
             "text": "Succubus Queen Rachel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_6_5",
-            "path": "394.0",
+            "path": "396.0",
             "text": "Vocal of the Void Rachel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_6_6",
-            "path": "394.1",
+            "path": "396.1",
             "text": "Rachel of Raining Blossoms",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_7_NAME",
-            "path": "395.0",
+            "path": "397.0",
             "text": "Alice",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_7_NAME",
-            "path": "395.1",
+            "path": "397.1",
             "text": "Queen Alice",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_7_NAME",
-            "path": "395.2",
+            "path": "397.2",
             "text": "Spade Queen Alice",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_7_4",
-            "path": "395.0",
+            "path": "397.0",
             "text": "Master Gambler Alice",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_8_NAME",
-            "path": "396.0",
+            "path": "398.0",
             "text": "Nazrune",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_8_NAME",
-            "path": "396.1",
+            "path": "398.1",
             "text": "Nazrune of Harmony",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_8_NAME",
-            "path": "396.2",
+            "path": "398.2",
             "text": "Nazrune of Nature",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_8_PATRICK",
-            "path": "396.0",
+            "path": "398.0",
             "text": "Saint Nazrune",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_8_9",
-            "path": "396.1",
+            "path": "398.1",
             "text": "Ancient Sorceror Nazrune",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_9_NAME",
-            "path": "397.0",
+            "path": "399.0",
             "text": "Mondrian",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_9_NAME",
-            "path": "397.1",
+            "path": "399.1",
             "text": "Mondrian the Scholar",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_9_NAME",
-            "path": "397.2",
+            "path": "399.2",
             "text": "Mondrian the Savant",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_09_15_NAME",
-            "path": "397.0",
+            "path": "399.0",
             "text": "Golden Laureate Mondrian",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_10_NAME",
-            "path": "398.0",
+            "path": "400.0",
             "text": "Necron",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_10_NAME",
-            "path": "398.1",
+            "path": "400.1",
             "text": "Dark Magician Necron",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_10_NAME",
-            "path": "398.2",
+            "path": "400.2",
             "text": "Soul Magician Necron",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_10_WARGAME_2",
-            "path": "398.0",
+            "path": "400.0",
             "text": "Magic Professor Necron",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_10_13",
-            "path": "398.1",
+            "path": "400.1",
             "text": "Necron of Cataclysm",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_12_NAME",
-            "path": "399.0",
+            "path": "401.0",
             "text": "Demeter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_12_NAME",
-            "path": "399.1",
+            "path": "401.1",
             "text": "Demeter in the Wheat Field",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_12_NAME",
-            "path": "399.2",
+            "path": "401.2",
             "text": "Demeter in the Golden Wheat Field",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_12_FEAST",
-            "path": "399.0",
+            "path": "401.0",
             "text": "Noble Lady Demeter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_12_18_NAME",
-            "path": "399.1",
+            "path": "401.1",
             "text": "Summer Vacation Demeter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_13_NAME",
-            "path": "400.0",
+            "path": "402.0",
             "text": "Uriel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_13_NAME",
-            "path": "400.1",
+            "path": "402.1",
             "text": "Inquisitor Uriel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_13_NAME",
-            "path": "400.2",
+            "path": "402.2",
             "text": "Grand Inquisitor Uriel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_13_12",
-            "path": "400.0",
+            "path": "402.0",
             "text": "Dandy Romantic Uriel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_13_19",
-            "path": "400.1",
+            "path": "402.1",
             "text": "Fanboy Uriel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_14_NAME",
-            "path": "401.0",
+            "path": "403.0",
             "text": "Benjamin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_14_NAME",
-            "path": "401.1",
+            "path": "403.1",
             "text": "Researcher Benjamin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_14_NAME",
-            "path": "401.2",
+            "path": "403.2",
             "text": "Creator Benjamin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_14_11",
-            "path": "401.0",
+            "path": "403.0",
             "text": "Chief Research Officer Benjamin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_14_20",
-            "path": "401.1",
+            "path": "403.1",
             "text": "Incubus Benjamin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_15_NAME",
-            "path": "402.0",
+            "path": "404.0",
             "text": "Lupeow",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_15_NAME",
-            "path": "402.1",
+            "path": "404.1",
             "text": "Phantom Thief Lupeow",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_15_NAME",
-            "path": "402.2",
+            "path": "404.2",
             "text": "Notorious Phantom Thief Lupeow",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_15_WORLDCUP",
-            "path": "402.0",
+            "path": "404.0",
             "text": "Supporter Lupeow",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_15_16",
-            "path": "402.1",
+            "path": "404.1",
             "text": "Black Cat Lupeow",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_16_NAME",
-            "path": "403.0",
+            "path": "405.0",
             "text": "Vesper",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_16_NAME",
-            "path": "403.1",
+            "path": "405.1",
             "text": "Hermit Vesper",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_16_NAME",
-            "path": "403.2",
+            "path": "405.2",
             "text": "Vesper, Witch of Water",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_16_WARGAME",
-            "path": "403.0",
+            "path": "405.0",
             "text": "Magic Academy Student Vesper",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_16_14",
-            "path": "403.1",
+            "path": "405.1",
             "text": "Summer Vacation Vesper",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_17_NAME",
-            "path": "404.0",
+            "path": "406.0",
             "text": "Violet",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_17_NAME",
-            "path": "404.1",
+            "path": "406.1",
             "text": "Dollmaker Violet",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_17_NAME",
-            "path": "404.2",
+            "path": "406.2",
             "text": "Magical Dollmaker Violet",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_17_WINTER",
-            "path": "404.0",
+            "path": "406.0",
             "text": "Nutcracker Violet",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_17_20_NAME",
-            "path": "404.1",
+            "path": "406.1",
             "text": "Wooden Puppeteer Violet",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_18_NAME",
-            "path": "405.0",
+            "path": "407.0",
             "text": "Yichui",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_18_NAME",
-            "path": "405.1",
+            "path": "407.1",
             "text": "Yichui of Moonlight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_18_NAME",
-            "path": "405.2",
+            "path": "407.2",
             "text": "Yichui of Moonblossom",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_18_17",
-            "path": "405.0",
+            "path": "407.0",
             "text": "Yichui in Wonderland",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_18_25",
-            "path": "405.1",
+            "path": "407.1",
             "text": "Helmswoman Yichui",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_19_NAME",
-            "path": "406.0",
+            "path": "408.0",
             "text": "Wolfram",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_19_NAME",
-            "path": "406.1",
+            "path": "408.1",
             "text": "Captain Wolfram",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_19_NAME",
-            "path": "406.2",
+            "path": "408.2",
             "text": "Wolfram, Witch of Wind",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_19_WARGAME",
-            "path": "406.0",
+            "path": "408.0",
             "text": "Magic Academy Student Wolfram",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_19_22",
-            "path": "406.1",
+            "path": "408.1",
             "text": "Black Crow Wolfram",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_20_NAME",
-            "path": "407.0",
+            "path": "409.0",
             "text": "Hermit Otter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_20_NAME",
-            "path": "407.1",
+            "path": "409.1",
             "text": "Liberated Otter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_20_NAME",
-            "path": "407.2",
+            "path": "409.2",
             "text": "Otter of Enlightened Creation",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_EVENT_WI_20_FISH",
-            "path": "407.0",
+            "path": "409.0",
             "text": "Otter Gone Fishing",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_20_21",
-            "path": "407.1",
+            "path": "409.1",
             "text": "Baby Otter",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_21_NAME",
-            "path": "408.0",
+            "path": "410.0",
             "text": "Osiris",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_21_NAME",
-            "path": "408.1",
+            "path": "410.1",
             "text": "Osiris, Seeker of the Past",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_21_NAME",
-            "path": "408.2",
+            "path": "410.2",
             "text": "Osiris, Guide of the Lost",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_21_23",
-            "path": "408.0",
+            "path": "410.0",
             "text": "Golden Osiris",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_22_NAME",
-            "path": "409.0",
+            "path": "411.0",
             "text": "Loki",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_22_NAME",
-            "path": "409.1",
+            "path": "411.1",
             "text": "Loki the Clown",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_22_NAME",
-            "path": "409.2",
+            "path": "411.2",
             "text": "Loki the Trickster",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_22_24",
-            "path": "409.0",
+            "path": "411.0",
             "text": "Lord Loki",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_4_24_NAME",
-            "path": "410.0",
+            "path": "412.0",
             "text": "Lakias",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_5_24_NAME",
-            "path": "410.1",
+            "path": "412.1",
             "text": "Chief Lakias",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_6_24_NAME",
-            "path": "410.2",
+            "path": "412.2",
             "text": "Awakened Lakias",
             "version": "4.7.0",
             "original": true
