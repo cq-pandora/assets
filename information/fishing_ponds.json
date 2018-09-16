@@ -1,0 +1,311 @@
+[
+    {
+        "id": "FISHERY_EVENT_SALMON",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON",
+            "FISH_EVENT_CATBOX"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
+        "id": "FISHERY_1_01",
+        "name": "TEXT_FOREST_FISHERY_NAME",
+        "description": "TEXT_FOREST_FISHERY_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_BUNGFISH"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS"
+        ],
+        "hero": [
+            "FISH_FRESHWATER_HYANGFISH",
+            "FISH_FRESHWATER_BASS"
+        ],
+        "habitat": "FRESHWATER",
+        "boss": "FISH_FRESHWATER_BASS",
+        "reward": {
+            "type": "ITEM_FISHING_BAIT_TOPBLACK",
+            "amount": 200
+        },
+        "background": "ui_bgimage_fishery_forest"
+    },
+    {
+        "id": "FISHERY_2_01",
+        "name": "TEXT_TRISTA_FISHERY_NAME",
+        "description": "TEXT_TRISTA_FISHERY_DESC",
+        "min_fr": 3,
+        "fish": [
+            "FISH_SEA_JUGGUMI",
+            "FISH_SEA_SAEWOO",
+            "FISH_SEA_JUNGARI",
+            "FISH_SEA_BALLROCK",
+            "FISH_SEA_GGOTGAE",
+            "FISH_SEA_IMYEONSOO"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS"
+        ],
+        "hero": [
+            "FISH_SEA_CHAMDOM",
+            "FISH_SEA_GAMSUNGDOM",
+            "FISH_SEA_BANGEDOM",
+            "FISH_SEA_DOLDOM"
+        ],
+        "habitat": "SEA",
+        "boss": "FISH_SEA_DOLDOM",
+        "reward": {
+            "type": "BREAD_EXP_LEGEND_06",
+            "amount": 3
+        },
+        "background": "ui_bgimage_fishery_trista"
+    },
+    {
+        "id": "FISHERY_3_01",
+        "name": "TEXT_ROMAN_FISHERY_NAME",
+        "description": "TEXT_ROMAN_FISHERY_DESC",
+        "min_fr": 8,
+        "fish": [
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_SSOGARI"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS"
+        ],
+        "hero": [
+            "FISH_FRESHWATER_COLORINGFISH",
+            "FISH_FRESHWATER_REDTAILCATFISH",
+            "FISH_FRESHWATER_GOLDENSSOGARI"
+        ],
+        "habitat": "FRESHWATER",
+        "boss": "FISH_FRESHWATER_GOLDENSSOGARI",
+        "reward": {
+            "type": "ITEM_FISHING_ROD_KEVLAR",
+            "amount": 1
+        },
+        "background": "ui_bgimage_fishery_roman"
+    },
+    {
+        "id": "FISHERY_4_01",
+        "name": "TEXT_WESTSEA_FISHERY_NAME",
+        "description": "TEXT_WESTSEA_FISHERY_DESC",
+        "min_fr": 13,
+        "fish": [
+            "FISH_SEA_JOGI",
+            "FISH_SEA_BOKFISH",
+            "FISH_SEA_MINFISH",
+            "FISH_SEA_SOONGFISH",
+            "FISH_SEA_DAEGU",
+            "FISH_SEA_WOORUCK",
+            "FISH_SEA_NUPCHI",
+            "FISH_SEA_SAMCHI",
+            "FISH_SEA_NONGFISH",
+            "FISH_SEA_AGWI"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_SEA_GAEBOKCHI"
+        ],
+        "habitat": "SEA",
+        "boss": "FISH_SEA_GAEBOKCHI",
+        "reward": {
+            "type": "ITEM_FISHING_FLOAT_ELECTRIC",
+            "amount": 1
+        },
+        "background": "ui_bgimage_fishery_westsea"
+    },
+    {
+        "id": "FISHERY_5_01",
+        "name": "TEXT_DESERT_FISHERY_NAME",
+        "description": "TEXT_DESERT_FISHERY_DESC",
+        "min_fr": 20,
+        "fish": [
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON",
+            "FISH_FRESHWATER_SNAKEHEAD",
+            "FISH_FRESHWATER_ORIGIN_DESERTEEL",
+            "FISH_FRESHWATER_ORIGIN_DESERTDRAGON",
+            "FISH_FRESHWATER_ORIGIN_DESERTCATFISH"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_FRESHWATER_GOLDHALFMOON",
+            "FISH_FRESHWATER_KINGCATFISH",
+            "FISH_FRESHWATER_LUNGFISH"
+        ],
+        "habitat": "FRESHWATER",
+        "boss": "FISH_FRESHWATER_KINGCATFISH",
+        "reward": {
+            "type": "INHERIT_BOOK_ALL",
+            "amount": 2
+        },
+        "background": "ui_bgimage_fishery_desert"
+    },
+    {
+        "id": "FISHERY_6_01",
+        "name": "TEXT_EASTSEA_FISHERY_NAME",
+        "description": "TEXT_EASTSEA_FISHERY_DESC",
+        "min_fr": 27,
+        "fish": [
+            "FISH_SEA_GGONGCHI",
+            "FISH_SEA_CHUNGFISH",
+            "FISH_SEA_GODEUNGFISH",
+            "FISH_SEA_OJINGA",
+            "FISH_SEA_REDBARRACUDA",
+            "FISH_SEA_GASHIBOK",
+            "FISH_SEA_BIGEYETUNA",
+            "FISH_SEA_BARRACUDA"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_SEA_DOTSAECHI",
+            "FISH_SEA_BAEKSANGARI",
+            "FISH_SEA_CHUNGSAECHI"
+        ],
+        "habitat": "SEA",
+        "boss": "FISH_SEA_BAEKSANGARI",
+        "reward": {
+            "type": "ITEM_FISHCOIN",
+            "amount": 200000
+        },
+        "background": "ui_bgimage_fishery_eastsea"
+    },
+    {
+        "id": "FISHERY_7_01",
+        "name": "TEXT_TROPICAL_FISHING_NAME",
+        "description": "TEXT_TROPICAL_FISHING_DESC",
+        "min_fr": 34,
+        "fish": [
+            "FISH_FRESHWATER_PIRANHA",
+            "FISH_FRESHWATER_GUPPY",
+            "FISH_FRESHWATER_PACU",
+            "FISH_FRESHWATER_SILVERAROWANA",
+            "FISH_FRESHWATER_BLACKAROWANA",
+            "FISH_FRESHWATER_CANDIRU",
+            "FISH_FRESHWATER_ELECTRICEEL"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_FRESHWATER_TIGERFISH",
+            "FISH_FRESHWATER_PIRARUCU",
+            "FISH_FRESHWATER_ALIGATORGAR"
+        ],
+        "habitat": "FRESHWATER",
+        "boss": "FISH_FRESHWATER_ALIGATORGAR",
+        "reward": {
+            "type": "GACHA_CHA_GRADE_4_GACHA_ONLY",
+            "amount": 1
+        },
+        "background": "ui_bgimage_fishery_kurenai"
+    },
+    {
+        "id": "FISHERY_8_01",
+        "name": "TEXT_VOLCANO_FISHING_NAME",
+        "description": "TEXT_VOLCANO_FISHING_DESC",
+        "min_fr": 40,
+        "fish": [
+            "FISH_FRESHWATER_ORIGIN_FIREFISH",
+            "FISH_FRESHWATER_ORIGIN_FLAMEAROWANA",
+            "FISH_FRESHWATER_ORIGIN_FIRESAILFISH",
+            "FISH_FRESHWATER_ORIGIN_GRILLEDFISH",
+            "FISH_FRESHWATER_ORIGIN_LAVATUNA",
+            "FISH_FRESHWATER_ORIGIN_FIREGAEBOKCHI",
+            "FISH_FRESHWATER_ORIGIN_STEAMBUSHIRI"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_FRESHWATER_ORIGIN_LAVAICEFISH",
+            "FISH_FRESHWATER_ORIGIN_MAGMAGUPPY",
+            "FISH_FRESHWATER_ORIGIN_THEONEFISH"
+        ],
+        "habitat": "FRESHWATER",
+        "boss": "FISH_FRESHWATER_ORIGIN_THEONEFISH",
+        "reward": {
+            "type": "INHERIT_BOOK_ALL",
+            "amount": 3
+        },
+        "background": "ui_bgimage_fishery_kurenai2"
+    }
+]

@@ -12959,5 +12959,1032 @@
             "version": "4.7.0",
             "original": true
         }
+    ],
+    "fishes": [
+        {
+            "key": "TEXT_FISH_FRESHWATER_PIRAMI_NAME",
+            "path": "fishes.FISH_FRESHWATER_PIRAMI",
+            "text": "Minnow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_NORMALFROG_NAME",
+            "path": "fishes.FISH_FRESHWATER_NORMALFROG",
+            "text": "Frog",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_GUPPY_NAME",
+            "path": "fishes.FISH_FRESHWATER_GUPPY",
+            "text": "Guppy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_CANDIRU_NAME",
+            "path": "fishes.FISH_FRESHWATER_CANDIRU",
+            "text": "Candiru",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_GRILLEDFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_GRILLEDFISH",
+            "text": "Grilled Fish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_MIGGURAGI_NAME",
+            "path": "fishes.FISH_FRESHWATER_MIGGURAGI",
+            "text": "Loach",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_GAJAE_NAME",
+            "path": "fishes.FISH_FRESHWATER_GAJAE",
+            "text": "Crayfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_GOLDFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_GOLDFISH",
+            "text": "Goldfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BULLFROG_NAME",
+            "path": "fishes.FISH_FRESHWATER_BULLFROG",
+            "text": "Bullfrog",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_MINMOOLNABIGOGI_NAME",
+            "path": "fishes.FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "text": "Freshwater Butterflyfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_PIRANHA_NAME",
+            "path": "fishes.FISH_FRESHWATER_PIRANHA",
+            "text": "Piranha",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_MORAEMOOJI_NAME",
+            "path": "fishes.FISH_FRESHWATER_MORAEMOOJI",
+            "text": "Goby Minnow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_HALFMOON_NAME",
+            "path": "fishes.FISH_FRESHWATER_HALFMOON",
+            "text": "Halfmoon Betta",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BUDDLEBUNGFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_BUDDLEBUNGFISH",
+            "text": "Round-Tailed Paradise Fish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_FIREFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_FIREFISH",
+            "text": "Firefish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_STEAMBUSHIRI_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_STEAMBUSHIRI",
+            "text": "Steamtail Amberjack",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_TILAPIA_NAME",
+            "path": "fishes.FISH_FRESHWATER_TILAPIA",
+            "text": "Tilapia",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BROWNSONGA_NAME",
+            "path": "fishes.FISH_FRESHWATER_BROWNSONGA",
+            "text": "Brown Trout",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_RAINBOWSONGA_NAME",
+            "path": "fishes.FISH_FRESHWATER_RAINBOWSONGA",
+            "text": "Rainbow Trout",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BUNGFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_BUNGFISH",
+            "text": "Crucian Carp",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_PACU_NAME",
+            "path": "fishes.FISH_FRESHWATER_PACU",
+            "text": "Pacu",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_TRUEBUNGFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_TRUEBUNGFISH",
+            "text": "Stone Moroko",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_DONGJAGAE_NAME",
+            "path": "fishes.FISH_FRESHWATER_DONGJAGAE",
+            "text": "Yellowhead Catfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BAEKRYUNFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_BAEKRYUNFISH",
+            "text": "Silver Carp",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_LAVATUNA_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_LAVATUNA",
+            "text": "Lava Tuna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_FIREGAEBOKCHI_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_FIREGAEBOKCHI",
+            "text": "Flame Mola Mola",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_HYANGFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_HYANGFISH",
+            "text": "Leather Carp",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BLUEGILL_NAME",
+            "path": "fishes.FISH_FRESHWATER_BLUEGILL",
+            "text": "Bluegill",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_AROWANA_NAME",
+            "path": "fishes.FISH_FRESHWATER_SILVERAROWANA",
+            "text": "Arowana",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_COLORINGFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_COLORINGFISH",
+            "text": "Koi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_SNAKEHEAD_NAME",
+            "path": "fishes.FISH_FRESHWATER_SNAKEHEAD",
+            "text": "Snakehead",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BASS_NAME",
+            "path": "fishes.FISH_FRESHWATER_BASS",
+            "text": "Bass",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_CHOFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_CHOFISH",
+            "text": "Grass Carp",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTEEL_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_DESERTEEL",
+            "text": "Desert Eel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_BLACKAROWANA_NAME",
+            "path": "fishes.FISH_FRESHWATER_BLACKAROWANA",
+            "text": "Black Arowana",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_GOLDHALFMOON_NAME",
+            "path": "fishes.FISH_FRESHWATER_GOLDHALFMOON",
+            "text": "Gold Halfmoon Betta",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_SSOGARI_NAME",
+            "path": "fishes.FISH_FRESHWATER_SSOGARI",
+            "text": "Mandarinfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_FLAMEAROWANA_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_FLAMEAROWANA",
+            "text": "Flame Arowana",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTDRAGON_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_DESERTDRAGON",
+            "text": "Desert Dragon Arowana",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_CHULGAPSHARK_NAME",
+            "path": "fishes.FISH_FRESHWATER_CHULGAPSHARK",
+            "text": "Sturgeon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_PADDLEFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_PADDLEFISH",
+            "text": "Paddlefish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_REDTAILCATFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_REDTAILCATFISH",
+            "text": "Redtail Catfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_GOLDENSSOGARI_NAME",
+            "path": "fishes.FISH_FRESHWATER_GOLDENSSOGARI",
+            "text": "Golden Mandarin Fish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTCATFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_DESERTCATFISH",
+            "text": "Desert Catfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_FIRESAILFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_FIRESAILFISH",
+            "text": "Fire Sailfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_LUNGFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_LUNGFISH",
+            "text": "Lungfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_PIRARUCU_NAME",
+            "path": "fishes.FISH_FRESHWATER_PIRARUCU",
+            "text": "Pirarucu",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_TIGERFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_TIGERFISH",
+            "text": "Goliath Tigerfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ELECTRICEEL_NAME",
+            "path": "fishes.FISH_FRESHWATER_ELECTRICEEL",
+            "text": "Electric Eel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_KINGCATFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_KINGCATFISH",
+            "text": "King Catfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_WELSCATFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_WELSCATFISH",
+            "text": "Wels Catfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_LAVAICEFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_LAVAICEFISH",
+            "text": "Lava Smelt",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_COELACANTH_NAME",
+            "path": "fishes.FISH_FRESHWATER_COELACANTH",
+            "text": "Coelacanth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ALIGATORGAR_NAME",
+            "path": "fishes.FISH_FRESHWATER_ALIGATORGAR",
+            "text": "Alligator Gar",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_MAGMAGUPPY_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_MAGMAGUPPY",
+            "text": "Magma Guppy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_FRESHWATER_ORIGIN_THEONEFISH_NAME",
+            "path": "fishes.FISH_FRESHWATER_ORIGIN_THEONEFISH",
+            "text": "\"The One\" Fish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_SAEWOO_NAME",
+            "path": "fishes.FISH_SEA_SAEWOO",
+            "text": "Shrimp",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_JUNGARI_NAME",
+            "path": "fishes.FISH_SEA_JUNGARI",
+            "text": "Sardine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_NABIGOGI_NAME",
+            "path": "fishes.FISH_SEA_NABIGOGI",
+            "text": "TEXT_FISH_SEA_NABIGOGI_NAME",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_JOGI_NAME",
+            "path": "fishes.FISH_SEA_JOGI",
+            "text": "Redlip Croaker",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_CHUNGFISH_NAME",
+            "path": "fishes.FISH_SEA_CHUNGFISH",
+            "text": "Herring",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_JUGGUMI_NAME",
+            "path": "fishes.FISH_SEA_JUGGUMI",
+            "text": "Webfoot Octopus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_WOORUCK_NAME",
+            "path": "fishes.FISH_SEA_WOORUCK",
+            "text": "Black Rockfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_BALLROCK_NAME",
+            "path": "fishes.FISH_SEA_BALLROCK",
+            "text": "Rockfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_IMYEONSOO_NAME",
+            "path": "fishes.FISH_SEA_IMYEONSOO",
+            "text": "Okhotsk Atka Mackerel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_GGOTGAE_NAME",
+            "path": "fishes.FISH_SEA_GGOTGAE",
+            "text": "Horse Crab",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_GODEUNGFISH_NAME",
+            "path": "fishes.FISH_SEA_GODEUNGFISH",
+            "text": "Chub Mackerel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_OJINGA_NAME",
+            "path": "fishes.FISH_SEA_OJINGA",
+            "text": "Squid",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_SOONGFISH_NAME",
+            "path": "fishes.FISH_SEA_SOONGFISH",
+            "text": "Flathead Grey Mullet",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_MINFISH_NAME",
+            "path": "fishes.FISH_SEA_MINFISH",
+            "text": "Miiuy Croaker",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_DAEGU_NAME",
+            "path": "fishes.FISH_SEA_DAEGU",
+            "text": "Cod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_BOKFISH_NAME",
+            "path": "fishes.FISH_SEA_BOKFISH",
+            "text": "Pufferfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_GGONGCHI_NAME",
+            "path": "fishes.FISH_SEA_GGONGCHI",
+            "text": "Saury",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_AGWI_NAME",
+            "path": "fishes.FISH_SEA_AGWI",
+            "text": "Blackmouth Angler",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_NUPCHI_NAME",
+            "path": "fishes.FISH_SEA_NUPCHI",
+            "text": "Olive Flounder",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_GASHIBOK_NAME",
+            "path": "fishes.FISH_SEA_GASHIBOK",
+            "text": "Long-Spine Porcupinefish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_SALMON_NAME",
+            "path": "fishes.FISH_SEA_SALMON",
+            "text": "Salmon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_SAMCHI_NAME",
+            "path": "fishes.FISH_SEA_SAMCHI",
+            "text": "Seerfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_NONGFISH_NAME",
+            "path": "fishes.FISH_SEA_NONGFISH",
+            "text": "Sea Bass",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_REDBARRACUDA_NAME",
+            "path": "fishes.FISH_SEA_REDBARRACUDA",
+            "text": "Red Barracuda",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_GALCHI_NAME",
+            "path": "fishes.FISH_SEA_GALCHI",
+            "text": "Beltfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_GAMSUNGDOM_NAME",
+            "path": "fishes.FISH_SEA_GAMSUNGDOM",
+            "text": "Black Porgy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_CHAMDOM_NAME",
+            "path": "fishes.FISH_SEA_CHAMDOM",
+            "text": "Red Seabream",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_BANGEDOM_NAME",
+            "path": "fishes.FISH_SEA_BANGEDOM",
+            "text": "Largescale Blackfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_PEPPERMINT_NAME",
+            "path": "fishes.FISH_SEA_PEPPERMINT",
+            "text": "Peppermint Angelfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_DOLDOM_NAME",
+            "path": "fishes.FISH_SEA_DOLDOM",
+            "text": "Striped Beakfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_BARRACUDA_NAME",
+            "path": "fishes.FISH_SEA_BARRACUDA",
+            "text": "Barracuda",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_BIGEYETUNA_NAME",
+            "path": "fishes.FISH_SEA_BIGEYETUNA",
+            "text": "Bigeye Tuna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_GAEBOKCHI_NAME",
+            "path": "fishes.FISH_SEA_GAEBOKCHI",
+            "text": "Mola Mola",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_CHAMTUNA_NAME",
+            "path": "fishes.FISH_SEA_CHAMTUNA",
+            "text": "Bluefin Tuna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_CHUNGSAECHI_NAME",
+            "path": "fishes.FISH_SEA_CHUNGSAECHI",
+            "text": "Striped Marlin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_DOTSAECHI_NAME",
+            "path": "fishes.FISH_SEA_DOTSAECHI",
+            "text": "Sailfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_HWANGSAECHI_NAME",
+            "path": "fishes.FISH_SEA_HWANGSAECHI",
+            "text": "Swordfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_BUMGORAE_NAME",
+            "path": "fishes.FISH_SEA_BUMGORAE",
+            "text": "Killer Whale",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_BAEKSANGARI_NAME",
+            "path": "fishes.FISH_SEA_BAEKSANGARI",
+            "text": "Great White Shark",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_SEA_SANGALCHI_NAME",
+            "path": "fishes.FISH_SEA_SANGALCHI",
+            "text": "Oarfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_ALL_BOOTS_NAME",
+            "path": "fishes.FISH_ALL_BOOTS",
+            "text": "Old Boots",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_ALL_TIRE_NAME",
+            "path": "fishes.FISH_ALL_TIRE",
+            "text": "Rubber Tire",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_ALL_CAN_NAME",
+            "path": "fishes.FISH_ALL_CAN",
+            "text": "Rusty Can",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_ALL_NET_NAME",
+            "path": "fishes.FISH_ALL_NET",
+            "text": "Ripped Net",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_ALL_PEARL_NAME",
+            "path": "fishes.FISH_ALL_PEARL",
+            "text": "Pearl",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_EVENT_SALMON_NAME",
+            "path": "fishes.FISH_EVENT_SALMON",
+            "text": "Nosgardian Salmon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_NAME",
+            "path": "fishes.FISH_EVENT_CATBOX",
+            "text": "Mossy Cat Chest",
+            "version": "4.7.0",
+            "original": true
+        }
+    ],
+    "fishing_gear": [
+        {
+            "key": "TEXT_FISHING_ROD_START_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_START",
+            "text": "Normal Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_IRON_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_IRON",
+            "text": "Steel Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_PREMIUM_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_PREMIUM",
+            "text": "Premium Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_GLASS_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_GLASS",
+            "text": "Glass Fiber Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_BORON_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_BORON",
+            "text": "Boron Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_KEVLAR_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_KEVLAR",
+            "text": "Kevlar Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_TITANIUM_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_TITANIUM",
+            "text": "Titanium Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_CARBON_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_CARBON",
+            "text": "Carbon Fiber Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_GOLD_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_GOLD",
+            "text": "Golden Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_ROD_BAMBOO_NAME",
+            "path": "fishing_gear.ITEM_FISHING_ROD_BAMBOO",
+            "text": "Bamboo Rod",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_START_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_START",
+            "text": "Normal Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_BEGINNER_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_BEGINNER",
+            "text": "Beginner's Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_MIDDLE_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_MIDDLE",
+            "text": "Intermediate's Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_BRONZE_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_BRONZE",
+            "text": "Bronze Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_SILVER_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_SILVER",
+            "text": "Silver Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_EXPERT_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_EXPERT",
+            "text": "Master's Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_ELECTRIC_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_ELECTRIC",
+            "text": "Luminous Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_SHYPOD_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_SHYPOD",
+            "text": "SHYPOD 1",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_GOLD_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_GOLD",
+            "text": "Gold Float",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_FLOAT_LOVERDUCK_NAME",
+            "path": "fishing_gear.ITEM_FISHING_FLOAT_LOVERDUCK",
+            "text": "Lover Duck",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_START_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_START",
+            "text": "Bait",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_WORM_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_WORM",
+            "text": "Worm",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_KRILL_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_KRILL",
+            "text": "Krill",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_JUNGARI_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_JUNGARI",
+            "text": "Sardine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_OJINGA_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_OJINGA",
+            "text": "Squid",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_BUNGFISHBREAD_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_BUNGFISHBREAD",
+            "text": "Carp Bread",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_SPINNER1_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_SPINNER1",
+            "text": "Spinner MK1",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_KOIBREAD_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_KOIBREAD",
+            "text": "Koi Bread",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_SPINNER2_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_SPINNER2",
+            "text": "Spinner MK2",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_TOPRED_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_TOPRED",
+            "text": "Topfish Red",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_TOPYELLOW_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_TOPYELLOW",
+            "text": "Topfish Yellow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_TOPBLACK_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_TOPBLACK",
+            "text": "Topfish Black",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_TOPBLUE_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_TOPBLUE",
+            "text": "Topfish Blue",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISHING_BAIT_EVENTROE_NAME",
+            "path": "fishing_gear.ITEM_FISHING_BAIT_EVENTROE",
+            "text": "Salmon Roe",
+            "version": "4.7.0",
+            "original": true
+        }
+    ],
+    "fishing_ponds": [
+        {
+            "key": "TEXT_TUNDRA_FISHERY_NAME",
+            "path": "fishing_ponds.0",
+            "text": "Nosgard Stream",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FOREST_FISHERY_NAME",
+            "path": "fishing_ponds.1",
+            "text": "Forest Stream",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_TRISTA_FISHERY_NAME",
+            "path": "fishing_ponds.2",
+            "text": "Sea of Trista",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_ROMAN_FISHERY_NAME",
+            "path": "fishing_ponds.3",
+            "text": "Lake of Ruins",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_WESTSEA_FISHERY_NAME",
+            "path": "fishing_ponds.4",
+            "text": "West Sea",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DESERT_FISHERY_NAME",
+            "path": "fishing_ponds.5",
+            "text": "Desert Oasis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_EASTSEA_FISHERY_NAME",
+            "path": "fishing_ponds.6",
+            "text": "Far East Sea",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_TROPICAL_FISHING_NAME",
+            "path": "fishing_ponds.7",
+            "text": "Jungle Swamp",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_VOLCANO_FISHING_NAME",
+            "path": "fishing_ponds.8",
+            "text": "Volcano Crater",
+            "version": "4.7.0",
+            "original": true
+        }
     ]
 }
