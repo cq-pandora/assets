@@ -10,6 +10,7 @@
         "power": 8,
         "big_chance": 0,
         "bite_chance": 15,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
         "image": "fish_icon_gear_rod_01"
@@ -25,6 +26,7 @@
         "power": 11,
         "big_chance": 9,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 30000,
         "image": "fish_icon_gear_rod_03"
@@ -40,6 +42,7 @@
         "power": 15,
         "big_chance": 16,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
         "image": "fish_icon_gear_rod_02"
@@ -55,6 +58,7 @@
         "power": 15,
         "big_chance": 16,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
         "image": "fish_icon_gear_rod_05"
@@ -70,6 +74,7 @@
         "power": 26,
         "big_chance": 36,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 2000000,
         "image": "fish_icon_gear_rod_06"
@@ -85,6 +90,7 @@
         "power": 26,
         "big_chance": 36,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
         "image": "fish_icon_gear_rod_07"
@@ -100,6 +106,7 @@
         "power": 26,
         "big_chance": 36,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_HONOR",
         "price": 100000,
         "image": "fish_icon_gear_rod_08"
@@ -115,6 +122,7 @@
         "power": 29,
         "big_chance": 104,
         "bite_chance": 30,
+        "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 100000,
         "image": "fish_icon_gear_rod_04"
@@ -130,6 +138,7 @@
         "power": 39,
         "big_chance": 148,
         "bite_chance": 35,
+        "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 300000,
         "image": "fish_icon_gear_rod_10"
@@ -145,6 +154,7 @@
         "power": 50,
         "big_chance": 218,
         "bite_chance": 40,
+        "event_chance": 0,
         "currency": "ITEM_JEWEL",
         "price": 99,
         "image": "fish_icon_gear_rod_09"
@@ -160,6 +170,7 @@
         "power": 8,
         "big_chance": 0,
         "bite_chance": 5,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
         "image": "fish_icon_gear_float_01"
@@ -175,6 +186,7 @@
         "power": 11,
         "big_chance": 9,
         "bite_chance": 5,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 30000,
         "image": "fish_icon_gear_float_02"
@@ -190,6 +202,7 @@
         "power": 15,
         "big_chance": 16,
         "bite_chance": 5,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
         "image": "fish_icon_gear_float_03"
@@ -205,6 +218,7 @@
         "power": 15,
         "big_chance": 16,
         "bite_chance": 5,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
         "image": "fish_icon_gear_float_08"
@@ -220,6 +234,7 @@
         "power": 26,
         "big_chance": 36,
         "bite_chance": 5,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 2000000,
         "image": "fish_icon_gear_float_09"
@@ -235,6 +250,7 @@
         "power": 26,
         "big_chance": 36,
         "bite_chance": 5,
+        "event_chance": 0,
         "currency": "ITEM_HONOR",
         "price": 100000,
         "image": "fish_icon_gear_float_04"
@@ -250,6 +266,7 @@
         "power": 26,
         "big_chance": 36,
         "bite_chance": 5,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
         "image": "fish_icon_gear_float_06"
@@ -265,6 +282,7 @@
         "power": 39,
         "big_chance": 148,
         "bite_chance": 35,
+        "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 300000,
         "image": "fish_icon_gear_float_07"
@@ -280,6 +298,7 @@
         "power": 29,
         "big_chance": 104,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 100000,
         "image": "fish_icon_gear_float_10"
@@ -295,6 +314,7 @@
         "power": 50,
         "big_chance": 218,
         "bite_chance": 35,
+        "event_chance": 0,
         "currency": "ITEM_JEWEL",
         "price": 99,
         "image": "fish_icon_gear_float_05"
@@ -310,6 +330,7 @@
         "power": 8,
         "big_chance": 0,
         "bite_chance": 0,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 10,
         "image": "fish_icon_gear_bait_01"
@@ -325,6 +346,7 @@
         "power": 11,
         "big_chance": 20,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 30,
         "image": "fish_icon_gear_bait_02"
@@ -340,6 +362,7 @@
         "power": 11,
         "big_chance": 21,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 300,
         "image": "fish_icon_gear_bait_03"
@@ -355,6 +378,7 @@
         "power": 11,
         "big_chance": 21,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 300,
         "image": "fish_icon_gear_bait_04"
@@ -370,6 +394,7 @@
         "power": 15,
         "big_chance": 38,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 600,
         "image": "fish_icon_gear_bait_05"
@@ -385,6 +410,7 @@
         "power": 15,
         "big_chance": 38,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 600,
         "image": "fish_icon_gear_bait_06"
@@ -400,6 +426,7 @@
         "power": 15,
         "big_chance": 38,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 600,
         "image": "fish_icon_gear_bait_08"
@@ -415,6 +442,7 @@
         "power": 20,
         "big_chance": 51,
         "bite_chance": 30,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1000,
         "image": "fish_icon_gear_bait_07"
@@ -430,6 +458,7 @@
         "power": 20,
         "big_chance": 51,
         "bite_chance": 30,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1000,
         "image": "fish_icon_gear_bait_09"
@@ -445,6 +474,7 @@
         "power": 26,
         "big_chance": 97,
         "bite_chance": 40,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
         "image": "fish_icon_gear_bait_10"
@@ -460,6 +490,7 @@
         "power": 26,
         "big_chance": 97,
         "bite_chance": 40,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
         "image": "fish_icon_gear_bait_12"
@@ -475,6 +506,7 @@
         "power": 10,
         "big_chance": 137,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
         "image": "fish_icon_gear_bait_13"
@@ -490,6 +522,7 @@
         "power": 10,
         "big_chance": 137,
         "bite_chance": 20,
+        "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
         "image": "fish_icon_gear_bait_11"
@@ -505,6 +538,7 @@
         "power": 10,
         "big_chance": 0,
         "bite_chance": 40,
+        "event_chance": 11500,
         "currency": "ITEM_FISHCOIN",
         "price": 100000,
         "image": "fish_icon_gear_bait_event_01"
