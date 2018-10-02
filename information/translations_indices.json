@@ -13986,5 +13986,3338 @@
             "version": "4.7.0",
             "original": true
         }
+    ],
+    "portraits": [
+        {
+            "key": "TEXT_SISDOG_NAME",
+            "path": "portraits.0",
+            "text": "Sera",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FRESTINA_NAME",
+            "path": "portraits.1",
+            "text": "Prestina",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISANUT_NAME",
+            "path": "portraits.2",
+            "text": "Anut",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISKRAKEN_NAME",
+            "path": "portraits.3",
+            "text": "Aubrey",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISDRAGON_NAME",
+            "path": "portraits.4",
+            "text": "Bella",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DIONE_NAME",
+            "path": "portraits.5",
+            "text": "Dionne",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CRONOS_NAME",
+            "path": "portraits.6",
+            "text": "Chronos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SILUNIS_HIDDEN_NAME",
+            "path": "portraits.7",
+            "text": "The White Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SILUNIS_NAME",
+            "path": "portraits.8",
+            "text": "Sylunis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_SHOP_NAME",
+            "path": "portraits.9",
+            "text": "Bridget",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_WEAPON_NAME",
+            "path": "portraits.10",
+            "text": "Fergus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_RUNE_NAME",
+            "path": "portraits.11",
+            "text": "Hellad",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_CELINE_NAME",
+            "path": "portraits.12",
+            "text": "Celine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_BREAD_NAME",
+            "path": "portraits.13",
+            "text": "Chocolat",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_GYPSI_NAME",
+            "path": "portraits.14",
+            "text": "Cat Girl Popo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_PANDORA_NAME",
+            "path": "portraits.15",
+            "text": "Pandora",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_REDNAS_NAME",
+            "path": "portraits.16",
+            "text": "Lednas",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_SIGRUNA_NAME",
+            "path": "portraits.17",
+            "text": "Sigruna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_GON_NAME",
+            "path": "portraits.18",
+            "text": "Gon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_LEON_NAME",
+            "path": "portraits.19",
+            "text": "Leon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_DART_NAME",
+            "path": "portraits.20",
+            "text": "D'Artagnan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_MARIA_NAME",
+            "path": "portraits.21",
+            "text": "Maria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_DORO_NAME",
+            "path": "portraits.22",
+            "text": "Dorothy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_REPORTER_NAME",
+            "path": "portraits.23",
+            "text": "Reporter",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_ARCHON_NAME",
+            "path": "portraits.24",
+            "text": "Archon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_ALEXANDER_NAME",
+            "path": "portraits.25",
+            "text": "Alexander",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_YURIA_NAME",
+            "path": "portraits.26",
+            "text": "Yuria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_QUEST_NAME",
+            "path": "portraits.27",
+            "text": "Lednas",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISFOREST_NAME",
+            "path": "portraits.28",
+            "text": "Forest Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DOOR_NAME",
+            "path": "portraits.29",
+            "text": "Door Sound",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GIRL_NAME",
+            "path": "portraits.30",
+            "text": "Girl",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISUNKNOWN_NAME",
+            "path": "portraits.31",
+            "text": "Mysterious Woman",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISDESERT_NAME",
+            "path": "portraits.32",
+            "text": "Desert Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISSEA_NAME",
+            "path": "portraits.33",
+            "text": "Sea Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISSILUNIS_NAME",
+            "path": "portraits.34",
+            "text": "Sylunis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DARKSISDOG_NAME",
+            "path": "portraits.35",
+            "text": "Dark Sera",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NEMESIS_NAME",
+            "path": "portraits.36",
+            "text": "Nemesis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DYKE_NAME",
+            "path": "portraits.37",
+            "text": "Dike",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DARK_YURIA",
+            "path": "portraits.38",
+            "text": "Mysterious Demon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SOLTAR_NAME",
+            "path": "portraits.39",
+            "text": "Lord of Souls Soltar",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_MELRISA_NAME",
+            "path": "portraits.40",
+            "text": "Melissa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_DEMONA_NAME",
+            "path": "portraits.41",
+            "text": "Demona",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_ROLLAND_NAME",
+            "path": "portraits.42",
+            "text": "Roland",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_ROCHEFORT_NAME",
+            "path": "portraits.43",
+            "text": "Rochefort",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_KANO_NAME",
+            "path": "portraits.44",
+            "text": "Cano",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_TERESA_NAME",
+            "path": "portraits.45",
+            "text": "Teresa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HECTOR_NAME",
+            "path": "portraits.46",
+            "text": "Hector",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_ATALANTE_NAME",
+            "path": "portraits.47",
+            "text": "Atalante",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_HECTOR_NAME",
+            "path": "portraits.48",
+            "text": "Hector",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_ATALANTE_NAME",
+            "path": "portraits.49",
+            "text": "Atalante",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_MANACAR_NAME",
+            "path": "portraits.50",
+            "text": "Manacar",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_UNKNOWN_NAME",
+            "path": "portraits.51",
+            "text": "???",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_ARIA_NAME",
+            "path": "portraits.52",
+            "text": "Aria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_UNKNOWN",
+            "path": "portraits.53",
+            "text": "???",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_EXPLORE_NPC_NAME",
+            "path": "portraits.54",
+            "text": "Arjuna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GALAHAD_NAME",
+            "path": "portraits.55",
+            "text": "Galahad",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMP_KURENAI_NAME",
+            "path": "portraits.56",
+            "text": "Kurenai",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMP_REMY_NAME",
+            "path": "portraits.57",
+            "text": "Remi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_LIONEL_NAME",
+            "path": "portraits.58",
+            "text": "Lionel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_KRIEMHILD_NAME",
+            "path": "portraits.59",
+            "text": "Kriemhild",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_ELTALOS_NAME",
+            "path": "portraits.60",
+            "text": "El Thalnos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISWHITE_NAME",
+            "path": "portraits.61",
+            "text": "The White Goddess",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_SUSANOO_NAME",
+            "path": "portraits.62",
+            "text": "Susanoo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_HERO_LIONEL_NAME",
+            "path": "portraits.63",
+            "text": "Lionel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_WINCHESTER_NAME",
+            "path": "portraits.64",
+            "text": "Winchester",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_NETH_NAME",
+            "path": "portraits.65",
+            "text": "Frantz",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHRONA_LEADER_NAME",
+            "path": "portraits.66",
+            "text": "Leader of Chrona Heroes",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISTIME_NAME",
+            "path": "portraits.67",
+            "text": "Goddess of Time",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SISLIGHT_NAME",
+            "path": "portraits.68",
+            "text": "Goddess of Light",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_EP1_DEATH_NAME",
+            "path": "portraits.69",
+            "text": "Destalos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_WESTWIND_NAME",
+            "path": "portraits.70",
+            "text": "Hanee Baram",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_WEST_NAME",
+            "path": "portraits.71",
+            "text": "Ibelin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KURENAI_ODA_NAME",
+            "path": "portraits.72",
+            "text": "Demon Lord of the Sixth Heaven",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_TSUKINO_KURENAI_NAME",
+            "path": "portraits.73",
+            "text": "Tsukino Kurenai",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_GYPSI_PORTER_NAME",
+            "path": "portraits.74",
+            "text": "Deerdog Toto",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LIMITED_RB_ROMAN_NAME",
+            "path": "portraits.75",
+            "text": "Roman Torchwick",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMP_ROMAN_NAME",
+            "path": "portraits.76",
+            "text": "Beast King Agrius",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMP_GODDESS_NAME",
+            "path": "portraits.77",
+            "text": "Noa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_NOS_NAME",
+            "path": "portraits.78",
+            "text": "Lia",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_MINO_NAME",
+            "path": "portraits.79",
+            "text": "Aindel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "null",
+            "path": "portraits.80",
+            "text": "null",
+            "original": true
+        },
+        {
+            "key": "TEXT_UNKNOWN_GIRL_NAME",
+            "path": "portraits.81",
+            "text": "Mysterious Girl",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_ELLIE_NAME",
+            "path": "portraits.82",
+            "text": "Ellie",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_ORCUS_NAME",
+            "path": "portraits.83",
+            "text": "Cardinal Orcus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_RATA_NAME",
+            "path": "portraits.84",
+            "text": "Rata",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_RUDRAT_NAME",
+            "path": "portraits.85",
+            "text": "Rudrat",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_AVENIR_NAME",
+            "path": "portraits.86",
+            "text": "Avenir",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_CHEN2_NAME",
+            "path": "portraits.87",
+            "text": "He Xiangu",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHAMPION_CHEN1_NAME",
+            "path": "portraits.88",
+            "text": "Lu Dongbin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_RAID_BANOUB_NAME",
+            "path": "portraits.89",
+            "text": "Camilla Banoub",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_1_3_NAME",
+            "path": "heroes.36",
+            "text": "Sigruna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_6_NAME",
+            "path": "heroes.36",
+            "text": "Sigruna of Endeavor",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_9_NAME",
+            "path": "heroes.36",
+            "text": "Sigruna of Spirit",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_3_NAME",
+            "path": "heroes.36",
+            "text": "Expert Archer Sigruna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_3_NAME",
+            "path": "heroes.36",
+            "text": "God Archer Sigruna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_3_NAME",
+            "path": "heroes.36",
+            "text": "Demon Archer Sigruna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_1_6_NAME",
+            "path": "heroes.37",
+            "text": "Demona",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_10_NAME",
+            "path": "heroes.37",
+            "text": "Demona the Fiend",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_12_NAME",
+            "path": "heroes.37",
+            "text": "Demona of the Pit",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_11_NAME",
+            "path": "heroes.37",
+            "text": "Demona of Revenge",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_11_NAME",
+            "path": "heroes.37",
+            "text": "Demona of Dawn",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_11_NAME",
+            "path": "heroes.37",
+            "text": "Demona of Primal Flames",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_LIMITED_GG_4_1_NAME",
+            "path": "heroes.41",
+            "text": "Chipp Zanuff",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_LIMITED_GG_5_1_NAME",
+            "path": "heroes.41",
+            "text": "Chipp Zanuff",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_LIMITED_GG_6_1_NAME",
+            "path": "heroes.41",
+            "text": "Chipp Zanuff",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_LIMITED_KOF2_MAI_NAME",
+            "path": "heroes.42",
+            "text": "Mai Shiranui",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_1_NAME",
+            "path": "heroes.43",
+            "text": "Gon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_1_NAME",
+            "path": "heroes.43",
+            "text": "Bone Beast Gon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_1_NAME",
+            "path": "heroes.43",
+            "text": "Bone Dragon Gon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_2_NAME",
+            "path": "heroes.44",
+            "text": "Hanzo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_2_NAME",
+            "path": "heroes.44",
+            "text": "Hanzo of Swiftness",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_2_NAME",
+            "path": "heroes.44",
+            "text": "Hanzo of Gale",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_4_NAME",
+            "path": "heroes.45",
+            "text": "Robin Hood",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_4_NAME",
+            "path": "heroes.45",
+            "text": "Righteous Outlaw Robin Hood",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_4_NAME",
+            "path": "heroes.45",
+            "text": "Nobleman Robin Hood",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_5_NAME",
+            "path": "heroes.46",
+            "text": "R - 9999",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_5_NAME",
+            "path": "heroes.46",
+            "text": "R - 1",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_5_NAME",
+            "path": "heroes.46",
+            "text": "R - 0",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_6_NAME",
+            "path": "heroes.47",
+            "text": "Giparang",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_6_NAME",
+            "path": "heroes.47",
+            "text": "Giparang of Half Moon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_6_NAME",
+            "path": "heroes.47",
+            "text": "Giparang of Full Moon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_7_NAME",
+            "path": "heroes.48",
+            "text": "Hikari",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_7_NAME",
+            "path": "heroes.48",
+            "text": "Bullseye Hikari",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_7_NAME",
+            "path": "heroes.48",
+            "text": "Hawk Eye Hikari",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_8_NAME",
+            "path": "heroes.49",
+            "text": "Niven",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_8_NAME",
+            "path": "heroes.49",
+            "text": "Frozen Shade Niven",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_8_NAME",
+            "path": "heroes.49",
+            "text": "Frozen Phantom Niven",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_13_NAME",
+            "path": "heroes.52",
+            "text": "Atalante",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_13_NAME",
+            "path": "heroes.52",
+            "text": "Chaser Atalante",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_13_NAME",
+            "path": "heroes.52",
+            "text": "Moonlight Chaser Atalante",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_14_NAME",
+            "path": "heroes.53",
+            "text": "Mamba",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_14_NAME",
+            "path": "heroes.53",
+            "text": "Green Mamba",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_14_NAME",
+            "path": "heroes.53",
+            "text": "Black Mamba",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_15_NAME",
+            "path": "heroes.54",
+            "text": "Lee",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_15_NAME",
+            "path": "heroes.54",
+            "text": "Dancer Lee",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_15_NAME",
+            "path": "heroes.54",
+            "text": "Principal Dancer Lee",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_18_NAME",
+            "path": "heroes.57",
+            "text": "Kaguya",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_18_NAME",
+            "path": "heroes.57",
+            "text": "Princess Kaguya",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_18_NAME",
+            "path": "heroes.57",
+            "text": "Moon Princess Kaguya",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_21_NAME",
+            "path": "heroes.60",
+            "text": "Set",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_21_NAME",
+            "path": "heroes.60",
+            "text": "Set, Warden of the Dead",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_21_NAME",
+            "path": "heroes.60",
+            "text": "Set, Reaper of Souls",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_MUSCAT_NAME",
+            "path": "heroes.100",
+            "text": "Muscat",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_1_3_NAME",
+            "path": "heroes.101",
+            "text": "D'Artagnan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_6_NAME",
+            "path": "heroes.101",
+            "text": "Hunter D'Artagnan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_9_NAME",
+            "path": "heroes.101",
+            "text": "Musketeer D'Artagnan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_1_NAME",
+            "path": "heroes.101",
+            "text": "D'Artagnan of Loyalty",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_1_NAME",
+            "path": "heroes.101",
+            "text": "D'Artagnan of Faith",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_1_NAME",
+            "path": "heroes.101",
+            "text": "D'Artagnan of Iron Will",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_1_6_NAME",
+            "path": "heroes.102",
+            "text": "Teresa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_10_NAME",
+            "path": "heroes.102",
+            "text": "Poor Teresa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_12_NAME",
+            "path": "heroes.102",
+            "text": "Runaway Teresa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_11_NAME",
+            "path": "heroes.102",
+            "text": "Redeemed Teresa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_11_NAME",
+            "path": "heroes.102",
+            "text": "Calvary Teresa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_11_NAME",
+            "path": "heroes.102",
+            "text": "Night Witch Teresa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_10_NAME",
+            "path": "heroes.103",
+            "text": "A.K.A. Santa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_CHOCOLA_HW_NAME",
+            "path": "heroes.103",
+            "text": "Halloween Chocolat",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NPC_FISHERCAT_NAME",
+            "path": "heroes.103",
+            "text": "Fishernyan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_RUNAWAY_FUGUS_NAME",
+            "path": "heroes.103",
+            "text": "Runaway Fergus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_LIMITED_GG_4_1_NAME",
+            "path": "heroes.104",
+            "text": "Elphelt Valentine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_LIMITED_GG_5_1_NAME",
+            "path": "heroes.104",
+            "text": "Elphelt Valentine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_LIMITED_GG_6_1_NAME",
+            "path": "heroes.104",
+            "text": "Elphelt Valentine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_LIMITED_KOF1_LEONA_NAME",
+            "path": "heroes.105",
+            "text": "Leona Heidern",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_LIMITED_RB_RUBY_NAME",
+            "path": "heroes.106",
+            "text": "Ruby Rose",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_LIMITED_RB_NORA_NAME",
+            "path": "heroes.107",
+            "text": "Nora Valkyrie",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_LIMITED_YS8_HUMMEL_NAME",
+            "path": "heroes.108",
+            "text": "Hummel Trabaldo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_2_NAME",
+            "path": "heroes.109",
+            "text": "Maxi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_2_NAME",
+            "path": "heroes.109",
+            "text": "Tomboy Maxi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_2_NAME",
+            "path": "heroes.109",
+            "text": "Cowgirl Maxi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_3_NAME",
+            "path": "heroes.110",
+            "text": "Spyro",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_3_NAME",
+            "path": "heroes.110",
+            "text": "Officer Spyro",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_3_NAME",
+            "path": "heroes.110",
+            "text": "Commander Spyro",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_4_NAME",
+            "path": "heroes.111",
+            "text": "Viper",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_4_NAME",
+            "path": "heroes.111",
+            "text": "Mercenary Viper",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_4_NAME",
+            "path": "heroes.111",
+            "text": "Legendary Mercenary Viper",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_5_NAME",
+            "path": "heroes.112",
+            "text": "Crow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_5_NAME",
+            "path": "heroes.112",
+            "text": "Gentleman Crow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_5_NAME",
+            "path": "heroes.112",
+            "text": "Evil Spirit Crow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_7_NAME",
+            "path": "heroes.114",
+            "text": "No. 9",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_7_NAME",
+            "path": "heroes.114",
+            "text": "Killer Bullet No. 9",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_7_NAME",
+            "path": "heroes.114",
+            "text": "Devil Bullet No. 9",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_9_NAME",
+            "path": "heroes.116",
+            "text": "Mandy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_9_NAME",
+            "path": "heroes.116",
+            "text": "Mandy the Sidekick",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_9_NAME",
+            "path": "heroes.116",
+            "text": "Super Mandy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_10_NAME",
+            "path": "heroes.117",
+            "text": "Wilhelm",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_10_NAME",
+            "path": "heroes.117",
+            "text": "Dark Hunter Wilhelm",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_10_NAME",
+            "path": "heroes.117",
+            "text": "Dark Slayer Wilhelm",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_12_NAME",
+            "path": "heroes.118",
+            "text": "Saiga",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_12_NAME",
+            "path": "heroes.118",
+            "text": "Ambitious Saiga",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_12_NAME",
+            "path": "heroes.118",
+            "text": "Red Bullet Saiga",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_13_NAME",
+            "path": "heroes.119",
+            "text": "Tia",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_13_NAME",
+            "path": "heroes.119",
+            "text": "Disguised Maid Tia",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_13_NAME",
+            "path": "heroes.119",
+            "text": "Armed Maid Tia",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_14_NAME",
+            "path": "heroes.120",
+            "text": "Spiny",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_14_NAME",
+            "path": "heroes.120",
+            "text": "Code Name Spiny",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_14_NAME",
+            "path": "heroes.120",
+            "text": "Cyborg Spiny",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_15_NAME",
+            "path": "heroes.121",
+            "text": "Dox",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_15_NAME",
+            "path": "heroes.121",
+            "text": "Sherlock Dox",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_15_NAME",
+            "path": "heroes.121",
+            "text": "Detective Sherlock Dox",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_16_NAME",
+            "path": "heroes.122",
+            "text": "Lorelei",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_16_NAME",
+            "path": "heroes.122",
+            "text": "Archaeologist Lorelei",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_16_NAME",
+            "path": "heroes.122",
+            "text": "Wanderer Lorelei",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_17_NAME",
+            "path": "heroes.123",
+            "text": "Scarlet",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_17_NAME",
+            "path": "heroes.123",
+            "text": "Pirate Hunter Scarlet",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_17_NAME",
+            "path": "heroes.123",
+            "text": "Navy Admiral Scarlet",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_1_3_NAME",
+            "path": "heroes.169",
+            "text": "Kriemhild",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_6_NAME",
+            "path": "heroes.169",
+            "text": "Cursed Kriemhild",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_9_NAME",
+            "path": "heroes.169",
+            "text": "Kriemhild of Misfortune",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_5_NAME",
+            "path": "heroes.169",
+            "text": "Kriemhild of Massacre",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_5_NAME",
+            "path": "heroes.169",
+            "text": "Kriemhild of Protection",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_5_NAME",
+            "path": "heroes.169",
+            "text": "Kriemhild of Oath",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_1_6_NAME",
+            "path": "heroes.170",
+            "text": "Roland",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_10_NAME",
+            "path": "heroes.170",
+            "text": "Strong Roland",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_12_NAME",
+            "path": "heroes.170",
+            "text": "Monk Roland",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_11_NAME",
+            "path": "heroes.170",
+            "text": "Shining Roland",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_11_NAME",
+            "path": "heroes.170",
+            "text": "Roland of Justice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_11_NAME",
+            "path": "heroes.170",
+            "text": "Roland of Honor",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_GG_4_1_NAME",
+            "path": "heroes.175",
+            "text": "May",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_GG_5_1_NAME",
+            "path": "heroes.175",
+            "text": "May",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_GG_6_1_NAME",
+            "path": "heroes.175",
+            "text": "May",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_GG_4_2_NAME",
+            "path": "heroes.176",
+            "text": "Sin Kiske",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_GG_5_2_NAME",
+            "path": "heroes.176",
+            "text": "Sin Kiske",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_GG_6_2_NAME",
+            "path": "heroes.176",
+            "text": "Sin Kiske",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_KOF1_BILLY_NAME",
+            "path": "heroes.177",
+            "text": "Billy Kane",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_KOF2_KIM_NAME",
+            "path": "heroes.178",
+            "text": "Kim Kaphwan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_RB_YANG_NAME",
+            "path": "heroes.179",
+            "text": "Yang Xiao Long",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_KOF2_TERRY_NAME",
+            "path": "heroes.180",
+            "text": "Terry Bogard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_RB_PYRRHA_NAME",
+            "path": "heroes.181",
+            "text": "Pyrrha Nikos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_YS8_RICOTTA_NAME",
+            "path": "heroes.182",
+            "text": "Ricotta Beldine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_YS8_SAHAD_NAME",
+            "path": "heroes.183",
+            "text": "Sahad Nautilus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_1_NAME",
+            "path": "heroes.184",
+            "text": "Thor",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_1_NAME",
+            "path": "heroes.184",
+            "text": "Thor of the North",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_1_NAME",
+            "path": "heroes.184",
+            "text": "Thor of Severe Cold",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_2_NAME",
+            "path": "heroes.185",
+            "text": "Alexander",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_2_NAME",
+            "path": "heroes.185",
+            "text": "King Alexander the Great",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_2_NAME",
+            "path": "heroes.185",
+            "text": "Emperor Alexander",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_4_NAME",
+            "path": "heroes.187",
+            "text": "Pirate Drake",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_4_NAME",
+            "path": "heroes.187",
+            "text": "Nobleman Drake",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_4_NAME",
+            "path": "heroes.187",
+            "text": "White Beard Drake",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_6_NAME",
+            "path": "heroes.188",
+            "text": "Vane",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_6_NAME",
+            "path": "heroes.188",
+            "text": "Vane of Dark",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_6_NAME",
+            "path": "heroes.188",
+            "text": "Vane the Dark Knight",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_7_NAME",
+            "path": "heroes.189",
+            "text": "Cain",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_7_NAME",
+            "path": "heroes.189",
+            "text": "Devil Cain",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_7_NAME",
+            "path": "heroes.189",
+            "text": "True Devil Cain",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_8_NAME",
+            "path": "heroes.190",
+            "text": "Stanya",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_8_NAME",
+            "path": "heroes.190",
+            "text": "Stanya the Destroyer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_8_NAME",
+            "path": "heroes.190",
+            "text": "Stanya the Annihilator",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_9_NAME",
+            "path": "heroes.191",
+            "text": "Mundeok",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_9_NAME",
+            "path": "heroes.191",
+            "text": "Colonel Mundeok",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_9_NAME",
+            "path": "heroes.191",
+            "text": "General Mundeok",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_10_NAME",
+            "path": "heroes.192",
+            "text": "V",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_10_NAME",
+            "path": "heroes.192",
+            "text": "Hunter - V",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_10_NAME",
+            "path": "heroes.192",
+            "text": "Berserk - V",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_13_NAME",
+            "path": "heroes.193",
+            "text": "Hector",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_13_NAME",
+            "path": "heroes.193",
+            "text": "Wandering Hector",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_13_NAME",
+            "path": "heroes.193",
+            "text": "Hector of Steel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_14_NAME",
+            "path": "heroes.194",
+            "text": "Athena",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_14_NAME",
+            "path": "heroes.194",
+            "text": "Holy Warrior Athena",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_14_NAME",
+            "path": "heroes.194",
+            "text": "Athena the Saintess of the Battlefield",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_15_NAME",
+            "path": "heroes.195",
+            "text": "Siegfried",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_15_NAME",
+            "path": "heroes.195",
+            "text": "Siegfried of Dreams",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_15_NAME",
+            "path": "heroes.195",
+            "text": "Siegfried the Dragon Paladin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_16_NAME",
+            "path": "heroes.196",
+            "text": "Dullahan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_16_NAME",
+            "path": "heroes.196",
+            "text": "Steel Warrior Dullahan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_16_NAME",
+            "path": "heroes.196",
+            "text": "Dullahan of the Apocalypse",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_17_NAME",
+            "path": "heroes.197",
+            "text": "Captain",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_17_NAME",
+            "path": "heroes.197",
+            "text": "Red Captain",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_17_NAME",
+            "path": "heroes.197",
+            "text": "Captain of the Gatcha Rangers",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_18_NAME",
+            "path": "heroes.198",
+            "text": "Wolfgang",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_18_NAME",
+            "path": "heroes.198",
+            "text": "Chief Wolfgang",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_18_NAME",
+            "path": "heroes.198",
+            "text": "Frost Hammer Wolfgang",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_4_19_NAME",
+            "path": "heroes.199",
+            "text": "Fenrir",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_19_NAME",
+            "path": "heroes.199",
+            "text": "Fenrir of the Forest",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_19_NAME",
+            "path": "heroes.199",
+            "text": "Fenrir of Choice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_8_NAME",
+            "path": "heroes.225",
+            "text": "Saintess Group of Light",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_1_3_NAME",
+            "path": "heroes.241",
+            "text": "Maria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_6_NAME",
+            "path": "heroes.241",
+            "text": "Sister Maria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_9_NAME",
+            "path": "heroes.241",
+            "text": "Mother Superior Maria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_2_NAME",
+            "path": "heroes.241",
+            "text": "Saintess Maria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_2_NAME",
+            "path": "heroes.241",
+            "text": "Saintess of Salvation Maria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_2_NAME",
+            "path": "heroes.241",
+            "text": "Savior Saintess Maria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_1_6_NAME",
+            "path": "heroes.242",
+            "text": "Melissa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_10_NAME",
+            "path": "heroes.242",
+            "text": "Crusader Melissa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_12_NAME",
+            "path": "heroes.242",
+            "text": "Melissa of the Wilderness",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_11_NAME",
+            "path": "heroes.242",
+            "text": "Melissa of Truth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_11_NAME",
+            "path": "heroes.242",
+            "text": "Wandering Melissa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_11_NAME",
+            "path": "heroes.242",
+            "text": "Black Sister Melissa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_LIMITED_GG_4_1_NAME",
+            "path": "heroes.244",
+            "text": "I-No",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_LIMITED_GG_5_1_NAME",
+            "path": "heroes.244",
+            "text": "I-No",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_LIMITED_GG_6_1_NAME",
+            "path": "heroes.244",
+            "text": "I-No",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_LIMITED_KOF1_KENSOU_NAME",
+            "path": "heroes.245",
+            "text": "Sie Kensou",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_LIMITED_KOF2_ATHENA_NAME",
+            "path": "heroes.246",
+            "text": "Athena Asamiya",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_1_NAME",
+            "path": "heroes.247",
+            "text": "Mew",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_1_NAME",
+            "path": "heroes.247",
+            "text": "Cat Mew",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_1_NAME",
+            "path": "heroes.247",
+            "text": "Cat Master Mew",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_3_NAME",
+            "path": "heroes.248",
+            "text": "Nightingale",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_3_NAME",
+            "path": "heroes.248",
+            "text": "Nightingale of Salvation",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_3_NAME",
+            "path": "heroes.248",
+            "text": "Nightingale of Light",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_4_NAME",
+            "path": "heroes.249",
+            "text": "Yeowoodong",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_4_NAME",
+            "path": "heroes.249",
+            "text": "Stunning Yeowoodong",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_4_NAME",
+            "path": "heroes.249",
+            "text": "Nine Tailed Fox Yeowoodong",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_5_NAME",
+            "path": "heroes.250",
+            "text": "Nurspy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_5_NAME",
+            "path": "heroes.250",
+            "text": "Dangerous Nurspy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_5_NAME",
+            "path": "heroes.250",
+            "text": "Emergency Relief Nurspy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_6_NAME",
+            "path": "heroes.251",
+            "text": "Woompa Woopa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_6_NAME",
+            "path": "heroes.251",
+            "text": "Roompa Woopa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_6_NAME",
+            "path": "heroes.251",
+            "text": "Woomparoom Woopa",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_7_NAME",
+            "path": "heroes.252",
+            "text": "Himiko",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_7_NAME",
+            "path": "heroes.252",
+            "text": "Shaman Himiko",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_7_NAME",
+            "path": "heroes.252",
+            "text": "Great Shaman Himiko",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_8_NAME",
+            "path": "heroes.253",
+            "text": "Stein",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_8_NAME",
+            "path": "heroes.253",
+            "text": "Tenacious Stein",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_8_NAME",
+            "path": "heroes.253",
+            "text": "Mad Scientist Stein",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_10_NAME",
+            "path": "heroes.255",
+            "text": "Dara",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_10_NAME",
+            "path": "heroes.255",
+            "text": "Dara of Hope",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_10_NAME",
+            "path": "heroes.255",
+            "text": "Dara of Joy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_12_NAME",
+            "path": "heroes.256",
+            "text": "Beatrice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_12_NAME",
+            "path": "heroes.256",
+            "text": "Exorcist Beatrice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_12_NAME",
+            "path": "heroes.256",
+            "text": "Demon Destroyer Beatrice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_14_NAME",
+            "path": "heroes.258",
+            "text": "Aria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_14_NAME",
+            "path": "heroes.258",
+            "text": "Fortune Teller Aria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_14_NAME",
+            "path": "heroes.258",
+            "text": "Aria of the Stars",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_15_NAME",
+            "path": "heroes.259",
+            "text": "Yuria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_15_NAME",
+            "path": "heroes.259",
+            "text": "Resistance Yuria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_15_NAME",
+            "path": "heroes.259",
+            "text": "Neth Army Officer Yuria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_16_NAME",
+            "path": "heroes.260",
+            "text": "Faust",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_16_NAME",
+            "path": "heroes.260",
+            "text": "Faust of Taboos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_16_NAME",
+            "path": "heroes.260",
+            "text": "Faust of Desolation",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_17_NAME",
+            "path": "heroes.261",
+            "text": "Seiren",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_17_NAME",
+            "path": "heroes.261",
+            "text": "Tempestuous Seiren",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_17_NAME",
+            "path": "heroes.261",
+            "text": "Ambassador Seiren",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_1_3_NAME",
+            "path": "heroes.306",
+            "text": "Leon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_6_NAME",
+            "path": "heroes.306",
+            "text": "Skilled Leon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_9_NAME",
+            "path": "heroes.306",
+            "text": "Famous Leon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_1_NAME",
+            "path": "heroes.306",
+            "text": "Leon of Destiny",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_1_NAME",
+            "path": "heroes.306",
+            "text": "Leon of Fate",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_1_NAME",
+            "path": "heroes.306",
+            "text": "Leon of Light",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_1_6_NAME",
+            "path": "heroes.307",
+            "text": "Rochefort",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_10_NAME",
+            "path": "heroes.307",
+            "text": "Libertine Rochefort",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_12_NAME",
+            "path": "heroes.307",
+            "text": "Romantic Rochefort",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_11_NAME",
+            "path": "heroes.307",
+            "text": "One-Eyed Rochefort",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_11_NAME",
+            "path": "heroes.307",
+            "text": "Musketeer Rochefort",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_11_NAME",
+            "path": "heroes.307",
+            "text": "Victor Rochefort",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_KURENAI_NAME",
+            "path": "heroes.308",
+            "text": "Tsukino Kurenai",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_4_2_NAME",
+            "path": "heroes.310",
+            "text": "Sol Badguy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_5_2_NAME",
+            "path": "heroes.310",
+            "text": "Sol Badguy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_6_2_NAME",
+            "path": "heroes.310",
+            "text": "Sol Badguy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_4_3_NAME",
+            "path": "heroes.311",
+            "text": "Millia Rage",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_5_3_NAME",
+            "path": "heroes.311",
+            "text": "Millia Rage",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_6_3_NAME",
+            "path": "heroes.311",
+            "text": "Millia Rage",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_KOF1_KYO_NAME",
+            "path": "heroes.312",
+            "text": "Kyo Kusanagi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_KOF2_CHRIS_NAME",
+            "path": "heroes.313",
+            "text": "Chris of the Destiny of Flames",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_RB_WEISS_NAME",
+            "path": "heroes.314",
+            "text": "Weiss Schnee",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_4_1_NAME",
+            "path": "heroes.315",
+            "text": "Ky Kiske",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_5_1_NAME",
+            "path": "heroes.315",
+            "text": "Ky Kiske",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_6_1_NAME",
+            "path": "heroes.315",
+            "text": "Ky Kiske",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_4_4_NAME",
+            "path": "heroes.316",
+            "text": "Johnny",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_5_4_NAME",
+            "path": "heroes.316",
+            "text": "Johnny",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_GG_6_4_NAME",
+            "path": "heroes.316",
+            "text": "Johnny",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_KOF1_IORI_NAME",
+            "path": "heroes.317",
+            "text": "Iori Yagami",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_KOF1_RUGAL_NAME",
+            "path": "heroes.318",
+            "text": "Omega Rugal",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_RB_BLAKE_NAME",
+            "path": "heroes.319",
+            "text": "Blake Belladonna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_YS8_ADOL_NAME",
+            "path": "heroes.321",
+            "text": "Adol Christin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_YS8_DANA_NAME",
+            "path": "heroes.322",
+            "text": "Dana Icarusia",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_YS8_LAXIA_NAME",
+            "path": "heroes.323",
+            "text": "Laxia von Roswell",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_2_NAME",
+            "path": "heroes.324",
+            "text": "Joan of Arc",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_2_NAME",
+            "path": "heroes.324",
+            "text": "Knight Joan of Arc",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_2_NAME",
+            "path": "heroes.324",
+            "text": "Steel Knight Joan of Arc",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_3_NAME",
+            "path": "heroes.325",
+            "text": "Susanoo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_3_NAME",
+            "path": "heroes.325",
+            "text": "Warrior Susanoo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_3_NAME",
+            "path": "heroes.325",
+            "text": "Shogun Susanoo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_4_NAME",
+            "path": "heroes.326",
+            "text": "Vivian",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_4_NAME",
+            "path": "heroes.326",
+            "text": "Devil Vivian",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_4_NAME",
+            "path": "heroes.326",
+            "text": "Absolute Devil Vivian",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_6_NAME",
+            "path": "heroes.328",
+            "text": "Kaori",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_6_NAME",
+            "path": "heroes.328",
+            "text": "Kaori of Victory",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_6_NAME",
+            "path": "heroes.328",
+            "text": "Kaori the Undefeated",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_7_NAME",
+            "path": "heroes.329",
+            "text": "Abel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_7_NAME",
+            "path": "heroes.329",
+            "text": "Devil Hunter Abel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_7_NAME",
+            "path": "heroes.329",
+            "text": "Devil Slayer Abel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_8_NAME",
+            "path": "heroes.330",
+            "text": "Uzimant",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_8_NAME",
+            "path": "heroes.330",
+            "text": "Uzimant the Undefeated",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_8_NAME",
+            "path": "heroes.330",
+            "text": "Tribal King Uzimant",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_10_NAME",
+            "path": "heroes.332",
+            "text": "Isabel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_10_NAME",
+            "path": "heroes.332",
+            "text": "Mad Isabel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_10_NAME",
+            "path": "heroes.332",
+            "text": "Psychic Isabel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_12_NAME",
+            "path": "heroes.333",
+            "text": "Koxinga",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_12_NAME",
+            "path": "heroes.333",
+            "text": "Sea King Koxinga",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_12_NAME",
+            "path": "heroes.333",
+            "text": "Ocean King Koxinga",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_13_NAME",
+            "path": "heroes.334",
+            "text": "Victoria",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_13_NAME",
+            "path": "heroes.334",
+            "text": "Victoria of the Battlefield",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_13_NAME",
+            "path": "heroes.334",
+            "text": "Victoria of the Oath",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_14_NAME",
+            "path": "heroes.335",
+            "text": "Lionel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_14_NAME",
+            "path": "heroes.335",
+            "text": "Suffering Lionel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_14_NAME",
+            "path": "heroes.335",
+            "text": "Dark Knight Lionel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_15_NAME",
+            "path": "heroes.336",
+            "text": "Arita",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_15_NAME",
+            "path": "heroes.336",
+            "text": "Insomniac Arita",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_15_NAME",
+            "path": "heroes.336",
+            "text": "Forest Witch Arita",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_16_NAME",
+            "path": "heroes.337",
+            "text": "Sien",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_16_NAME",
+            "path": "heroes.337",
+            "text": "Jiangshi Sien",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_16_NAME",
+            "path": "heroes.337",
+            "text": "Sien of Bloodlust",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_17_NAME",
+            "path": "heroes.338",
+            "text": "Borgos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_17_NAME",
+            "path": "heroes.338",
+            "text": "Borgos of Darkness",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_17_NAME",
+            "path": "heroes.338",
+            "text": "Overlord Borgos of Darkness",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_19_NAME",
+            "path": "heroes.340",
+            "text": "Shasha",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_19_NAME",
+            "path": "heroes.340",
+            "text": "Shasha of Rage",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_19_NAME",
+            "path": "heroes.340",
+            "text": "Shasha, Witch of Fire",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_21_NAME",
+            "path": "heroes.342",
+            "text": "Isis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_21_NAME",
+            "path": "heroes.342",
+            "text": "Isis, Warrior of Magic",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_21_NAME",
+            "path": "heroes.342",
+            "text": "Isis, Paver of the Path",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_1_3_NAME",
+            "path": "heroes.383",
+            "text": "Dorothy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_6_NAME",
+            "path": "heroes.383",
+            "text": "Genius Dorothy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_9_NAME",
+            "path": "heroes.383",
+            "text": "Genius Witch Dorothy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_3_NAME",
+            "path": "heroes.383",
+            "text": "Purple Light Witch Dorothy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_3_NAME",
+            "path": "heroes.383",
+            "text": "Red Witch Dorothy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_3_NAME",
+            "path": "heroes.383",
+            "text": "Black Witch Dorothy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_1_6_NAME",
+            "path": "heroes.384",
+            "text": "Cano",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_10_NAME",
+            "path": "heroes.384",
+            "text": "Top Student Cano",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_12_NAME",
+            "path": "heroes.384",
+            "text": "Beautiful Cano",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_11_NAME",
+            "path": "heroes.384",
+            "text": "Transformed Cano",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_11_NAME",
+            "path": "heroes.384",
+            "text": "Popstar Cano",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_11_NAME",
+            "path": "heroes.384",
+            "text": "Magical Girl Cano",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_GG_4_1_NAME",
+            "path": "heroes.386",
+            "text": "Ramlethal Valentine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_GG_5_1_NAME",
+            "path": "heroes.386",
+            "text": "Ramlethal Valentine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_GG_6_1_NAME",
+            "path": "heroes.386",
+            "text": "Ramlethal Valentine",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_GG_4_2_NAME",
+            "path": "heroes.387",
+            "text": "Jack-O`",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_GG_5_2_NAME",
+            "path": "heroes.387",
+            "text": "Jack-O`",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_GG_6_2_NAME",
+            "path": "heroes.387",
+            "text": "Jack-O`",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_KOF1_CHIZURU_NAME",
+            "path": "heroes.388",
+            "text": "Chizuru Kagura",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_KOF2_SHERMIE_NAME",
+            "path": "heroes.389",
+            "text": "Shermie of the Insanely Violent Lightning",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_1_NAME",
+            "path": "heroes.392",
+            "text": "Archon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_1_NAME",
+            "path": "heroes.392",
+            "text": "Archon the Undiscovered",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_1_NAME",
+            "path": "heroes.392",
+            "text": "Archon the Enlightened",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_2_NAME",
+            "path": "heroes.393",
+            "text": "Korin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_2_NAME",
+            "path": "heroes.393",
+            "text": "Grim Reaper Korin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_2_NAME",
+            "path": "heroes.393",
+            "text": "Death Messenger Korin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_4_NAME",
+            "path": "heroes.394",
+            "text": "Sasquatch",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_4_NAME",
+            "path": "heroes.394",
+            "text": "Sasquatch of Cold",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_4_NAME",
+            "path": "heroes.394",
+            "text": "Freezing Sasquatch",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_5_NAME",
+            "path": "heroes.395",
+            "text": "Lilith",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_5_NAME",
+            "path": "heroes.395",
+            "text": "Night Queen Lilith",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_5_NAME",
+            "path": "heroes.395",
+            "text": "Night Goddess Lilith",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_6_NAME",
+            "path": "heroes.396",
+            "text": "Rachel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_6_NAME",
+            "path": "heroes.396",
+            "text": "Succubus Rachel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_6_NAME",
+            "path": "heroes.396",
+            "text": "Succubus Queen Rachel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_7_NAME",
+            "path": "heroes.397",
+            "text": "Alice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_7_NAME",
+            "path": "heroes.397",
+            "text": "Queen Alice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_7_NAME",
+            "path": "heroes.397",
+            "text": "Spade Queen Alice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_8_NAME",
+            "path": "heroes.398",
+            "text": "Nazrune",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_8_NAME",
+            "path": "heroes.398",
+            "text": "Nazrune of Harmony",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_8_NAME",
+            "path": "heroes.398",
+            "text": "Nazrune of Nature",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_10_NAME",
+            "path": "heroes.400",
+            "text": "Necron",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_10_NAME",
+            "path": "heroes.400",
+            "text": "Dark Magician Necron",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_10_NAME",
+            "path": "heroes.400",
+            "text": "Soul Magician Necron",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_12_NAME",
+            "path": "heroes.401",
+            "text": "Demeter",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_12_NAME",
+            "path": "heroes.401",
+            "text": "Demeter in the Wheat Field",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_12_NAME",
+            "path": "heroes.401",
+            "text": "Demeter in the Golden Wheat Field",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_13_NAME",
+            "path": "heroes.402",
+            "text": "Uriel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_13_NAME",
+            "path": "heroes.402",
+            "text": "Inquisitor Uriel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_13_NAME",
+            "path": "heroes.402",
+            "text": "Grand Inquisitor Uriel",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_14_NAME",
+            "path": "heroes.403",
+            "text": "Benjamin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_14_NAME",
+            "path": "heroes.403",
+            "text": "Researcher Benjamin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_14_NAME",
+            "path": "heroes.403",
+            "text": "Creator Benjamin",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_15_NAME",
+            "path": "heroes.404",
+            "text": "Lupeow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_15_NAME",
+            "path": "heroes.404",
+            "text": "Phantom Thief Lupeow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_15_NAME",
+            "path": "heroes.404",
+            "text": "Notorious Phantom Thief Lupeow",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_16_NAME",
+            "path": "heroes.405",
+            "text": "Vesper",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_16_NAME",
+            "path": "heroes.405",
+            "text": "Hermit Vesper",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_16_NAME",
+            "path": "heroes.405",
+            "text": "Vesper, Witch of Water",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_19_NAME",
+            "path": "heroes.408",
+            "text": "Wolfram",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_19_NAME",
+            "path": "heroes.408",
+            "text": "Captain Wolfram",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_19_NAME",
+            "path": "heroes.408",
+            "text": "Wolfram, Witch of Wind",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_4_21_NAME",
+            "path": "heroes.410",
+            "text": "Osiris",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_5_21_NAME",
+            "path": "heroes.410",
+            "text": "Osiris, Seeker of the Past",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_6_21_NAME",
+            "path": "heroes.410",
+            "text": "Osiris, Guide of the Lost",
+            "version": "4.7.0",
+            "original": true
+        }
     ]
 }

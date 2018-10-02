@@ -6511,7 +6511,9 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
+        "portraits": [
+            "portrait_free_default"
+        ],
         "skins": []
     },
     {
@@ -18230,7 +18232,9 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
+        "portraits": [
+            "portrait_rolland_default"
+        ],
         "skins": []
     },
     {
@@ -20525,7 +20529,8 @@
             }
         ],
         "portraits": [
-            "portrait_himiko_default"
+            "portrait_himiko_default",
+            "portrait_darkhimiko_default"
         ],
         "skins": [
             {
@@ -28367,7 +28372,9 @@
             }
         ],
         "portraits": [
-            "portrait_lionel_default"
+            "portrait_lionel_default",
+            "portrait_lioneloff_default",
+            "portrait_archon_default"
         ],
         "skins": [
             {

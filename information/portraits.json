@@ -1,0 +1,649 @@
+[
+    {
+        "portraits": [
+            "portrait_sisdog_default",
+            "portrait_sisdog_shy_quest",
+            "portrait_sisdog_surprise_quest",
+            "portrait_sisdog_impassive",
+            "portrait_sisdog_surprise",
+            "portrait_sisdog_shy_2",
+            "portrait_sisdog_smile",
+            "portrait_sisdog_angry",
+            "portrait_sisdog_shy",
+            "portrait_sisdog_sad",
+            "portrait_sisdog_pain"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sisforest_default",
+            "portrait_sisforest2_default",
+            "portrait_sisforest_think",
+            "portrait_sisforest_angry",
+            "portrait_sisforest_sad",
+            "portrait_sisforest_surprise",
+            "portrait_sisforest_shy",
+            "portrait_sisforest_pain",
+            "portrait_sisforest_shy_2",
+            "portrait_sisdog_surprise",
+            "portrait_sisdog_impassive",
+            "portrait_sisforest2_sad",
+            "portrait_sisforest2_think",
+            "portrait_sisforest2_surprise",
+            "portrait_sisforest2_angry",
+            "portrait_sisforest2_shy"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sisanut_default",
+            "portrait_sisanut_sad",
+            "portrait_sisanut_smile",
+            "portrait_sisanut_shy",
+            "portrait_sisanut_angry",
+            "portrait_sisanut_surprise",
+            "portrait_sisanut_think",
+            "portrait_sisanut_pain",
+            "portrait_sisanut_sleep",
+            "portrait_sisdanut_surprise"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_siskraken_default",
+            "portrait_siskraken_shy",
+            "portrait_siskraken_smile",
+            "portrait_siskraken_angry",
+            "portrait_siskraken_surprise",
+            "portrait_siskraken_pain",
+            "portrait_siskraken_sad"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sisdragon_default",
+            "portrait_sisdragon_shy",
+            "portrait_sisdragon_smile",
+            "portrait_sisdragon_shy_2",
+            "portrait_sisdragon_sad",
+            "portrait_sisdragon_surprise",
+            "portrait_sisdragon_angry",
+            "portrait_sisdragon_pain",
+            "portrait_sisforest_sad",
+            "portrait_dione_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_dione_default",
+            "portrait_dione_think",
+            "portrait_dione_sad",
+            "portrait_dione_surprise",
+            "portrait_dione_angry",
+            "portrait_dione_pain",
+            "portrait_dione_dark",
+            "portrait_dione_evil"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_cronos_default",
+            "portrait_cronos_sad",
+            "portrait_cronos_angry",
+            "portrait_cronos_smile",
+            "portrait_cronos_surprise",
+            "portrait_cronos_pain"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_godsilunis_hood"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_godsilunis_default",
+            "portrait_godsilunis_sad",
+            "portrait_godsilunis_smile",
+            "portrait_godsilunis_surprise",
+            "portrait_godsilunis_angry"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_brigit_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_fugus_default",
+            "portrait_cookfugus_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_helled_default",
+            "portrait_helled_dark",
+            "portrait_helled_evil"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_celine_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_chocolat_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_popo_default",
+            "portrait_popo_ep_5_default",
+            "portrait_popo_ep_6_default",
+            "portrait_popo_ep_7_default",
+            "portrait_popo_s2ep_1_default",
+            "portrait_borgos_default",
+            "portrait_captain_default",
+            "portrait_crow_default",
+            "portrait_kaguya_default",
+            "portrait_tia_default",
+            "portrait_uriel_default",
+            "portrait_victoria_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_pandora_default",
+            "portrait_pandora_book"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_rednas_default",
+            "portrait_rednas_smile",
+            "portrait_rednas_sad",
+            "portrait_rednas_shy",
+            "portrait_rednas_surprise",
+            "portrait_rednas_sigh",
+            "portrait_rednas_angry",
+            "portrait_rednas_pain",
+            "portrait_rednas_smilet"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sigruna_default",
+            "portrait_sigrunamax_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_gon_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_leon_smile_s",
+            "portrait_leon_surprise_s",
+            "portrait_leon_sad_s",
+            "portrait_leon_default_s",
+            "portrait_leon_sad",
+            "portrait_leon_default",
+            "portrait_leon_smile",
+            "portrait_leonmax_smile2_ns",
+            "portrait_leonmax_smile_ns",
+            "portrait_leonmax_sad_ns",
+            "portrait_leonmax_default_ns",
+            "portrait_leonmax_brave_ns",
+            "portrait_leonmax_brave",
+            "portrait_leonmax_pain",
+            "portrait_leonmax_default",
+            "portrait_leonmax_smile"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_dart_default",
+            "portrait_dartmax_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_maria_default",
+            "portrait_rolland_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_doro_default",
+            "portrait_doromax_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_reporter_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_archon_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_alexander_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_yuria_smile",
+            "portrait_yuria_default",
+            "portrait_yuria_sad",
+            "portrait_yuria_angry"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_rednas_default",
+            "portrait_rednas_smile"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sisforest_default",
+            "portrait_sisforest_angry",
+            "portrait_sisforest_pain",
+            "portrait_sisforest_surprise"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_celine_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sisdog_surprise",
+            "portrait_sisdog_sad",
+            "portrait_sisdog_angry",
+            "portrait_sisdog_impassive",
+            "portrait_sisdog_shy",
+            "portrait_sol_default",
+            "portrait_chp_default",
+            "portrait_kyk_default",
+            "portrait_may_default",
+            "portrait_ino_default",
+            "portrait_ram_default",
+            "portrait_elp_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_silunis_default",
+            "portrait_silunis_endingsmile_1",
+            "portrait_silunis_endingsmile_2",
+            "portrait_dione_default",
+            "portrait_dione_think",
+            "portrait_helled_dark",
+            "portrait_cronos_default",
+            "portrait_godsilunis_hoodangry",
+            "portrait_godsilunis_hood"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sisanut_smile"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_siskraken_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_silunis_default",
+            "portrait_silunis_endingsmile_2",
+            "portrait_silunis_endingsmile_1",
+            "portrait_silunis_smile",
+            "portrait_silunis_pain",
+            "portrait_silunis_surprise",
+            "portrait_silunis_mad",
+            "portrait_godsilunis_default",
+            "portrait_godsilunis_smile",
+            "portrait_godsilunis_surprise",
+            "portrait_godsilunis_sad",
+            "portrait_godsilunis_cry",
+            "portrait_godsilunis_cry_2",
+            "portrait_godsilunis_angry",
+            "portrait_godsilunis_pain"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_darksisdog_default",
+            "portrait_darksisdog_pain"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_nemesis_default",
+            "portrait_nemesis_dark"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_dyke_h_default",
+            "portrait_dyke_h_order",
+            "portrait_dyke_default",
+            "portrait_dyke_order",
+            "portrait_dyke_angry",
+            "portrait_dykedemon_default",
+            "portrait_dyke_pain"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_yuriadark_default",
+            "portrait_yuriadarkpain_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_soltar_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_melissa_default",
+            "portrait_demona_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_demona_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_rolland_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_rochefort_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_kano_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_teresa_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_hector_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_atalante_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_hector_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_atalante_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_manacar_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_soulhero_default",
+            "portrait_dione_evil",
+            "portrait_introa_default",
+            "portrait_introb_default",
+            "portrait_kurenaihidden_default",
+            "portrait_nos_default",
+            "portrait_artworkfirst_default",
+            "portrait_rata_default",
+            "portrait_artworkseventh_default",
+            "portrait_ruderat_default",
+            "portrait_jeraphim_default",
+            "portrait_camilla_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_aria_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_arjuna_default",
+            "portrait_neth_default",
+            "portrait_tsukinokurenaihood_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_arjuna_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_galahad_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_kurenai_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_remy_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_lionel_default",
+            "portrait_lioneloff_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_kriemhild_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_eltalos_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_godsilunis_hood",
+            "portrait_godsilunis_hoodsuprise",
+            "portrait_godsilunis_hoodangry",
+            "portrait_godsilunis_default",
+            "portrait_godsilunis_angry",
+            "portrait_godsilunis_sad",
+            "portrait_godsilunis_surprise"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_susanoo_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_lionel_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_free_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_neth_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_oren_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_cronos_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_sislight_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_death_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_han_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_ibelin_default",
+            "portrait_ibelin_maskoff"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_oda_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_tsukinokurenai_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_popo_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_rbroman_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_roman_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_goddess_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_nos_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_mino_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_artworksecond_default",
+            "portrait_artworkthird_default",
+            "portrait_artworkfourth_default",
+            "portrait_artworkfifth_default",
+            "portrait_artworksixth_default",
+            "portrait_artworkeighth_default",
+            "portrait_artworkninth_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_ellie_default",
+            "portrait_ellie_panic",
+            "portrait_ellie_shy",
+            "portrait_ellie_surprise",
+            "portrait_ellie_smile",
+            "portrait_ellie_angry",
+            "portrait_ellie_sad"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_ellie_smile",
+            "portrait_ellie_default",
+            "portrait_ellie_shy",
+            "portrait_ellie_panic",
+            "portrait_ellie_surprise",
+            "portrait_ellie_angry",
+            "portrait_ellie_trance",
+            "portrait_ellie_sad"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_orcus_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_rata_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_ruderat_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_avenir_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_yeoha_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_yeoha_default"
+        ]
+    },
+    {
+        "portraits": [
+            "portrait_camilla_default"
+        ]
+    }
+]
