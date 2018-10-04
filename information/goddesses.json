@@ -8,6 +8,14 @@
         "ingame_id": "SIS_CHRONOS"
     },
     {
+        "id": "SIS_CHRONOS_S2",
+        "name": "TEXT_CRONOS_NAME",
+        "image": "sis_7_s2",
+        "skill_name": "TEXT_SIS_SKILL_CHRONOS_NAME",
+        "skill_description": "TEXT_SIS_SKILL_CHRONOS_DESC",
+        "ingame_id": "SIS_CHRONOS_S2"
+    },
+    {
         "id": "SIS_DESERT",
         "name": "TEXT_SISANUT_NAME",
         "image": "sis_2",
@@ -22,6 +30,14 @@
         "skill_name": "TEXT_SIS_SKILL_DESERT_NAME",
         "skill_description": "TEXT_SIS_SKILL_DESERT_DESC",
         "ingame_id": "SIS_DESERT_HEAD_1_LV1"
+    },
+    {
+        "id": "SIS_DESERT_S2",
+        "name": "TEXT_SISANUT_NAME",
+        "image": "sis_2_s2",
+        "skill_name": "TEXT_SIS_SKILL_DESERT_NAME",
+        "skill_description": "TEXT_SIS_SKILL_DESERT_DESC",
+        "ingame_id": "SIS_DESERT_S2"
     },
     {
         "id": "SIS_DOG",

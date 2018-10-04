@@ -5184,6 +5184,42 @@
         "type": "sbw,secret"
     },
     {
+        "id": "WEP_LEGEND_ST_GG3_DIZZY_4",
+        "name": "TEXT_WEP_LEGEND_ST_GG3_DIZZY_NAME",
+        "image": "st_limited_gg_dizzy",
+        "ability": "TEXT_EXCLUSIVE_ST_LIMITED_GG3_DIZZY_4",
+        "star": 4,
+        "atk_power": 100,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw,secret"
+    },
+    {
+        "id": "WEP_LEGEND_ST_GG3_DIZZY_5",
+        "name": "TEXT_WEP_LEGEND_ST_GG3_DIZZY_NAME",
+        "image": "st_limited_gg_dizzy",
+        "ability": "TEXT_EXCLUSIVE_ST_LIMITED_GG3_DIZZY_4",
+        "star": 5,
+        "atk_power": 180,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw,secret"
+    },
+    {
+        "id": "WEP_LEGEND_ST_GG3_DIZZY_6",
+        "name": "TEXT_WEP_LEGEND_ST_GG3_DIZZY_NAME",
+        "image": "st_limited_gg_dizzy",
+        "ability": "TEXT_EXCLUSIVE_ST_LIMITED_GG3_DIZZY_6",
+        "star": 6,
+        "atk_power": 308,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw,secret"
+    },
+    {
         "id": "WEP_LEGEND_ST_GG_CHA_4_1",
         "name": "TEXT_WEP_ST_LIMITED_4_1_NAME",
         "image": "st_limited_gg_ramlethal_4",
@@ -6226,6 +6262,42 @@
         "options": 1365,
         "class": "sword",
         "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_SW_GG3_BAIKEN_4",
+        "name": "TEXT_WEP_LEGEND_SW_GG3_BAIKEN_NAME",
+        "image": "sw_limited_gg_baiken",
+        "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG3_BAIKEN_4",
+        "star": 4,
+        "atk_power": 95,
+        "atk_speed": 1.1,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw,secret"
+    },
+    {
+        "id": "WEP_LEGEND_SW_GG3_BAIKEN_5",
+        "name": "TEXT_WEP_LEGEND_SW_GG3_BAIKEN_NAME",
+        "image": "sw_limited_gg_baiken",
+        "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG3_BAIKEN_4",
+        "star": 5,
+        "atk_power": 190,
+        "atk_speed": 1.1,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw,secret"
+    },
+    {
+        "id": "WEP_LEGEND_SW_GG3_BAIKEN_6",
+        "name": "TEXT_WEP_LEGEND_SW_GG3_BAIKEN_NAME",
+        "image": "sw_limited_gg_baiken",
+        "ability": "TEXT_EXCLUSIVE_SW_LIMITED_GG3_BAIKEN_6",
+        "star": 6,
+        "atk_power": 284,
+        "atk_speed": 1.1,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw,secret"
     },
     {
         "id": "WEP_LEGEND_SW_GG_CHA_4_1",

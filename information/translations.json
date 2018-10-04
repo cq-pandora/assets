@@ -12300,13 +12300,13 @@
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_4_2_DESC": {
-        "text": "Valentine' is from another dimension. Jack-O` was created to stop the convergence of Elphelt and Justice. Jack-O` was awakened much earlier than planned, just to stop the conspiracy of 'Ruthless Revelation'.",
-        "version": "4.7.0",
+        "text": "Valentine' is from another dimension. Jack-O' was created to stop the convergence of Elphelt and Justice. Jack-O' was awakened much earlier than planned, just to stop the conspiracy of 'Ruthless Revelation'.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_4_2_NAME": {
-        "text": "Jack-O`",
-        "version": "4.7.0",
+        "text": "Jack-O'",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_5_1_DESC": {
@@ -12320,13 +12320,13 @@
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_5_2_DESC": {
-        "text": "Jack-O` was awakened in an incomplete state, so he needs a mask and candy to function. Suddenly, without permission Jack-O` runs outside to have a look at the world.",
-        "version": "4.7.0",
+        "text": "Jack-O' was awakened in an incomplete state, so he needs a mask and candy to function. Suddenly, without permission Jack-O' runs outside to have a look at the world.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_5_2_NAME": {
-        "text": "Jack-O`",
-        "version": "4.7.0",
+        "text": "Jack-O'",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_6_1_DESC": {
@@ -12340,13 +12340,13 @@
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_6_2_DESC": {
-        "text": "Raven, the close associate of 'That Man' finds Jack-O` and takes him back to where he should be, with 'Sold Badguy'. When Jack-O` sees Sol's face, a mysterious change of dimension leads Jack-O` to Hasla.",
-        "version": "4.7.0",
+        "text": "Raven, the close associate of 'That Man' finds Jack-O' and takes him back to where he should be, with 'Sold Badguy'. When Jack-O' sees Sol's face, a mysterious change of dimension leads Jack-O' to Hasla.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_GG_6_2_NAME": {
-        "text": "Jack-O`",
-        "version": "4.7.0",
+        "text": "Jack-O'",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_CHA_WI_LIMITED_KOF1_CHIZURU_4_DESC": {
@@ -18155,8 +18155,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_4_1": {
-        "text": "(Upon activating passive) Gon summons 'Tiga,' which deals physical damage equal to 1000% of her attack power. (Cooltime: 2 seconds)",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Gon summons 'Tiga,' dealing physical damage equal to 1500% of attack power. (Cooltime: 2 seconds)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_4_10": {
@@ -18310,13 +18310,13 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_LIMITED_GG_4_1": {
-        "text": "Y blade', 'Throwing daggers' damage +50%",
-        "version": "4.7.0",
+        "text": "'Y blade', 'Throwing daggers' damage +50%",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_LIMITED_GG_6_1": {
-        "text": "Y blade', 'Throwing daggers' damage +50%,\nusing block after  'Throwing daggers' activates 'Spiral dagger' (deals magical damage equal to (200/300/450)% of attack power per each dragger)",
-        "version": "4.7.0",
+        "text": "'Y blade', 'Throwing daggers' damage +50%,\nusing block after  'Throwing daggers' activates 'Spiral dagger' (deals magical damage equal to (450/500/550)% of attack power per each dragger)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_BO_4_18": {
@@ -18590,8 +18590,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_10": {
-        "text": "(In mad state) Life steal increases by 40%. When reinforced block skill is used while the hero is mad, activates V-Slash with 1000% power and 3 seconds increased duration in 50% chance. Second block skill after V-slash will be reinforced.",
-        "version": "4.7.0",
+        "text": "(During Fury Mode) V's life steal rate increases by 40%. When an enhanced block is used while V is in Fury Mode, V activates V-Slash to deal physical damage equal to 1500% of her attack power and increases the duration of Fury Mode by 3 seconds. The second block skill after V-slash will also be enhanced.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_11": {
@@ -18695,8 +18695,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_GG_6_2": {
-        "text": "(Upon activating passive) Sin's resistance penetration is increased by 100% for 5 seconds. Additionally, he uses 'Laidin' instead of 'R〮T〮L' to deal magical damage equal to 850% of his attack power.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Sin's resistance penetration is increased by 100% for 5 seconds. Additionally, instead of 'R.T.L' he uses 'Raiden,' dealing magical damage equal to 1600% of attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_KOF_BILLY_4": {
@@ -18915,8 +18915,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_LIMITED_GG_6_1": {
-        "text": "If Elphelt uses her own block in 'Stance' mode, she has a 50% chance of generating 1 block. Additionally, her 'Stance' count is increased by 1. On her 6th block skill attack, Elphelt pulls out a bazooka gun to deal physical damage equal to 1200% of her attack power.",
-        "version": "4.7.0",
+        "text": "Upon using her own block and attacking while in a \"Stance,\" Elphelt has a 50% chance to generate 1 of her own block. Additionally, her 'Stance' block count duration is increased by 1. On her 6th block skill attack, Elphelt pulls out and uses a bazooka to deal physical damage equal to 2400% of  attack power in the area.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_OR_4_17": {
@@ -19140,8 +19140,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_LIMITED_GG_6_1": {
-        "text": "(Passive enhanced) Upon hitting an enemy, Ino heals a single ally. Additionally, 'Discharge Antidepressant Scale' is changed to 'Megalomania,' which deals magical damage equal to 360% of Ino's attack power throughout 6 hits. Every hit of 'Megalomania' has the same effect as 'Discharge Antidepressant.'",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Upon hitting an enemy, I-No heals a single ally.  Additionally, 'Discharge Antidepressant Scale' is changed to 'Megalomania,' which deals damage equal to 1800% of attack power over 6 hits. Every hit of 'Megalomania' has the same effect as 'Discharge Antidepressant Scale.'",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_4_18": {
@@ -19420,8 +19420,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_2": {
-        "text": "(Passive enhanced) Sol Badguy deals 1.5 times more damage.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Sol Badguy deals 2 times more damage.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_3": {
@@ -19435,23 +19435,23 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_1": {
-        "text": "(Passive enhanced) Ky Kiske receives a damage reduction effect of 50%. Additionally, 'Ride the lightning' is enhanced to 'Rising Force,' which stuns enemies for 1.5 seconds.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Ky Kiske receives 50% less damage. Additionally, 'Ride the Lightning' is enhanced into 'Rising Force,' which deals magical damage equal to 2000% of Ky Kiske's attack power and stuns hit enemies for 1.5 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_2": {
-        "text": "(Passive enhanced) Sol Badguy deals 1.7 times more damage. Additionally, he activates 'Branding Breach,' which deals physical damage equal to 750% of his attack power.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Sol Badguy deals 3 times more damage, and uses 'Branding Breach,' dealing physical damage equal to 2750% of attack power and increases his attack power and accuracy by 40% for 10 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_3": {
-        "text": "(Passive activated) Accuracy of all allies increased by 45% for 4 seconds, and activates \"Iron Maiden\" that deals magic damage equal to 650% of the hero's attack power. After \"Iron Maiden\" is finished \"Winger\" is activated.",
-        "version": "4.7.0",
+        "text": "(Passive activated) Accuracy of all allies increased by 45% for 4 seconds, and activates \"Iron Maiden\" that deals magic damage equal to 1400% of the hero's attack power. After \"Iron Maiden\" is finished \"Winger\" is activated.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_4": {
-        "text": "(Passive activated) Ignores 50% of the enemy's armor for 5 seconds and activates \"Jocker Trick\" that deals physical damage equal to 700% of the hero's attack power",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Ignores 100% of the enemy's armor for 10 seconds, and upon using a block activates 'Joker Trick,' dealing physical damage equal to 3000% of attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_KOF_CHRIS_4": {
@@ -39570,8 +39570,8 @@
         "original": true
     },
     "TEXT_SKILL_AR_CONDEMN_LV3_SUBDESC": {
-        "text": "Upon using the leader ally's 3-chain, Gon shoots 4 arrows towards the enemies in the rear to deal #physical damage# equal to 180% of her attack power. Afterwards, she shoots 'Resolute Shot' to deal #physical damage# equal to 250% of her attack power, and decrease the armor of hit enemies for 5 seconds by 50%. This debuff is only applied to 'Resolute Shot' activated by Gon's passive. (Cooltime: 1 second)",
-        "version": "4.7.0",
+        "text": "Upon using the ally leader's 3-chain, Gon shoots 4 arrowheads towards the enemy in the rear to deal #physical damage# equal to 225% of her attack power. Afterwards, she uses 'Resolute Shot' to deal #physical damage# equal to 414% of her attack power. Enemies hit by 'Resolute Shot' lose 50% of their armor for 5 seconds and are dispelled of all of their buffs. This debuff is only applied to 'Resolute Shot' activated as Gon's passive. (Cooltime: 1 second)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_AR_CONDEMN_NAME": {
@@ -43570,8 +43570,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_GG_JOHNNY_DESC": {
-        "text": "When block is used, Mist Finer is activated dealing #physical damage# equal to (60/130/250)% of the hero's attack power.",
-        "version": "4.7.0",
+        "text": "When block is used, Mist Finer is activated dealing #physical damage# equal to (280/400/600)% of the hero's attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_GG_JOHNNY_LV2_SUBDESC": {
@@ -43580,8 +43580,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_GG_JOHNNY_LV3_SUBDESC": {
-        "text": "When an ally or the hero uses a chain-3 skill, a coin is thrown at the enemy. When the coin hits an enemy, the next 2 block skills used will do 50% more damage. After the skill ends, \"That's My Name\" will activate dealing #physical damage# equal to 500% of the hero's attack power.",
-        "version": "4.7.0",
+        "text": "When an ally or the hero uses a chain-3 skill, a coin is thrown at the enemy. When the coin hits an enemy, the next 2 block skills used will do 100% more damage. After the skill ends, \"That's My Name\" will activate dealing #physical damage# equal to 2000% of the hero's attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_GG_JOHNNY_NAME": {
@@ -43600,13 +43600,13 @@
         "original": true
     },
     "TEXT_SKILL_WA_GG_KY_LV2_SUBDESC": {
-        "text": "Ride the lightning: Pushes back the enemy that was hit by Sacred Edge and deals @magical damage@ equal to 285% of hero's attack power. Using a block after an ally's chain-3 skill launches Sacred Edge 1 time.",
-        "version": "4.7.0",
+        "text": "When an enemy hit by Sacred Edge comes into contact, uses 'Ride the Lightning,' charging forward and dealing @magical damage@ equal to 600% of attack power. Blocks used after an ally's 3-chain become Sacred Edge (only 1 time).",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_GG_KY_LV3_SUBDESC": {
-        "text": "Ride the lightning: Pushes back the enemy that was hit by Sacred Edge and deals @magical damage@ equal to 350% of hero's attack power. Received damage is reduced by 25% during the attack. Using a block after an ally's chain-3 skill launches Sacred Edge 2 times.",
-        "version": "4.7.0",
+        "text": "When an enemy hit by Sacred Edge comes into contact, uses 'Ride the Lightning,' charging forward and dealing @magical damage@ equal to 800% of attack power. While using 'Ride the Lightning,' Ky takes 25% reduced damage. Blocks used after an ally's 3-chain become Sacred Edge (only 2 times).",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_GG_KY_NAME": {
@@ -43630,8 +43630,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_GG_MILLIA_LV3_SUBDESC": {
-        "text": "Upon using another ally's 3-chain, Millia immediately uses 'Winger' to deal @magical damage@ equal to 500% of her attack power, and increase the entire party's critical chance by 20% for 4 seconds. (Cooltime: 3 seconds)",
-        "version": "4.7.0",
+        "text": "Upon using another ally's 3-chain, Millia immediately uses 'Winger,' dealing @magical damage@ equal to 900% of attack power, and increases the entire party's critical chance by 20% for 4 seconds. (Cooltime: 3 seconds)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_GG_MILLIA_NAME": {
@@ -44500,13 +44500,13 @@
         "original": true
     },
     "TEXT_SKILL_WI_GG_RAMLETHAL_SKILL_LV2_SUBDESC": {
-        "text": "Using a block skill after her chain-3 skill summons Kalbados that deals @magical damage@ equal to 700% of the hero's attack power. In the meantime, Ramlethal's critical strike damage is increased by 20% for 8 seconds.",
-        "version": "4.7.0",
+        "text": "After using her 3-chain after her block skill, Ramlethal uses 'Calvados' to deal @magical damage@ equal to 1400% of attack power and increases critical damage by 20% for 8 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WI_GG_RAMLETHAL_SKILL_LV3_SUBDESC": {
-        "text": "Using a block skill after her chain-3 skill summons Kalbados that deals @magical damage@ equal to 700% of the hero's attack power. In the meantime, the critical strike damage of your allies is increased by 30% for 8 seconds.",
-        "version": "4.7.0",
+        "text": "After using her 3-chain after her block skill, Ramlethal uses 'Calvados' to deal @magical damage@ equal to 1400% of attack power and increases critical damage by 20% for 8 seconds. The attack also heals her HP based on 30% of the damage dealt.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WI_GG_RAMLETHAL_SKILL_NAME": {
@@ -48770,8 +48770,8 @@
         "original": true
     },
     "TEXT_SUBSCENARIO_RESET_CONFIRM_DESC": {
-        "text": "By the holy water of Archon, \n\nthe Fortress has been initialized.\n\nAll the heros may participate in the battle and you may acquire the reward again.",
-        "version": "4.7.0",
+        "text": "By the holy water of Archon, the Fortress has been reset.\n\nAll heroes may now participate and you can acquire rewards again.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SUBSCENARIO_RESET_CONFIRM_TITLE": {
@@ -51880,8 +51880,8 @@
         "original": true
     },
     "TEXT_WEAPON_ERROR_TITLE_UNSUITABLE": {
-        "text": "There is no hero.",
-        "version": "4.7.0",
+        "text": "There are no available heroes.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_WEAPON_EXCLUSIVE": {
@@ -62045,8 +62045,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_6_1": {
-        "text": "(Upon activating passive) Gon summons 'Tiga,' which deals physical damage equal to 1000% of her attack power. (Cooltime: 2 seconds)\nAfter summons, she immediately uses 'Hunt Start!'",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Gon summons 'Tiga,' dealing physical damage equal to 1500% of attack power. (Cooltime: 2 seconds)\nAfter summoning 'Tiga,' Gon immediately uses 'Hunt Start!'",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_6_12": {
@@ -62140,8 +62140,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_GG_6_1": {
-        "text": "(Upon Activating Passive) May receives damage for the entire party for 3 seconds, and spins her arms to deal physical damage equal to 500% of her maximum HP + 500% of her attack power. (Cooltime: 5 seconds)",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Receives damage for the entire party for 3 seconds. (Activates once every 5 seconds). Additionally, enemies hit by the killer whale lose all their buffs. May spins her arms to deal physical damage equal to 500% of her maximum HP + 500% of attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_YS8_RICOTTA_4": {
@@ -64685,8 +64685,8 @@
         "original": true
     },
     "TEXT_GET_RING_GOAL": {
-        "text": "Obtain {0} Star Ring",
-        "version": "4.7.0",
+        "text": "Obtain {0}-Star Ring",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_GET_WEAPON_GOAL": {
@@ -65250,8 +65250,8 @@
         "original": true
     },
     "TEXT_HELP_10207_MAIN_DESC": {
-        "text": "1. Curious about the world of Crusaders Quest? Read up on the Heroes, Weapons, and lore of Hasla in the Library of Dimensions.\n2. Track the progress of your Hero and Weapon collection.\n3. Recruiting certain Heroes will unlock Hero Stories - little episodes featuring the Heroes of Hasla. You will earn rewards for unlocking each Hero Story.\n4. Review Scenario episode cutscenes.\n5. View illustrations of Heroes you have recruited.",
-        "version": "4.7.0",
+        "text": "1. Curious about the world of Crusaders Quest? Read up on the Heroes, Weapons, Sigils, and lore of Hasla in the Library of Dimensions. You can also track the progress of your collection!\n2. Recruiting certain Heroes will unlock Hero Stories - little episodes featuring the Heroes of Hasla. You will earn rewards for unlocking each Hero Story.\n3. Review Scenario episode cutscenes.\n4. View illustrations of Heroes you have recruited.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_HELP_10208_MAIN": {
@@ -66220,8 +66220,8 @@
         "original": true
     },
     "TEXT_HOW_TO_GET_EVENT_INFO_DESC": {
-        "text": "Obtained only by participating in an event. Be sure to check the \nin-game notices or the official website for all the\nlatest news!",
-        "version": "4.7.0",
+        "text": "Can only be obtained during special events.\n\nRemember to check in-game announcements or the official community pages for the latest news!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_HOW_TO_GET_EVENT_INFO_WEAPON_DESC": {
@@ -72445,8 +72445,8 @@
         "original": true
     },
     "TEXT_RQ_C_8_1_TITLE": {
-        "text": "Party Composition",
-        "version": "4.7.0",
+        "text": "Edit team",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_RQ_C_90_1_TITLE": {
@@ -72960,8 +72960,8 @@
         "original": true
     },
     "TEXT_RXCHANGE_HONOR_FRIEND_GOAL": {
-        "text": "Trade Honor with Friend",
-        "version": "4.7.0",
+        "text": "Send Honor to friends",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_S1_GROUP1_DESC": {
@@ -73985,13 +73985,13 @@
         "original": true
     },
     "TEXT_SKILL_PA_BEAM_SLASH_LV2_SUBDESC": {
-        "text": "Goes into Fury Mode for 5 seconds upon using 3-chain. Fury Mode increases attack power, armor, armor penetration and resistance penetration every second by 250, and magnifies the power of 3-chains by 50%. (Maximum 5 stacks) In Fury Mode, hero receives damage equal to 10% of maximum HP every second. Using block skills increases duration of Fury Mode by 1 second.",
-        "version": "4.7.0",
+        "text": "Upon using her 3-chain, V enters 'Fury Mode' for 5 seconds. For every second of its duration, 'Fury Mode' increases V's attack power by 1000, armor and all penetration by 250, and 3-chain power by 50%. (Maximum 5 stacks) However, 'Fury Mode' overheats V and costs 10% of her maximum HP per second. Using V's block skill will increase the duration of 'Fury Mode' by 1 second.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_PA_BEAM_SLASH_LV3_SUBDESC": {
-        "text": "Goes into Fury Mode for 5 seconds upon using 3-chain. Fury Mode increases attack power, armor, armor penetration and resistance penetration every second by 250, and magnifies the power of 3-chains by 50%. (Maximum 5 stacks) In Fury Mode, hero receives damage equal to 10% of maximum HP every second. Using block skills increases duration of Fury Mode by 1 second. In Fury Mode, every block skill is activated as 3-chain block skill, and every block used by ally triggers hero's own block skill. The strength of hero's every third block skill is magnified by 1.5 times.",
-        "version": "4.7.0",
+        "text": "Upon using her 3-chain, V enters 'Fury Mode' for 5 seconds. For every second of its duration, 'Fury Mode' increases V's attack power by 1000, armor and all penetration by 250, and 3-chain power by 50%. (Maximum 5 stacks) However, 'Fury Mode' overheats V and costs 10% of her maximum HP per second. Using V's block skill will increase the duration of 'Fury Mode' by 1 second. In 'Fury Mode,' all of V's block skills are activated with the power of 3-chains, and using any ally's block will also activate V's block skill. Every third block skill V uses will deal 1.5 times the damage.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_PA_BOMBING_WATERS_DESC": {
@@ -75215,13 +75215,13 @@
         "original": true
     },
     "TEXT_SUBSCENARIO_DESTROY_HELP_DESC": {
-        "text": "On certain floors you have a chance of finding a corrupted fragment. Failing to destroy it within time will result in stronger enemies, so watch out!",
-        "version": "4.7.0",
+        "text": "In some stages, a corrupted fragment may appear at a fixed probability. Failing to destroy it within a certain amount of time will result in stronger enemies.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SUBSCENARIO_ESCORT_HELP_DESC": {
-        "text": "On certain floors you have a chance of finding a fragment of Danan. If you succeed in defending it to the end of the stage, you will receive 50% more rewards.",
-        "version": "4.7.0",
+        "text": "In some stages, a fragment of Danan may appear at a fixed probability. If you succeed in clearing the stage without getting it destroyed, you will receive 50% more rewards.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SUBSCENARIO_EVENT_HELP_DESC": {
@@ -79320,8 +79320,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_CHA_6_25_DESC": {
-        "text": "(Passive Enhanced) Each time an ally is healed by Sfera's 'Impulse' or another healing skill while Ovis is summoned, Ovis grants an additional buff to the entire party that increases critical damage by 3% and attack power by 1%. (Maximum 25 stacks)\n(Passive Added) Using Sfera's 2- or 3-chain Ovis is summoned increases its summon duration by 2 seconds.\n(Passive Added) Whenever the summon duration of Ovis is increased, Sfera increases the duration of all debuffs affecting the enemy by 3 seconds. (Cooltime: 3 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Each time an ally is healed by Sfera's 'Impulse' or another healing skill while Ovis is summoned, Ovis grants an additional buff to the entire party that increases critical damage by 3% and attack power by 1%. (Maximum 25 stacks)\n(Passive Added) Using Sfera's 2- or 3-chain while Ovis is summoned increases its summon duration by 2 seconds.\n(Passive Added) Whenever the summon duration of Ovis is increased, Sfera increases the duration of all debuffs affecting the enemy by 3 seconds. (Cooltime: 3 seconds)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_CHA_6_25_NAME": {
@@ -79357,6 +79357,831 @@
     "TEXT_WEP_LEGEND_SW_CHA_6_25_NAME": {
         "text": "Jörmungandr",
         "version": "4.7.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_01_TITLE": {
+        "text": "How was the Pumpkin City Festival?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_02_TITLE": {
+        "text": "Trick-or-treat, give me something good to eat!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_03_TITLE": {
+        "text": "Let's go look for decorations for the festival!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_04_TITLE": {
+        "text": "We need something spoo-oo--ky!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_05_TITLE": {
+        "text": "Something's still missing!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_06_TITLE": {
+        "text": "No festival's complete without a cat!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_07_TITLE": {
+        "text": "Let's party the night away in Pumpkin City!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201810_LIMIT_QUEST_HALLOWEEN_08_TITLE": {
+        "text": "What kinds of candy should we prepare?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ARENA_MATCH_PENALTY_DESC": {
+        "text": "Several network errors have been detected in a short period of time. You will be temporarily deterred from being matched.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ARENA_MATCH_PENALTY_TITLE": {
+        "text": "Matching Unavailable",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BS_FUGUS_WALL": {
+        "text": "Watch your back!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BS_FUGUS_WALL_HIT": {
+        "text": "That stab in the back must have hurt!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_HIDDEN": {
+        "text": "Challenge (Hidden)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GG3_4_BAIKEN_DESC": {
+        "text": "The Crusades, the war between Gears and humans that lasted one hundred years, cost Baiken not only her family and friends but also her right arm and left eye. Baiken has since then sworn revenge against 'That Man,' who is said to have caused the tragedy with his creations.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GG3_5_BAIKEN_DESC": {
+        "text": "Thinking that she may be able to gather more clues about That Man if she pursues Gear-related incidents, Baiken rushes to find the Gear Dizzy. When she discovers that Dizzy cannot offer her any information, she leaves in the middle of battle.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GG3_6_BAIKEN_DESC": {
+        "text": "While Baiken has committed herself to her revenge against That Man, she decides to help 'May,' a girl of Japanese descent like herself. After a series of eventful adventures, she returns to her main task of finding That Man. Just as fate would have it, a mysterious portal suddenly teleports her to the world of Hasla.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GG3_BAIKEN_NAME": {
+        "text": "Baiken",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GG3_4_DIZZY_DESC": {
+        "text": "A half-Gear born between a human father and a Gear mother. Initially appearing a normal human infant, Dizzy is found and raised by an old couple until her rapid growth raises suspicions among the villagers. Fully grown at a young and unnatural age, Dizzy is forced to leave the village and live in the woods by herself.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GG3_5_DIZZY_DESC": {
+        "text": "Day after day, Dizzy fends off attacks from humans who have discovered her true identity. At her limit, Dizzy finally loses to Sol Badguy, who retains Gear powers similar to her own. Yet Dizzy is saved when she is taken in by Johnny of the Jellyfish Pirates. Johnny promises her safety and a place in his crew, and Dizzy begins to slowly heal from her distrust of humans.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GG3_6_DIZZY_DESC": {
+        "text": "Along with a peaceful life arrives true love in the form of Ky Kiske, captain of the International Police Force. Dizzy soon gives birth to her only son 'Sin' and enjoys happy days full of lighthearted traveling. Her happiness is interrupted, however, when a mysterious portal teleports her to the world of Hasla.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GG3_DIZZY_NAME": {
+        "text": "Dizzy",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CLT_CARVESTONE_GET_NUMBER": {
+        "text": "Acquired {0}/{1}",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CLT_CARVESTONE_HOWTO_TITLE": {
+        "text": "How to Obtain Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CLT_CARVESTONE_NOSET": {
+        "text": "No set options available.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CLT_CARVESTONE_OPTION": {
+        "text": "Inlay Option",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CLT_CARVESTONE_SETINFO": {
+        "text": "Set Info",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CLT_CARVESTONE_TIP": {
+        "text": "View detailed information on Sigils.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CLT_CARVESTONE_TITLE": {
+        "text": "Sigil Tome",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COLLECTION_CARVESTONE": {
+        "text": "Sigil Tome",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_AR_22_WARGAME_3": {
+        "text": "Magic Academy Student Genevie",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WA_24_WARGAME_3": {
+        "text": "Magic Academy Student Cassia",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WI_3_WARGAME_3": {
+        "text": "Magic Academy Student Dorothy",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WI_5_WARGAME_3": {
+        "text": "Magic Academy Student Lilith",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_CANDY_01_DESC": {
+        "text": "Filled with all kinds of candy for little trick-or-treaters.\nLimited Event Quest reward for October 2018.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_CANDY_01_NAME": {
+        "text": "Candy Bucket",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_CATHOUSE_01_DESC": {
+        "text": "A perfect home for the spooky feline.\nLimited Event Quest reward for October 2018.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_CATHOUSE_01_NAME": {
+        "text": "Pumpkin Cat Condo",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_CHAIR_01_DESC": {
+        "text": "Who knew that pumpkins could make great chairs?\nLimited Event Quest reward for October 2018.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_CHAIR_01_NAME": {
+        "text": "Pumpkin Chair",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_GRAVESTONE_01_DESC": {
+        "text": "This spooky gravestone decoration comes with extra pumpkins!\nLimited Event Quest reward for October 2018.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_PUMPKIN_GRAVESTONE_01_NAME": {
+        "text": "Pumpkin Headstone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_CONTROLFLAGOFF_DESC": {
+        "text": "This content is currently unavailable.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FERGUS_POINT": {
+        "text": "Fergus's Lucky Draw",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EXCLUSIVE_ST_LIMITED_GG3_DIZZY_4": {
+        "text": "(Passive Enhanced) Upon activating 'For roasting chestnuts...' Dizzy's attack power increases by 20% and accuracy increases by 15% for 6 seconds.\n(Passive Enhanced) 'Imperial Ray' deals 200% more damage per hit.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EXCLUSIVE_ST_LIMITED_GG3_DIZZY_6": {
+        "text": "(Passive Enhanced) Upon activating 'For roasting chestnuts...' Dizzy's attack power increases by 40% and accuracy increases by 30% for 6 seconds.\n(Passive Enhanced) 'Imperial Ray' deals 400% more damage per hit.\n(Passive Added) The second 'Imperial Ray' activated is changed to 'Emotional Gamma Ray,' which deals magical damage equal to 700% of Dizzy's attack power per 0.1 seconds. \n(Passive Added) If Dizzy receives a fatal hit, she becomes invincible for 1 second and uses 'Don't Be Overprotective,' healing herself for 50% of her maximum HP. (Cooltime: 10 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EXCLUSIVE_SW_LIMITED_GG3_BAIKEN_4": {
+        "text": "(Passive Added) Upon using 'Suzuran,' Baiken's attack power and accuracy are increased by 20% for 5 seconds.\n(Passive Added) If her own or another ally's block is used within 3 seconds after using [Sakura/Rokkonsogi/Yashagatana], Baiken activates 'Tatami Gaeshi' to deal physical damage equal to 650% of her attack power and knocks enemies into the air.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EXCLUSIVE_SW_LIMITED_GG3_BAIKEN_6": {
+        "text": "(Passive Added) Upon using 'Suzuran,' Baiken's attack power and accuracy are increased by 40% for 10 seconds.\n(Passive Added) If her own or another ally's block is used within 3 seconds after using [Sakura/Rokkonsogi/Yashagatana], Baiken activates 'Tatami Gaeshi' to deal physical damage equal to 650% of her attack power and knocks enemies into the air.\n(Passive Added) If Baiken uses own her block within 3 seconds after using 'Tatami Gaeshi,' she activates 'Garyou Tensei' to deal physical damage equal to 1500% of her attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_GACHA": {
+        "text": "Contract",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_GACHA_BUY_NOTICE": {
+        "text": null,
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_NEWBIE_REPEAT10_DESC": {
+        "text": "48-Hour Limited Offer!\n3~6-Star Heroes \n1 Contract Hero Guaranteed",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_NEWBIE_REPEAT10_NAME": {
+        "text": "Fledging Hero Limited Contract",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_ALL": {
+        "text": "How to Obtain {0}",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE": {
+        "text": "How to Obtain Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_GUARDIANOFRUINS_1": {
+        "text": "Djer\n(Guardian of the Ruins)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_GUARDIANOFRUINS_2": {
+        "text": "Narmer\n(Guardian of the Ruins)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_GUARDIANOFRUINS_3": {
+        "text": "Khasekhemwy\n(Guardian of the Ruins)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_GUARDIANOFRUINS_4": {
+        "text": "Camilla Banoub\n(Guardian of the Ruins)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_RANDOMBOX_1": {
+        "text": "Acquirable from Unfamiliar Stones!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_RANDOMBOX_2": {
+        "text": "Acquirable from Canopic Jars!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_RANDOMBOX_3": {
+        "text": "Acquirable from Illusion Boxes!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_RANDOMBOX_4": {
+        "text": "Acquirable from Luxury Illusion Boxes!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_RANDOMBOX_5": {
+        "text": "Acquirable from Treasure of Trista!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_1_1": {
+        "text": "Windstrider\n(Goblin Battlegrounds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_1_2": {
+        "text": "Catapult No.6\n(Goblin Battlegrounds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_1_3": {
+        "text": "Crouching Ox\n(Goblin Battlegrounds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_1_4": {
+        "text": "Desperate Goblin Chief\n(Goblin Battlegrounds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_2_1": {
+        "text": "Dom Perignon\n(City of Turmoil)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_2_2": {
+        "text": "Bouillabaisse\n(City of Turmoil)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_2_3": {
+        "text": "Matahari\n(City of Turmoil)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_2_4": {
+        "text": "Freed Hybrid Shadowdemon\n(City of Turmoil)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_2_H": {
+        "text": "Ancient Regime\n(City of Turmoil)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_3_1": {
+        "text": "Georgia\n(A Plague in the Depths)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_3_2": {
+        "text": "Georg & Geralt\n(A Plague in the Depths)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_3_3": {
+        "text": "Blind Swordsman Ratoichi\n(A Plague in the Depths)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_3_4": {
+        "text": "Tyrant Rudrat\n(A Plague in the Depths)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_3_H": {
+        "text": "Blind and Foolish Mother\n(A Plague in the Depths)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_4_1": {
+        "text": "Revived Dom Perignon\n(The Hidden Palace)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_4_2": {
+        "text": "Enhanced Bouillabaisse\n(The Hidden Palace)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_4_3": {
+        "text": "The Abandoned Lion\n(The Hidden Palace)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_S2_EP1_CHALLENGE_4_4": {
+        "text": "Innocent Avenir\n(The Hidden Palace)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_RESET_INHERIT_HELP": {
+        "text": "You will be compensated according to the number of reset levels.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_RESET_INHERIT_POPUP": {
+        "text": "Reset Inheritance Level",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_RESET_INHERIT_POPUP_DESC": {
+        "text": "Will you reset this Hero's Inheritance Level? You will receive compensation according to the number of levels reset through this action.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_COLLECTION_CARVESTONE_TEXT": {
+        "text": "View Sigil Information",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_OPTIONCHOICE_PACK_CONTENT": {
+        "text": "Weapon Option Selection Package",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_OPTIONCHOICE_PACK_COVER": {
+        "text": "A Must-Buy! (1 per Account)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_OPTIONCHOICE_PACK_ITEM1_DESC": {
+        "text": "x 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_OPTIONCHOICE_PACK_ITEM2_DESC": {
+        "text": "x 3",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_OPTIONCHOICE_PACK_ITEM3_DESC": {
+        "text": "x 3",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_OPTIONCHOICE_PACK_ITEM4_DESC": {
+        "text": "x 95",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_ALL_REJECT": {
+        "text": "Weekly Reset Quest List",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_INCREASE_ALL_REJECT": {
+        "text": "Increase Weekly Quest List Reset Count by {0}",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_JEWEL_CLEAR": {
+        "text": "You have reached the daily limit for clearing quests.\nUse Jewels to clear additional quests?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_JEWEL_CLEAR_TITLE": {
+        "text": "Clear Additional Quests",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_WEEKLY_LIST_RESET": {
+        "text": "Reset Quest List",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_WEEKLY_LIST_RESET_DESC": {
+        "text": "Reset the Quest List?\nQuests that have already been accepted or with cleared objectives will be excluded.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_WEEKLY_LIST_RESET_DESC_COUNT": {
+        "text": "Weekly Quest Reset Count {0}/{1}",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_WEEKLY_LIST_UNLOCK": {
+        "text": "You can reset your Quest List after reaching Rank 10.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QR_WEEKLY_LIST_USED": {
+        "text": "You have reached the weekly limit for resetting your Quest List.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RAID_SOLO_PLAY": {
+        "text": "Play Solo",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANKQUEST_REWARD": {
+        "text": "Rank Quest",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARITY_UNIQUE_LONG": {
+        "text": "Unique",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REFRESH_COOLTIME_NOTI": {
+        "text": "Please try again in a moment.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_ALL": {
+        "text": "Book of Oblivion",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_ALL_DESC": {
+        "text": "Can be used to reset a hero's Inheritance Level.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_ARCHER": {
+        "text": "Book of Oblivion: Archer",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_ARCHER_DESC": {
+        "text": "Can be used to reset an Archer's Inheritance Level.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_HUNTER": {
+        "text": "Book of Oblivion: Hunter",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_HUNTER_DESC": {
+        "text": "Can be used to reset a Hunter's Inheritance Level.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_PALADIN": {
+        "text": "Book of Oblivion: Paladin",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_PALADIN_DESC": {
+        "text": "Can be used to reset a Paladin's Inheritance Level.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_PRIEST": {
+        "text": "Book of Oblivion: Priest",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_PRIEST_DESC": {
+        "text": "Can be used to reset a Priest's Inheritance Level.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_WARRIOR": {
+        "text": "Book of Oblivion: Warrior",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_WARRIOR_DESC": {
+        "text": "Can be used to reset a Warrior's Inheritance Level.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_WIZARD": {
+        "text": "Book of Oblivion: Wizard",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RESET_WIZARD_DESC": {
+        "text": "Can be used to reset a Wizard's Inheritance Level.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RETURN_OPTIONCHOICE_PACK_CONTENT": {
+        "text": "Here's your Weapon Option Selection Package!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GG3_BAIKEN_DESC": {
+        "text": "Baiken deals #physical damage# equal to [150/210/300]% of her attack power according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GG3_BAIKEN_LV2_SUBDESC": {
+        "text": "Upon using another ally's chain, Baiken enters 'Azami' for 4 seconds. During this state, Baiken receives 50% less damage, and her armor and resistance are each increased by 80%.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GG3_BAIKEN_LV3_SUBDESC": {
+        "text": "Upon using another ally's chain, Baiken enters 'Azami' for 4 seconds. During this state, Baiken receives 50% less damage, and her armor and resistance are increased by 80%.\nIf her own or another ally's block is used after Baiken activates 'Suzuran' or 'Azami,' she immediately uses [Sakura/Rokkonsogi/Yashagatana] to deal #physical damage# equal to [300/400/650]% of her attack power, according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GG3_BAIKEN_NAME": {
+        "text": "Suzuran",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GG3_BAIKEN_SUBNAME": {
+        "text": "Azami",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GG3_DIZZY_DESC": {
+        "text": "Dizzy deals @magical damage@ equal to [120/240/400]% of her attack power according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GG3_DIZZY_LV2_SUBDESC": {
+        "text": "The second block Dizzy uses is changed to 'For roasting chestnuts...' which deals @magical damage@ equal to 700% of her attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GG3_DIZZY_LV3_SUBDESC": {
+        "text": "The second block Dizzy uses is changed to 'For roasting chestnuts...' which deals @magical damage@ equal to 700% of her attack power. \nUpon using an ally's 3-chain, Dizzy uses 'Imperial Ray' to deal @magical damage@ equal to 100% of her attack power per hit.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GG3_DIZZY_NAME": {
+        "text": "I Used This to Pick Fruit",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GG3_DIZZY_SUBNAME": {
+        "text": "Imperial Ray",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_TIME_REMAIN": {
+        "text": "{0} days left",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_HELP_TITLE_6": {
+        "text": "Consecutive Victory Reward Info",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_HELP_TITLE_7": {
+        "text": "Signpost Info",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_ARITA_TALK_01": {
+        "text": "Sigh... I'm still not sure why I'm dealing with this mess...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_ARITA_TALK_02": {
+        "text": "Markers can be bought from the Marker Shop, or earned through playing Adventures, Dungeons, and Raids.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_ARITA_TALK_03": {
+        "text": "Obtained markers can then be used by pressing the 'Play' button.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_ARITA_TALK_04": {
+        "text": "I'll help you out if you find the game difficult.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_REPLAY_NAME": {
+        "text": "Scoreboard",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_SHASHA_TALK_01": {
+        "text": "Losing isn't an option, {PLAYER_NAME}!\nLet's go and conquer some pumpkin fields!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_SHASHA_TALK_02": {
+        "text": "The person who spends the most markers\nwill become - that's right, my team captain!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_SHASHA_TALK_RANK": {
+        "text": "Good! {0}'s the best of the lot this round!\nLet's go and win EVERYTHING!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_VESPER_TALK_01": {
+        "text": "Oh {PLAYER_NAME}... Go and bring me some pumpkins for my room...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_VESPER_TALK_02": {
+        "text": "I will make the captain who uses the most markers my team leader...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_VESPER_TALK_RANK": {
+        "text": "So {0} has brought back the most pumpkins...\nThank you...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_WOLFRAM_TALK_01": {
+        "text": "Losing to idiots is unacceptable, {PLAYER_NAME}! \nAll's fair in love and war, and war this is indeed: War of the Witches!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_WOLFRAM_TALK_02": {
+        "text": "The one who uses the most markers\nshall become the representative of my team.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_LOBBY_WOLFRAM_TALK_RANK": {
+        "text": "Let's see... {0} has contributed the most this round!\nHee hee, well done.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_NOTICE_GROUPLEADER_DESC_1": {
+        "text": "Team Leader",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_NOTICE_GROUPLEADER_DESC_2": {
+        "text": "The Captain who uses the most markers in one round will become the Team Leader of the next round.\n\nThe Team Leader can add 'Signposts' to the Conquest Game Map.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_NOTICE_GROUPLEADER_TITLE": {
+        "text": "Team Leader Notice",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_NOTICE_LEADER_DESC_1": {
+        "text": "Stakes Added Last Turn",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_PING_ALLUSE_NOTI": {
+        "text": "You have used all Signposts.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_PING_USE_CHET_NOTI": {
+        "text": "Team Leader {0} has added a Signpost to {1}.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_PING_USE_DESC": {
+        "text": "Add Signpost to this tile?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_PING_USE_FAIL": {
+        "text": "You cannot move your Signpost after adding it to a tile.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_PING_USE_INGAME_NOTI": {
+        "text": "Choose a tile to add your Signpost.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_PING_USE_TITLE": {
+        "text": "Add Signpost",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_REPLAY_FIRST_TURN_NOTI": {
+        "text": "The Replay menu can be accessed after the first round.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_REPLAY_LAST_TURN": {
+        "text": "Last Record",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_REPLAY_TITLE": {
+        "text": "Match Replay",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_REPLAY_TURN": {
+        "text": "Round {0} Record",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_STACK_DESC": {
+        "text": "Consecutive Victory Count: {0}",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_STACK_MAIL_CONTENT": {
+        "text": "Your rewards for consecutively occupying Treasure Pumpkin Patches!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_STACK_TITLE": {
+        "text": "Consecutive Victory Reward",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WARGAME_TEAM_RANKING": {
+        "text": "Team Rank",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_GG3_DIZZY_NAME": {
+        "text": "Necro & Undine",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GG3_BAIKEN_NAME": {
+        "text": "Namakura",
+        "version": "4.9.0",
         "original": true
     }
 }

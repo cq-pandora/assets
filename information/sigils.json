@@ -78,7 +78,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_PHYSIC_1_DESC",
+            "pair": "COMMON_BOUILLABAISSE_STONE_1"
+        }
     },
     {
         "ingame_id": "COMMON_BOUILLABAISSE_STONE_2",
@@ -105,7 +109,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_MAGIC_1_DESC",
+            "pair": "COMMON_BOUILLABAISSE_STONE_2"
+        }
     },
     {
         "ingame_id": "COMMON_CRIT_DODGE_RATE_STONE_1",
@@ -294,7 +302,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_DEFENCE_1_DESC",
+            "pair": "COMMON_GOBLINCHIEF_STONE_1"
+        }
     },
     {
         "ingame_id": "COMMON_GOBLINCHIEF_STONE_2",
@@ -321,7 +333,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_DEFENCE_2_DESC",
+            "pair": "COMMON_GOBLINCHIEF_STONE_2"
+        }
     },
     {
         "ingame_id": "COMMON_GOBLINCHIEF_STONE_3",
@@ -429,7 +445,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_HEAL_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_HEAL_2_DESC",
+            "pair": "COMMON_GOBLINMASTER_STONE_3"
+        }
     },
     {
         "ingame_id": "COMMON_KINGTIGER_STONE_1",
@@ -510,7 +530,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_HEAL_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_HEAL_1_DESC",
+            "pair": "COMMON_KINGTIGER_STONE_3"
+        }
     },
     {
         "ingame_id": "COMMON_MATAHARI_STONE_1",
@@ -1001,7 +1025,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_MAGIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_MAGIC_2_DESC",
+            "pair": "COMMON_WINDWALKER_STONE_2"
+        }
     },
     {
         "ingame_id": "COMMON_WINDWALKER_STONE_3",
@@ -1028,7 +1056,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP1_PHYSIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP1_PHYSIC_2_DESC",
+            "pair": "COMMON_WINDWALKER_STONE_3"
+        }
     },
     {
         "ingame_id": "EPIC_3G_STONE_1",
@@ -1055,7 +1087,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_MAGIC_1_DESC",
+            "pair": "EPIC_3G_STONE_1"
+        }
     },
     {
         "ingame_id": "EPIC_ACCURACY_RATE_STONE_1",
@@ -1136,7 +1172,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_DEFENCE_2_DESC",
+            "pair": "EPIC_ANCIENREGIME_STONE_2"
+        }
     },
     {
         "ingame_id": "EPIC_ANCIENREGIME_STONE_3",
@@ -1163,7 +1203,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_DEFENCE_1_DESC",
+            "pair": "EPIC_ANCIENREGIME_STONE_3"
+        }
     },
     {
         "ingame_id": "EPIC_ATK_POWER_STONE_1",
@@ -1217,7 +1261,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0.03
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_HEAL_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_HEAL_2_DESC",
+            "pair": "EPIC_AVENIR_STONE_1"
+        }
     },
     {
         "ingame_id": "EPIC_AVENIR_STONE_2",
@@ -1244,7 +1292,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_HEAL_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_HEAL_1_DESC",
+            "pair": "EPIC_AVENIR_STONE_2"
+        }
     },
     {
         "ingame_id": "EPIC_AVENIR_STONE_3",
@@ -1325,7 +1377,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_PHYSIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_PHYSIC_2_DESC",
+            "pair": "EPIC_AZATHOTH_STONE_2"
+        }
     },
     {
         "ingame_id": "EPIC_AZATHOTH_STONE_3",
@@ -1352,7 +1408,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_MAGIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_MAGIC_2_DESC",
+            "pair": "EPIC_AZATHOTH_STONE_3"
+        }
     },
     {
         "ingame_id": "EPIC_CRIT_DODGE_RATE_STONE_1",
@@ -1676,7 +1736,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP1_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP1_PHYSIC_1_DESC",
+            "pair": "EPIC_REBOUILLABAISSE_STONE_3"
+        }
     },
     {
         "ingame_id": "EPIC_RECEIVE_DMG_RATE_STONE_1",
@@ -2275,7 +2339,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_HEAL_1_NAME",
+            "effect": "TEXT_RARE_SET_EP1_HEAL_1_DESC",
+            "pair": "RARE_3G_STONE_2"
+        }
     },
     {
         "ingame_id": "RARE_ACCURACY_RATE_STONE_1",
@@ -2356,7 +2424,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_PHYSIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP1_PHYSIC_2_DESC",
+            "pair": "RARE_BOUILLABAISSE_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_CRIT_DODGE_RATE_STONE_1",
@@ -2491,7 +2563,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP1_DEFENCE_2_DESC",
+            "pair": "RARE_DOMPERIGNON_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_GG_STONE_1",
@@ -2518,7 +2594,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP1_MAGIC_1_DESC",
+            "pair": "RARE_GG_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_GG_STONE_2",
@@ -2572,7 +2652,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0.02
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_MAGIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP1_MAGIC_2_DESC",
+            "pair": "RARE_LEESIN_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_LEESIN_STONE_2",
@@ -2626,7 +2710,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP1_DEFENCE_1_DESC",
+            "pair": "RARE_MATAHARI_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_MAX_HP_STONE_1",
@@ -3036,7 +3124,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP1_PHYSIC_1_DESC",
+            "pair": "RARE_SHADOWDEVILFINAL_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_SHADOWDEVILFINAL_STONE_2",
@@ -3090,6 +3182,10 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP1_HEAL_2_NAME",
+            "effect": "TEXT_RARE_SET_EP1_HEAL_2_DESC",
+            "pair": "RARE_SHADOWDEVILFINAL_STONE_3"
+        }
     }
 ]
