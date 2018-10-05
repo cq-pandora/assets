@@ -1,0 +1,5150 @@
+{
+    "STAGE_BATTLE_FIELD_1": {
+        "id": "STAGE_BATTLE_FIELD_1",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 1,
+        "name": "TEXT_STAGE_BATTLE_FIELD_1_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_10": {
+        "id": "STAGE_BATTLE_FIELD_10",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 10,
+        "name": "TEXT_STAGE_BATTLE_FIELD_10_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_11": {
+        "id": "STAGE_BATTLE_FIELD_11",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 11,
+        "name": "TEXT_STAGE_BATTLE_FIELD_11_NAME",
+        "entry_cost": 17,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_12": {
+        "id": "STAGE_BATTLE_FIELD_12",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 12,
+        "name": "TEXT_STAGE_BATTLE_FIELD_12_NAME",
+        "entry_cost": 17,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_13": {
+        "id": "STAGE_BATTLE_FIELD_13",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 13,
+        "name": "TEXT_STAGE_BATTLE_FIELD_13_NAME",
+        "entry_cost": 17,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_14": {
+        "id": "STAGE_BATTLE_FIELD_14",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 14,
+        "name": "TEXT_STAGE_BATTLE_FIELD_14_NAME",
+        "entry_cost": 17,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_15": {
+        "id": "STAGE_BATTLE_FIELD_15",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 15,
+        "name": "TEXT_STAGE_BATTLE_FIELD_15_NAME",
+        "entry_cost": 17,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_16": {
+        "id": "STAGE_BATTLE_FIELD_16",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 16,
+        "name": "TEXT_STAGE_BATTLE_FIELD_16_NAME",
+        "entry_cost": 17,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_17": {
+        "id": "STAGE_BATTLE_FIELD_17",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 17,
+        "name": "TEXT_STAGE_BATTLE_FIELD_17_NAME",
+        "entry_cost": 17,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_18": {
+        "id": "STAGE_BATTLE_FIELD_18",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 18,
+        "name": "TEXT_STAGE_BATTLE_FIELD_18_NAME",
+        "entry_cost": 18,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_19": {
+        "id": "STAGE_BATTLE_FIELD_19",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 19,
+        "name": "TEXT_STAGE_BATTLE_FIELD_19_NAME",
+        "entry_cost": 18,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_2": {
+        "id": "STAGE_BATTLE_FIELD_2",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 2,
+        "name": "TEXT_STAGE_BATTLE_FIELD_2_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_20": {
+        "id": "STAGE_BATTLE_FIELD_20",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 20,
+        "name": "TEXT_STAGE_BATTLE_FIELD_20_NAME",
+        "entry_cost": 18,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_21": {
+        "id": "STAGE_BATTLE_FIELD_21",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 21,
+        "name": "TEXT_STAGE_BATTLE_FIELD_21_NAME",
+        "entry_cost": 18,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_22": {
+        "id": "STAGE_BATTLE_FIELD_22",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 22,
+        "name": "TEXT_STAGE_BATTLE_FIELD_22_NAME",
+        "entry_cost": 18,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_23": {
+        "id": "STAGE_BATTLE_FIELD_23",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 23,
+        "name": "TEXT_STAGE_BATTLE_FIELD_23_NAME",
+        "entry_cost": 18,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_24": {
+        "id": "STAGE_BATTLE_FIELD_24",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 24,
+        "name": "TEXT_STAGE_BATTLE_FIELD_24_NAME",
+        "entry_cost": 19,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_25": {
+        "id": "STAGE_BATTLE_FIELD_25",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 25,
+        "name": "TEXT_STAGE_BATTLE_FIELD_25_NAME",
+        "entry_cost": 19,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_26": {
+        "id": "STAGE_BATTLE_FIELD_26",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 26,
+        "name": "TEXT_STAGE_BATTLE_FIELD_26_NAME",
+        "entry_cost": 19,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_27": {
+        "id": "STAGE_BATTLE_FIELD_27",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 27,
+        "name": "TEXT_STAGE_BATTLE_FIELD_27_NAME",
+        "entry_cost": 19,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_28": {
+        "id": "STAGE_BATTLE_FIELD_28",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 28,
+        "name": "TEXT_STAGE_BATTLE_FIELD_28_NAME",
+        "entry_cost": 19,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_29": {
+        "id": "STAGE_BATTLE_FIELD_29",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 29,
+        "name": "TEXT_STAGE_BATTLE_FIELD_29_NAME",
+        "entry_cost": 19,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_3": {
+        "id": "STAGE_BATTLE_FIELD_3",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 3,
+        "name": "TEXT_STAGE_BATTLE_FIELD_3_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_30": {
+        "id": "STAGE_BATTLE_FIELD_30",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 30,
+        "name": "TEXT_STAGE_BATTLE_FIELD_30_NAME",
+        "entry_cost": 20,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_4": {
+        "id": "STAGE_BATTLE_FIELD_4",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 4,
+        "name": "TEXT_STAGE_BATTLE_FIELD_4_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_5": {
+        "id": "STAGE_BATTLE_FIELD_5",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 5,
+        "name": "TEXT_STAGE_BATTLE_FIELD_5_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_6": {
+        "id": "STAGE_BATTLE_FIELD_6",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 6,
+        "name": "TEXT_STAGE_BATTLE_FIELD_6_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_7": {
+        "id": "STAGE_BATTLE_FIELD_7",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 7,
+        "name": "TEXT_STAGE_BATTLE_FIELD_7_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_8": {
+        "id": "STAGE_BATTLE_FIELD_8",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 8,
+        "name": "TEXT_STAGE_BATTLE_FIELD_8_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_9": {
+        "id": "STAGE_BATTLE_FIELD_9",
+        "chapter": "CHAPTER_BATTLE_FIELD",
+        "number": 9,
+        "name": "TEXT_STAGE_BATTLE_FIELD_9_NAME",
+        "entry_cost": 16,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_1": {
+        "id": "STAGE_BATTLE_FIELD_HARD_1",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 1,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_1_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_10": {
+        "id": "STAGE_BATTLE_FIELD_HARD_10",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 10,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_10_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_11": {
+        "id": "STAGE_BATTLE_FIELD_HARD_11",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 11,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_11_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_12": {
+        "id": "STAGE_BATTLE_FIELD_HARD_12",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 12,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_12_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_13": {
+        "id": "STAGE_BATTLE_FIELD_HARD_13",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 13,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_13_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_14": {
+        "id": "STAGE_BATTLE_FIELD_HARD_14",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 14,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_14_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_15": {
+        "id": "STAGE_BATTLE_FIELD_HARD_15",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 15,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_15_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_16": {
+        "id": "STAGE_BATTLE_FIELD_HARD_16",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 16,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_16_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_17": {
+        "id": "STAGE_BATTLE_FIELD_HARD_17",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 17,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_17_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_18": {
+        "id": "STAGE_BATTLE_FIELD_HARD_18",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 18,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_18_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_19": {
+        "id": "STAGE_BATTLE_FIELD_HARD_19",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 19,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_19_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_2": {
+        "id": "STAGE_BATTLE_FIELD_HARD_2",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 2,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_2_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_20": {
+        "id": "STAGE_BATTLE_FIELD_HARD_20",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 20,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_20_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_21": {
+        "id": "STAGE_BATTLE_FIELD_HARD_21",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 21,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_21_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_22": {
+        "id": "STAGE_BATTLE_FIELD_HARD_22",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 22,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_22_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_23": {
+        "id": "STAGE_BATTLE_FIELD_HARD_23",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 23,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_23_NAME",
+        "entry_cost": 22,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_24": {
+        "id": "STAGE_BATTLE_FIELD_HARD_24",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 24,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_24_NAME",
+        "entry_cost": 23,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_25": {
+        "id": "STAGE_BATTLE_FIELD_HARD_25",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 25,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_25_NAME",
+        "entry_cost": 23,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_26": {
+        "id": "STAGE_BATTLE_FIELD_HARD_26",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 26,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_26_NAME",
+        "entry_cost": 23,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_27": {
+        "id": "STAGE_BATTLE_FIELD_HARD_27",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 27,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_27_NAME",
+        "entry_cost": 23,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_28": {
+        "id": "STAGE_BATTLE_FIELD_HARD_28",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 28,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_28_NAME",
+        "entry_cost": 23,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_29": {
+        "id": "STAGE_BATTLE_FIELD_HARD_29",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 29,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_29_NAME",
+        "entry_cost": 23,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_3": {
+        "id": "STAGE_BATTLE_FIELD_HARD_3",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 3,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_3_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_30": {
+        "id": "STAGE_BATTLE_FIELD_HARD_30",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 30,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_30_NAME",
+        "entry_cost": 24,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_4": {
+        "id": "STAGE_BATTLE_FIELD_HARD_4",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 4,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_4_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_5": {
+        "id": "STAGE_BATTLE_FIELD_HARD_5",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 5,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_5_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_6": {
+        "id": "STAGE_BATTLE_FIELD_HARD_6",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 6,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_6_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_7": {
+        "id": "STAGE_BATTLE_FIELD_HARD_7",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 7,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_7_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_8": {
+        "id": "STAGE_BATTLE_FIELD_HARD_8",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 8,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_8_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_BATTLE_FIELD_HARD_9": {
+        "id": "STAGE_BATTLE_FIELD_HARD_9",
+        "chapter": "CHAPTER_BATTLE_FIELD_HARD",
+        "number": 9,
+        "name": "TEXT_STAGE_BATTLE_FIELD_HARD_9_NAME",
+        "entry_cost": 21,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep6_big"
+    },
+    "STAGE_DESERT_1": {
+        "id": "STAGE_DESERT_1",
+        "chapter": "CHAPTER_DESERT",
+        "number": 1,
+        "name": "TEXT_STAGE_DESERT_1_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_10": {
+        "id": "STAGE_DESERT_10",
+        "chapter": "CHAPTER_DESERT",
+        "number": 10,
+        "name": "TEXT_STAGE_DESERT_10_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_11": {
+        "id": "STAGE_DESERT_11",
+        "chapter": "CHAPTER_DESERT",
+        "number": 11,
+        "name": "TEXT_STAGE_DESERT_11_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_12": {
+        "id": "STAGE_DESERT_12",
+        "chapter": "CHAPTER_DESERT",
+        "number": 12,
+        "name": "TEXT_STAGE_DESERT_12_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_13": {
+        "id": "STAGE_DESERT_13",
+        "chapter": "CHAPTER_DESERT",
+        "number": 13,
+        "name": "TEXT_STAGE_DESERT_13_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_14": {
+        "id": "STAGE_DESERT_14",
+        "chapter": "CHAPTER_DESERT",
+        "number": 14,
+        "name": "TEXT_STAGE_DESERT_14_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_15": {
+        "id": "STAGE_DESERT_15",
+        "chapter": "CHAPTER_DESERT",
+        "number": 15,
+        "name": "TEXT_STAGE_DESERT_15_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_16": {
+        "id": "STAGE_DESERT_16",
+        "chapter": "CHAPTER_DESERT",
+        "number": 16,
+        "name": "TEXT_STAGE_DESERT_16_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_17": {
+        "id": "STAGE_DESERT_17",
+        "chapter": "CHAPTER_DESERT",
+        "number": 17,
+        "name": "TEXT_STAGE_DESERT_17_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_18": {
+        "id": "STAGE_DESERT_18",
+        "chapter": "CHAPTER_DESERT",
+        "number": 18,
+        "name": "TEXT_STAGE_DESERT_18_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_19": {
+        "id": "STAGE_DESERT_19",
+        "chapter": "CHAPTER_DESERT",
+        "number": 19,
+        "name": "TEXT_STAGE_DESERT_19_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_2": {
+        "id": "STAGE_DESERT_2",
+        "chapter": "CHAPTER_DESERT",
+        "number": 2,
+        "name": "TEXT_STAGE_DESERT_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_20": {
+        "id": "STAGE_DESERT_20",
+        "chapter": "CHAPTER_DESERT",
+        "number": 20,
+        "name": "TEXT_STAGE_DESERT_20_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_21": {
+        "id": "STAGE_DESERT_21",
+        "chapter": "CHAPTER_DESERT",
+        "number": 21,
+        "name": "TEXT_STAGE_DESERT_21_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_22": {
+        "id": "STAGE_DESERT_22",
+        "chapter": "CHAPTER_DESERT",
+        "number": 22,
+        "name": "TEXT_STAGE_DESERT_22_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_23": {
+        "id": "STAGE_DESERT_23",
+        "chapter": "CHAPTER_DESERT",
+        "number": 23,
+        "name": "TEXT_STAGE_DESERT_23_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_24": {
+        "id": "STAGE_DESERT_24",
+        "chapter": "CHAPTER_DESERT",
+        "number": 24,
+        "name": "TEXT_STAGE_DESERT_24_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_3": {
+        "id": "STAGE_DESERT_3",
+        "chapter": "CHAPTER_DESERT",
+        "number": 3,
+        "name": "TEXT_STAGE_DESERT_3_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_4": {
+        "id": "STAGE_DESERT_4",
+        "chapter": "CHAPTER_DESERT",
+        "number": 4,
+        "name": "TEXT_STAGE_DESERT_4_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_5": {
+        "id": "STAGE_DESERT_5",
+        "chapter": "CHAPTER_DESERT",
+        "number": 5,
+        "name": "TEXT_STAGE_DESERT_5_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_6": {
+        "id": "STAGE_DESERT_6",
+        "chapter": "CHAPTER_DESERT",
+        "number": 6,
+        "name": "TEXT_STAGE_DESERT_6_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_7": {
+        "id": "STAGE_DESERT_7",
+        "chapter": "CHAPTER_DESERT",
+        "number": 7,
+        "name": "TEXT_STAGE_DESERT_7_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_8": {
+        "id": "STAGE_DESERT_8",
+        "chapter": "CHAPTER_DESERT",
+        "number": 8,
+        "name": "TEXT_STAGE_DESERT_8_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DESERT_9": {
+        "id": "STAGE_DESERT_9",
+        "chapter": "CHAPTER_DESERT",
+        "number": 9,
+        "name": "TEXT_STAGE_DESERT_9_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_DG_ACCEL_SPEED_1": {
+        "id": "STAGE_DG_ACCEL_SPEED_1",
+        "chapter": "DUNGEON_ACCEL_SPEED",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_ACCEL_SPEED_1_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_accel"
+    },
+    "STAGE_DG_ACCEL_SPEED_2": {
+        "id": "STAGE_DG_ACCEL_SPEED_2",
+        "chapter": "DUNGEON_ACCEL_SPEED",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_ACCEL_SPEED_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_accel"
+    },
+    "STAGE_DG_ACCEL_SPEED_3": {
+        "id": "STAGE_DG_ACCEL_SPEED_3",
+        "chapter": "DUNGEON_ACCEL_SPEED",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_ACCEL_SPEED_3_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_accel"
+    },
+    "STAGE_DG_ACCEL_SPEED_4": {
+        "id": "STAGE_DG_ACCEL_SPEED_4",
+        "chapter": "DUNGEON_ACCEL_SPEED",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_ACCEL_SPEED_4_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_accel"
+    },
+    "STAGE_DG_BREAD_1": {
+        "id": "STAGE_DG_BREAD_1",
+        "chapter": "DUNGEON_BREAD",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_BREAD_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_10": {
+        "id": "STAGE_DG_BREAD_10",
+        "chapter": "DUNGEON_BREAD",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_BREAD_10_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_2": {
+        "id": "STAGE_DG_BREAD_2",
+        "chapter": "DUNGEON_BREAD",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_BREAD_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_3": {
+        "id": "STAGE_DG_BREAD_3",
+        "chapter": "DUNGEON_BREAD",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_BREAD_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_4": {
+        "id": "STAGE_DG_BREAD_4",
+        "chapter": "DUNGEON_BREAD",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_BREAD_4_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_5": {
+        "id": "STAGE_DG_BREAD_5",
+        "chapter": "DUNGEON_BREAD",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_BREAD_5_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_6": {
+        "id": "STAGE_DG_BREAD_6",
+        "chapter": "DUNGEON_BREAD",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_BREAD_6_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_7": {
+        "id": "STAGE_DG_BREAD_7",
+        "chapter": "DUNGEON_BREAD",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_BREAD_7_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_8": {
+        "id": "STAGE_DG_BREAD_8",
+        "chapter": "DUNGEON_BREAD",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_BREAD_8_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_9": {
+        "id": "STAGE_DG_BREAD_9",
+        "chapter": "DUNGEON_BREAD",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_BREAD_9_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread"
+    },
+    "STAGE_DG_BREAD_EASTERN_1": {
+        "id": "STAGE_DG_BREAD_EASTERN_1",
+        "chapter": "DUNGEON_BREAD_EASTERN",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_BREAD_EASTERN_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread_eastern"
+    },
+    "STAGE_DG_BREAD_EASTERN_2": {
+        "id": "STAGE_DG_BREAD_EASTERN_2",
+        "chapter": "DUNGEON_BREAD_EASTERN",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_BREAD_EASTERN_2_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread_eastern"
+    },
+    "STAGE_DG_BREAD_EASTERN_3": {
+        "id": "STAGE_DG_BREAD_EASTERN_3",
+        "chapter": "DUNGEON_BREAD_EASTERN",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_BREAD_EASTERN_3_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread_eastern"
+    },
+    "STAGE_DG_BREAD_EASTERN_4": {
+        "id": "STAGE_DG_BREAD_EASTERN_4",
+        "chapter": "DUNGEON_BREAD_EASTERN",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_BREAD_EASTERN_4_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread_eastern"
+    },
+    "STAGE_DG_BREAD_EASTERN_5": {
+        "id": "STAGE_DG_BREAD_EASTERN_5",
+        "chapter": "DUNGEON_BREAD_EASTERN",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_BREAD_EASTERN_5_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread_eastern"
+    },
+    "STAGE_DG_BREAD_EASTERN_6": {
+        "id": "STAGE_DG_BREAD_EASTERN_6",
+        "chapter": "DUNGEON_BREAD_EASTERN",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_BREAD_EASTERN_6_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_bread_eastern"
+    },
+    "STAGE_DG_BUGLC_1": {
+        "id": "STAGE_DG_BUGLC_1",
+        "chapter": "DUNGEON_BUGLC",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_BUGLC_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "event_buglc_dungeon"
+    },
+    "STAGE_DG_CRI_1": {
+        "id": "STAGE_DG_CRI_1",
+        "chapter": "DUNGEON_CRITICAL",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_CRI_1",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_critical"
+    },
+    "STAGE_DG_CRI_2": {
+        "id": "STAGE_DG_CRI_2",
+        "chapter": "DUNGEON_CRITICAL",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_CRI_2",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_critical"
+    },
+    "STAGE_DG_CRI_3": {
+        "id": "STAGE_DG_CRI_3",
+        "chapter": "DUNGEON_CRITICAL",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_CRI_3",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_critical"
+    },
+    "STAGE_DG_CRI_4": {
+        "id": "STAGE_DG_CRI_4",
+        "chapter": "DUNGEON_CRITICAL",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_CRI_4",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_critical"
+    },
+    "STAGE_DG_CRI_5": {
+        "id": "STAGE_DG_CRI_5",
+        "chapter": "DUNGEON_CRITICAL",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_CRI_5",
+        "entry_cost": 7,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_critical"
+    },
+    "STAGE_DG_EVENT_AF_1": {
+        "id": "STAGE_DG_EVENT_AF_1",
+        "chapter": "DUNGEON_AF",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_GUARDIAN_DRAKO_1_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "event_af_dungeon"
+    },
+    "STAGE_DG_EVENT_AF_2": {
+        "id": "STAGE_DG_EVENT_AF_2",
+        "chapter": "DUNGEON_AF",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_GUARDIAN_DRAKO_2_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "event_af_dungeon"
+    },
+    "STAGE_DG_EVENT_AF_3": {
+        "id": "STAGE_DG_EVENT_AF_3",
+        "chapter": "DUNGEON_AF",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_GUARDIAN_DRAKO_3_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "event_af_dungeon"
+    },
+    "STAGE_DG_EVENT_AF_4": {
+        "id": "STAGE_DG_EVENT_AF_4",
+        "chapter": "DUNGEON_AF",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_GUARDIAN_DRAKO_4_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "event_af_dungeon"
+    },
+    "STAGE_DG_EVENT_WORLDCUP_1": {
+        "id": "STAGE_DG_EVENT_WORLDCUP_1",
+        "chapter": "DUNGEON_EVENT_WORLDCUP",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_EVENT_WORLDCUP_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_worldcup_dungeon1"
+    },
+    "STAGE_DG_EVENT_WORLDCUP_2": {
+        "id": "STAGE_DG_EVENT_WORLDCUP_2",
+        "chapter": "DUNGEON_EVENT_WORLDCUP",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_EVENT_WORLDCUP_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_worldcup_dungeon1"
+    },
+    "STAGE_DG_EVENT_WORLDCUP_3": {
+        "id": "STAGE_DG_EVENT_WORLDCUP_3",
+        "chapter": "DUNGEON_EVENT_WORLDCUP",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_EVENT_WORLDCUP_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_worldcup_dungeon1"
+    },
+    "STAGE_DG_EVENT_WORLDCUP_4": {
+        "id": "STAGE_DG_EVENT_WORLDCUP_4",
+        "chapter": "DUNGEON_EVENT_WORLDCUP",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_EVENT_WORLDCUP_4_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_worldcup_dungeon1"
+    },
+    "STAGE_DG_GOLD_1": {
+        "id": "STAGE_DG_GOLD_1",
+        "chapter": "DUNGEON_GOLD",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_GOLD_1_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_10": {
+        "id": "STAGE_DG_GOLD_10",
+        "chapter": "DUNGEON_GOLD",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_GOLD_10_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_2": {
+        "id": "STAGE_DG_GOLD_2",
+        "chapter": "DUNGEON_GOLD",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_GOLD_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_3": {
+        "id": "STAGE_DG_GOLD_3",
+        "chapter": "DUNGEON_GOLD",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_GOLD_3_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_4": {
+        "id": "STAGE_DG_GOLD_4",
+        "chapter": "DUNGEON_GOLD",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_GOLD_4_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_5": {
+        "id": "STAGE_DG_GOLD_5",
+        "chapter": "DUNGEON_GOLD",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_GOLD_5_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_6": {
+        "id": "STAGE_DG_GOLD_6",
+        "chapter": "DUNGEON_GOLD",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_GOLD_6_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_7": {
+        "id": "STAGE_DG_GOLD_7",
+        "chapter": "DUNGEON_GOLD",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_GOLD_7_NAME",
+        "entry_cost": 7,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_8": {
+        "id": "STAGE_DG_GOLD_8",
+        "chapter": "DUNGEON_GOLD",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_GOLD_8_NAME",
+        "entry_cost": 7,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_GOLD_9": {
+        "id": "STAGE_DG_GOLD_9",
+        "chapter": "DUNGEON_GOLD",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_GOLD_9_NAME",
+        "entry_cost": 7,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_gold"
+    },
+    "STAGE_DG_KOF_FIGHT_HARD_1": {
+        "id": "STAGE_DG_KOF_FIGHT_HARD_1",
+        "chapter": "DUNGEON_KOF_FIGHT_HARD",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_KOF_FIGHT_NORMAL_1_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_KOF_FIGHT_HARD_2": {
+        "id": "STAGE_DG_KOF_FIGHT_HARD_2",
+        "chapter": "DUNGEON_KOF_FIGHT_HARD",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_KOF_FIGHT_NORMAL_2_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_KOF_FIGHT_HARD_3": {
+        "id": "STAGE_DG_KOF_FIGHT_HARD_3",
+        "chapter": "DUNGEON_KOF_FIGHT_HARD",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_KOF_FIGHT_NORMAL_3_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_KOF_FIGHT_NORMAL_1": {
+        "id": "STAGE_DG_KOF_FIGHT_NORMAL_1",
+        "chapter": "DUNGEON_KOF_FIGHT_NORMAL",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_KOF_FIGHT_NORMAL_1_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_KOF_FIGHT_NORMAL_2": {
+        "id": "STAGE_DG_KOF_FIGHT_NORMAL_2",
+        "chapter": "DUNGEON_KOF_FIGHT_NORMAL",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_KOF_FIGHT_NORMAL_2_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_KOF_FIGHT_NORMAL_3": {
+        "id": "STAGE_DG_KOF_FIGHT_NORMAL_3",
+        "chapter": "DUNGEON_KOF_FIGHT_NORMAL",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_KOF_FIGHT_NORMAL_3_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_OLYMPICS_1": {
+        "id": "STAGE_DG_OLYMPICS_1",
+        "chapter": "DUNGEON_OLYMPICS",
+        "number": 1,
+        "name": "TEXT_DG_OLYMPICS_STAGE_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_olympic_dungeon2"
+    },
+    "STAGE_DG_OLYMPICS_2": {
+        "id": "STAGE_DG_OLYMPICS_2",
+        "chapter": "DUNGEON_OLYMPICS",
+        "number": 2,
+        "name": "TEXT_DG_OLYMPICS_STAGE_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_olympic_dungeon2"
+    },
+    "STAGE_DG_OLYMPICS_3": {
+        "id": "STAGE_DG_OLYMPICS_3",
+        "chapter": "DUNGEON_OLYMPICS",
+        "number": 3,
+        "name": "TEXT_DG_OLYMPICS_STAGE_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_olympic_dungeon2"
+    },
+    "STAGE_DG_OLYMPICS_4": {
+        "id": "STAGE_DG_OLYMPICS_4",
+        "chapter": "DUNGEON_OLYMPICS",
+        "number": 4,
+        "name": "TEXT_DG_OLYMPICS_STAGE_4_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_olympic_dungeon2"
+    },
+    "STAGE_DG_RUN_1": {
+        "id": "STAGE_DG_RUN_1",
+        "chapter": "DUNGEON_RUN",
+        "number": 1,
+        "name": "TEXT_DG_RUN_STAGE_1_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_witchrun"
+    },
+    "STAGE_DG_RUN_2": {
+        "id": "STAGE_DG_RUN_2",
+        "chapter": "DUNGEON_RUN",
+        "number": 2,
+        "name": "TEXT_DG_RUN_STAGE_2_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_witchrun"
+    },
+    "STAGE_DG_RUN_3": {
+        "id": "STAGE_DG_RUN_3",
+        "chapter": "DUNGEON_RUN",
+        "number": 3,
+        "name": "TEXT_DG_RUN_STAGE_3_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_witchrun"
+    },
+    "STAGE_DG_RUN_4": {
+        "id": "STAGE_DG_RUN_4",
+        "chapter": "DUNGEON_RUN",
+        "number": 4,
+        "name": "TEXT_DG_RUN_STAGE_4_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_witchrun"
+    },
+    "STAGE_DG_RUN_5": {
+        "id": "STAGE_DG_RUN_5",
+        "chapter": "DUNGEON_RUN",
+        "number": 5,
+        "name": "TEXT_DG_RUN_STAGE_5_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_witchrun"
+    },
+    "STAGE_DG_RWBY_RUN_1": {
+        "id": "STAGE_DG_RWBY_RUN_1",
+        "chapter": "DUNGEON_RWBY_RUN",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_RWBY_RUN_1_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_RWBY_RUN_2": {
+        "id": "STAGE_DG_RWBY_RUN_2",
+        "chapter": "DUNGEON_RWBY_RUN",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_RWBY_RUN_2_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_RWBY_RUN_3": {
+        "id": "STAGE_DG_RWBY_RUN_3",
+        "chapter": "DUNGEON_RWBY_RUN",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_RWBY_RUN_3_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_DG_TOPDEALER": {
+        "id": "STAGE_DG_TOPDEALER",
+        "chapter": "DUNGEON_TOPDEALER",
+        "number": 1,
+        "name": "TEXT_STAGE_TOPDEALER_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_DEALER",
+        "big_image": null
+    },
+    "STAGE_DG_TOPDISH": {
+        "id": "STAGE_DG_TOPDISH",
+        "chapter": "DUNGEON_TOPDISH",
+        "number": 1,
+        "name": "TEXT_STAGE_TOPDEALER_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_DEALER",
+        "big_image": null
+    },
+    "STAGE_DG_TRIAL_PAAR_1": {
+        "id": "STAGE_DG_TRIAL_PAAR_1",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_10": {
+        "id": "STAGE_DG_TRIAL_PAAR_10",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_11": {
+        "id": "STAGE_DG_TRIAL_PAAR_11",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 11,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_11_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_12": {
+        "id": "STAGE_DG_TRIAL_PAAR_12",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 12,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_12_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_13": {
+        "id": "STAGE_DG_TRIAL_PAAR_13",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 13,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_13_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_14": {
+        "id": "STAGE_DG_TRIAL_PAAR_14",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 14,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_14_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_15": {
+        "id": "STAGE_DG_TRIAL_PAAR_15",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 15,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_15_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_16": {
+        "id": "STAGE_DG_TRIAL_PAAR_16",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 16,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_16_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_17": {
+        "id": "STAGE_DG_TRIAL_PAAR_17",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 17,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_17_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_18": {
+        "id": "STAGE_DG_TRIAL_PAAR_18",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 18,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_18_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_19": {
+        "id": "STAGE_DG_TRIAL_PAAR_19",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 19,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_19_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_2": {
+        "id": "STAGE_DG_TRIAL_PAAR_2",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_20": {
+        "id": "STAGE_DG_TRIAL_PAAR_20",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 20,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_20_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_3": {
+        "id": "STAGE_DG_TRIAL_PAAR_3",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_4": {
+        "id": "STAGE_DG_TRIAL_PAAR_4",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_5": {
+        "id": "STAGE_DG_TRIAL_PAAR_5",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_6": {
+        "id": "STAGE_DG_TRIAL_PAAR_6",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_6_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_7": {
+        "id": "STAGE_DG_TRIAL_PAAR_7",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_7_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_8": {
+        "id": "STAGE_DG_TRIAL_PAAR_8",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_8_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_PAAR_9": {
+        "id": "STAGE_DG_TRIAL_PAAR_9",
+        "chapter": "DUNGEON_TRIAL_PAAR",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_TRIAL_PAAR_9_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_paar"
+    },
+    "STAGE_DG_TRIAL_SWHU_1": {
+        "id": "STAGE_DG_TRIAL_SWHU_1",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_10": {
+        "id": "STAGE_DG_TRIAL_SWHU_10",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_11": {
+        "id": "STAGE_DG_TRIAL_SWHU_11",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 11,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_11_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_12": {
+        "id": "STAGE_DG_TRIAL_SWHU_12",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 12,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_12_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_13": {
+        "id": "STAGE_DG_TRIAL_SWHU_13",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 13,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_13_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_14": {
+        "id": "STAGE_DG_TRIAL_SWHU_14",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 14,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_14_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_15": {
+        "id": "STAGE_DG_TRIAL_SWHU_15",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 15,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_15_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_16": {
+        "id": "STAGE_DG_TRIAL_SWHU_16",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 16,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_16_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_17": {
+        "id": "STAGE_DG_TRIAL_SWHU_17",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 17,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_17_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_18": {
+        "id": "STAGE_DG_TRIAL_SWHU_18",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 18,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_18_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_19": {
+        "id": "STAGE_DG_TRIAL_SWHU_19",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 19,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_19_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_2": {
+        "id": "STAGE_DG_TRIAL_SWHU_2",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_20": {
+        "id": "STAGE_DG_TRIAL_SWHU_20",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 20,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_20_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_3": {
+        "id": "STAGE_DG_TRIAL_SWHU_3",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_4": {
+        "id": "STAGE_DG_TRIAL_SWHU_4",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_5": {
+        "id": "STAGE_DG_TRIAL_SWHU_5",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_6": {
+        "id": "STAGE_DG_TRIAL_SWHU_6",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_6_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_7": {
+        "id": "STAGE_DG_TRIAL_SWHU_7",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_7_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_8": {
+        "id": "STAGE_DG_TRIAL_SWHU_8",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_8_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_SWHU_9": {
+        "id": "STAGE_DG_TRIAL_SWHU_9",
+        "chapter": "DUNGEON_TRIAL_SWHU",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_TRIAL_SWHU_9_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_swhu"
+    },
+    "STAGE_DG_TRIAL_WIPR_1": {
+        "id": "STAGE_DG_TRIAL_WIPR_1",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_10": {
+        "id": "STAGE_DG_TRIAL_WIPR_10",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_11": {
+        "id": "STAGE_DG_TRIAL_WIPR_11",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 11,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_11_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_12": {
+        "id": "STAGE_DG_TRIAL_WIPR_12",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 12,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_12_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_13": {
+        "id": "STAGE_DG_TRIAL_WIPR_13",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 13,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_13_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_14": {
+        "id": "STAGE_DG_TRIAL_WIPR_14",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 14,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_14_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_15": {
+        "id": "STAGE_DG_TRIAL_WIPR_15",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 15,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_15_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_16": {
+        "id": "STAGE_DG_TRIAL_WIPR_16",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 16,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_16_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_17": {
+        "id": "STAGE_DG_TRIAL_WIPR_17",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 17,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_17_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_18": {
+        "id": "STAGE_DG_TRIAL_WIPR_18",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 18,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_18_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_19": {
+        "id": "STAGE_DG_TRIAL_WIPR_19",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 19,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_19_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_2": {
+        "id": "STAGE_DG_TRIAL_WIPR_2",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_20": {
+        "id": "STAGE_DG_TRIAL_WIPR_20",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 20,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_20_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_3": {
+        "id": "STAGE_DG_TRIAL_WIPR_3",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_4": {
+        "id": "STAGE_DG_TRIAL_WIPR_4",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_5": {
+        "id": "STAGE_DG_TRIAL_WIPR_5",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_6": {
+        "id": "STAGE_DG_TRIAL_WIPR_6",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_6_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_7": {
+        "id": "STAGE_DG_TRIAL_WIPR_7",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_7_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_8": {
+        "id": "STAGE_DG_TRIAL_WIPR_8",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_8_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DG_TRIAL_WIPR_9": {
+        "id": "STAGE_DG_TRIAL_WIPR_9",
+        "chapter": "DUNGEON_TRIAL_WIPR",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_TRIAL_WIPR_9_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_wipr"
+    },
+    "STAGE_DUNGEON_HONOR_1": {
+        "id": "STAGE_DUNGEON_HONOR_1",
+        "chapter": "DUNGEON_HONOR",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_HONOR_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_honor"
+    },
+    "STAGE_DUNGEON_HONOR_2": {
+        "id": "STAGE_DUNGEON_HONOR_2",
+        "chapter": "DUNGEON_HONOR",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_HONOR_2_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_honor"
+    },
+    "STAGE_DUNGEON_HONOR_3": {
+        "id": "STAGE_DUNGEON_HONOR_3",
+        "chapter": "DUNGEON_HONOR",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_HONOR_3_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_honor"
+    },
+    "STAGE_DUNGEON_HONOR_4": {
+        "id": "STAGE_DUNGEON_HONOR_4",
+        "chapter": "DUNGEON_HONOR",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_HONOR_4_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_honor"
+    },
+    "STAGE_DUNGEON_HONOR_5": {
+        "id": "STAGE_DUNGEON_HONOR_5",
+        "chapter": "DUNGEON_HONOR",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_HONOR_5_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_honor"
+    },
+    "STAGE_DUNGEON_STORY_FURY_1": {
+        "id": "STAGE_DUNGEON_STORY_FURY_1",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_STORY_FURY_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_10": {
+        "id": "STAGE_DUNGEON_STORY_FURY_10",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_STORY_FURY_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_11": {
+        "id": "STAGE_DUNGEON_STORY_FURY_11",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 11,
+        "name": "TEXT_STAGE_DG_STORY_FURY_11_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_12": {
+        "id": "STAGE_DUNGEON_STORY_FURY_12",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 12,
+        "name": "TEXT_STAGE_DG_STORY_FURY_12_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_13": {
+        "id": "STAGE_DUNGEON_STORY_FURY_13",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 13,
+        "name": "TEXT_STAGE_DG_STORY_FURY_13_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_14": {
+        "id": "STAGE_DUNGEON_STORY_FURY_14",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 14,
+        "name": "TEXT_STAGE_DG_STORY_FURY_14_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_15": {
+        "id": "STAGE_DUNGEON_STORY_FURY_15",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 15,
+        "name": "TEXT_STAGE_DG_STORY_FURY_15_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_16": {
+        "id": "STAGE_DUNGEON_STORY_FURY_16",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 16,
+        "name": "TEXT_STAGE_DG_STORY_FURY_16_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_17": {
+        "id": "STAGE_DUNGEON_STORY_FURY_17",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 17,
+        "name": "TEXT_STAGE_DG_STORY_FURY_17_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_18": {
+        "id": "STAGE_DUNGEON_STORY_FURY_18",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 18,
+        "name": "TEXT_STAGE_DG_STORY_FURY_18_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_19": {
+        "id": "STAGE_DUNGEON_STORY_FURY_19",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 19,
+        "name": "TEXT_STAGE_DG_STORY_FURY_19_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_2": {
+        "id": "STAGE_DUNGEON_STORY_FURY_2",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_STORY_FURY_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_20": {
+        "id": "STAGE_DUNGEON_STORY_FURY_20",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 20,
+        "name": "TEXT_STAGE_DG_STORY_FURY_20_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_3": {
+        "id": "STAGE_DUNGEON_STORY_FURY_3",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_STORY_FURY_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_4": {
+        "id": "STAGE_DUNGEON_STORY_FURY_4",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_STORY_FURY_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_5": {
+        "id": "STAGE_DUNGEON_STORY_FURY_5",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_STORY_FURY_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_6": {
+        "id": "STAGE_DUNGEON_STORY_FURY_6",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_STORY_FURY_6_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_7": {
+        "id": "STAGE_DUNGEON_STORY_FURY_7",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_STORY_FURY_7_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_8": {
+        "id": "STAGE_DUNGEON_STORY_FURY_8",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_STORY_FURY_8_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_FURY_9": {
+        "id": "STAGE_DUNGEON_STORY_FURY_9",
+        "chapter": "DUNGEON_STORY_FURY",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_STORY_FURY_9_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_fury"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_1": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_1",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_10": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_10",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_11": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_11",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 11,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_11_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_12": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_12",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 12,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_12_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_13": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_13",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 13,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_13_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_14": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_14",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 14,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_14_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_15": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_15",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 15,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_15_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_16": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_16",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 16,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_16_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_17": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_17",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 17,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_17_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_18": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_18",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 18,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_18_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_19": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_19",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 19,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_19_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_2": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_2",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_20": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_20",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 20,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_20_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_3": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_3",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_4": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_4",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_5": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_5",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_6": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_6",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_6_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_7": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_7",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_7_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_8": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_8",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_8_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_RUIN_9": {
+        "id": "STAGE_DUNGEON_STORY_RUIN_9",
+        "chapter": "DUNGEON_STORY_RUIN",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_STORY_RUIN_9_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_ruin"
+    },
+    "STAGE_DUNGEON_STORY_VOID_1": {
+        "id": "STAGE_DUNGEON_STORY_VOID_1",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_STORY_VOID_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_10": {
+        "id": "STAGE_DUNGEON_STORY_VOID_10",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 10,
+        "name": "TEXT_STAGE_DG_STORY_VOID_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_11": {
+        "id": "STAGE_DUNGEON_STORY_VOID_11",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 11,
+        "name": "TEXT_STAGE_DG_STORY_VOID_11_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_12": {
+        "id": "STAGE_DUNGEON_STORY_VOID_12",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 12,
+        "name": "TEXT_STAGE_DG_STORY_VOID_12_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_13": {
+        "id": "STAGE_DUNGEON_STORY_VOID_13",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 13,
+        "name": "TEXT_STAGE_DG_STORY_VOID_13_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_14": {
+        "id": "STAGE_DUNGEON_STORY_VOID_14",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 14,
+        "name": "TEXT_STAGE_DG_STORY_VOID_14_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_15": {
+        "id": "STAGE_DUNGEON_STORY_VOID_15",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 15,
+        "name": "TEXT_STAGE_DG_STORY_VOID_15_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_16": {
+        "id": "STAGE_DUNGEON_STORY_VOID_16",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 16,
+        "name": "TEXT_STAGE_DG_STORY_VOID_16_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_17": {
+        "id": "STAGE_DUNGEON_STORY_VOID_17",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 17,
+        "name": "TEXT_STAGE_DG_STORY_VOID_17_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_18": {
+        "id": "STAGE_DUNGEON_STORY_VOID_18",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 18,
+        "name": "TEXT_STAGE_DG_STORY_VOID_18_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_19": {
+        "id": "STAGE_DUNGEON_STORY_VOID_19",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 19,
+        "name": "TEXT_STAGE_DG_STORY_VOID_19_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_2": {
+        "id": "STAGE_DUNGEON_STORY_VOID_2",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_STORY_VOID_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_20": {
+        "id": "STAGE_DUNGEON_STORY_VOID_20",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 20,
+        "name": "TEXT_STAGE_DG_STORY_VOID_20_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_3": {
+        "id": "STAGE_DUNGEON_STORY_VOID_3",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_STORY_VOID_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_4": {
+        "id": "STAGE_DUNGEON_STORY_VOID_4",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_STORY_VOID_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_5": {
+        "id": "STAGE_DUNGEON_STORY_VOID_5",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 5,
+        "name": "TEXT_STAGE_DG_STORY_VOID_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_6": {
+        "id": "STAGE_DUNGEON_STORY_VOID_6",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 6,
+        "name": "TEXT_STAGE_DG_STORY_VOID_6_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_7": {
+        "id": "STAGE_DUNGEON_STORY_VOID_7",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 7,
+        "name": "TEXT_STAGE_DG_STORY_VOID_7_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_8": {
+        "id": "STAGE_DUNGEON_STORY_VOID_8",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 8,
+        "name": "TEXT_STAGE_DG_STORY_VOID_8_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_STORY_VOID_9": {
+        "id": "STAGE_DUNGEON_STORY_VOID_9",
+        "chapter": "DUNGEON_STORY_VOID",
+        "number": 9,
+        "name": "TEXT_STAGE_DG_STORY_VOID_9_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_void"
+    },
+    "STAGE_DUNGEON_WEAPON_ARCHER_1": {
+        "id": "STAGE_DUNGEON_WEAPON_ARCHER_1",
+        "chapter": "DUNGEON_WEAPON_ARCHER",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_WEAPON_ARCHER_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_archer"
+    },
+    "STAGE_DUNGEON_WEAPON_ARCHER_2": {
+        "id": "STAGE_DUNGEON_WEAPON_ARCHER_2",
+        "chapter": "DUNGEON_WEAPON_ARCHER",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_WEAPON_ARCHER_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_archer"
+    },
+    "STAGE_DUNGEON_WEAPON_ARCHER_3": {
+        "id": "STAGE_DUNGEON_WEAPON_ARCHER_3",
+        "chapter": "DUNGEON_WEAPON_ARCHER",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_WEAPON_ARCHER_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_archer"
+    },
+    "STAGE_DUNGEON_WEAPON_HUNTER_1": {
+        "id": "STAGE_DUNGEON_WEAPON_HUNTER_1",
+        "chapter": "DUNGEON_WEAPON_HUNTER",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_WEAPON_HUNTER_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_hunter"
+    },
+    "STAGE_DUNGEON_WEAPON_HUNTER_2": {
+        "id": "STAGE_DUNGEON_WEAPON_HUNTER_2",
+        "chapter": "DUNGEON_WEAPON_HUNTER",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_WEAPON_HUNTER_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_hunter"
+    },
+    "STAGE_DUNGEON_WEAPON_HUNTER_3": {
+        "id": "STAGE_DUNGEON_WEAPON_HUNTER_3",
+        "chapter": "DUNGEON_WEAPON_HUNTER",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_WEAPON_HUNTER_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_hunter"
+    },
+    "STAGE_DUNGEON_WEAPON_PALADIN_1": {
+        "id": "STAGE_DUNGEON_WEAPON_PALADIN_1",
+        "chapter": "DUNGEON_WEAPON_PALADIN",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_WEAPON_PALADIN_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_paladin"
+    },
+    "STAGE_DUNGEON_WEAPON_PALADIN_2": {
+        "id": "STAGE_DUNGEON_WEAPON_PALADIN_2",
+        "chapter": "DUNGEON_WEAPON_PALADIN",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_WEAPON_PALADIN_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_paladin"
+    },
+    "STAGE_DUNGEON_WEAPON_PALADIN_3": {
+        "id": "STAGE_DUNGEON_WEAPON_PALADIN_3",
+        "chapter": "DUNGEON_WEAPON_PALADIN",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_WEAPON_PALADIN_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_paladin"
+    },
+    "STAGE_DUNGEON_WEAPON_PRIEST_1": {
+        "id": "STAGE_DUNGEON_WEAPON_PRIEST_1",
+        "chapter": "DUNGEON_WEAPON_PRIEST",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_WEAPON_PRIEST_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_priest"
+    },
+    "STAGE_DUNGEON_WEAPON_PRIEST_2": {
+        "id": "STAGE_DUNGEON_WEAPON_PRIEST_2",
+        "chapter": "DUNGEON_WEAPON_PRIEST",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_WEAPON_PRIEST_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_priest"
+    },
+    "STAGE_DUNGEON_WEAPON_PRIEST_3": {
+        "id": "STAGE_DUNGEON_WEAPON_PRIEST_3",
+        "chapter": "DUNGEON_WEAPON_PRIEST",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_WEAPON_PRIEST_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_priest"
+    },
+    "STAGE_DUNGEON_WEAPON_WARRIOR_1": {
+        "id": "STAGE_DUNGEON_WEAPON_WARRIOR_1",
+        "chapter": "DUNGEON_WEAPON_WARRIOR",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_WEAPON_WARRIOR_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_warrior"
+    },
+    "STAGE_DUNGEON_WEAPON_WARRIOR_2": {
+        "id": "STAGE_DUNGEON_WEAPON_WARRIOR_2",
+        "chapter": "DUNGEON_WEAPON_WARRIOR",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_WEAPON_WARRIOR_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_warrior"
+    },
+    "STAGE_DUNGEON_WEAPON_WARRIOR_3": {
+        "id": "STAGE_DUNGEON_WEAPON_WARRIOR_3",
+        "chapter": "DUNGEON_WEAPON_WARRIOR",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_WEAPON_WARRIOR_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_warrior"
+    },
+    "STAGE_DUNGEON_WEAPON_WIZARD_1": {
+        "id": "STAGE_DUNGEON_WEAPON_WIZARD_1",
+        "chapter": "DUNGEON_WEAPON_WIZARD",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_WEAPON_WIZARD_1_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_wizard"
+    },
+    "STAGE_DUNGEON_WEAPON_WIZARD_2": {
+        "id": "STAGE_DUNGEON_WEAPON_WIZARD_2",
+        "chapter": "DUNGEON_WEAPON_WIZARD",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_WEAPON_WIZARD_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_wizard"
+    },
+    "STAGE_DUNGEON_WEAPON_WIZARD_3": {
+        "id": "STAGE_DUNGEON_WEAPON_WIZARD_3",
+        "chapter": "DUNGEON_WEAPON_WIZARD",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_WEAPON_WIZARD_3_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_weapon_wizard"
+    },
+    "STAGE_DUNGEON_XMAS_1": {
+        "id": "STAGE_DUNGEON_XMAS_1",
+        "chapter": "DUNGEON_XMAS",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_XMAS_1_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_xmas"
+    },
+    "STAGE_DUNGEON_XMAS_1_HARD": {
+        "id": "STAGE_DUNGEON_XMAS_1_HARD",
+        "chapter": "DUNGEON_HARD_XMAS",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_XMAS_1_HARD_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_xmas_hard"
+    },
+    "STAGE_DUNGEON_XMAS_2": {
+        "id": "STAGE_DUNGEON_XMAS_2",
+        "chapter": "DUNGEON_XMAS",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_XMAS_2_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_xmas"
+    },
+    "STAGE_DUNGEON_XMAS_2_HARD": {
+        "id": "STAGE_DUNGEON_XMAS_2_HARD",
+        "chapter": "DUNGEON_HARD_XMAS",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_XMAS_2_HARD_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_xmas_hard"
+    },
+    "STAGE_DUNGEON_XMAS_3": {
+        "id": "STAGE_DUNGEON_XMAS_3",
+        "chapter": "DUNGEON_XMAS",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_XMAS_3_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_xmas"
+    },
+    "STAGE_DUNGEON_XMAS_3_HARD": {
+        "id": "STAGE_DUNGEON_XMAS_3_HARD",
+        "chapter": "DUNGEON_HARD_XMAS",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_XMAS_3_HARD_NAME",
+        "entry_cost": 4,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": "ui_bg_stage_card_dg_xmas_hard"
+    },
+    "STAGE_FOREST_1": {
+        "id": "STAGE_FOREST_1",
+        "chapter": "CHAPTER_FOREST",
+        "number": 1,
+        "name": "TEXT_STAGE_FOREST_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_10": {
+        "id": "STAGE_FOREST_10",
+        "chapter": "CHAPTER_FOREST",
+        "number": 10,
+        "name": "TEXT_STAGE_FOREST_10_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_11": {
+        "id": "STAGE_FOREST_11",
+        "chapter": "CHAPTER_FOREST",
+        "number": 11,
+        "name": "TEXT_STAGE_FOREST_11_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_12": {
+        "id": "STAGE_FOREST_12",
+        "chapter": "CHAPTER_FOREST",
+        "number": 12,
+        "name": "TEXT_STAGE_FOREST_12_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_13": {
+        "id": "STAGE_FOREST_13",
+        "chapter": "CHAPTER_FOREST",
+        "number": 13,
+        "name": "TEXT_STAGE_FOREST_13_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_14": {
+        "id": "STAGE_FOREST_14",
+        "chapter": "CHAPTER_FOREST",
+        "number": 14,
+        "name": "TEXT_STAGE_FOREST_14_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_15": {
+        "id": "STAGE_FOREST_15",
+        "chapter": "CHAPTER_FOREST",
+        "number": 15,
+        "name": "TEXT_STAGE_FOREST_15_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_16": {
+        "id": "STAGE_FOREST_16",
+        "chapter": "CHAPTER_FOREST",
+        "number": 16,
+        "name": "TEXT_STAGE_FOREST_16_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_17": {
+        "id": "STAGE_FOREST_17",
+        "chapter": "CHAPTER_FOREST",
+        "number": 17,
+        "name": "TEXT_STAGE_FOREST_17_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_18": {
+        "id": "STAGE_FOREST_18",
+        "chapter": "CHAPTER_FOREST",
+        "number": 18,
+        "name": "TEXT_STAGE_FOREST_18_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_19": {
+        "id": "STAGE_FOREST_19",
+        "chapter": "CHAPTER_FOREST",
+        "number": 19,
+        "name": "TEXT_STAGE_FOREST_19_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_2": {
+        "id": "STAGE_FOREST_2",
+        "chapter": "CHAPTER_FOREST",
+        "number": 2,
+        "name": "TEXT_STAGE_FOREST_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_20": {
+        "id": "STAGE_FOREST_20",
+        "chapter": "CHAPTER_FOREST",
+        "number": 20,
+        "name": "TEXT_STAGE_FOREST_20_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_21": {
+        "id": "STAGE_FOREST_21",
+        "chapter": "CHAPTER_FOREST",
+        "number": 21,
+        "name": "TEXT_STAGE_FOREST_21_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_22": {
+        "id": "STAGE_FOREST_22",
+        "chapter": "CHAPTER_FOREST",
+        "number": 22,
+        "name": "TEXT_STAGE_FOREST_22_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_23": {
+        "id": "STAGE_FOREST_23",
+        "chapter": "CHAPTER_FOREST",
+        "number": 23,
+        "name": "TEXT_STAGE_FOREST_23_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_24": {
+        "id": "STAGE_FOREST_24",
+        "chapter": "CHAPTER_FOREST",
+        "number": 24,
+        "name": "TEXT_STAGE_FOREST_24_NAME",
+        "entry_cost": 3,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_3": {
+        "id": "STAGE_FOREST_3",
+        "chapter": "CHAPTER_FOREST",
+        "number": 3,
+        "name": "TEXT_STAGE_FOREST_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_4": {
+        "id": "STAGE_FOREST_4",
+        "chapter": "CHAPTER_FOREST",
+        "number": 4,
+        "name": "TEXT_STAGE_FOREST_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_5": {
+        "id": "STAGE_FOREST_5",
+        "chapter": "CHAPTER_FOREST",
+        "number": 5,
+        "name": "TEXT_STAGE_FOREST_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_6": {
+        "id": "STAGE_FOREST_6",
+        "chapter": "CHAPTER_FOREST",
+        "number": 6,
+        "name": "TEXT_STAGE_FOREST_6_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_7": {
+        "id": "STAGE_FOREST_7",
+        "chapter": "CHAPTER_FOREST",
+        "number": 7,
+        "name": "TEXT_STAGE_FOREST_7_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_8": {
+        "id": "STAGE_FOREST_8",
+        "chapter": "CHAPTER_FOREST",
+        "number": 8,
+        "name": "TEXT_STAGE_FOREST_8_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_FOREST_9": {
+        "id": "STAGE_FOREST_9",
+        "chapter": "CHAPTER_FOREST",
+        "number": 9,
+        "name": "TEXT_STAGE_FOREST_9_NAME",
+        "entry_cost": 2,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_KURENAI_1": {
+        "id": "STAGE_KURENAI_1",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 1,
+        "name": "TEXT_STAGE_KURENAI_1_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_10": {
+        "id": "STAGE_KURENAI_10",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 14,
+        "name": "TEXT_STAGE_KURENAI_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_11": {
+        "id": "STAGE_KURENAI_11",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 15,
+        "name": "TEXT_STAGE_KURENAI_10_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_2": {
+        "id": "STAGE_KURENAI_2",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 2,
+        "name": "TEXT_STAGE_KURENAI_2_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_3": {
+        "id": "STAGE_KURENAI_3",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 3,
+        "name": "TEXT_STAGE_KURENAI_3_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_4": {
+        "id": "STAGE_KURENAI_4",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 4,
+        "name": "TEXT_STAGE_KURENAI_4_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_5": {
+        "id": "STAGE_KURENAI_5",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 5,
+        "name": "TEXT_STAGE_KURENAI_5_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_6_A": {
+        "id": "STAGE_KURENAI_6_A",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 6,
+        "name": "TEXT_STAGE_KURENAI_6_A_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_6_B": {
+        "id": "STAGE_KURENAI_6_B",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 10,
+        "name": "TEXT_STAGE_KURENAI_6_B_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_7_A": {
+        "id": "STAGE_KURENAI_7_A",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 7,
+        "name": "TEXT_STAGE_KURENAI_7_A_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_7_B": {
+        "id": "STAGE_KURENAI_7_B",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 11,
+        "name": "TEXT_STAGE_KURENAI_7_B_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_8_A": {
+        "id": "STAGE_KURENAI_8_A",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 8,
+        "name": "TEXT_STAGE_KURENAI_8_A_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_8_B": {
+        "id": "STAGE_KURENAI_8_B",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 12,
+        "name": "TEXT_STAGE_KURENAI_8_B_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_9_A": {
+        "id": "STAGE_KURENAI_9_A",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 9,
+        "name": "TEXT_STAGE_KURENAI_9_A_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_KURENAI_9_B": {
+        "id": "STAGE_KURENAI_9_B",
+        "chapter": "SUBSCENARIO_KURENAI",
+        "number": 13,
+        "name": "TEXT_STAGE_KURENAI_9_B_NAME",
+        "entry_cost": 1,
+        "entry_currency": "ITEM_TICKET_KURENAI",
+        "big_image": "ui_bg_stage_card_extra_flame"
+    },
+    "STAGE_RAID_DRAGON_1": {
+        "id": "STAGE_RAID_DRAGON_1",
+        "chapter": "DUNGEON_RAID_DRAGON",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_RAID_DRAGON_1_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_dragon"
+    },
+    "STAGE_RAID_DRAGON_2": {
+        "id": "STAGE_RAID_DRAGON_2",
+        "chapter": "DUNGEON_RAID_DRAGON",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_RAID_DRAGON_2_NAME",
+        "entry_cost": 15,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_dragon"
+    },
+    "STAGE_RAID_DRAGON_3": {
+        "id": "STAGE_RAID_DRAGON_3",
+        "chapter": "DUNGEON_RAID_DRAGON",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_RAID_DRAGON_3_NAME",
+        "entry_cost": 20,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_dragon"
+    },
+    "STAGE_RAID_DRAGON_4": {
+        "id": "STAGE_RAID_DRAGON_4",
+        "chapter": "DUNGEON_RAID_DRAGON",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_RAID_DRAGON_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_dragon"
+    },
+    "STAGE_RAID_GOLEM_1": {
+        "id": "STAGE_RAID_GOLEM_1",
+        "chapter": "DUNGEON_RAID_GOLEM",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_RAID_GOLEM_1_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_golem"
+    },
+    "STAGE_RAID_GOLEM_2": {
+        "id": "STAGE_RAID_GOLEM_2",
+        "chapter": "DUNGEON_RAID_GOLEM",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_RAID_GOLEM_2_NAME",
+        "entry_cost": 15,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_golem"
+    },
+    "STAGE_RAID_GOLEM_3": {
+        "id": "STAGE_RAID_GOLEM_3",
+        "chapter": "DUNGEON_RAID_GOLEM",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_RAID_GOLEM_3_NAME",
+        "entry_cost": 20,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_golem"
+    },
+    "STAGE_RAID_GOLEM_4": {
+        "id": "STAGE_RAID_GOLEM_4",
+        "chapter": "DUNGEON_RAID_GOLEM",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_RAID_GOLEM_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_golem"
+    },
+    "STAGE_RAID_GUARDIANOFRUINS_1": {
+        "id": "STAGE_RAID_GUARDIANOFRUINS_1",
+        "chapter": "DUNGEON_RAID_EP1_GUARDIANOFRUINS",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_RAID_GUARDIANOFRUINS_1_NAME",
+        "entry_cost": 40,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_guardianofruins"
+    },
+    "STAGE_RAID_GUARDIANOFRUINS_2": {
+        "id": "STAGE_RAID_GUARDIANOFRUINS_2",
+        "chapter": "DUNGEON_RAID_EP1_GUARDIANOFRUINS",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_RAID_GUARDIANOFRUINS_2_NAME",
+        "entry_cost": 40,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_guardianofruins"
+    },
+    "STAGE_RAID_GUARDIANOFRUINS_3": {
+        "id": "STAGE_RAID_GUARDIANOFRUINS_3",
+        "chapter": "DUNGEON_RAID_EP1_GUARDIANOFRUINS",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_RAID_GUARDIANOFRUINS_3_NAME",
+        "entry_cost": 40,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_guardianofruins"
+    },
+    "STAGE_RAID_GUARDIANOFRUINS_4": {
+        "id": "STAGE_RAID_GUARDIANOFRUINS_4",
+        "chapter": "DUNGEON_RAID_EP1_GUARDIANOFRUINS",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_RAID_GUARDIANOFRUINS_4_NAME",
+        "entry_cost": 40,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_guardianofruins"
+    },
+    "STAGE_RAID_KRAKEN_1": {
+        "id": "STAGE_RAID_KRAKEN_1",
+        "chapter": "DUNGEON_RAID_KRAKEN",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_RAID_KRAKEN_1_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_kraken"
+    },
+    "STAGE_RAID_KRAKEN_2": {
+        "id": "STAGE_RAID_KRAKEN_2",
+        "chapter": "DUNGEON_RAID_KRAKEN",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_RAID_KRAKEN_2_NAME",
+        "entry_cost": 15,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_kraken"
+    },
+    "STAGE_RAID_KRAKEN_3": {
+        "id": "STAGE_RAID_KRAKEN_3",
+        "chapter": "DUNGEON_RAID_KRAKEN",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_RAID_KRAKEN_3_NAME",
+        "entry_cost": 20,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_kraken"
+    },
+    "STAGE_RAID_KRAKEN_4": {
+        "id": "STAGE_RAID_KRAKEN_4",
+        "chapter": "DUNGEON_RAID_KRAKEN",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_RAID_KRAKEN_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_kraken"
+    },
+    "STAGE_RAID_MANACAR_1": {
+        "id": "STAGE_RAID_MANACAR_1",
+        "chapter": "DUNGEON_RAID_MANACAR",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_RAID_MANACAR_1_NAME",
+        "entry_cost": 35,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_manacar"
+    },
+    "STAGE_RAID_MANACAR_2": {
+        "id": "STAGE_RAID_MANACAR_2",
+        "chapter": "DUNGEON_RAID_MANACAR",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_RAID_MANACAR_2_NAME",
+        "entry_cost": 35,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_manacar"
+    },
+    "STAGE_RAID_MANACAR_3": {
+        "id": "STAGE_RAID_MANACAR_3",
+        "chapter": "DUNGEON_RAID_MANACAR",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_RAID_MANACAR_3_NAME",
+        "entry_cost": 35,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_manacar"
+    },
+    "STAGE_RAID_MANACAR_4": {
+        "id": "STAGE_RAID_MANACAR_4",
+        "chapter": "DUNGEON_RAID_MANACAR",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_RAID_MANACAR_4_NAME",
+        "entry_cost": 40,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_manacar"
+    },
+    "STAGE_RAID_SANDWORM_1": {
+        "id": "STAGE_RAID_SANDWORM_1",
+        "chapter": "DUNGEON_RAID_SANDWORM",
+        "number": 1,
+        "name": "TEXT_STAGE_DG_RAID_SANDWORM_1_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_sandworm"
+    },
+    "STAGE_RAID_SANDWORM_2": {
+        "id": "STAGE_RAID_SANDWORM_2",
+        "chapter": "DUNGEON_RAID_SANDWORM",
+        "number": 2,
+        "name": "TEXT_STAGE_DG_RAID_SANDWORM_2_NAME",
+        "entry_cost": 15,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_sandworm"
+    },
+    "STAGE_RAID_SANDWORM_3": {
+        "id": "STAGE_RAID_SANDWORM_3",
+        "chapter": "DUNGEON_RAID_SANDWORM",
+        "number": 3,
+        "name": "TEXT_STAGE_DG_RAID_SANDWORM_3_NAME",
+        "entry_cost": 20,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_sandworm"
+    },
+    "STAGE_RAID_SANDWORM_4": {
+        "id": "STAGE_RAID_SANDWORM_4",
+        "chapter": "DUNGEON_RAID_SANDWORM",
+        "number": 4,
+        "name": "TEXT_STAGE_DG_RAID_SANDWORM_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_card_raid_sandworm"
+    },
+    "STAGE_S2_EP1_CH1_1": {
+        "id": "STAGE_S2_EP1_CH1_1",
+        "chapter": "CHAPTER_S2_EP1_1",
+        "number": 1,
+        "name": "TEXT_STAGE_S2_EP1_CH1_1_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH1_2": {
+        "id": "STAGE_S2_EP1_CH1_2",
+        "chapter": "CHAPTER_S2_EP1_1",
+        "number": 2,
+        "name": "TEXT_STAGE_S2_EP1_CH1_2_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH1_3": {
+        "id": "STAGE_S2_EP1_CH1_3",
+        "chapter": "CHAPTER_S2_EP1_1",
+        "number": 3,
+        "name": "TEXT_STAGE_S2_EP1_CH1_3_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH1_4": {
+        "id": "STAGE_S2_EP1_CH1_4",
+        "chapter": "CHAPTER_S2_EP1_1",
+        "number": 4,
+        "name": "TEXT_STAGE_S2_EP1_CH1_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH1_5": {
+        "id": "STAGE_S2_EP1_CH1_5",
+        "chapter": "CHAPTER_S2_EP1_1",
+        "number": 5,
+        "name": "TEXT_STAGE_S2_EP1_CH1_5_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_1": {
+        "id": "STAGE_S2_EP1_CH2_1",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 1,
+        "name": "TEXT_STAGE_S2_EP1_CH2_1_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_10": {
+        "id": "STAGE_S2_EP1_CH2_10",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 10,
+        "name": "TEXT_STAGE_S2_EP1_CH2_10_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_2": {
+        "id": "STAGE_S2_EP1_CH2_2",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 2,
+        "name": "TEXT_STAGE_S2_EP1_CH2_2_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_3": {
+        "id": "STAGE_S2_EP1_CH2_3",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 3,
+        "name": "TEXT_STAGE_S2_EP1_CH2_3_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_4": {
+        "id": "STAGE_S2_EP1_CH2_4",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 4,
+        "name": "TEXT_STAGE_S2_EP1_CH2_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_5": {
+        "id": "STAGE_S2_EP1_CH2_5",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 5,
+        "name": "TEXT_STAGE_S2_EP1_CH2_5_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_6": {
+        "id": "STAGE_S2_EP1_CH2_6",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 6,
+        "name": "TEXT_STAGE_S2_EP1_CH2_6_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_7": {
+        "id": "STAGE_S2_EP1_CH2_7",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 7,
+        "name": "TEXT_STAGE_S2_EP1_CH2_7_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_8": {
+        "id": "STAGE_S2_EP1_CH2_8",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 8,
+        "name": "TEXT_STAGE_S2_EP1_CH2_8_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH2_9": {
+        "id": "STAGE_S2_EP1_CH2_9",
+        "chapter": "CHAPTER_S2_EP1_2",
+        "number": 9,
+        "name": "TEXT_STAGE_S2_EP1_CH2_9_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_1": {
+        "id": "STAGE_S2_EP1_CH3_1",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 1,
+        "name": "TEXT_STAGE_S2_EP1_CH3_1_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_10": {
+        "id": "STAGE_S2_EP1_CH3_10",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 10,
+        "name": "TEXT_STAGE_S2_EP1_CH3_10_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_2": {
+        "id": "STAGE_S2_EP1_CH3_2",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 2,
+        "name": "TEXT_STAGE_S2_EP1_CH3_2_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_3": {
+        "id": "STAGE_S2_EP1_CH3_3",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 3,
+        "name": "TEXT_STAGE_S2_EP1_CH3_3_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_4": {
+        "id": "STAGE_S2_EP1_CH3_4",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 4,
+        "name": "TEXT_STAGE_S2_EP1_CH3_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_5": {
+        "id": "STAGE_S2_EP1_CH3_5",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 5,
+        "name": "TEXT_STAGE_S2_EP1_CH3_5_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_6": {
+        "id": "STAGE_S2_EP1_CH3_6",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 6,
+        "name": "TEXT_STAGE_S2_EP1_CH3_6_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_7": {
+        "id": "STAGE_S2_EP1_CH3_7",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 7,
+        "name": "TEXT_STAGE_S2_EP1_CH3_7_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_8": {
+        "id": "STAGE_S2_EP1_CH3_8",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 8,
+        "name": "TEXT_STAGE_S2_EP1_CH3_8_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH3_9": {
+        "id": "STAGE_S2_EP1_CH3_9",
+        "chapter": "CHAPTER_S2_EP1_3",
+        "number": 9,
+        "name": "TEXT_STAGE_S2_EP1_CH3_9_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH4_1": {
+        "id": "STAGE_S2_EP1_CH4_1",
+        "chapter": "CHAPTER_S2_EP1_4",
+        "number": 1,
+        "name": "TEXT_STAGE_S2_EP1_CH4_1_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH4_2": {
+        "id": "STAGE_S2_EP1_CH4_2",
+        "chapter": "CHAPTER_S2_EP1_4",
+        "number": 2,
+        "name": "TEXT_STAGE_S2_EP1_CH4_2_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH4_3": {
+        "id": "STAGE_S2_EP1_CH4_3",
+        "chapter": "CHAPTER_S2_EP1_4",
+        "number": 3,
+        "name": "TEXT_STAGE_S2_EP1_CH4_3_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH4_4": {
+        "id": "STAGE_S2_EP1_CH4_4",
+        "chapter": "CHAPTER_S2_EP1_4",
+        "number": 4,
+        "name": "TEXT_STAGE_S2_EP1_CH4_4_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CH4_5": {
+        "id": "STAGE_S2_EP1_CH4_5",
+        "chapter": "CHAPTER_S2_EP1_4",
+        "number": 5,
+        "name": "TEXT_STAGE_S2_EP1_CH4_5_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s2_ep1_big"
+    },
+    "STAGE_S2_EP1_CHALLENGE_1": {
+        "id": "STAGE_S2_EP1_CHALLENGE_1",
+        "chapter": "CHALLENGE_S2_EP1",
+        "number": 1,
+        "name": "TEXT_STAGE_S2_EP1_CHALLENGE_1_SUBNAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": null
+    },
+    "STAGE_S2_EP1_CHALLENGE_2": {
+        "id": "STAGE_S2_EP1_CHALLENGE_2",
+        "chapter": "CHALLENGE_S2_EP1",
+        "number": 2,
+        "name": "TEXT_STAGE_S2_EP1_CHALLENGE_2_SUBNAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": null
+    },
+    "STAGE_S2_EP1_CHALLENGE_3": {
+        "id": "STAGE_S2_EP1_CHALLENGE_3",
+        "chapter": "CHALLENGE_S2_EP1",
+        "number": 3,
+        "name": "TEXT_STAGE_S2_EP1_CHALLENGE_3_SUBNAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": null
+    },
+    "STAGE_S2_EP1_CHALLENGE_4": {
+        "id": "STAGE_S2_EP1_CHALLENGE_4",
+        "chapter": "CHALLENGE_S2_EP1",
+        "number": 4,
+        "name": "TEXT_STAGE_S2_EP1_CHALLENGE_4_SUBNAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": null
+    },
+    "STAGE_SAINT_1_1": {
+        "id": "STAGE_SAINT_1_1",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 1,
+        "name": "TEXT_STAGE_SAINT_1_1_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_10": {
+        "id": "STAGE_SAINT_1_10",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 10,
+        "name": "TEXT_STAGE_SAINT_1_10_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_2": {
+        "id": "STAGE_SAINT_1_2",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 2,
+        "name": "TEXT_STAGE_SAINT_1_2_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_3": {
+        "id": "STAGE_SAINT_1_3",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 3,
+        "name": "TEXT_STAGE_SAINT_1_3_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_4": {
+        "id": "STAGE_SAINT_1_4",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 4,
+        "name": "TEXT_STAGE_SAINT_1_4_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_5": {
+        "id": "STAGE_SAINT_1_5",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 5,
+        "name": "TEXT_STAGE_SAINT_1_5_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_6": {
+        "id": "STAGE_SAINT_1_6",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 6,
+        "name": "TEXT_STAGE_SAINT_1_6_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_7": {
+        "id": "STAGE_SAINT_1_7",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 7,
+        "name": "TEXT_STAGE_SAINT_1_7_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_8": {
+        "id": "STAGE_SAINT_1_8",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 8,
+        "name": "TEXT_STAGE_SAINT_1_8_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_9": {
+        "id": "STAGE_SAINT_1_9",
+        "chapter": "CHAPTER_SAINT_1",
+        "number": 9,
+        "name": "TEXT_STAGE_SAINT_1_9_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_1": {
+        "id": "STAGE_SAINT_1_HARD_1",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 1,
+        "name": "TEXT_STAGE_SAINT_1_HARD_1_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_2": {
+        "id": "STAGE_SAINT_1_HARD_2",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 2,
+        "name": "TEXT_STAGE_SAINT_1_HARD_2_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_3": {
+        "id": "STAGE_SAINT_1_HARD_3",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 3,
+        "name": "TEXT_STAGE_SAINT_1_HARD_3_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_4": {
+        "id": "STAGE_SAINT_1_HARD_4",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 4,
+        "name": "TEXT_STAGE_SAINT_1_HARD_4_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_5": {
+        "id": "STAGE_SAINT_1_HARD_5",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 5,
+        "name": "TEXT_STAGE_SAINT_1_HARD_5_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_6": {
+        "id": "STAGE_SAINT_1_HARD_6",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 6,
+        "name": "TEXT_STAGE_SAINT_1_HARD_6_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_7": {
+        "id": "STAGE_SAINT_1_HARD_7",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 7,
+        "name": "TEXT_STAGE_SAINT_1_HARD_7_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_1_HARD_8": {
+        "id": "STAGE_SAINT_1_HARD_8",
+        "chapter": "CHAPTER_SAINT_1_HARD",
+        "number": 8,
+        "name": "TEXT_STAGE_SAINT_1_HARD_8_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_1": {
+        "id": "STAGE_SAINT_2_1",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 1,
+        "name": "TEXT_STAGE_SAINT_2_1_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_10": {
+        "id": "STAGE_SAINT_2_10",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 10,
+        "name": "TEXT_STAGE_SAINT_2_10_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_11": {
+        "id": "STAGE_SAINT_2_11",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 11,
+        "name": "TEXT_STAGE_SAINT_2_11_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_12": {
+        "id": "STAGE_SAINT_2_12",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 12,
+        "name": "TEXT_STAGE_SAINT_2_12_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_2": {
+        "id": "STAGE_SAINT_2_2",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 2,
+        "name": "TEXT_STAGE_SAINT_2_2_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_3": {
+        "id": "STAGE_SAINT_2_3",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 3,
+        "name": "TEXT_STAGE_SAINT_2_3_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_4": {
+        "id": "STAGE_SAINT_2_4",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 4,
+        "name": "TEXT_STAGE_SAINT_2_4_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_5": {
+        "id": "STAGE_SAINT_2_5",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 5,
+        "name": "TEXT_STAGE_SAINT_2_5_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_6": {
+        "id": "STAGE_SAINT_2_6",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 6,
+        "name": "TEXT_STAGE_SAINT_2_6_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_7": {
+        "id": "STAGE_SAINT_2_7",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 7,
+        "name": "TEXT_STAGE_SAINT_2_7_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_8": {
+        "id": "STAGE_SAINT_2_8",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 8,
+        "name": "TEXT_STAGE_SAINT_2_8_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_9": {
+        "id": "STAGE_SAINT_2_9",
+        "chapter": "CHAPTER_SAINT_2",
+        "number": 9,
+        "name": "TEXT_STAGE_SAINT_2_9_NAME",
+        "entry_cost": 25,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_1": {
+        "id": "STAGE_SAINT_2_HARD_1",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 1,
+        "name": "TEXT_STAGE_SAINT_2_HARD_1_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_2": {
+        "id": "STAGE_SAINT_2_HARD_2",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 2,
+        "name": "TEXT_STAGE_SAINT_2_HARD_2_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_3": {
+        "id": "STAGE_SAINT_2_HARD_3",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 3,
+        "name": "TEXT_STAGE_SAINT_2_HARD_3_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_4": {
+        "id": "STAGE_SAINT_2_HARD_4",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 4,
+        "name": "TEXT_STAGE_SAINT_2_HARD_4_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_5": {
+        "id": "STAGE_SAINT_2_HARD_5",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 5,
+        "name": "TEXT_STAGE_SAINT_2_HARD_5_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_6": {
+        "id": "STAGE_SAINT_2_HARD_6",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 6,
+        "name": "TEXT_STAGE_SAINT_2_HARD_6_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_7": {
+        "id": "STAGE_SAINT_2_HARD_7",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 7,
+        "name": "TEXT_STAGE_SAINT_2_HARD_7_NAME",
+        "entry_cost": 28,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_2_HARD_8": {
+        "id": "STAGE_SAINT_2_HARD_8",
+        "chapter": "CHAPTER_SAINT_2_HARD",
+        "number": 8,
+        "name": "TEXT_STAGE_SAINT_2_HARD_8_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_1": {
+        "id": "STAGE_SAINT_3_1",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 1,
+        "name": "TEXT_STAGE_SAINT_3_1_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_2": {
+        "id": "STAGE_SAINT_3_2",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 2,
+        "name": "TEXT_STAGE_SAINT_3_2_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_3": {
+        "id": "STAGE_SAINT_3_3",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 3,
+        "name": "TEXT_STAGE_SAINT_3_3_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_4": {
+        "id": "STAGE_SAINT_3_4",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 4,
+        "name": "TEXT_STAGE_SAINT_3_4_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_5": {
+        "id": "STAGE_SAINT_3_5",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 5,
+        "name": "TEXT_STAGE_SAINT_3_5_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_6": {
+        "id": "STAGE_SAINT_3_6",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 6,
+        "name": "TEXT_STAGE_SAINT_3_6_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_7": {
+        "id": "STAGE_SAINT_3_7",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 7,
+        "name": "TEXT_STAGE_SAINT_3_7_NAME",
+        "entry_cost": 26,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_8": {
+        "id": "STAGE_SAINT_3_8",
+        "chapter": "CHAPTER_SAINT_3",
+        "number": 8,
+        "name": "TEXT_STAGE_SAINT_3_8_NAME",
+        "entry_cost": 27,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_1": {
+        "id": "STAGE_SAINT_3_HARD_1",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 1,
+        "name": "TEXT_STAGE_SAINT_3_HARD_1_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_2": {
+        "id": "STAGE_SAINT_3_HARD_2",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 2,
+        "name": "TEXT_STAGE_SAINT_3_HARD_2_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_3": {
+        "id": "STAGE_SAINT_3_HARD_3",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 3,
+        "name": "TEXT_STAGE_SAINT_3_HARD_3_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_4": {
+        "id": "STAGE_SAINT_3_HARD_4",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 4,
+        "name": "TEXT_STAGE_SAINT_3_HARD_4_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_5": {
+        "id": "STAGE_SAINT_3_HARD_5",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 5,
+        "name": "TEXT_STAGE_SAINT_3_HARD_5_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_6": {
+        "id": "STAGE_SAINT_3_HARD_6",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 6,
+        "name": "TEXT_STAGE_SAINT_3_HARD_6_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_7": {
+        "id": "STAGE_SAINT_3_HARD_7",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 7,
+        "name": "TEXT_STAGE_SAINT_3_HARD_7_NAME",
+        "entry_cost": 29,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SAINT_3_HARD_8": {
+        "id": "STAGE_SAINT_3_HARD_8",
+        "chapter": "CHAPTER_SAINT_3_HARD",
+        "number": 8,
+        "name": "TEXT_STAGE_SAINT_3_HARD_8_NAME",
+        "entry_cost": 30,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep7_big"
+    },
+    "STAGE_SEA_1": {
+        "id": "STAGE_SEA_1",
+        "chapter": "CHAPTER_SEA",
+        "number": 1,
+        "name": "TEXT_STAGE_SEA_1_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_10": {
+        "id": "STAGE_SEA_10",
+        "chapter": "CHAPTER_SEA",
+        "number": 10,
+        "name": "TEXT_STAGE_SEA_10_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_11": {
+        "id": "STAGE_SEA_11",
+        "chapter": "CHAPTER_SEA",
+        "number": 11,
+        "name": "TEXT_STAGE_SEA_11_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_12": {
+        "id": "STAGE_SEA_12",
+        "chapter": "CHAPTER_SEA",
+        "number": 12,
+        "name": "TEXT_STAGE_SEA_12_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_13": {
+        "id": "STAGE_SEA_13",
+        "chapter": "CHAPTER_SEA",
+        "number": 13,
+        "name": "TEXT_STAGE_SEA_13_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_14": {
+        "id": "STAGE_SEA_14",
+        "chapter": "CHAPTER_SEA",
+        "number": 14,
+        "name": "TEXT_STAGE_SEA_14_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_15": {
+        "id": "STAGE_SEA_15",
+        "chapter": "CHAPTER_SEA",
+        "number": 15,
+        "name": "TEXT_STAGE_SEA_15_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_16": {
+        "id": "STAGE_SEA_16",
+        "chapter": "CHAPTER_SEA",
+        "number": 16,
+        "name": "TEXT_STAGE_SEA_16_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_17": {
+        "id": "STAGE_SEA_17",
+        "chapter": "CHAPTER_SEA",
+        "number": 17,
+        "name": "TEXT_STAGE_SEA_17_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_18": {
+        "id": "STAGE_SEA_18",
+        "chapter": "CHAPTER_SEA",
+        "number": 18,
+        "name": "TEXT_STAGE_SEA_18_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_19": {
+        "id": "STAGE_SEA_19",
+        "chapter": "CHAPTER_SEA",
+        "number": 19,
+        "name": "TEXT_STAGE_SEA_19_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_2": {
+        "id": "STAGE_SEA_2",
+        "chapter": "CHAPTER_SEA",
+        "number": 2,
+        "name": "TEXT_STAGE_SEA_2_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_20": {
+        "id": "STAGE_SEA_20",
+        "chapter": "CHAPTER_SEA",
+        "number": 20,
+        "name": "TEXT_STAGE_SEA_20_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_21": {
+        "id": "STAGE_SEA_21",
+        "chapter": "CHAPTER_SEA",
+        "number": 21,
+        "name": "TEXT_STAGE_SEA_21_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_22": {
+        "id": "STAGE_SEA_22",
+        "chapter": "CHAPTER_SEA",
+        "number": 22,
+        "name": "TEXT_STAGE_SEA_22_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_23": {
+        "id": "STAGE_SEA_23",
+        "chapter": "CHAPTER_SEA",
+        "number": 23,
+        "name": "TEXT_STAGE_SEA_23_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_24": {
+        "id": "STAGE_SEA_24",
+        "chapter": "CHAPTER_SEA",
+        "number": 24,
+        "name": "TEXT_STAGE_SEA_HARD_24_NAME",
+        "entry_cost": 7,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_3": {
+        "id": "STAGE_SEA_3",
+        "chapter": "CHAPTER_SEA",
+        "number": 3,
+        "name": "TEXT_STAGE_SEA_3_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_4": {
+        "id": "STAGE_SEA_4",
+        "chapter": "CHAPTER_SEA",
+        "number": 4,
+        "name": "TEXT_STAGE_SEA_4_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_5": {
+        "id": "STAGE_SEA_5",
+        "chapter": "CHAPTER_SEA",
+        "number": 5,
+        "name": "TEXT_STAGE_SEA_5_NAME",
+        "entry_cost": 5,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_6": {
+        "id": "STAGE_SEA_6",
+        "chapter": "CHAPTER_SEA",
+        "number": 6,
+        "name": "TEXT_STAGE_SEA_6_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_7": {
+        "id": "STAGE_SEA_7",
+        "chapter": "CHAPTER_SEA",
+        "number": 7,
+        "name": "TEXT_STAGE_SEA_7_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_8": {
+        "id": "STAGE_SEA_8",
+        "chapter": "CHAPTER_SEA",
+        "number": 8,
+        "name": "TEXT_STAGE_SEA_8_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SEA_9": {
+        "id": "STAGE_SEA_9",
+        "chapter": "CHAPTER_SEA",
+        "number": 9,
+        "name": "TEXT_STAGE_SEA_9_NAME",
+        "entry_cost": 6,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_SUBSCENARIO_SOUL_REGION_1": {
+        "id": "STAGE_SUBSCENARIO_SOUL_REGION_1",
+        "chapter": "SUBSCENARIO_SOUL_REGION",
+        "number": 1,
+        "name": "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_1_NAME",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_JEWEL",
+        "big_image": "ui_bg_stage_card_extra_soul"
+    },
+    "STAGE_SUBSCENARIO_SOUL_REGION_2": {
+        "id": "STAGE_SUBSCENARIO_SOUL_REGION_2",
+        "chapter": "SUBSCENARIO_SOUL_REGION",
+        "number": 2,
+        "name": "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_2_NAME",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_JEWEL",
+        "big_image": "ui_bg_stage_card_extra_soul"
+    },
+    "STAGE_SUBSCENARIO_SOUL_REGION_3": {
+        "id": "STAGE_SUBSCENARIO_SOUL_REGION_3",
+        "chapter": "SUBSCENARIO_SOUL_REGION",
+        "number": 3,
+        "name": "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_3_NAME",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_JEWEL",
+        "big_image": "ui_bg_stage_card_extra_soul"
+    },
+    "STAGE_SUBSCENARIO_SOUL_REGION_4": {
+        "id": "STAGE_SUBSCENARIO_SOUL_REGION_4",
+        "chapter": "SUBSCENARIO_SOUL_REGION",
+        "number": 4,
+        "name": "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_4_NAME",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_JEWEL",
+        "big_image": "ui_bg_stage_card_extra_soul"
+    },
+    "STAGE_SUBSCENARIO_SOUL_REGION_5": {
+        "id": "STAGE_SUBSCENARIO_SOUL_REGION_5",
+        "chapter": "SUBSCENARIO_SOUL_REGION",
+        "number": 5,
+        "name": "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_5_NAME",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_JEWEL",
+        "big_image": "ui_bg_stage_card_extra_soul"
+    },
+    "STAGE_SUBSCENARIO_SOUL_REGION_6": {
+        "id": "STAGE_SUBSCENARIO_SOUL_REGION_6",
+        "chapter": "SUBSCENARIO_SOUL_REGION",
+        "number": 6,
+        "name": "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_6_NAME",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_JEWEL",
+        "big_image": "ui_bg_stage_card_extra_soul"
+    },
+    "STAGE_SUBSCENARIO_SOUL_REGION_7": {
+        "id": "STAGE_SUBSCENARIO_SOUL_REGION_7",
+        "chapter": "SUBSCENARIO_SOUL_REGION",
+        "number": 7,
+        "name": "TEXT_STAGE_SUBSCENARIO_SOUL_REGION_6_NAME",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_JEWEL",
+        "big_image": "ui_bg_stage_card_extra_soul"
+    },
+    "STAGE_TUNDRA_1": {
+        "id": "STAGE_TUNDRA_1",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 1,
+        "name": "TEXT_STAGE_TUNDRA_1_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_10": {
+        "id": "STAGE_TUNDRA_10",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 10,
+        "name": "TEXT_STAGE_TUNDRA_10_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_11": {
+        "id": "STAGE_TUNDRA_11",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 11,
+        "name": "TEXT_STAGE_TUNDRA_11_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_12": {
+        "id": "STAGE_TUNDRA_12",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 12,
+        "name": "TEXT_STAGE_TUNDRA_12_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_13": {
+        "id": "STAGE_TUNDRA_13",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 13,
+        "name": "TEXT_STAGE_TUNDRA_13_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_14": {
+        "id": "STAGE_TUNDRA_14",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 14,
+        "name": "TEXT_STAGE_TUNDRA_14_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_15": {
+        "id": "STAGE_TUNDRA_15",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 15,
+        "name": "TEXT_STAGE_TUNDRA_15_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_16": {
+        "id": "STAGE_TUNDRA_16",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 16,
+        "name": "TEXT_STAGE_TUNDRA_16_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_17": {
+        "id": "STAGE_TUNDRA_17",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 17,
+        "name": "TEXT_STAGE_TUNDRA_17_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_18": {
+        "id": "STAGE_TUNDRA_18",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 18,
+        "name": "TEXT_STAGE_TUNDRA_18_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_19": {
+        "id": "STAGE_TUNDRA_19",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 19,
+        "name": "TEXT_STAGE_TUNDRA_19_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_2": {
+        "id": "STAGE_TUNDRA_2",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 2,
+        "name": "TEXT_STAGE_TUNDRA_2_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_20": {
+        "id": "STAGE_TUNDRA_20",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 20,
+        "name": "TEXT_STAGE_TUNDRA_20_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_21": {
+        "id": "STAGE_TUNDRA_21",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 21,
+        "name": "TEXT_STAGE_TUNDRA_21_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_22": {
+        "id": "STAGE_TUNDRA_22",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 22,
+        "name": "TEXT_STAGE_TUNDRA_22_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_23": {
+        "id": "STAGE_TUNDRA_23",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 23,
+        "name": "TEXT_STAGE_TUNDRA_23_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_24": {
+        "id": "STAGE_TUNDRA_24",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 24,
+        "name": "TEXT_STAGE_TUNDRA_24_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_25": {
+        "id": "STAGE_TUNDRA_25",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 25,
+        "name": "TEXT_STAGE_TUNDRA_25_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_26": {
+        "id": "STAGE_TUNDRA_26",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 26,
+        "name": "TEXT_STAGE_TUNDRA_26_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_27": {
+        "id": "STAGE_TUNDRA_27",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 27,
+        "name": "TEXT_STAGE_TUNDRA_27_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_28": {
+        "id": "STAGE_TUNDRA_28",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 28,
+        "name": "TEXT_STAGE_TUNDRA_28_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_29": {
+        "id": "STAGE_TUNDRA_29",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 29,
+        "name": "TEXT_STAGE_TUNDRA_29_NAME",
+        "entry_cost": 12,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_3": {
+        "id": "STAGE_TUNDRA_3",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 3,
+        "name": "TEXT_STAGE_TUNDRA_3_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_30": {
+        "id": "STAGE_TUNDRA_30",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 30,
+        "name": "TEXT_STAGE_TUNDRA_30_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_4": {
+        "id": "STAGE_TUNDRA_4",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 4,
+        "name": "TEXT_STAGE_TUNDRA_4_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_5": {
+        "id": "STAGE_TUNDRA_5",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 5,
+        "name": "TEXT_STAGE_TUNDRA_5_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_6": {
+        "id": "STAGE_TUNDRA_6",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 6,
+        "name": "TEXT_STAGE_TUNDRA_6_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_7": {
+        "id": "STAGE_TUNDRA_7",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 7,
+        "name": "TEXT_STAGE_TUNDRA_7_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_8": {
+        "id": "STAGE_TUNDRA_8",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 8,
+        "name": "TEXT_STAGE_TUNDRA_8_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_9": {
+        "id": "STAGE_TUNDRA_9",
+        "chapter": "CHAPTER_TUNDRA",
+        "number": 9,
+        "name": "TEXT_STAGE_TUNDRA_9_NAME",
+        "entry_cost": 11,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_1": {
+        "id": "STAGE_TUNDRA_HARD_1",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 1,
+        "name": "TEXT_STAGE_TUNDRA_HARD_1_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_10": {
+        "id": "STAGE_TUNDRA_HARD_10",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 10,
+        "name": "TEXT_STAGE_TUNDRA_HARD_10_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_11": {
+        "id": "STAGE_TUNDRA_HARD_11",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 11,
+        "name": "TEXT_STAGE_TUNDRA_HARD_11_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_12": {
+        "id": "STAGE_TUNDRA_HARD_12",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 12,
+        "name": "TEXT_STAGE_TUNDRA_HARD_12_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_13": {
+        "id": "STAGE_TUNDRA_HARD_13",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 13,
+        "name": "TEXT_STAGE_TUNDRA_HARD_13_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_14": {
+        "id": "STAGE_TUNDRA_HARD_14",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 14,
+        "name": "TEXT_STAGE_TUNDRA_HARD_14_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_15": {
+        "id": "STAGE_TUNDRA_HARD_15",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 15,
+        "name": "TEXT_STAGE_TUNDRA_HARD_15_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_16": {
+        "id": "STAGE_TUNDRA_HARD_16",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 16,
+        "name": "TEXT_STAGE_TUNDRA_HARD_16_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_17": {
+        "id": "STAGE_TUNDRA_HARD_17",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 17,
+        "name": "TEXT_STAGE_TUNDRA_HARD_17_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_18": {
+        "id": "STAGE_TUNDRA_HARD_18",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 18,
+        "name": "TEXT_STAGE_TUNDRA_HARD_18_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_19": {
+        "id": "STAGE_TUNDRA_HARD_19",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 19,
+        "name": "TEXT_STAGE_TUNDRA_HARD_19_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_2": {
+        "id": "STAGE_TUNDRA_HARD_2",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 2,
+        "name": "TEXT_STAGE_TUNDRA_HARD_2_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_20": {
+        "id": "STAGE_TUNDRA_HARD_20",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 20,
+        "name": "TEXT_STAGE_TUNDRA_HARD_20_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_21": {
+        "id": "STAGE_TUNDRA_HARD_21",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 21,
+        "name": "TEXT_STAGE_TUNDRA_HARD_21_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_22": {
+        "id": "STAGE_TUNDRA_HARD_22",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 22,
+        "name": "TEXT_STAGE_TUNDRA_HARD_22_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_23": {
+        "id": "STAGE_TUNDRA_HARD_23",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 23,
+        "name": "TEXT_STAGE_TUNDRA_HARD_23_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_24": {
+        "id": "STAGE_TUNDRA_HARD_24",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 24,
+        "name": "TEXT_STAGE_TUNDRA_HARD_24_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_25": {
+        "id": "STAGE_TUNDRA_HARD_25",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 25,
+        "name": "TEXT_STAGE_TUNDRA_HARD_25_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_26": {
+        "id": "STAGE_TUNDRA_HARD_26",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 26,
+        "name": "TEXT_STAGE_TUNDRA_HARD_26_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_27": {
+        "id": "STAGE_TUNDRA_HARD_27",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 27,
+        "name": "TEXT_STAGE_TUNDRA_HARD_27_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_28": {
+        "id": "STAGE_TUNDRA_HARD_28",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 28,
+        "name": "TEXT_STAGE_TUNDRA_HARD_28_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_29": {
+        "id": "STAGE_TUNDRA_HARD_29",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 29,
+        "name": "TEXT_STAGE_TUNDRA_HARD_29_NAME",
+        "entry_cost": 14,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_3": {
+        "id": "STAGE_TUNDRA_HARD_3",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 3,
+        "name": "TEXT_STAGE_TUNDRA_HARD_3_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_30": {
+        "id": "STAGE_TUNDRA_HARD_30",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 30,
+        "name": "TEXT_STAGE_TUNDRA_HARD_30_NAME",
+        "entry_cost": 15,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_4": {
+        "id": "STAGE_TUNDRA_HARD_4",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 4,
+        "name": "TEXT_STAGE_TUNDRA_HARD_4_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_5": {
+        "id": "STAGE_TUNDRA_HARD_5",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 5,
+        "name": "TEXT_STAGE_TUNDRA_HARD_5_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_6": {
+        "id": "STAGE_TUNDRA_HARD_6",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 6,
+        "name": "TEXT_STAGE_TUNDRA_HARD_6_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_7": {
+        "id": "STAGE_TUNDRA_HARD_7",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 7,
+        "name": "TEXT_STAGE_TUNDRA_HARD_7_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_8": {
+        "id": "STAGE_TUNDRA_HARD_8",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 8,
+        "name": "TEXT_STAGE_TUNDRA_HARD_8_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUNDRA_HARD_9": {
+        "id": "STAGE_TUNDRA_HARD_9",
+        "chapter": "CHAPTER_TUNDRA_HARD",
+        "number": 9,
+        "name": "TEXT_STAGE_TUNDRA_HARD_9_NAME",
+        "entry_cost": 13,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep5_big"
+    },
+    "STAGE_TUTORIAL_DEATHTALOS": {
+        "id": "STAGE_TUTORIAL_DEATHTALOS",
+        "chapter": "CHAPTER_TUTORIAL_PROLOGUE",
+        "number": 1,
+        "name": null,
+        "entry_cost": 0,
+        "entry_currency": null,
+        "big_image": "none"
+    },
+    "STAGE_VOLCANO_1": {
+        "id": "STAGE_VOLCANO_1",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 1,
+        "name": "TEXT_STAGE_VOLCANO_1_NAME",
+        "entry_cost": 8,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_10": {
+        "id": "STAGE_VOLCANO_10",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 10,
+        "name": "TEXT_STAGE_VOLCANO_10_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_11": {
+        "id": "STAGE_VOLCANO_11",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 11,
+        "name": "TEXT_STAGE_VOLCANO_11_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_12": {
+        "id": "STAGE_VOLCANO_12",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 12,
+        "name": "TEXT_STAGE_VOLCANO_12_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_13": {
+        "id": "STAGE_VOLCANO_13",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 13,
+        "name": "TEXT_STAGE_VOLCANO_13_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_14": {
+        "id": "STAGE_VOLCANO_14",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 14,
+        "name": "TEXT_STAGE_VOLCANO_14_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_15": {
+        "id": "STAGE_VOLCANO_15",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 15,
+        "name": "TEXT_STAGE_VOLCANO_15_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_16": {
+        "id": "STAGE_VOLCANO_16",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 16,
+        "name": "TEXT_STAGE_VOLCANO_16_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_17": {
+        "id": "STAGE_VOLCANO_17",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 17,
+        "name": "TEXT_STAGE_VOLCANO_17_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_18": {
+        "id": "STAGE_VOLCANO_18",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 18,
+        "name": "TEXT_STAGE_VOLCANO_18_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_19": {
+        "id": "STAGE_VOLCANO_19",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 19,
+        "name": "TEXT_STAGE_VOLCANO_19_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_2": {
+        "id": "STAGE_VOLCANO_2",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 2,
+        "name": "TEXT_STAGE_VOLCANO_2_NAME",
+        "entry_cost": 8,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_20": {
+        "id": "STAGE_VOLCANO_20",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 20,
+        "name": "TEXT_STAGE_VOLCANO_20_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_21": {
+        "id": "STAGE_VOLCANO_21",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 21,
+        "name": "TEXT_STAGE_VOLCANO_21_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_22": {
+        "id": "STAGE_VOLCANO_22",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 22,
+        "name": "TEXT_STAGE_VOLCANO_22_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_23": {
+        "id": "STAGE_VOLCANO_23",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 23,
+        "name": "TEXT_STAGE_VOLCANO_23_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_24": {
+        "id": "STAGE_VOLCANO_24",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 24,
+        "name": "TEXT_STAGE_VOLCANO_24_NAME",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_3": {
+        "id": "STAGE_VOLCANO_3",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 3,
+        "name": "TEXT_STAGE_VOLCANO_3_NAME",
+        "entry_cost": 8,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_4": {
+        "id": "STAGE_VOLCANO_4",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 4,
+        "name": "TEXT_STAGE_VOLCANO_4_NAME",
+        "entry_cost": 8,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_5": {
+        "id": "STAGE_VOLCANO_5",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 5,
+        "name": "TEXT_STAGE_VOLCANO_5_NAME",
+        "entry_cost": 8,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_6": {
+        "id": "STAGE_VOLCANO_6",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 6,
+        "name": "TEXT_STAGE_VOLCANO_6_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_7": {
+        "id": "STAGE_VOLCANO_7",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 7,
+        "name": "TEXT_STAGE_VOLCANO_7_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_8": {
+        "id": "STAGE_VOLCANO_8",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 8,
+        "name": "TEXT_STAGE_VOLCANO_8_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_VOLCANO_9": {
+        "id": "STAGE_VOLCANO_9",
+        "chapter": "CHAPTER_VOLCANO",
+        "number": 9,
+        "name": "TEXT_STAGE_VOLCANO_9_NAME",
+        "entry_cost": 9,
+        "entry_currency": "ITEM_HEART",
+        "big_image": "ui_bg_stage_s1_ep1_4_big"
+    },
+    "STAGE_YS8_ATTACK_1": {
+        "id": "STAGE_YS8_ATTACK_1",
+        "chapter": "DUNGEON_YS8_ATTACK",
+        "number": 1,
+        "name": "TEXT_STAGE_YS8_ATTACK_1_TITLE",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_YS8_ATTACK_2": {
+        "id": "STAGE_YS8_ATTACK_2",
+        "chapter": "DUNGEON_YS8_ATTACK",
+        "number": 2,
+        "name": "TEXT_STAGE_YS8_ATTACK_2_TITLE",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_YS8_ATTACK_3": {
+        "id": "STAGE_YS8_ATTACK_3",
+        "chapter": "DUNGEON_YS8_ATTACK",
+        "number": 3,
+        "name": "TEXT_STAGE_YS8_ATTACK_3_TITLE",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_YS8_ATTACK_4": {
+        "id": "STAGE_YS8_ATTACK_4",
+        "chapter": "DUNGEON_YS8_ATTACK",
+        "number": 4,
+        "name": "TEXT_STAGE_YS8_ATTACK_4_TITLE",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_YS8_ATTACK_5": {
+        "id": "STAGE_YS8_ATTACK_5",
+        "chapter": "DUNGEON_YS8_ATTACK",
+        "number": 5,
+        "name": "TEXT_STAGE_YS8_ATTACK_5_TITLE",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_YS8_ATTACK_6": {
+        "id": "STAGE_YS8_ATTACK_6",
+        "chapter": "DUNGEON_YS8_ATTACK",
+        "number": 6,
+        "name": "TEXT_STAGE_YS8_ATTACK_6_TITLE",
+        "entry_cost": 10,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_YS8_DEFFENCE_1": {
+        "id": "STAGE_YS8_DEFFENCE_1",
+        "chapter": "DUNGEON_YS8_DEFFENCE",
+        "number": 1,
+        "name": "TEXT_STAGE_YS8_DEFFENCE_1_TITLE",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    },
+    "STAGE_YS8_DEFFENCE_2": {
+        "id": "STAGE_YS8_DEFFENCE_2",
+        "chapter": "DUNGEON_YS8_DEFFENCE",
+        "number": 2,
+        "name": "TEXT_STAGE_YS8_DEFFENCE_2_TITLE",
+        "entry_cost": 0,
+        "entry_currency": "ITEM_DUNGEONKEY",
+        "big_image": null
+    }
+}
