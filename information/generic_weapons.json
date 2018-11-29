@@ -204,6 +204,18 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_25",
+        "name": "TEXT_WEP_LEGEND_BO_CHA_4_25_NAME",
+        "image": "bo_s4_25",
+        "ability": "TEXT_WEP_LEGEND_BO_CHA_4_25_DESC",
+        "star": 4,
+        "atk_power": 67,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "bow",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_BO_CHA_4_3",
         "name": "TEXT_WEP_BO_S4_3_NAME",
         "image": "bo_s4_03",
@@ -492,6 +504,18 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_25",
+        "name": "TEXT_WEP_LEGEND_BO_CHA_5_25_NAME",
+        "image": "bo_s5_25",
+        "ability": "TEXT_WEP_LEGEND_BO_CHA_5_25_DESC",
+        "star": 5,
+        "atk_power": 117,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "bow",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_BO_CHA_5_3",
         "name": "TEXT_WEP_BO_S5_3_NAME",
         "image": "bo_s5_03",
@@ -774,6 +798,18 @@
         "ability": "TEXT_WEP_LEGEND_BO_CHA_6_24_DESC",
         "star": 6,
         "atk_power": 238,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "bow",
+        "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_BO_CHA_6_25",
+        "name": "TEXT_WEP_LEGEND_BO_CHA_6_25_NAME",
+        "image": "bo_s6_25",
+        "ability": "TEXT_WEP_LEGEND_BO_CHA_6_25_DESC",
+        "star": 6,
+        "atk_power": 217,
         "atk_speed": 1.3,
         "options": 1365,
         "class": "bow",
@@ -1152,6 +1188,18 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_23",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_4_23_NAME",
+        "image": "gu_s4_23",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_4_23_DESC",
+        "star": 4,
+        "atk_power": 80,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "gun",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_GU_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_GU_CHA_4_24_NAME",
         "image": "gu_s4_24",
@@ -1428,6 +1476,18 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_23",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_5_23_NAME",
+        "image": "gu_s5_23",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_5_23_DESC",
+        "star": 5,
+        "atk_power": 176,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "gun",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_GU_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_GU_CHA_5_24_NAME",
         "image": "gu_s5_24",
@@ -1698,6 +1758,18 @@
         "ability": "TEXT_WEP_LEGEND_GU_CHA_6_22_DESC",
         "star": 6,
         "atk_power": 280,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "gun",
+        "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_GU_CHA_6_23",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_6_23_NAME",
+        "image": "gu_s6_23",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_6_23_DESC",
+        "star": 6,
+        "atk_power": 263,
         "atk_speed": 0.9,
         "options": 1365,
         "class": "gun",
@@ -4500,12 +4572,36 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_23",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_4_23_NAME",
+        "image": "st_s4_23",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_4_23_DESC",
+        "star": 4,
+        "atk_power": 90,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_ST_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_ST_CHA_4_24_NAME",
         "image": "st_s4_24",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_4_24_DESC",
         "star": 4,
         "atk_power": 90,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_ST_CHA_4_25",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_4_25_NAME",
+        "image": "st_s4_25",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_4_25_DESC",
+        "star": 4,
+        "atk_power": 100,
         "atk_speed": 0.8,
         "options": 1365,
         "class": "staff",
@@ -4776,12 +4872,36 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_5_23",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_5_23_NAME",
+        "image": "st_s5_23",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_5_23_DESC",
+        "star": 5,
+        "atk_power": 162,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_ST_CHA_5_24",
         "name": "TEXT_WEP_LEGEND_ST_CHA_5_24_NAME",
         "image": "st_s5_24",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_5_24_DESC",
         "star": 5,
         "atk_power": 162,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_ST_CHA_5_25",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_5_25_NAME",
+        "image": "st_s5_25",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_5_25_DESC",
+        "star": 5,
+        "atk_power": 180,
         "atk_speed": 0.8,
         "options": 1365,
         "class": "staff",
@@ -5052,12 +5172,36 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_6_23",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_6_23_NAME",
+        "image": "st_s6_23",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_6_23_DESC",
+        "star": 6,
+        "atk_power": 278,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_ST_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_ST_CHA_6_24_NAME",
         "image": "st_s6_24",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_6_24_DESC",
         "star": 6,
         "atk_power": 278,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff",
+        "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_ST_CHA_6_25",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_6_25_NAME",
+        "image": "st_s6_25",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_6_25_DESC",
+        "star": 6,
+        "atk_power": 308,
         "atk_speed": 0.8,
         "options": 1365,
         "class": "staff",
@@ -5580,6 +5724,18 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_4_23",
+        "name": "TEXT_WEP_LEGEND_SW_CHA_4_23_NAME",
+        "image": "sw_s4_23",
+        "ability": "TEXT_WEP_LEGEND_SW_CHA_4_23_DESC",
+        "star": 4,
+        "atk_power": 85,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_SW_CHA_4_24",
         "name": "TEXT_WEP_LEGEND_SW_CHA_4_24_NAME",
         "image": "sw_s4_24",
@@ -5863,6 +6019,18 @@
         "star": 5,
         "atk_power": 180,
         "atk_speed": 1.4,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_SW_CHA_5_23",
+        "name": "TEXT_WEP_LEGEND_SW_CHA_5_23_NAME",
+        "image": "sw_s5_23",
+        "ability": "TEXT_WEP_LEGEND_SW_CHA_5_23_DESC",
+        "star": 5,
+        "atk_power": 145,
+        "atk_speed": 0.9,
         "options": 1365,
         "class": "sword",
         "type": "sbw"
@@ -6156,6 +6324,18 @@
         "type": "sbw"
     },
     {
+        "id": "WEP_LEGEND_SW_CHA_6_23",
+        "name": "TEXT_WEP_LEGEND_SW_CHA_6_23_NAME",
+        "image": "sw_s6_23",
+        "ability": "TEXT_WEP_LEGEND_SW_CHA_6_23_DESC",
+        "star": 6,
+        "atk_power": 225,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw"
+    },
+    {
         "id": "WEP_LEGEND_SW_CHA_6_24",
         "name": "TEXT_WEP_LEGEND_SW_CHA_6_24_NAME",
         "image": "sw_s6_24",
@@ -6262,6 +6442,42 @@
         "options": 1365,
         "class": "sword",
         "type": "sbw"
+    },
+    {
+        "id": "WEP_LEGEND_SW_FOURTH_REDNAS_4",
+        "name": "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_4_NAME",
+        "image": "sw_fourth_rednas_6",
+        "ability": "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_4_DESC",
+        "star": 4,
+        "atk_power": 95,
+        "atk_speed": 1.1,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw,secret"
+    },
+    {
+        "id": "WEP_LEGEND_SW_FOURTH_REDNAS_5",
+        "name": "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_5_NAME",
+        "image": "sw_fourth_rednas_6",
+        "ability": "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_5_DESC",
+        "star": 5,
+        "atk_power": 190,
+        "atk_speed": 1.1,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw,secret"
+    },
+    {
+        "id": "WEP_LEGEND_SW_FOURTH_REDNAS_6",
+        "name": "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_6_NAME",
+        "image": "sw_fourth_rednas_6",
+        "ability": "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_6_DESC",
+        "star": 6,
+        "atk_power": 284,
+        "atk_speed": 1.1,
+        "options": 1365,
+        "class": "sword",
+        "type": "sbw,secret"
     },
     {
         "id": "WEP_LEGEND_SW_GG3_BAIKEN_4",
