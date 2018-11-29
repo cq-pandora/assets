@@ -735,8 +735,8 @@
         "original": true
     },
     "TEXT_A_WR_DG_BUGLC_0004": {
-        "text": "You see, I'm not the person you think I am.",
-        "version": "4.7.0",
+        "text": "So, this should be our first meeting.\nNo, would it be the second...?",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_A_WR_DG_BUGLC_0005": {
@@ -18310,12 +18310,12 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_LIMITED_GG_4_1": {
-        "text": "'Y blade', 'Throwing daggers' damage +50%",
+        "text": "'Y Blade' and 'Throwing Daggers' damage increased by 50%.",
         "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_LIMITED_GG_6_1": {
-        "text": "'Y blade', 'Throwing daggers' damage +50%,\nusing block after  'Throwing daggers' activates 'Spiral dagger' (deals magical damage equal to (450/500/550)% of attack power per each dragger)",
+        "text": "'Y Blade' and 'Throwing Daggers\" damage increased by 50%. Using a block skill after using 'Throwing Daggers' activates 'Spiral Dagger,' dealing magical damage equal to (450/500/550)% of attack power per dagger).",
         "version": "4.9.0",
         "original": true
     },
@@ -18505,8 +18505,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_4_15": {
-        "text": "Decreases requirement to activate passive by 2 blocks.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) The number of blocks required to activate Siegfried's passive is decreased by 2.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_4_16": {
@@ -18610,8 +18610,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_15": {
-        "text": "Decreases requirement to activate passive by 2 blocks. Upon using passive, summons an ultimate lance that deals physical damage equal to (750% of hero's resistance and 750% of hero's attack power). (Binds enemies within range of chains for 2 seconds; activated once every 2 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) The number of blocks required to activate Siegfried's passive is decreased by 2.\n(Passive Altered) Siegfried throws a 'paramount lance' that deals physical damage equal to 750% of his resistance and 750% of his attack power. If he hits an enemy bound by his block skill, Siegfried deals  additional physical damage equal to 700% of his attack power. Hit enemies within the range of the chains are immobilized for 2 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_16": {
@@ -19230,8 +19230,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_4_12": {
-        "text": "Sea Dragon' deals additional magical damage equal to 10% of Koxinga's HP, and ignores 35% of the enemy's resistance.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Each 'Sea Dragon' deals additional magical damage equal to 10% of Koxinga's maximum HP, and ignores the enemy's resistance by 50%.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_4_13": {
@@ -19335,8 +19335,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_12": {
-        "text": "Sea Dragon' deals additional magical damage equal to 20% of Koxinga's HP, and ignores 35% of the enemy's resistance. Upon evading 5 hits, Koxinga's 'Sea Dragon' is activated as 'Sword of the Sea God.' The 'Sword of the Sea God' is also summoned at the rear of the enemy when any member of the party succeeds in evading.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Each 'Sea Dragon' deals additional magical damage equal to 20% of Koxinga's maximum HP, and ignores the enemy's resistance by 50%.\n(Passive Altered) The 'Sea Dragon' summoned by Koxinga's second successful evasion is changed to 'Blade of the Sea God.' The 'Blade of the Sea God' is summoned behind the enemy whenever any ally succeeds in evading a hit. (Activates every 1 second.)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_13": {
@@ -19430,8 +19430,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_4_4": {
-        "text": "(Passive activated) Ignores 50% of the enemy's armor for 5 seconds",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) After Johnny throws a coin, regardless of whether it hits a target or not, Johnny ignores 100% of the enemy's armor for 10 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_1": {
@@ -19450,7 +19450,7 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_4": {
-        "text": "(Upon Activating Passive) Ignores 100% of the enemy's armor for 10 seconds, and upon using a block activates 'Joker Trick,' dealing physical damage equal to 3000% of attack power.",
+        "text": "(Passive Enhanced) After Johnny throws a coin, regardless of whether it hits a target or not, Johnny ignores 100% of the enemy's armor for 10 seconds.\n (Passive Enhanced) After Johnny throws a coin, regardless of whether it hits a target or not, Johnny additionally activates \"Joker Trick\" to deal physical damage equal to 3000% of attack power.",
         "version": "4.9.0",
         "original": true
     },
@@ -19530,8 +19530,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_4_12": {
-        "text": "Required number of hits to summon 'Scarecrow' is decreased by 1.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) The number of hits required to summon a scarecrow is decreased by 1.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_4_13": {
@@ -19610,8 +19610,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_6_12": {
-        "text": "Required number of hits to summon 'Scarecrow' is decreased by 1. Upon summoning second 'Spinning Scarecrows,' Demeter immediately summons 'Mecha Scarecrow' for 7 seconds. 'Mecha Scarecrow' deals magical damage equal to 70% of Demeter's attack power every 0.2 seconds, and ignores the enemy's resistance by the same amount of Demeter's resistance.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) The number of hits required to summon a scarecrow is decreased by 2 Upon summoning the second 'Spinning Scarecrow,' Demeter immediately summons a 'State-of-the-Art Scarecrow' for 7 seconds. The 'State-of-the-Art Scarecrow' deals magical damage equal to 86% of Demeter's attack power every 0.2 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_6_13": {
@@ -20070,8 +20070,8 @@
         "original": true
     },
     "TEXT_EXP_BUFF": {
-        "text": "Milk of Growth",
-        "version": "4.7.0",
+        "text": "Elixir",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXP_BUFF_DESC": {
@@ -24045,8 +24045,8 @@
         "original": true
     },
     "TEXT_HERO_GET_TITLE": {
-        "text": "Hero acquired!",
-        "version": "4.7.0",
+        "text": "Hero Obtained!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_HERO_GON_NAME": {
@@ -29285,8 +29285,8 @@
         "original": true
     },
     "TEXT_MINE_SALE_DESC": {
-        "text": "First-come, first-served basis promotion for 2 hours!",
-        "version": "4.7.0",
+        "text": "First-come, first-served basis promotion for 1 hours!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_MINE_SALE_REMAIN_TIME": {
@@ -29295,13 +29295,13 @@
         "original": true
     },
     "TEXT_MINE_SALE_SUBTITLE": {
-        "text": "A New Mine has been discovered!",
-        "version": "4.7.0",
+        "text": "A Special Jewel Mine Package for Returning Captains!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_MINE_SALE_TITLE": {
-        "text": "Jewel Mine discount event!",
-        "version": "4.7.0",
+        "text": "Special 30-Day Jewel Mine",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_MINO_MANAGER_NAME": {
@@ -35450,8 +35450,8 @@
         "original": true
     },
     "TEXT_RAID_NOJEWEL_DESC": {
-        "text": "^cfd5fLeaving lobby to enter store.",
-        "version": "4.7.0",
+        "text": "Leaving lobby to enter store.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_RAID_RESULT_GAMEOVER": {
@@ -35515,8 +35515,8 @@
         "original": true
     },
     "TEXT_RANDOMBOX_GOLD_POCKET_NAME": {
-        "text": "Pouch of Gold",
-        "version": "4.7.0",
+        "text": "Gold Chest",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_RANDOMBOX_HONOR_MESSAGE": {
@@ -38915,8 +38915,8 @@
         "original": true
     },
     "TEXT_SHOP_ITEM_MONTHLY_WARNING_DESC": {
-        "text": "20 Jewels will be given right after the purchase, and Jewels will be sent once a day for 30 days. Unclaimed Jewels will disappear. {0} Purchase?",
-        "version": "4.7.0",
+        "text": "You will receive {0} Jewels upon purchase, and Jewels will be sent once a day for 30 days. Make sure to collect your Jewels everyday - unclaimed Jewels will disappear! Purchase {1}?",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SHOP_ITEM_MONTHLY_WARNING_TITLE": {
@@ -39645,23 +39645,23 @@
         "original": true
     },
     "TEXT_SKILL_AR_GG_CHIPP_SKILL_DESC": {
-        "text": "Uses a Y blade that deals @magical damage@ equal to (120/200/450)% of hero's attack power based on the chain length.",
-        "version": "4.7.0",
+        "text": "Uses a Y Blade that deals @magical damage@ equal to (120/200/450)% of hero's attack power based on the chain length.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_AR_GG_CHIPP_SKILL_LV2_SUBDESC": {
-        "text": "If 'Y Blade' accurately hits an enemy, Chipp Zanuff uses 20 SP to generate 1 block with 50% chance.",
-        "version": "4.7.0",
+        "text": "If 'Y Blade' hits an enemy, Chipp Zanuff generates 1 block at a 50% chance at the cost of 20 SP.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_AR_GG_CHIPP_SKILL_LV3_SUBDESC": {
-        "text": "When 'Y blade' hits enemy, the hero gets 1 block by 75% chance at the cost of 20 SP. Using block after ally use chain-3 will activate 'Throwing daggers' that deals @magical damage@ equal to (80/100/120)% of attack power each and create 1 block.",
-        "version": "4.7.0",
+        "text": "If 'Y Blade' hits an enemy, Chipp Zanuff generates 1 block at a 75% chance at the cost of 20 SP. Additionally, using a block after an ally 3-chain activates 'Throwing Daggers,' dealing magical damage equal to (80/100/120)% of attack power each, and generates 1 block.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_AR_GG_CHIPP_SKILL_NAME": {
-        "text": "Y blade",
-        "version": "4.7.0",
+        "text": "Y Blade",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_AR_GG_CHIPP_SKILL_SUBNAME": {
@@ -40340,13 +40340,13 @@
         "original": true
     },
     "TEXT_SKILL_DG_BUGLC_GOD_S2_DESC": {
-        "text": "Please look forward to it!",
-        "version": "4.7.0",
+        "text": "Thank you for your love and support!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_DG_BUGLC_GOD_S2_NAME": {
-        "text": "Season 2: Coming Soon!",
-        "version": "4.7.0",
+        "text": "4th Anniversary!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_DG_BUGLC_GOD_WORK_DESC": {
@@ -41535,8 +41535,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_CHAIN_BINDING_LV3_SUBDESC": {
-        "text": "Upon using 4 blocks, hero will plunge spear towards enemy and deal #physical damage# equal to 400% of hero's attack power. Enemies already under hero's confinement will receive additional #physical damage# equal to 700% of hero's attack power.",
-        "version": "4.7.0",
+        "text": "With every 4 of his own blocks used, Siegfried charges forward and throws a lance that deals #physical damage# equal to 400% of his attack power. If he hits an enemy immobilized by his block skill, he deals additional #physical damage# equal to 700% of his attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_PA_CHAIN_BINDING_NAME": {
@@ -43570,17 +43570,17 @@
         "original": true
     },
     "TEXT_SKILL_WA_GG_JOHNNY_DESC": {
-        "text": "When block is used, Mist Finer is activated dealing #physical damage# equal to (280/400/600)% of the hero's attack power.",
+        "text": "When Johnny’s block is used, Mist Finer is activated dealing #physical damage# equal to (280/400/600)% of the hero's attack power.",
         "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_GG_JOHNNY_LV2_SUBDESC": {
-        "text": "When an ally or the hero uses a chain-3 skill, a coin is thrown at the enemy. When the coin hits an enemy, the next block skill used will do 30% more damage.",
-        "version": "4.7.0",
+        "text": "When an ally uses a 3-chain, Johnny throws a coin at the enemy. When the coin hits an enemy, Mist Finer's damage increases by 30% for one use.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_GG_JOHNNY_LV3_SUBDESC": {
-        "text": "When an ally or the hero uses a chain-3 skill, a coin is thrown at the enemy. When the coin hits an enemy, the next 2 block skills used will do 100% more damage. After the skill ends, \"That's My Name\" will activate dealing #physical damage# equal to 2000% of the hero's attack power.",
+        "text": "When an ally uses a 3-chain, Johnny throws a coin at the enemy. When the coin hits an enemy, Mist Finer's damage increases by 100% for two uses. After Mist Finer is activated, \"That's My Name\" will activate, dealing #physical damage# equal to 2000% of attack power.",
         "version": "4.9.0",
         "original": true
     },
@@ -44150,8 +44150,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_WATER_SWORD_LV3_SUBDESC": {
-        "text": "When hero uses Water God's Dragon Wave, ally's chance of evasion increases by 20% for 4 seconds. During the activation when ally succeeds in evading an attack, hero summons Water Dragon which deals @magical damage@ equal to 35% of hero HP. (Activated once in every second) When ally successfully evades 5 attacks, hero summons a Water Dragon near the enemy at the rear which decreases their accuracy by 15% additionally.",
-        "version": "4.7.0",
+        "text": "Upon using his block, Koxinga increases the entire team's evasion by 40% and decreases all enemies' accuracy by 40% for 5 seconds. If he succeeds in evading an attack during this time, Koxinga summons a 'Sea Dragon' that deals @magical damage@ equal to 35% of his maximum HP. (Activates every 1 second.) Evading 2 hits will summon a second 'Sea Dragon.' (Activates every 1 second.)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WA_WATER_SWORD_NAME": {
@@ -44505,7 +44505,7 @@
         "original": true
     },
     "TEXT_SKILL_WI_GG_RAMLETHAL_SKILL_LV3_SUBDESC": {
-        "text": "After using her 3-chain after her block skill, Ramlethal uses 'Calvados' to deal @magical damage@ equal to 1400% of attack power and increases critical damage by 20% for 8 seconds. The attack also heals her HP based on 30% of the damage dealt.",
+        "text": "After using her 3-chain after her block skill, Ramlethal uses 'Calvados' to deal @magical damage@ equal to 1400% of attack power and increases critical damage by 30% for 8 seconds. The attack also heals her HP based on 30% of the damage dealt.",
         "version": "4.9.0",
         "original": true
     },
@@ -44530,8 +44530,8 @@
         "original": true
     },
     "TEXT_SKILL_WI_GROW_WHEAT_LV3_SUBDESC": {
-        "text": "When an ally attacks a 'sprouted' enemy 5 times, Demeter summons a 'Spinning Scarecrow' with wheat field for 5 seconds that deals @magical damage@ equal to 30% of her attack power every 0.5 seconds. 'Scarecrows' deal additional @magical damage@ equal to 50% of Demeter's attack power to 'sprouted' enemies. (Maximum 3 scarecrows at once)",
-        "version": "4.7.0",
+        "text": "When an ally attacks a 'sprouted' enemy 5 times, Demeter summons a 'Spinning Scarecrow' in the wheat field that deals @magical damage@ equal to 30% of Demeter's attack power every 0.5 seconds for 5 seconds. 'Scarecrows' deal additional @magical damage@ equal to 50% of Demeter's attack power to 'sprouted' enemies. (Maximum 3 Scarecrows) Upon activating this passive, Demeter's resistance penetration is increased by the same amount as her resistance for 5 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_WI_GROW_WHEAT_NAME": {
@@ -48790,8 +48790,8 @@
         "original": true
     },
     "TEXT_SUBSCENARIO_RESET_DESC": {
-        "text": "Purifying the stage will increase the stage reward. Continue?",
-        "version": "4.7.0",
+        "text": "Purifying a stage will increase its reward. Use Archon's Holy Water to reset the stage?\n(Soul Box contents do not increase.)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SUBSCENARIO_RESET_HELP_DESC": {
@@ -49000,8 +49000,8 @@
         "original": true
     },
     "TEXT_TAP_BUFF_CANNOT_USE": {
-        "text": "No Buff Area",
-        "version": "4.7.0",
+        "text": "Cannot be used.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_TAP_BUFF_ING": {
@@ -62320,8 +62320,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_6_9": {
-        "text": "(Upon activating passive) 'Enhanced Illusion' reduces affected enemies' resistances by 50% for 5s, and deals +100% damage to enemies with debuffs. Additionally, Mondrian summons 'Jangseungs,' instead of Clones dealing magical damage equal to 480% of his attack power per hit.",
-        "version": "4.7.0",
+        "text": "(Upon activating passive) 'Enhanced Illusion' reduces affected enemies' resistances by 50% for 5 seconds, and deals additional +100% damage to enemies with debuffs. Additionally, Mondrian summons 'Jangseungs,' instead of Clones dealing magical damage equal to [100/300/480]% of his attack power per hit.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXPLORE_GOAL": {
@@ -65290,8 +65290,8 @@
         "original": true
     },
     "TEXT_HELP_10211_MAIN_DESC": {
-        "text": "1. Permanently store Chests, Sigils, and Buff Potions.\n2. Up to 999 Chests can be stored in a single slot. A maximum of 10 Chests can be opened at a time.\n3. One Sigil is stored per slot.\n4. Milk of Growth can be used from this menu. Other Buff Potions can be selected in the Battle Preparation menu.",
-        "version": "4.7.0",
+        "text": "1. Permanently store Chests, Sigils, and Buff Potions.\n2. Up to 999 Chests can be stored in a single slot. A maximum of 99 Chests can be opened at a time.\n3. One Sigil is stored per slot.\n4. Milk of Growth can be used from this menu. Other Buff Potions can be selected in the Battle Preparation menu.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_HELP_10212_MAIN": {
@@ -67960,8 +67960,8 @@
         "original": true
     },
     "TEXT_ITEM_ADDSTATITEM_HELP": {
-        "text": "Obtain random berry of a certain grade.",
-        "version": "4.7.0",
+        "text": "Heroes can eat Berries to gain additional stats.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_ITEM_BREAD": {
@@ -67970,13 +67970,13 @@
         "original": true
     },
     "TEXT_ITEM_BREAD_HELP": {
-        "text": "Obtain random bread of a certain grade.",
-        "version": "4.7.0",
+        "text": "Heroes can eat Bread to train and grow stronger.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_ITEM_BUFFITEM": {
-        "text": "Buff Potion",
-        "version": "4.7.0",
+        "text": "Potion",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_ITEM_BUFFITEM_HELP": {
@@ -67990,8 +67990,8 @@
         "original": true
     },
     "TEXT_ITEM_CARVE_STONE_HELP": {
-        "text": "Earn Sigils from strong foes.",
-        "version": "4.7.0",
+        "text": "Open to obtain a random Sigil.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_ITEM_CHOICE_COSTUME": {
@@ -68120,8 +68120,8 @@
         "original": true
     },
     "TEXT_ITEM_INHERIT_BOOK_HELP": {
-        "text": "Obtain random Books of Inheritance.",
-        "version": "4.7.0",
+        "text": "A book containing the power of an ancient Hero. A 6-Star Hero who has reached maximum level and training may read it to \"inherit\" its knowledge and grow stronger.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_ITEM_IRON_HELP": {
@@ -69055,13 +69055,13 @@
         "original": true
     },
     "TEXT_MEAT_PACK_COVER": {
-        "text": "Eat Up! #(3 per Account)#",
-        "version": "4.7.0",
+        "text": "Don't Go Hungry! #(Limit: 2 per week)#",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_MEAT_PACK_DESC": {
-        "text": "Meat and Gold Galore!\nLimited to 3 per Account",
-        "version": "4.7.0",
+        "text": "Great Deal on Meat and Gold! \nOnly available twice a week!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_MEAT_PACK_ITEM1_DESC": {
@@ -70990,8 +70990,8 @@
         "original": true
     },
     "TEXT_RANDOM_INHERITBOOK_HELP": {
-        "text": "Appraise to receive a Book of Inheritance for a random class.",
-        "version": "4.7.0",
+        "text": "Open to obtain a Book of Inheritance for a random class.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_RANDOM_LEGENDARY_WEAPON_6_GRADE_HELP": {
@@ -71035,8 +71035,8 @@
         "original": true
     },
     "TEXT_RANK": {
-        "text": "Rank",
-        "version": "4.7.0",
+        "text": "RANK",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_RANKCHANGE_COMPLETE": {
@@ -73105,8 +73105,8 @@
         "original": true
     },
     "TEXT_S2_EP1_CHALLENGE_NAME": {
-        "text": "Chapter 1 Challenge",
-        "version": "4.7.0",
+        "text": "Episode 1 Challenge",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_S2_GROUP1_DESC": {
@@ -80000,7 +80000,7 @@
         "original": true
     },
     "TEXT_TIME_REMAIN": {
-        "text": "{0} days left",
+        "text": "{0} Left",
         "version": "4.9.0",
         "original": true
     },
@@ -80181,6 +80181,1621 @@
     },
     "TEXT_WEP_LEGEND_SW_GG3_BAIKEN_NAME": {
         "text": "Namakura",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_01_TITLE": {
+        "text": "There are many forms of beauty in the world.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_02_TITLE": {
+        "text": "What could be more beautiful than the strength to defeat an opponent?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_03_TITLE": {
+        "text": "Can you see the beauty of Gothic architecture?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_04_TITLE": {
+        "text": "Feel the beauty of breaking!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_05_TITLE": {
+        "text": "Suitable skills add beauty to any Hero!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_06_TITLE": {
+        "text": "In proving your worth lies true beauty.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_07_TITLE": {
+        "text": "Beauty? You should eat up first!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201811_LIMIT_QUEST_BEAUTY_08_TITLE": {
+        "text": "Nothing is more beautiful than true friendship.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_ACC_GRADE_4": {
+        "text": "Great Accuracy Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_ACC_GRADE_5": {
+        "text": "Hero's Accuracy Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_ARMOR_GRADE_4": {
+        "text": "Great Armor Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_ARMOR_GRADE_5": {
+        "text": "Hero's Armor Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_ATK_GRADE_4": {
+        "text": "Great Attack Power Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_ATK_GRADE_5": {
+        "text": "Hero's Attack Power Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_CRI_DMG_GRADE_4": {
+        "text": "Great Critical Dmg Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_CRI_DMG_GRADE_5": {
+        "text": "Hero's Critical Dmg Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_CRI_GRADE_4": {
+        "text": "Great Critical Chance Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_CRI_GRADE_5": {
+        "text": "Hero's Critical Chance Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_DODGE_GRADE_4": {
+        "text": "Great Evasion Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_DODGE_GRADE_5": {
+        "text": "Hero's Evasion Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_HP_GRADE_4": {
+        "text": "Great HP Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_HP_GRADE_5": {
+        "text": "Hero's HP Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_RES_GRADE_4": {
+        "text": "Great Resistance Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ADDSTAT_RES_GRADE_5": {
+        "text": "Hero's Resistance Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BOOST": {
+        "text": "Boost",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOXLIST_HELP": {
+        "text": "Receive all below items.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_CHALLNGE_EPIC_GRADE1_01_NAME": {
+        "text": "1st Treasure Chest of Trista",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_CHALLNGE_EPIC_GRADE1_02_NAME": {
+        "text": "2nd Treasure Chest of Trista",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_CHALLNGE_EPIC_GRADE1_03_NAME": {
+        "text": "3rd Treasure Chest of Trista",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_CHALLNGE_GRADE1_HELP": {
+        "text": "A chest containing one Unique Sigil from the depths of Trista (\"The Shadows of Trista\").",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_COMMON": {
+        "text": "Normal Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_EPIC": {
+        "text": "Epic Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_LEGENDARY": {
+        "text": "Legendary Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_RANDOM_EPIC_GRADE1_HELP": {
+        "text": "A chest containing a random 1-Star Epic Sigil.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_RANDOM_EPIC_GRADE1_NAME": {
+        "text": "1-Star Epic Sigil Box",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_RARE": {
+        "text": "Rare Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_SET": {
+        "text": "Set Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CARVESTONE_UNIQUE": {
+        "text": "Unique Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_4_25_DESC": {
+        "text": "Lindsey and her engineer father aren't met with too warm a welcome when they immigrate to the kingdom of Trista. Tired of the widespread prejudice towards \"the outsiders,\" the young Lindsey vows to become the greatest sheriff to ever protect the boundaries of Trista - and break the binds of discrimination that continue to taunt her.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_4_25_NAME": {
+        "text": "Lindsey",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_25_DESC": {
+        "text": "It is with sheer determination that Lindsey finally earns the sheriff's badge amidst continuous jeers and taunts. Even after Lindsey becomes a sheriff, only a handful recognize her courage and resolve, others dismissing her as a mere foreigner. Lindsey finally gives in to despair when even her colleagues begin to ostracize her from their daily routines. Despite the dissuasions of her few friends, Lindsey turns in her sheriff's badge and heads back home.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_25_NAME": {
+        "text": "Novice Sheriff Lindsey",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_25_DESC": {
+        "text": "Lindsey's father, having quietly watched Lindsey strive for her dream, finally gives his own advice to his beloved daughter: that the right to prove her own worth belongs to her and her alone, and that no form of prejudice can define her. Lindsey, her determination renewed by her father's words, receives the mechanical bow and explosive arrows that her father crafted just for her. She starts for the Desert by herself, and it is not long before wanted criminals begin to cower before the girl now called 'the Lone Wolf,' the renowned sheriff of Trista and a symbol of hope to everyone with a dream.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_25_NAME": {
+        "text": "Lone Wolf Lindsey",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_23_DESC": {
+        "text": "A natural marksman who was recruited by the Zodiac Army at an early age. When Bellerophon receives an assignment to hunt down a dragon near his hometown, he is elated that he is close to fulfilling his lifelong dream of returning as a glorious and renowned soldier to his hometown. One night, as he keeps watch over the camp, Bellerophon hears a low growl nearby - and discovers a dragon lurking in the darkness. Overcome with awe, he is unable to do anything but watch it fly into the night.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_23_NAME": {
+        "text": "Bellerophon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_23_DESC": {
+        "text": "Bellerophon soon receives news that his hometown has been ravaged by a dragon attack and blames himself for not killing the dragon on sight. Guilt and rage consume the hunter, who swears vengeance on behalf of his village. Bellerophon immerses himself in his job as a monster hunter and slays many fearsome beasts, building a reputation for himself in the meantime. Yet Bellerophon has only one goal in mind: to track down the dragon that nearly destroyed his village and kill it once and for all.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_23_NAME": {
+        "text": "Raid Hunter Bellerophon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_23_DESC": {
+        "text": "Bellerophon's long-awaited battle with the dragon ends with the hunter's victory. Although Athena offers him a lavish reward and a promotion, Bellerophon decides his path lies in helping others and keeping people from harm. He spends the reward not for himself but for those who have been injured by the dragon. In the end, he leaves the Zodiac Army to walk the path of a dragon hunter and a savior of the people.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_23_NAME": {
+        "text": "Dragon Hunter Bellerophon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_23_DESC": {
+        "text": "A Valkyrie of Nosgard who lives for the thrill of the battlefield and the bloodrush that comes from dueling strong opponents. A fierce warrior herself, Randgrid thinks 'weaklings' a complete waste of her time and tends to cruelly dispose of anyone who dares to challenge her and loses.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_23_NAME": {
+        "text": "Randgrid",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_23_DESC": {
+        "text": "Freyja, leader of the Einherjar, acknowledges Randgrid's valor and appoints her as the Vanguard Captain. Randgrid leads her troops against the forces of Odin, claiming victory after victory. However, her excessively cruel attitude toward her captives comes to the attention of King Thor, who orders her to immediately stop any unnecessary violence. Randgrid ignores the command, declaring that she must protect the Einherjar tradition and her own honor.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_23_NAME": {
+        "text": "Randgrid the Vanguard Captain",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_23_DESC": {
+        "text": "All in the wintry lands of Nosgard came to know Randgrid as the 'Fear of the Einherjar.' Yet when Freyja succumbs to King Thor's shocking ultimatum and goes into exile, the Einherjar fall into frenzy. The enraged Randgrid leaves to find Odin. She vows to throw Thor out of his throne - and restore their tradition and glory as they are meant to be...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_23_NAME": {
+        "text": "Randgrid the Feared",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMTED_FOURTH_4_REDNAS_DESC": {
+        "text": "A skilled young knight of Grancia Empire who has shown great talent with a sword from an early age. Her worth, skill, and valor have already been proven during her apprentice years, when she successfully and repeatedly protected important figures of the Order of the Goddess from harm. Even years later, many recall the great competition that took place among the numerous orders and noble families after Lednas's knighting ceremony as each had wished to claim her as their own knight.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMTED_FOURTH_4_REDNAS_NAME": {
+        "text": "Lednas",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMTED_FOURTH_5_REDNAS_DESC": {
+        "text": "Yet despite the expectations of many others, Lednas is assigned as the Hero Captain of Hero Town, a small village in the Empire. Although many knights and nobles express their disappointment at Lednas's \"talent wasting in some country village,\" only a few are aware of the true nature of Lednas's assignment, decreed by the Emperor himself: to investigate and settle a series of inexplicable events occurring near Hero Town.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMTED_FOURTH_5_REDNAS_NAME": {
+        "text": "Lednas",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMTED_FOURTH_6_REDNAS_DESC": {
+        "text": "The \"strange events\" around Hero Town turn out to be far more dangerous than anyone has expected. Heroes begin to lose consciousness and turn on their allies, and Lednas's own troops are not an exception. Lednas, struggling to keep the darkness at bay, requests the Empire for another Hero Captain to aid her efforts. And thus, Lednas comes to cross paths with the new Hero Captain, neither one of them aware that their meeting will change each other's destinies forever.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMTED_FOURTH_6_REDNAS_NAME": {
+        "text": "Lednas",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_23_DESC": {
+        "text": "Han Xiangzi learns quickly - and becomes bored twice as quickly. With seemingly nothing more to study, the prodigy spends all his days lounging about at home and wondering at the extent of his own knowledge. One fateful day, Han Xiangzi catches the attention of He Xiangu, who offers him an opportunity to become their pupil and train for the path of Ethereals. While Han Xiangzi isn't too fond of the idea of training hard for anything, he is certainly interested in becoming an Ethereal, and so sets out with his new teachers.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_23_NAME": {
+        "text": "Han Xiangzi",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_25_DESC": {
+        "text": "A death angel whose job is to guide deceased souls to the underworld. Famous among other death angels - and quite proud of himself as well - for his efficiency and thoroughness, the Grim Reaper is unpleasantly surprised when a soul escapes him for the first time. Upon closer observation, he discovers that the soul had been healed by an unknown healer's spells, allowing it to cross the line back to the realm of living. The Grim Reaper becomes, understandably, quite upset by the turn of events: a stray mark in his otherwise perfect record.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_25_NAME": {
+        "text": "Grim Reaper",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_23_DESC": {
+        "text": "Han Xiangzi meets He Xiangu's expectations, showing natural talent at Ethereal magic. However, the long and arduous training required to become an Ethereal begins to prove tiring to Han Xiangzi - to the point that he declares that he wishes to give up his studies. He Xiangu only laughs as if they have expected such an outcome, and advises Han Xiangzi to embark on a pilgrimage to 'earn his enlightenment.' Han Xiangzi finds the prospect of new adventures agreeable and departs.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_23_NAME": {
+        "text": "Han Xiangzi the Pupil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_25_DESC": {
+        "text": "The Grim Reaper becomes increasingly sensitive to all kinds of healing spells, especially those that play with the boundary of life and death. After what other death angels refer to as 'that day,' the Grim Reaper begins to reap and guide deceased souls to the underworld with a firmer hand, regardless of the healing they received. The Grim Reaper receives a promotion as a result, and becomes \"Manager of Revived and Ill-Placed Souls.\"",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_25_NAME": {
+        "text": "Grim Reaper, the Executioner",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_23_DESC": {
+        "text": "Han Xiangzi soon forgets He Xiangu's advice and lightheartedly continues on his journey. When he comes across a group of merchants besieged by bandits, he rescues them with his magic only to show off his abilities. It is only before the merchants' gratitude that he realizes the joy of helping others for the very first time in his life. When the merchants beg him for his name, the happy Han Xiangzi only gives the short answer of \"an Ethereal\" and vanishes, his teachers' words long forgotten in his mind.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_23_NAME": {
+        "text": "Han Xiangzi the Pilgrim",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_25_DESC": {
+        "text": "Thanks to the Grim Reaper's efforts, the balance between life and death is set straight - or almost so, for attempts to save lives through the power of healing continue. Yet the underworld has nothing to fear with the Grim Reaper doing his job. Even today he travels the battlefields and sickbeds of Hasla, (rather irritably) looking for souls that have met their time and are ready to pass on. No soul escapes the Grim Reaper's eye!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_25_NAME": {
+        "text": "Grim Reaper, Guide of Souls",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_AR_22_27": {
+        "text": "Gothic Genevie",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_AR_19_GOTH": {
+        "text": "Baron of the Night Chiron",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_HU_20_GOTH": {
+        "text": "Goth Girl Luicilla",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_REDNAS_DRESS_FOURTH": {
+        "text": "Lednas of Blue Flowers",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_REDNAS_UNIFORM_FOURTH": {
+        "text": "Lednas in Uniform",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_PA_24_27": {
+        "text": "Cat Girl Yuna",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_WI_24_27": {
+        "text": "Lady of the Night Lakias",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DAILY_QUEST_HARD_SOUL_CLEAR_0001_TITLE": {
+        "text": "Fortress of Raging Souls",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DESTINY_LONG": {
+        "text": "Destiny",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DUNGEON_BUGLC_DESC": {
+        "text": "Rescue the devs from bugs!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_EVENT_SHOP_NOITEM": {
+        "text": "You have exceeded the amount you can purchase.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_MIX_NO_EVENT": {
+        "text": "There are no Crafting Events being held at the moment.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_NOBOX": {
+        "text": "The selected chest cannot be found.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_NOCARVESTONE": {
+        "text": "The selected Sigil cannot be found.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_NOINHERITBOOK": {
+        "text": "The selected Book of Inheritance cannot be found.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_NOMATERIAL": {
+        "text": "The selected material cannot be found.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_STORY_NOT_ENOUGH_REDNAS_LOVE": {
+        "text": "You have not gained enough Affection to acquire the reward.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_STORY_NO_INK": {
+        "text": "You do not have enough resources to continue the story.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_TITLE_MAX_MATERIAL": {
+        "text": "Material Inventory Full",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ERROR_UNABLE_TO_MESSAGE_MAX_MATERIAL": {
+        "text": "You have exceeded the Material Inventory limit!\nGo to manage menu?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_1_DESC": {
+        "text": "Chapter 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_1_NAME": {
+        "text": "Clothes Make the Knight",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_2_DESC": {
+        "text": "Chapter 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_2_NAME": {
+        "text": "Beginning of the Ball",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_3_DESC": {
+        "text": "Chapter 3",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_3_NAME": {
+        "text": "A Grand Commencement",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_4_DESC": {
+        "text": "Chapter 4",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_4_NAME": {
+        "text": "Noble Knight Galahad",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_5_DESC": {
+        "text": "Chapter 5",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_5_NAME": {
+        "text": "Maria's Counseling",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_6_DESC": {
+        "text": "Chapter 6",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_6_NAME": {
+        "text": "Closest Companion?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_7_DESC": {
+        "text": "Chapter 7",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_7_NAME": {
+        "text": "Painful Words",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_8_DESC": {
+        "text": "Final Chapter",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_SEQUENCE_8_NAME": {
+        "text": "The Last Lesson",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_TITLE": {
+        "text": "Crusaders Quest 4th Anniversary Event",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EVENT_FOURTH_TITLE_HIDDEN": {
+        "text": "Could a certain Captain be keeping me from departing?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISHING_FLOAT_SEIREN_DESC": {
+        "text": "A float that looks like Seiren, handmade by a couple in the south.\nHas a reasonable price for a handmade item.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISHING_FLOAT_SEIREN_NAME": {
+        "text": "Seiren Doll",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_GROUND_LC_SECRET_01_DESC": {
+        "text": "A dark and rather cold-looking floor.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_GROUND_LC_SECRET_01_NAME": {
+        "text": "Secret Company LC Floor",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HAVE_LONG": {
+        "text": "Owned",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HELP_BOOST": {
+        "text": "Boosts",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HELP_BOOST_DESC": {
+        "text": "1. Boosts are unlocked after clearing the Kalard Chronicles, Episode 1.\n2. Boosts can be used in Scenario and Challenge Modes.\n3. Using Boosts to clear a stage will cost more Meat than normal play, in proportion to the number of times cleared with Boosts.\n4. Using Boosts to clear a stage will earn you twice the usual reward earned through normal play.\n5. Using Boosts will cost you up to a maximum of 4 times the Meat used in normal play, in accordance to the number of times cleared with Boosts: \n   - 1~3 times cleared: x2 Meat\n   - 4~8 times cleared: x3 Meat\n   - 9+ times cleared: x4 Meat\n6. The daily Boost limit is reset every midnight UTC.\n7. You cannot use Elixirs of the Goddess together with Boosts.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HELP_BUNDLEBOXLIST": {
+        "text": "Obtain all below items.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HELP_MIX": {
+        "text": "Facility: Alchemy Lab",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HELP_MIX_DESC": {
+        "text": "1. Combine certain items and resources to obtain new goods.\n2. Different combinations will result in different items.\n3. Crafting items will cost a crafting fee in accordance to the used materials. Different recipes have different prices!\n4. Crafting requires at least 1 free inventory space.\n5. Materials used in crafting are permanently consumed.\n6. Crafting cannot fail - it will always yield a result.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HELP_SOUL_HARD": {
+        "text": "Side Story: Fortress of Raging Souls",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HELP_SOUL_HARD_DESC": {
+        "text": "1. Acquire additional Soulbound Weapon materials by clearing the Fortress of Raging Souls.\n2. Heroes are selected from the same batch that plays the Fortress of Souls.\n3. Stages of the Fortress of Raging Souls cannot be reset with Jewels.\n4. Corrupted Fragments and Fragments of Danan do not appear in the Fortress of Raging Souls.\n5. You cannot continue playing the stage once you die. A complete restart is the only option available.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_90": {
+        "text": "War of Witches: The Beginning",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_91": {
+        "text": "War of Witches: An Invisible Hand",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_92": {
+        "text": "Book of Magic",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOWTO_CARVE_SLOT": {
+        "text": "Slots Added!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HYPHEN_NAME": {
+        "text": "-",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_INGAME_MIX_TIP": {
+        "text": "Choose a recipe.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_BOX_CHALLENGE_01_HELP": {
+        "text": "A chest containing some of the rarest Sigils from the depths of Trista (\"The Shadows of Trista\").",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_BUNDLEBOX": {
+        "text": "Bundle",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_BUNDLEBOX_HELP": {
+        "text": "You can open bundles to obtain all items within.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_FISHCOIN_HELP": {
+        "text": "Special currency issued by the Hasla Fishing Association. They are used to trade items at the Trading Post.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_FISHING_GEAR_HELP": {
+        "text": "Gear needed for fishing. Catch rarer fish faster with better gear!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_INK": {
+        "text": "Story",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_INK_DESC": {
+        "text": "A resource required to continue the story.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_LOVE_REDNAS": {
+        "text": "Affection",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_LOVE_REDNAS_DESC": {
+        "text": "How does Lednas think of you, Captain?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_MATERIAL": {
+        "text": "Material",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_MATERIAL_HELP": {
+        "text": "Items used for various purposes. They can be sold from your Inventory.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_MONUMENT_HELP": {
+        "text": "Artifacts that can be obtained through fulfilling particular conditions in the game. Once earned, they can be viewed through the Account Information menu and even placed in your Hero Home!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_RANDOMBOX": {
+        "text": "Box",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_STAKE": {
+        "text": "Magic Markers",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_STAKE_HELP": {
+        "text": "Markers containing a magical power. They are used to capture territories in the Great Pumpkin War of Pumpkin City. Whichever team puts the most markers in the ground by the end of each round will capture that patch.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_USAGE_EFFECT": {
+        "text": "Effect",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_WEAPON_03_HELP": {
+        "text": "A chest containing a random 5-Star Normal Weapon.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_BOOKSHELF_01_DESC": {
+        "text": "This bookshelf comes with various books, documents, and - best of all - your own adorable Mew Miniblock!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_BOOKSHELF_01_NAME": {
+        "text": "LC Bookshelf",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_JAIL_01_DESC": {
+        "text": "Rumors whisper of a dark dungeon hidden deep within the lairs of LC, Hasla's most secretive and controversial company...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_JAIL_01_NAME": {
+        "text": "LC Dungeon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_01_DESC": {
+        "text": "A Miniblock toy constructed in the shape of Cat Master Mew.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_01_NAME": {
+        "text": "Mew Miniblock",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_02_DESC": {
+        "text": "A Miniblock toy constructed in the shape of D'Artagnan of Iron Will.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_02_NAME": {
+        "text": "D'Artagnan Miniblock",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_03_DESC": {
+        "text": "A Miniblock toy constructed in the shape of R-0.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_03_NAME": {
+        "text": "R-0 Miniblock",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_04_DESC": {
+        "text": "A Miniblock toy constructed in the shape of Forest Witch Arita.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_MINIBLOCK_04_NAME": {
+        "text": "Arita Miniblock",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_OFFICEDESK_01_DESC": {
+        "text": "Designed with partitions and blinds to maximize anybody's concentration.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_OFFICEDESK_01_NAME": {
+        "text": "LC Office Desk A",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_OFFICEDESK_02_DESC": {
+        "text": "Two monitors are better than one.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_OFFICEDESK_02_NAME": {
+        "text": "LC Office Desk B",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_PARTITION_01_DESC": {
+        "text": "Partitions designed for the office to block out noise and make your work space look good.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_PARTITION_01_NAME": {
+        "text": "Partition",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_PRESENTATION_01_DESC": {
+        "text": "This room has one goal in mind: presentations. Comes with idea boards, laptops, and other cool device necessary for the perfect meeting.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_BOTTOM_PRESENTATION_01_NAME": {
+        "text": "LC Presentation Room",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_CENTER_WINDOW_01_DESC": {
+        "text": "Windows built for a purpose. Their blinds completely block out the light.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_CENTER_WINDOW_01_NAME": {
+        "text": "LC Custom Window A",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_CENTER_WINDOW_02_DESC": {
+        "text": "Windows built for a purpose. They complete the mysterious atmosphere within the office.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_CENTER_WINDOW_02_NAME": {
+        "text": "LC Custom Window B",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_TOP_LIGHT_01_DESC": {
+        "text": "A bright light that warmly shines over any room.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LC_TOP_LIGHT_01_NAME": {
+        "text": "LC Ceiling Light",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LIMITED_LONG": {
+        "text": "Limited",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ALL_02_DESC": {
+        "text": "All Classes (Under LV10)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ALL_02_TITLE": {
+        "text": "Ancient Book 2nd Page",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ARCHER_02_DESC": {
+        "text": "Archers Only (Under LV10)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ARCHER_02_TITLE": {
+        "text": "Sigrun's 2nd Page",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_HUNTER_02_DESC": {
+        "text": "Hunters Only (Under LV10)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_HUNTER_02_TITLE": {
+        "text": "Dalton's 2nd Page",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PALADIN_02_DESC": {
+        "text": "Paladins Only (Under LV10)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PALADIN_02_TITLE": {
+        "text": "Kuhilim's 2nd Page",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PRIEST_02_DESC": {
+        "text": "Priests Only (Under LV10)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PRIEST_02_TITLE": {
+        "text": "Malin's 2nd Page",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WARRIOR_02_DESC": {
+        "text": "Warriors Only (Under LV10)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WARRIOR_02_TITLE": {
+        "text": "Oren's 2nd Page",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WIZARD_02_DESC": {
+        "text": "Wizards Only (Under LV10)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WIZARD_02_TITLE": {
+        "text": "Roxanna's 2nd Page",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_COMPLETE": {
+        "text": "Crafting Complete!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_COUNT_REMAIN": {
+        "text": "Remaining Crafting Count: {0}",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_DETAIL_TITLE": {
+        "text": "Recipes",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_EVENT_DESC": {
+        "text": "The Crafting Event is underway!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_EVENT_RESET_DAY_NOTI": {
+        "text": "Resets Daily",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_EVENT_RESET_WEEK_NOTI": {
+        "text": "Resets Weekly",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_EVENT_USEALL": {
+        "text": "Exceeded Crafting Count Limit",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_LONG": {
+        "text": "Craft",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_POSSIBLE_DESC": {
+        "text": "Possible Recipes ({0})",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_POSSIBLE_FAIL_NOTI": {
+        "text": "Not Enough Material.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TAP_1": {
+        "text": "All",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TAP_2": {
+        "text": "Berry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TAP_3": {
+        "text": "Book",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TAP_4": {
+        "text": "Sigil",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TAP_9": {
+        "text": "Event",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TITLE": {
+        "text": "Alchemy Lab",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TRY_NOTI_DESC": {
+        "text": "Items used in crafting will be permanently consumed. \n\nDo you wish to continue?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MIX_TRY_NOTI_TITLE": {
+        "text": "Confirm Crafting",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_BUGLC_05_DESC": {
+        "text": "Hello, Captains! CQ has already met its fourth anniversary. We thank each and every one of you for your love and support, and promise to make a better CQ for all Captains. We love you!!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_BUGLC_05_NAME": {
+        "text": "CQ 4th Anniversary Letter",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_FOURTH_REDNAS_DESC": {
+        "text": "A full-body doll lovingly crafted in the shape of a very familiar knight. It was found in Saintess Maria's room.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_FOURTH_REDNAS_NAME": {
+        "text": "Lednas Doll",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_RAEL_00_APPEAR": {
+        "text": "Weaklings shall fall\nunder my rage.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_RAEL_00_APPEAR_DESC": {
+        "text": "5% HP Dmg/s to Heroes under Inherit Lv15",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_RAEL_00_APPEAR_NAME": {
+        "text": "Soul Corrosion",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_RAEL_00_DEATH": {
+        "text": "Thieves...! Never shall I forgive you.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_RAEL_00_RUSH_ACT": {
+        "text": "Impudent!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_RAEL_00_SP1_ULT": {
+        "text": "Begone!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_RAEL_00_SP2_ULT": {
+        "text": "Do you tremble at my fury?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_NO_KEY": {
+        "text": null,
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_DEFENSE_DESC": {
+        "text": "Armor, Resistance, Life Steal, SP Heal UP",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_DEFENSE_NAME": {
+        "text": "I shall consume you!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_RAGE_NAME": {
+        "text": "Bow down!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_SP1_DESC": {
+        "text": "Continuous Dmg for 10s",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_SP1_NAME": {
+        "text": "Curse of Vengeance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_SP2_DESC": {
+        "text": "Stronger attack upon hitting Heroes under 10 SP",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_SP2_NAME": {
+        "text": "Soul Predator",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_TIMEOUT_DESC": {
+        "text": "Immediate death in 10s",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_MON_BOSS_RAEL_00_TIMEOUT_NAME": {
+        "text": "It is the end...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_QUEST_RANK": {
+        "text": "Rank",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RAEL_NAME": {
+        "text": "Rael",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_RANDOM_CHALLNGE_GRADE1_NAME": {
+        "text": "Sigil Box of Trista",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_FOURTH": {
+        "text": "4th Anniversary Story",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_FOURTH_1": {
+        "text": "A Letter from the Kingdom",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_FOURTH_2": {
+        "text": "???",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_FOURTH_3": {
+        "text": "To My Dearest",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_SOUL_HARD_1": {
+        "text": "Lord of Souls Rael",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_LINDSEY_DESC": {
+        "text": "Lindsey shoots arrows that deal #physical damage# equal to [200/250/300]% of her attack power to the enemy in the front, according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_LINDSEY_LV2_SUBDESC": {
+        "text": "Upon using her block skill, Lindsey additionally throws two 'fission bombs.' Each 'fission bomb' deals #physical damage# equal to 200% of her attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_LINDSEY_LV3_SUBDESC": {
+        "text": "Upon using her block skill, Lindsey additionally throws two 'fission bombs.' Each 'fission bomb' deals #physical damage# equal to 300% of her attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_LINDSEY_NAME": {
+        "text": "Explosive Arrow",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_LINDSEY_SUBNAME": {
+        "text": "Fission Bomb",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_BELLEROPHON_DESC": {
+        "text": "Bellerophon shoots an explosive bullet that deals @magical damage@ equal to [120/240/360]% of his attack power to a single enemy in the front, according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_BELLEROPHON_LV2_SUBDESC": {
+        "text": "Upon using his 3-chain, Bellerophon deals additional @magical damage@ equal to 300% of the enemy's armor. Hit enemies 'overheat' for 5 seconds, during which they receive 10% increased damage.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_BELLEROPHON_LV3_SUBDESC": {
+        "text": "Upon using his 3-chain, Bellerophon deals additional @magical damage@ equal to 500% of the enemy's armor. Hit enemies 'overheat' for 5 seconds, during which they receive 10% increased damage.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_BELLEROPHON_NAME": {
+        "text": "Explosive Bullet",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_BELLEROPHON_SUBNAME": {
+        "text": "Explosive Shot",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANDGRID_DESC": {
+        "text": "Randgrid immediately leaps towards the nearest enemy and deals #physical damage# equal to [200/350/500]% of her attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANDGRID_LV2_SUBDESC": {
+        "text": "Upon using Randgrid's 3-chain, 'Piercing Obliteration' deals additional #physical damage# equal to 300% of attack power. Additionally, Randgrid gains 400 resistance and knockback immunity for 6 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANDGRID_LV3_SUBDESC": {
+        "text": "Upon using Randgrid's 3-chain, 'Piercing Obliteration' deals additional #physical damage# equal to 500% of attack power. Additionally, Randgrid gains 600 resistance and knockback immunity for 6 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANDGRID_NAME": {
+        "text": "Piercing Obliteration",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANDGRID_SUBNAME": {
+        "text": "Giant Slayer",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_REDNAS_DESC": {
+        "text": "Lednas charges forward to deal #physical damage# equal to [100/150/250]% of her attack power, according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_REDNAS_LV2_SUBDESC": {
+        "text": "Upon using her own block skill, Lednas raises her shield and stands in the position of 'Grancian Shield Combat' for 10 seconds. (Cooltime: 12 seconds) During 'Grancian Shield Combat,' Lednas gets 10% damage reduction and cannot be pushed back, but her movement speed is reduced by 30%. Additionally, her block skill is changed to 'Shield Blow' during 'Grancian Shield Combat':\n\n<Shield Blow>\nUpon using her block skill during 'Grancian Shield Combat,' Lednas charges forth and deals #physical damage# equal to 150% of her attack power to 1 enemy within her range. Hit enemies are knocked back and immobilized for 2 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_REDNAS_LV3_SUBDESC": {
+        "text": "Upon using her own block skill, Lednas raises her shield and stands in the position of 'Grancian Shield Combat' for 10 seconds. (Cooltime: 12 seconds) During 'Grancian Shield Combat,' Lednas gets 20% damage reduction and cannot be pushed back, but her movement speed is reduced by 20%. Additionally, her block skill is changed to 'Shield Blow' during 'Grancian Shield Combat':\n\n<Shield Blow>\nUpon using her block skill during 'Grancian Shield Combat,' Lednas charges forth and deals #physical damage# equal to 150% of her attack power to 1 enemy within her range. Hit enemies are knocked back and immobilized for 3 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_REDNAS_NAME": {
+        "text": "A Knight's Fine Blade",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_REDNAS_SUBNAME": {
+        "text": "Grancian Shield Combat",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GRIMREAPER_DESC": {
+        "text": "The Grim Reaper summons a deadly fog that deals @magical damage@ equal to [200/300/400]% of his attack power per second and lasts [2/3/4] seconds, according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GRIMREAPER_LV2_SUBDESC": {
+        "text": "If any hero is healed during battle, the Grim Reaper leaves the 'Mark of the Reaper' to all enemies within the range of the 'Fog of Death.' The 'Mark of the Reaper' lasts 2 seconds and decreases the enemy's resistance and healing effect by 15%. (Cooltime: 5 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GRIMREAPER_LV3_SUBDESC": {
+        "text": "If any hero is healed during battle, the Grim Reaper leaves the 'Mark of the Reaper' to all enemies within the range of the 'Fog of Death.' The 'Mark of the Reaper' lasts 4 seconds and decreases the enemy's resistance and healing effect by 20%. (Cooltime: 5 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GRIMREAPER_NAME": {
+        "text": "Fog of Death",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_GRIMREAPER_SUBNAME": {
+        "text": "Mark of the Reaper",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_HANSANGJA_DESC": {
+        "text": "Han Xiangzi throws paper talismans that deal @magical damage@ equal to [100/200/300]% of his attack power to the enemy in the front, according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_HANSANGJA_LV2_SUBDESC": {
+        "text": "Regardless of the chain number used, Han Xiangzi leaves a 'Qimen Dunjia' that lasts 6 seconds on enemies hit by 'Heart Spell.' When enemies with a 'Qimen Dunjia' are hit by 'Heart Spell,' the Dunjia renews its duration and deals additional @magical damage@ to the bearer, equal to 100% of Han Xiangzi's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_HANSANGJA_LV3_SUBDESC": {
+        "text": "Regardless of the chain number used, Han Xiangzi leaves a 'Qimen Dunjia' that lasts 6 seconds on enemies hit by 'Heart Spell.' When enemies with a 'Qimen Dunjia' are hit by 'Heart Spell,' the Dunjia renews its duration and deals additional @magical damage@ to the bearer, equal to 150% of Han Xiangzi's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_HANSANGJA_NAME": {
+        "text": "Heart Spell",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_HANSANGJA_SUBNAME": {
+        "text": "Qimen Dunjia",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD": {
+        "text": "Fortress of Raging Souls",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_RESET_NOTI": {
+        "text": "This stage cannot be reset.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_REWARD_01_HELP": {
+        "text": "Obtain all six types of Old Weapons.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_REWARD_01_MESSAGE": {
+        "text": "An Old Weapon Bundle has arrived!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_REWARD_01_NAME": {
+        "text": "Old Weapon Bundle",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_REWARD_02_HELP": {
+        "text": "Obtain all Soul Fragments needed to forge a Soulbound Weapon.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_REWARD_02_MESSAGE": {
+        "text": "A Soul Fragment Bundle has arrived!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_REWARD_02_NAME": {
+        "text": "Soul Fragment Bundle",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_RESET_FALSE_NOTI": {
+        "text": "This floor cannot be purified with Archon's Holy Water.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SOUL_RESET_FALSE_TITLE": {
+        "text": "Cannot Reset",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_UNLOCK_BOOSTMODE": {
+        "text": "You can now use #Boosts#.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_UNLOCK_CHALLENGE": {
+        "text": "You can now enter #Challenge Mode#!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WALL_LC_BOARD_01_DESC": {
+        "text": "Made from slim wooden boards joined together, this wall is surprisingly stronger than it looks. It also gives off a warm vibe.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WALL_LC_BOARD_01_NAME": {
+        "text": "Plywood Wall",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WALL_LC_SECRET_01_DESC": {
+        "text": "Black is the new pink. Welcome to the world of modernism.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WALL_LC_SECRET_01_NAME": {
+        "text": "Secret Company LC Wall",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WALL_LC_STRAIGHT_01_DESC": {
+        "text": "Stripes go with everything, including your walls.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WALL_LC_STRAIGHT_01_NAME": {
+        "text": "Stripe Pattern Wall",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEAPON_CARVE_SLOT_1": {
+        "text": "Slot 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEAPON_CARVE_SLOT_2": {
+        "text": "Slot 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION": {
+        "text": "Weapon Option",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEEKLY_QUEST_HARD_SOUL_CLEAR_0001_TITLE": {
+        "text": "Traitor of Rage",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_25_DESC": {
+        "text": "(Passive Enhanced) Each 'fission bomb' deals physical damage equal to 400% of Lindsey's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_25_NAME": {
+        "text": "Machine Bow",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_25_DESC": {
+        "text": "(Passive Enhanced) Each 'fission bomb' deals physical damage equal to 400% of Lindsey's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_25_NAME": {
+        "text": "Machine Bow MK.2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_25_DESC": {
+        "text": "(Passive Enhanced) Each 'fission bomb' deals physical damage equal to 500% of Lindsey's attack power. Additionally, the number of thrown fission bombs is increased to 3, and their range is increased by 100%.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_25_NAME": {
+        "text": "Blast Bow",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_23_DESC": {
+        "text": "(Passive Enhanced) 'Overheated' enemies receive 20% increased damage.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_23_NAME": {
+        "text": "Monstrous Gun",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_23_DESC": {
+        "text": "(Passive Enhanced) 'Overheated' enemies receive 20% increased damage.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_23_NAME": {
+        "text": "Monstrous Raid Gun",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_23_DESC": {
+        "text": "(Passive Enhanced) 'Overheated' enemies receive 30% increased damage.\n(Passive Added) When attacking 'overheated' enemies, Bellerophon deals additional magical damage equal to 800% of his attack power to all enemies within the target's area. (Cooltime: 1 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_23_NAME": {
+        "text": "Draconic Cannon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_23_DESC": {
+        "text": "(Passive Enhanced) 'Qimen Dunjia' deals increased magical damage equal to 200% of Han Xiangzi's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_23_NAME": {
+        "text": "Pupil's Staff",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_25_DESC": {
+        "text": "(Passive Enhanced) The 'Mark of the Reaper' decreases the enemy's resistance and healing effect by 25%.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_25_NAME": {
+        "text": "Scythe of the Death Angel",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_23_DESC": {
+        "text": "(Passive Enhanced) 'Qimen Dunjia' deals increased magical damage equal to 200% of Han Xiangzi's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_23_NAME": {
+        "text": "Pilgrim's Staff",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_25_DESC": {
+        "text": "(Passive Enhanced) The 'Mark of the Reaper' decreases the enemy's resistance and healing effect by 25%.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_25_NAME": {
+        "text": "Scythe of the Executioner",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_23_DESC": {
+        "text": "(Passive Enhanced) 'Qimen Dunjia' deals increased magical damage equal to 300% of Han Xiangzi's attack power.\n(Passive Added) Upon using an ally's special skill, the 'Qimen Dunjia' will transform into a different object depending on the caster of the special skill and immediately attack the enemy. (Cooltime: 3 seconds)\nIf Activated by Ally Leader's Special Skill: The 'Qimen Dunjia' will transform into a rock, dealing magical damage equal to 1000% of Han Xiangzi's attack power and stunning the enemy for 1.5 seconds.\nIf Activated by Non-Leader Ally's Special Skill: The 'Qimen Dunjia' will change into a liquor bottle, dealing magical damage equal to 500% of Han Xiangzi's attack power and decreasing the enemy's accuracy by 50% for 3 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_23_NAME": {
+        "text": "Ethereal's Wisdom",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_25_DESC": {
+        "text": "(Block Skill Enhanced) The range of 'Fog of Death' is increased by 100%.\n (Passive Enhanced) The 'Mark of the Reaper' decreases the enemy's resistance and healing received by 30%.\n (Passive Added) The Grim Reaper summons a Death Specter over the head of the nearest enemy to the 'Mark of the Reaper.' The Death Specter swings his scythe at enemies in front to deal magical damage equal to 1000% of the Grim Reaper's attack power. (Cooltime: 2 seconds) Additionally, if the Death Specter's scythe lands an accurate hit, the Grim Reaper's attack power increases by 5% with every hit enemy. (Duration 10 seconds, maximum 10 stacks)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_25_NAME": {
+        "text": "Death Scythe",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_23_DESC": {
+        "text": "(Passive Enhanced) 'Giant Slayer' deals increased damage equal to 600% of Randgrid's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_23_NAME": {
+        "text": "Dull Greatsword",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_23_DESC": {
+        "text": "(Passive Enhanced) 'Giant Slayer' deals increased damage equal to 600% of Randgrid's attack power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_23_NAME": {
+        "text": "Greatsword of Obliteration",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_23_DESC": {
+        "text": "(Passive Enhanced) 'Giant Slayer' deals increased damage equal to 1000% of Randgrid's attack power.\n(Passive Added) Enemies hit by 'Giant Slayer' lose 60% of their armor for 6 seconds.\nUpon using 'Piercing Obliteration' with a 3-chain, the 'Blade of the Einherjar' flies at the enemy in the front to deal physical damage equal to 800% of her attack power. Hit enemies are stunned for 1.5 seconds. (Cooltime: 3 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_23_NAME": {
+        "text": "Shieldbreaker",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_4_DESC": {
+        "text": "(Passive Enhanced) 'Grancian Shield Combat' grants 25% damage reduction. Lednas receives all damage targeted at the entire party. This effect cannot be cancelled.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_4_NAME": {
+        "text": "Bradamante",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_5_DESC": {
+        "text": "(Passive Enhanced) 'Grancian Shield Combat' grants 25% damage reduction. Lednas receives all damage targeted at the entire party. This effect cannot be cancelled.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_5_NAME": {
+        "text": "Bradamante",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_6_DESC": {
+        "text": "(Passive Enhanced) 'Grancian Shield Combat' grants 25% damage reduction. Lednas receives all damage targeted at the entire party. This effect cannot be cancelled.\n(Passive Added) Upon using 'Grancian Shield Combat,' Lednas immediately activates 'Crest of Protection,' which grants herself 50% damage reduction for 3 seconds. (Cooltime: 12 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_6_NAME": {
+        "text": "Bradamante",
         "version": "4.9.0",
         "original": true
     }
