@@ -1,5 +1,33 @@
 [
     {
+        "id": "ADDSTAT_ACC_GRADE_4",
+        "name": "TEXT_ADDSTAT_ACC_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "accuracy",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_FUNC_02_04",
+        "category": "util",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_ACC_GRADE_5",
+        "name": "TEXT_ADDSTAT_ACC_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "accuracy",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_FUNC_02_05",
+        "category": "util",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_ACC_LEGEND",
         "name": "TEXT_ADDSTAT_ACC_LEGEND",
         "rarity": "legendary",
@@ -8,7 +36,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_FUNC_02_04",
+        "image": "ui_addstat_FUNC_02_06",
         "category": "util",
         "sell_cost": 30000,
         "eat_cost": 0
@@ -98,6 +126,34 @@
         "eat_cost": 6000
     },
     {
+        "id": "ADDSTAT_ARMOR_GRADE_4",
+        "name": "TEXT_ADDSTAT_ARMOR_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "armor",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_DEF_02_04",
+        "category": "def",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_ARMOR_GRADE_5",
+        "name": "TEXT_ADDSTAT_ARMOR_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "armor",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_DEF_02_05",
+        "category": "def",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_ARMOR_LEGEND",
         "name": "TEXT_ADDSTAT_ARMOR_LEGEND",
         "rarity": "legendary",
@@ -106,7 +162,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_DEF_02_04",
+        "image": "ui_addstat_DEF_02_06",
         "category": "def",
         "sell_cost": 30000,
         "eat_cost": 0
@@ -154,6 +210,34 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_ATK_GRADE_4",
+        "name": "TEXT_ADDSTAT_ATK_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "atk_power",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_ATK_01_04",
+        "category": "atk",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_ATK_GRADE_5",
+        "name": "TEXT_ADDSTAT_ATK_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "atk_power",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_ATK_01_05",
+        "category": "atk",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_ATK_LEGEND",
         "name": "TEXT_ADDSTAT_ATK_LEGEND",
         "rarity": "legendary",
@@ -162,7 +246,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_ATK_01_04",
+        "image": "ui_addstat_ATK_01_06",
         "category": "atk",
         "sell_cost": 30000,
         "eat_cost": 0
@@ -210,6 +294,34 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_CRI_DMG_GRADE_4",
+        "name": "TEXT_ADDSTAT_CRI_DMG_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "crit_dmg",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_ATK_02_04",
+        "category": "atk",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_CRI_DMG_GRADE_5",
+        "name": "TEXT_ADDSTAT_CRI_DMG_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "crit_dmg",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_ATK_02_05",
+        "category": "atk",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_CRI_DMG_LEGEND",
         "name": "TEXT_ADDSTAT_CRI_DMG_LEGEND",
         "rarity": "legendary",
@@ -218,7 +330,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_ATK_02_04",
+        "image": "ui_addstat_ATK_02_06",
         "category": "atk",
         "sell_cost": 30000,
         "eat_cost": 0
@@ -266,6 +378,34 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_CRI_GRADE_4",
+        "name": "TEXT_ADDSTAT_CRI_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "crit_chance",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_FUNC_01_04",
+        "category": "util",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_CRI_GRADE_5",
+        "name": "TEXT_ADDSTAT_CRI_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "crit_chance",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_FUNC_01_05",
+        "category": "util",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_CRI_LEGEND",
         "name": "TEXT_ADDSTAT_CRI_LEGEND",
         "rarity": "legendary",
@@ -274,7 +414,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_FUNC_01_04",
+        "image": "ui_addstat_FUNC_01_06",
         "category": "util",
         "sell_cost": 30000,
         "eat_cost": 0
@@ -322,6 +462,34 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_DODGE_GRADE_4",
+        "name": "TEXT_ADDSTAT_DODGE_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "evasion",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_FUNC_03_04",
+        "category": "util",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_DODGE_GRADE_5",
+        "name": "TEXT_ADDSTAT_DODGE_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "evasion",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_FUNC_03_05",
+        "category": "util",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_DODGE_LEGEND",
         "name": "TEXT_ADDSTAT_DODGE_LEGEND",
         "rarity": "legendary",
@@ -330,7 +498,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_FUNC_03_04",
+        "image": "ui_addstat_FUNC_03_06",
         "category": "util",
         "sell_cost": 30000,
         "eat_cost": 0
@@ -546,6 +714,34 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_HP_GRADE_4",
+        "name": "TEXT_ADDSTAT_HP_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "hp",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_DEF_03_04",
+        "category": "def",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_HP_GRADE_5",
+        "name": "TEXT_ADDSTAT_HP_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "hp",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_DEF_03_05",
+        "category": "def",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_HP_LEGEND",
         "name": "TEXT_ADDSTAT_HP_LEGEND",
         "rarity": "legendary",
@@ -554,7 +750,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_DEF_03_04",
+        "image": "ui_addstat_DEF_03_06",
         "category": "def",
         "sell_cost": 30000,
         "eat_cost": 0
@@ -602,6 +798,34 @@
         "eat_cost": 2000
     },
     {
+        "id": "ADDSTAT_RES_GRADE_4",
+        "name": "TEXT_ADDSTAT_RES_GRADE_4",
+        "rarity": "rare",
+        "target_stat": "resistance",
+        "is_percentage": true,
+        "value": 0.1,
+        "great_chance": 0,
+        "grade": 4,
+        "image": "ui_addstat_DEF_01_04",
+        "category": "def",
+        "sell_cost": 5000,
+        "eat_cost": 12000
+    },
+    {
+        "id": "ADDSTAT_RES_GRADE_5",
+        "name": "TEXT_ADDSTAT_RES_GRADE_5",
+        "rarity": "rare",
+        "target_stat": "resistance",
+        "is_percentage": true,
+        "value": 0.4,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "ui_addstat_DEF_01_05",
+        "category": "def",
+        "sell_cost": 8000,
+        "eat_cost": 20000
+    },
+    {
         "id": "ADDSTAT_RES_LEGEND",
         "name": "TEXT_ADDSTAT_RES_LEGEND",
         "rarity": "legendary",
@@ -610,7 +834,7 @@
         "value": 1,
         "great_chance": 0,
         "grade": 6,
-        "image": "ui_addstat_DEF_01_04",
+        "image": "ui_addstat_DEF_01_06",
         "category": "def",
         "sell_cost": 30000,
         "eat_cost": 0
