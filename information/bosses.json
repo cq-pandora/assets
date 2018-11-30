@@ -8874,6 +8874,23 @@
         "dmg_reduction": 0
     },
     {
+        "id": "MON_BOSS_RAEL_00",
+        "name": "TEXT_RAEL_NAME",
+        "image": "mon_rael",
+        "atk_power": 5500,
+        "hp": 1500000,
+        "crit_chance": 0.4,
+        "armor": 2000,
+        "resistance": 2000,
+        "crit_dmg": 0.7,
+        "accuracy": 0.8,
+        "evasion": 0.4,
+        "lifesteal": 0,
+        "armor_pen": 2000,
+        "resistance_pen": 2000,
+        "dmg_reduction": 0.4
+    },
+    {
         "id": "MON_BOSS_RAT_BIG",
         "name": "TEXT_MON_BOSS_RAT_BIG_NAME",
         "image": "mon_rat_big",

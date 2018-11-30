@@ -1,9 +1,8 @@
-{
-    "FISH_FRESHWATER_PIRAMI": {
+[
+    {
         "id": "FISH_FRESHWATER_PIRAMI",
         "name": "TEXT_FISH_FRESHWATER_PIRAMI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_PIRAMI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
@@ -17,15 +16,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_NORMALFROG": {
+    {
         "id": "FISH_FRESHWATER_NORMALFROG",
         "name": "TEXT_FISH_FRESHWATER_NORMALFROG_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_NORMALFROG_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 1,
+        "starts_from": 0.8,
         "image": "fish_freshwater_1_normalfrog",
         "exp": 40,
         "rewards": [
@@ -35,15 +33,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_GUPPY": {
+    {
         "id": "FISH_FRESHWATER_GUPPY",
         "name": "TEXT_FISH_FRESHWATER_GUPPY_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_GUPPY_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 3,
+        "starts_from": 0.6,
         "image": "fish_freshwater_1_guppy",
         "exp": 40,
         "rewards": [
@@ -53,15 +50,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_CANDIRU": {
+    {
         "id": "FISH_FRESHWATER_CANDIRU",
         "name": "TEXT_FISH_FRESHWATER_CANDIRU_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_CANDIRU_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 3,
+        "starts_from": 2.2,
         "image": "fish_freshwater_1_candiru",
         "exp": 40,
         "rewards": [
@@ -71,15 +67,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_GRILLEDFISH": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_GRILLEDFISH",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_GRILLEDFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_GRILLEDFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 3,
+        "starts_from": 2,
         "image": "fish_freshwater_1_origin_grilledfish",
         "exp": 40,
         "rewards": [
@@ -89,15 +84,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_MIGGURAGI": {
+    {
         "id": "FISH_FRESHWATER_MIGGURAGI",
         "name": "TEXT_FISH_FRESHWATER_MIGGURAGI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_MIGGURAGI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 2.2,
+        "starts_from": 3,
         "image": "fish_freshwater_1_migguragi",
         "exp": 110,
         "rewards": [
@@ -107,15 +101,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_GAJAE": {
+    {
         "id": "FISH_FRESHWATER_GAJAE",
         "name": "TEXT_FISH_FRESHWATER_GAJAE_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_GAJAE_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 3.6,
+        "starts_from": 1,
         "image": "fish_freshwater_1_gajae",
         "exp": 240,
         "rewards": [
@@ -125,15 +118,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_GOLDFISH": {
+    {
         "id": "FISH_FRESHWATER_GOLDFISH",
         "name": "TEXT_FISH_FRESHWATER_GOLDFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_GOLDFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 2.64,
+        "starts_from": 2,
         "image": "fish_freshwater_2_goldfish",
         "exp": 198,
         "rewards": [
@@ -143,15 +135,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BULLFROG": {
+    {
         "id": "FISH_FRESHWATER_BULLFROG",
         "name": "TEXT_FISH_FRESHWATER_BULLFROG_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BULLFROG_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 3.96,
+        "starts_from": 3,
         "image": "fish_freshwater_2_bullfrog",
         "exp": 198,
         "rewards": [
@@ -161,15 +152,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_MINMOOLNABIGOGI": {
+    {
         "id": "FISH_FRESHWATER_MINMOOLNABIGOGI",
         "name": "TEXT_FISH_FRESHWATER_MINMOOLNABIGOGI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_MINMOOLNABIGOGI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 2,
         "image": "fish_freshwater_2_minmoolnabigogi",
         "exp": 198,
         "rewards": [
@@ -179,15 +169,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_PIRANHA": {
+    {
         "id": "FISH_FRESHWATER_PIRANHA",
         "name": "TEXT_FISH_FRESHWATER_PIRANHA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_PIRANHA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 4.4,
         "image": "fish_freshwater_2_piranha",
         "exp": 198,
         "rewards": [
@@ -197,15 +186,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_MORAEMOOJI": {
+    {
         "id": "FISH_FRESHWATER_MORAEMOOJI",
         "name": "TEXT_FISH_FRESHWATER_MORAEMOOJI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_MORAEMOOJI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 3.96,
+        "starts_from": 4,
         "image": "fish_freshwater_2_moraemooji",
         "exp": 198,
         "rewards": [
@@ -215,15 +203,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_HALFMOON": {
+    {
         "id": "FISH_FRESHWATER_HALFMOON",
         "name": "TEXT_FISH_FRESHWATER_HALFMOON_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_HALFMOON_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 1.2,
         "image": "fish_freshwater_2_halfmoon",
         "exp": 198,
         "rewards": [
@@ -233,15 +220,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BUDDLEBUNGFISH": {
+    {
         "id": "FISH_FRESHWATER_BUDDLEBUNGFISH",
         "name": "TEXT_FISH_FRESHWATER_BUDDLEBUNGFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BUDDLEBUNGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 1,
         "image": "fish_freshwater_2_buddlebungfish",
         "exp": 198,
         "rewards": [
@@ -251,15 +237,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_FIREFISH": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_FIREFISH",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_FIREFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_FIREFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 2.6,
         "image": "fish_freshwater_2_origin_firefish",
         "exp": 198,
         "rewards": [
@@ -269,15 +254,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_STEAMBUSHIRI": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_STEAMBUSHIRI",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_STEAMBUSHIRI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_STEAMBUSHIRI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 16,
         "image": "fish_freshwater_2_origin_steamyellowtailkingfish",
         "exp": 198,
         "rewards": [
@@ -287,15 +271,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_TILAPIA": {
+    {
         "id": "FISH_FRESHWATER_TILAPIA",
         "name": "TEXT_FISH_FRESHWATER_TILAPIA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_TILAPIA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 17.42,
+        "starts_from": 7.2,
         "image": "fish_freshwater_2_tilapia",
         "exp": 290,
         "rewards": [
@@ -305,15 +288,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BROWNSONGA": {
+    {
         "id": "FISH_FRESHWATER_BROWNSONGA",
         "name": "TEXT_FISH_FRESHWATER_BROWNSONGA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BROWNSONGA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 28.51,
+        "starts_from": 14,
         "image": "fish_freshwater_2_brownsonga",
         "exp": 448,
         "rewards": [
@@ -323,15 +305,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_RAINBOWSONGA": {
+    {
         "id": "FISH_FRESHWATER_RAINBOWSONGA",
         "name": "TEXT_FISH_FRESHWATER_RAINBOWSONGA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_RAINBOWSONGA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 14.25,
+        "starts_from": 10,
         "image": "fish_freshwater_2_rainbowsonga",
         "exp": 448,
         "rewards": [
@@ -341,15 +322,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BUNGFISH": {
+    {
         "id": "FISH_FRESHWATER_BUNGFISH",
         "name": "TEXT_FISH_FRESHWATER_BUNGFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BUNGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 9.5,
+        "starts_from": 4.6,
         "image": "fish_freshwater_2_bungfish",
         "exp": 448,
         "rewards": [
@@ -359,15 +339,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_PACU": {
+    {
         "id": "FISH_FRESHWATER_PACU",
         "name": "TEXT_FISH_FRESHWATER_PACU_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_PACU_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 28.51,
+        "starts_from": 10,
         "image": "fish_freshwater_2_pacu",
         "exp": 448,
         "rewards": [
@@ -377,15 +356,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_TRUEBUNGFISH": {
+    {
         "id": "FISH_FRESHWATER_TRUEBUNGFISH",
         "name": "TEXT_FISH_FRESHWATER_TRUEBUNGFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_TRUEBUNGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 20.59,
+        "starts_from": 4,
         "image": "fish_freshwater_2_truebungfish",
         "exp": 686,
         "rewards": [
@@ -395,15 +373,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_DONGJAGAE": {
+    {
         "id": "FISH_FRESHWATER_DONGJAGAE",
         "name": "TEXT_FISH_FRESHWATER_DONGJAGAE_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_DONGJAGAE_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 7.56,
+        "starts_from": 3,
         "image": "fish_freshwater_3_dongjagae",
         "exp": 672,
         "rewards": [
@@ -413,15 +390,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BAEKRYUNFISH": {
+    {
         "id": "FISH_FRESHWATER_BAEKRYUNFISH",
         "name": "TEXT_FISH_FRESHWATER_BAEKRYUNFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BAEKRYUNFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 33.26,
+        "starts_from": 12,
         "image": "fish_freshwater_3_baekryunfish",
         "exp": 818,
         "rewards": [
@@ -431,15 +407,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_LAVATUNA": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_LAVATUNA",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_LAVATUNA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_LAVATUNA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 33.26,
+        "starts_from": 40,
         "image": "fish_freshwater_3_origin_lavatuna",
         "exp": 818,
         "rewards": [
@@ -449,15 +424,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_FIREGAEBOKCHI": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_FIREGAEBOKCHI",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_FIREGAEBOKCHI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_FIREGAEBOKCHI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 33.26,
+        "starts_from": 60,
         "image": "fish_freshwater_3_firesunfish",
         "exp": 818,
         "rewards": [
@@ -467,15 +441,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_HYANGFISH": {
+    {
         "id": "FISH_FRESHWATER_HYANGFISH",
         "name": "TEXT_FISH_FRESHWATER_HYANGFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_HYANGFISH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 3,
-        "starts_from": 18.14,
+        "starts_from": 6,
         "image": "fish_freshwater_3_hyangfish",
         "exp": 1036,
         "rewards": [
@@ -485,15 +458,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BLUEGILL": {
+    {
         "id": "FISH_FRESHWATER_BLUEGILL",
         "name": "TEXT_FISH_FRESHWATER_BLUEGILL_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BLUEGILL_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 27.21,
+        "starts_from": 4,
         "image": "fish_freshwater_3_bluegill",
         "exp": 1036,
         "rewards": [
@@ -503,15 +475,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_SILVERAROWANA": {
+    {
         "id": "FISH_FRESHWATER_SILVERAROWANA",
         "name": "TEXT_FISH_FRESHWATER_AROWANA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_AROWANA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 54.43,
+        "starts_from": 12,
         "image": "fish_freshwater_3_silverarowana",
         "exp": 1036,
         "rewards": [
@@ -521,15 +492,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_COLORINGFISH": {
+    {
         "id": "FISH_FRESHWATER_COLORINGFISH",
         "name": "TEXT_FISH_FRESHWATER_COLORINGFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_COLORINGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 39.31,
+        "starts_from": 12,
         "image": "fish_freshwater_3_coloringfish",
         "exp": 1342,
         "rewards": [
@@ -539,15 +509,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_SNAKEHEAD": {
+    {
         "id": "FISH_FRESHWATER_SNAKEHEAD",
         "name": "TEXT_FISH_FRESHWATER_SNAKEHEAD_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_SNAKEHEAD_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 78.62,
+        "starts_from": 15.6,
         "image": "fish_freshwater_3_snakehead",
         "exp": 1342,
         "rewards": [
@@ -557,15 +526,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BASS": {
+    {
         "id": "FISH_FRESHWATER_BASS",
         "name": "TEXT_FISH_FRESHWATER_BASS_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BASS_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 3,
-        "starts_from": 26.2,
+        "starts_from": 8,
         "image": "fish_freshwater_3_bass",
         "exp": 1342,
         "rewards": [
@@ -575,15 +543,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_CHOFISH": {
+    {
         "id": "FISH_FRESHWATER_CHOFISH",
         "name": "TEXT_FISH_FRESHWATER_CHOFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_CHOFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 78.62,
+        "starts_from": 24,
         "image": "fish_freshwater_3_chofish",
         "exp": 1342,
         "rewards": [
@@ -593,15 +560,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_DESERTEEL": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_DESERTEEL",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTEEL_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTEEL_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 78.62,
+        "starts_from": 12,
         "image": "fish_freshwater_3_origin_deserteel",
         "exp": 1342,
         "rewards": [
@@ -611,15 +577,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_BLACKAROWANA": {
+    {
         "id": "FISH_FRESHWATER_BLACKAROWANA",
         "name": "TEXT_FISH_FRESHWATER_BLACKAROWANA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_BLACKAROWANA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 78.62,
+        "starts_from": 12,
         "image": "fish_freshwater_3_blackarowana",
         "exp": 1342,
         "rewards": [
@@ -629,15 +594,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_GOLDHALFMOON": {
+    {
         "id": "FISH_FRESHWATER_GOLDHALFMOON",
         "name": "TEXT_FISH_FRESHWATER_GOLDHALFMOON_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_GOLDHALFMOON_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 3,
-        "starts_from": 136.08,
+        "starts_from": 1.2,
         "image": "fish_freshwater_3_goldhalfmoon",
         "exp": 2268,
         "rewards": [
@@ -647,15 +611,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_SSOGARI": {
+    {
         "id": "FISH_FRESHWATER_SSOGARI",
         "name": "TEXT_FISH_FRESHWATER_SSOGARI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_SSOGARI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 4,
-        "starts_from": 12.48,
+        "starts_from": 10.8,
         "image": "fish_freshwater_4_ssogari",
         "exp": 1690,
         "rewards": [
@@ -665,15 +628,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_FLAMEAROWANA": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_FLAMEAROWANA",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_FLAMEAROWANA_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_FLAMEAROWANA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 4,
-        "starts_from": 54.91,
+        "starts_from": 15,
         "image": "fish_freshwater_4_origin_flamedragonarowana",
         "exp": 1944,
         "rewards": [
@@ -683,15 +645,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_DESERTDRAGON": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_DESERTDRAGON",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTDRAGON_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTDRAGON_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 4,
-        "starts_from": 89.86,
+        "starts_from": 30,
         "image": "fish_freshwater_4_origin_desertdragon",
         "exp": 2278,
         "rewards": [
@@ -701,15 +662,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_CHULGAPSHARK": {
+    {
         "id": "FISH_FRESHWATER_CHULGAPSHARK",
         "name": "TEXT_FISH_FRESHWATER_CHULGAPSHARK_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_CHULGAPSHARK_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 4,
-        "starts_from": 129.79,
+        "starts_from": 40,
         "image": "fish_freshwater_4_chulgapshark",
         "exp": 2704,
         "rewards": [
@@ -719,15 +679,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_PADDLEFISH": {
+    {
         "id": "FISH_FRESHWATER_PADDLEFISH",
         "name": "TEXT_FISH_FRESHWATER_PADDLEFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_PADDLEFISH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 4,
-        "starts_from": 129.79,
+        "starts_from": 21,
         "image": "fish_freshwater_4_paddlefish",
         "exp": 2704,
         "rewards": [
@@ -737,15 +696,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_REDTAILCATFISH": {
+    {
         "id": "FISH_FRESHWATER_REDTAILCATFISH",
         "name": "TEXT_FISH_FRESHWATER_REDTAILCATFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_REDTAILCATFISH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 4,
-        "starts_from": 87.36,
+        "starts_from": 20,
         "image": "fish_freshwater_4_redtailcatfish",
         "exp": 3240,
         "rewards": [
@@ -755,15 +713,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_GOLDENSSOGARI": {
+    {
         "id": "FISH_FRESHWATER_GOLDENSSOGARI",
         "name": "TEXT_FISH_FRESHWATER_GOLDENSSOGARI_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_GOLDENSSOGARI_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 4,
-        "starts_from": 87.36,
+        "starts_from": 8,
         "image": "fish_freshwater_4_goldenssogari",
         "exp": 3240,
         "rewards": [
@@ -773,15 +730,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_DESERTCATFISH": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_DESERTCATFISH",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTCATFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_DESERTCATFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 4,
-        "starts_from": 174.72,
+        "starts_from": 16,
         "image": "fish_freshwater_4_origin_desertcatfish",
         "exp": 3240,
         "rewards": [
@@ -791,15 +747,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_FIRESAILFISH": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_FIRESAILFISH",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_FIRESAILFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_FIRESAILFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 5,
-        "starts_from": 83.16,
+        "starts_from": 56,
         "image": "fish_freshwater_5_origin_firesailfish",
         "exp": 3974,
         "rewards": [
@@ -809,15 +764,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_LUNGFISH": {
+    {
         "id": "FISH_FRESHWATER_LUNGFISH",
         "name": "TEXT_FISH_FRESHWATER_LUNGFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_LUNGFISH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 264.6,
+        "starts_from": 20,
         "image": "fish_freshwater_5_lungfish",
         "exp": 5880,
         "rewards": [
@@ -827,15 +781,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_PIRARUCU": {
+    {
         "id": "FISH_FRESHWATER_PIRARUCU",
         "name": "TEXT_FISH_FRESHWATER_PIRARUCU_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_PIRARUCU_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 264.6,
+        "starts_from": 60,
         "image": "fish_freshwater_5_pirarucu",
         "exp": 5880,
         "rewards": [
@@ -845,15 +798,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_TIGERFISH": {
+    {
         "id": "FISH_FRESHWATER_TIGERFISH",
         "name": "TEXT_FISH_FRESHWATER_TIGERFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_TIGERFISH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 264.6,
+        "starts_from": 30,
         "image": "fish_freshwater_5_tigerfish",
         "exp": 5880,
         "rewards": [
@@ -863,15 +815,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ELECTRICEEL": {
+    {
         "id": "FISH_FRESHWATER_ELECTRICEEL",
         "name": "TEXT_FISH_FRESHWATER_ELECTRICEEL_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ELECTRICEEL_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 264.6,
+        "starts_from": 33,
         "image": "fish_freshwater_5_electriceel",
         "exp": 5880,
         "rewards": [
@@ -881,15 +832,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_KINGCATFISH": {
+    {
         "id": "FISH_FRESHWATER_KINGCATFISH",
         "name": "TEXT_FISH_FRESHWATER_KINGCATFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_KINGCATFISH_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 5,
-        "starts_from": 378,
+        "starts_from": 40,
         "image": "fish_freshwater_5_kingcatfish",
         "exp": 10122,
         "rewards": [
@@ -899,15 +849,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_WELSCATFISH": {
+    {
         "id": "FISH_FRESHWATER_WELSCATFISH",
         "name": "TEXT_FISH_FRESHWATER_WELSCATFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_WELSCATFISH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 340.2,
+        "starts_from": 54,
         "image": "fish_freshwater_5_welscatfish",
         "exp": 6762,
         "rewards": [
@@ -917,15 +866,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_LAVAICEFISH": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_LAVAICEFISH",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_LAVAICEFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_LAVAICEFISH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 340.2,
+        "starts_from": 3.6,
         "image": "fish_freshwater_5_lavaicefish",
         "exp": 6762,
         "rewards": [
@@ -935,15 +883,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_COELACANTH": {
+    {
         "id": "FISH_FRESHWATER_COELACANTH",
         "name": "TEXT_FISH_FRESHWATER_COELACANTH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_COELACANTH_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 6,
-        "starts_from": 118.8,
+        "starts_from": 12,
         "image": "fish_freshwater_6_coelacanth",
         "exp": 7260,
         "rewards": [
@@ -953,15 +900,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ALIGATORGAR": {
+    {
         "id": "FISH_FRESHWATER_ALIGATORGAR",
         "name": "TEXT_FISH_FRESHWATER_ALIGATORGAR_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ALIGATORGAR_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 6,
-        "starts_from": 486,
+        "starts_from": 46,
         "image": "fish_freshwater_6_aligatorgar",
         "exp": 11340,
         "rewards": [
@@ -971,15 +917,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_MAGMAGUPPY": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_MAGMAGUPPY",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_MAGMAGUPPY_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_MAGMAGUPPY_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 6,
-        "starts_from": 486,
+        "starts_from": 1,
         "image": "fish_freshwater_6_origin_magmaguppy",
         "exp": 11340,
         "rewards": [
@@ -989,15 +934,14 @@
             }
         ]
     },
-    "FISH_FRESHWATER_ORIGIN_THEONEFISH": {
+    {
         "id": "FISH_FRESHWATER_ORIGIN_THEONEFISH",
         "name": "TEXT_FISH_FRESHWATER_ORIGIN_THEONEFISH_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_FRESHWATER_ORIGIN_THEONEFISH_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 6,
-        "starts_from": 486,
+        "starts_from": 80,
         "image": "fish_freshwater_6_origin_theonefish",
         "exp": 11340,
         "rewards": [
@@ -1007,15 +951,14 @@
             }
         ]
     },
-    "FISH_SEA_SAEWOO": {
+    {
         "id": "FISH_SEA_SAEWOO",
         "name": "TEXT_FISH_SEA_SAEWOO_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_SAEWOO_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 1,
+        "starts_from": 1.4,
         "image": "fish_sea_1_saewoo",
         "exp": 40,
         "rewards": [
@@ -1025,15 +968,14 @@
             }
         ]
     },
-    "FISH_SEA_JUNGARI": {
+    {
         "id": "FISH_SEA_JUNGARI",
         "name": "TEXT_FISH_SEA_JUNGARI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_JUNGARI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 3.6,
+        "starts_from": 1.2,
         "image": "fish_sea_1_jungari",
         "exp": 240,
         "rewards": [
@@ -1043,15 +985,14 @@
             }
         ]
     },
-    "FISH_SEA_NABIGOGI": {
+    {
         "id": "FISH_SEA_NABIGOGI",
         "name": "TEXT_FISH_SEA_NABIGOGI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_NABIGOGI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 4,
         "image": "fish_sea_2_nabigogi",
         "exp": 198,
         "rewards": [
@@ -1061,15 +1002,14 @@
             }
         ]
     },
-    "FISH_SEA_JOGI": {
+    {
         "id": "FISH_SEA_JOGI",
         "name": "TEXT_FISH_SEA_JOGI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_JOGI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 7.92,
+        "starts_from": 5,
         "image": "fish_sea_2_jogi",
         "exp": 198,
         "rewards": [
@@ -1079,15 +1019,14 @@
             }
         ]
     },
-    "FISH_SEA_CHUNGFISH": {
+    {
         "id": "FISH_SEA_CHUNGFISH",
         "name": "TEXT_FISH_SEA_CHUNGFISH_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_CHUNGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 17.42,
+        "starts_from": 5.2,
         "image": "fish_sea_2_chungfish",
         "exp": 290,
         "rewards": [
@@ -1097,15 +1036,14 @@
             }
         ]
     },
-    "FISH_SEA_JUGGUMI": {
+    {
         "id": "FISH_SEA_JUGGUMI",
         "name": "TEXT_FISH_SEA_JUGGUMI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_JUGGUMI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 5.8,
+        "starts_from": 3.6,
         "image": "fish_sea_2_juggumi",
         "exp": 290,
         "rewards": [
@@ -1115,15 +1053,14 @@
             }
         ]
     },
-    "FISH_SEA_WOORUCK": {
+    {
         "id": "FISH_SEA_WOORUCK",
         "name": "TEXT_FISH_SEA_WOORUCK_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_WOORUCK_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 17.42,
+        "starts_from": 9.2,
         "image": "fish_sea_2_wooruck",
         "exp": 290,
         "rewards": [
@@ -1133,15 +1070,14 @@
             }
         ]
     },
-    "FISH_SEA_BALLROCK": {
+    {
         "id": "FISH_SEA_BALLROCK",
         "name": "TEXT_FISH_SEA_BALLROCK_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_BALLROCK_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 5.8,
+        "starts_from": 4.6,
         "image": "fish_sea_2_ballrock",
         "exp": 290,
         "rewards": [
@@ -1151,15 +1087,14 @@
             }
         ]
     },
-    "FISH_SEA_IMYEONSOO": {
+    {
         "id": "FISH_SEA_IMYEONSOO",
         "name": "TEXT_FISH_SEA_IMYEONSOO_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_IMYEONSOO_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 5.8,
+        "starts_from": 9,
         "image": "fish_sea_2_imyeonsoo",
         "exp": 290,
         "rewards": [
@@ -1169,15 +1104,14 @@
             }
         ]
     },
-    "FISH_SEA_GGOTGAE": {
+    {
         "id": "FISH_SEA_GGOTGAE",
         "name": "TEXT_FISH_SEA_GGOTGAE_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_GGOTGAE_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 9.5,
+        "starts_from": 3,
         "image": "fish_sea_2_ggotgae",
         "exp": 448,
         "rewards": [
@@ -1187,15 +1121,14 @@
             }
         ]
     },
-    "FISH_SEA_GODEUNGFISH": {
+    {
         "id": "FISH_SEA_GODEUNGFISH",
         "name": "TEXT_FISH_SEA_GODEUNGFISH_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_GODEUNGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 28.51,
+        "starts_from": 8,
         "image": "fish_sea_2_godeungfish",
         "exp": 448,
         "rewards": [
@@ -1205,15 +1138,14 @@
             }
         ]
     },
-    "FISH_SEA_OJINGA": {
+    {
         "id": "FISH_SEA_OJINGA",
         "name": "TEXT_FISH_SEA_OJINGA_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_OJINGA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 28.51,
+        "starts_from": 7.6,
         "image": "fish_sea_2_ojinga",
         "exp": 448,
         "rewards": [
@@ -1223,15 +1155,14 @@
             }
         ]
     },
-    "FISH_SEA_SOONGFISH": {
+    {
         "id": "FISH_SEA_SOONGFISH",
         "name": "TEXT_FISH_SEA_SOONGFISH_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_SOONGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 28.51,
+        "starts_from": 9,
         "image": "fish_sea_2_soongfish",
         "exp": 448,
         "rewards": [
@@ -1241,15 +1172,14 @@
             }
         ]
     },
-    "FISH_SEA_MINFISH": {
+    {
         "id": "FISH_SEA_MINFISH",
         "name": "TEXT_FISH_SEA_MINFISH_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_MINFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 28.51,
+        "starts_from": 12,
         "image": "fish_sea_2_minfish",
         "exp": 448,
         "rewards": [
@@ -1259,15 +1189,14 @@
             }
         ]
     },
-    "FISH_SEA_DAEGU": {
+    {
         "id": "FISH_SEA_DAEGU",
         "name": "TEXT_FISH_SEA_DAEGU_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_DAEGU_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 28.51,
+        "starts_from": 14,
         "image": "fish_sea_2_daegu",
         "exp": 448,
         "rewards": [
@@ -1277,15 +1206,14 @@
             }
         ]
     },
-    "FISH_SEA_BOKFISH": {
+    {
         "id": "FISH_SEA_BOKFISH",
         "name": "TEXT_FISH_SEA_BOKFISH_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_BOKFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 41.18,
+        "starts_from": 3,
         "image": "fish_sea_2_bokfish",
         "exp": 686,
         "rewards": [
@@ -1295,15 +1223,14 @@
             }
         ]
     },
-    "FISH_SEA_GGONGCHI": {
+    {
         "id": "FISH_SEA_GGONGCHI",
         "name": "TEXT_FISH_SEA_GGONGCHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_GGONGCHI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 2,
-        "starts_from": 41.18,
+        "starts_from": 6,
         "image": "fish_sea_2_ggongchi",
         "exp": 686,
         "rewards": [
@@ -1313,15 +1240,14 @@
             }
         ]
     },
-    "FISH_SEA_AGWI": {
+    {
         "id": "FISH_SEA_AGWI",
         "name": "TEXT_FISH_SEA_AGWI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_AGWI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 33.26,
+        "starts_from": 10,
         "image": "fish_sea_3_agwi",
         "exp": 818,
         "rewards": [
@@ -1331,15 +1257,14 @@
             }
         ]
     },
-    "FISH_SEA_NUPCHI": {
+    {
         "id": "FISH_SEA_NUPCHI",
         "name": "TEXT_FISH_SEA_NUPCHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_NUPCHI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 54.43,
+        "starts_from": 10,
         "image": "fish_sea_3_nupchi",
         "exp": 1036,
         "rewards": [
@@ -1349,15 +1274,14 @@
             }
         ]
     },
-    "FISH_SEA_GASHIBOK": {
+    {
         "id": "FISH_SEA_GASHIBOK",
         "name": "TEXT_FISH_SEA_GASHIBOK_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_GASHIBOK_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 54.43,
+        "starts_from": 8,
         "image": "fish_sea_3_gashibok",
         "exp": 1036,
         "rewards": [
@@ -1367,15 +1291,14 @@
             }
         ]
     },
-    "FISH_SEA_SALMON": {
+    {
         "id": "FISH_SEA_SALMON",
         "name": "TEXT_FISH_SEA_SALMON_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_SALMON_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 54.43,
+        "starts_from": 11.4,
         "image": "fish_sea_3_salmon",
         "exp": 1036,
         "rewards": [
@@ -1385,15 +1308,14 @@
             }
         ]
     },
-    "FISH_SEA_SAMCHI": {
+    {
         "id": "FISH_SEA_SAMCHI",
         "name": "TEXT_FISH_SEA_SAMCHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_SAMCHI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 54.43,
+        "starts_from": 16,
         "image": "fish_sea_3_samchi",
         "exp": 1036,
         "rewards": [
@@ -1403,15 +1325,14 @@
             }
         ]
     },
-    "FISH_SEA_NONGFISH": {
+    {
         "id": "FISH_SEA_NONGFISH",
         "name": "TEXT_FISH_SEA_NONGFISH_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_NONGFISH_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 54.43,
+        "starts_from": 16,
         "image": "fish_sea_3_nongfish",
         "exp": 1036,
         "rewards": [
@@ -1421,15 +1342,14 @@
             }
         ]
     },
-    "FISH_SEA_REDBARRACUDA": {
+    {
         "id": "FISH_SEA_REDBARRACUDA",
         "name": "TEXT_FISH_SEA_REDBARRACUDA_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_REDBARRACUDA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 54.43,
+        "starts_from": 7.6,
         "image": "fish_sea_3_redbarracuda",
         "exp": 1036,
         "rewards": [
@@ -1439,15 +1359,14 @@
             }
         ]
     },
-    "FISH_SEA_GALCHI": {
+    {
         "id": "FISH_SEA_GALCHI",
         "name": "TEXT_FISH_SEA_GALCHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_GALCHI_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 78.62,
+        "starts_from": 20,
         "image": "fish_sea_3_galchi",
         "exp": 1342,
         "rewards": [
@@ -1457,15 +1376,14 @@
             }
         ]
     },
-    "FISH_SEA_GAMSUNGDOM": {
+    {
         "id": "FISH_SEA_GAMSUNGDOM",
         "name": "TEXT_FISH_SEA_GAMSUNGDOM_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_GAMSUNGDOM_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 3,
-        "starts_from": 26.2,
+        "starts_from": 40,
         "image": "fish_sea_3_gamsungdom",
         "exp": 1342,
         "rewards": [
@@ -1475,15 +1393,14 @@
             }
         ]
     },
-    "FISH_SEA_CHAMDOM": {
+    {
         "id": "FISH_SEA_CHAMDOM",
         "name": "TEXT_FISH_SEA_CHAMDOM_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_CHAMDOM_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 3,
-        "starts_from": 26.2,
+        "starts_from": 70,
         "image": "fish_sea_3_chamdom",
         "exp": 1342,
         "rewards": [
@@ -1493,15 +1410,14 @@
             }
         ]
     },
-    "FISH_SEA_BANGEDOM": {
+    {
         "id": "FISH_SEA_BANGEDOM",
         "name": "TEXT_FISH_SEA_BANGEDOM_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_BANGEDOM_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 3,
-        "starts_from": 26.2,
+        "starts_from": 25,
         "image": "fish_sea_3_bangedom",
         "exp": 1342,
         "rewards": [
@@ -1511,15 +1427,14 @@
             }
         ]
     },
-    "FISH_SEA_PEPPERMINT": {
+    {
         "id": "FISH_SEA_PEPPERMINT",
         "name": "TEXT_FISH_SEA_PEPPERMINT_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_PEPPERMINT_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 3,
-        "starts_from": 136.08,
+        "starts_from": 1.4,
         "image": "fish_sea_3_peppermint",
         "exp": 2268,
         "rewards": [
@@ -1529,15 +1444,14 @@
             }
         ]
     },
-    "FISH_SEA_DOLDOM": {
+    {
         "id": "FISH_SEA_DOLDOM",
         "name": "TEXT_FISH_SEA_DOLDOM_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_DOLDOM_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 4,
-        "starts_from": 29.95,
+        "starts_from": 50,
         "image": "fish_sea_4_doldom",
         "exp": 2278,
         "rewards": [
@@ -1547,15 +1461,14 @@
             }
         ]
     },
-    "FISH_SEA_BARRACUDA": {
+    {
         "id": "FISH_SEA_BARRACUDA",
         "name": "TEXT_FISH_SEA_BARRACUDA_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_BARRACUDA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 4,
-        "starts_from": 89.86,
+        "starts_from": 18,
         "image": "fish_sea_4_barracuda",
         "exp": 2278,
         "rewards": [
@@ -1565,15 +1478,14 @@
             }
         ]
     },
-    "FISH_SEA_BIGEYETUNA": {
+    {
         "id": "FISH_SEA_BIGEYETUNA",
         "name": "TEXT_FISH_SEA_BIGEYETUNA_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_BIGEYETUNA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 4,
-        "starts_from": 129.79,
+        "starts_from": 36,
         "image": "fish_sea_4_bigeyetuna",
         "exp": 2704,
         "rewards": [
@@ -1583,15 +1495,14 @@
             }
         ]
     },
-    "FISH_SEA_GAEBOKCHI": {
+    {
         "id": "FISH_SEA_GAEBOKCHI",
         "name": "TEXT_FISH_SEA_GAEBOKCHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_GAEBOKCHI_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 4,
-        "starts_from": 174.72,
+        "starts_from": 60,
         "image": "fish_sea_4_gaebokchi",
         "exp": 3240,
         "rewards": [
@@ -1601,15 +1512,14 @@
             }
         ]
     },
-    "FISH_SEA_CHAMTUNA": {
+    {
         "id": "FISH_SEA_CHAMTUNA",
         "name": "TEXT_FISH_SEA_CHAMTUNA_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_CHAMTUNA_DESC",
         "type": "fish",
         "rank": "normal",
         "grade": 5,
-        "starts_from": 136.08,
+        "starts_from": 40,
         "image": "fish_sea_5_chamtuna",
         "exp": 4502,
         "rewards": [
@@ -1619,15 +1529,14 @@
             }
         ]
     },
-    "FISH_SEA_CHUNGSAECHI": {
+    {
         "id": "FISH_SEA_CHUNGSAECHI",
         "name": "TEXT_FISH_SEA_CHUNGSAECHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_CHUNGSAECHI_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 264.6,
+        "starts_from": 61.6,
         "image": "fish_sea_5_chungsaechi",
         "exp": 5880,
         "rewards": [
@@ -1637,15 +1546,14 @@
             }
         ]
     },
-    "FISH_SEA_DOTSAECHI": {
+    {
         "id": "FISH_SEA_DOTSAECHI",
         "name": "TEXT_FISH_SEA_DOTSAECHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_DOTSAECHI_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 264.6,
+        "starts_from": 46,
         "image": "fish_sea_5_dotsaechi",
         "exp": 5880,
         "rewards": [
@@ -1655,15 +1563,14 @@
             }
         ]
     },
-    "FISH_SEA_HWANGSAECHI": {
+    {
         "id": "FISH_SEA_HWANGSAECHI",
         "name": "TEXT_FISH_SEA_HWANGSAECHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_HWANGSAECHI_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 264.6,
+        "starts_from": 84,
         "image": "fish_sea_5_hwangsaechi",
         "exp": 5880,
         "rewards": [
@@ -1673,15 +1580,14 @@
             }
         ]
     },
-    "FISH_SEA_BUMGORAE": {
+    {
         "id": "FISH_SEA_BUMGORAE",
         "name": "TEXT_FISH_SEA_BUMGORAE_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_BUMGORAE_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 5,
-        "starts_from": 378,
+        "starts_from": 100,
         "image": "fish_sea_5_bumgorae",
         "exp": 10122,
         "rewards": [
@@ -1691,15 +1597,14 @@
             }
         ]
     },
-    "FISH_SEA_BAEKSANGARI": {
+    {
         "id": "FISH_SEA_BAEKSANGARI",
         "name": "TEXT_FISH_SEA_BAEKSANGARI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_BAEKSANGARI_DESC",
         "type": "fish",
         "rank": "boss",
         "grade": 6,
-        "starts_from": 486,
+        "starts_from": 120,
         "image": "fish_sea_6_baeksangari",
         "exp": 11340,
         "rewards": [
@@ -1709,15 +1614,14 @@
             }
         ]
     },
-    "FISH_SEA_SANGALCHI": {
+    {
         "id": "FISH_SEA_SANGALCHI",
         "name": "TEXT_FISH_SEA_SANGALCHI_NAME",
         "habitat": "sea",
-        "description": "TEXT_FISH_SEA_SANGALCHI_DESC",
         "type": "fish",
         "rank": "hero",
         "grade": 6,
-        "starts_from": 486,
+        "starts_from": 120,
         "image": "fish_sea_6_sangalchi",
         "exp": 11340,
         "rewards": [
@@ -1727,15 +1631,14 @@
             }
         ]
     },
-    "FISH_ALL_BOOTS": {
+    {
         "id": "FISH_ALL_BOOTS",
         "name": "TEXT_FISH_ALL_BOOTS_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_ALL_BOOTS_DESC",
         "type": "junk",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 0.01,
+        "starts_from": 20,
         "image": "junk_all_1_boots",
         "exp": 1,
         "rewards": [
@@ -1745,15 +1648,14 @@
             }
         ]
     },
-    "FISH_ALL_TIRE": {
+    {
         "id": "FISH_ALL_TIRE",
         "name": "TEXT_FISH_ALL_TIRE_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_ALL_TIRE_DESC",
         "type": "junk",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 0.01,
+        "starts_from": 100,
         "image": "junk_all_1_tire",
         "exp": 1,
         "rewards": [
@@ -1763,15 +1665,14 @@
             }
         ]
     },
-    "FISH_ALL_CAN": {
+    {
         "id": "FISH_ALL_CAN",
         "name": "TEXT_FISH_ALL_CAN_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_ALL_CAN_DESC",
         "type": "junk",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 0.01,
+        "starts_from": 10,
         "image": "junk_all_1_can",
         "exp": 1,
         "rewards": [
@@ -1781,15 +1682,14 @@
             }
         ]
     },
-    "FISH_ALL_NET": {
+    {
         "id": "FISH_ALL_NET",
         "name": "TEXT_FISH_ALL_NET_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_ALL_NET_DESC",
         "type": "junk",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 0.01,
+        "starts_from": 80,
         "image": "junk_all_1_net",
         "exp": 1,
         "rewards": [
@@ -1799,15 +1699,14 @@
             }
         ]
     },
-    "FISH_ALL_PEARL": {
+    {
         "id": "FISH_ALL_PEARL",
         "name": "TEXT_FISH_ALL_PEARL_NAME",
         "habitat": "freshwater",
-        "description": "TEXT_FISH_ALL_PEARL_DESC",
         "type": "junk",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 0.01,
+        "starts_from": 5,
         "image": "junk_all_1_pearl",
         "exp": 1,
         "rewards": [
@@ -1817,15 +1716,14 @@
             }
         ]
     },
-    "FISH_EVENT_SALMON": {
+    {
         "id": "FISH_EVENT_SALMON",
         "name": "TEXT_FISH_EVENT_SALMON_NAME",
         "habitat": "event",
-        "description": "TEXT_FISH_EVENT_SALMON_DESC",
         "type": "event",
         "rank": "event",
         "grade": 6,
-        "starts_from": 28.51,
+        "starts_from": 1,
         "image": "fish_event_haslasalmon",
         "exp": 224,
         "rewards": [
@@ -1835,15 +1733,14 @@
             }
         ]
     },
-    "FISH_EVENT_CATBOX": {
+    {
         "id": "FISH_EVENT_CATBOX",
         "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_NAME",
         "habitat": "event",
-        "description": "TEXT_FISH_EVENT_CATBOX_DESC",
         "type": "event",
-        "rank": "event_box",
+        "rank": "eventbox",
         "grade": 6,
-        "starts_from": 28.51,
+        "starts_from": 5,
         "image": "ui_item_box_fishing_02",
         "exp": 224,
         "rewards": [
@@ -1852,5 +1749,22 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_2ND",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 1,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX",
+                "amount": 1
+            }
+        ]
     }
-}
+]
