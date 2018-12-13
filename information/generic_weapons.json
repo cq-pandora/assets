@@ -906,7 +906,7 @@
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_4_1",
         "star": 4,
         "atk_power": 114,
-        "atk_speed": 0.7,
+        "atk_speed": 1.2,
         "options": 1365,
         "class": "bow",
         "type": "sbw,secret"
@@ -918,7 +918,7 @@
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_4_1",
         "star": 5,
         "atk_power": 186,
-        "atk_speed": 0.7,
+        "atk_speed": 1.2,
         "options": 1365,
         "class": "bow",
         "type": "sbw,secret"
@@ -930,7 +930,7 @@
         "ability": "TEXT_EXCLUSIVE_AR_LIMITED_6_1",
         "star": 6,
         "atk_power": 285,
-        "atk_speed": 0.7,
+        "atk_speed": 1.2,
         "options": 1365,
         "class": "bow",
         "type": "sbw,secret"

@@ -18305,8 +18305,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_LIMITED_6_1": {
-        "text": "Debuff passive effect is applied to other block chain of hero's, installable bomb damage +50%",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Hong-Ran's debuff can be activated by her other block chains. Her 'Fountain Fireworks' deal additional damage equal to 800% of her attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_LIMITED_GG_4_1": {
@@ -18565,8 +18565,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_4_9": {
-        "text": "(Passive activated) Ally's (excluding oneself) damage reduced by 25%",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) All allies except self receive 25% less damage for 5 seconds.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_5_18": {
@@ -18670,8 +18670,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_9": {
-        "text": "(Upon activating passive) All allies other than Mundeok also receive a damage reduction buff of 25%. Upon using 'Hero's Charge,' Mundeok's speed increases by 20%. Upon using other allies' 3-chain 3 times, Mundeok immediately dismounts his steed, dealing physical damage equal to 50% of his attack power and 250% of his resistance.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) All allies except self receive 25% less damage for 7 seconds. Upon using 'Hero's Charge,' Mundeok's movement speed increases by 20%. Upon using another ally's 3-chain 3 times, Mundeok deals physical damage equal to 50% of his attack power and 250% of his resistance, then immediately dismounts his steed.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_4_1": {
@@ -31240,8 +31240,8 @@
         "original": true
     },
     "TEXT_NOGOLD_DESC": {
-        "text": "You do not have enough Gold.\nWould you like to buy Gold?",
-        "version": "4.7.0",
+        "text": "You do not have enough Gold.\nGo to Shop to purchase?",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_NOGOLD_NAME": {
@@ -31280,8 +31280,8 @@
         "original": true
     },
     "TEXT_NOJEWEL_DESC": {
-        "text": "You do not have enough Jewels.\nWould you like to buy Jewels?",
-        "version": "4.7.0",
+        "text": "You do not have enough Jewels.\nGo to Shop to purchase?",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_NOJEWEL_NAME": {
@@ -39935,8 +39935,8 @@
         "original": true
     },
     "TEXT_SKILL_AR_ROCKET_BOOM_LV3_SUBDESC": {
-        "text": "Upon using her 3-chain, enemies hit by 'Portable Firecrackers' of 'Fireworks!' are stunned for 0.5 seconds, and receive an accuracy and evasion debuff of 20% for 5 seconds. Upon using another ally's 3-chain, Hongran's auto attacks for the next 5 seconds are changed to 'Fountain Fireworks,' which deal @magical damage@ equal to 350% of her attack power.",
-        "version": "4.7.0",
+        "text": "Upon using her 3-chain, enemies hit by 'Portable Firecrackers' of 'Fireworks!' are stunned for 0.5 seconds, and receive an accuracy and evasion debuff of 20% for 5 seconds. Upon using another ally's 3-chain, Hongran's auto attacks for the next 10 seconds are changed to 'Fountain Fireworks,' which deal @magical damage@ equal to 700% of her attack power.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_AR_ROCKET_BOOM_NAME": {
@@ -41390,8 +41390,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_ANCHOR_LV3_SUBDESC": {
-        "text": "Upon using his block, Drake raises the entire team's critical chance by 50% of his own for 5 seconds. If enemies receive 2 critical hits during this effect, Drake casts a shield over the entire team that absorbs damage equal to 50% of his maximum HP. (Cooltime: 2 seconds)",
-        "version": "4.7.0",
+        "text": "Upon using his block, Drake raises the entire team's critical chance by 50% of his own for 5 seconds. If enemies receive 2 critical hits during this effect, Drake casts a shield over the entire team that absorbs damage equal to 20% of his maximum HP. (Cooltime: 2 seconds)",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_PA_ANCHOR_NAME": {
@@ -42150,13 +42150,13 @@
         "original": true
     },
     "TEXT_SKILL_PA_SPEAR_SLASH_LV2_SUBDESC": {
-        "text": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals #physical damage# equal to 30% of maximum HP, for a maximum of 3 times per activation.",
-        "version": "4.7.0",
+        "text": "Upon using another ally's block within 10 seconds of using his own 3-chain, Jin-Kyung charges toward the enemy and uses 'Ornate Warfare' to deal #physical damage# equal to 30% of his maximum HP.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_PA_SPEAR_SLASH_LV3_SUBDESC": {
-        "text": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals #physical damage# equal to 90% of maximum HP, for a maximum of 3 times per activation.",
-        "version": "4.7.0",
+        "text": "Upon using another ally's block within 10 seconds of using his own 3-chain, Jin-Kyung charges toward the enemy and uses 'Ornate Warfare' to deal #physical damage# equal to 90% of his maximum HP.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_SKILL_PA_SPEAR_SLASH_NAME": {
@@ -68215,8 +68215,8 @@
         "original": true
     },
     "TEXT_JERAPHIM_NAME": {
-        "text": "Zeraphim",
-        "version": "4.7.0",
+        "text": "Jeraphim",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_JEWEL_LONG": {
@@ -81796,6 +81796,2006 @@
     },
     "TEXT_WEP_LEGEND_SW_FOURTH_REDNAS_6_NAME": {
         "text": "Bradamante",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_01_TITLE": {
+        "text": "May the new year be filled with happiness.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_02_TITLE": {
+        "text": "Let's make New Year's resolutions!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_03_TITLE": {
+        "text": "Something good will happen this time.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_04_TITLE": {
+        "text": "Let's get this party started!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_05_TITLE": {
+        "text": "We must focus on our training and work hard.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_06_TITLE": {
+        "text": "Don't forget the basics!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_07_TITLE": {
+        "text": "The easiest tasks are the hardest ones.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_NEW_YEAR_08_TITLE": {
+        "text": "Focus and you'll succeed!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BREAD_NEW_XMAS_NAME": {
+        "text": "Merry Christmas Cake",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_CHRISTMAS_HEART_2018_HELP": {
+        "text": "Food prepared by the Lonely Pufferfish for his party. There's a lot left over since nobody came. You can trade in the Lonely Pufferfish's Santa hats at the Alchemy Lab to receive some.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_CHRISTMAS_HEART_2018_NAME": {
+        "text": "Pufferfish's Pile of Meat",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_CHRISTMAS_PRESENT_2018_HELP": {
+        "text": "Presents prepared by the Lonely Pufferfish as game prizes for the guests of his party. There's a lot left over since nobody came. You can trade in the Lonely Pufferfish's Santa hats at the Alchemy Lab to receive some.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_CHRISTMAS_PRESENT_2018_NAME": {
+        "text": "Pufferfish's Pile of Presents",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_DEEP_2": {
+        "text": "Bloody Morgue",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_DEEP_3": {
+        "text": "Audience Chamber",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_DEEP_4": {
+        "text": "Resurrection of the Messenger of Light",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP2_CH1_EXIT": {
+        "text": "Exit Barracks",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP2_CH2_EXIT": {
+        "text": "Exit Pantheon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP2_CH3_EXIT": {
+        "text": "Exit Genesis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP2_DESC": {
+        "text": "The Temple may have fallen, but many secrets still remain within.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP2_TITLE": {
+        "text": "A Myth Collapsed",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_LOWER_2": {
+        "text": "Artificial Oasis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_LOWER_3": {
+        "text": "Sinister Blades",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_LOWER_4": {
+        "text": "Rampant Might",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_UPPER_2": {
+        "text": "Stone Storage",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_UPPER_3": {
+        "text": "Blazing Rage",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_UPPER_4": {
+        "text": "Golden Flame",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_1_12_DESC": {
+        "text": "A youth who was bitten by an ancient spider within the depths of the Temple of Illusions. A short time afterwards, he feels his body changing under the effect of some mysterious power. It seems that his hairstyle has gone through the most radical change.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_1_12_NAME": {
+        "text": "Tarantula (M)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_2_16_DESC": {
+        "text": "A rather forgettable man who volunteered for an experiment in the Temple in hopes of boosting his nonexistent charisma. Although he is initially disappointed due to being forgotten by the scientists conducting the studies, the opportunity gives him insight into the terrible truth of the experiments. For the first time in his life, he feels grateful for being unseen.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_2_16_NAME": {
+        "text": "Experiment Survivor",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_3_18_DESC": {
+        "text": "An architect whose dream is to build the highest tower in the continent of Hasla so that he can reach the heavens.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_3_18_NAME": {
+        "text": "Master Nebuchadnezzar",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_1_12_DESC": {
+        "text": "A manager of the laboratory in the Temple of Illusions. Strangely enough, despite all her meticulous inspections she simply cannot find a last test subject on the list. Too bad her boss doesn't understand how hard she works.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_1_12_NAME": {
+        "text": "Laboratory Manager",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_2_16_DESC": {
+        "text": "A tomb raider who snuck in the Temple of Illusions with dreams of riches. He became stuck in the Temple after activating a hidden trap.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_2_16_NAME": {
+        "text": "Grave Robber",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_3_18_DESC": {
+        "text": "A youth who roams the continent of Hasla to \"overcome obstacles and become stronger.\" He received a serious leg injury during his travels, but tends to think of it only as a difficulty he must overcome.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_3_18_NAME": {
+        "text": "Temur the Willful",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_1_12_DESC": {
+        "text": "This merchant comes from a long line of skilled and clever traders who have lived in the Desert for generations. It's a pity that every generation of the family suffered from a very poor sense of direction, which is not the best quality to have when your career requires traveling long distances.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_1_12_NAME": {
+        "text": "Lost Merchant",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_2_16_DESC": {
+        "text": "A renowned plasterer who is famous for the quality of his bricks. He travels to the Temple of Illusions with dreams of studying the renowned yet lost techniques of Ancient Desert architecture. Upon coming face-to-face with the Temple, Fukhu is immediately stricken by its beauty and enters in wonder.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_2_16_NAME": {
+        "text": "Plasterer Fukhu",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_3_18_DESC": {
+        "text": "A woman who volunteered for an experiment for eternal youth in order to live forever with her lover. Unfortunately, the experiment fails - but not without yielding the partial success of aging immortality. Immediately after the experiment, the undying test subject is brainwashed and turned into a living sample for researchers to study.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_3_18_NAME": {
+        "text": "Undead Test Subject",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_1_12_DESC": {
+        "text": "With the fall of the Desert Kingdom, a great art was also lost to the people of Hasla - the art of mummy-making. At least this one embalmer remembers his family trade, and will risk his life to travel to the Temple of Illusions to recover the lost art.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_1_12_NAME": {
+        "text": "Mummy Embalmer",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_2_16_DESC": {
+        "text": "Lei Ling's favorite top-quality AA Grade pork... Er, pig of the finest character one could ask for. Noticing that his friends do not return once they leave their herd, Piggy escapes the evil clutches of Lei Ling, the bane of pigs. He flees 2019km until he reaches the Temple of Illusions. However, Lei Ling is not a chef to give up her best ingredient so easily, and chases him into the Temple. When he discovers himself trapped between a boiling golden lake and Lei Ling's malicious cleaver, Piggy closes his eyes and jumps into the lake, choosing to bet on his fortune.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_2_16_NAME": {
+        "text": "Golden Piggy",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_3_18_DESC": {
+        "text": "A scientist who claims that everything in the world evolves. He has traveled to the Temple of Illusions in hopes of proving his theory.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_3_18_NAME": {
+        "text": "Evolutionist Spencer",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_1_12_DESC": {
+        "text": "A soldier whose loyalty was acknowledged by the Three Kings and stationed as a protector of the Temple of Illusions. Yet when a series of events unveils the sinister truth behind the Temple, the Sentinel is left despairing over the treachery of the Three Kings until he turns mad with grief.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_1_12_NAME": {
+        "text": "Confused Sentinel",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_2_16_DESC": {
+        "text": "A man who volunteered for an experiment for eternal youth in order to live forever with his lover. Unfortunately, the experiment was only a partial success. Now the laboratory will forever be guarded by its immortal sentry, whose eyes will continue to look upon his decaying lover...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_2_16_NAME": {
+        "text": "Eternally Young Sentry",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_3_18_DESC": {
+        "text": "A mysterious warrior who roams the Desert. Always covering his face under a white hood, he makes his living by hunting wild animals. If you ask him about his missing left ring finger, he falls into a quiet reverie and does not speak.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_3_18_NAME": {
+        "text": "Desert Warrior Keyab",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_1_12_DESC": {
+        "text": "A scholar studying the ancient civilization of the Desert. He travels to the Temple of Illusions in hopes of making a new discovery.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_1_12_NAME": {
+        "text": "Possessed Scholar",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_2_16_DESC": {
+        "text": "A manager of Vibhrinium, an essential material used to create levitating stones. She is locked within the Temple by the Three Kings for her superior knowledge on Vibhrinium development so that the technology firmly remains within the Desert Kingdom.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_2_16_NAME": {
+        "text": "Levitating Stone Manager",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_3_18_DESC": {
+        "text": "A scientist of Hasla with a charismatic deep voice and superior knowledge of foreign languages. He is strong enough to fend for himself, as he has often done so on his travels to study the ancient civilizations of the Desert. Although he walks his path alone for the time being, he knows that there will be light at the end of the road. With every new day, he will step out once more into the Desert with renewed hope, and his friends will always look out for him in their hearts.\n\n- In memory of our dear friend, Team CQ. -",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_3_18_NAME": {
+        "text": "Richard Kim",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHRISTMAS_FISHERY_NAME": {
+        "text": "Christmas Market",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHRISTMAS_REVIVAL": {
+        "text": "Revives once to {0}% of HP (Cannot be stacked)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_ACCURACY_RATE_STONE_2_OPTION_DESC": {
+        "text": "Accuracy +2%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_ATK_POWER_STONE_2_OPTION_DESC": {
+        "text": "Attack Power +225",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_BETA_STONE_1_DESC": {
+        "text": "A parchment that contains illegible writing. Its author must have written it in great haste.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_BETA_STONE_1_TITLE": {
+        "text": "Dirty Parchment",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_BETA_STONE_2_DESC": {
+        "text": "A slimy blob of mana that could prove fatal to those without immunity.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_BETA_STONE_2_TITLE": {
+        "text": "Condensed Mana",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_COBRA_STONE_1_DESC": {
+        "text": "The venom of a cobra that has grown poisonous after decades of isolation.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_COBRA_STONE_1_TITLE": {
+        "text": "Snake Venom",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_COBRA_STONE_2_DESC": {
+        "text": "These fangs contain extremely toxic poison that can melt stone upon contact.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_COBRA_STONE_2_TITLE": {
+        "text": "Venomous Fang",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_CRIT_DODGE_RATE_STONE_2_OPTION_DESC": {
+        "text": "Critical Resistance +2%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_CRIT_RATE_STONE_2_OPTION_DESC": {
+        "text": "Critical Chance +2%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_DEF_STONE_2_OPTION_DESC": {
+        "text": "Armor +225",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_DODGE_RATE_STONE_2_OPTION_DESC": {
+        "text": "Evasion +2%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_GAMMA_STONE_1_DESC": {
+        "text": "Test Subject Gamma's artificial knee. It is designed to withstand bursts of high acceleration.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_GAMMA_STONE_1_TITLE": {
+        "text": "Mutated Joint",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_GAMMA_STONE_2_DESC": {
+        "text": "A contaminated piece of flesh scrapped from the body of Test Subject Gamma. Seemingly still alive, it convulses as if it remembers its original body.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_GAMMA_STONE_2_TITLE": {
+        "text": "Living Flesh Chunk",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_MAX_HP_STONE_2_OPTION_DESC": {
+        "text": "Maximum HP +9000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_MHORUS_STONE_1_DESC": {
+        "text": "A viscous liquid revealed to be the black blood of a mutated Horus.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_MHORUS_STONE_1_TITLE": {
+        "text": "Contaminated Blood",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_MHORUS_STONE_2_DESC": {
+        "text": "Earrings that prove the status of a Priest of Horus. Even years of hardship have not robbed it from its owner.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_MHORUS_STONE_2_TITLE": {
+        "text": "Priest's Earring",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_PENETRATE_DEF_STONE_2_OPTION_DESC": {
+        "text": "Armor Penetration +225",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_PENETRATE_RST_STONE_2_OPTION_DESC": {
+        "text": "Resistance Penetration +225",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_RECEIVE_DMG_RATE_STONE_2_OPTION_DESC": {
+        "text": "Damage Reduction +2%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_RST_STONE_2_OPTION_DESC": {
+        "text": "Resistance +225",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SCARAB_STONE_1_DESC": {
+        "text": "A majestically curved horn that is unfortunately cracked in the center.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SCARAB_STONE_1_TITLE": {
+        "text": "Split Horn",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SCARAB_STONE_2_DESC": {
+        "text": "An elegant shell. Its golden patterns are naturally formed.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SCARAB_STONE_2_TITLE": {
+        "text": "Golden Elytra",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SONOFGEB_STONE_1_DESC": {
+        "text": "Geb's big and ingrown toenail.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SONOFGEB_STONE_1_TITLE": {
+        "text": "Large Toenail",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SONOFGEB_STONE_2_DESC": {
+        "text": "Judging from its size, this shinbone couldn't have possibly belonged to a human being.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COMMON_SONOFGEB_STONE_2_TITLE": {
+        "text": "Giant Shinbone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_HU_23_NEWYEAR_2019": {
+        "text": "Huntsman in the Snow Bellerophon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_PR_24_28": {
+        "text": "Cold-Hearted Gambler Ricky",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_PR_25_28": {
+        "text": "Princess Spera of the Plains",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_WA_23_28": {
+        "text": "Arctic Fox Randgrid",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_WA_25_28": {
+        "text": "Princess Echidna the Prim",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_COS_WI_23_28": {
+        "text": "Ice Fisherman Han Xiangzi",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DAMAGE_INFO_1": {
+        "text": "K",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DAMAGE_INFO_2": {
+        "text": "M",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DIALOGUES_GYPSI_DEFAULT_S2_EP2_1": {
+        "text": "I never knew the Desert was so full of shiny stuff!\nWe got a great haul today, meow!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DIALOGUES_GYPSI_DEFAULT_S2_EP2_2": {
+        "text": "Welcome, meow! What do you think about my headdress? \nHee hee, it's made out of pretty stones!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DIALOGUES_GYPSI_DISCOUNT_S2_EP2_1": {
+        "text": "Jewels?! I love pretty stones, but jewels are the best, meow!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DIALOGUES_GYPSI_OUT_S2_EP2_1": {
+        "text": "I need to go search for more shiny stuff!\nSee you later, meow!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_DIALOGUES_GYPSI_OUT_S2_EP2_2": {
+        "text": "I'll bring back the treasure of your dreams, meow!\nJust wait and see!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ACCURACY_RATE_STONE_2_OPTION_DESC": {
+        "text": "Accuracy +8%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_AMMUT_STONE_1_DESC": {
+        "text": "A red fragment taken from the Ammut's eye. It is unclear whether it is a teardrop or blood-drop.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_AMMUT_STONE_1_TITLE": {
+        "text": "Crocodile's Tear",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ANUBISIS_H_STONE_1_DESC": {
+        "text": "A blade allegedly forged from material bestowed by the heavens. Enemies cut by this blade become hostages in death.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ANUBISIS_H_STONE_1_TITLE": {
+        "text": "Meteoric Blade of the Jackal",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ANUBISIS_H_STONE_2_DESC": {
+        "text": "A decoration depicting the golden Uraeus of three heads. It symbolizes the majesty of the Three Kings.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ANUBISIS_H_STONE_2_TITLE": {
+        "text": "Mark of the Three Kings",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ANUBISIS_STONE_1_DESC": {
+        "text": "White blood gathered from Anubisis's wound. Its properties seem to change in accordance to the surrounding ambiance.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ANUBISIS_STONE_1_TITLE": {
+        "text": "Ectoplasm",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ATK_POWER_STONE_2_OPTION_01_DESC": {
+        "text": "Attack Power +600",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_ATK_POWER_STONE_2_OPTION_DESC": {
+        "text": "Attack Power +750",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_CRIT_DODGE_RATE_STONE_2_OPTION_DESC": {
+        "text": "Critical Resistance +5%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_CRIT_RATE_STONE_2_OPTION_DESC": {
+        "text": "Critical Chance +5%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_DEF_STONE_2_OPTION_01_DESC": {
+        "text": "Armor +1000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_DEF_STONE_2_OPTION_DESC": {
+        "text": "Armor +750",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_DODGE_RATE_STONE_2_OPTION_DESC": {
+        "text": "Evasion +8%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_JERAPHIM_H_STONE_1_DESC": {
+        "text": "These letters may be written in an unknown language, but oddly enough, you understand their meaning. Gazing upon them fills you with a strange power.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_JERAPHIM_H_STONE_1_TITLE": {
+        "text": "Hieroglyph",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_JERAPHIM_H_STONE_2_DESC": {
+        "text": "A luminescent stone. Its light is brilliant, but does not hurt your eyes.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_JERAPHIM_H_STONE_2_TITLE": {
+        "text": "Heavenly Light",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_JERAPHIM_STONE_1_DESC": {
+        "text": "The wings of the Kalard Jeraphim. Its white glow remains untarnished.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_JERAPHIM_STONE_1_TITLE": {
+        "text": "Wings of Radiance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_MAX_HP_STONE_2_OPTION_01_DESC": {
+        "text": "Maximum HP +25000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_MAX_HP_STONE_2_OPTION_DESC": {
+        "text": "Maximum HP +30000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_OMEGA_STONE_1_DESC": {
+        "text": "Machinery taken from Test Subject Omega's chest. It continues to beat in an eerie, familiar rhythm...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_OMEGA_STONE_1_TITLE": {
+        "text": "Heart of the Ascended",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_DEF_STONE_2_OPTION_01_DESC": {
+        "text": "Armor Penetration +1000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_DEF_STONE_2_OPTION_DESC": {
+        "text": "Armor Penetration +750",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_RST_STONE_2_OPTION_01_DESC": {
+        "text": "Resistance Penetration +1000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_RST_STONE_2_OPTION_DESC": {
+        "text": "Resistance Penetration +750",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_RECEIVE_DMG_RATE_STONE_2_OPTION_DESC": {
+        "text": "Damage Reduction +5%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_RST_STONE_2_OPTION_01_DESC": {
+        "text": "Resistance +1000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_RST_STONE_2_OPTION_DESC": {
+        "text": "Resistance +750",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_SEKHMET_H_STONE_1_DESC": {
+        "text": "An essence of flame created by Sekhmet with magic. It shall continue to burn until everything before it turns to ash.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_SEKHMET_H_STONE_1_TITLE": {
+        "text": "Sekhmet's Essence",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_SEKHMET_H_STONE_2_DESC": {
+        "text": "The symbol of Queen Sekhmet. Made of glowing hot gold, it cannot be worn by anyone other than the Queen.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_SEKHMET_H_STONE_2_TITLE": {
+        "text": "Mask of the Lioness",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_SEKHMET_STONE_1_DESC": {
+        "text": "A papyrus containing a warning to enemies of the Kingdom. One of Sekhmet's favorite objects used to make a point, thank you.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_SEKHMET_STONE_1_TITLE": {
+        "text": "Proof of Vengeance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_TOMBKING_STONE_1_DESC": {
+        "text": "A whip woven with tendons of a lion. It is saturated in the blood and sweat of the Temple laborers.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_EPIC_TOMBKING_STONE_1_TITLE": {
+        "text": "Whip of Penance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_CAN_DESC": {
+        "text": "As much as we find a couple's picnic adorable, you should always remember to pick up your trash behind you. Protecting the environment is important!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_CAN_NAME": {
+        "text": "Remains of a Couple's Lunch",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_GRILLEDFISH_DESC": {
+        "text": "These two fish could not bear the boiling lava of the Volcano... conveniently making up a set dinner menu.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_GRILLEDFISH_NAME": {
+        "text": "Grilled Fish Set Menu",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_GUPPY_DESC": {
+        "text": "These guppies were made for each other. Their favorite pastime is acting, but you can tell that their trust for each other is real.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_GUPPY_NAME": {
+        "text": "Pair of Artistic Guppies",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_HALFMOON_DESC": {
+        "text": "A Halfmoon couple of different scale colors. Who knew these colors would look so beautiful together?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_HALFMOON_NAME": {
+        "text": "Halfmoons in Unity",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_MIGGURAGI_DESC": {
+        "text": "So are they are aren't they a thing? It's hard to know with these two loaches.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_MIGGURAGI_NAME": {
+        "text": "Are-They-Or-Aren't-They? Loaches",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_NORMALFROG_DESC": {
+        "text": "Frogs hopping together in unison. When you hop alone, you hop to get somewhere. When you hop together, however, hopping becomes meaningful in itself.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_NORMALFROG_NAME": {
+        "text": "Harmoniously Hopping Frogs",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_NUPCHI_DESC": {
+        "text": "Even if one wakes up from a nightmare, the other flounder will always be close by to comfort it at night.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_NUPCHI_NAME": {
+        "text": "Friendly Flounders",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_OJINGA_DESC": {
+        "text": "Squids sure are lucky to have ten tentacles to hold together.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_COUPLE_OJINGA_NAME": {
+        "text": "Tentacle-Holding Squids",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_LONELY_BOKFISH_DESC": {
+        "text": "The holidays won't be lonely for the Lonely Pufferfish! Or that's what he thought when he first began planning a Christmas party, anyway. When no guests arrive at his party due to the cold weather, the Lonely Pufferfish is left to sob over the pile of presents he prepared for his friends. However, he still manages to put them to good use: whenever he is caught by a fisherman and let go \"since it's Christmas,\" the Lonely Pufferfish gives them one of his Christmas presents in gratitude. It seems it won't be such a lonely Christmas for the Lonely Pufferfish after all.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_LONELY_BOKFISH_NAME": {
+        "text": "Lonely Pufferfish",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_LONELY_GOLDFISH_DESC": {
+        "text": "This goldfish was actually planning to attend the pufferfish's party, but after seeing that nobody else had come, it took all of three seconds for him to quietly make a beeline for the door.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_LONELY_GOLDFISH_NAME": {
+        "text": "Awkward Goldfish",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HERO_RANKING": {
+        "text": "Hero Rank",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HERO_RANKING_DESC": {
+        "text": "List of most used Heroes in this Raid.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_CARVESTONE_RANDOMBOX": {
+        "text": "Get from {0}!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_FISHING_FLOAT_EVENT_LONELY_BOKFISH_DESC": {
+        "text": "A float designed in the shape of a pufferfish, also known as a bubblefish. It fills you up with a warm and bubbly feeling, reminding you of the warm memories shared with the Lonely Pufferfish.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_FISHING_FLOAT_EVENT_LONELY_BOKFISH_NAME": {
+        "text": "Bubbly",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_ITEM_MATERIAL_LONG": {
+        "text": "Material",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_036_TITLE": {
+        "text": "Cause of Anomaly",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_037_TITLE": {
+        "text": "Traditional Tribal Dress",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_038_TITLE": {
+        "text": "Necromancy of the Ruins",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_039_TITLE": {
+        "text": "The Tomb King's True Identity",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_040_TITLE": {
+        "text": "Strange Occurrences within the Temple",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_041_TITLE": {
+        "text": "Necromancy of the Ruins - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_042_TITLE": {
+        "text": "The Three Kings - Sekhmet",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_043_TITLE": {
+        "text": "A Deadly Paradise",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_044_TITLE": {
+        "text": "A Deadly Paradise - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_045_TITLE": {
+        "text": "The Desert - Vassal of Tragedy",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_046_TITLE": {
+        "text": "They're Here!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_047_TITLE": {
+        "text": "They're Here! - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_048_TITLE": {
+        "text": "The Three Kings - Anubisis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_049_TITLE": {
+        "text": "Alpha",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_050_TITLE": {
+        "text": "Beta",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_051_TITLE": {
+        "text": "Omega",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_052_TITLE": {
+        "text": "Gamma",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_053_TITLE": {
+        "text": "Delta",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_054_TITLE": {
+        "text": "Jeraphim",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_LIMIT_EVENT_CHRISTMAS_2018_DESC": {
+        "text": "After much research on the Christmas presents that were \"caught\" while fishing, the Hasla Fishing Association announced that Santa hats worn by pufferfish have a special power worth collecting. Now the Lonely Pufferfish is twice as busy, sewing hat after hat to hand out to fishermen! Who knows - maybe these hats could prove useful in the Alchemy Lab...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_LIMIT_EVENT_CHRISTMAS_2018_NAME": {
+        "text": "Pufferfish's Santa Hat",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_20_DESC": {
+        "text": "A warm sleeping bag for cold campers.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_20_NAME": {
+        "text": "Sleeping Bag",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_AMMUT_NAME": {
+        "text": "Ammut",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_ANUBISIS_H_NAME": {
+        "text": "Anubisis, Ravager of Souls",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME": {
+        "text": "Anubisis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_BETA_NAME": {
+        "text": "Violent Test Subject Beta",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_COBRA_NAME": {
+        "text": "Poisonous Cobra",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_GAMMA_NAME": {
+        "text": "Violent Test Subject Gamma",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_JERAPHIM_H_NAME": {
+        "text": "Jeraphim the Kalard",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_JERAPHIM_NAME": {
+        "text": "Jeraphim",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_MHORUS_NAME": {
+        "text": "Mutated Horus Tribesman",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_OMEGA_NAME": {
+        "text": "Test Subject Omega",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_SCARAB_NAME": {
+        "text": "Poisonous Scarab",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_SEKHMET_H_NAME": {
+        "text": "Sekhmet, Queen of Vengeance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_SEKHMET_NAME": {
+        "text": "Sekhmet",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_SONOFGEB_NAME": {
+        "text": "Mutated Child of Geb",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP2_TOMBKING_NAME": {
+        "text": "Tomb King",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_ALPHA_NAME": {
+        "text": "Test Subject Alpha",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_BETA_NAME": {
+        "text": "Test Subject Beta",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_COBRA_NAME": {
+        "text": "Cobra",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_DELTA_NAME": {
+        "text": "Test Subject Delta",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_GAMMA_NAME": {
+        "text": "Test Subject Gamma",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_GFC_NAME": {
+        "text": "Goddess Fan Club",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_MANUBIS_NAME": {
+        "text": "Transformed Anubisis Tribesman",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_MHORUS_NAME": {
+        "text": "Transformed Horus Tribesman",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_MUMMY_NAME": {
+        "text": "Mummy",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_SCARAB_NAME": {
+        "text": "Scarab",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_SONOFBENU_NAME": {
+        "text": "Child of Benu",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP2_SONOFGEB_NAME": {
+        "text": "Child of Geb",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_CHALLENGE_BERSERK_30S": {
+        "text": "Going Berserk in 30s",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_AMMUT_SKILL1": {
+        "text": "Rage",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_AMMUT_SKILL1_DESC": {
+        "text": "Damage Reflect, Shield",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_AMMUT_SKILL2": {
+        "text": "Swallow",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_AMMUT_SKILL2_DESC": {
+        "text": "Disarm Hero",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_AMMUT_SKILL3": {
+        "text": "Thick Skin",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_AMMUT_SKILL3_DESC": {
+        "text": "Increased Stats, HP Recovery",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_H_SKILL1": {
+        "text": "Bite Off",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_H_SKILL1_DESC": {
+        "text": "Debuff Hero",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_H_SKILL2": {
+        "text": "Thirst for Blood",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_H_SKILL2_DESC": {
+        "text": "Increased Speed",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_SKILL1": {
+        "text": "Enhancement",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_SKILL1_DESC": {
+        "text": "Increased Stats",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_SKILL2": {
+        "text": "Counterattack",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_ANUBISIS_SKILL2_DESC": {
+        "text": "Damage Immunity, Stun",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_H_SKILL1": {
+        "text": "Photosynthesis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_H_SKILL1_DESC": {
+        "text": "Goddesses Blocked",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_H_SKILL2": {
+        "text": "Purification",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_H_SKILL2_DESC": {
+        "text": "Cancel Buffs",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_SKILL1": {
+        "text": "Wave of Light",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_SKILL1_DESC": {
+        "text": "Ignore Magnet",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_SKILL2": {
+        "text": "Army of Light",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_JERAPHIM_SKILL2_DESC": {
+        "text": "Damage Immunity, Enhanced Wave",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_OMEGA_SKILL1": {
+        "text": "Blessing of Cora",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_OMEGA_SKILL1_DESC": {
+        "text": "Increased Stats",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_H_SKILL1": {
+        "text": "Crush",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_H_SKILL1_DESC": {
+        "text": "Stun",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_H_SKILL2": {
+        "text": "Charge",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_H_SKILL2_DESC": {
+        "text": "Damage Immunity",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_H_SKILL3": {
+        "text": "Lion's Roar",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_H_SKILL3_DESC": {
+        "text": "Stun",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_SKILL1": {
+        "text": "Wall of Fire",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_SKILL1_DESC": {
+        "text": "Damages the surrounding area and shields",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_SKILL2": {
+        "text": "Meteor Summoning Magic",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_SEKHMET_SKILL2_DESC": {
+        "text": "Damage Immunity",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_TOMBKING_SKILL1": {
+        "text": "Summoning Mummies",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_TOMBKING_SKILL1_DESC": {
+        "text": "Enhanced Wave",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_TOMBKING_SKILL2": {
+        "text": "Stone Slab Shield",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP2_TOMBKING_SKILL2_DESC": {
+        "text": "Generate Shield",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_TEMPLE_DEEP": {
+        "text": "Temple of Illusions - The Depths",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_TEMPLE_LOWER": {
+        "text": "Temple of Illusions - Lower Floor",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_TEMPLE_UPPER": {
+        "text": "Temple of Illusions - Upper Floor",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PURCHASE_LOCK_DESCRIPTION": {
+        "text": "This package cannot be purchased due to exceeding the purchase limit or a temporary server connection issue. Please wait before trying again and contact Customer Service if the problem persists.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PURCHASE_LOCK_DESCRIPTION2": {
+        "text": "This limited package is currently unavailable. A transaction may already be in progress, or an error may have occurred while canceling the payment. Please try again in a moment.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_PURCHASE_LOCK_TITLE": {
+        "text": "Cannot Purchase",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_GRADE_1_NAME": {
+        "text": "★1 Unfamiliar Stone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_GRADE_2_NAME": {
+        "text": "★2 Unfamiliar Stone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_GRADE_3_NAME": {
+        "text": "★3 Unfamiliar Stone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_GRADE_4_NAME": {
+        "text": "★4 Unfamiliar Stone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_GRADE_5_NAME": {
+        "text": "★5 Unfamiliar Stone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_GRADE_6_NAME": {
+        "text": "★6 Unfamiliar Stone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_EVENT_CHRISTMAS_2018_NAME": {
+        "text": "Pufferfish's Lucky Box",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_TEMPLE_TREASURE_HELP": {
+        "text": "A chest containing one of the rarest Sigils from the depths of the Temple of Illusions. (\"A Myth Collapsed\")",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_TEMPLE_TREASURE_NAME": {
+        "text": "Treasure of the Temple",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RANDOM_CHRISTMAS_2018_HELP": {
+        "text": "Presents that the Lonely Pufferfish prepared to hand out to the guests of his party. Each present contains a random gift inside! There seems to be a lot left over due to the sore lack of guests.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_ACCURACY_RATE_STONE_2_OPTION_DESC": {
+        "text": "Accuracy +5%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_AMMUT_STONE_1_DESC": {
+        "text": "Hmm, could this be chicken? Or does it taste more like pork?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_AMMUT_STONE_1_TITLE": {
+        "text": "Hybrid Rib",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_AMMUT_STONE_2_DESC": {
+        "text": "Legend has it that soup cooked with this scale grants immortality. Unfortunately, its foul smell eliminates any thought related to food.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_AMMUT_STONE_2_TITLE": {
+        "text": "Chimera's Scale",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_ANUBISIS_STONE_1_DESC": {
+        "text": "Created out of the finest cloth and used only by royalty. It is comfortable beyond measure.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_ANUBISIS_STONE_1_TITLE": {
+        "text": "First-Rate Bandage",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_ANUBISIS_STONE_2_DESC": {
+        "text": "A pectoral decorated with lapis lazuli. A lone ancestral spirit seems to be lingering within...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_ANUBISIS_STONE_2_TITLE": {
+        "text": "Azure Heart of Royalty",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_ATK_POWER_STONE_2_OPTION_DESC": {
+        "text": "Attack Power +450",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_CRIT_DODGE_RATE_STONE_2_OPTION_DESC": {
+        "text": "Critical Resistance +3%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_CRIT_RATE_STONE_2_OPTION_DESC": {
+        "text": "Critical Chance +3%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_DEF_STONE_2_OPTION_01_DESC": {
+        "text": "Armor +375",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_DEF_STONE_2_OPTION_DESC": {
+        "text": "Armor +450",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_DODGE_RATE_STONE_2_OPTION_DESC": {
+        "text": "Evasion +5%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_JERAPHIM_STONE_1_DESC": {
+        "text": "A device that controls energy within the Temple. It loses all power outside, becoming nothing more than an oddly durable rock.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_JERAPHIM_STONE_1_TITLE": {
+        "text": "Mana Flow Controller",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_JERAPHIM_STONE_2_DESC": {
+        "text": "A fragment of Jeraphim's halo. How on earth did one break this sturdy thing?",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_JERAPHIM_STONE_2_TITLE": {
+        "text": "Hook Fragment",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_MAX_HP_STONE_2_OPTION_DESC": {
+        "text": "Maximum HP +18000",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_OMEGA_STONE_1_DESC": {
+        "text": "A crystal eye attached to the mask of Test Subject Omega. It provides the wearer with all-penetrating vision.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_OMEGA_STONE_1_TITLE": {
+        "text": "Glittering Right Eye",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_OMEGA_STONE_2_DESC": {
+        "text": "An organ of sixth sense attached through surgery. It lets one see things that cannot be usually seen.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_OMEGA_STONE_2_TITLE": {
+        "text": "Closed Left Eye",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_DEF_STONE_2_OPTION_01_DESC": {
+        "text": "Armor Penetration +375",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_DEF_STONE_2_OPTION_DESC": {
+        "text": "Armor Penetration +450",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_RST_STONE_2_OPTION_01_DESC": {
+        "text": "Resistance Penetration +375",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_RST_STONE_2_OPTION_DESC": {
+        "text": "Resistance Penetration +450",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_RECEIVE_DMG_RATE_STONE_2_OPTION_DESC": {
+        "text": "Damage Reduction +3%",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_RST_STONE_2_OPTION_01_DESC": {
+        "text": "Resistance +375",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_RST_STONE_2_OPTION_DESC": {
+        "text": "Resistance +450",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_SEKHMET_STONE_1_DESC": {
+        "text": "The essence of fire concentrated through Sekhmet's powers. It is blazingly hot, but can still be touched.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_SEKHMET_STONE_1_TITLE": {
+        "text": "Flaming Fragment",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_SEKHMET_STONE_2_DESC": {
+        "text": "A fragment of the horn headdress always worn by the Queen on the battlefield. It boosts morale.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_SEKHMET_STONE_2_TITLE": {
+        "text": "Horn of Mastery",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_TOMBKING_STONE_1_DESC": {
+        "text": "A piece of cloth dyed in the color reserved only for the royalty of the Desert Kingdom. It may be a mere imitation, but at least it's durable.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_TOMBKING_STONE_1_TITLE": {
+        "text": "Headdress of the False King",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_TOMBKING_STONE_2_DESC": {
+        "text": "A poorly crafted Uraeus decoration made out of wood.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RARE_TOMBKING_STONE_2_TITLE": {
+        "text": "False Mark",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2": {
+        "text": "Season 2 Episode 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_1": {
+        "text": "Lorelei's Letter",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_10": {
+        "text": "Kalard",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_11": {
+        "text": "Ellie",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_12": {
+        "text": "Those Left Behind",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_13": {
+        "text": "Searching the Temple",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_14": {
+        "text": "Broken Pendant",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_2": {
+        "text": "Murals and Mummies",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_3": {
+        "text": "Ambush of the False King",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_4": {
+        "text": "Queen of Vengeance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_5": {
+        "text": "The Great Void",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_6": {
+        "text": "Sins Divulged",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_7": {
+        "text": "Anubisis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_8": {
+        "text": "A Forbidden Power",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_9": {
+        "text": "Ar'rat",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RING_LIMIT_CHRISMAS_REVIVAL_1_DESC": {
+        "text": "A ring crafted by a famous artisan whose works are popular as tokens of undying love. This particular ring has a tragic backstory: the artisan ran out of the necessary materials while crafting the first ring, and left the work incomplete without its pair. The artisan, feeling rather sorry for his ring, imbued it with a mysterious power. It may look quite romantic on the outside, but this ring contains great potential.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_RING_LIMIT_CHRISMAS_REVIVAL_1_NAME": {
+        "text": "A Couples Ring Without Its Pair",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_S2_EP2_CH1_NAME": {
+        "text": "Chapter 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_S2_EP2_CH2_NAME": {
+        "text": "Chapter 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_S2_EP2_CH3_NAME": {
+        "text": "Chapter 3",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_S2_EP2_CHALLENGE_NAME": {
+        "text": "Episode 2 Challenge",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_S2_GROUP2_DESC": {
+        "text": "The Guardian of the Ruins proves to be a difficult foe. In order to treat their wounds, the Captain and company return to Impelis, where they receive an urgent letter from Lorelei. The Captain and Ellie decide to accept the archaeologist's request that they help with the excavation of the mysterious Temple of Illusions in an attempt to uncover its dark history.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_S2_GROUP2_SUBTITLE": {
+        "text": "Episode 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_S2_GROUP2_TITLE": {
+        "text": "Temple of Illusions",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_OSIRIS_DESC_S2EP2": {
+        "text": "Osiris summons an 'Ancient Magic Circle' that lasts [1/3/6] seconds according to the chain number used. The 'Ancient Magic Circle' deals @magical damage@ equal to 50% of Osiris's attack power per second.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH1_1_NAME": {
+        "text": "At the Excavation Site",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH1_2_NAME": {
+        "text": "Rescue Mission",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH1_3_NAME": {
+        "text": "Ambush of the False King",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH1_4_NAME": {
+        "text": "Into the Darkness - 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH1_5_NAME": {
+        "text": "Into the Darkness - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH1_6_NAME": {
+        "text": "Queen of Vengeance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH2_1_NAME": {
+        "text": "Ellie's Fears",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH2_2_NAME": {
+        "text": "The Great Void",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH2_3_NAME": {
+        "text": "Vassal of Tragedy",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH2_4_NAME": {
+        "text": "Divine Dog, Holy Bird - 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH2_5_NAME": {
+        "text": "Divine Dog, Holy Bird - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH2_6_NAME": {
+        "text": "Anubisis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH3_1_NAME": {
+        "text": "Remains of the Experiment - 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH3_2_NAME": {
+        "text": "Remains of the Experiment - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH3_3_NAME": {
+        "text": "Test Subject Omega",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH3_4_NAME": {
+        "text": "Truth Unveiled",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH3_5_NAME": {
+        "text": "To the Heart of the Temple",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CH3_6_NAME": {
+        "text": "Kalard",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CHALLENGE_1_SUBNAME": {
+        "text": "Laborer Barracks",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CHALLENGE_2_SUBNAME": {
+        "text": "Decaying Pantheon",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP2_CHALLENGE_3_SUBNAME": {
+        "text": "Forbidden Genesis",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_042_TITLE": {
+        "text": "Goddess Fan Club (Sub)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_043_TITLE": {
+        "text": "Lost in the Temple",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_044_TITLE": {
+        "text": "Tomb King (Sub)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_045_TITLE": {
+        "text": "Keyab's Missing Glove",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_046_TITLE": {
+        "text": "Bug-Bitten",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_047_TITLE": {
+        "text": "Royal Records - Sekhmet 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_048_TITLE": {
+        "text": "Royal Records - Sekhmet 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_049_TITLE": {
+        "text": "Rest for Our People - 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_050_TITLE": {
+        "text": "Rest for Our People - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_051_TITLE": {
+        "text": "Tragedy of the Desert",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_052_TITLE": {
+        "text": "Temple Adventures",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_053_TITLE": {
+        "text": "Ancient Architecture of the Desert",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_054_TITLE": {
+        "text": "Royal Records - Anubisis 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_055_TITLE": {
+        "text": "Royal Records - Anubisis 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_056_TITLE": {
+        "text": "Entry 1 - Test Subject Omega",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_057_TITLE": {
+        "text": "New Theories of Evolution",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_058_TITLE": {
+        "text": "Entry 2 - Test Subject Omega",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_059_TITLE": {
+        "text": "The End of Despair",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_060_TITLE": {
+        "text": "There's Room Behind the Pillar",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_061_TITLE": {
+        "text": "Ar'rat's Journal - 1",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_062_TITLE": {
+        "text": "Ar'rat's Journal - 2",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_063_TITLE": {
+        "text": "Ar'rat's Journal - 3",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_064_TITLE": {
+        "text": "Ar'rat's Journal - 4",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_065_TITLE": {
+        "text": "Ar'rat's Journal - 5",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_066_TITLE": {
+        "text": "Broken Pendant",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_TIP_SCENARIO_S2_EP2_1": {
+        "text": "Ar'rat, the Goddess of Judgment, was the one who fought and sealed the corrupted Sylunis one hundred years ago.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_TIP_SCENARIO_S2_EP2_2": {
+        "text": "After Camilla Banoub was defeated, many raiders have snuck into the Temple in hopes of stealing some treasure.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_TIP_SCENARIO_S2_EP2_3": {
+        "text": "Although the descendants of the Desert Tribe are scattered across the land, they firmly believe that the legendary Three Kings will someday return to lead them once more.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_TIP_SCENARIO_S2_EP2_4": {
+        "text": "Elise and Ar'rat are the former Goddesses of the Desert and the Volcano, respectively.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_TIP_SET_CARVESTONE_1": {
+        "text": "Add slots and inlay two Sigils from the same set into a Soulbound Weapon to trigger their unique Set Options.",
         "version": "4.9.0",
         "original": true
     }

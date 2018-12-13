@@ -310,6 +310,16 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_NEW_XMAS",
+        "name": "TEXT_BREAD_NEW_XMAS_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_xmas",
+        "sell_cost": 1225
+    },
+    {
         "id": "BREAD_SHAMROCK",
         "name": "TEXT_BREAD_SHAMROCK_NAME",
         "rarity": "rare",

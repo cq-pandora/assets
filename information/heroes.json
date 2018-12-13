@@ -105,6 +105,41 @@
         "skins": []
     },
     {
+        "id": "tarantula_(m)",
+        "readableId": "tarantula_(m)",
+        "class": "archer",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_AR_1_12",
+                "name": "TEXT_CHA_AR_1_12_NAME",
+                "image": "ar_1_12",
+                "star": 1,
+                "atk_power": 27.419999999999998,
+                "hp": 390.67,
+                "crit_chance": 0.15,
+                "armor": 44.980000000000004,
+                "resistance": 44.980000000000004,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_1_12_DESC",
+                "block_image": "ui_skill_icon_archer_arachne",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_AR_ARACHNE_NAME",
+                "block_description": "TEXT_SKILL_AR_ARACHNE_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
         "id": "girl_scout",
         "readableId": "girl_scout",
         "class": "archer",
@@ -511,6 +546,41 @@
                 "accuracy": 0,
                 "evasion": 0,
                 "lore": "TEXT_CHA_AR_2_15_DESC",
+                "block_image": "ui_skill_icon_archer_viola",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_AR_VIOLA_NAME",
+                "block_description": "TEXT_SKILL_AR_VIOLA_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "experiment_survivor",
+        "readableId": "experiment_survivor",
+        "class": "archer",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_AR_2_16",
+                "name": "TEXT_CHA_AR_2_16_NAME",
+                "image": "ar_2_16",
+                "star": 2,
+                "atk_power": 90.926,
+                "hp": 619.7950000000001,
+                "crit_chance": 0.2625,
+                "armor": 71.599,
+                "resistance": 71.599,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_2_16_DESC",
                 "block_image": "ui_skill_icon_archer_viola",
                 "skill_lvl": 1,
                 "passive_name": null,
@@ -1006,6 +1076,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_AR_SHURIKEN_NAME",
                 "block_description": "TEXT_SKILL_AR_SHURIKEN_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "master_nebuchadnezzar",
+        "readableId": "master_nebuchadnezzar",
+        "class": "archer",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_AR_3_18",
+                "name": "TEXT_CHA_AR_3_18_NAME",
+                "image": "ar_3_18",
+                "star": 3,
+                "atk_power": 164.12399999999997,
+                "hp": 1053.1799999999998,
+                "crit_chance": 0.2625,
+                "armor": 102.036,
+                "resistance": 102.036,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_3_18_DESC",
+                "block_image": "ui_skill_icon_archer_genevie",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_AR_GENEVIE_NAME",
+                "block_description": "TEXT_SKILL_AR_GENEVIE_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -1933,7 +2038,7 @@
                 "ability": "TEXT_EXCLUSIVE_AR_LIMITED_4_1",
                 "star": 4,
                 "atk_power": 114,
-                "atk_speed": 0.7,
+                "atk_speed": 1.2,
                 "options": 1365,
                 "class": "bow",
                 "type": "sbw,secret"
@@ -1945,7 +2050,7 @@
                 "ability": "TEXT_EXCLUSIVE_AR_LIMITED_4_1",
                 "star": 5,
                 "atk_power": 186,
-                "atk_speed": 0.7,
+                "atk_speed": 1.2,
                 "options": 1365,
                 "class": "bow",
                 "type": "sbw,secret"
@@ -1957,7 +2062,7 @@
                 "ability": "TEXT_EXCLUSIVE_AR_LIMITED_6_1",
                 "star": 6,
                 "atk_power": 285,
-                "atk_speed": 0.7,
+                "atk_speed": 1.2,
                 "options": 1365,
                 "class": "bow",
                 "type": "sbw,secret"
@@ -5482,6 +5587,41 @@
         "skins": []
     },
     {
+        "id": "laboratory_manager",
+        "readableId": "laboratory_manager",
+        "class": "hunter",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_HU_1_12",
+                "name": "TEXT_CHA_HU_1_12_NAME",
+                "image": "hu_1_12",
+                "star": 1,
+                "atk_power": 42.03,
+                "hp": 263.27,
+                "crit_chance": 0.35,
+                "armor": 59.010000000000005,
+                "resistance": 14.030000000000001,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_1_12_DESC",
+                "block_image": "ui_skill_icon_hunter_jahard",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_HU_JAHARD_NAME",
+                "block_description": "TEXT_SKILL_HU_JAHARD_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
         "id": "adventurer",
         "readableId": "adventurer",
         "class": "hunter",
@@ -5893,6 +6033,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_HU_KILL_CASE_NAME",
                 "block_description": "TEXT_SKILL_HU_KILL_CASE_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "grave_robber",
+        "readableId": "grave_robber",
+        "class": "hunter",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_HU_2_16",
+                "name": "TEXT_CHA_HU_2_16_NAME",
+                "image": "hu_2_16",
+                "star": 2,
+                "atk_power": 84.095,
+                "hp": 459.899,
+                "crit_chance": 0.2,
+                "armor": 93.56600000000002,
+                "resistance": 21.967,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_2_16_DESC",
+                "block_image": "ui_skill_icon_hunter_drill_gun",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_HU_DRILL_GUN_NAME",
+                "block_description": "TEXT_SKILL_HU_DRILL_GUN_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -6383,6 +6558,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_HU_SNIPING_NAME",
                 "block_description": "TEXT_SKILL_HU_SNIPING_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "temur_the_willful",
+        "readableId": "temur_the_willful",
+        "class": "hunter",
+        "type": "promotble",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_HU_3_18",
+                "name": "TEXT_CHA_HU_3_18_NAME",
+                "image": "hu_3_18",
+                "star": 3,
+                "atk_power": 196.15200000000002,
+                "hp": 843,
+                "crit_chance": 0.2,
+                "armor": 133.212,
+                "resistance": 31.176,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_3_18_DESC",
+                "block_image": "ui_skill_icon_hunter_louisila",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_HU_LUICILLA_NAME",
+                "block_description": "TEXT_SKILL_HU_LUICILLA_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -11628,6 +11838,41 @@
         "skins": []
     },
     {
+        "id": "lost_merchant",
+        "readableId": "lost_merchant",
+        "class": "paladin",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PA_1_12",
+                "name": "TEXT_CHA_PA_1_12_NAME",
+                "image": "pa_1_12",
+                "star": 1,
+                "atk_power": 16.12,
+                "hp": 703.98,
+                "crit_chance": 0.175,
+                "armor": 14.030000000000001,
+                "resistance": 77.02,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_1_12_DESC",
+                "block_image": "ui_skill_icon_paladin_sunlight_attack",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PA_SUN_LIGHT_NAME",
+                "block_description": "TEXT_SKILL_PA_SUN_LIGHT_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
         "id": "pirate",
         "readableId": "pirate",
         "class": "paladin",
@@ -12039,6 +12284,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_PA_PAINWHEEL_NAME",
                 "block_description": "TEXT_SKILL_PA_PAINWHEEL_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "plasterer_fukhu",
+        "readableId": "plasterer_fukhu",
+        "class": "paladin",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PA_2_16",
+                "name": "TEXT_CHA_PA_2_16_NAME",
+                "image": "pa_2_16",
+                "star": 2,
+                "atk_power": 31.548000000000002,
+                "hp": 1004.883,
+                "crit_chance": 0.175,
+                "armor": 21.967,
+                "resistance": 122.122,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_2_16_DESC",
+                "block_image": "ui_skill_icon_paladin_schla",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PA_SCHLA_NAME",
+                "block_description": "TEXT_SKILL_PA_SCHLA_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -12529,6 +12809,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_PA_CAPTAIC_NAME",
                 "block_description": "TEXT_SKILL_PA_CAPTAIC_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "undead_test_subject",
+        "readableId": "undead_test_subject",
+        "class": "paladin",
+        "type": "promotble",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PA_3_18",
+                "name": "TEXT_CHA_PA_3_18_NAME",
+                "image": "pa_3_18",
+                "star": 3,
+                "atk_power": 90.82799999999999,
+                "hp": 1757.304,
+                "crit_chance": 0.1,
+                "armor": 31.176,
+                "resistance": 174.09599999999998,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_3_18_DESC",
+                "block_image": "ui_skill_icon_paladin_chain_binding",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PA_CHAIN_BINDING_NAME",
+                "block_description": "TEXT_SKILL_PA_CHAIN_BINDING_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -17909,6 +18224,41 @@
         "skins": []
     },
     {
+        "id": "mummy_embalmer",
+        "readableId": "mummy_embalmer",
+        "class": "priest",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PR_1_12",
+                "name": "TEXT_CHA_PR_1_12_NAME",
+                "image": "pr_1_12",
+                "star": 1,
+                "atk_power": 23.43,
+                "hp": 435.78000000000003,
+                "crit_chance": 0.1,
+                "armor": 44.980000000000004,
+                "resistance": 44.980000000000004,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_1_12_DESC",
+                "block_image": "ui_skill_icon_priest_sfera",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PR_SFERA_NAME",
+                "block_description": "TEXT_SKILL_PR_SFERA_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
         "id": "sister",
         "readableId": "sister",
         "class": "priest",
@@ -18320,6 +18670,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_PR_BLACK_HEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_BLACK_HEAL_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "golden_piggy",
+        "readableId": "golden_piggy",
+        "class": "priest",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PR_2_16",
+                "name": "TEXT_CHA_PR_2_16_NAME",
+                "image": "pr_2_16",
+                "star": 2,
+                "atk_power": 42.790000000000006,
+                "hp": 636.5920000000001,
+                "crit_chance": 0.1,
+                "armor": 71.599,
+                "resistance": 90.2,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_2_16_DESC",
+                "block_image": "ui_skill_icon_wizard_gold_heal",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PR_GOLD_HEAL_NAME",
+                "block_description": "TEXT_SKILL_PR_GOLD_HEAL_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -18810,6 +19195,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_PR_ORDER_TEAM_NAME",
                 "block_description": "TEXT_SKILL_PR_ORDER_TEAM_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "evolutionist_spencer",
+        "readableId": "evolutionist_spencer",
+        "class": "priest",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PR_3_18",
+                "name": "TEXT_CHA_PR_3_18_NAME",
+                "image": "pr_3_18",
+                "star": 3,
+                "atk_power": 141.876,
+                "hp": 1362.312,
+                "crit_chance": 0.175,
+                "armor": 102.036,
+                "resistance": 102.036,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_3_18_DESC",
+                "block_image": "ui_skill_icon_priest_bari",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PR_BARI_NAME",
+                "block_description": "TEXT_SKILL_PR_BARI_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -22992,7 +23412,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_varnir_default"
+        ],
         "skins": [
             {
                 "id": 196,
@@ -23355,6 +23777,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WA_VICTORY_RUSH_NAME",
                 "block_description": "TEXT_SKILL_WA_VICTORY_RUSH_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "confused_sentinel",
+        "readableId": "confused_sentinel",
+        "class": "warrior",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WA_1_12",
+                "name": "TEXT_CHA_WA_1_12_NAME",
+                "image": "wa_1_12",
+                "star": 1,
+                "atk_power": 20.82,
+                "hp": 548.04,
+                "crit_chance": 0.175,
+                "armor": 77.02,
+                "resistance": 14.030000000000001,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_1_12_DESC",
+                "block_image": "ui_skill_icon_warrior_echidna",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WA_ECHIDNA_NAME",
+                "block_description": "TEXT_SKILL_WA_ECHIDNA_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -23775,6 +24232,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WA_REJECT_THORN_NAME",
                 "block_description": "TEXT_SKILL_WA_REJECT_THORN_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "eternally_young_sentry",
+        "readableId": "eternally_young_sentry",
+        "class": "warrior",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WA_2_16",
+                "name": "TEXT_CHA_WA_2_16_NAME",
+                "image": "wa_2_16",
+                "star": 2,
+                "atk_power": 38.400999999999996,
+                "hp": 683.133,
+                "crit_chance": 0.1,
+                "armor": 122.122,
+                "resistance": 21.967,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_2_16_DESC",
+                "block_image": "ui_skill_icon_warrior_kassia",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WA_KASSIA_NAME",
+                "block_description": "TEXT_SKILL_WA_KASSIA_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -24265,6 +24757,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WA_SWORDFLASH_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDFLASH_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "desert_warrior_keyab",
+        "readableId": "desert_warrior_keyab",
+        "class": "warrior",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WA_3_18",
+                "name": "TEXT_CHA_WA_3_18_NAME",
+                "image": "wa_3_18",
+                "star": 3,
+                "atk_power": 131.052,
+                "hp": 1269.624,
+                "crit_chance": 0.1,
+                "armor": 174.09599999999998,
+                "resistance": 31.176,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_3_18_DESC",
+                "block_image": "ui_skill_icon_warrior_isis",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WA_ISIS_NAME",
+                "block_description": "TEXT_SKILL_WA_ISIS_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -30725,6 +31252,41 @@
         "skins": []
     },
     {
+        "id": "possessed_scholar",
+        "readableId": "possessed_scholar",
+        "class": "wizard",
+        "type": "promotble",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WI_1_12",
+                "name": "TEXT_CHA_WI_1_12_NAME",
+                "image": "wi_1_12",
+                "star": 1,
+                "atk_power": 50.980000000000004,
+                "hp": 233.26,
+                "crit_chance": 0.2,
+                "armor": 14.030000000000001,
+                "resistance": 59.010000000000005,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_1_12_DESC",
+                "block_image": "ui_skill_icon_wizard_magic_scanner",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WI_MAGIC_SCAN_NAME",
+                "block_description": "TEXT_SKILL_WI_MAGIC_SCAN_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
         "id": "magic_student",
         "readableId": "magic_student",
         "class": "wizard",
@@ -31136,6 +31698,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WI_WOLFRAM_NAME",
                 "block_description": "TEXT_SKILL_WI_WOLFRAM_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "levitating_stone_manager",
+        "readableId": "levitating_stone_manager",
+        "class": "wizard",
+        "type": "promotble",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WI_2_16",
+                "name": "TEXT_CHA_WI_2_16_NAME",
+                "image": "wi_2_16",
+                "star": 2,
+                "atk_power": 91.058,
+                "hp": 525.965,
+                "crit_chance": 0.2,
+                "armor": 21.967,
+                "resistance": 93.56600000000002,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_2_16_DESC",
+                "block_image": "ui_skill_icon_wizard_osiris",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WI_OSIRIS_NAME",
+                "block_description": "TEXT_SKILL_WI_OSIRIS_DESC_S2EP2",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -31626,6 +32223,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WI_MAGIC_SCAN_NAME",
                 "block_description": "TEXT_SKILL_WI_MAGIC_SCAN_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "richard_kim",
+        "readableId": "richard_kim",
+        "class": "wizard",
+        "type": "promotble",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WI_3_18",
+                "name": "TEXT_CHA_WI_3_18_NAME",
+                "image": "wi_3_18",
+                "star": 3,
+                "atk_power": 223.272,
+                "hp": 747.264,
+                "crit_chance": 0.35,
+                "armor": 31.176,
+                "resistance": 133.212,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_3_18_DESC",
+                "block_image": "ui_skill_icon_wizard_meteor2",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WI_METEOR2_NAME",
+                "block_description": "TEXT_SKILL_WI_METEOR2_DESC",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -35913,7 +36545,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_haedal_default"
+        ],
         "skins": [
             {
                 "id": 110,

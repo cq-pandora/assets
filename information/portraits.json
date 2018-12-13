@@ -45,7 +45,9 @@
         "portrait_sisanut2_sad",
         "portrait_sisanut2_smile",
         "portrait_sisanut2_surprise",
-        "portrait_sisanut2_angry"
+        "portrait_sisanut2_angry",
+        "portrait_sisanut2_shy",
+        "portrait_sisanut2_pain"
     ],
     "TEXT_SISKRAKEN_NAME": [
         "portrait_siskraken_default",
@@ -131,7 +133,8 @@
         "portrait_popo_ep_5_default",
         "portrait_popo_ep_6_default",
         "portrait_popo_ep_7_default",
-        "portrait_popo_s2ep_1_default"
+        "portrait_popo_s2ep_1_default",
+        "portrait_popo_s2ep_2_default"
     ],
     "TEXT_NPC_PANDORA_NAME": [
         "portrait_pandora_default",
@@ -146,6 +149,7 @@
         "portrait_rednas_sigh",
         "portrait_rednas_angry",
         "portrait_rednas_pain",
+        "portrait_popo_s2ep_2_default",
         "portrait_rednas_smilet",
         "portrait_rednasdress_default",
         "portrait_rednasdress_sad",
@@ -479,7 +483,12 @@
     "TEXT_UNKNOWN": [
         "portrait_arjuna_default",
         "portrait_neth_default",
-        "portrait_tsukinokurenaihood_default"
+        "portrait_tsukinokurenaihood_default",
+        "portrait_s2ep2_default_1",
+        "portrait_s2ep2_default_2",
+        "portrait_s2ep2_default_3",
+        "portrait_s2ep2_default_4",
+        "portrait_s2ep2a_default_5"
     ],
     "TEXT_EXPLORE_NPC_NAME": [
         "portrait_arjuna_default"
@@ -726,6 +735,12 @@
         "portrait_lioneloff_default",
         "portrait_soulhard_default_2",
         "portrait_rael_default"
+    ],
+    "TEXT_MON_BS_JINSERA_UNKNOWN_NAME": [
+        "portrait_jeraphim_default"
+    ],
+    "TEXT_JERAPHIM_NAME": [
+        "portrait_jeraphim_default"
     ],
     "TEXT_CHA_AR_2_6_NAME": [
         "portrait_sigruna_default",
@@ -1361,6 +1376,15 @@
     "TEXT_CHA_PR_6_18_NAME": [
         "portrait_noel_default"
     ],
+    "TEXT_CHA_PR_4_23_NAME": [
+        "portrait_varnir_default"
+    ],
+    "TEXT_CHA_PR_5_23_NAME": [
+        "portrait_varnir_default"
+    ],
+    "TEXT_CHA_PR_6_23_NAME": [
+        "portrait_varnir_default"
+    ],
     "TEXT_CHA_WA_1_3_NAME": [
         "portrait_leon_default_pdr",
         "portrait_leonmax_default"
@@ -1753,6 +1777,15 @@
     ],
     "TEXT_CHA_WI_5_19_NAME": [
         "portrait_wolfram_default"
+    ],
+    "TEXT_CHA_WI_4_20_NAME": [
+        "portrait_haedal_default"
+    ],
+    "TEXT_CHA_WI_5_20_NAME": [
+        "portrait_haedal_default"
+    ],
+    "TEXT_CHA_WI_6_20_NAME": [
+        "portrait_haedal_default"
     ],
     "TEXT_CHA_WI_5_21_NAME": [
         "portrait_osiris_default"
