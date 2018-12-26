@@ -315,6 +315,21 @@
         "image": "fish_icon_gear_float_11"
     },
     {
+        "id": "ITEM_FISHING_FLOAT_EVENT_LONELY_BOKFISH",
+        "name": "TEXT_ITEM_FISHING_FLOAT_EVENT_LONELY_BOKFISH_NAME",
+        "type": "item_float",
+        "grade": 9,
+        "habitat": "freshwater",
+        "habitat_bouns": 10,
+        "power": 29,
+        "big_chance": 93,
+        "bite_chance": 20,
+        "event_chance": 0,
+        "currency": "ITEM_GOLD",
+        "price": 1,
+        "image": "fish_icon_gear_float_12"
+    },
+    {
         "id": "ITEM_FISHING_BAIT_START",
         "name": "TEXT_FISHING_BAIT_START_NAME",
         "type": "item_bait",

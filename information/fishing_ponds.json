@@ -1,5 +1,39 @@
 [
     {
+        "id": "FISHERY_EVENT_CHRISTMAS",
+        "name": "TEXT_CHRISTMAS_FISHERY_NAME",
+        "description": "TEXT_CHRISTMAS_FISHERY_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_EVENT_COUPLE_NORMALFROG",
+            "FISH_EVENT_COUPLE_GUPPY",
+            "FISH_EVENT_COUPLE_MIGGURAGI",
+            "FISH_EVENT_COUPLE_GRILLEDFISH",
+            "FISH_EVENT_COUPLE_OJINGA",
+            "FISH_EVENT_COUPLE_CAN",
+            "FISH_EVENT_COUPLE_HALFMOON",
+            "FISH_EVENT_COUPLE_NUPCHI"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_LONELY_BOKFISH",
+            "FISH_EVENT_LONELY_GOLDFISH"
+        ],
+        "habitat": "FRESHWATER",
+        "boss": "FISH_EVENT_LONELY_BOKFISH",
+        "reward": {
+            "type": "ITEM_FISHING_FLOAT_EVENT_LONELY_BOKFISH",
+            "amount": 1
+        },
+        "background": "ui_bgimage_fishery_christmas"
+    },
+    {
         "id": "FISHERY_EVENT_SALMON",
         "name": "TEXT_TUNDRA_FISHERY_NAME",
         "description": "TEXT_TUNDRA_FISHERY_DESC",

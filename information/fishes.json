@@ -1717,6 +1717,180 @@
         ]
     },
     {
+        "id": "FISH_EVENT_COUPLE_NORMALFROG",
+        "name": "TEXT_FISH_EVENT_COUPLE_NORMALFROG_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_normalfrog",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_COUPLE_GUPPY",
+        "name": "TEXT_FISH_EVENT_COUPLE_GUPPY_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_guppy",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_COUPLE_MIGGURAGI",
+        "name": "TEXT_FISH_EVENT_COUPLE_MIGGURAGI_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_migguragi",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_COUPLE_GRILLEDFISH",
+        "name": "TEXT_FISH_EVENT_COUPLE_GRILLEDFISH_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_grilledfish",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_COUPLE_OJINGA",
+        "name": "TEXT_FISH_EVENT_COUPLE_OJINGA_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_ojinga",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_COUPLE_CAN",
+        "name": "TEXT_FISH_EVENT_COUPLE_CAN_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_can",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_COUPLE_HALFMOON",
+        "name": "TEXT_FISH_EVENT_COUPLE_HALFMOON_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_halfmoon",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_COUPLE_NUPCHI",
+        "name": "TEXT_FISH_EVENT_COUPLE_NUPCHI_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 2,
+        "starts_from": 40,
+        "image": "fish_event_couple_nupchi",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 125
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_LONELY_BOKFISH",
+        "name": "TEXT_FISH_EVENT_LONELY_BOKFISH_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "boss",
+        "grade": 4,
+        "starts_from": 40,
+        "image": "fish_event_lonely_bokfish",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_CHRISTMAS_2018",
+                "amount": 1
+            },
+            {
+                "type": "MATERIAL_LIMIT_EVENT_CHRISTMAS_2018",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_LONELY_GOLDFISH",
+        "name": "TEXT_FISH_EVENT_LONELY_GOLDFISH_NAME",
+        "habitat": "freshwater",
+        "type": "fish",
+        "rank": "boss",
+        "grade": 6,
+        "starts_from": 40,
+        "image": "fish_freshwater_2_goldfish",
+        "exp": 1224,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 1224
+            }
+        ]
+    },
+    {
         "id": "FISH_EVENT_SALMON",
         "name": "TEXT_FISH_EVENT_SALMON_NAME",
         "habitat": "event",

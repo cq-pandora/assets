@@ -14252,16 +14252,56 @@
             "path": "fishes.100"
         },
         {
-            "key": "FISH_EVENT_SALMON",
+            "key": "FISH_EVENT_COUPLE_NORMALFROG",
             "path": "fishes.101"
         },
         {
-            "key": "FISH_EVENT_CATBOX",
+            "key": "FISH_EVENT_COUPLE_GUPPY",
             "path": "fishes.102"
         },
         {
-            "key": "FISH_EVENT_SALMON_2ND",
+            "key": "FISH_EVENT_COUPLE_MIGGURAGI",
             "path": "fishes.103"
+        },
+        {
+            "key": "FISH_EVENT_COUPLE_GRILLEDFISH",
+            "path": "fishes.104"
+        },
+        {
+            "key": "FISH_EVENT_COUPLE_OJINGA",
+            "path": "fishes.105"
+        },
+        {
+            "key": "FISH_EVENT_COUPLE_CAN",
+            "path": "fishes.106"
+        },
+        {
+            "key": "FISH_EVENT_COUPLE_HALFMOON",
+            "path": "fishes.107"
+        },
+        {
+            "key": "FISH_EVENT_COUPLE_NUPCHI",
+            "path": "fishes.108"
+        },
+        {
+            "key": "FISH_EVENT_LONELY_BOKFISH",
+            "path": "fishes.109"
+        },
+        {
+            "key": "FISH_EVENT_LONELY_GOLDFISH",
+            "path": "fishes.110"
+        },
+        {
+            "key": "FISH_EVENT_SALMON",
+            "path": "fishes.111"
+        },
+        {
+            "key": "FISH_EVENT_CATBOX",
+            "path": "fishes.112"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_2ND",
+            "path": "fishes.113"
         }
     ],
     "fishing_gear": [
@@ -14350,98 +14390,106 @@
             "path": "fishing_gear.20"
         },
         {
-            "key": "ITEM_FISHING_BAIT_START",
+            "key": "ITEM_FISHING_FLOAT_EVENT_LONELY_BOKFISH",
             "path": "fishing_gear.21"
         },
         {
-            "key": "ITEM_FISHING_BAIT_WORM",
+            "key": "ITEM_FISHING_BAIT_START",
             "path": "fishing_gear.22"
         },
         {
-            "key": "ITEM_FISHING_BAIT_KRILL",
+            "key": "ITEM_FISHING_BAIT_WORM",
             "path": "fishing_gear.23"
         },
         {
-            "key": "ITEM_FISHING_BAIT_JUNGARI",
+            "key": "ITEM_FISHING_BAIT_KRILL",
             "path": "fishing_gear.24"
         },
         {
-            "key": "ITEM_FISHING_BAIT_OJINGA",
+            "key": "ITEM_FISHING_BAIT_JUNGARI",
             "path": "fishing_gear.25"
         },
         {
-            "key": "ITEM_FISHING_BAIT_BUNGFISHBREAD",
+            "key": "ITEM_FISHING_BAIT_OJINGA",
             "path": "fishing_gear.26"
         },
         {
-            "key": "ITEM_FISHING_BAIT_SPINNER1",
+            "key": "ITEM_FISHING_BAIT_BUNGFISHBREAD",
             "path": "fishing_gear.27"
         },
         {
-            "key": "ITEM_FISHING_BAIT_KOIBREAD",
+            "key": "ITEM_FISHING_BAIT_SPINNER1",
             "path": "fishing_gear.28"
         },
         {
-            "key": "ITEM_FISHING_BAIT_SPINNER2",
+            "key": "ITEM_FISHING_BAIT_KOIBREAD",
             "path": "fishing_gear.29"
         },
         {
-            "key": "ITEM_FISHING_BAIT_TOPRED",
+            "key": "ITEM_FISHING_BAIT_SPINNER2",
             "path": "fishing_gear.30"
         },
         {
-            "key": "ITEM_FISHING_BAIT_TOPYELLOW",
+            "key": "ITEM_FISHING_BAIT_TOPRED",
             "path": "fishing_gear.31"
         },
         {
-            "key": "ITEM_FISHING_BAIT_TOPBLACK",
+            "key": "ITEM_FISHING_BAIT_TOPYELLOW",
             "path": "fishing_gear.32"
         },
         {
-            "key": "ITEM_FISHING_BAIT_TOPBLUE",
+            "key": "ITEM_FISHING_BAIT_TOPBLACK",
             "path": "fishing_gear.33"
         },
         {
-            "key": "ITEM_FISHING_BAIT_EVENTROE",
+            "key": "ITEM_FISHING_BAIT_TOPBLUE",
             "path": "fishing_gear.34"
+        },
+        {
+            "key": "ITEM_FISHING_BAIT_EVENTROE",
+            "path": "fishing_gear.35"
         }
     ],
     "fishing_ponds": [
         {
-            "key": "FISHERY_EVENT_SALMON",
+            "key": "FISHERY_EVENT_CHRISTMAS",
             "path": "fishing_ponds.0"
         },
         {
-            "key": "FISHERY_1_01",
+            "key": "FISHERY_EVENT_SALMON",
             "path": "fishing_ponds.1"
         },
         {
-            "key": "FISHERY_2_01",
+            "key": "FISHERY_1_01",
             "path": "fishing_ponds.2"
         },
         {
-            "key": "FISHERY_3_01",
+            "key": "FISHERY_2_01",
             "path": "fishing_ponds.3"
         },
         {
-            "key": "FISHERY_4_01",
+            "key": "FISHERY_3_01",
             "path": "fishing_ponds.4"
         },
         {
-            "key": "FISHERY_5_01",
+            "key": "FISHERY_4_01",
             "path": "fishing_ponds.5"
         },
         {
-            "key": "FISHERY_6_01",
+            "key": "FISHERY_5_01",
             "path": "fishing_ponds.6"
         },
         {
-            "key": "FISHERY_7_01",
+            "key": "FISHERY_6_01",
             "path": "fishing_ponds.7"
         },
         {
-            "key": "FISHERY_8_01",
+            "key": "FISHERY_7_01",
             "path": "fishing_ponds.8"
+        },
+        {
+            "key": "FISHERY_8_01",
+            "path": "fishing_ponds.9"
         }
     ],
     "portraits": [
