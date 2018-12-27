@@ -83933,5 +83933,90 @@
         "text": "Morale Boost",
         "version": "4.9.0",
         "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_25_DESC": {
+        "text": "(Passive Enhanced) The duration of 'Radiance of the Battlefield' is increased by 2 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_25_NAME": {
+        "text": "Gun & Blade",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_25_DESC": {
+        "text": "(Passive Enhanced) The duration of 'Radiance of the Battlefield' is increased by 2 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_25_NAME": {
+        "text": "Gunblade",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_25_DESC": {
+        "text": "(Passive Enhanced) The duration of 'Radiance of the Battlefield' increases by 2 seconds.\n\n(Passive Added) If Carol or another ally uses a 3-chain during 'Radiance of the Battlefield,' Carol teleports to the nearest enemy and uses 'Brave Slash' to deal physical power equal to 3000% of her attack power with 2 hits. Upon the termination of 'Brave Slash,' Carol returns to her initial location. (Cooltime: 5 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_25_NAME": {
+        "text": "Knockin' on Heaven's Door",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_4_25_DESC": {
+        "text": "(Passive Enhanced) During his shield canceling debuff, Caeneus decreases the damage he receives by 30% and increases his armor and resistance by 600.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_4_25_NAME": {
+        "text": "Squire's Spear",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_5_25_DESC": {
+        "text": "(Passive Enhanced) During his shield canceling debuff, Caeneus decreases the damage he receives by 30% and increases his armor and resistance by 600.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_5_25_NAME": {
+        "text": "Knight's Spear",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_6_25_DESC": {
+        "text": "(Passive Enhanced) During his shield canceling debuff, Caeneus decreases the damage he receives by 40% and increases his armor and resistance by 800.\n(Passive Added) During his shield canceling debuff, Caeneus additionally increases his armor and resistance by 30%, and knockback resistance by 30%.\n\nUpon using another ally's block skill, Caeneus receives all damage targeted at the entire team and increases his movement speed by 50% for 2 seconds. (This effect cannot be canceled.)\nWith every 3 block skills used by another ally, Caeneus generates 1 block of his own. (Cooltime: 2 seconds)\n\nCaeneus always uses 'Aura of Justice.'\n'Aura of Justice': All subjects within the skill's range receive 90% more critical resistance when hit by attacks dealt from outside the Aura.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_6_25_NAME": {
+        "text": "Mark of Valiance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WR_S2EP2CH1_PUZZLE_01": {
+        "text": "It's a trap!\nWe have to disarm it!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WR_S2EP2CH1_PUZZLE_02": {
+        "text": "Pull the rope until\nthe mural is correctly assembled!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WR_S2EP2CH2_UFO_01": {
+        "text": "What's that?\nIt's flying toward us!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WR_S2EP2CH2_UFO_02": {
+        "text": "It's pulling us in!\nHelp!",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_WR_S2EP2_CH3_BOMB_01": {
+        "text": "The pulse of mana is speeding up.\nLet's hurry.",
+        "version": "4.9.0",
+        "original": true
     }
 }
