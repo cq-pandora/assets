@@ -843,6 +843,15 @@
     "TEXT_CHA_AR_6_8_NAME": [
         "portrait_niven_default"
     ],
+    "TEXT_CHA_AR_4_9_NAME": [
+        "portrait_chunhyang_default"
+    ],
+    "TEXT_CHA_AR_5_9_NAME": [
+        "portrait_chunhyang_default"
+    ],
+    "TEXT_CHA_AR_6_9_NAME": [
+        "portrait_chunhyang_default"
+    ],
     "TEXT_CHA_AR_4_10_NAME": [
         "portrait_magnus_default"
     ],
@@ -1708,6 +1717,15 @@
     ],
     "TEXT_CHA_WI_6_8_NAME": [
         "portrait_nazrune_default"
+    ],
+    "TEXT_CHA_WI_4_9_NAME": [
+        "portrait_mondrian_default"
+    ],
+    "TEXT_CHA_WI_5_9_NAME": [
+        "portrait_mondrian_default"
+    ],
+    "TEXT_CHA_WI_6_9_NAME": [
+        "portrait_mondrian_default"
     ],
     "TEXT_CHA_WI_4_10_NAME": [
         "portrait_necron_default"

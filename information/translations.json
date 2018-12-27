@@ -57710,13 +57710,13 @@
         "original": true
     },
     "TEXT_BS_TOPDISH_COOK_ANYBUFFS_BAN": {
-        "text": "Wash your hands before you start cooking.\n(All buffs have been dispelled.)",
-        "version": "4.7.0",
+        "text": "Wash your hands before you start cooking.",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_BS_TOPDISH_COOK_ANYDEBUFFS_BAN": {
-        "text": "Don't use too much MSG!\n(All debuffs have been dispelled.)",
-        "version": "4.7.0",
+        "text": "Don't use too much MSG!",
+        "version": "4.9.0",
         "original": true
     },
     "TEXT_BS_TOPDISH_COOK_ATK_COUNT_ENEMY_ATK_DOWN": {
@@ -83796,6 +83796,141 @@
     },
     "TEXT_TIP_SET_CARVESTONE_1": {
         "text": "Add slots and inlay two Sigils from the same set into a Soulbound Weapon to trigger their unique Set Options.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_25_DESC": {
+        "text": "Carol is used to being the best, and she prefers to keep it that way - especially when it comes to fighting with her sword and gun. Second to none, the proud Carol joins the Order of the Goddess to become the best Heaven's Cavalry in Hasla and put her gifts to good use.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_25_NAME": {
+        "text": "Carol",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_25_DESC": {
+        "text": "Soon after joining the Order and being drafted into the Heaven's Cavalry, Carol finds out about the position of 'Elite Captain,' a prestigious rank bestowed to the best soldier in the group. While Carol may receive the highest grades, her arrogance and overconfidence always get the best of her. The title of 'Elite Captain' thus goes to Teresa, leaving Carol to seethe over the first 'second place' in which she finds herself.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_25_NAME": {
+        "text": "Second Place Carol",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_25_DESC": {
+        "text": "When Teresa suddenly deserts her ranks and leaves the Heaven's Cavalry for good, the empty position of 'Elite Captain' goes to Carol. Although Carol does her best to show that she has every right to her new position, many still remember Teresa as the better soldier and captain. Carol, fed up with her eternal reputation of 'second place,' departs to track down Teresa and end their (rather one-sided) competition once and for all.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_25_NAME": {
+        "text": "Radiant Carol",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_3_1_NAME_A": {
+        "text": "Roman Soldier A",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_3_1_NAME_B": {
+        "text": "Roman Soldier B",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_4_25_DESC": {
+        "text": "On the way to the capital of Grancia to receive his knighthood training, Caeneus stumbles upon a group of bandits. At the moment of despair, a figure of light and mercy arrives to save the day: Lady Victoria of the Cobalt Knights. Caeneus is instantly moved by the graceful knight and vows to enter tha ranks of the Cobalt Knights at all costs.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_4_25_NAME": {
+        "text": "Caeneus",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_5_25_DESC": {
+        "text": "True to his word, Caeneus works hard to overcome the difficult training and exams required to enter the Cobalt Knights, led under Victoria's flag. He volunteers for the position of flag bearer to stand at the vanguard and to aid Victoria at a closer distance. Over the years, Caeneus shows his worth at the front of the troops and is promoted to Vice Captain of the Cobalt Knights. However, his days of fulfillment come to a sudden end when Victoria receives Alexander's summoning and leaves for 'greater tasks.'",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_5_25_NAME": {
+        "text": "Caeneus of the Cobalt Knights",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_6_25_DESC": {
+        "text": "Caeneus does not falter, however, and continues his onward march at the front of battle lines, boosting his allies' spirits and striking fear into the hearts of his enemies. To the rest of the Cobalt Knights, the valiant and loyal Caeneus is the best Captain a knight could ask for. Only Caeneus fully feels the emptiness left by Victoria's departure, and he wonders if he can ever fill her shoes...",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_6_25_NAME": {
+        "text": "Caeneus of Valiance",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_93": {
+        "text": "Cause of Failure",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_94": {
+        "text": "Unfamiliar Stone",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_95": {
+        "text": "Colosseum Ticket",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CAROL_DESC": {
+        "text": "Carol shoots 3 bullets that deal #physical damage# equal to [50/90/150]% of her attack power, according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CAROL_LV2_SUBDESC": {
+        "text": "If an ally deals a critical hit, Carol increases her own attack power by 100, and accuracy and critical chance by 10% for 3 seconds.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CAROL_LV3_SUBDESC": {
+        "text": "If an ally deals a critical hit, Carol increases her own attack power by 150, evasion by 25%, and accuracy and critical chance by 15% for 3 seconds. Additionally, she generates 1 ally leader block when 'Radiance of the Battlefield' is activated. (Cooltime: 6 seconds)",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CAROL_NAME": {
+        "text": "Blade Bullet",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CAROL_SUBNAME": {
+        "text": "Radiance of the Battlefield",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_CAENEUS_DESC": {
+        "text": "Caeneus raises his flag, removing all ally and enemy shields. He also prevents any subject from receiving shields for [3/4/5] seconds according to the chain number used.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_CAENEUS_LV2_SUBDESC": {
+        "text": "During his shield canceling debuff, Caeneus decreases the damage he receives by 20%. \n(Block Skill Altered) If he reuses his block skill during this time, only the duration of the shield canceling debuff is refreshed.",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_CAENEUS_LV3_SUBDESC": {
+        "text": "During his shield canceling debuff, Caeneus decreases the damage he receives by 25% and increases his armor and resistance by 500.  \n(Block Skill Altered) If he reuses his block skill during this time, only the duration of the shield canceling debuff is refreshed.\n\nIf Caeneus is the only ally left during the fight, Caeneus enters 'Courageous Fury' mode. (Only activates once)\n'Courageous Fury': Caeneus instantly heals 100% of his HP, and his attack speed is increased by 50%. His auto attack is enhanced to deal #physical damage# equal to 100% of his resistance.\n(Block Skill and Passive Altered) Caeneus's normal Block Skill and Passive do not activate during 'Courageous Fury.'",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_CAENEUS_NAME": {
+        "text": "Flag of Justice",
+        "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_CAENEUS_SUBNAME": {
+        "text": "Morale Boost",
         "version": "4.9.0",
         "original": true
     }
