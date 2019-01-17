@@ -46,7 +46,6 @@
         "portrait_sisanut2_smile",
         "portrait_sisanut2_surprise",
         "portrait_sisanut2_angry",
-        "portrait_sisanut2_shy",
         "portrait_sisanut2_pain"
     ],
     "TEXT_SISKRAKEN_NAME": [
@@ -111,7 +110,14 @@
         "portrait_godsilunis_angry"
     ],
     "TEXT_NPC_SHOP_NAME": [
-        "portrait_brigit_default"
+        "portrait_brigit_default",
+        "portrait_sisdog_impassive",
+        "portrait_sisdog_shy",
+        "portrait_sisdog_sad",
+        "portrait_sisdog_angry",
+        "portrait_sisdog_shy_2",
+        "portrait_sisdog_shy_quest",
+        "portrait_sisdog_surprise_quest"
     ],
     "TEXT_NPC_WEAPON_NAME": [
         "portrait_fugus_default",
@@ -149,7 +155,10 @@
         "portrait_rednas_sigh",
         "portrait_rednas_angry",
         "portrait_rednas_pain",
-        "portrait_popo_s2ep_2_default",
+        "portrait_sisdog_default",
+        "portrait_sisdog_pain",
+        "portrait_sisdog_smile",
+        "portrait_sisdog_surprise",
         "portrait_rednas_smilet",
         "portrait_rednasdress_default",
         "portrait_rednasdress_sad",
@@ -379,6 +388,9 @@
     "TEXT_CHA_WA_6_15_NAME": [
         "portrait_arita_default"
     ],
+    "TEXT_CHA_WI_6_7_NAME": [
+        "portrait_alice_default"
+    ],
     "TEXT_CHA_WI_6_16_NAME": [
         "portrait_vesper_default"
     ],
@@ -531,6 +543,9 @@
         "portrait_free_default"
     ],
     "TEXT_CHA_HU_MUSCAT_NAME": [],
+    "TEXT_CHA_WA_4_13_NAME": [
+        "portrait_victoria_default"
+    ],
     "TEXT_CHAMPION_NETH_NAME": [
         "portrait_neth_default"
     ],
@@ -741,6 +756,24 @@
     ],
     "TEXT_JERAPHIM_NAME": [
         "portrait_jeraphim_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_RZ_3_01_NAME": [
+        "portrait_rzsubaru_default"
+    ],
+    "TEXT_MON_LIMITED_RZ_BOSS_01": [
+        "portrait_rzpetelgeuse_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_4_04_NAME": [
+        "portrait_rzram_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_RZ_4_03_NAME": [
+        "portrait_rzrem_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_4_06_NAME": [
+        "portrait_rzbeatrice_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_4_05_NAME": [
+        "portrait_rzemilia_default"
     ],
     "TEXT_CHA_AR_2_6_NAME": [
         "portrait_sigruna_default",
@@ -1553,9 +1586,6 @@
     "TEXT_CHA_WA_6_12_NAME": [
         "portrait_koxinga_default"
     ],
-    "TEXT_CHA_WA_4_13_NAME": [
-        "portrait_victoria_default"
-    ],
     "TEXT_CHA_WA_5_13_NAME": [
         "portrait_victoria_default"
     ],
@@ -1704,9 +1734,6 @@
         "portrait_alice_default"
     ],
     "TEXT_CHA_WI_5_7_NAME": [
-        "portrait_alice_default"
-    ],
-    "TEXT_CHA_WI_6_7_NAME": [
         "portrait_alice_default"
     ],
     "TEXT_CHA_WI_4_8_NAME": [

@@ -37450,13 +37450,13 @@
         "original": true
     },
     "TEXT_RING_KURENAI_PARTY_XP_BONUS": {
-        "text": "Mercenary Exp. +{0}%",
-        "version": "4.7.0",
+        "text": "(Scenario Only) Mercenary Exp. +{0}%",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_RING_KURENAI_PARTY_XP_BONUS_LIST": {
-        "text": "Mercenary Exp. +[{0}~{1}]%",
-        "version": "4.7.0",
+        "text": "(Scenario Only) Mercenary Exp. +[{0}~{1}]%",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_RING_KURENAI_PVP_CRIT_RST": {
@@ -37540,13 +37540,13 @@
         "original": true
     },
     "TEXT_RING_KURENAI_XP_BONUS": {
-        "text": "Hero Exp. +{0}%",
-        "version": "4.7.0",
+        "text": "(Scenario Only) Hero Exp. +{0}%",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_RING_KURENAI_XP_BONUS_LIST": {
-        "text": "Hero Exp. +[{0}~{1}]%",
-        "version": "4.7.0",
+        "text": "(Scenario Only) Hero Exp. +[{0}~{1}]%",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_RING_MAIN_DEF": {
@@ -42100,13 +42100,13 @@
         "original": true
     },
     "TEXT_SKILL_PA_SCHLA_LV2_SUBDESC": {
-        "text": "If 'Mastery' hits an enemy, Schula decreases the hit enemy's attack power by 50% for 5 seconds. This debuff cannot be stacked.",
-        "version": "4.7.0",
+        "text": "If 'Mastery' hits an enemy, Schula uses 'Salvage' to decrease the hit enemy's attack power by 50% for 5 seconds. This debuff doesn't stack.",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_SKILL_PA_SCHLA_LV3_SUBDESC": {
-        "text": "If 'Mastery' hits an enemy, Schula decreases the hit enemy's attack power by 50% for 5 seconds. This debuff cannot be stacked. With every debuff Schula casts, she additionally increases the entire ally's attack power by 10% for 15 seconds, to a maximum of 5 stacks.",
-        "version": "4.7.0",
+        "text": "If 'Mastery' hits an enemy, Schula uses 'Salvage' to decrease the hit enemy's attack power by 50% for 5 seconds. This debuff doesn't stack. Whenever Schula uses 'Mastery,' she uses 'Upgrade' to increase the entire team's attack power by 10% for 15 seconds to a maximum of 5 stacks.",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_SKILL_PA_SCHLA_NAME": {
@@ -43755,8 +43755,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_ISIS_LV3_SUBDESC": {
-        "text": "Isis decreases the SP of all enemies hit by 'Desert Tide' by 10. If Isis is hit 5 times by the enemy, she summons a 'Desert Wave' that deals @magical damage@ equal to 750% of attack power and knocks back the enemy.(Cooltime: 2.5 seconds)",
-        "version": "4.7.0",
+        "text": "Enemies hit by 'Desert Tide' lose 10 SP. Additionally, with every 5 hits an ally receives, Isis summons 'Desert Wave' that deals @magical damage@ equal to 750% of her attack power and knocks back hit enemies. (Cooltime: 2.5 seconds)",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_SKILL_WA_ISIS_NAME": {
@@ -44910,13 +44910,13 @@
         "original": true
     },
     "TEXT_SKILL_WI_OSIRIS_DESC": {
-        "text": "Osiris summons an 'Ancient Magic Circle' that lasts [1/3/6] seconds according to chain number.",
-        "version": "4.7.0",
+        "text": "Osiris summons an 'Ancient Magic Circle' that lasts [2/4/6] seconds according to chain number.",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_SKILL_WI_OSIRIS_LV2_SUBDESC": {
-        "text": "Ancient Magic Circle' gives off 'Light of Illusions' every second, dealing @magical damage@ equal to 50% of attack power.",
-        "version": "4.7.0",
+        "text": "Ancient Magic Circle' gives off 'Light of Illusions' every second, dealing @magical damage@ equal to 100% of attack power.",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_SKILL_WI_OSIRIS_NAME": {
@@ -60890,8 +60890,8 @@
         "original": true
     },
     "TEXT_DUNGEON_HONOR_DESC": {
-        "text": "Defeat the enemy in the Ancient Training Grounds to earn honor.",
-        "version": "4.7.0",
+        "text": "Earn Hero EXP and Honor at the Ancient Training Grounds!",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_DUNGEON_KEY_DESC": {
@@ -62105,8 +62105,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_4_21": {
-        "text": "(Upon activating passive) Schula receives all damage directed at the entire team for 3 seconds. (Cooltime: 5 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Upon using 'Salvage,' Schula receives all damage targeted at the entire team for 3 seconds. (Cooltime: 5 seconds)",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_4_5": {
@@ -62115,8 +62115,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_5_21": {
-        "text": "(Upon activating passive) Schula receives all damage directed at the entire team for 3 seconds. (Cooltime: 5 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Upon using 'Salvage,' Schula receives all damage targeted at the entire team for 3 seconds. (Cooltime: 5 seconds)",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_5_5": {
@@ -62130,8 +62130,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_21": {
-        "text": "(Upon activating passive) Schula receives all damage directed at the entire team for 3 seconds. (Cooltime: 5 seconds)\n(Passive enhanced) The duration of Schula's attack power debuff to the enemy is increased to 10 seconds. Additionally, her attack power buff to the entire team is increased to 25%, and can be stacked 2 times maximum.\n(Passive added) If Schula is hit 5 times, she activates 'Rage of the Artisan,' dealing physical power equal to 5000, and canceling all buffs of the enemy. (Cooltime: 5 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Upon using 'Salvage,' Schula receives all damage targeted at the entire team for 3 seconds. (Cooltime: 5 seconds) The duration of the attack power debuff cast by 'Salvage' is increased to 10 seconds. The attack power buff cast by 'Mastery' is increased to 25%, and is changed to stack a maximum of 2 times.\n(Passive Added) With every 5 hits she receives, Schula uses 'Artisan's Rage.' 'Artisan's Rage' deals physical damage equal to 5000 and cancels all enemy buffs. (Cooltime: 5 seconds)",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_5": {
@@ -62210,18 +62210,18 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_4_21": {
-        "text": "(Passive enhanced) The damage of 'Light of Illusions' shot from Osiris's 'Ancient Magic Circle' is increased to 100%.",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) The damage of 'Light of Illusions' shot from Osiris's 'Ancient Magic Circle' is increased to 200%.",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_5_21": {
-        "text": "(Passive enhanced) The damage of 'Light of Illusions' shot from Osiris's 'Ancient Magic Circle' is increased to 100%.",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) The damage of 'Light of Illusions' shot from Osiris's 'Ancient Magic Circle' is increased to 200%.",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_6_21": {
-        "text": "(Passive enhanced) The damage of 'Light of Illusions' shot from Osiris's 'Ancient Magic Circle' is increased to 100%.\n(Passive altered) For the duration of his 'Ancient Magic Circle,' Osiris casts a different spell according to the number of blocks used by other allies.\n1-chain: The Eye of Horus - The duration of 'Ancient Magic Circle' is increased by 10 seconds.\n2-chain: The Hand of Anubis - Osiris decreases the enemy's resistance by 25% for 5 seconds, and deals magical damage equal to 250% of his attack power. (Cooltime: 2 seconds)\n3-chain: The Curse of Osiris - Osiris decreases the enemy's evasion by 25% and SP by 50 for 5 seconds, and deals magical damage equal to 500% of his attack power. (Cooltime: 3 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) The damage of 'Light of Illusions' shot from Osiris's 'Ancient Magic Circle' is increased to 200%.\n(Passive altered) For the duration of his 'Ancient Magic Circle,' Osiris casts a different spell according to the number of blocks used by other allies.\n1-chain: The Eye of Horus - The duration of 'Ancient Magic Circle' is increased by 10 seconds.\n2-chain: The Hand of Anubis - Osiris decreases the enemy's resistance by 25% for 5 seconds, and deals magical damage equal to 250% of his attack power. (Cooltime: 1 seconds)\n3-chain: The Curse of Osiris - Osiris decreases the enemy's evasion by 25% and SP by 50 for 5 seconds, and deals magical damage equal to 2000% of his attack power. (Cooltime: 1 seconds)",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_4_1": {
@@ -62255,8 +62255,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_21": {
-        "text": "(Passive enhanced) All enemies hit by 'Desert Tide' lose 15 SP. The number of hits needed to activate 'Desert Wave' is decreased to 3 hits, and its cooltime by 1 second.\n(Passive added) Upon using 'Desert Wave' 2 times, Isis instantly activates 'Desert Fury.'\n'Desert Fury': Isis deals magical damage equal to 1000% of her attack power, stunning her enemies for 1.5 seconds and pushing them back.",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) All enemies hit by 'Desert Tide' lose 15 SP. The number of hits needed to activate 'Desert Wave' is decreased to 3 hits, and its cooltime by 1.5 second.\n(Passive added) Upon using 'Desert Wave' 2 times, Isis instantly activates 'Desert Fury.'\n'Desert Fury': Isis deals magical damage equal to 1000% of her attack power, stunning her enemies for 1.5 seconds and pushing them back. (Cooltime: 3 seconds)",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_8": {
@@ -65715,8 +65715,8 @@
         "original": true
     },
     "TEXT_HELP_30101_MAIN_DESC": {
-        "text": "1. Scenario Mode consists of various episodes, chapters, and stages held across the lands of Hasla. \n2. Playing Scenario Mode requires Meat. 1 Meat is recharged every 6 minutes.\n3. You can earn not only Mercenary and Hero EXP, but also various rewards useful for your gameplay.\n4. Goddesses, Champions, and Friend Heroes can accompany your party.\n5. Friend Heroes have a cooltime of 24 hours after being taken.\n6. You can check the Record menu to see Hero parties used by other players to clear the stage. \n7. If you die in a Scenario stage, you can continue playing by watching ads or using Jewels.\n8. If you continue playing after dying, your Heroes will be revived and granted immunity for a few seconds.\n9. If you rescue a Traveling Merchant in stage, the Merchants will show their wares in town for 15 minutes.",
-        "version": "4.7.0",
+        "text": "1. Scenario Mode consists of various episodes, chapters, and stages held across the lands of Hasla. \n2. Playing Scenario Mode requires Meat. 1 Meat is recharged every 3 minutes.\n3. You can earn not only Mercenary and Hero EXP, but also various rewards useful for your gameplay.\n4. Goddesses, Champions, and Friend Heroes can accompany your party.\n5. Friend Heroes have a cooltime of 24 hours after being taken.\n6. You can check the Record menu to see Hero parties used by other players to clear the stage. \n7. If you die in a Scenario stage, you can continue playing by watching ads or using Jewels.\n8. If you continue playing after dying, your Heroes will be revived and granted immunity for a few seconds.\n9. If you rescue a Traveling Merchant in stage, the Merchants will show their wares in town for 15 minutes.",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_HELP_30102_MAIN": {
@@ -65895,8 +65895,8 @@
         "original": true
     },
     "TEXT_HELP_30503_MAIN_DESC": {
-        "text": "1. You can purchase or equip fishing equipment.\n2. Once acquired, fishing rods and floats can be permanently used.\n3. Bait is an expendable resource and must be purchased to continue fishing.\n4. Equipment stats can influence the fishing experience and results. \n-Power: Faster reeling\n-Big Fish Chance: Rarer, bigger fish. Impact on auto fishing\n-Bite Chance: Higher chance in fish biting your bait\n-Bonuses: Additional stats to fishing spots\n5. Trade in Fish Coins for various items at the Trading Post.\n6. Number of purchases of some items at the Trading Post reset every Monday",
-        "version": "4.7.0",
+        "text": "1. You can purchase or equip fishing equipment.\n2. Once acquired, fishing rods and floats can be permanently used.\n3. Bait is an expendable resource and must be purchased to continue fishing.\n4. Equipment stats can influence the fishing experience and results. \n-Power: Faster reeling\n-Big Fish Chance: Rarer, bigger fish. Impact on auto fishing\n-Bite Chance: Higher chance in fish biting your bait\n-Bonuses: Additional stats to fishing spots",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_HELP_30504_MAIN": {
@@ -68730,8 +68730,8 @@
         "original": true
     },
     "TEXT_MAIN_Q_S2_13_TITLE": {
-        "text": "Devils of the City",
-        "version": "4.7.0",
+        "text": "Devils of the City 1",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_MAIN_Q_S2_14_TITLE": {
@@ -68745,8 +68745,8 @@
         "original": true
     },
     "TEXT_MAIN_Q_S2_16_TITLE": {
-        "text": "Formidable Devil of the City 1",
-        "version": "4.7.0",
+        "text": "Devils of the City 2",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_MAIN_Q_S2_17_TITLE": {
@@ -68755,8 +68755,8 @@
         "original": true
     },
     "TEXT_MAIN_Q_S2_18_TITLE": {
-        "text": "Changed Ratmen",
-        "version": "4.7.0",
+        "text": "Changed Ratmen 1",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_MAIN_Q_S2_19_TITLE": {
@@ -68770,8 +68770,8 @@
         "original": true
     },
     "TEXT_MAIN_Q_S2_20_TITLE": {
-        "text": "Someone in the Sewers?",
-        "version": "4.7.0",
+        "text": "Someone in the Sewers? 1",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_MAIN_Q_S2_21_TITLE": {
@@ -68815,8 +68815,8 @@
         "original": true
     },
     "TEXT_MAIN_Q_S2_29_TITLE": {
-        "text": "Flying Objects?",
-        "version": "4.7.0",
+        "text": "Flying Objects",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_MAIN_Q_S2_2_TITLE": {
@@ -74795,8 +74795,8 @@
         "original": true
     },
     "TEXT_SKILL_WI_OSIRIS_LV3_SUBDESC": {
-        "text": "'Ancient Magic Circle' gives off 'Light of Illusions' which deals @magical damage@ equal to 50% of attack power every second. Upon using another ally's 3-chain while the skill is activated, Osiris additionally summons a 'Sandstorm' from the 'Ancient Magic Circle.' The 'Sandstorm' decreases all enemies' evasion by 25% for 5 seconds, and additionally deals @magical damage@ equal to 200% of attack power.(Cooltime: 3 seconds)",
-        "version": "4.7.0",
+        "text": "'Ancient Magic Circle' gives off 'Light of Illusions' which deals @magical damage@ equal to 100% of attack power every second. Upon using another ally's 3-chain while the skill is activated, Osiris additionally summons a 'Sandstorm' from the 'Ancient Magic Circle.' The 'Sandstorm' decreases all enemies' evasion by 25% for 5 seconds, and additionally deals @magical damage@ equal to 200% of attack power.(Cooltime: 1.5 seconds)",
+        "version": "4.11.1",
         "original": true
     },
     "TEXT_SLOT_ADD_COUPON_CURRENT_BY_COMPLETE": {
@@ -84017,6 +84017,1006 @@
     "TEXT_WR_S2EP2_CH3_BOMB_01": {
         "text": "The pulse of mana is speeding up.\nLet's hurry.",
         "version": "4.9.0",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0001_TITLE": {
+        "text": "Thank you, Subaru... For saving me!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0002_GOAL": {
+        "text": "Clear Witch Cult",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0002_TITLE": {
+        "text": "I swear... I'll find a way to save you.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0003_GOAL": {
+        "text": "Clear Sin Archbishop of the Witch Cult, 'Sloth'",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0003_TITLE": {
+        "text": "I entrust Rem to your care, Barusu.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0004_GOAL": {
+        "text": "Clear Sloth's Finger 1",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0004_TITLE": {
+        "text": "I was born for this very moment.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0005_GOAL": {
+        "text": "Clear Sloth's Finger 2",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0005_TITLE": {
+        "text": "The contract Betty made with you is to keep your body safe.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0006_GOAL": {
+        "text": "Clear Sloth Raid",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_201901_LIMIT_QUEST_EVENT_Q0006_TITLE": {
+        "text": "It's the first time in my life... To be happy to receive 'special treatment.'",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_BOX_OPEN_DESC": {
+        "text": "Open the selected Chest?",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_BOX_OPEN_TITLE": {
+        "text": "Open Chest",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_RZ_4_03_DESC": {
+        "text": "The younger sister of the twin maids working at the Roswaal Mansion. While she has achieved perfection at everything she does, her respect for her older sister has gone unchanged. She is currently suspicious of Subaru, who has come to Roswaal Mansion under strange circumstances.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_RZ_4_03_NAME": {
+        "text": "Rem",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_RZ_5_03_DESC": {
+        "text": "The younger sister of the twin maids working at the Roswaal Mansion. While she has achieved perfection at everything she does, her respect for her older sister has gone unchanged. She is currently suspicious of Subaru, who has come to Roswaal Mansion under strange circumstances.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_RZ_5_03_NAME": {
+        "text": "Rem",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_RZ_6_03_DESC": {
+        "text": "The younger sister of the twin maids working at the Roswaal Mansion. While she has achieved perfection at everything she does, her respect for her older sister has gone unchanged. She is currently suspicious of Subaru, who has come to Roswaal Mansion under strange circumstances.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_RZ_6_03_NAME": {
+        "text": "Rem",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_RZ_4_07_DESC": {
+        "text": "The knight of Crusch Karsten - a candidate to become the next King of Lugnica - and a member of the Royal Guards. After being rescued by Crusch in the past, Ferris has loyally followed her ever since, always wearing the blue and white ribbons he received from her. He is a Demi Human with the ears and tail of a cat, and enjoys teasing people who mistakes his cute looks for a girl's.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_RZ_4_07_NAME": {
+        "text": "Ferris",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_RZ_5_07_DESC": {
+        "text": "The knight of Crusch Karsten - a candidate to become the next King of Lugnica - and a member of the Royal Guards. After being rescued by Crusch in the past, Ferris has loyally followed her ever since, always wearing the blue and white ribbons he received from her. He is a Demi Human with the ears and tail of a cat, and enjoys teasing people who mistakes his cute looks for a girl's.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_RZ_5_07_NAME": {
+        "text": "Ferris",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_RZ_6_07_DESC": {
+        "text": "The knight of Crusch Karsten - a candidate to become the next King of Lugnica - and a member of the Royal Guards. After being rescued by Crusch in the past, Ferris has loyally followed her ever since, always wearing the blue and white ribbons he received from her. He is a Demi Human with the ears and tail of a cat, and enjoys teasing people who mistakes his cute looks for a girl's.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_RZ_6_07_NAME": {
+        "text": "Ferris",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_3_01_DESC": {
+        "text": "An ordinary boy who is teleported to a fantasy world of another dimension: the Kingdom of Lugnica. An inopportune death does not only let him fatefully meet the Half Elf Emilia, but also reveals to him the power of \"Return by Death,\" which lets him revive to a \"save point\" upon death. Subaru develops deep feelings for Emilia, and vows to make her the next King of Lugnica.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_3_01_NAME": {
+        "text": "Subaru Natsuki",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_4_02_DESC": {
+        "text": "The Matriarch of the House of Karsten and a candidate to become the next King of Lugnica. Crusch possesses the 'Divine Protection of Wind Indication,' which lets her read the wind, detect the lies of others, and enhance her blade with Wind Mana.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_4_02_NAME": {
+        "text": "Crusch Karsten",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_5_02_DESC": {
+        "text": "The Matriarch of the House of Karsten and a candidate to become the next King of Lugnica. Crusch possesses the 'Divine Protection of Wind Indication,' which lets her read the wind, detect the lies of others, and enhance her blade with Wind Mana.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_5_02_NAME": {
+        "text": "Crusch Karsten",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_6_02_DESC": {
+        "text": "The Matriarch of the House of Karsten and a candidate to become the next King of Lugnica. Crusch possesses the 'Divine Protection of Wind Indication,' which lets her read the wind, detect the lies of others, and enhance her blade with Wind Mana.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_RZ_6_02_NAME": {
+        "text": "Crusch Karsten",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_4_04_DESC": {
+        "text": "The older sister of the twin maids working at the Roswaal Mansion. While she has a sharp tongue and tends to do everything at her own pace, she has a good eye and can quickly distinguish and evaluate the situation when necessary. In her childhood, Ram was acknowledged as a child prodigy of the 'Oni' race, but in an ambush by the Witch Cult 10 years ago, her horn was cut off and she lost most of her magical powers.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_4_04_NAME": {
+        "text": "Ram",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_4_05_DESC": {
+        "text": "A Half Elf with beautiful silver hair who has been unfairly discriminated against and feared for her striking resemblance to the Witch of Envy, Satella. For this reason, she refuses to step into Irlam Village, in which the mansion of her benefactor 'Roswaal' stands, and always wears a cloak that hides her identity from suspicious eyes.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_4_05_NAME": {
+        "text": "Emilia",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_4_06_DESC": {
+        "text": "A young girl who lives in and takes care of the secret library of Roswaal Mansion. She uses a particular magic called 'Door Crossing' to connect the door of the library to another in the mansion. Despite her apparent hermitage, she sometimes strolls out of the library to eat or take a short walk.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_4_06_NAME": {
+        "text": "Beatrice",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_5_04_DESC": {
+        "text": "The older sister of the twin maids working at the Roswaal Mansion. While she has a sharp tongue and tends to do everything at her own pace, she has a good eye and can quickly distinguish and evaluate the situation when necessary. In her childhood, Ram was acknowledged as a child prodigy of the 'Oni' race, but in an ambush by the Witch Cult 10 years ago, her horn was cut off and she lost most of her magical powers.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_5_04_NAME": {
+        "text": "Ram",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_5_05_DESC": {
+        "text": "A Half Elf with beautiful silver hair who has been unfairly discriminated against and feared for her striking resemblance to the Witch of Envy, Satella. For this reason, she refuses to step into Irlam Village, in which the mansion of her benefactor 'Roswaal' stands, and always wears a cloak that hides her identity from suspicious eyes.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_5_05_NAME": {
+        "text": "Emilia",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_5_06_DESC": {
+        "text": "A young girl who lives in and takes care of the secret library of Roswaal Mansion. She uses a particular magic called 'Door Crossing' to connect the door of the library to another in the mansion. Despite her apparent hermitage, she sometimes strolls out of the library to eat or take a short walk.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_5_06_NAME": {
+        "text": "Beatrice",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_6_04_DESC": {
+        "text": "The older sister of the twin maids working at the Roswaal Mansion. While she has a sharp tongue and tends to do everything at her own pace, she has a good eye and can quickly distinguish and evaluate the situation when necessary. In her childhood, Ram was acknowledged as a child prodigy of the 'Oni' race, but in an ambush by the Witch Cult 10 years ago, her horn was cut off and she lost most of her magical powers.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_6_04_NAME": {
+        "text": "Ram",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_6_05_DESC": {
+        "text": "A Half Elf with beautiful silver hair who has been unfairly discriminated against and feared for her striking resemblance to the Witch of Envy, Satella. For this reason, she refuses to step into Irlam Village, in which the mansion of her benefactor 'Roswaal' stands, and always wears a cloak that hides her identity from suspicious eyes.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_6_05_NAME": {
+        "text": "Emilia",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_6_06_DESC": {
+        "text": "A young girl who lives in and takes care of the secret library of Roswaal Mansion. She uses a particular magic called 'Door Crossing' to connect the door of the library to another in the mansion. Despite her apparent hermitage, she sometimes strolls out of the library to eat or take a short walk.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_RZ_6_06_NAME": {
+        "text": "Beatrice",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_COS_PA_LIMITED_RZ_03": {
+        "text": "Young Rem",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_COS_PR_LIMITED_RZ_07": {
+        "text": "Blue Knight Ferris",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_COS_WA_LIMITED_RZ_02": {
+        "text": "Goddess of War of the House of Karsten, Crusch Karsten",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_COS_WI_LIMITED_RZ_04": {
+        "text": "Young Ram",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_COS_WI_LIMITED_RZ_05": {
+        "text": "Cat Ear Cloak Emilia",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_DUNGEON_LIMITED_RZ_NAME": {
+        "text": "Re:ZERO -Starting Life in Another World-",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY1": {
+        "text": "Round 1",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY10": {
+        "text": "Round 10",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY2": {
+        "text": "Round 2",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY3": {
+        "text": "Round 3",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY4": {
+        "text": "Round 4",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY5": {
+        "text": "Round 5",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY6": {
+        "text": "Round 6",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY7": {
+        "text": "Round 7",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY8": {
+        "text": "Round 8",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_DAY9": {
+        "text": "Round 9",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_RZ_REWARD_GUIDE1": {
+        "text": "Get special rewards for every 5 times you complete collaboration stages!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_RZ_REWARD_GUIDE2": {
+        "text": "Don't forget to collect your reward within the Event Period!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_RZ_REWARD_MAIN": {
+        "text": "Re:ZERO Collaboration Reward",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_RZ_STAGE_MAIN": {
+        "text": "Re:ZERO Collaboration Dungeon",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EVENT_RZ_STAGE_SUB": {
+        "text": "Save your companions!\nReceive a special reward upon saving all of them.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EXCEPT_GROWTH_DONE_HERO": {
+        "text": "Exclude Maxed Heroes",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_RZ_01": {
+        "text": "Witch Cult",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_RZ_02": {
+        "text": "Sin Archbishop of the Witch Cult, 'Sloth'",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_RZ_03": {
+        "text": "Sloth's Finger 1",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_RZ_04": {
+        "text": "Sloth's Finger 2",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_RZ_05": {
+        "text": "Sloth Raid",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_FILTER_CONVERT_RING": {
+        "text": "Converted Rings",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_FILTER_SLOT_ADD_WEAPON": {
+        "text": "Slotted Weapons",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_FILTER_UNEQUIP_GEAR": {
+        "text": "Unequipped",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_FILTER_UPGRADE_WEAPON": {
+        "text": "Upgraded Weapons",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_FISH_EXCHANGE_DESC": {
+        "text": "The purchase limit for each item at the Trading Post is reset every Monday.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_GYPSI_HONOR_1000": {
+        "text": "1000 Honor",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_GYPSI_HONOR_2000": {
+        "text": "2000 Honor",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_GYPSI_IRON_1500": {
+        "text": "1500 Iron",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_GYPSI_IRON_2000": {
+        "text": "2000 Iron",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_GYPSI_IRON_2500": {
+        "text": "2500 Iron",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_GYPSI_IRON_3000": {
+        "text": "3000 Iron",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_GYPSI_IRON_4000": {
+        "text": "4000 Iron",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_HELP_FISH_EXCHANGE_DESC": {
+        "text": "1. Trade Fish Coins for various items at the Trading Post. \n2. Purchase limits for Trading Post items reset every Monday.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_1_1": {
+        "text": "I'm going to make you King, Emilia!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_1_2": {
+        "text": "Thank you, Subaru-kun.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_2_1": {
+        "text": "Will you keep me by your side?",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_2_2": {
+        "text": "I'll kneel and beg you to stay with me if I need to.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_3_1": {
+        "text": "I do not deny there were occasions when my hearstrings\nfelt a pull, but my heart lies at the end of my dream.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_3_2": {
+        "text": "If I didn't already have a number 1 and number 2 in my heart,\nthis could have been dangerous…",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_4_1": {
+        "text": "With your look and your cat ears and -! Who would believe\nthat you're a GUY?!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_4_2": {
+        "text": "Even so~ you're the one who made the wrong assumption,\nSubaru-kyun~!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_5_1": {
+        "text": "My specialty is potatoes, freshly steamed.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_5_2": {
+        "text": "That's not something you brag about so proudly!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_6_1": {
+        "text": "It is alright, Rem. I am here. We have nothing to be afraid of.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_6_2": {
+        "text": "Yes, Sister. I love you.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_7_1": {
+        "text": "Ferri-chan's loyalty is only for you, Lady Crusch!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTEREGG_RZ_7_2": {
+        "text": "I wholeheartedly accept, and shall return, your loyalty, Ferris.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_LOBBY_RZ_01": {
+        "text": "I entrust Rem to your care, Barusu.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_LOBBY_RZ_02": {
+        "text": "You are my hero, Subaru-kun.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_LOBBY_RZ_03": {
+        "text": "Should I grant your strange request, I wonder?",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_INTERACTION_LOBBY_RZ_04": {
+        "text": "Thank you, Subaru. For saving me.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_MON_LIMITED_RZ_01": {
+        "text": "Witch Cultist",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_MON_LIMITED_RZ_02": {
+        "text": "Witch Cultist",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_MON_LIMITED_RZ_BOSS_01": {
+        "text": "Petelgeuse Romanee-Conti",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_MON_LIMITED_RZ_BOSS_05": {
+        "text": "Mutated Petelgeuse Romanee-Conti",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_LOBBY_MANSION": {
+        "text": "Grand Mansion",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_DARKFOREST": {
+        "text": "Dark Forest",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_RZ_NOTI_NORESOURCE": {
+        "text": "You do not have enough Entrance Tickets.\nEntrance Tickets are recharged every day at 4PM PST.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SELL_ITEM_DESC": {
+        "text": "Select the number of items you wish to sell.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SELL_ITEM_TITLE": {
+        "text": "Sell Item",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_RZ_03_DESC": {
+        "text": "Rem uses 'Al Huma' to deal @magical damage@ equal to [150/300/500]% of her attack power, according to the chain number used.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_RZ_03_LV2_SUBDESC": {
+        "text": "Using Water Mana, Rem heals the entire team by 30% of her maximum HP every 10 seconds.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_RZ_03_LV3_SUBDESC": {
+        "text": "Using Water Mana, Rem heals the entire team by 30% of her maximum HP every 10 seconds.\nAdditionally, she uses 'Huma!' to absorb damage equal to 15% of her maximum HP.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_RZ_03_NAME": {
+        "text": "Al Huma",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_RZ_03_SUBNAME": {
+        "text": "Water Mana",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_RZ_07_DESC": {
+        "text": "Ferris heals the ally with the lowest remaining HP by [200/400/600]% of his attack power 10 times, according to the chain number used.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_RZ_07_LV2_SUBDESC": {
+        "text": "When Ferris takes damage, or another ally's 3-chain is used, Ferris casts a protective shield over the entire team for 3 seconds that absorbs damage equal to 500% of his attack power. (Cooltime: 1 second)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_RZ_07_LV3_SUBDESC": {
+        "text": "When Ferris takes damage, or another ally's 3-chain is used, Ferris casts a protective shield over the entire team for 3 seconds that absorbs damage equal to 1000% of his attack power. (Cooltime: 1 second)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_RZ_07_NAME": {
+        "text": "Heal",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_RZ_07_SUBNAME": {
+        "text": "Divine Protection of Water",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_01_DESC": {
+        "text": "Upon using his block, Subaru deals #physical damage# equal to [100/150/250]% of his attack power, according to the chain number used.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_01_LV2_SUBDESC": {
+        "text": "Upon receiving damage that would be otherwise fatal, Subaru uses 'Return by Death.' Activating 'Return by Death' heals Subaru's HP by 100% and grants him invincibility for 2 seconds. This skill activates once, and is reset after re-entering the battle after actual death.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_01_NAME": {
+        "text": "Shamak",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_01_SUBNAME": {
+        "text": "Return by Death",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_02_DESC": {
+        "text": "Upon using her block, Crusch Karsten unleashes her 'Blade of Wind,' dealing #physical damage# equal to [150/300/500]% of her attack power.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_02_LV2_SUBDESC": {
+        "text": "Upon using another ally's block 2 times, Crusch Karsten activates 'Divine Protection of Wind Indication' for 5 seconds. This skill increases Crusch's attack power by 75%, and alters the form of 'Blade of Wind,' increasing its range.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_02_LV3_SUBDESC": {
+        "text": "Upon using another ally's block 2 times, Crusch Karsten activates 'Divine Protection of Wind Indication' for 5 seconds. This skill increases Crusch's attack power by 100%, critical chance by 10%, and accuracy by 20%, and alters the form of 'Blade of Wind,' increasing its range.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_02_NAME": {
+        "text": "Blade of Wind",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RZ_02_SUBNAME": {
+        "text": "Divine Protection of Wind Indication",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_04_DESC": {
+        "text": "Ram swings her arms to shoot out rapid bursts of wind and deal @magical damage@ equal to [140/280/420]% of her attack power, according to the chain number used.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_04_LV2_SUBDESC": {
+        "text": "Ram unleashes an enormous windstorm before the nearest enemy every 15 seconds to deal @magical damage@ equal to 350% of her attack power, knocking back hit enemies",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_04_LV3_SUBDESC": {
+        "text": "Ram unleashes an enormous windstorm before the nearest enemy every 15 seconds to deal @magical damage@ equal to 550% of her attack power, knocking back hit enemies",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_04_NAME": {
+        "text": "Fura!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_04_SUBNAME": {
+        "text": "El Fura!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_05_DESC": {
+        "text": "Emilia shoots out 6 icy projectiles that each deal @magical damage@ equal to [20/30/50]% of her attack power to the nearest enemy, according to the chain number used.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_05_LV2_SUBDESC": {
+        "text": "Enemies hit by Emilia's block skill lose 10% movement speed and receive @magical damage@ over time equal to 75% of Emilia's attack power per second for 3 seconds. This effect does not stack.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_05_LV3_SUBDESC": {
+        "text": "Enemies hit by Emilia's block skill lose 15% movement speed and receive @magical damage@ over time equal to 150% of Emilia's attack power per second for 3 seconds. This effect does not stack.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_05_NAME": {
+        "text": "Huma!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_05_SUBNAME": {
+        "text": "Ice Brand Arts: Icicle Line",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_06_DESC": {
+        "text": "Beatrice summons a 'Magic Tome' that deals area @magical damage@ equal to [400/450/500]% of her attack power, according to the chain number used. The 'Magic Tome' lasts 5 seconds before disappearing.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_06_LV2_SUBDESC": {
+        "text": "Beatrice does not recover her own SP by using her block skill.\nInstead, for every enemy hit by her block skill, Beatrice regenerates 1 SP for the ally leader, and 1 SP for herself.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_06_LV3_SUBDESC": {
+        "text": "Beatrice does not recover her own SP by using her block skill.\nInstead, for every enemy hit by her block skill, Beatrice regenerates 1 SP for the ally leader, and 1 SP for herself. Additionally, enemies standing on the area of her 'Magic Tome' lose 10% of their armor and resistance. (This debuff cannot be stacked.)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_06_NAME": {
+        "text": "Teleportation - Magic Tome",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_SKILL_WI_RZ_06_SUBNAME": {
+        "text": "Mana Drain!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TIP_COMMON_HELP": {
+        "text": "Having trouble? Go to [Town] > [Menu] to access the Help Guide,\nor touch the [?] button in each screen to get more information!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TIP_COMMON_HERO_RANKING": {
+        "text": "See which Heroes participated the most in Raid dungeons before you try it yourself!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TIP_COMMON_TEAM_RECORD": {
+        "text": "Go to the [Record] menu in the Scenario selection screen to look up team combinations of other Captains!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TIP_RZ_1": {
+        "text": "Clear Stages to fill the progress bar and receive rewards!",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TIP_RZ_2": {
+        "text": "Entry tickets refill every day at 4PM PST.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_CHRONOS_S2_EP2_CH3_6": {
+        "text": "Kalard",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_CHRONOS_S2_EP2_CHALLENGE_3_1": {
+        "text": "About Ar'rat",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDESERT_S2_EP2_CH1_6": {
+        "text": "About Elise",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDESERT_S2_EP2_CH2_6": {
+        "text": "About Ar'rat",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDESERT_S2_EP2_CH3_6": {
+        "text": "Kalard",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISFOREST_S2_EP2_CHALLENGE_3_1": {
+        "text": "About Ellie",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISFOREST_S2_EP2_CHALLENGE_3_2": {
+        "text": "Kalard",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_RZ_03_4_DESC": {
+        "text": "(Passive Altered) 'Water Mana' is changed to 'Oni Bloodline.' Upon using her 3-chain, Rem enters her Oni Form for 7 seconds and receives the following effects:\nRem's block skill is changed to 'Morning Star,' which deals physical damage equal to [1200/1500/2000]% of her attack power according to the chain number used.\nUpon using her own or another ally's block, the duration of 'Oni Bloodline' is increased by 1 second, and Rem's [attack power / armor / resistance] is increased by 14%. (Maximum 5 stacks) This effect cannot be canceled.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_RZ_03_4_NAME": {
+        "text": "Morning Star",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_RZ_03_5_DESC": {
+        "text": "(Passive Altered) 'Water Mana' is changed to 'Oni Bloodline.' Upon using her 3-chain, Rem enters her Oni Form for 7 seconds and receives the following effects:\nRem's block skill is changed to 'Morning Star,' which deals physical damage equal to [1200/1500/2000]% of her attack power according to the chain number used.\nUpon using her own or another ally's block, the duration of 'Oni Bloodline' is increased by 1 second, and Rem's [attack power / armor / resistance] is increased by 14%. (Maximum 5 stacks) This effect cannot be canceled.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_RZ_03_5_NAME": {
+        "text": "Morning Star",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_RZ_03_6_DESC": {
+        "text": "(Passive Altered) 'Water Mana' is changed to 'Oni Bloodline.' Upon using her 3-chain, Rem enters her Oni Form for 7 seconds and receives the following effects:\nRem's block skill is changed to 'Morning Star,' which deals physical damage equal to [1200/1500/2000]% of her attack power according to the chain number used.\nUpon using her own or another ally's block, the duration of 'Oni Bloodline' is increased by 3 seconds, and Rem's [attack power / armor / resistance / armor penetration] is increased by 14%. (Maximum 10 stacks) This effect cannot be canceled.\n(Passive Added) If Rem takes critical damage while in her Oni Form, she swings her Morning Star to deal physical damage equal to 2000% of her attack power and 400% of her maximum HP. She additionally heals 5% of her maximum HP every 0.1 seconds for 3 seconds. (Cooltime: 2 seconds)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_RZ_03_6_NAME": {
+        "text": "Morning Star",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_RZ_07_4_DESC": {
+        "text": "(Passive Added) Allies healed by Ferris receive a buff that increases their armor and resistance by 500 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and disables further debuffs for the duration of the skill.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_RZ_07_4_NAME": {
+        "text": "Sword Received from Crusch",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_RZ_07_5_DESC": {
+        "text": "(Passive Added) Allies healed by Ferris receive a buff that increases their armor and resistance by 500 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and disables further debuffs for the duration of the skill.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_RZ_07_5_NAME": {
+        "text": "Sword Received from Crusch",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_RZ_07_6_DESC": {
+        "text": "(Passive Added) Allies healed by Ferris receive a buff that increases their armor and resistance by 1000 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and disables further debuffs for the duration of the skill.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris additionally heals targets by 50% of his attack power per second for 3 times, and decreases damage they take by 50%. This effect cannot be canceled.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_RZ_07_6_NAME": {
+        "text": "Sword Received from Crusch",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_04_4_DESC": {
+        "text": "(Block Skill Enhanced) The cooltime of 'El Fura!' decreases by [1/2/3] seconds, according to the chain number used.\n(Passive Enhanced) 'El Fura!' deals 100% more damage.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_04_4_NAME": {
+        "text": "Ram's Cane",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_04_5_DESC": {
+        "text": "(Block Skill Enhanced) The cooltime of 'El Fura!' decreases by [1/2/3] seconds, according to the chain number used.\n(Passive Enhanced) 'El Fura!' deals 100% more damage.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_04_5_NAME": {
+        "text": "Ram's Cane",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_04_6_DESC": {
+        "text": "(Block Skill Enhanced) 'Fura!' deals 200% more damage. The cooltime of 'El Fura!' decreases by [1/2/3] seconds, according to the chain number used.\n(Upon Using Block) Ram uses a stronger version of 'Fura!' to deal magical damage equal to 700% of her attack power, knocking back enemies. (Cooltime: 2 seconds)\n(Passive Enhanced) 'El Fura!' deals 200% more damage, and simultaneously activates 'Protection of Wind.'\n('Protection of Wind') Ram generates a protective shield that absorbs damage equal to 100% of her maximum HP for 8 seconds, and deals all attacks as critical hits while the shield is active.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_04_6_NAME": {
+        "text": "Ram's Cane",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_05_4_DESC": {
+        "text": "(Block Skill Altered) Emilia's block skill is changed to 'Al Huma,' which deals magical damage equal to [500/600/720]% of Emilia's attack power, according to the chain number used.\n(Passive Skill Enhanced) The duration of 'Ice Brand Arts: Icicle Line' is increased by 1 second. Additionally, enemies affected by 'Icicle Line' lose 5% of their resistance, and receive 10% more damage from Emilia.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_05_4_NAME": {
+        "text": "Puck, the Great Spirit of Fire",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_05_5_DESC": {
+        "text": "(Block Skill Altered) Emilia's block skill is changed to 'Al Huma,' which deals magical damage equal to [500/600/720]% of Emilia's attack power, according to the chain number used.\n(Passive Skill Enhanced) The duration of 'Ice Brand Arts: Icicle Line' is increased by 1 second. Additionally, enemies affected by 'Icicle Line' lose 5% of their resistance, and receive 10% more damage from Emilia.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_05_5_NAME": {
+        "text": "Puck, the Great Spirit of Fire",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_05_6_DESC": {
+        "text": "(Block Skill Altered) Emilia's block skill is changed to 'Al Huma,' which deals magical damage equal to [500/600/720]% of Emilia's attack power, according to the chain number used.\n(Passive Skill Enhanced) The duration of 'Ice Brand Arts: Icicle Line' is increased by 2 seconds. Additionally, enemies affected by 'Icicle Line' lose 10% of their resistance, and receive 20% more damage from Emilia.\n(Passive Skill Added) Upon using 'Al Huma' 2 times, Puck, the Great Spirit of Fire comes forth to help Emilia and deals area magical damage equal to 2000% of Emilia's attack power over 2 seconds. Enemies hit by this attack receive the same effect dealt by 'Ice Brand Arts: Icicle Line.' (Cooltime: 5 seconds)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_05_6_NAME": {
+        "text": "Puck, the Great Spirit of Fire",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_06_4_DESC": {
+        "text": "(Passive Enhanced) For every enemy hit by her block skill, Beatrice regenerates 1 SP for all allies, and then 2 SP for herself.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_06_4_NAME": {
+        "text": "Magic Tome of the Void",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_06_5_DESC": {
+        "text": "(Passive Enhanced) For every enemy hit by her block skill, Beatrice regenerates 1 SP for all allies, and then 2 SP for herself.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_06_5_NAME": {
+        "text": "Magic Tome of the Void",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_06_6_DESC": {
+        "text": "(Passive Enhanced) For every enemy hit by her block skill, Beatrice regenerates 1 SP for all allies, and then 2 SP for herself.\n(Passive Added) Whenever the ally leader uses a Special Skill, Beatrice uses 'Al Shamak,' pulling in nearby enemies for 2.5 seconds and dealing magical damage equal to 1000% of her attack power and neutral damage equal to 500% of her attack power. (Cooltime: 1 seconds)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_RZ_06_6_NAME": {
+        "text": "Magic Tome of the Void",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_RZ_02_4_DESC": {
+        "text": "(Passive Added) Upon using Crusch Karsten's 3-chain during 'Divine Protection of Wind Indication,' Crusch uses 'Hundred Man Sword Strike' to deal #physical damage# equal to 1800% of her attack power. (Cooltime: 5 seconds)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_RZ_02_4_NAME": {
+        "text": "Crusch's Blade",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_RZ_02_5_DESC": {
+        "text": "(Passive Added) Upon using Crusch Karsten's 3-chain during 'Divine Protection of Wind Indication,' Crusch uses 'Hundred Man Sword Strike' to deal #physical damage# equal to 1800% of her attack power. (Cooltime: 5 seconds)",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_RZ_02_5_NAME": {
+        "text": "Crusch's Blade",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_RZ_02_6_DESC": {
+        "text": "(Passive Added) Upon using Crusch Karsten's 3-chain during 'Divine Protection of Wind Indication,' Crusch uses 'Hundred Man Sword Strike' to deal #physical damage# equal to 1800% of her attack power. (Cooltime: 5 seconds)\n(Passive Added) The buff granted by 'Divine Protection of Wind Indication' additionally increases attack power by 25%, critical chance by 15%, and accuracy by 10%.",
+        "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_RZ_02_6_NAME": {
+        "text": "Crusch's Blade",
+        "version": "4.11.1",
         "original": true
     }
 }
