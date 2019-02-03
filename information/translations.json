@@ -84575,13 +84575,13 @@
         "original": true
     },
     "TEXT_MON_LIMITED_RZ_BOSS_01": {
-        "text": "Petelgeuse Romanee-Conti",
-        "version": "4.11.1",
+        "text": "Petelgeuse Romanée-Conti",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_MON_LIMITED_RZ_BOSS_05": {
-        "text": "Mutated Petelgeuse Romanee-Conti",
-        "version": "4.11.1",
+        "text": "Mutated Petelgeuse Romanée-Conti",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_PRACTICE_OPTION_LOBBY_MANSION": {
@@ -84870,8 +84870,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_RZ_07_4_DESC": {
-        "text": "(Passive Added) Allies healed by Ferris receive a buff that increases their armor and resistance by 500 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and disables further debuffs for the duration of the skill.",
-        "version": "4.11.1",
+        "text": "(Passive Added) Allies healed by Ferris get their armor and resistance increased by 500 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and grants immunity to further debuffs for the duration of the shield.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_RZ_07_4_NAME": {
@@ -84880,8 +84880,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_RZ_07_5_DESC": {
-        "text": "(Passive Added) Allies healed by Ferris receive a buff that increases their armor and resistance by 500 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and disables further debuffs for the duration of the skill.",
-        "version": "4.11.1",
+        "text": "(Passive Added) Allies healed by Ferris get their armor and resistance increased by 500 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and grants immunity to further debuffs for the duration of the shield.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_RZ_07_5_NAME": {
@@ -84890,8 +84890,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_RZ_07_6_DESC": {
-        "text": "(Passive Added) Allies healed by Ferris receive a buff that increases their armor and resistance by 1000 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and disables further debuffs for the duration of the skill.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris additionally heals targets by 50% of his attack power per second for 3 times, and decreases damage they take by 50%. This effect cannot be canceled.",
-        "version": "4.11.1",
+        "text": "(Passive Added) Allies healed by Ferris get their armor and resistance increased by 1000 for 8 seconds.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris dispels all debuffs and grants immunity to further debuffs for the duration of the shield.\n(Passive Enhanced) Upon activating 'Divine Protection of Water,' Ferris additionally heals targets by 50% of his attack power per second for 3 times, and decreases damage they take by 50%. This effect cannot be canceled.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_RZ_07_6_NAME": {
@@ -85017,6 +85017,226 @@
     "TEXT_WEP_LEGEND_SW_RZ_02_6_NAME": {
         "text": "Crusch's Blade",
         "version": "4.11.1",
+        "original": true
+    },
+    "TEXT_COS_AR_13_29": {
+        "text": "Moon Sorceress Atalante",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_AR_17_29": {
+        "text": "Ghost Sorceress Viola",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_AR_25_29": {
+        "text": "Lindsey in Pajamas",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WA_21_SNOW": {
+        "text": "Nomad of the North Isis",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_HU_25_29": {
+        "text": "Carol in Pajamas",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_WI_18_29": {
+        "text": "Druid Yichui",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_FRAME_NOS_SNOW_01_DESC": {
+        "text": "A frame carved out of solid ice. It is surprisingly sturdy.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_FRAME_NOS_SNOW_01_NAME": {
+        "text": "Wintertime Icy Frame",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_GROUND_NOS_SNOW_01_DESC": {
+        "text": "A soft blanket of pure white snow gently covers this wintertime floor. There is no better feeling than carefully stepping out onto fresh, untainted snow in winter.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_GROUND_NOS_SNOW_01_NAME": {
+        "text": "Wintertime Floor",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_ARCH_01_DESC": {
+        "text": "A nameless relic from the Nosgard Kingdom. It remains buried under the snow, silent and foreboding...",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_ARCH_01_NAME": {
+        "text": "Snowy Relic",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_BIGHOUSE_01_DESC": {
+        "text": "A wooden cabin that brings together modern and traditional aspects into a 'shabby chic' style. While it is good for taking shelter from the frigid winter wind, it is weak against flames.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_BIGHOUSE_01_NAME": {
+        "text": "Snowy Log Cabin",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_IGLOO_01_DESC": {
+        "text": "A domed abode made out of ice and snow. It is larger, warmer, and significantly more comfortable that it appears on the outside.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_IGLOO_01_NAME": {
+        "text": "Igloo",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_LEATHER_01_DESC": {
+        "text": "A large tanning rack to stretch and dry animal skins on.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_LEATHER_01_NAME": {
+        "text": "Tanning Rack A",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_LEATHER_02_DESC": {
+        "text": "A tanning rack to dry animal hides on.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_LEATHER_02_NAME": {
+        "text": "Tanning Rack B",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_LOG_01_DESC": {
+        "text": "A coarse tree stump that surprisingly provides a very comfortable seat. Just remember to brush off the snow before sitting down.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_LOG_01_NAME": {
+        "text": "Snowy Log Stool",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_MOUNTAIN_01_DESC": {
+        "text": "A decorative mountain statue carved in the likeness of the 'Utgard,' a rugged mountain range located in the Nosgard Kingdom.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_MOUNTAIN_01_NAME": {
+        "text": "Wintertime Snowy Mountains",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_SMALLHOUSE_01_DESC": {
+        "text": "A tiny, cozy log cabin. What elf or fairy could be dwelling within?",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_SMALLHOUSE_01_NAME": {
+        "text": "Small Log Cabin",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STATUE_01_DESC": {
+        "text": "An ice sculpture carved in the likeness of the Champion of Nosgard, Lia. It has been made out of special, magic-imbued ice as to prevent it from melting indoors.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STATUE_01_NAME": {
+        "text": "Lia Ice Sculpture",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STEAK_01_DESC": {
+        "text": "Medium rare Anime Meat. Each savory bite will send you the high heavens.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STEAK_01_NAME": {
+        "text": "Well Done Barbecue",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STICK_01_DESC": {
+        "text": "It's not camping without roasted marshmallows and grilled fish on sticks.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STICK_01_NAME": {
+        "text": "Fish and Marshmallow Skewers",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STONE_01_DESC": {
+        "text": "A snow-covered rock. Be careful not to trip and fall!",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STONE_01_NAME": {
+        "text": "Snow-covered Rock A",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STONE_02_DESC": {
+        "text": "A snow-covered rock. Be careful not to trip and fall!",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_STONE_02_NAME": {
+        "text": "Snow-covered Rock B",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_TREE_01_DESC": {
+        "text": "A decorative tree that creates the ambiance of a deep and quiet wintry forest.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_TREE_01_NAME": {
+        "text": "Wintertime Tree A",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_TREE_02_DESC": {
+        "text": "A decorative tree that creates the ambiance of a deep and quiet wintry forest.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_NOS_BOTTOM_TREE_02_NAME": {
+        "text": "Wintertime Tree B",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WALL_NOS_AURA_01_DESC": {
+        "text": "This wall will give you the impression of gazing upon a beautiful aurora, often called \"Nosern Lights,\" usually only seen in the northern skies of the Kingdom of Nosgard.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WALL_NOS_AURA_01_NAME": {
+        "text": "Aurora Wall",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WALL_NOS_WINTER_01_DESC": {
+        "text": "Stars are brightly shining in this winter nighttime sky - or in fact, surprisingly convincing wallpaper.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WALL_NOS_WINTER_01_NAME": {
+        "text": "Wintertime Pattern Wall",
+        "version": "4.12.1",
         "original": true
     }
 }

@@ -7161,21 +7161,21 @@
         {
             "key": "TEXT_CHA_WI_LIMITED_RZ_4_06_NAME",
             "path": "heroes.423.0",
-            "text": "Beawiz",
+            "text": "Beatrice",
             "version": "4.11.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_RZ_5_06_NAME",
             "path": "heroes.423.1",
-            "text": "Beawiz",
+            "text": "Beatrice",
             "version": "4.11.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_LIMITED_RZ_6_06_NAME",
             "path": "heroes.423.2",
-            "text": "Beawiz",
+            "text": "Beatrice",
             "version": "4.11.1",
             "original": true
         },
@@ -8176,120 +8176,120 @@
             "original": true
         },
         {
-            "key": "TEXT_BREAD_NEW_XMAS_NAME",
-            "path": "breads.31",
-            "text": "Merry Christmas Cake",
-            "version": "4.9.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_BREAD_SHAMROCK_NAME",
-            "path": "breads.32",
-            "text": "Shamrock Cupcake",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
             "key": "TEXT_BREAD_SIS_DESERT_1_NAME",
-            "path": "breads.33",
+            "path": "breads.41",
             "text": "Anut's Chocolate",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_SIS_DOG_1_NAME",
-            "path": "breads.34",
+            "path": "breads.42",
             "text": "Sera's Chocolate",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_SIS_FOREST_1_NAME",
-            "path": "breads.35",
+            "path": "breads.43",
             "text": "Prestina's Chocolate",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_SIS_SEA_1_NAME",
-            "path": "breads.36",
+            "path": "breads.44",
             "text": "Aubrey's Chocolate",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_SIS_VOLCANO_1_NAME",
-            "path": "breads.37",
+            "path": "breads.45",
             "text": "Bella's Chocolate",
             "version": "4.7.0",
             "original": true
         },
         {
-            "key": "TEXT_BREAD_TIRAMISU_NAME",
-            "path": "breads.38",
-            "text": "Tiramisu",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
             "key": "TEXT_BREAD_VALENTINE_01_NAME",
-            "path": "breads.39",
+            "path": "breads.47",
             "text": "Chocolate",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_VALENTINE_02_NAME",
-            "path": "breads.40",
+            "path": "breads.48",
             "text": "Chocolate Cupcake",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_VALENTINE_03_NAME",
-            "path": "breads.41",
+            "path": "breads.49",
             "text": "Big Chocolate Cake",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_BREAD_NEW_XMAS_NAME",
+            "path": "breads.39",
+            "text": "Merry Christmas Cake",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_BREAD_SHAMROCK_NAME",
+            "path": "breads.40",
+            "text": "Shamrock Cupcake",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_BREAD_TIRAMISU_NAME",
+            "path": "breads.46",
+            "text": "Tiramisu",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_BREAD_VASILOPITA_NAME",
-            "path": "breads.42",
+            "path": "breads.50",
             "text": "Vasilopita",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_WITCH_01_NAME",
-            "path": "breads.43",
+            "path": "breads.51",
             "text": "Chocolate Witch Bread",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_WITCH_02_NAME",
-            "path": "breads.44",
+            "path": "breads.52",
             "text": "Berry Witch Bread",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_WITCH_03_NAME",
-            "path": "breads.45",
+            "path": "breads.53",
             "text": "Blueberry Witch Bread",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_XMAS_NAME",
-            "path": "breads.46",
+            "path": "breads.54",
             "text": "Christmas Cake",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_BREAD_YAKGWA_NAME",
-            "path": "breads.47",
+            "path": "breads.55",
             "text": "Yakgwa",
             "version": "4.7.0",
             "original": true
@@ -13981,15 +13981,15 @@
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
             "path": "bosses.739",
-            "text": "Petelgeuse Romanee-Conti",
-            "version": "4.11.1",
+            "text": "Petelgeuse Romanée-Conti",
+            "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_05",
             "path": "bosses.740",
-            "text": "Mutated Petelgeuse Romanee-Conti",
-            "version": "4.11.1",
+            "text": "Mutated Petelgeuse Romanée-Conti",
+            "version": "4.12.1",
             "original": true
         },
         {
@@ -16017,8 +16017,8 @@
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
             "path": "portraits.TEXT_MON_LIMITED_RZ_BOSS_01",
-            "text": "Petelgeuse Romanee-Conti",
-            "version": "4.11.1",
+            "text": "Petelgeuse Romanée-Conti",
+            "version": "4.12.1",
             "original": true
         },
         {
