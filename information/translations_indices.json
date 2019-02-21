@@ -782,6 +782,13 @@
             "original": true
         },
         {
+            "key": "TEXT_COS_AR_13_29",
+            "path": "heroes.55.1",
+            "text": "Moon Sorceress Atalante",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_AR_4_14_NAME",
             "path": "heroes.56.0",
             "text": "Mamba",
@@ -919,6 +926,13 @@
             "path": "heroes.59.0",
             "text": "Ghost Party Viola",
             "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_AR_17_29",
+            "path": "heroes.59.1",
+            "text": "Ghost Sorceress Viola",
+            "version": "4.12.1",
             "original": true
         },
         {
@@ -1164,6 +1178,13 @@
             "path": "heroes.67.2",
             "text": "Lone Wolf Lindsey",
             "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_AR_25_29",
+            "path": "heroes.67.0",
+            "text": "Lindsey in Pajamas",
+            "version": "4.12.1",
             "original": true
         },
         {
@@ -2473,6 +2494,13 @@
             "path": "heroes.138.2",
             "text": "Radiant Carol",
             "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_HU_25_29",
+            "path": "heroes.138.0",
+            "text": "Carol in Pajamas",
+            "version": "4.12.1",
             "original": true
         },
         {
@@ -5073,8 +5101,15 @@
             "original": true
         },
         {
-            "key": "TEXT_COS_PR_25_28",
+            "key": "TEXT_COS_EVENT_PR_25_WARGAME_4",
             "path": "heroes.287.0",
+            "text": "Magic Academy Sfera",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_PR_25_28",
+            "path": "heroes.287.1",
             "text": "Princess Spera of the Plains",
             "version": "4.9.0",
             "original": true
@@ -5906,8 +5941,15 @@
             "original": true
         },
         {
-            "key": "TEXT_COS_WA_4_7",
+            "key": "TEXT_COS_EVENT_WA_4_WARGAME_4",
             "path": "heroes.351.1",
+            "text": "Magic Academy Vivian",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_WA_4_7",
+            "path": "heroes.351.2",
             "text": "Hellmaid Vivian",
             "version": "4.7.0",
             "original": true
@@ -6445,8 +6487,15 @@
             "original": true
         },
         {
-            "key": "TEXT_COS_WA_21_22",
+            "key": "TEXT_COS_EVENT_WA_21_SNOW",
             "path": "heroes.367.0",
+            "text": "Nomad of the North Isis",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_WA_21_22",
+            "path": "heroes.367.1",
             "text": "Desert Nomad Isis",
             "version": "4.7.0",
             "original": true
@@ -6564,8 +6613,15 @@
             "original": true
         },
         {
-            "key": "TEXT_COS_WA_25_28",
+            "key": "TEXT_COS_EVENT_WA_25_WARGAME_4",
             "path": "heroes.371.0",
+            "text": "Magic Academy Echidna",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_WA_25_28",
+            "path": "heroes.371.1",
             "text": "Princess Echidna the Prim",
             "version": "4.9.0",
             "original": true
@@ -7369,15 +7425,22 @@
             "original": true
         },
         {
-            "key": "TEXT_COS_WI_6_5",
+            "key": "TEXT_COS_EVENT_WI_6_WARGAME_4",
             "path": "heroes.429.0",
+            "text": "Magic Academy Rachel",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_WI_6_5",
+            "path": "heroes.429.1",
             "text": "Vocal of the Void Rachel",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COS_WI_6_6",
-            "path": "heroes.429.1",
+            "path": "heroes.429.2",
             "text": "Rachel of Raining Blossoms",
             "version": "4.7.0",
             "original": true
@@ -7751,6 +7814,13 @@
             "path": "heroes.440.1",
             "text": "Helmswoman Yichui",
             "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_COS_WI_18_29",
+            "path": "heroes.440.2",
+            "text": "Druid Yichui",
+            "version": "4.12.1",
             "original": true
         },
         {
@@ -14568,6 +14638,46 @@
         {
             "key": "FISH_EVENT_SALMON_2ND",
             "path": "fishes.113"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD",
+            "path": "fishes.114"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_1",
+            "path": "fishes.115"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_2",
+            "path": "fishes.116"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_3",
+            "path": "fishes.117"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_4",
+            "path": "fishes.118"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_5",
+            "path": "fishes.119"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_6",
+            "path": "fishes.120"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_7",
+            "path": "fishes.121"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_8",
+            "path": "fishes.122"
+        },
+        {
+            "key": "FISH_EVENT_SALMON_3RD_9",
+            "path": "fishes.123"
         }
     ],
     "fishing_gear": [
@@ -16127,6 +16237,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_AR_LIMITED_4_1_NAME",
+            "path": "portraits.TEXT_CHA_AR_LIMITED_4_1_NAME",
+            "text": "Hong-Ran",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_LIMITED_5_1_NAME",
+            "path": "portraits.TEXT_CHA_AR_LIMITED_5_1_NAME",
+            "text": "Hong-Ran of Fireworks",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_LIMITED_6_1_NAME",
+            "path": "portraits.TEXT_CHA_AR_LIMITED_6_1_NAME",
+            "text": "Hong-Ran of Flame",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_AR_LIMITED_GG_4_1_NAME",
             "path": "portraits.TEXT_CHA_AR_LIMITED_GG_4_1_NAME",
             "text": "Chipp Zanuff",
@@ -16407,6 +16538,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_AR_4_20_NAME",
+            "path": "portraits.TEXT_CHA_AR_4_20_NAME",
+            "text": "Hansung",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_20_NAME",
+            "path": "portraits.TEXT_CHA_AR_5_20_NAME",
+            "text": "Hansung of Second Sight",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_20_NAME",
+            "path": "portraits.TEXT_CHA_AR_6_20_NAME",
+            "text": "Hansung of the Five Tiger Generals",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_AR_5_21_NAME",
             "path": "portraits.TEXT_CHA_AR_5_21_NAME",
             "text": "Set, Warden of the Dead",
@@ -16659,6 +16811,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_HU_4_8_NAME",
+            "path": "portraits.TEXT_CHA_HU_4_8_NAME",
+            "text": "Sentinel D",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_8_NAME",
+            "path": "portraits.TEXT_CHA_HU_5_8_NAME",
+            "text": "Sentinel A",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_8_NAME",
+            "path": "portraits.TEXT_CHA_HU_6_8_NAME",
+            "text": "Sentinel R",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_HU_4_9_NAME",
             "path": "portraits.TEXT_CHA_HU_4_9_NAME",
             "text": "Mandy",
@@ -16799,6 +16972,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_HU_4_21_NAME",
+            "path": "portraits.TEXT_CHA_HU_4_21_NAME",
+            "text": "Athos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_21_NAME",
+            "path": "portraits.TEXT_CHA_HU_5_21_NAME",
+            "text": "Muskeeter Athos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_21_NAME",
+            "path": "portraits.TEXT_CHA_HU_6_21_NAME",
+            "text": "Gourmand Athos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PA_1_3_NAME",
             "path": "portraits.TEXT_CHA_PA_1_3_NAME",
             "text": "Kriemhild",
@@ -16869,6 +17063,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_PA_LIMITED_4_1_NAME",
+            "path": "portraits.TEXT_CHA_PA_LIMITED_4_1_NAME",
+            "text": "Jin-Kyung",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_5_1_NAME",
+            "path": "portraits.TEXT_CHA_PA_LIMITED_5_1_NAME",
+            "text": "General Jin-Kyung",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_6_1_NAME",
+            "path": "portraits.TEXT_CHA_PA_LIMITED_6_1_NAME",
+            "text": "Invincible General Jin-Kyung",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PA_LIMITED_GG_4_1_NAME",
             "path": "portraits.TEXT_CHA_PA_LIMITED_GG_4_1_NAME",
             "text": "May",
@@ -16929,6 +17144,20 @@
             "path": "portraits.TEXT_CHA_PA_LIMITED_KOF2_TERRY_NAME",
             "text": "Terry Bogard",
             "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_RZ_5_03_NAME",
+            "path": "portraits.TEXT_CHA_PA_LIMITED_RZ_5_03_NAME",
+            "text": "Rem",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_LIMITED_RZ_6_03_NAME",
+            "path": "portraits.TEXT_CHA_PA_LIMITED_RZ_6_03_NAME",
+            "text": "Rem",
+            "version": "4.11.1",
             "original": true
         },
         {
@@ -17205,6 +17434,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_PA_4_22_NAME",
+            "path": "portraits.TEXT_CHA_PA_4_22_NAME",
+            "text": "Mengqi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_22_NAME",
+            "path": "portraits.TEXT_CHA_PA_5_22_NAME",
+            "text": "Warrior Mengqi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_22_NAME",
+            "path": "portraits.TEXT_CHA_PA_6_22_NAME",
+            "text": "Five Tiger General Mengqi",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PR_2_6_NAME",
             "path": "portraits.TEXT_CHA_PR_2_6_NAME",
             "text": "Sister Maria",
@@ -17317,6 +17567,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_PR_LIMITED_RZ_4_07_NAME",
+            "path": "portraits.TEXT_CHA_PR_LIMITED_RZ_4_07_NAME",
+            "text": "Ferris",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_LIMITED_RZ_5_07_NAME",
+            "path": "portraits.TEXT_CHA_PR_LIMITED_RZ_5_07_NAME",
+            "text": "Ferris",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_LIMITED_RZ_6_07_NAME",
+            "path": "portraits.TEXT_CHA_PR_LIMITED_RZ_6_07_NAME",
+            "text": "Ferris",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PR_5_1_NAME",
             "path": "portraits.TEXT_CHA_PR_5_1_NAME",
             "text": "Cat Mew",
@@ -17401,6 +17672,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_PR_4_9_NAME",
+            "path": "portraits.TEXT_CHA_PR_4_9_NAME",
+            "text": "Chai",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_9_NAME",
+            "path": "portraits.TEXT_CHA_PR_5_9_NAME",
+            "text": "Gourmet Chai",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_9_NAME",
+            "path": "portraits.TEXT_CHA_PR_6_9_NAME",
+            "text": "Food Hunter Chai",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PR_4_10_NAME",
             "path": "portraits.TEXT_CHA_PR_4_10_NAME",
             "text": "Dara",
@@ -17432,6 +17724,27 @@
             "key": "TEXT_CHA_PR_5_12_NAME",
             "path": "portraits.TEXT_CHA_PR_5_12_NAME",
             "text": "Exorcist Beatrice",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_13_NAME",
+            "path": "portraits.TEXT_CHA_PR_4_13_NAME",
+            "text": "Orfeo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_13_NAME",
+            "path": "portraits.TEXT_CHA_PR_5_13_NAME",
+            "text": "Arrogant Orfeo",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_13_NAME",
+            "path": "portraits.TEXT_CHA_PR_6_13_NAME",
+            "text": "Orfeo of Temptation",
             "version": "4.7.0",
             "original": true
         },
@@ -17751,6 +18064,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_WA_LIMITED_RZ_4_02_NAME",
+            "path": "portraits.TEXT_CHA_WA_LIMITED_RZ_4_02_NAME",
+            "text": "Crusch Karsten",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_RZ_5_02_NAME",
+            "path": "portraits.TEXT_CHA_WA_LIMITED_RZ_5_02_NAME",
+            "text": "Crusch Karsten",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_LIMITED_RZ_6_02_NAME",
+            "path": "portraits.TEXT_CHA_WA_LIMITED_RZ_6_02_NAME",
+            "text": "Crusch Karsten",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_WA_LIMITED_YS8_ADOL_NAME",
             "path": "portraits.TEXT_CHA_WA_LIMITED_YS8_ADOL_NAME",
             "text": "Adol Christin",
@@ -17859,6 +18193,27 @@
             "key": "TEXT_CHA_WA_6_8_NAME",
             "path": "portraits.TEXT_CHA_WA_6_8_NAME",
             "text": "Tribal King Uzimant",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_4_9_NAME",
+            "path": "portraits.TEXT_CHA_WA_4_9_NAME",
+            "text": "B. Sworden",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_9_NAME",
+            "path": "portraits.TEXT_CHA_WA_5_9_NAME",
+            "text": "Magistrate B. Sworden",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_9_NAME",
+            "path": "portraits.TEXT_CHA_WA_6_9_NAME",
+            "text": "Captain B. Sworden",
             "version": "4.7.0",
             "original": true
         },
@@ -18161,6 +18516,48 @@
             "path": "portraits.TEXT_CHA_WI_LIMITED_GG3_DIZZY_NAME",
             "text": "Dizzy",
             "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_RZ_5_04_NAME",
+            "path": "portraits.TEXT_CHA_WI_LIMITED_RZ_5_04_NAME",
+            "text": "Ram",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_RZ_6_04_NAME",
+            "path": "portraits.TEXT_CHA_WI_LIMITED_RZ_6_04_NAME",
+            "text": "Ram",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_RZ_5_05_NAME",
+            "path": "portraits.TEXT_CHA_WI_LIMITED_RZ_5_05_NAME",
+            "text": "Emilia",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_RZ_6_05_NAME",
+            "path": "portraits.TEXT_CHA_WI_LIMITED_RZ_6_05_NAME",
+            "text": "Emilia",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_RZ_5_06_NAME",
+            "path": "portraits.TEXT_CHA_WI_LIMITED_RZ_5_06_NAME",
+            "text": "Beatrice",
+            "version": "4.11.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_LIMITED_RZ_6_06_NAME",
+            "path": "portraits.TEXT_CHA_WI_LIMITED_RZ_6_06_NAME",
+            "text": "Beatrice",
+            "version": "4.11.1",
             "original": true
         },
         {

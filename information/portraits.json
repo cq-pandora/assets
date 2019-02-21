@@ -813,6 +813,15 @@
     "TEXT_CHA_AR_6_11_NAME": [
         "portrait_demona_default"
     ],
+    "TEXT_CHA_AR_LIMITED_4_1_NAME": [
+        "portrait_hongran_default"
+    ],
+    "TEXT_CHA_AR_LIMITED_5_1_NAME": [
+        "portrait_hongran_default"
+    ],
+    "TEXT_CHA_AR_LIMITED_6_1_NAME": [
+        "portrait_hongran_default"
+    ],
     "TEXT_CHA_AR_LIMITED_GG_4_1_NAME": [
         "portrait_chp_default"
     ],
@@ -933,6 +942,15 @@
     "TEXT_CHA_AR_6_18_NAME": [
         "portrait_kaguya_default"
     ],
+    "TEXT_CHA_AR_4_20_NAME": [
+        "portrait_hanseung_default"
+    ],
+    "TEXT_CHA_AR_5_20_NAME": [
+        "portrait_hanseung_default"
+    ],
+    "TEXT_CHA_AR_6_20_NAME": [
+        "portrait_hanseung_default"
+    ],
     "TEXT_CHA_AR_5_21_NAME": [
         "portrait_set_default"
     ],
@@ -1046,6 +1064,15 @@
     "TEXT_CHA_HU_6_7_NAME": [
         "portrait_no9_default"
     ],
+    "TEXT_CHA_HU_4_8_NAME": [
+        "portrait_sentinelr_default"
+    ],
+    "TEXT_CHA_HU_5_8_NAME": [
+        "portrait_sentinelr_default"
+    ],
+    "TEXT_CHA_HU_6_8_NAME": [
+        "portrait_sentinelr_default"
+    ],
     "TEXT_CHA_HU_4_9_NAME": [
         "portrait_mandy_default"
     ],
@@ -1106,6 +1133,15 @@
     "TEXT_CHA_HU_6_17_NAME": [
         "portrait_scarlet_default"
     ],
+    "TEXT_CHA_HU_4_21_NAME": [
+        "portrait_athos_default"
+    ],
+    "TEXT_CHA_HU_5_21_NAME": [
+        "portrait_athos_default"
+    ],
+    "TEXT_CHA_HU_6_21_NAME": [
+        "portrait_athos_default"
+    ],
     "TEXT_CHA_PA_1_3_NAME": [
         "portrait_kriemhild_default"
     ],
@@ -1136,6 +1172,15 @@
     "TEXT_CHA_PA_6_11_NAME": [
         "portrait_rolland_default"
     ],
+    "TEXT_CHA_PA_LIMITED_4_1_NAME": [
+        "portrait_jinkyung_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_5_1_NAME": [
+        "portrait_jinkyung_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_6_1_NAME": [
+        "portrait_jinkyung_default"
+    ],
     "TEXT_CHA_PA_LIMITED_GG_4_1_NAME": [
         "portrait_may_default"
     ],
@@ -1162,6 +1207,12 @@
     ],
     "TEXT_CHA_PA_LIMITED_KOF2_TERRY_NAME": [
         "portrait_kofterry_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_RZ_5_03_NAME": [
+        "portrait_rzrem_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_RZ_6_03_NAME": [
+        "portrait_rzrem_default"
     ],
     "TEXT_CHA_PA_LIMITED_YS8_RICOTTA_NAME": [
         "portrait_ysricotta_default"
@@ -1280,6 +1331,15 @@
     "TEXT_CHA_PA_6_19_NAME": [
         "portrait_fenrir_default"
     ],
+    "TEXT_CHA_PA_4_22_NAME": [
+        "portrait_maenggi_default"
+    ],
+    "TEXT_CHA_PA_5_22_NAME": [
+        "portrait_maenggi_default"
+    ],
+    "TEXT_CHA_PA_6_22_NAME": [
+        "portrait_maenggi_default"
+    ],
     "TEXT_CHA_PR_2_6_NAME": [
         "portrait_maria_default"
     ],
@@ -1328,6 +1388,15 @@
     "TEXT_CHA_PR_LIMITED_KOF2_ATHENA_NAME": [
         "portrait_kofatena_default"
     ],
+    "TEXT_CHA_PR_LIMITED_RZ_4_07_NAME": [
+        "portrait_rzfelix_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_RZ_5_07_NAME": [
+        "portrait_rzfelix_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_RZ_6_07_NAME": [
+        "portrait_rzfelix_default"
+    ],
     "TEXT_CHA_PR_5_1_NAME": [
         "portrait_mew_default"
     ],
@@ -1364,6 +1433,15 @@
     "TEXT_CHA_PR_5_8_NAME": [
         "portrait_stein_default"
     ],
+    "TEXT_CHA_PR_4_9_NAME": [
+        "portrait_chai_default"
+    ],
+    "TEXT_CHA_PR_5_9_NAME": [
+        "portrait_chai_default"
+    ],
+    "TEXT_CHA_PR_6_9_NAME": [
+        "portrait_chai_default"
+    ],
     "TEXT_CHA_PR_4_10_NAME": [
         "portrait_dara_default"
     ],
@@ -1378,6 +1456,15 @@
     ],
     "TEXT_CHA_PR_5_12_NAME": [
         "portrait_bea_default"
+    ],
+    "TEXT_CHA_PR_4_13_NAME": [
+        "portrait_orfeo_default"
+    ],
+    "TEXT_CHA_PR_5_13_NAME": [
+        "portrait_orfeo_default"
+    ],
+    "TEXT_CHA_PR_6_13_NAME": [
+        "portrait_orfeo_default"
     ],
     "TEXT_CHA_PR_5_14_NAME": [
         "portrait_aria_default"
@@ -1520,6 +1607,15 @@
     "TEXT_CHA_WA_LIMITED_KOF1_RUGAL_NAME": [
         "portrait_kofomegarugal_default"
     ],
+    "TEXT_CHA_WA_LIMITED_RZ_4_02_NAME": [
+        "portrait_rzcrusch_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_RZ_5_02_NAME": [
+        "portrait_rzcrusch_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_RZ_6_02_NAME": [
+        "portrait_rzcrusch_default"
+    ],
     "TEXT_CHA_WA_LIMITED_YS8_ADOL_NAME": [
         "portrait_ysadol_default"
     ],
@@ -1567,6 +1663,15 @@
     ],
     "TEXT_CHA_WA_6_8_NAME": [
         "portrait_uzimant_default"
+    ],
+    "TEXT_CHA_WA_4_9_NAME": [
+        "portrait_sworden_default"
+    ],
+    "TEXT_CHA_WA_5_9_NAME": [
+        "portrait_sworden_default"
+    ],
+    "TEXT_CHA_WA_6_9_NAME": [
+        "portrait_sworden_default"
     ],
     "TEXT_CHA_WA_4_10_NAME": [
         "portrait_isabel_default"
@@ -1702,6 +1807,24 @@
     ],
     "TEXT_CHA_WI_LIMITED_GG3_DIZZY_NAME": [
         "portrait_ggdizzy_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_5_04_NAME": [
+        "portrait_rzram_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_6_04_NAME": [
+        "portrait_rzram_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_5_05_NAME": [
+        "portrait_rzemilia_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_6_05_NAME": [
+        "portrait_rzemilia_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_5_06_NAME": [
+        "portrait_rzbeatrice_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_RZ_6_06_NAME": [
+        "portrait_rzbeatrice_default"
     ],
     "TEXT_CHA_WI_5_1_NAME": [
         "portrait_archon_default"

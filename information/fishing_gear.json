@@ -534,7 +534,7 @@
         "power": 10,
         "big_chance": 0,
         "bite_chance": 40,
-        "event_chance": 11500,
+        "event_chance": 1000000,
         "currency": "ITEM_FISHCOIN",
         "price": 100000,
         "image": "fish_icon_gear_bait_event_01"

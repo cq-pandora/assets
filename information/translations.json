@@ -3810,8 +3810,8 @@
         "original": true
     },
     "TEXT_CHAMP_EAST_RYU_EXCLUSIVE_DESC": {
-        "text": "Kurenai's Slash of Red Lotus is ^recognized as a 3-chain attack^. Upon activation, all allies ^automatically activate their 3-chain skill,^ and ^1 block of non-leader allies^ are generated.",
-        "version": "4.7.0",
+        "text": "Kurenai's 'Slash of Red Lotus' is ^recognized as a 3-chain.^ Upon using 'Slash of Red Lotus,' all allies ^automatically use their 3-chain skill,^ and ^2 blocks for each ally^ are generated.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHAMP_EAST_RYU_EXCLUSIVE_NAME": {
@@ -4150,8 +4150,8 @@
         "original": true
     },
     "TEXT_CHAMP_HAN_ACTIVE_LV4_DESC": {
-        "text": "Hanee Baram uses a magic spell to increase ^all allies' evasion by 60%^ for 9 seconds. After activation, Hanee Baram deals @magical damage@ equal to ^215% of attack power^, and casts a shield equal to ^215% of attack power^ over allies for ^2 seconds^.",
-        "version": "4.7.0",
+        "text": "Hanee Baram uses a magic spell to increase ^allies' evasion by 60%^ for 9 seconds. During this time, Hanee Baram casts a ^shield^ once every 3 seconds that absorbs damage equal to ^215% of her attack power^ over allies that lasts ^2 seconds^. After the spell ends, Hanee Baram deals @magical damage@ equal to ^215% of her attack power^ to enemies.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHAMP_HAN_ACTIVE_LV4_NAME": {
@@ -4160,8 +4160,8 @@
         "original": true
     },
     "TEXT_CHAMP_HAN_ACTIVE_LV5_DESC": {
-        "text": "Hanee Baram uses a magic spell to increase ^all allies' evasion by 75%^ for 9 seconds. After activation, Hanee Baram deals @magical damage@ equal to ^250% of attack power^, and casts a shield equal to ^250% of attack power^ over allies for ^4 seconds^.",
-        "version": "4.7.0",
+        "text": "Hanee Baram uses a magic spell to increase ^allies' evasion by 75%^ for 9 seconds. During this time, Hanee Baram casts a ^shield^ once every 3 seconds that absorbs damage equal to ^250% of her attack power^ over allies that lasts ^2 seconds^. After the spell ends, Hanee Baram deals @magical damage@ equal to ^250% of her attack power^ to enemies.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHAMP_HAN_ACTIVE_LV5_NAME": {
@@ -4185,8 +4185,8 @@
         "original": true
     },
     "TEXT_CHAMP_HAN_PASSIVE_LV1_DESC": {
-        "text": "All allies' ^attack speed^ increases by 15%, and ^movement^ increases by ^20%^.",
-        "version": "4.7.0",
+        "text": "All allies' ^attack speed increases by 15%, and movement speed by 5%^.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHAMP_HAN_PASSIVE_LV1_NAME": {
@@ -4195,8 +4195,8 @@
         "original": true
     },
     "TEXT_CHAMP_HAN_PASSIVE_LV2_DESC": {
-        "text": "All allies' ^attack speed^ increases by 25%, and ^movement^ increases by ^30%^.",
-        "version": "4.7.0",
+        "text": "All allies' ^attack speed increases by 25%, and movement speed by 10%^.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHAMP_HAN_PASSIVE_LV2_NAME": {
@@ -4205,8 +4205,8 @@
         "original": true
     },
     "TEXT_CHAMP_HAN_PASSIVE_LV3_DESC": {
-        "text": "All allies' ^attack speed^ increases by 40%, and ^movement^ increases by ^50%^. If ally succeeds in evading 5 times, ^all allies' accuracy increases by 15%^ for 3 seconds. (Can be stacked maximum 4 times).",
-        "version": "4.7.0",
+        "text": "All allies' ^attack speed increases by 40%, and movement speed by 15%.^ If an ally succeeds in evading 5 times, ^all allies' accuracy increases by 15%^ for 3 seconds. (Can be stacked to a maximum of 60%).",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHAMP_HAN_PASSIVE_LV3_NAME": {
@@ -9320,8 +9320,8 @@
         "original": true
     },
     "TEXT_CHA_PR_4_9_DESC": {
-        "text": "Chai spent most of her life caring for her elderly grandfather. Now, she's on a quest to fulfill his last wish: to taste the most delicious soup in the world.",
-        "version": "4.7.0",
+        "text": "The sole granddaughter of a legendary chef, who now resides in a quiet village in the countryside after his retirement. Chai, however, disapproves of her grandfather's decision to retire - after all, his noodles are too good to stop cooking! One fateful night, Chai steals her grandfather's secret recipe and starts on an adventure to prove her point.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHA_PR_4_9_NAME": {
@@ -9530,8 +9530,8 @@
         "original": true
     },
     "TEXT_CHA_PR_5_9_DESC": {
-        "text": "Chai has traveled the world, sampling its soups, but she found each of them lacking. Discouraged, she wandered into the mountains, where she met the Red Paw Chef, who taught her his secret and delicious recipe.",
-        "version": "4.7.0",
+        "text": "Chai enters Mr. Paik's Cooking Competition, a prestigious contest where skilled chefs all throughout Hasla compete. Armed with her grandfather's recipe - the legendary 'Red Dragon Beard' noodle dish - Chai emerges victorious from the final round. Along with the title of Master Chef, she earns a state-of-the-art food wagon made with Neth technology and a special Golden Dragon Ladle.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHA_PR_5_9_NAME": {
@@ -9740,8 +9740,8 @@
         "original": true
     },
     "TEXT_CHA_PR_6_9_DESC": {
-        "text": "Armed with the Red Paw Chef's secret recipe, Chai now must gather the ingredients from around the world, hunting monsters and herbs for her grandfather's final repose.",
-        "version": "4.7.0",
+        "text": "Chai proudly returns home and suggests to her grandfather a national food tour on their new food wagon. Chai's grandfather gives up the premise of a peaceful retirement to finally grab his ladle once more for his beloved granddaughter.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CHA_PR_6_9_NAME": {
@@ -18445,8 +18445,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_GU_ARMOR_6_3": {
-        "text": "(Passive Activated) Armor penetration +50% for 3 seconds, shoots enery balls to the front. When the energy ball touches the enemy, it explodes, dealing physical damage equal to 400% of hero's attack power.",
-        "version": "4.7.0",
+        "text": "(Passive Activated) Armor penetration +50% for 3 seconds, shoots energy balls to the front. When the energy ball touches the enemy, it explodes, dealing physical damage equal to 400% of hero's attack power.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_GU_LIMITED_KOF_LEONA_4": {
@@ -18805,8 +18805,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_4_5": {
-        "text": "(PD-CROW bullet) Number of fire +2",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Activating 'the Hunt' will only decrease Crow's movement speed by 15%.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_4_6": {
@@ -18885,8 +18885,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_5": {
-        "text": "(Upon activating passive) Instead of passive, throws 5 grenades that each deal physical damage equal to 250% of attack power.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Activating 'the Hunt' will only decrease Crow's movement speed by 15%. Crow will throw 3 additional bombs.\n(Passive Added) Upon using his block, Crow's basic attacks are activated as block skills. Using Crow's block during this effect will result in him shooting twice the initial number of bullets for 3 seconds.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_6": {
@@ -19045,13 +19045,13 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_4_8": {
-        "text": "(Passive activated) Leader's HP does not fall below 1%.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) 'Forbidden Technology' increases its subjects' armor and resistance twice as much.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_4_9": {
-        "text": "(Passive activated) Healing effect increase by 125%",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) 'Great Dishes' heal 125% more HP.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_6_1": {
@@ -19125,13 +19125,13 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_6_8": {
-        "text": "(Passive activated) Leader's HP does not fall below 1%. Leader receives entire party's damage.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) 'Forbidden Technology' increases its subjects' attack power, armor, and resistance twice as much.\n(Passive Added) If an ally other than Stein under the effect of 'Forbidden Technology' dies, Stein summons 'Steamer Mk-ULTRA.'\n'Steamer Mk-ULTRA' receives 30% of all stats of the dead ally, and copies Stein's block skills whenever they are used. (Only 1 summoned per Hero. Invincible for 1 second upon being summoned.)",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_6_9": {
-        "text": "(Passive activated) Healing effect increase by 125%, when ally uses chain-3 skill, a dragon is summoned at the front line. Dragon deals @magical damage@ equal to 200% of Chai's attack power (activated once in every 2 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) 'Great Dishes' heal 125% more HP.\n(Passive Altered) Upon using another ally's 3-chain, Chai summons the 'Gold Dragon Food Wagon' that follows her for 5 seconds. Allies within the range of the 'Gold Dragon Food Wagon' are healed by 100% of Chai's attack power per second and generate 10 SP. Additionally, their attack power is increased by 10% for each ally within the range of Chai's passive, and critical chance by 5% with each ally within the range of Chai's passive. (Can be stacked up to 5 times) Reusing the passive before its termination will renew its duration.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_LIMITED_GG_4_1": {
@@ -24235,13 +24235,13 @@
         "original": true
     },
     "TEXT_HONOR_PACK_TYPE_1_DESC": {
-        "text": "3000 Honor",
-        "version": "4.7.0",
+        "text": "3,000",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_HONOR_PACK_TYPE_2_DESC": {
-        "text": "3 Jewels",
-        "version": "4.7.0",
+        "text": "3",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_HOUSE_EDIT_BACK": {
@@ -39950,18 +39950,18 @@
         "original": true
     },
     "TEXT_SKILL_AR_ROOT_WAVE_DESC": {
-        "text": "Shoots seeds at an enemy in the rear and summons ivy dealing @magic damage@ equal to [60/120/312.5]% of the Hero's attack power. The seed remains for 5 seconds.",
-        "version": "4.7.0",
+        "text": "Shoots seeds at an enemy in the rear and summons ivy dealing @magic damage@ equal to [60/125/312.5]% of the Hero's attack power. The seed remains for 5 seconds.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_SKILL_AR_ROOT_WAVE_LV2_SUBDESC": {
-        "text": "When an ally uses a chain-3 skill, the seed grows into a tree that deals @magic damage@ equal to 250% of the Hero's attack power.",
-        "version": "4.7.0",
+        "text": "Upon using another ally's 3-chain, Magnus summons a 'Tree Spirit' near the 'sown' enemy that deals @magical damage@ equal to 1000% of his attack power. (Cooltime: 0.5 seconds)",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_SKILL_AR_ROOT_WAVE_LV3_SUBDESC": {
-        "text": "When an ally uses a chain-3 skill or a seeded enemy receives a buff, the seed grows into a tree that deals @magic damage@ equal to 300% of the Hero's attack power.",
-        "version": "4.7.0",
+        "text": "When a 'sown' enemy receives a buff, or upon using another ally's 3-chain, Magnus summons a 'Tree Spirit' near the 'sown' enemy that deals @magical damage@ equal to 1200% of his attack power. (Cooltime: 0.5 seconds)",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_SKILL_AR_ROOT_WAVE_NAME": {
@@ -42560,8 +42560,8 @@
         "original": true
     },
     "TEXT_SKILL_PR_FOOD_PARADE_LV3_SUBDESC": {
-        "text": "Using Fine Cuisine after an ally uses a chain-3 skill creates 8 #GREAT# dishes that heal all allies for 100% of the value of a regular dish and recovers 3 SP for the ally who eats the dish.",
-        "version": "4.7.0",
+        "text": "Using Fine Cuisine after an ally uses a chain-3 skill creates 8 #GREAT# dishes that heal all allies for 100% of the value of a regular dish and recovers 2 SP for the ally who eats the dish.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_SKILL_PR_FOOD_PARADE_NAME": {
@@ -50860,8 +50860,8 @@
         "original": true
     },
     "TEXT_UPGRADE_RETRY_DESC": {
-        "text": "The next #retry# will not result in the same hero.",
-        "version": "4.7.0",
+        "text": "The next retry will not result in the same hero.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_UPGRADE_SUCCESS_DESC": {
@@ -51525,8 +51525,8 @@
         "original": true
     },
     "TEXT_WEAPON_CONVERT_CHECK_DESC": {
-        "text": "#Previous upgrade option will be deleted#. Proceed?",
-        "version": "4.7.0",
+        "text": "Will you continue upgrading the Weapon?\n- #Any unlocked Option will be applied.\n- If you only have a few Options unlocked, this upgrade may result in the same Option.#",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_WEAPON_CONVERT_CHECK_TITLE": {
@@ -53185,8 +53185,8 @@
         "original": true
     },
     "TEXT_WEP_GU_S4_5_NAME": {
-        "text": "Shadow Catapult",
-        "version": "4.7.0",
+        "text": "Machine Gun",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_WEP_GU_S4_6_NAME": {
@@ -53285,8 +53285,8 @@
         "original": true
     },
     "TEXT_WEP_GU_S5_5_NAME": {
-        "text": "Dark Catapult",
-        "version": "4.7.0",
+        "text": "M61 Vulcan",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_WEP_GU_S5_6_NAME": {
@@ -53385,8 +53385,8 @@
         "original": true
     },
     "TEXT_WEP_GU_S6_5_NAME": {
-        "text": "Dark Shadow",
-        "version": "4.7.0",
+        "text": "R.I.P",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_WEP_GU_S6_6_NAME": {
@@ -57380,13 +57380,13 @@
         "original": true
     },
     "TEXT_4GRADE_PASSIVE_DESC": {
-        "text": "Rank 4 heroes can learn passive skills!\nPassive skills will level up when the hero reaches Rank 6.",
-        "version": "4.7.0",
+        "text": "Rank 4 heroes can learn passive skills! Passive skills will level up when the hero reaches Rank 6.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_6GRADE_PASSIVE_DESC": {
-        "text": "This Hero's Passive Skill has leveled up!\nEnjoy the power!",
-        "version": "4.7.0",
+        "text": "This Hero's Passive Skill has leveled up! Enjoy the power!",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_6RMB_LIMIT_PACKAGE_01": {
@@ -57835,8 +57835,8 @@
         "original": true
     },
     "TEXT_CARVE_CHANGE_CONFIRM_DESC": {
-        "text": "The original Sigil in the selected slot will be destroyed.\nContinue?",
-        "version": "4.7.0",
+        "text": "The #initial Sigil in the selected Slot# will be destroyed.\nContinue?",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_CARVE_CHANGE_CONFIRM_TITLE": {
@@ -65575,8 +65575,8 @@
         "original": true
     },
     "TEXT_HELP_20406_MAIN_DESC": {
-        "text": "1. Upgrading a weapon will transfer a random option to the slot.\n2. Weapon Options are divided into three categories: Attack, Defense, and Function.\n3. Be sure to check the 'Option Info' before you attempt to upgrade a weapon. Here you can see the Weapon Options available at your Mercenary Level.\n4. Soulbound Weapon options can be changed by using Random Weapon Option Tickets or Weapon Option Selection Ticket.\n5. You can upgrade your weapon to higher options as your Mercenary Level increases.\n6. You can purchase locked Weapon Options with Gold.\n7. Obtaining Great Success on the weapon upgrade will grant a 15% bonus to the option.\n8. A weapon that has both options upgraded with Great Success will be marked with the letters 'MAX.' \n9. When you upgrade an option, the previous option will be deleted.",
-        "version": "4.7.0",
+        "text": "1. Upgrading a weapon will transfer a random option to the slot.\n2. Weapon Options are divided into three categories: Attack, Defense, and Function.\n3. Be sure to check the 'Option Info' before you attempt to upgrade a weapon. Here you can see the Weapon Options available at your Mercenary Level.\n4. Soulbound Weapon options can be changed by using Random Weapon Option Tickets or Weapon Option Selection Ticket.\n5. You can upgrade your weapon to higher options as your Mercenary Level increases.\n6. You can purchase locked Weapon Options with Gold.\n7. Obtaining Great Success on the weapon upgrade will grant a 15% bonus to the option.\n8. A weapon that has all options upgraded with Great Success will be marked with the letters 'MAX.' \n9. When upgrading a weapon, you can choose between the initial and new options and confirm one of your choice.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_HELP_20407_MAIN": {
@@ -79870,8 +79870,8 @@
         "original": true
     },
     "TEXT_REFRESH_COOLTIME_NOTI": {
-        "text": "Please try again in a moment.",
-        "version": "4.9.0",
+        "text": "Please try again in {0} seconds.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_RESET_ALL": {
@@ -83540,8 +83540,8 @@
         "original": true
     },
     "TEXT_SKILL_WI_OSIRIS_DESC_S2EP2": {
-        "text": "Osiris summons an 'Ancient Magic Circle' that lasts [1/3/6] seconds according to the chain number used. The 'Ancient Magic Circle' deals @magical damage@ equal to 50% of Osiris's attack power per second.",
-        "version": "4.9.0",
+        "text": "Osiris summons an 'Ancient Magic Circle' that lasts [2/4/6] seconds according to the chain number used. The 'Ancient Magic Circle' deals @magical damage@ equal to 50% of Osiris's attack power per second.",
+        "version": "4.12.1",
         "original": true
     },
     "TEXT_STAGE_S2_EP2_CH1_1_NAME": {
@@ -85236,6 +85236,241 @@
     },
     "TEXT_WALL_NOS_WINTER_01_NAME": {
         "text": "Wintertime Pattern Wall",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_PATTERN_BS_MANACAR_VOID_PRISON_ACT_DESC": {
+        "text": null,
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_PATTERN_BS_MANACAR_VOID_PRISON_ACT_NAME": {
+        "text": null,
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_PATTERN_BS_MANACAR_VOID_REGACY_DESC": {
+        "text": null,
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_PATTERN_BS_MANACAR_VOID_REGACY_NAME": {
+        "text": null,
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_BOOST_COUNT": {
+        "text": "Use Boost Mode",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_EVENT_PR_25_WARGAME_4": {
+        "text": "Magic Academy Sfera",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WA_25_WARGAME_4": {
+        "text": "Magic Academy Echidna",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WA_4_WARGAME_4": {
+        "text": "Magic Academy Vivian",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WI_6_WARGAME_4": {
+        "text": "Magic Academy Rachel",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_FILTER_NO_HERO": {
+        "text": "There are no Heroes found under this filter.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_FILTER_PROMOTION_AVAILABLE_HERO": {
+        "text": "Promotion Available",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_HARD_TUNDRA_QUEST_TITLE_106": {
+        "text": "Camping in the Cold",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_HOWTO_FISH_EXCHANGE_DESC": {
+        "text": "Purchase at the Trading Post!",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MATERIAL_COUNT": {
+        "text": "Acquire Material",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MIX_COUNT": {
+        "text": "Use Alchemy Lab",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MULTI_DESYNC_COUNT": {
+        "text": "Suspicious Activity Count: {0}",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MULTI_DESYNC_DESC": {
+        "text": "Suspicious activity has been detected. The game will automatically close and you will return to the Town Lobby. Repeated detections may result in penalty regarding game service.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MULTI_DESYNC_TITLE": {
+        "text": "Suspicious Activity Detected!",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MULTI_DISCONNECT_DESC": {
+        "text": "Your connection to the other player has been lost. Please wait.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MULTI_DISCONNECT_TITLE": {
+        "text": "Connection was lost!",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MULTI_RECONNECT_DESC": {
+        "text": "You have been reconnected with the other player!\nThe game will continue in a moment.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_MULTI_RECONNECT_TITLE": {
+        "text": "Re-Connected!",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_OPTION_BOX_DESIGN": {
+        "text": "See Letterbox, Pillarbox Design",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_PVP_LEAGUE_TOP_PERCENT": {
+        "text": "Top {0}% within League",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CROW_DESC": {
+        "text": "Upon using his block, Crow shoots bullets that deal #physical damage# equal to 100% of his attack power to a single enemy in the front for 5 seconds.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CROW_LV2_SUBDESC": {
+        "text": "Upon using his block, Crow's movement speed is decreased by 30%, and the duration of 'Automatic Shot' is increased by 3 seconds.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CROW_LV3_SUBDESC": {
+        "text": "Upon using his block, Crow's movement speed is decreased by 30%, and the duration of 'Automatic Shot' is increased by 3 seconds.\nUpon using his own block after another ally's 3-chain, Crow summons a crow that throws a bomb at the frontmost enemy. The bomb explodes to deal #physical damage# equal to 1000% of Crow's attack power. (Cooltime: 2 seconds)",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CROW_NAME": {
+        "text": "Automatic Shot",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CROW_SUBNAME": {
+        "text": "The Hunt",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SK_PR_STEIN_BLOCK_DESC": {
+        "text": "Stein attaches a 'Life Support Device' to [one / one / all] ally hero(es) for 7 seconds, according to the chain number used. The 'Life Support Device' heals its subject by 30% of Stein's attack power per second.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SK_PR_STEIN_BLOCK_NAME": {
+        "text": "Life Support Device",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SK_PR_STEIN_LV2_SUBDESC": {
+        "text": "The 'Life Support Device' will increase its subject's armor and resistance by 10%. This effect cannot be administered to Stein.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SK_PR_STEIN_LV3_SUBDESC": {
+        "text": "The 'Life Support Device' will increase its subject's attack power by 25%, and armor and resistance by 10%. This effect cannot be administered to Stein.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SK_PR_STEIN_SUBNAME": {
+        "text": "Forbidden Technology",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SLEEPMODE_MAXIMUM_COUNT": {
+        "text": "Starting Battery Saving Mode in {0} seconds.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_SLEEPMODE_OFF": {
+        "text": "Slide Screen to the Right to Unlock",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_TIP_FISHING_7": {
+        "text": "The 'Big Fish Chance' of your Fishing Equipment increases your chances of catching bigger fish while Auto-Fishing!",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WARGAME_STACK_COUNT": {
+        "text": "Turn {0}",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WARGAME_STACK_COUNT_1": {
+        "text": "This Turn's Reward",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WARGAME_STACK_COUNT_2": {
+        "text": "Next Turn's Reward",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WARNING_CARVESTONE_SELL_DESC": {
+        "text": "[Epic and above] Sigil(s) selected.\nContinue to sell?",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WEAPON_RESET_WARNING_DESC": {
+        "text": "Retrying your Upgrade will take you to the Upgrade Method Pop-Up Menu while keeping your initial Option.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WEAPON_RESET_WARNING_TITLE": {
+        "text": "Retry Upgrade",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WEAPON_SELECT_AFTER": {
+        "text": "After Upgrade",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WEAPON_SELECT_BEFORE": {
+        "text": "Before Upgrade",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WEAPON_SELECT_DESC": {
+        "text": "Choose an option to upgrade.",
+        "version": "4.12.1",
+        "original": true
+    },
+    "TEXT_WEAPON_SELECT_TITLE": {
+        "text": "Select Upgrade Option",
         "version": "4.12.1",
         "original": true
     }

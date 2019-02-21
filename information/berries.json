@@ -16,7 +16,7 @@
     {
         "id": "ADDSTAT_ACC_GRADE_5",
         "name": "TEXT_ADDSTAT_ACC_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "accuracy",
         "is_percentage": true,
         "value": 0.4,
@@ -142,7 +142,7 @@
     {
         "id": "ADDSTAT_ARMOR_GRADE_5",
         "name": "TEXT_ADDSTAT_ARMOR_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "armor",
         "is_percentage": true,
         "value": 0.4,
@@ -226,7 +226,7 @@
     {
         "id": "ADDSTAT_ATK_GRADE_5",
         "name": "TEXT_ADDSTAT_ATK_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "atk_power",
         "is_percentage": true,
         "value": 0.4,
@@ -310,7 +310,7 @@
     {
         "id": "ADDSTAT_CRI_DMG_GRADE_5",
         "name": "TEXT_ADDSTAT_CRI_DMG_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "crit_dmg",
         "is_percentage": true,
         "value": 0.4,
@@ -394,7 +394,7 @@
     {
         "id": "ADDSTAT_CRI_GRADE_5",
         "name": "TEXT_ADDSTAT_CRI_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "crit_chance",
         "is_percentage": true,
         "value": 0.4,
@@ -478,7 +478,7 @@
     {
         "id": "ADDSTAT_DODGE_GRADE_5",
         "name": "TEXT_ADDSTAT_DODGE_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "evasion",
         "is_percentage": true,
         "value": 0.4,
@@ -730,7 +730,7 @@
     {
         "id": "ADDSTAT_HP_GRADE_5",
         "name": "TEXT_ADDSTAT_HP_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "hp",
         "is_percentage": true,
         "value": 0.4,
@@ -814,7 +814,7 @@
     {
         "id": "ADDSTAT_RES_GRADE_5",
         "name": "TEXT_ADDSTAT_RES_GRADE_5",
-        "rarity": "rare",
+        "rarity": "epic",
         "target_stat": "resistance",
         "is_percentage": true,
         "value": 0.4,
