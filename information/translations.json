@@ -85473,5 +85473,240 @@
         "text": "Select Upgrade Option",
         "version": "4.12.1",
         "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_01_TITLE": {
+        "text": "Cats are love!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_02_TITLE": {
+        "text": "Diligence will help you grow stronger, nya!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_03_TITLE": {
+        "text": "How creepy, nya!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_04_TITLE": {
+        "text": "Let's try fighting strong bosses, nya!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_05_TITLE": {
+        "text": "Let's go on an adventure, nya!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_06_TITLE": {
+        "text": "1-chains are the basics of any battle, nya!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_07_TITLE": {
+        "text": "Let's try using 2-chains, nya!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_201903_LIMIT_QUEST_CAT_08_TITLE": {
+        "text": "Let's attack using 3-chains, nya!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_26_DESC": {
+        "text": "For Shub, a young bibliophile, there is nothing better than a good book borrowed from the local library. One day, she comes across a mysterious, torn book that strangely draws her in...",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_26_NAME": {
+        "text": "Shub",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_26_DESC": {
+        "text": "The torn book seems to contain strange knowledge that Shub has never known before. Fascinated, Shub continues to read the volume, unaware of her mind slipping into the shadows. She starts to flaunt the dark powers she received from her reading to other people, her eyes grown dark with madness.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_26_NAME": {
+        "text": "Shub the Fanatic",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_26_DESC": {
+        "text": "Shub becomes completely consumed by the abyss that is the book. She begins to force her devotion to the 'Master' of the volume onto others, punishing those who will not listen. Dark whispers from the beyond continue to guide her outside her village out into the world, where she, a true disciple to the ever-watchful Master, shall continue to look for the other half of the book...",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_26_NAME": {
+        "text": "Shub the Disciple of the Abyss",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_26_DESC": {
+        "text": "A blind man who lives in a small country village in the Eastern Kingdom of Han. Although he tends to idly squander away all his time using his blindness as an excuse, he manages to scrape by thanks to his devoted daughter, Sim Cheong.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_26_NAME": {
+        "text": "Sim Hak-Gyu",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_26_DESC": {
+        "text": "Ever the dutiful daughter, Sim Cheong comes to hear a rumor of the Enlightened Otter's teachings and their mysterious healing powers. She drags her unwilling father out of their home and starts on a journey to recover Sim Hak-Gyu's sight.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_26_NAME": {
+        "text": "Blind Sim Hak-Gyu",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_26_DESC": {
+        "text": "Surprise, surprise - in truth, Sim Hak-Gyu isn't blind at all! He had started to lie about his sight in order to spend his days in idle indulgence, continuing only out of fear of Sim Cheong's reaction. Now years have gone by with him posing as a blind man, and surely Sim Hak-Gyu cannot stop his lies now! Yet all this tripping and falling is growing old, and so is the subtle guilt that burdens his heart. Who knows, it may be time to finally tell his daughter the truth. Not today, however.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_26_NAME": {
+        "text": "Short-Sighted Sim Hak-Gyu",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COS_AR_1_30": {
+        "text": "Dra-Gon Gon",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WI_7_REBALANCE": {
+        "text": "Nya Nya Alice",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COS_PA_25_30": {
+        "text": "Chocolate Gentleman Caeneus",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COS_PR_19_30": {
+        "text": "Bari with Heart Balloons",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COS_WI_25_30": {
+        "text": "Yellow Raincoat Grim Reaper",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SHUB_DESC": {
+        "text": "Shub heals the ally with the least remaining HP by [120/200/280]% of attack power according to chain number.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SHUB_LV2_SUBDESC": {
+        "text": "Upon using her block skill, Shub marks the enemy with the least remaining HP as the 'sacrifice,' and the ally with the least remaining HP as the 'disciple' for 5 seconds.\nThe enemy marked as the 'sacrifice' will receive 40% more damage, while the ally marked as the 'disciple' will receive 40% less damage.\nBoth effects can only mark one target at a time. If re-used before expiring, the marks do not change targets; instead, their durations get refreshed.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SHUB_LV3_SUBDESC": {
+        "text": "Upon using her block skill, Shub marks the enemy with the least remaining HP as the 'sacrifice,' and the ally with the least remaining HP as the 'disciple' for 5 seconds.\nThe enemy marked as the 'sacrifice' will receive 40% more damage, while the ally marked as the 'disciple' will receive 40% less damage.\nBoth effects can only mark one target at a time. If re-used before expiring, the marks do not change targets; instead, their durations get refreshed.\nAdditionally, whenever the enemy marked as the 'sacrifice' receives a buff or debuff, Shub releases tentacles to deal @magical damage@ equal to 900% of attack power. (Cooltime: 1 second)",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SHUB_NAME": {
+        "text": "The Forbidden Blessing",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_SHUB_SUBNAME": {
+        "text": "Consecrated Lunacy",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SIMHAKGYU_DESC": {
+        "text": "Sim Hak-Gyu falls over while swinging his blade around, dealing #physical damage# equal to [80/140/220]% of his attack power.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SIMHAKGYU_LV2_SUBDESC": {
+        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter 'Sim Cheong.' Sim Cheong's stats are the same as her father's upon summon. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SIMHAKGYU_LV3_SUBDESC": {
+        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter 'Sim Cheong.' Sim Cheong's stats are 1.25 times her father's upon summon. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies. Upon using Sim Hak-Gyu's 3-chain, 'Sim Cheong' uses 'Punch of the Indang Waters' to deal #physical damage# equal to 2000% of her attack power. 'Sim Cheong' receives all damage targeted at Sim Hak-Gyu.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SIMHAKGYU_NAME": {
+        "text": "I Can't See!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SIMHAKGYU_SUBNAME": {
+        "text": "Watch Out, Pa!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_26_DESC": {
+        "text": "(Passive Added) Upon using her block skill, Shub wraps the enemy marked as the 'sacrifice' with her tentacles for 5 seconds to immobilize them and deal magical damage equal to 100% of her attack power per second.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_26_NAME": {
+        "text": "Torn Grimoire",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_26_DESC": {
+        "text": "(Passive Added) Upon using her block skill, Shub wraps the enemy marked as the 'sacrifice' with her tentacles for 5 seconds to immobilize them and deal magical damage equal to 100% of her attack power per second.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_26_NAME": {
+        "text": "Grimoire of Resurrection",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_26_DESC": {
+        "text": "(Passive Added) Upon using her block skill, Shub wraps the enemy marked as the 'sacrifice' with her tentacles for 5 seconds to immobilize them and deal magical damage equal to 100% of her attack power per second.\nAdditionally, whenever the enemy marked as 'sacrifice' receives a debuff, the following passives will be acivated one at a time in the order below: (Cooltime: 1 second)\n\nRevelation: Allies do not receive damage for 2 hits.\nPenance: Shub deals magical damage equal to 600% of her attack power to the enemy marked as the 'sacrifice' and dispels their buffs.\nPandemonium: All enemies within Shub's range receive neutral damage equal to 15% of Shub's maximum HP and are stunned for 1 second. This passive ignores enemies' abilities of receiving the party's damage in their stead.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_26_NAME": {
+        "text": "The Book of Delet - Vol. 1",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_26_DESC": {
+        "text": "(Passive Added) Upon using Sim Hak-Gyu's 3-chain, Sim Cheong's HP is healed by 20%.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_26_NAME": {
+        "text": "Old Cane-Sword",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_26_DESC": {
+        "text": "(Passive Added) Upon using Sim Hak-Gyu's 3-chain, Sim Cheong's HP is healed by 20%.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_26_NAME": {
+        "text": "Defensive Cane-Sword",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_26_DESC": {
+        "text": "(Passive Added) Upon using Sim Hak-Gyu's 3-chain, Sim Cheong's HP is healed by 20%. Upon using his Special Skill, Sim Cheong's attack power increases by 300% and armor penetration by 2000 for 10 seconds. If Sim Cheong is dead, Sim Hak-Gyu opens his eyes, and his block skills will deal physical damage equal to [160/280/440]% of his attack power. Using his own or another ally's block skill afterwards will activate Sim Hak-Gyu's 'Eye Beam' that deals physical damage equal to 600% of his attack power and stuns the enemy for 1 second. (Cooltime: 2 seconds)",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_26_NAME": {
+        "text": "Pathfinder",
+        "version": "4.13.1",
+        "original": true
     }
 }

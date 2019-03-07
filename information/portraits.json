@@ -1331,6 +1331,15 @@
     "TEXT_CHA_PA_6_19_NAME": [
         "portrait_fenrir_default"
     ],
+    "TEXT_CHA_PA_4_21_NAME": [
+        "portrait_schla_default"
+    ],
+    "TEXT_CHA_PA_5_21_NAME": [
+        "portrait_schla_default"
+    ],
+    "TEXT_CHA_PA_6_21_NAME": [
+        "portrait_schla_default"
+    ],
     "TEXT_CHA_PA_4_22_NAME": [
         "portrait_maenggi_default"
     ],
@@ -1504,6 +1513,15 @@
     ],
     "TEXT_CHA_PR_6_18_NAME": [
         "portrait_noel_default"
+    ],
+    "TEXT_CHA_PR_4_21_NAME": [
+        "portrait_marpei_default"
+    ],
+    "TEXT_CHA_PR_5_21_NAME": [
+        "portrait_marpei_default"
+    ],
+    "TEXT_CHA_PR_6_21_NAME": [
+        "portrait_marpei_default"
     ],
     "TEXT_CHA_PR_4_23_NAME": [
         "portrait_varnir_default"
@@ -1957,5 +1975,14 @@
     ],
     "TEXT_CHA_WI_5_21_NAME": [
         "portrait_osiris_default"
+    ],
+    "TEXT_CHA_WI_4_22_NAME": [
+        "portrait_loki_default"
+    ],
+    "TEXT_CHA_WI_5_22_NAME": [
+        "portrait_loki_default"
+    ],
+    "TEXT_CHA_WI_6_22_NAME": [
+        "portrait_loki_default"
     ]
 }
