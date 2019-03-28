@@ -14665,13 +14665,13 @@
         "original": true
     },
     "TEXT_DAILY_CHAMP_QUEST_GOAL_0001": {
-        "text": "Kill DioNemesis",
-        "version": "4.7.0",
+        "text": "Clear Stage",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_DAILY_CHAMP_QUEST_TITLE_0001": {
-        "text": "Collect Source of Power",
-        "version": "4.7.0",
+        "text": "Regular Patrol: Stage",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_DAILY_DUNGEON_QUEST_GOAL_0002": {
@@ -14770,8 +14770,8 @@
         "original": true
     },
     "TEXT_DAILY_QUEST_CLEAR_TITLE_0001": {
-        "text": "Report: Daily Mission",
-        "version": "4.7.0",
+        "text": "Daily Mission: Interim Report",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_DAILY_QUEST_NULL": {
@@ -14880,8 +14880,8 @@
         "original": true
     },
     "TEXT_DAILY_STAGE_QUEST_GOAL_0001": {
-        "text": "Clear Stage",
-        "version": "4.7.0",
+        "text": "Play Stage",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_DAILY_STAGE_QUEST_GOAL_0002": {
@@ -18265,8 +18265,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_6_3": {
-        "text": "(Passive Activated) Number of Magic Arrow +3, Damage + 25%, Enemies hit by arrows are stunned for a second.",
-        "version": "4.7.0",
+        "text": "(Passive Altered) Upon using a 3-chain, Sigruna shoots a 'Verdure Arrow' that deals magical damage equal to 1500% of her attack power. The 'Verdure Arrow' ignores enemy resistance by 5% of Sigruna's maximum HP, and is dealt with 30% higher critical chance. If the 'Verdure Arrow' accurately hits, Sigruna uses 'Embrace of Verdure' to deal magical damage equal to 1000% of her attack power and reel in enemies. 'Embrace of Verdure' binds hit enemies for 4 seconds. If the enemy hit by 'Embrace of Verdure' has an active buff, Sigruna immediately re-activates a 3-chain skill once.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_6_4": {
@@ -19015,8 +19015,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_4_2": {
-        "text": "(Extra effect activated) Upon receiving harmful effect, heals 5% of maximum HP.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) The buff granted by 'Prayer of the Saintess' increases armor and resistance by 50% for 5 seconds.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_4_3": {
@@ -19095,8 +19095,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_6_2": {
-        "text": "(Extra effect activated) Upon receiving harmful effect, heals 10% of maximum HP, immune to damage 2 times, increases armor penetration and resistance penetration of healed ally by 30%.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) The buff granted by 'Prayer of the Saintess' increases armor and resistance by 50% for 5 seconds.\n(Passive Added) 'Sacred Treasure of the Goddess' activated after another ally's 3-chain is changed to 'Salvation of the Goddess.' 'Salvation of the Goddess' increases healed allies' armor penetration and resistance penetration by 1500 each for 5 seconds.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_PR_6_3": {
@@ -19280,8 +19280,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_4_3": {
-        "text": "Upon using a chain, Susanoo's next block skill has a 30% of chance of increasing damage by 45%.",
-        "version": "4.7.0",
+        "text": "(During Passive) Susanoo dashes forward a short distance every second.\n(Passive Enhanced) Enemies hit by 'Downward Strike' lose their armor by 50% of Susanoo's attack power for 1 second.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_4_4": {
@@ -19385,8 +19385,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_3": {
-        "text": "Upon using a chain, Susanoo's next block skill has a 30% of chance of increasing damage by 90%. Additionally, Susanoo's auto attacks for the next 3 seconds are activated as 3-chain block skills.",
-        "version": "4.7.0",
+        "text": "(During Passive) Susanoo dashes forward a short distance every second.\n(Passive Enhanced) Enemies hit by 'Downward Strike' lose their armor by 50% of Susanoo's attack power for 1 second.\n(Upon Activating 'Downward Strike') Susanoo's attack power is increased by 8% for 5 seconds. This can be stacked up to 6 times. At 2/4/6 stacks, the range of 'Downward Strike' increases. At maximum stacks, 'Downward Strike' will be enhanced with explosive power that deals physical damage equal to 1000% of attack power.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_4": {
@@ -27580,8 +27580,8 @@
         "original": true
     },
     "TEXT_INVEN_MAX": {
-        "text": "Maximum Capacity Reached",
-        "version": "4.7.0",
+        "text": "Inventory Limit Exceeded",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_INVEN_MAX_HOUSE_ITEM": {
@@ -31805,8 +31805,8 @@
         "original": true
     },
     "TEXT_OPTION_D_POWER_SAVING": {
-        "text": "Lower frame rate (for older devices.)",
-        "version": "4.7.0",
+        "text": "Low Power Mode (Limited FPS)",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_OPTION_ENGLISH": {
@@ -42915,18 +42915,18 @@
         "original": true
     },
     "TEXT_SKILL_PR_RELICOFHEAL_DESC": {
-        "text": "Prays to the goddess, summoning a relic that heals nearby allies 8 times for [1/3/6]% of hero's maximum HP according to chain number.",
-        "version": "4.7.0",
+        "text": "Maria prays to the Goddess, summoning a holy relic that heals nearby allies by [1/3/5]% of her own maximum HP 8 times, according to the chain number used.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_PR_RELICOFHEAL_LV2_SUBDESC": {
-        "text": "Allies healed by Sacred Treasure of the Goddess\nbecome immune to debuffs for 0.5 seconds. When a block is used \nafter an ally's chain-3 skill, the ally will immediately lose all debuffs.",
-        "version": "4.7.0",
+        "text": "Allies healed by 'Sacred Treasure of the Goddess' receive a buff that increases their armor and resistance by 30% each for 3 second.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_PR_RELICOFHEAL_LV3_SUBDESC": {
-        "text": "Allies healed by Sacred Treasure of the Goddess\nbecome immune to debuffs for 0.5 seconds. When a block is used \nafter an ally's chain-3 skill, the block will act identically to the previous chain-3 skill and the ally will immediately lose all debuffs. (Activates once every 2 seconds)",
-        "version": "4.7.0",
+        "text": "Allies healed by 'Sacred Treasure of the Goddess' receive a buff that increases their armor and resistance by 30% each for 3 second. If Maria uses her block after another ally's 3-chain, it will activate as a 3-chain.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_PR_RELICOFHEAL_NAME": {
@@ -51525,8 +51525,8 @@
         "original": true
     },
     "TEXT_WEAPON_CONVERT_CHECK_DESC": {
-        "text": "Will you continue upgrading the Weapon?\n- #Any unlocked Option will be applied.\n- If you only have a few Options unlocked, this upgrade may result in the same Option.#",
-        "version": "4.12.1",
+        "text": "Will you continue upgrading the Weapon?\n#- Any unlocked Option will be applied.\n- If you only have a few Options unlocked, this upgrade may result in the same Option.#",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_WEAPON_CONVERT_CHECK_TITLE": {
@@ -57595,13 +57595,13 @@
         "original": true
     },
     "TEXT_BOOK_PACK_COVER": {
-        "text": "Your Quickest Path to Inheritance! #(3 per Account)#",
-        "version": "4.7.0",
+        "text": "Your Quickest Path to Inheritance! #(3 per Month)#",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_BOOK_PACK_DESC": {
-        "text": "Includes Books of Inheritance!\nLimited to 3 per Account",
-        "version": "4.7.0",
+        "text": "Includes Books of Inheritance!\nOnly 3 available per Month!",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_BOOK_PACK_ITEM1_DESC": {
@@ -60475,8 +60475,8 @@
         "original": true
     },
     "TEXT_DAILY_QUEST_CLEAR_TITLE_0002": {
-        "text": "Reporting: Daily Mission (Sub)",
-        "version": "4.7.0",
+        "text": "Daily Mission: Final Report",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_DAILY_RAID_QUEST_GOAL_0001": {
@@ -62145,13 +62145,13 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_YS8_RICOTTA_4": {
-        "text": "(Upon activating passive) Damage Reduction +20%, Speed +10%\n(Passive Enhanced) Hits needed to activate passive decreased by 1",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Damage Reduction +20%, Motion Speed +10%\n(Passive Enhanced) Number of hits needed to activate passive decreased by 1",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_YS8_RICOTTA_6": {
-        "text": "(Upon activating passive) Damage Reduction +20%, Speed +10%\n(Passive Enhanced) Hits needed to activate passive decreased by 2\n(Passive Added) If Ricotta activates her passive during 'Flash Move,' her next block skill is changed to 'Dinosaur Throw.'\n('Dinosaur Throw') Upon using any block regardless of its chain number, Ricotta throws a bone of the 'Ancient Species' to deal physical damage equal to 2000% of her attack power.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Damage Reduction +20%, Motion Speed +10%\n(Passive Enhanced) Number of hits needed to activate passive decreased by 2\n(Passive Added) If Ricotta activates her passive during 'Flash Move,' her next block skill is changed to 'Dinosaur Throw.'\n('Dinosaur Throw') Upon using any block regardless of its chain number, Ricotta throws a bone of the 'Ancient Species' to deal physical damage equal to 2000% of her attack power.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_LIMITED_YS8_SAHAD_4": {
@@ -62275,23 +62275,23 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_YS8_DANA_4": {
-        "text": "(Upon activating passive) Damage Reduction +20%, Speed +10%, Life Steal +10%",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Damage Reduction +20%, Motion Speed +10%, Life Steal +10%",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_YS8_DANA_6": {
-        "text": "(Upon activating passive) Damage Reduction +20%, Speed +10%, Life Steal +10%\n(Passive Enhanced) Upon activating 'Flash Move,' Dana generates 1 block of her own.\n(Passive Added) After activating 'Dragon Spirit,' Dana uses 'Water Burst,' summoning large spheres of water to reel in the enemy and deal magical damage equal to 200% of her attack power per hit.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Damage Reduction +20%, Motion Speed +10%, Life Steal +10%\n(Passive Enhanced) Upon activating 'Flash Move,' Dana generates 1 block of her own.\n(Passive Added) After activating 'Dragon Spirit,' Dana uses 'Water Burst,' summoning large spheres of water to reel in the enemy and deal magical damage equal to 200% of her attack power per hit.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_YS8_LAXIA_4": {
-        "text": "(Upon activating passive) Damage Reduction +20%, Speed +10%",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Damage Reduction +20%, Motion Speed +10%",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_YS8_LAXIA_6": {
-        "text": "(Upon activating passive) Damage Reduction +20%, Speed +10%\n(Passive Added) Laxia activates 'Lethal Raid' instead of 'Blitz Charge'. (Cooltime: 3 seconds)\n('Lethal Raid') Laxia rapidly charges to the enemy and deals neutral damage equal to 150% of her attack power. She then cuts the enemy in two to deal physical damage equal to 600% of her attack power. This attack decreases hit enemies' armor and resistance by 30% for 5 seconds and cancels all buffs.",
-        "version": "4.7.0",
+        "text": "(Upon Activating Passive) Damage Reduction +20%, Motion Speed +10%\n(Passive Added) Laxia activates 'Lethal Raid' instead of 'Blitz Charge.' (Cooltime: 3 seconds)\n('Lethal Raid') Laxia rapidly charges towards the enemy and deals neutral damage equal to 100% of her attack power. She then cuts the enemy in two to deal physical damage equal to 600% of her attack power. This attack decreases hit enemies' armor and resistance by 30% for 5 seconds and dispels all buffs.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_4_3": {
@@ -66145,8 +66145,8 @@
         "original": true
     },
     "TEXT_HOUSE_LOAD_WARNING": {
-        "text": "Your current edit will be lost.\nThe wall, floor, and frame will be immediately applied. Continue?",
-        "version": "4.7.0",
+        "text": "Your current edit will be changed\nto the decorations and background saved in the chosen slot.\n(The wall will be immediately applied and kept even if you choose to cancel this action.)\n\nDo you wish to continue?",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_HOUSE_SAVE": {
@@ -74195,13 +74195,13 @@
         "original": true
     },
     "TEXT_SKILL_PA_YS8_RICOTTA_LV2_SUBDESC": {
-        "text": "If Ricotta uses a block right before being hit, she activates 'Flash Move' that increases her movement speed by 10% and decreases the damage she receives by 20% for 3 seconds.\nIf hit 7 times, Ricotta uses 'Bandit Tackle' to club the enemy and deal #physical damage# equal to 400% of her attack power. (Cooltime: 2 seconds)",
-        "version": "4.7.0",
+        "text": "If Ricotta uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds.\nUpon being hit 7 times, Ricotta uses 'Bandit Tackle' to club the enemy and deal #physical damage# equal to 400% of her attack power. (Cooltime: 2 seconds)",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_PA_YS8_RICOTTA_LV3_SUBDESC": {
-        "text": "If Ricotta uses a block right before being hit, she activates 'Flash Move' that increases her movement speed by 10% and decreases the damage she receives by 20% for 3 seconds.\nIf hit 7 times, Ricotta uses 'Bandit Tackle' to club the enemy and deal #physical damage# equal to 600% of her attack power. (Cooltime: 2 seconds)\nIf hit 15 times, she uses 'Beast Attack' to charge forward and deal #physical damage# equal to 900% of her attack power. (Cooltime: 4 seconds)",
-        "version": "4.7.0",
+        "text": "If Ricotta uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds. \nUpon being hit 7 times, Ricotta uses 'Bandit Tackle' to club the enemy and deal #physical damage# equal to 600% of her attack power. (Cooltime: 2 seconds)\nUpon being hit 15 times, Ricotta uses 'Beast Attack' to charge forward and spin to deal #physical damage# equal to 900% of her attack power. (Cooltime: 4 seconds)",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_PA_YS8_RICOTTA_NAME": {
@@ -74625,13 +74625,13 @@
         "original": true
     },
     "TEXT_SKILL_WA_YS8_DANA_LV2_SUBDESC": {
-        "text": "If Dana uses a block right before being hit, she activates 'Flash Move' that increases her movement speed for 10% and decreases the damage she receives by 20% for 3 seconds.",
-        "version": "4.7.0",
+        "text": "If Dana uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_WA_YS8_DANA_LV3_SUBDESC": {
-        "text": "If Dana uses a block right before being hit, she activates 'Flash Move' that increases her movement speed for 10% and decreases the damage she receives by 20% for 3 seconds. Additionally, she activates 'Dragon Spirit.'\n\nDragon Spirit (Cooltime: 3 seconds. Cannot be canceled.)\nFor 15 seconds, Dana becomes resistant to knockbacks, and her attack power and resistance penetration are increased by 400. During this state, she uses [Mistrel Blow / Twin Moon Blade / Spiel Round Steps] according to the chain number she uses.\n\nMistrel Blow: Dana spins as smoothly as the wind to deal @magical damage@ equal to 400% of her attack power.\n\nTwin Moon Blade: Dana flashes her crescent moon blades to deal @magical damage@ equal to 600% her attack power.\n\nSpiel Round Steps: Dana dances around the enemy to deal @magical damage@ equal to 1800% of her attack power.",
-        "version": "4.7.0",
+        "text": "If Dana uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds. Additionally, she activates 'Dragon Spirit.' \n\nDragon Spirit (Cooltime: 3 seconds. Cannot be purged.)\nFor 15 seconds, Dana becomes resistant to knockbacks, and her attack power and resistance penetration are increased by 400. During this state, she uses [Mistrel Blow / Twin Moon Blade / Spiel Round Steps] according to the chain number she uses. \n\nMistrel Blow: Dana spins as smoothly as the wind to deal @magical damage@ equal to 400% of her attack power.\n\nTwin Moon Blade: Dana flashes her crescent moon blades to deal @magical damage@ equal to 600% of her attack power.\n\nSpiel Round Steps: Dana dances around the enemy to deal @magical damage@ equal to 1800% of her attack power.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_WA_YS8_DANA_NAME": {
@@ -74650,13 +74650,13 @@
         "original": true
     },
     "TEXT_SKILL_WA_YS8_LAXIA_LV2_SUBDESC": {
-        "text": "If Laxia uses a block right before being hit, she activates 'Flash Move' that increases her movement speed by 10% and decreases the damage she receives by 20% for 3 seconds.\nAfter activating 'Flash Move,' she additionally uses 'Break Needle' that deals $neutral damage$ equal to 100% of her attack power and stuns the enemy at the front for 1 second. (Cooltime: 2 seconds)",
-        "version": "4.7.0",
+        "text": "If Laxia uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds.\nAfter activating 'Flash Move,' Laxia additionally uses 'Break Needle' that deals $neutral damage$ equal to 100% of her attack power and stuns the frontmost enemy for 1 second. (Cooltime: 2 seconds)",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_WA_YS8_LAXIA_LV3_SUBDESC": {
-        "text": "If Laxia uses a block right before being hit, she activates 'Flash Move' that increases her movement speed by 10% and decreases the damage she receives by 20% for 3 seconds.\nAfter activating 'Flash Move,' she additionally uses 'Break Needle' that deals $neutral damage$ equal to 100% of her attack power and stuns the enemy at the front for 1.5 seconds. (Cooltime: 2 seconds)\nLaxia's block skill used after 'Break Needle' is changed to 'Blitz Charge,' through which Laxia charges forward with her blade and deals #physical damage# equal to 400% of her attack power.",
-        "version": "4.7.0",
+        "text": "If Laxia uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds.\nAfter activating 'Flash Move,' Laxia additionally uses 'Break Needle' that deals $neutral damage$ equal to 100% of her attack power and stuns the frontmost enemy for 1.5 seconds. (Cooltime: 2 seconds)\nThe block skill Laxia uses immediately after 'Break Needle' is changed to 'Blitz Charge,' through which Laxia charges forward with her blade and deals #physical damage# equal to 400% of her attack power.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_SKILL_WA_YS8_LAXIA_NAME": {
@@ -77140,8 +77140,8 @@
         "original": true
     },
     "TEXT_WEAPON_UPGRADE_COMPLETE_DESC": {
-        "text": "Select the Soulbound Weapon to finish forging.",
-        "version": "4.7.0",
+        "text": "Please select the Soulbound Weapon to receive.\n(The below number is the sum of the total number of 4~6-star SBWs you possess.)",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_WEEKLY_PLAY_CHALLENGE_QUEST_0001_TITLE": {
@@ -85445,8 +85445,8 @@
         "original": true
     },
     "TEXT_WEAPON_RESET_WARNING_DESC": {
-        "text": "Retrying your Upgrade will take you to the Upgrade Method Pop-Up Menu while keeping your initial Option.",
-        "version": "4.12.1",
+        "text": "Retrying will automatically choose the initial option before forging again.",
+        "version": "4.13.1",
         "original": true
     },
     "TEXT_WEAPON_RESET_WARNING_TITLE": {
@@ -85635,7 +85635,7 @@
         "original": true
     },
     "TEXT_SKILL_WA_SIMHAKGYU_LV3_SUBDESC": {
-        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter 'Sim Cheong.' Sim Cheong's stats are 1.25 times her father's upon summon. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies. Upon using Sim Hak-Gyu's 3-chain, 'Sim Cheong' uses 'Punch of the Indang Waters' to deal #physical damage# equal to 2000% of her attack power. 'Sim Cheong' receives all damage targeted at Sim Hak-Gyu.",
+        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter 'Sim Cheong.' Sim Cheong's stats are 1.25 times her father's upon summon. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies. Upon using Sim Hak-Gyu's 3-chain block, 'Sim Cheong' uses 'Punch of the Indang Waters' to deal #physical damage# equal to 2000% of her attack power. 'Sim Cheong' receives all damage targeted at Sim Hak-Gyu.",
         "version": "4.13.1",
         "original": true
     },
@@ -85706,6 +85706,631 @@
     },
     "TEXT_WEP_LEGEND_SW_CHA_6_26_NAME": {
         "text": "Pathfinder",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_CHEN_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of He Xiangu, Champion of Chen.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_CHEN_BOTTOM_01_NAME": {
+        "text": "He Xiangu Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_EAST_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Kurenai, Champion of Ryu.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_EAST_BOTTOM_01_NAME": {
+        "text": "Kurenai Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_FREE_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Horseman Winchester, Champion of the Freedom Heroes.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_FREE_BOTTOM_01_NAME": {
+        "text": "Horseman Winchester Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_GODDESS_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Noa, Champion of the Order of the Goddess.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_GODDESS_BOTTOM_01_NAME": {
+        "text": "Noa Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_GRAN_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Galahad, Champion of the Grancia Empire.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_GRAN_BOTTOM_01_NAME": {
+        "text": "Galahad Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_HAN_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Hanee Baram, Champion of Han.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_HAN_BOTTOM_01_NAME": {
+        "text": "Hanee Baram Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_MINO_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Aindel, Champion of the Minor Tribes' Confederation",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_MINO_BOTTOM_01_NAME": {
+        "text": "Aindel Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_NETH_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Frantz, Champion of the Neth Empire.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_NETH_BOTTOM_01_NAME": {
+        "text": "Frantz Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_NOS_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Lia, Champion of Nosgard.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_NOS_BOTTOM_01_NAME": {
+        "text": "Lia Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_PUMP_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Remi, Champion of Pumpkin City.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_PUMP_BOTTOM_01_NAME": {
+        "text": "Remi Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_ROMAN_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Beast King Agrius, Champion of the Roman Republic.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_ROMAN_BOTTOM_01_NAME": {
+        "text": "Beast King Agrius Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_WEST_BOTTOM_01_DESC": {
+        "text": "A doll lovingly crafted in the likeness of Ibelin, Champion of the Southwestern Alliance.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHAMP_WEST_BOTTOM_01_NAME": {
+        "text": "Ibelin Doll",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_27_DESC": {
+        "text": "To Basquiat, the back alleys of the Neth Empire are both his home and the canvas for his spray paintings. Yet life forces him to turn his back on both his friends and his artistic talents in an attempt to make ends meet in the city factories. One day, Basquiat hears a rumor that spray paint that can paint on air has been released in the black market. As if in a trance, Basquiat obtains the spray paint and begins to paint once more.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_27_NAME": {
+        "text": "Basquiat",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_27_DESC": {
+        "text": "With his new spray paint in one hand, Basquiat covers the streets with colorful graffiti. His expressive artwork soon captures the eye of many, and Basquiat finds both fame and new friends as his reputation increases. It is not long before he becomes one of the most popular street artists in the Neth Empire.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_27_NAME": {
+        "text": "Mischievous Basquiat",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_27_DESC": {
+        "text": "Yet friendship is more valuable to Basquiat than fame: when he hears rumors of Road Industry soldiers secretly kidnapping street artists, Basquiat immediately grabs his spray paint and starts out to save his friends from danger.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_27_NAME": {
+        "text": "Artisan Basquiat",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_27_DESC": {
+        "text": "The younger sister of Thjalfi, who is rumored to have the fastest legs in all of Nosgard. Fewer people know that it is Roskva, in fact, who is now faster, after years of literally, angrily chasing after her obnoxious brother who made fun of her all the time. One day, Roskva receives an offer from Heim to join the Nosgard mercenary troupe. The innocent Roskva, seeing the offer as an opportunity to finally prove her worth over her brother's, gladly accepts - unaware that she has just sealed her fate...",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_27_NAME": {
+        "text": "Roskva",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_27_DESC": {
+        "text": "Roskva follows the rest of the mercenary to the forbidden sanctuary and helps Heim defeat the Guardian of the Sacred Ground. They soon realize that the Sanctuary is guarding some mysterious power. Before they can investigate what the seals hold, however, all fall under a cursed slumber, their sin having burdened them with the responsibility of becoming the next Guardians.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_27_NAME": {
+        "text": "Roskva the Guardian",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_27_DESC": {
+        "text": "Sensing a rupture in the sanctuary, Roskva wakes up after centuries of cursed slumber - only to witness Vernil being attacked by a mysterious assailant. She runs forth to save Vernil, discovering that she has become as light-footed as to not even leave any footsteps in the snow.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_27_NAME": {
+        "text": "Roskva of Sacred Ground",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CABINET_01_DESC": {
+        "text": "A shelf displaying various toys.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CABINET_01_NAME": {
+        "text": "Toys \"R\" Us Display Shelf",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CABINET_02_DESC": {
+        "text": "A shelf displaying Crusaders Quest Miniblocks.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CABINET_02_NAME": {
+        "text": "Toys \"R\" Us CQ Miniblock Shelf",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CART_01_DESC": {
+        "text": "A shopping cart that can surprisingly hold more items than you would expect it to. Filling it up, in turn, fills your heart with deep satisfaction.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CART_01_NAME": {
+        "text": "Toys \"R\" Us Shopping Cart",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_DAILY_QUEST_CHALLENGE_GOAL_0001": {
+        "text": "Play Challenge Mode",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_DAILY_QUEST_CHALLENGE_TITLE_0001": {
+        "text": "The Secret of Sigils",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_APRILFOOL_2019_DESC": {
+        "text": "Keep out the greedy Heroes! Fight valiantly for Monsters!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_APRILFOOL_2019_NAME": {
+        "text": "How Dare You, Hero!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_APRILFOOL_2019_REWARD_DESC": {
+        "text": "They will always be with you…",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_1": {
+        "text": "Defend once",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_10": {
+        "text": "Defend 40 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_11": {
+        "text": "Defend 45 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_2": {
+        "text": "Defend 3 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_3": {
+        "text": "Defend 5 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_4": {
+        "text": "Defend 10 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_5": {
+        "text": "Defend 15 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_6": {
+        "text": "Defend 20 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_7": {
+        "text": "Defend 25 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_8": {
+        "text": "Defend 30 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_EVENT_FOOLSDAY_9": {
+        "text": "Defend 35 times",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FILTER_EXCEPT_MAX_LEVEL_HERO": {
+        "text": "Max Lv Unachieved",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_ANCIENREGIME_SKILL_DESC": {
+        "text": "Ancient Regime attacks to defend his beloved city, according to the color used.\nRed: Ancient Regime tackles Heroes, according to the chain number used.\nBlue: Ancient Regime summons powerful thorns, according to the chain number used.\nYellow: Upon using a 3-chain, Ancient Regime heals himself.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_ANCIENREGIME_SKILL_NAME": {
+        "text": "Les Miserables",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_ANCIENREGIME_STORY": {
+        "text": "The beautiful capital of Trista has been abandoned to chaos and mayhem by the light fanatics, led by a particular Hero Captain. Ancient Regime must protect his beloved city - even if only its ruins remain.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_ANUBISIS_SKILL_DESC": {
+        "text": "Anubisis gives off a certain energy to Heroes, according to the color used.\nRed: Anubisis runs towards Heroes with open paws, according to the chain number used.\nBlue: Anubisis expresses even more affection towards Heroes, according to the chain number used.\nYellow: Anubisis affectionately licks Heroes, according to the chain number used.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_ANUBISIS_SKILL_NAME": {
+        "text": "Hellhound",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_ANUBISIS_STORY": {
+        "text": "Imagine the werewolf process but backwards.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_MATAHARI_SKILL_DESC": {
+        "text": "Matahari shows off her moves to Heroes, according to the color used.\nRed: Matahari summons and shows off her adorable pets, according to the chain number used.\nBlue: Matahari uses her whip as a ribbon to show off impressive rhythmic gymnastics moves, according to the chain number used.\nYellow: Upon using a 3-chain, Matahari dances to show off the Soleil Dance.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_MATAHARI_SKILL_NAME": {
+        "text": "Give Me… a Beat…",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_MATAHARI_STORY": {
+        "text": "How Matahari has longed for an audience for her dancing! Yet nobody in the great city seems interested in the lonely dancer. When she hears a rumor that some Heroes are coming to see her, Matahari hurries to greet them in the hopes that somebody will recognize her artistic talents at last.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_OMEGA_SKILL_DESC": {
+        "text": "Omega blocks Heroes from raiding the Temple, according to the color used.\nRed: Omega attacks Heroes with an elegant kick, according to the chain number used.\nBlue: Omega shoots a heartfelt beam from his chest, according to the chain number used.\nYellow: Upon using a 3-chain, Omega heals himself and and grants himself a buff.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_OMEGA_SKILL_NAME": {
+        "text": "Black Swan",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_OMEGA_STORY": {
+        "text": "Omega may be making ends meet by working as a security guard at the Temple of Illusions, but he will never stop pursuing his lifelong dream to become the next greatest ballerino. It seems that he will have to practice his pirouettes some other time, however, seeing as some villains have invaded the Temple.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_RESIDULLION_SKILL_DESC": {
+        "text": "The Abandoned Lion warmly greets Heroes, according to the color used. Don't move, and you'll be safe!\nRed: The Lion dashes forth to warmly greet Heroes, according to the chain number used.\nBlue: The Lion leaps up to give Heroes a hearty embrace. \nYellow: Upon using a 3-chain, the Lion courteously performs a ritual of the Order to express his deepest respect and admiration.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_RESIDULLION_SKILL_NAME": {
+        "text": "A Warm Welcome",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_RESIDULLION_STORY": {
+        "text": "The Abandoned Lion, now a living coat of armor and the sole guardian of the Hidden Palace, still retains his warm heart from his living days of flesh and bone. To this day he waits for his colleagues who left for the Holy City, warmly greeting any visitors who will visit the Palace in the meantime.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_SIMCHUNG_NAME": {
+        "text": "Sim Cheong, Abyssal Loser",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_WINDWALKER_SKILL_DESC": {
+        "text": "Windstrider shoots a powerful arrow to protect his tribe, according to the color used.\nRed: Windstrider shoots an arrow imbued with the power of wind to knock back the enemy, according to the chain number used.\nBlue: Windstrider shoots an arrow imbued with the power of wind to knock back the enemy, according to the chain number used. Windstrider then evades attacks from Greedy Heroes.\nYellow: Windstrider shoots a powerful flurry of arrows according to the chain number used.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_WINDWALKER_SKILL_NAME": {
+        "text": "Gobble Gobble Gobbbbleee!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_FOOLSDAY_WINDWALKER_STORY": {
+        "text": "When greedy Heroes invade the peaceful forest of Goblins, the war-scarred veteran Windstrider wields his bow once more to protect his beloved tribe and family.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_INVEN_MAX_DESC": {
+        "text": "You have exceeded your max Inventory space.\nPlease try again after expanding your Inventory limit or managing your items.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_ITEM_HOUSE": {
+        "text": "Hero Home Items",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_MATERIAL_HELP": {
+        "text": "Materials can be used to craft items in the Alchemy Lab.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_MATERIAL_RAID_GUARDIANOFRUINS_DESC": {
+        "text": "A small fragment chipped out from the structure of the Temple of Illusions due to the impact of vicious battles with Guardians of the Temple. It has been recently discovered that they can be used in various recipes and research in the Alchemy Lab, leading to high demand.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_MATERIAL_RAID_GUARDIANOFRUINS_NAME": {
+        "text": "Fragments of the Temple",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_MONUMENT_AF_04_DESC": {
+        "text": "Omega's cherished leotard that he carefully put away for better times. It seems that the boundless greed of human Heroes has robbed a poor test subject of his harmless dreams.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_MONUMENT_AF_04_NAME": {
+        "text": "Omega's Leotard",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_POSTFIX_BAR_NUMBER": {
+        "text": "- {0}",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_APRILFOOL_2019_1": {
+        "text": "Gobble Gobble!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_APRILFOOL_2019_2": {
+        "text": "Give Me… a Beat…",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_APRILFOOL_2019_3": {
+        "text": "Woof woof! Bork!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_APRILFOOL_2019_4": {
+        "text": "A Small Dream",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_APRILFOOL_2019_5": {
+        "text": "A Bygone Regime",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_APRILFOOL_2019_6": {
+        "text": "A Lonely Knight",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_APRILFOOL_2019_OP": {
+        "text": "Rise, O Champion!",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_BASQUIAT_DESC": {
+        "text": "Basquiat draws graffiti, which decreases nearby enemies' attack power by  [25/30/40]% for 5 seconds, according to the chain number used.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_BASQUIAT_LV2_SUBDESC": {
+        "text": "Allies within the range of 'Graffiti' are healed by 100% of Basquiat's attack power per second.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_BASQUIAT_LV3_SUBDESC": {
+        "text": "Allies within the range of 'Graffiti' are healed by 150% of Basquiat's attack power per second.\nAdditionally, 'Graffiti' decreases nearby enemies' attack speed by 40%.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_BASQUIAT_NAME": {
+        "text": "Graffiti",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_PR_BASQUIAT_SUBNAME": {
+        "text": "Performance",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ROSKVA_DESC": {
+        "text": "Roskva dashes forward with her blade, attacking 3 times to deal #physical damage# equal to [45/60/80]% of her attack power, according to the chain number used.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ROSKVA_LV2_SUBDESC": {
+        "text": "If Roskva's block skill accurately hits, Roskva becomes 'exalted' for 5 seconds. 'Exaltation' increases accuracy by 20%.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ROSKVA_LV3_SUBDESC": {
+        "text": "If Roskva's block skill accurately hits, Roskva becomes 'exalted' for 5 seconds. 'Exaltation' increases accuracy by 30%. Additionally, it generates 1 block of her own. (Cooltime: 5 seconds)\n\nIf Roskva uses her 3-chain while 'exalted,' she additionally uses 'Glacial Blade,' which deals physical damage equal to 1500% of her attack power over 3 hits to all enemies within her range. Enemies hit by 'Glacial Blade' lose 10% of their evasion for 5 seconds.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ROSKVA_NAME": {
+        "text": "Frigid Blade",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ROSKVA_SUBNAME": {
+        "text": "Exaltation",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SUSANOO_LV2_SUBDESC": {
+        "text": "Upon using 'Sword Shot,' Susanoo's auto attack is changed to 'Downward Strike' for 7 seconds. 'Downward Strike' deals #physical damage# equal to 200% of Susanoo's attack power.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SUSANOO_LV3_SUBDESC": {
+        "text": "Upon using 'Sword Shot,' Susanoo's auto attack is changed to 'Downward Strike' for 7 seconds. 'Downward Strike' deals #physical damage# equal to 200% of Susanoo's attack power.\nAdditionally, Susanoo becomes immune for 5 hits from all types of damage for 5 seconds. (Cooltime: 7 seconds)",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SUSANOO_SUBNAME": {
+        "text": "Downward Strike",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_FOOLSDAY_2019_01_NAME": {
+        "text": "Veteran Might",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_FOOLSDAY_2019_02_NAME": {
+        "text": "Moulin Rouge",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_FOOLSDAY_2019_03_NAME": {
+        "text": "A Dog That Wants to Become Human",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_FOOLSDAY_2019_04_NAME": {
+        "text": "Life is But a Dream",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_FOOLSDAY_2019_05_NAME": {
+        "text": "Absolute Monarch",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_FOOLSDAY_2019_06_NAME": {
+        "text": "Of Courtesy and Hospitality",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_TIP_ITEM_INFO_LONG_PRESS": {
+        "text": "Press and hold an item in your Inventory to check its information.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_27_DESC": {
+        "text": "Basquiat's movement speed increases by 10%.\n(Block Skill Added) Enemies within the range of 'Graffiti' get their critical chance and critical damage reduced by 30%.\n(Passive Enhanced) Allies within the range of 'Graffiti' get their armor and resistance increased by 10%.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_27_NAME": {
+        "text": "Rusty Locker Spray Paint",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_27_DESC": {
+        "text": "Basquiat's movement speed increases by 10%.\n(Block Skill Added) Enemies within the range of 'Graffiti' get their critical chance and critical damage reduced by 30%.\n(Passive Enhanced) Allies within the range of 'Graffiti' get their armor and resistance increased by 10%.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_27_NAME": {
+        "text": "Non-Toxic Locker Spray Paint",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_27_DESC": {
+        "text": "Basquiat's movement speed increases by 20%.\n(Block Skill Added) Enemies within the range of 'Graffiti' get their critical chance and critical damage reduced by 40%.\n(Block Skill Enhanced) The range of 'Graffiti' is increased by 50%.\n(Passive Enhanced) Allies within the range of 'Graffiti' get their armor and resistance increased by 20%.\n(Passive Added) The debuff on the 3-chain 'Graffiti' has 1.5x increased effect.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_27_NAME": {
+        "text": "Underground",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_27_DESC": {
+        "text": "(Passive Enhanced) 'Exaltation' increases armor penetration by 500.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_27_NAME": {
+        "text": "Frost Rapier",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_27_DESC": {
+        "text": "(Passive Enhanced) 'Exaltation' increases armor penetration by 500.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_27_NAME": {
+        "text": "Guardian's Rapier",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_27_DESC": {
+        "text": "(Passive Enhanced) 'Exaltation' increases armor penetration by 1000 and critical damage by 20%.\n(Passive Enhanced) 'Exaltation' generates 3 blocks.\n(Passive Altered) 'Glacial Blade' is changed to 'Arctic Blade,' which deals physical damage equal to 2400% of Roskva's attack power over 3 hits. Enemies hit by 'Arctic Blade' lose 20% of their evasion for 5 seconds.",
+        "version": "4.13.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_27_NAME": {
+        "text": "Guardian's Icicle",
         "version": "4.13.1",
         "original": true
     }

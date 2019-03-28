@@ -400,6 +400,9 @@
     "TEXT_CHA_WI_6_6_NAME": [
         "portrait_rachel_default"
     ],
+    "TEXT_CHA_PR_6_10_NAME": [
+        "portrait_dara_default"
+    ],
     "TEXT_CHA_AR_6_4_NAME": [
         "portrait_robin_default"
     ],
@@ -446,6 +449,9 @@
     "TEXT_CHA_WA_6_4_NAME": [
         "portrait_vivian_default"
     ],
+    "TEXT_CHA_PR_6_13_NAME": [
+        "portrait_orfeo_default"
+    ],
     "TEXT_CHA_PA_6_10_NAME": [
         "portrait_v_default"
     ],
@@ -463,6 +469,15 @@
     ],
     "TEXT_CHA_PA_5_15_NAME": [
         "portrait_siegfried_default"
+    ],
+    "TEXT_CHA_AR_6_10_NAME": [
+        "portrait_magnus_default"
+    ],
+    "TEXT_CHA_WA_6_10_NAME": [
+        "portrait_isabel_default"
+    ],
+    "TEXT_CHA_WI_6_10_NAME": [
+        "portrait_necron_default"
     ],
     "TEXT_UNKNOWN_NAME": [
         "portrait_soulhero_default",
@@ -568,6 +583,21 @@
         "portrait_ibelin_default",
         "portrait_ibelin_maskoff"
     ],
+    "TEXT_CHA_AR_6_18_NAME": [
+        "portrait_kaguya_default"
+    ],
+    "TEXT_CHA_AR_5_17_NAME": [
+        "portrait_viola_default"
+    ],
+    "TEXT_CHA_WI_6_17_NAME": [
+        "portrait_violet_default"
+    ],
+    "TEXT_CHA_PA_6_17_NAME": [
+        "portrait_captain_default"
+    ],
+    "TEXT_CHA_WA_6_17_NAME": [
+        "portrait_borgos_default"
+    ],
     "TEXT_CHA_WA_4_3_NAME": [
         "portrait_susanoo_default"
     ],
@@ -630,6 +660,12 @@
     ],
     "TEXT_CHAMPION_NOS_NAME": [
         "portrait_nos_default"
+    ],
+    "TEXT_CHA_WA_6_16_NAME": [
+        "portrait_sien_default"
+    ],
+    "TEXT_CHA_PR_6_16_NAME": [
+        "portrait_faust_default"
     ],
     "TEXT_CHAMPION_MINO_NAME": [
         "portrait_mino_default"
@@ -775,6 +811,15 @@
     "TEXT_CHA_WI_LIMITED_RZ_4_05_NAME": [
         "portrait_rzemilia_default"
     ],
+    "TEXT_CHA_WI_6_22_NAME": [
+        "portrait_loki_default"
+    ],
+    "TEXT_CHA_WI_6_4_NAME": [
+        "portrait_sasquatch_default"
+    ],
+    "TEXT_CHA_WI_6_24_NAME": [
+        "portrait_lacies_default"
+    ],
     "TEXT_CHA_AR_2_6_NAME": [
         "portrait_sigruna_default",
         "portrait_sigrunamax_default"
@@ -900,9 +945,6 @@
     "TEXT_CHA_AR_5_10_NAME": [
         "portrait_magnus_default"
     ],
-    "TEXT_CHA_AR_6_10_NAME": [
-        "portrait_magnus_default"
-    ],
     "TEXT_CHA_AR_4_13_NAME": [
         "portrait_atlanta_default"
     ],
@@ -927,9 +969,6 @@
     "TEXT_CHA_AR_4_17_NAME": [
         "portrait_viola_default"
     ],
-    "TEXT_CHA_AR_5_17_NAME": [
-        "portrait_viola_default"
-    ],
     "TEXT_CHA_AR_6_17_NAME": [
         "portrait_viola_default"
     ],
@@ -937,9 +976,6 @@
         "portrait_kaguya_default"
     ],
     "TEXT_CHA_AR_5_18_NAME": [
-        "portrait_kaguya_default"
-    ],
-    "TEXT_CHA_AR_6_18_NAME": [
         "portrait_kaguya_default"
     ],
     "TEXT_CHA_AR_4_20_NAME": [
@@ -1310,9 +1346,6 @@
     "TEXT_CHA_PA_5_17_NAME": [
         "portrait_captain_default"
     ],
-    "TEXT_CHA_PA_6_17_NAME": [
-        "portrait_captain_default"
-    ],
     "TEXT_CHA_PA_4_18_NAME": [
         "portrait_wolfgang_default"
     ],
@@ -1457,9 +1490,6 @@
     "TEXT_CHA_PR_5_10_NAME": [
         "portrait_dara_default"
     ],
-    "TEXT_CHA_PR_6_10_NAME": [
-        "portrait_dara_default"
-    ],
     "TEXT_CHA_PR_4_12_NAME": [
         "portrait_bea_default"
     ],
@@ -1470,9 +1500,6 @@
         "portrait_orfeo_default"
     ],
     "TEXT_CHA_PR_5_13_NAME": [
-        "portrait_orfeo_default"
-    ],
-    "TEXT_CHA_PR_6_13_NAME": [
         "portrait_orfeo_default"
     ],
     "TEXT_CHA_PR_5_14_NAME": [
@@ -1491,9 +1518,6 @@
         "portrait_faust_default"
     ],
     "TEXT_CHA_PR_5_16_NAME": [
-        "portrait_faust_default"
-    ],
-    "TEXT_CHA_PR_6_16_NAME": [
         "portrait_faust_default"
     ],
     "TEXT_CHA_PR_4_17_NAME": [
@@ -1634,6 +1658,15 @@
     "TEXT_CHA_WA_LIMITED_RZ_6_02_NAME": [
         "portrait_rzcrusch_default"
     ],
+    "TEXT_CHA_WA_LIMITED_SPR_4_TWILLY_NAME": [
+        "portrait_twilly_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_SPR_5_TWILLY_NAME": [
+        "portrait_twilly_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_SPR_6_TWILLY_NAME": [
+        "portrait_twilly_default"
+    ],
     "TEXT_CHA_WA_LIMITED_YS8_ADOL_NAME": [
         "portrait_ysadol_default"
     ],
@@ -1697,9 +1730,6 @@
     "TEXT_CHA_WA_5_10_NAME": [
         "portrait_isabel_default"
     ],
-    "TEXT_CHA_WA_6_10_NAME": [
-        "portrait_isabel_default"
-    ],
     "TEXT_CHA_WA_4_12_NAME": [
         "portrait_koxinga_default"
     ],
@@ -1730,16 +1760,10 @@
     "TEXT_CHA_WA_5_16_NAME": [
         "portrait_sien_default"
     ],
-    "TEXT_CHA_WA_6_16_NAME": [
-        "portrait_sien_default"
-    ],
     "TEXT_CHA_WA_4_17_NAME": [
         "portrait_borgos_default"
     ],
     "TEXT_CHA_WA_5_17_NAME": [
-        "portrait_borgos_default"
-    ],
-    "TEXT_CHA_WA_6_17_NAME": [
         "portrait_borgos_default"
     ],
     "TEXT_CHA_WA_4_18_NAME": [
@@ -1844,6 +1868,15 @@
     "TEXT_CHA_WI_LIMITED_RZ_6_06_NAME": [
         "portrait_rzbeatrice_default"
     ],
+    "TEXT_CHA_WI_LIMITED_SPR_4_ANNA_NAME": [
+        "portrait_anna_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_SPR_5_ANNA_NAME": [
+        "portrait_anna_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_SPR_6_ANNA_NAME": [
+        "portrait_anna_default"
+    ],
     "TEXT_CHA_WI_5_1_NAME": [
         "portrait_archon_default"
     ],
@@ -1854,9 +1887,6 @@
         "portrait_hyang_default"
     ],
     "TEXT_CHA_WI_5_4_NAME": [
-        "portrait_sasquatch_default"
-    ],
-    "TEXT_CHA_WI_6_4_NAME": [
         "portrait_sasquatch_default"
     ],
     "TEXT_CHA_WI_5_5_NAME": [
@@ -1901,9 +1931,6 @@
     "TEXT_CHA_WI_5_10_NAME": [
         "portrait_necron_default"
     ],
-    "TEXT_CHA_WI_6_10_NAME": [
-        "portrait_necron_default"
-    ],
     "TEXT_CHA_WI_4_12_NAME": [
         "portrait_demeter_default"
     ],
@@ -1946,9 +1973,6 @@
     "TEXT_CHA_WI_5_17_NAME": [
         "portrait_violet_default"
     ],
-    "TEXT_CHA_WI_6_17_NAME": [
-        "portrait_violet_default"
-    ],
     "TEXT_CHA_WI_4_18_NAME": [
         "portrait_yichui_default"
     ],
@@ -1980,9 +2004,6 @@
         "portrait_loki_default"
     ],
     "TEXT_CHA_WI_5_22_NAME": [
-        "portrait_loki_default"
-    ],
-    "TEXT_CHA_WI_6_22_NAME": [
         "portrait_loki_default"
     ]
 }
