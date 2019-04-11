@@ -86333,5 +86333,240 @@
         "text": "Guardian's Icicle",
         "version": "4.13.1",
         "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_01_TITLE": {
+        "text": "Did you have fun at the spring picnic?",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_02_TITLE": {
+        "text": "Let's have a spring picnic!",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_03_TITLE": {
+        "text": "Make good memories with friends on a picnic!",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_04_TITLE": {
+        "text": "Picnics are great for relieving stress!",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_05_TITLE": {
+        "text": "Don't forget to pack lunch!",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_06_TITLE": {
+        "text": "This could be our picnic spot!",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_07_TITLE": {
+        "text": "Let's explore the world of Hasla!",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_201904_LIMIT_QUEST_SPRING_08_TITLE": {
+        "text": "How about a picnic with a friend?",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_26_DESC": {
+        "text": "An infamous wizard hunter recruited by the Neth Empire for her keen aim and ruthless heart. When she receives orders from Road Industry to capture Sasquatch living in the snowy mountains of Nosgard, Lyudmilla does not ask any questions. But the snowy terrain proves a difficulty for the hunter, who gets trapped under an avalanche and then attacked by monsters. Struggling to keep her eyes open, the wounded Lyudmilla eventually loses consciousness.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_26_NAME": {
+        "text": "Lyudmilla",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_26_DESC": {
+        "text": "After regaining her senses, Lyudmilla discovers that she has been rescued by none other than Sasquatch. The hunter raises her hand to attack the innocent young wizard, knock him out, and so finish her mission - but finds, to her acute surprise, that she cannot harm her kind savior. Lyudmilla soon flees and leaves behind Sasquatch and her mission, but not the confusion that she feels for the first time in her heart.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_26_NAME": {
+        "text": "Lyudmilla, Polar Hunter",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_26_DESC": {
+        "text": "After her short but fateful meeting with Sasquatch, Lyudmilla begins to question the cruel nature of her career. While roaming the mountains deep in her thoughts, the hunter comes across Neth soldiers stationed to look into her disappearance and complete her mission. Only a moment's hesitation flickers across Lyudmilla's mind before the hunter aims her gun towards the soldiers to protect Sasquatch and shed herself of her past.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_26_NAME": {
+        "text": "Lyudmilla, Lady of White",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_4_26_DESC": {
+        "text": "Thor's elder brother and a member of the Nosgardian royal family. While Odin does retain every right to the throne as Thor's brother and regards his position to the kingdom with kingly love and responsibility, he often clashes with Thor due to their opposing political values and views on ruling the kingdom.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_4_26_NAME": {
+        "text": "Odin",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_5_26_DESC": {
+        "text": "Odin proposes to his younger brother that they must unite the kingdom to a single, central power, with the royal line maintaining a firm hand over their immense territory. Yet Thor disagrees, claiming that such centralization is not only realistically impossible, but also inconsistent with his own values on ruling the kingdom.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_5_26_NAME": {
+        "text": "Odin of the North",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_6_26_DESC": {
+        "text": "Odin's disatisfaction towards his brother only grows when Thor rejects his proposal. Thinking that he could lead Nosgard to its second golden age, Odin furtively gathers forces under his flag. There have been odious rumors that he has been spotted conjuring dark plans with the Einherjar, the Nosgardian elite army.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_6_26_NAME": {
+        "text": "Odin of the Storm",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_EVENT_TOYSRUS_HELP": {
+        "text": "Toys \"R\" Us Event Coupon Rewards.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_96": {
+        "text": "Key to the Seal",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_97": {
+        "text": "Encased in the Ice",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_RANDOM_EVENT_TOYSRUS_BOOK_NAME": {
+        "text": "Toys \"R\" Us Event Book of Inheritance Box",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_RANDOM_EVENT_TOYSRUS_GOLD_NAME": {
+        "text": "Toys \"R\" Us Event Gold Box",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_LYUDMILLA_DESC": {
+        "text": "Lyudmilla shoots bullets that deal @magical damage@ equal to [100/200/300]% of her attack power, according to the chain number used.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_LYUDMILLA_LV2_SUBDESC": {
+        "text": "Every time Lyudmilla uses her block, she receives the 'Lady Death' effect, which increases her attack power by 1%, critical chance by 2%, and accuracy by 2% for 4 seconds. (Maximum 5 stacks) This effect cannot be purged.\nThe 'Lady Death' effect is only removed when Lyudmilla receives damage.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_LYUDMILLA_LV3_SUBDESC": {
+        "text": "Every time Lyudmilla uses her block, she receives the 'Lady Death' effect, which increases her attack power by 2%, critical chance by 2%, and accuracy by 3% for 5 seconds. (Maximum 5 stacks) This effect cannot be purged.\nThe 'Lady Death' effect is only removed when Lyudmilla receives damage.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_LYUDMILLA_NAME": {
+        "text": "RF-309 Magic Bullet",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_LYUDMILLA_SUBNAME": {
+        "text": "Lady Death",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_ODIN_DESC": {
+        "text": "Odin wields [1/2/3] spears that deal physical damage equal to [400/400/400]% of his attack power, according to the chain number used. Each of Odin's spears activates different effects, in the order they are used.\n\nFirst Spear: Knocks back enemies within its range.\nSecond Spear: Pulls in enemies within its range.\nThird Spear: Knocks enemies within its range into the air.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_ODIN_LV2_SUBDESC": {
+        "text": "Enemies hit by Odin's block skill receive the effect of 'Odin's Eye' for 5 seconds. 'Odin's Eye' decreases 5% of its subject's armor.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_ODIN_LV3_SUBDESC": {
+        "text": "Enemies hit by Odin's block skill receive the effect of 'Odin's Eye' for 5 seconds. 'Odin's Eye' decreases 10% of its subject's armor.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_ODIN_NAME": {
+        "text": "Odin's Spear",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_ODIN_SUBNAME": {
+        "text": "Odin's Eye",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HU_CHA_4_26_DESC": {
+        "text": "(Passive Enhanced) When Lyudmilla uses 2 of her own blocks, she receives the 'Lady Death' effect, which increases her attack power by 16%, critical chance by 12%, and accuracy by 20% for 7 seconds. (Maximum 1 stack)",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HU_CHA_4_26_NAME": {
+        "text": "Polar Hunter's Rifle",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HU_CHA_5_26_DESC": {
+        "text": "(Passive Enhanced) When Lyudmilla uses 2 of her own blocks, she receives the 'Lady Death' effect, which increases her attack power by 16%, critical chance by 12%, and accuracy by 20% for 7 seconds. (Maximum 1 stack)",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HU_CHA_5_26_NAME": {
+        "text": "Nosgardian Firebrand",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HU_CHA_6_26_DESC": {
+        "text": "(Passive Enhanced) With every 2 blocks Lyudmilla uses, she receives the 'Lady Death' effect that increases her attack power by 16%, critical chance by 12%, and accuracy by 20% for 7 seconds. (Maximum 1 stack)\n(Passive Added) When the 'Lady Death' effect is at maximum stacks, upon using her block, Lyudmilla shoots 'White Death Bullets' instead of 'RF-309 Magic Bullets' to deal magical damage equal to [100/1500/2000]% of her attack power, according to the chain number used. 'White Death Bullets' have resistance penetration equal to 30% of Lyudmilla's attack power.\n(Passive Added) Upon using 'White Death Bullet,' Lyudmilla generates [0/1/2] blocks of her own according to the chain number used.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HU_CHA_6_26_NAME": {
+        "text": "Nadelmilla",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_4_26_DESC": {
+        "text": "(Passive Enhanced) The duration of 'Odin's Eye' is increased to 8 seconds. 'Odin's Eye' decreases 30% of its subject's armor.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_4_26_NAME": {
+        "text": "Ash Spear",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_5_26_DESC": {
+        "text": "(Passive Enhanced) The duration of 'Odin's Eye' is increased to 8 seconds. 'Odin's Eye' decreases 30% of its subject's armor.",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_5_26_NAME": {
+        "text": "Rune-Sharpened Spear",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_6_26_DESC": {
+        "text": "(Passive Enhanced) The duration of 'Odin's Eye' is increased to 8 seconds. 'Odin's Eye' decreases 30% of its subject's armor.\n(Passive Added) Upon using another ally's block after Odin's 3-chain, Odin unleashes 'Odin's Fury' upon enemies under 'Odin's Eye' within his range, dealing neutral damage equal to 3000% of his attack power.\n'Odin's Fury' also generates 1 block for all allies. (Cooltime: 0.5 seconds)",
+        "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_6_26_NAME": {
+        "text": "Gungnir",
+        "version": "4.14.0",
+        "original": true
     }
 }

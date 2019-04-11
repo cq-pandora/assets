@@ -11551,6 +11551,132 @@
         ]
     },
     {
+        "id": "lyudmilla",
+        "readableId": "lyudmilla",
+        "faction": "nosgard",
+        "class": "hunter",
+        "type": "contract",
+        "gender": "female",
+        "domain": "NOS",
+        "forms": [
+            {
+                "id": "CHA_HU_4_26",
+                "name": "TEXT_CHA_HU_4_26_NAME",
+                "image": "hu_4_26",
+                "star": 4,
+                "atk_power": 808.3399999999999,
+                "hp": 2309.84,
+                "crit_chance": 0.1,
+                "armor": 84.7275,
+                "resistance": 17.94,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_4_26_DESC",
+                "block_image": "ui_skill_icon_hunter_lyudmilla",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_HU_LYUDMILLA_SUBNAME",
+                "block_name": "TEXT_SKILL_HU_LYUDMILLA_NAME",
+                "block_description": "TEXT_SKILL_HU_LYUDMILLA_DESC",
+                "passive_description": "TEXT_SKILL_HU_LYUDMILLA_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_HU_5_26",
+                "name": "TEXT_CHA_HU_5_26_NAME",
+                "image": "hu_5_26",
+                "star": 5,
+                "atk_power": 1194.1999999999998,
+                "hp": 3426.64,
+                "crit_chance": 0.1,
+                "armor": 129.325,
+                "resistance": 29.694,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_5_26_DESC",
+                "block_image": "ui_skill_icon_hunter_lyudmilla",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_HU_LYUDMILLA_SUBNAME",
+                "block_name": "TEXT_SKILL_HU_LYUDMILLA_NAME",
+                "block_description": "TEXT_SKILL_HU_LYUDMILLA_DESC",
+                "passive_description": "TEXT_SKILL_HU_LYUDMILLA_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_HU_6_26",
+                "name": "TEXT_CHA_HU_6_26_NAME",
+                "image": "hu_6_26",
+                "star": 6,
+                "atk_power": 1712.25,
+                "hp": 4722.450000000001,
+                "crit_chance": 0.1,
+                "armor": 188.3625,
+                "resistance": 41.205000000000005,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_6_26_DESC",
+                "block_image": "ui_skill_icon_hunter_lyudmilla",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_HU_LYUDMILLA_SUBNAME",
+                "block_name": "TEXT_SKILL_HU_LYUDMILLA_NAME",
+                "block_description": "TEXT_SKILL_HU_LYUDMILLA_DESC",
+                "passive_description": "TEXT_SKILL_HU_LYUDMILLA_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 360,
+                    "hp": 270,
+                    "crit_chance": 0.21,
+                    "armor": 36,
+                    "resistance": 18,
+                    "crit_dmg": 0.9,
+                    "accuracy": 0.21,
+                    "evasion": 0.0525
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_GU_CHA_4_26",
+                "name": "TEXT_WEP_LEGEND_HU_CHA_4_26_NAME",
+                "image": "gu_s4_26",
+                "ability": "TEXT_WEP_LEGEND_HU_CHA_4_26_DESC",
+                "star": 4,
+                "atk_power": 94,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "gun",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_GU_CHA_5_26",
+                "name": "TEXT_WEP_LEGEND_HU_CHA_5_26_NAME",
+                "image": "gu_s5_26",
+                "ability": "TEXT_WEP_LEGEND_HU_CHA_5_26_DESC",
+                "star": 5,
+                "atk_power": 156,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "gun",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_GU_CHA_6_26",
+                "name": "TEXT_WEP_LEGEND_HU_CHA_6_26_NAME",
+                "image": "gu_s6_26",
+                "ability": "TEXT_WEP_LEGEND_HU_CHA_6_26_DESC",
+                "star": 6,
+                "atk_power": 238,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "gun",
+                "type": "sbw"
+            }
+        ],
+        "portraits": [],
+        "skins": []
+    },
+    {
         "id": "ag01-_neo",
         "readableId": "ag01-_neo",
         "class": "hunter",
@@ -18304,7 +18430,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_heim_default"
+        ],
         "skins": [
             {
                 "id": 178,
@@ -18591,6 +18719,132 @@
                 }
             }
         ]
+    },
+    {
+        "id": "odin",
+        "readableId": "odin",
+        "faction": "nosgard",
+        "class": "paladin",
+        "type": "contract",
+        "gender": "male",
+        "domain": "NOS",
+        "forms": [
+            {
+                "id": "CHA_PA_4_26",
+                "name": "TEXT_CHA_PA_4_26_NAME",
+                "image": "pa_4_26",
+                "star": 4,
+                "atk_power": 218.27,
+                "hp": 4620.2,
+                "crit_chance": 0.1,
+                "armor": 21.138,
+                "resistance": 266.24,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_4_26_DESC",
+                "block_image": "ui_skill_icon_paladin_odin",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_ODIN_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_ODIN_NAME",
+                "block_description": "TEXT_SKILL_PA_ODIN_DESC",
+                "passive_description": "TEXT_SKILL_PA_ODIN_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PA_5_26",
+                "name": "TEXT_CHA_PA_5_26_NAME",
+                "image": "pa_5_26",
+                "star": 5,
+                "atk_power": 493.91999999999996,
+                "hp": 7236.599999999999,
+                "crit_chance": 0.1,
+                "armor": 33.081999999999994,
+                "resistance": 397.04,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_5_26_DESC",
+                "block_image": "ui_skill_icon_paladin_odin",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_ODIN_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_ODIN_NAME",
+                "block_description": "TEXT_SKILL_PA_ODIN_DESC",
+                "passive_description": "TEXT_SKILL_PA_ODIN_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PA_6_26",
+                "name": "TEXT_CHA_PA_6_26_NAME",
+                "image": "pa_6_26",
+                "star": 6,
+                "atk_power": 892.6500000000001,
+                "hp": 10591.5,
+                "crit_chance": 0.1,
+                "armor": 50.05500000000001,
+                "resistance": 529.2,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_6_26_DESC",
+                "block_image": "ui_skill_icon_paladin_odin",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PA_ODIN_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_ODIN_NAME",
+                "block_description": "TEXT_SKILL_PA_ODIN_DESC",
+                "passive_description": "TEXT_SKILL_PA_ODIN_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 144,
+                    "hp": 3240,
+                    "crit_chance": 0.25,
+                    "armor": 60,
+                    "resistance": 310,
+                    "crit_dmg": 0.65,
+                    "accuracy": 0.18,
+                    "evasion": 0.18
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_HA_CHA_4_26",
+                "name": "TEXT_WEP_LEGEND_PA_CHA_4_26_NAME",
+                "image": "ha_s4_26",
+                "ability": "TEXT_WEP_LEGEND_PA_CHA_4_26_DESC",
+                "star": 4,
+                "atk_power": 105,
+                "atk_speed": 1.1,
+                "options": 1365,
+                "class": "hammer",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_HA_CHA_5_26",
+                "name": "TEXT_WEP_LEGEND_PA_CHA_5_26_NAME",
+                "image": "ha_s5_26",
+                "ability": "TEXT_WEP_LEGEND_PA_CHA_5_26_DESC",
+                "star": 5,
+                "atk_power": 205,
+                "atk_speed": 1.1,
+                "options": 1365,
+                "class": "hammer",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_HA_CHA_6_26",
+                "name": "TEXT_WEP_LEGEND_PA_CHA_6_26_NAME",
+                "image": "ha_s6_26",
+                "ability": "TEXT_WEP_LEGEND_PA_CHA_6_26_DESC",
+                "star": 6,
+                "atk_power": 305,
+                "atk_speed": 1.1,
+                "options": 1365,
+                "class": "hammer",
+                "type": "sbw"
+            }
+        ],
+        "portraits": [],
+        "skins": []
     },
     {
         "id": "pastor",
@@ -32432,7 +32686,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_roskva_default"
+        ],
         "skins": []
     },
     {
@@ -38927,7 +39183,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lacies_default"
+        ],
         "skins": [
             {
                 "id": 295,
