@@ -10683,8 +10683,36 @@
     "bosses": [
         {
             "key": "TEXT_KINGANUBIS_NAME",
+            "path": "bosses.0",
+            "text": "Cult Leader",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_KINGANUBIS_NAME",
             "path": "bosses.366",
             "text": "Cult Leader",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_DESERT_NAME",
+            "path": "bosses.1",
+            "text": "Lizarking",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_DESERT_NAME",
+            "path": "bosses.2",
+            "text": "Lizarking",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_DESERT_NAME",
+            "path": "bosses.3",
+            "text": "Lizarking",
             "version": "4.7.0",
             "original": true
         },
@@ -10697,8 +10725,50 @@
         },
         {
             "key": "TEXT_GUARDIAN_SIS_SEA_NAME",
+            "path": "bosses.5",
+            "text": "Aquinas",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_SEA_NAME",
+            "path": "bosses.6",
+            "text": "Aquinas",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_SEA_NAME",
+            "path": "bosses.7",
+            "text": "Aquinas",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_SEA_NAME",
             "path": "bosses.8",
             "text": "Aquinas",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_VOLCANO_NAME",
+            "path": "bosses.9",
+            "text": "Draco",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_VOLCANO_NAME",
+            "path": "bosses.10",
+            "text": "Draco",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_VOLCANO_NAME",
+            "path": "bosses.11",
+            "text": "Draco",
             "version": "4.7.0",
             "original": true
         },
@@ -10711,8 +10781,50 @@
         },
         {
             "key": "TEXT_GUARDIAN_SIS_WINTER_NAME",
+            "path": "bosses.13",
+            "text": "Stronkey",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_WINTER_NAME",
+            "path": "bosses.14",
+            "text": "Stronkey",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_WINTER_NAME",
+            "path": "bosses.15",
+            "text": "Stronkey",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_WINTER_NAME",
             "path": "bosses.16",
             "text": "Stronkey",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_FOREST_NAME",
+            "path": "bosses.17",
+            "text": "Grent",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_FOREST_NAME",
+            "path": "bosses.18",
+            "text": "Grent",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_FOREST_NAME",
+            "path": "bosses.19",
+            "text": "Grent",
             "version": "4.7.0",
             "original": true
         },
@@ -10725,6 +10837,27 @@
         },
         {
             "key": "TEXT_GUARDIAN_SIS_DOG_NAME",
+            "path": "bosses.21",
+            "text": "Windwolf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_DOG_NAME",
+            "path": "bosses.22",
+            "text": "Windwolf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_DOG_NAME",
+            "path": "bosses.23",
+            "text": "Windwolf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_GUARDIAN_SIS_DOG_NAME",
             "path": "bosses.24",
             "text": "Windwolf",
             "version": "4.7.0",
@@ -10732,8 +10865,71 @@
         },
         {
             "key": "TEXT_CHA_AR_3_5_NAME",
+            "path": "bosses.25",
+            "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_5_NAME",
+            "path": "bosses.26",
+            "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_5_NAME",
+            "path": "bosses.27",
+            "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_5_NAME",
+            "path": "bosses.28",
+            "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_5_NAME",
+            "path": "bosses.29",
+            "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_5_NAME",
+            "path": "bosses.30",
+            "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_5_NAME",
+            "path": "bosses.185",
+            "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_5_NAME",
             "path": "bosses.378",
             "text": "Animal Loving Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_8_NAME",
+            "path": "bosses.31",
+            "text": "Royal Guidance Counselor",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_8_NAME",
+            "path": "bosses.295",
+            "text": "Royal Guidance Counselor",
             "version": "4.7.0",
             "original": true
         },
@@ -10774,8 +10970,36 @@
         },
         {
             "key": "TEXT_CHA_AR_2_8_NAME",
+            "path": "bosses.36",
+            "text": "Golden Archer Group",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_8_NAME",
+            "path": "bosses.186",
+            "text": "Golden Archer Group",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_8_NAME",
             "path": "bosses.379",
             "text": "Golden Archer Group",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_2_NAME",
+            "path": "bosses.37",
+            "text": "Mecha Girl",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_2_NAME",
+            "path": "bosses.190",
+            "text": "Mecha Girl",
             "version": "4.7.0",
             "original": true
         },
@@ -10811,6 +11035,27 @@
             "key": "TEXT_CHA_AR_5_3_NAME",
             "path": "bosses.41",
             "text": "God Archer Sigruna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_1_NAME",
+            "path": "bosses.42",
+            "text": "D'Artagnan of Iron Will",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_1_NAME",
+            "path": "bosses.354",
+            "text": "D'Artagnan of Iron Will",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_1_NAME",
+            "path": "bosses.356",
+            "text": "D'Artagnan of Iron Will",
             "version": "4.7.0",
             "original": true
         },
@@ -10909,6 +11154,20 @@
             "key": "TEXT_CHA_PA_3_5_NAME",
             "path": "bosses.55",
             "text": "Gatcha Ranger K",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_6_NAME",
+            "path": "bosses.56",
+            "text": "Andre",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_6_NAME",
+            "path": "bosses.299",
+            "text": "Andre",
             "version": "4.7.0",
             "original": true
         },
@@ -11054,8 +11313,36 @@
         },
         {
             "key": "TEXT_CHA_WA_2_2_NAME",
+            "path": "bosses.76",
+            "text": "Apprentice Knight",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_2_NAME",
+            "path": "bosses.316",
+            "text": "Apprentice Knight",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_2_NAME",
             "path": "bosses.431",
             "text": "Apprentice Knight",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_4_NAME",
+            "path": "bosses.77",
+            "text": "Space Swordsman",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_4_NAME",
+            "path": "bosses.326",
+            "text": "Space Swordsman",
             "version": "4.7.0",
             "original": true
         },
@@ -11124,8 +11411,36 @@
         },
         {
             "key": "TEXT_CHA_WI_3_2_NAME",
+            "path": "bosses.86",
+            "text": "Neth Army Female Executive",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_2_NAME",
+            "path": "bosses.352",
+            "text": "Neth Army Female Executive",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_2_NAME",
             "path": "bosses.467",
             "text": "Neth Army Female Executive",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_7_NAME",
+            "path": "bosses.87",
+            "text": "Mecha Girl ver.0",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_7_NAME",
+            "path": "bosses.351",
+            "text": "Mecha Girl ver.0",
             "version": "4.7.0",
             "original": true
         },
@@ -11159,6 +11474,13 @@
         },
         {
             "key": "TEXT_DG_MON_BOSS_CRI_HANZO",
+            "path": "bosses.91",
+            "text": "Hanzoroid",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DG_MON_BOSS_CRI_HANZO",
             "path": "bosses.92",
             "text": "Hanzoroid",
             "version": "4.7.0",
@@ -11173,6 +11495,13 @@
         },
         {
             "key": "TEXT_DG_MON_BOSS_CRI_ROLLAND",
+            "path": "bosses.94",
+            "text": "Rolandroid",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DG_MON_BOSS_CRI_ROLLAND",
             "path": "bosses.95",
             "text": "Rolandroid",
             "version": "4.7.0",
@@ -11180,8 +11509,43 @@
         },
         {
             "key": "TEXT_MON_SH_GOBLIN_A_02_NAME",
-            "path": "bosses.784",
+            "path": "bosses.96",
             "text": "Elite Goblin A.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_A_02_NAME",
+            "path": "bosses.123",
+            "text": "Elite Goblin A.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_A_02_NAME",
+            "path": "bosses.491",
+            "text": "Elite Goblin A.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_A_02_NAME",
+            "path": "bosses.789",
+            "text": "Elite Goblin A.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_W_01_NAME",
+            "path": "bosses.97",
+            "text": "Goblin Fighter",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_W_01_NAME",
+            "path": "bosses.98",
+            "text": "Goblin Fighter",
             "version": "4.7.0",
             "original": true
         },
@@ -11194,8 +11558,50 @@
         },
         {
             "key": "TEXT_MON_SH_GOBLIN_W_02_NAME",
-            "path": "bosses.785",
+            "path": "bosses.99",
             "text": "Elite Goblin W.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_W_02_NAME",
+            "path": "bosses.126",
+            "text": "Elite Goblin W.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_W_02_NAME",
+            "path": "bosses.492",
+            "text": "Elite Goblin W.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_W_02_NAME",
+            "path": "bosses.790",
+            "text": "Elite Goblin W.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DG_MON_BOSS_TOY_MAGMAGOLEM_NAME",
+            "path": "bosses.100",
+            "text": "Clockwork Golem",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DG_MON_BOSS_TOY_MAGMAGOLEM_NAME",
+            "path": "bosses.101",
+            "text": "Clockwork Golem",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_DG_MON_BOSS_TOY_MAGMAGOLEM_NAME",
+            "path": "bosses.102",
+            "text": "Clockwork Golem",
             "version": "4.7.0",
             "original": true
         },
@@ -11264,6 +11670,13 @@
         },
         {
             "key": "TEXT_MON_LG_MAGMAGOLEM_NAME",
+            "path": "bosses.112",
+            "text": "Stone Giant",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LG_MAGMAGOLEM_NAME",
             "path": "bosses.520",
             "text": "Stone Giant",
             "version": "4.7.0",
@@ -11278,8 +11691,29 @@
         },
         {
             "key": "TEXT_MON_LG_MAGMAGOLEM_02_NAME",
-            "path": "bosses.776",
+            "path": "bosses.114",
             "text": "Darkfire Giant",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LG_MAGMAGOLEM_02_NAME",
+            "path": "bosses.479",
+            "text": "Darkfire Giant",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LG_MAGMAGOLEM_02_NAME",
+            "path": "bosses.781",
+            "text": "Darkfire Giant",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MH_ANUBIS_NAME",
+            "path": "bosses.115",
+            "text": "Anubis",
             "version": "4.7.0",
             "original": true
         },
@@ -11299,8 +11733,22 @@
         },
         {
             "key": "TEXT_MON_MH_ANUBIS_02_NAME",
+            "path": "bosses.117",
+            "text": "Death Anubis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MH_ANUBIS_02_NAME",
             "path": "bosses.483",
             "text": "Death Anubis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MH_WEREWOLF_NAME",
+            "path": "bosses.118",
+            "text": "Werewolf",
             "version": "4.7.0",
             "original": true
         },
@@ -11320,6 +11768,13 @@
         },
         {
             "key": "TEXT_MON_MH_WEREWOLF_02_NAME",
+            "path": "bosses.120",
+            "text": "Dark Werewolf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MH_WEREWOLF_02_NAME",
             "path": "bosses.487",
             "text": "Dark Werewolf",
             "version": "4.7.0",
@@ -11327,7 +11782,14 @@
         },
         {
             "key": "TEXT_MON_SH_GOBLIN_A_NAME",
-            "path": "bosses.594",
+            "path": "bosses.121",
+            "text": "Goblin Archer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_A_NAME",
+            "path": "bosses.597",
             "text": "Goblin Archer",
             "version": "4.7.0",
             "original": true
@@ -11341,8 +11803,22 @@
         },
         {
             "key": "TEXT_MON_SH_GOBLIN_W_NAME",
-            "path": "bosses.595",
+            "path": "bosses.124",
             "text": "Goblin Warrior",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SH_GOBLIN_W_NAME",
+            "path": "bosses.598",
+            "text": "Goblin Warrior",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LB_BASILISK_NAME",
+            "path": "bosses.127",
+            "text": "Basilisk",
             "version": "4.7.0",
             "original": true
         },
@@ -11362,8 +11838,22 @@
         },
         {
             "key": "TEXT_MON_LB_BASILISK_02_NAME",
+            "path": "bosses.129",
+            "text": "Dark Basilisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LB_BASILISK_02_NAME",
             "path": "bosses.478",
             "text": "Dark Basilisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LH_OGRE_NAME",
+            "path": "bosses.130",
+            "text": "Ogre",
             "version": "4.7.0",
             "original": true
         },
@@ -11383,8 +11873,22 @@
         },
         {
             "key": "TEXT_MON_LH_OGRE_02_NAME",
+            "path": "bosses.132",
+            "text": "Raging Ogre",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LH_OGRE_02_NAME",
             "path": "bosses.480",
             "text": "Raging Ogre",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LH_SHARKMAN_NAME",
+            "path": "bosses.133",
+            "text": "Shark Warrior",
             "version": "4.7.0",
             "original": true
         },
@@ -11404,7 +11908,21 @@
         },
         {
             "key": "TEXT_MON_LH_SHARKMAN_02_NAME",
-            "path": "bosses.777",
+            "path": "bosses.135",
+            "text": "AncientShark W.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LH_SHARKMAN_02_NAME",
+            "path": "bosses.481",
+            "text": "AncientShark W.",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LH_SHARKMAN_02_NAME",
+            "path": "bosses.782",
             "text": "AncientShark W.",
             "version": "4.7.0",
             "original": true
@@ -11537,6 +12055,13 @@
         },
         {
             "key": "TEXT_MON_ET_BURNINGENT_NAME",
+            "path": "bosses.154",
+            "text": "Blazing Ent",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_ET_BURNINGENT_NAME",
             "path": "bosses.514",
             "text": "Blazing Ent",
             "version": "4.7.0",
@@ -11546,6 +12071,13 @@
             "key": "TEXT_MON_ET_BURNINGENT_01_NAME",
             "path": "bosses.155",
             "text": "Polluted Ent",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_ET_ENT_NAME",
+            "path": "bosses.156",
+            "text": "Ent",
             "version": "4.7.0",
             "original": true
         },
@@ -11565,6 +12097,13 @@
         },
         {
             "key": "TEXT_MON_MH_HORUS_NAME",
+            "path": "bosses.158",
+            "text": "Horus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MH_HORUS_NAME",
             "path": "bosses.525",
             "text": "Horus",
             "version": "4.7.0",
@@ -11574,6 +12113,13 @@
             "key": "TEXT_MON_MH_HORUS_01_NAME",
             "path": "bosses.159",
             "text": "Cursed Horus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MS_JELLYSPIRIT_NAME",
+            "path": "bosses.160",
+            "text": "Blue Jellyfish",
             "version": "4.7.0",
             "original": true
         },
@@ -11593,8 +12139,22 @@
         },
         {
             "key": "TEXT_CHA_AR_3_10_NAME",
+            "path": "bosses.162",
+            "text": "Green Elf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_10_NAME",
             "path": "bosses.163",
             "text": "Green Elf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_10_NAME",
+            "path": "bosses.164",
+            "text": "A.K.A. Santa",
             "version": "4.7.0",
             "original": true
         },
@@ -11607,8 +12167,22 @@
         },
         {
             "key": "TEXT_CHA_PA_3_10_NAME",
+            "path": "bosses.166",
+            "text": "Bear Guy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_10_NAME",
             "path": "bosses.167",
             "text": "Bear Guy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_10_NAME",
+            "path": "bosses.168",
+            "text": "A.K.A. Rudolph",
             "version": "4.7.0",
             "original": true
         },
@@ -11621,8 +12195,22 @@
         },
         {
             "key": "TEXT_CHA_WA_3_10_NAME",
+            "path": "bosses.170",
+            "text": "Snowman",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_10_NAME",
             "path": "bosses.171",
             "text": "Snowman",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_10_NAME",
+            "path": "bosses.172",
+            "text": "Santa Claus",
             "version": "4.7.0",
             "original": true
         },
@@ -11635,8 +12223,22 @@
         },
         {
             "key": "TEXT_CHA_AR_2_1_NAME",
+            "path": "bosses.174",
+            "text": "Search Member",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_1_NAME",
             "path": "bosses.367",
             "text": "Search Member",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_1_4_NAME",
+            "path": "bosses.175",
+            "text": "Country Girl",
             "version": "4.7.0",
             "original": true
         },
@@ -11649,8 +12251,22 @@
         },
         {
             "key": "TEXT_CHA_AR_1_1_NAME",
+            "path": "bosses.176",
+            "text": "Petty Thief",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_1_1_NAME",
             "path": "bosses.369",
             "text": "Petty Thief",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_1_2_NAME",
+            "path": "bosses.177",
+            "text": "Girl Scout",
             "version": "4.7.0",
             "original": true
         },
@@ -11663,8 +12279,22 @@
         },
         {
             "key": "TEXT_CHA_AR_2_2_NAME",
+            "path": "bosses.178",
+            "text": "Warrior of the Desert",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_2_NAME",
             "path": "bosses.371",
             "text": "Warrior of the Desert",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_4_NAME",
+            "path": "bosses.179",
+            "text": "Roman Female Archer",
             "version": "4.7.0",
             "original": true
         },
@@ -11677,8 +12307,22 @@
         },
         {
             "key": "TEXT_CHA_AR_3_3_NAME",
+            "path": "bosses.180",
+            "text": "Clown",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_3_NAME",
             "path": "bosses.373",
             "text": "Clown",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_3_NAME",
+            "path": "bosses.181",
+            "text": "Green Apple",
             "version": "4.7.0",
             "original": true
         },
@@ -11691,8 +12335,22 @@
         },
         {
             "key": "TEXT_CHA_AR_2_5_NAME",
+            "path": "bosses.182",
+            "text": "Royal Cleaner",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_5_NAME",
             "path": "bosses.375",
             "text": "Royal Cleaner",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_4_NAME",
+            "path": "bosses.183",
+            "text": "Velvet Archer",
             "version": "4.7.0",
             "original": true
         },
@@ -11705,8 +12363,22 @@
         },
         {
             "key": "TEXT_CHA_AR_2_7_NAME",
+            "path": "bosses.184",
+            "text": "Half Elf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_7_NAME",
             "path": "bosses.377",
             "text": "Half Elf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_1_NAME",
+            "path": "bosses.187",
+            "text": "Foxniper",
             "version": "4.7.0",
             "original": true
         },
@@ -11719,6 +12391,13 @@
         },
         {
             "key": "TEXT_CHA_AR_3_8_NAME",
+            "path": "bosses.188",
+            "text": "Private Archer Club",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_8_NAME",
             "path": "bosses.381",
             "text": "Private Archer Club",
             "version": "4.7.0",
@@ -11726,8 +12405,22 @@
         },
         {
             "key": "TEXT_CHA_AR_3_11_NAME",
+            "path": "bosses.189",
+            "text": "Frost Archer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_3_11_NAME",
             "path": "bosses.382",
             "text": "Frost Archer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_2_9_NAME",
+            "path": "bosses.191",
+            "text": "Northern Hunter",
             "version": "4.7.0",
             "original": true
         },
@@ -12293,8 +12986,22 @@
         },
         {
             "key": "TEXT_CHA_HU_2_5_NAME",
+            "path": "bosses.271",
+            "text": "Private Thug",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_5_NAME",
             "path": "bosses.385",
             "text": "Private Thug",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_1_1_NAME",
+            "path": "bosses.272",
+            "text": "Gunman",
             "version": "4.7.0",
             "original": true
         },
@@ -12307,8 +13014,22 @@
         },
         {
             "key": "TEXT_CHA_HU_1_2_NAME",
+            "path": "bosses.273",
+            "text": "Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_1_2_NAME",
             "path": "bosses.387",
             "text": "Adventurer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_4_NAME",
+            "path": "bosses.274",
+            "text": "Archaeologist",
             "version": "4.7.0",
             "original": true
         },
@@ -12321,8 +13042,22 @@
         },
         {
             "key": "TEXT_CHA_HU_3_3_NAME",
+            "path": "bosses.275",
+            "text": "Southern Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_3_NAME",
             "path": "bosses.389",
             "text": "Southern Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_2_NAME",
+            "path": "bosses.276",
+            "text": "Sheriff",
             "version": "4.7.0",
             "original": true
         },
@@ -12335,8 +13070,22 @@
         },
         {
             "key": "TEXT_CHA_HU_3_8_NAME",
+            "path": "bosses.277",
+            "text": "Royal Musician",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_8_NAME",
             "path": "bosses.391",
             "text": "Royal Musician",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_3_NAME",
+            "path": "bosses.278",
+            "text": "Mafia",
             "version": "4.7.0",
             "original": true
         },
@@ -12349,8 +13098,22 @@
         },
         {
             "key": "TEXT_CHA_HU_3_4_NAME",
+            "path": "bosses.279",
+            "text": "Policewoman",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_4_NAME",
             "path": "bosses.393",
             "text": "Policewoman",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_1_NAME",
+            "path": "bosses.280",
+            "text": "Outlaw",
             "version": "4.7.0",
             "original": true
         },
@@ -12363,8 +13126,22 @@
         },
         {
             "key": "TEXT_CHA_HU_3_5_NAME",
+            "path": "bosses.281",
+            "text": "Magic Engineer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_5_NAME",
             "path": "bosses.395",
             "text": "Magic Engineer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_7_NAME",
+            "path": "bosses.282",
+            "text": "Falcon Corpsman",
             "version": "4.7.0",
             "original": true
         },
@@ -12377,8 +13154,22 @@
         },
         {
             "key": "TEXT_CHA_HU_3_7_NAME",
+            "path": "bosses.283",
+            "text": "Gangster",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_7_NAME",
             "path": "bosses.397",
             "text": "Gangster",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_3_11_NAME",
+            "path": "bosses.284",
+            "text": "Elite Falcon",
             "version": "4.7.0",
             "original": true
         },
@@ -12391,8 +13182,22 @@
         },
         {
             "key": "TEXT_CHA_HU_2_9_NAME",
+            "path": "bosses.285",
+            "text": "Rambunctious Youth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_2_9_NAME",
             "path": "bosses.399",
             "text": "Rambunctious Youth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_3_NAME",
+            "path": "bosses.286",
+            "text": "Forest Guardian",
             "version": "4.7.0",
             "original": true
         },
@@ -12405,8 +13210,22 @@
         },
         {
             "key": "TEXT_CHA_PA_1_1_NAME",
+            "path": "bosses.287",
+            "text": "Woodcutter",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_1_1_NAME",
             "path": "bosses.402",
             "text": "Woodcutter",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_1_NAME",
+            "path": "bosses.288",
+            "text": "Sentry",
             "version": "4.7.0",
             "original": true
         },
@@ -12419,8 +13238,22 @@
         },
         {
             "key": "TEXT_CHA_PA_3_1_NAME",
+            "path": "bosses.289",
+            "text": "Roman Soldier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_1_NAME",
             "path": "bosses.404",
             "text": "Roman Soldier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_1_4_NAME",
+            "path": "bosses.290",
+            "text": "Apprentice Blacksmith",
             "version": "4.7.0",
             "original": true
         },
@@ -12433,8 +13266,22 @@
         },
         {
             "key": "TEXT_CHA_PA_2_2_NAME",
+            "path": "bosses.291",
+            "text": "Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_2_NAME",
             "path": "bosses.406",
             "text": "Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_5_NAME",
+            "path": "bosses.292",
+            "text": "Private Football Club",
             "version": "4.7.0",
             "original": true
         },
@@ -12447,8 +13294,22 @@
         },
         {
             "key": "TEXT_CHA_PA_3_3_NAME",
+            "path": "bosses.293",
+            "text": "Navy Officer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_3_NAME",
             "path": "bosses.408",
             "text": "Navy Officer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_1_2_NAME",
+            "path": "bosses.294",
+            "text": "Pirate",
             "version": "4.7.0",
             "original": true
         },
@@ -12461,8 +13322,22 @@
         },
         {
             "key": "TEXT_CHA_PA_2_4_NAME",
+            "path": "bosses.296",
+            "text": "Eastern Kingdom Soldier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_4_NAME",
             "path": "bosses.411",
             "text": "Eastern Kingdom Soldier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_7_NAME",
+            "path": "bosses.297",
+            "text": "Little Devil",
             "version": "4.7.0",
             "original": true
         },
@@ -12475,8 +13350,22 @@
         },
         {
             "key": "TEXT_CHA_PA_2_7_NAME",
+            "path": "bosses.298",
+            "text": "War Priest",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_7_NAME",
             "path": "bosses.413",
             "text": "War Priest",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_4_NAME",
+            "path": "bosses.300",
+            "text": "Bear Grills",
             "version": "4.7.0",
             "original": true
         },
@@ -12489,8 +13378,22 @@
         },
         {
             "key": "TEXT_CHA_PA_3_11_NAME",
+            "path": "bosses.301",
+            "text": "Ice Miner",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_3_11_NAME",
             "path": "bosses.416",
             "text": "Ice Miner",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_2_9_NAME",
+            "path": "bosses.302",
+            "text": "ULT - 28",
             "version": "4.7.0",
             "original": true
         },
@@ -12503,8 +13406,22 @@
         },
         {
             "key": "TEXT_CHA_PR_1_2_NAME",
+            "path": "bosses.303",
+            "text": "Sister",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_1_2_NAME",
             "path": "bosses.418",
             "text": "Sister",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_1_1_NAME",
+            "path": "bosses.304",
+            "text": "Pastor",
             "version": "4.7.0",
             "original": true
         },
@@ -12517,8 +13434,22 @@
         },
         {
             "key": "TEXT_CHA_PR_3_2_NAME",
+            "path": "bosses.305",
+            "text": "Roman Priest",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_2_NAME",
             "path": "bosses.420",
             "text": "Roman Priest",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_1_NAME",
+            "path": "bosses.306",
+            "text": "Elder",
             "version": "4.7.0",
             "original": true
         },
@@ -12531,8 +13462,22 @@
         },
         {
             "key": "TEXT_CHA_PR_1_4_NAME",
+            "path": "bosses.307",
+            "text": "Healer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_1_4_NAME",
             "path": "bosses.422",
             "text": "Healer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_4_NAME",
+            "path": "bosses.308",
+            "text": "Voodoo Shaman",
             "version": "4.7.0",
             "original": true
         },
@@ -12545,8 +13490,22 @@
         },
         {
             "key": "TEXT_CHA_PR_3_1_NAME",
+            "path": "bosses.309",
+            "text": "Meowcat",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_1_NAME",
             "path": "bosses.424",
             "text": "Meowcat",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_4_NAME",
+            "path": "bosses.310",
+            "text": "Nurse Student",
             "version": "4.7.0",
             "original": true
         },
@@ -12559,8 +13518,22 @@
         },
         {
             "key": "TEXT_CHA_PR_3_7_NAME",
+            "path": "bosses.311",
+            "text": "Bear Fancier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_7_NAME",
             "path": "bosses.426",
             "text": "Bear Fancier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_3_NAME",
+            "path": "bosses.312",
+            "text": "Head Sister",
             "version": "4.7.0",
             "original": true
         },
@@ -12573,8 +13546,22 @@
         },
         {
             "key": "TEXT_CHA_PR_2_2_NAME",
+            "path": "bosses.313",
+            "text": "Butler",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_2_NAME",
             "path": "bosses.428",
             "text": "Butler",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_2_9_NAME",
+            "path": "bosses.314",
+            "text": "Novelist",
             "version": "4.7.0",
             "original": true
         },
@@ -12587,8 +13574,22 @@
         },
         {
             "key": "TEXT_CHA_PR_3_11_NAME",
+            "path": "bosses.315",
+            "text": "Herb Collector",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_3_11_NAME",
             "path": "bosses.430",
             "text": "Herb Collector",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_1_4_NAME",
+            "path": "bosses.317",
+            "text": "Farm Boy",
             "version": "4.7.0",
             "original": true
         },
@@ -12601,8 +13602,29 @@
         },
         {
             "key": "TEXT_CHA_WA_1_1_NAME",
+            "path": "bosses.318",
+            "text": "Young Villager",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_1_1_NAME",
+            "path": "bosses.433",
+            "text": "Young Villager",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_1_1_NAME",
             "path": "bosses.505",
             "text": "Young Villager",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_1_2_NAME",
+            "path": "bosses.319",
+            "text": "Squire",
             "version": "4.7.0",
             "original": true
         },
@@ -12615,8 +13637,22 @@
         },
         {
             "key": "TEXT_CHA_WA_3_2_NAME",
+            "path": "bosses.320",
+            "text": "Southern Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_2_NAME",
             "path": "bosses.435",
             "text": "Southern Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_3_NAME",
+            "path": "bosses.321",
+            "text": "Green Knight",
             "version": "4.7.0",
             "original": true
         },
@@ -12629,8 +13665,22 @@
         },
         {
             "key": "TEXT_CHA_WA_2_5_NAME",
+            "path": "bosses.322",
+            "text": "Royal Academy Track Club",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_5_NAME",
             "path": "bosses.437",
             "text": "Royal Academy Track Club",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_1_NAME",
+            "path": "bosses.323",
+            "text": "Wing Knight",
             "version": "4.7.0",
             "original": true
         },
@@ -12643,8 +13693,22 @@
         },
         {
             "key": "TEXT_CHA_WA_2_4_NAME",
+            "path": "bosses.324",
+            "text": "Valencian Navy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_4_NAME",
             "path": "bosses.439",
             "text": "Valencian Navy",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_1_NAME",
+            "path": "bosses.325",
+            "text": "Warrior of the East",
             "version": "4.7.0",
             "original": true
         },
@@ -12657,8 +13721,22 @@
         },
         {
             "key": "TEXT_CHA_WA_2_7_NAME",
+            "path": "bosses.327",
+            "text": "Amazon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_7_NAME",
             "path": "bosses.442",
             "text": "Amazon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_7_NAME",
+            "path": "bosses.328",
+            "text": "Banshee",
             "version": "4.7.0",
             "original": true
         },
@@ -12671,8 +13749,22 @@
         },
         {
             "key": "TEXT_CHA_WA_2_8_NAME",
+            "path": "bosses.329",
+            "text": "Central Empire Soldier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_8_NAME",
             "path": "bosses.444",
             "text": "Central Empire Soldier",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_3_NAME",
+            "path": "bosses.330",
+            "text": "Sister Knight",
             "version": "4.7.0",
             "original": true
         },
@@ -12685,8 +13777,22 @@
         },
         {
             "key": "TEXT_CHA_WA_3_5_NAME",
+            "path": "bosses.331",
+            "text": "Brave Dog",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_5_NAME",
             "path": "bosses.446",
             "text": "Brave Dog",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_8_NAME",
+            "path": "bosses.332",
+            "text": "Private Academy Kendo Club",
             "version": "4.7.0",
             "original": true
         },
@@ -12699,8 +13805,22 @@
         },
         {
             "key": "TEXT_CHA_WA_3_11_NAME",
+            "path": "bosses.333",
+            "text": "Wolf Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_3_11_NAME",
             "path": "bosses.448",
             "text": "Wolf Guard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_2_9_NAME",
+            "path": "bosses.334",
+            "text": "Ice Sculptor",
             "version": "4.7.0",
             "original": true
         },
@@ -12713,8 +13833,22 @@
         },
         {
             "key": "TEXT_CHA_WI_1_1_NAME",
+            "path": "bosses.335",
+            "text": "Nerd",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_1_1_NAME",
             "path": "bosses.450",
             "text": "Nerd",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_1_2_NAME",
+            "path": "bosses.336",
+            "text": "Magic Student",
             "version": "4.7.0",
             "original": true
         },
@@ -12727,8 +13861,22 @@
         },
         {
             "key": "TEXT_CHA_WI_2_2_NAME",
+            "path": "bosses.337",
+            "text": "Common Magician",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_2_NAME",
             "path": "bosses.452",
             "text": "Common Magician",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_1_4_NAME",
+            "path": "bosses.338",
+            "text": "Old Man Neighbor",
             "version": "4.7.0",
             "original": true
         },
@@ -12741,8 +13889,22 @@
         },
         {
             "key": "TEXT_CHA_WI_2_3_NAME",
+            "path": "bosses.339",
+            "text": "Royal Magic Student",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_3_NAME",
             "path": "bosses.454",
             "text": "Royal Magic Student",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_1_NAME",
+            "path": "bosses.340",
+            "text": "Witch Delivery Trainee",
             "version": "4.7.0",
             "original": true
         },
@@ -12755,8 +13917,22 @@
         },
         {
             "key": "TEXT_CHA_WI_3_4_NAME",
+            "path": "bosses.341",
+            "text": "Lost Mountain Girl",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_4_NAME",
             "path": "bosses.456",
             "text": "Lost Mountain Girl",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_1_NAME",
+            "path": "bosses.342",
+            "text": "Stormy Ninja",
             "version": "4.7.0",
             "original": true
         },
@@ -12769,8 +13945,22 @@
         },
         {
             "key": "TEXT_CHA_WI_2_5_NAME",
+            "path": "bosses.343",
+            "text": "Royal Librarian",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_5_NAME",
             "path": "bosses.458",
             "text": "Royal Librarian",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_3_NAME",
+            "path": "bosses.344",
+            "text": "Vampire",
             "version": "4.7.0",
             "original": true
         },
@@ -12783,8 +13973,22 @@
         },
         {
             "key": "TEXT_CHA_WI_2_7_NAME",
+            "path": "bosses.345",
+            "text": "Elegant Lady",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_7_NAME",
             "path": "bosses.460",
             "text": "Elegant Lady",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_4_NAME",
+            "path": "bosses.346",
+            "text": "Druid Elf",
             "version": "4.7.0",
             "original": true
         },
@@ -12797,8 +14001,22 @@
         },
         {
             "key": "TEXT_CHA_WI_3_6_NAME",
+            "path": "bosses.347",
+            "text": "Enlightened Sea Otter",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_6_NAME",
             "path": "bosses.462",
             "text": "Enlightened Sea Otter",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_8_NAME",
+            "path": "bosses.348",
+            "text": "Private Occultist",
             "version": "4.7.0",
             "original": true
         },
@@ -12811,8 +14029,22 @@
         },
         {
             "key": "TEXT_CHA_WI_2_9_NAME",
+            "path": "bosses.349",
+            "text": "Robotics Engineer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_2_9_NAME",
             "path": "bosses.464",
             "text": "Robotics Engineer",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WI_3_11_NAME",
+            "path": "bosses.350",
+            "text": "Frost Mage",
             "version": "4.7.0",
             "original": true
         },
@@ -12972,14 +14204,28 @@
         },
         {
             "key": "TEXT_MON_LM_HERMITCRAB_02_NAME",
-            "path": "bosses.778",
+            "path": "bosses.482",
+            "text": "Posh HermitCrab",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LM_HERMITCRAB_02_NAME",
+            "path": "bosses.783",
             "text": "Posh HermitCrab",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_MH_HORUS_02_NAME",
-            "path": "bosses.779",
+            "path": "bosses.484",
+            "text": "Death Horus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MH_HORUS_02_NAME",
+            "path": "bosses.784",
             "text": "Death Horus",
             "version": "4.7.0",
             "original": true
@@ -12993,28 +14239,56 @@
         },
         {
             "key": "TEXT_MON_MH_SALAMANDER_A_02_NAME",
-            "path": "bosses.780",
+            "path": "bosses.486",
+            "text": "Darkfire Lizard",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MH_SALAMANDER_A_02_NAME",
+            "path": "bosses.785",
             "text": "Darkfire Lizard",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_MM_MERMAID_02_NAME",
-            "path": "bosses.781",
+            "path": "bosses.488",
+            "text": "Mermaid Witch",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MM_MERMAID_02_NAME",
+            "path": "bosses.786",
             "text": "Mermaid Witch",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_MS_IFRIT_02_NAME",
-            "path": "bosses.782",
+            "path": "bosses.489",
+            "text": "Darkfire Ifrit",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MS_IFRIT_02_NAME",
+            "path": "bosses.787",
             "text": "Darkfire Ifrit",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_MS_JELLYSPIRIT_02_NAME",
-            "path": "bosses.783",
+            "path": "bosses.490",
+            "text": "Blood Jellyfish",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_MS_JELLYSPIRIT_02_NAME",
+            "path": "bosses.788",
             "text": "Blood Jellyfish",
             "version": "4.7.0",
             "original": true
@@ -13056,7 +14330,21 @@
         },
         {
             "key": "TEXT_MON_SM_SLIME_02_NAME",
-            "path": "bosses.786",
+            "path": "bosses.498",
+            "text": "King Slime",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SM_SLIME_02_NAME",
+            "path": "bosses.499",
+            "text": "King Slime",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_SM_SLIME_02_NAME",
+            "path": "bosses.791",
             "text": "King Slime",
             "version": "4.7.0",
             "original": true
@@ -13077,7 +14365,14 @@
         },
         {
             "key": "TEXT_NEMESIS_NAME",
-            "path": "bosses.711",
+            "path": "bosses.502",
+            "text": "Nemesis",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_NEMESIS_NAME",
+            "path": "bosses.715",
             "text": "Nemesis",
             "version": "4.7.0",
             "original": true
@@ -13273,6 +14568,13 @@
         },
         {
             "key": "TEXT_MON_BOSS_S2_EP2_AMMUT_NAME",
+            "path": "bosses.541",
+            "text": "Ammut",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_AMMUT_NAME",
             "path": "bosses.542",
             "text": "Ammut",
             "version": "4.9.0",
@@ -13280,7 +14582,42 @@
         },
         {
             "key": "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME",
+            "path": "bosses.543",
+            "text": "Anubisis",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME",
+            "path": "bosses.544",
+            "text": "Anubisis",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME",
+            "path": "bosses.545",
+            "text": "Anubisis",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME",
+            "path": "bosses.546",
+            "text": "Anubisis",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME",
             "path": "bosses.547",
+            "text": "Anubisis",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME",
+            "path": "bosses.548",
             "text": "Anubisis",
             "version": "4.9.0",
             "original": true
@@ -13293,85 +14630,92 @@
             "original": true
         },
         {
-            "key": "TEXT_CHA_AR_1_12_NAME",
+            "key": "TEXT_MON_BOSS_S2_EP2_BETA_NAME",
             "path": "bosses.550",
+            "text": "Violent Test Subject Beta",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_1_12_NAME",
+            "path": "bosses.551",
             "text": "Tarantula (M)",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_AR_2_16_NAME",
-            "path": "bosses.551",
+            "path": "bosses.552",
             "text": "Experiment Survivor",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_1_12_NAME",
-            "path": "bosses.552",
+            "path": "bosses.553",
             "text": "Laboratory Manager",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_2_16_NAME",
-            "path": "bosses.553",
+            "path": "bosses.554",
             "text": "Grave Robber",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_PA_1_12_NAME",
-            "path": "bosses.554",
+            "path": "bosses.555",
             "text": "Lost Merchant",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_PA_3_18_NAME",
-            "path": "bosses.555",
+            "path": "bosses.556",
             "text": "Undead Test Subject",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_PR_1_12_NAME",
-            "path": "bosses.556",
+            "path": "bosses.557",
             "text": "Mummy Embalmer",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_PR_2_16_NAME",
-            "path": "bosses.557",
+            "path": "bosses.558",
             "text": "Golden Piggy",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_1_12_NAME",
-            "path": "bosses.558",
+            "path": "bosses.559",
             "text": "Confused Sentinel",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_2_16_NAME",
-            "path": "bosses.559",
+            "path": "bosses.560",
             "text": "Eternally Young Sentry",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_1_12_NAME",
-            "path": "bosses.560",
+            "path": "bosses.561",
             "text": "Possessed Scholar",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WI_2_16_NAME",
-            "path": "bosses.561",
+            "path": "bosses.562",
             "text": "Levitating Stone Manager",
             "version": "4.9.0",
             "original": true
@@ -13384,9 +14728,44 @@
             "original": true
         },
         {
+            "key": "TEXT_MON_BOSS_S2_EP2_COBRA_NAME",
+            "path": "bosses.564",
+            "text": "Poisonous Cobra",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
             "key": "TEXT_MON_BOSS_S2_EP2_GAMMA_NAME",
             "path": "bosses.565",
             "text": "Violent Test Subject Gamma",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_GAMMA_NAME",
+            "path": "bosses.566",
+            "text": "Violent Test Subject Gamma",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_JERAPHIM_NAME",
+            "path": "bosses.567",
+            "text": "Jeraphim",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_JERAPHIM_NAME",
+            "path": "bosses.568",
+            "text": "Jeraphim",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_JERAPHIM_NAME",
+            "path": "bosses.569",
+            "text": "Jeraphim",
             "version": "4.9.0",
             "original": true
         },
@@ -13398,23 +14777,72 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BOSS_S2_EP2_MHORUS_NAME",
+            "key": "TEXT_MON_BOSS_S2_EP2_JERAPHIM_NAME",
+            "path": "bosses.571",
+            "text": "Jeraphim",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_JERAPHIM_NAME",
             "path": "bosses.572",
+            "text": "Jeraphim",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_MHORUS_NAME",
+            "path": "bosses.573",
+            "text": "Mutated Horus Tribesman",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_MHORUS_NAME",
+            "path": "bosses.574",
             "text": "Mutated Horus Tribesman",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_S2_EP2_OMEGA_NAME",
-            "path": "bosses.574",
+            "path": "bosses.575",
+            "text": "Test Subject Omega",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_OMEGA_NAME",
+            "path": "bosses.576",
             "text": "Test Subject Omega",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_S2_EP2_SCARAB_NAME",
-            "path": "bosses.576",
+            "path": "bosses.577",
             "text": "Poisonous Scarab",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_SCARAB_NAME",
+            "path": "bosses.578",
+            "text": "Poisonous Scarab",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_SEKHMET_NAME",
+            "path": "bosses.579",
+            "text": "Sekhmet",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_SEKHMET_NAME",
+            "path": "bosses.580",
+            "text": "Sekhmet",
             "version": "4.9.0",
             "original": true
         },
@@ -13426,338 +14854,408 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BOSS_S2_EP2_SONOFGEB_NAME",
+            "key": "TEXT_MON_BOSS_S2_EP2_SEKHMET_NAME",
+            "path": "bosses.582",
+            "text": "Sekhmet",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_SEKHMET_NAME",
             "path": "bosses.583",
+            "text": "Sekhmet",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_SEKHMET_NAME",
+            "path": "bosses.584",
+            "text": "Sekhmet",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_SONOFGEB_NAME",
+            "path": "bosses.585",
+            "text": "Mutated Child of Geb",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_SONOFGEB_NAME",
+            "path": "bosses.586",
             "text": "Mutated Child of Geb",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_S2_EP2_TOMBKING_NAME",
-            "path": "bosses.585",
+            "path": "bosses.587",
+            "text": "Tomb King",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BOSS_S2_EP2_TOMBKING_NAME",
+            "path": "bosses.588",
             "text": "Tomb King",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWDEVIL_CONFUSE_BLUE_NAME",
-            "path": "bosses.586",
+            "path": "bosses.589",
             "text": "Horrifying Blue Chaos Shadowdemon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWDEVIL_FURY_RED_NAME",
-            "path": "bosses.587",
+            "path": "bosses.590",
             "text": "Horrifying Red Fury Shadowdemon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWDEVIL_FURY_YELLOW_NAME",
-            "path": "bosses.588",
+            "path": "bosses.591",
             "text": "Horrifying Yellow Fury Shadowdemon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWROSE_GUN_RED_NAME",
-            "path": "bosses.589",
+            "path": "bosses.592",
             "text": "Horrifying Red Shadow Rose Marksman",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWROSE_RIDER_BLUE_NAME",
-            "path": "bosses.590",
+            "path": "bosses.593",
             "text": "Horrifying Blue Shadow Rose Cavalry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWROSE_RIDER_RED_NAME",
-            "path": "bosses.591",
+            "path": "bosses.594",
             "text": "Horrifying Red Shadow Rose Cavalry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWROSE_RIDER_YELLOW_NAME",
-            "path": "bosses.592",
+            "path": "bosses.595",
             "text": "Horrifying Yellow Shadow Rose Cavalry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BOSS_SHADOWROSE_SWORD_RED_NAME",
-            "path": "bosses.593",
+            "path": "bosses.596",
             "text": "Horrifying Red Shadow Rose Charger",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SH_MUMMY_NAME",
-            "path": "bosses.596",
+            "path": "bosses.599",
             "text": "Mummy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SM_FIRESPIRIT_NAME",
-            "path": "bosses.597",
+            "path": "bosses.600",
             "text": "Flame Spirit",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SM_MAGMAMAN_NAME",
-            "path": "bosses.598",
+            "path": "bosses.601",
             "text": "Lava Squishy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SM_SANDMAN_NAME",
-            "path": "bosses.599",
+            "path": "bosses.602",
             "text": "Sandman",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SM_SEADEVIL_NAME",
-            "path": "bosses.600",
+            "path": "bosses.603",
             "text": "Green Anglerfish",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SM_SLIME_NAME",
-            "path": "bosses.601",
+            "path": "bosses.604",
             "text": "Green Slime",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SM_STARFISH_NAME",
-            "path": "bosses.602",
+            "path": "bosses.605",
             "text": "Red Starfish",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_WA_3_KURENAI_NAME",
-            "path": "bosses.603",
+            "path": "bosses.606",
             "text": "Tsukino Kurenai",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_INTRO_EL_NAME",
-            "path": "bosses.774",
+            "path": "bosses.607",
+            "text": "Destalos",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_INTRO_EL_NAME",
+            "path": "bosses.779",
             "text": "Destalos",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_ARMORED_NAME",
-            "path": "bosses.605",
+            "path": "bosses.608",
             "text": "Order of the Lion Trooper",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_ASSASSIN_NAME",
-            "path": "bosses.606",
+            "path": "bosses.609",
             "text": "Assassin of the White Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_CAVAKRY_NAME",
-            "path": "bosses.607",
+            "path": "bosses.610",
             "text": "Order of the Lion Cavalry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_EP7_DIONNE_NAME",
-            "path": "bosses.608",
+            "path": "bosses.611",
             "text": "Dionne",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_EP7_EL_NAME",
-            "path": "bosses.609",
+            "path": "bosses.612",
             "text": "El Thalnos",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_ARMORED_NAME",
-            "path": "bosses.610",
+            "path": "bosses.613",
             "text": "Order of the Lion Golden Trooper",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_ASSASSIN_NAME",
-            "path": "bosses.611",
+            "path": "bosses.614",
             "text": "Elite Assassin of the White Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_CAVAKRY_NAME",
-            "path": "bosses.612",
+            "path": "bosses.615",
             "text": "Order of the Lion Golden Cavalry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_EP7_HARD_DIONNE_NAME",
-            "path": "bosses.613",
+            "path": "bosses.616",
             "text": "Dionne of Illusions",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_EP7_HARD_EL_NAME",
-            "path": "bosses.614",
+            "path": "bosses.617",
             "text": "El Thalnos of Illusions",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_EP7_HARD_HELLAD_NAME",
-            "path": "bosses.615",
+            "path": "bosses.618",
             "text": "Hellad of Illusions",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_KNIGHT_NAME",
-            "path": "bosses.616",
+            "path": "bosses.619",
             "text": "Order of the Lion Golden Knight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_MANATARMS_NAME",
-            "path": "bosses.617",
+            "path": "bosses.620",
             "text": "Order of the Lion Elite Heavy Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_PRIEST_NAME",
-            "path": "bosses.618",
+            "path": "bosses.621",
             "text": "High Cleric of the White Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_SAPPER_NAME",
-            "path": "bosses.619",
+            "path": "bosses.622",
             "text": "Order of the Lion Golden Giant Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_SISTER_NAME",
-            "path": "bosses.620",
+            "path": "bosses.623",
             "text": "High Priestess of the White Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_SOLDIER_CROSSBOW_NAME",
-            "path": "bosses.621",
+            "path": "bosses.624",
             "text": "Order of the Lion Elite Archer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_HARD_SOLDIER_SPEAR_NAME",
-            "path": "bosses.622",
+            "path": "bosses.625",
             "text": "Order of the Lion Elite Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_EP7_HELLAD_NAME",
-            "path": "bosses.623",
+            "path": "bosses.626",
             "text": "Hellad",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_KNIGHT_NAME",
-            "path": "bosses.624",
+            "path": "bosses.627",
             "text": "Order of the Lion Knight",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_MANATARMS_NAME",
-            "path": "bosses.625",
+            "path": "bosses.628",
             "text": "Order of the Lion Heavy Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_PRIEST_NAME",
-            "path": "bosses.626",
+            "path": "bosses.629",
             "text": "Cleric of the White Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_SAPPER_NAME",
-            "path": "bosses.627",
+            "path": "bosses.630",
             "text": "Order of the Lion Giant Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_SISTER_NAME",
-            "path": "bosses.628",
+            "path": "bosses.631",
             "text": "Priestess of the White Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_SOLDIER_CROSSBOW_NAME",
-            "path": "bosses.629",
+            "path": "bosses.632",
             "text": "Order of the Lion Archer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP7_SOLDIER_SPEAR_NAME",
-            "path": "bosses.630",
+            "path": "bosses.633",
             "text": "Order of the Lion Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_FUGUS_02_NAME",
-            "path": "bosses.631",
+            "path": "bosses.634",
             "text": "Ent Robot",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_GOLEM_NAME",
-            "path": "bosses.632",
+            "path": "bosses.635",
             "text": "Golem",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_GOLEM_01_NAME",
-            "path": "bosses.633",
+            "path": "bosses.636",
             "text": "Dark Golem",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_GOLEM_02_NAME",
+            "path": "bosses.637",
+            "text": "Obelisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_GOLEM_02_NAME",
+            "path": "bosses.638",
+            "text": "Obelisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_GOLEM_02_NAME",
+            "path": "bosses.639",
+            "text": "Obelisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_GOLEM_02_NAME",
+            "path": "bosses.640",
+            "text": "Obelisk",
             "version": "4.7.0",
             "original": true
         },
@@ -13769,30 +15267,86 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BS_JINSERA_NAME",
+            "key": "TEXT_MON_BS_GOLEM_02_NAME",
+            "path": "bosses.642",
+            "text": "Obelisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_GOLEM_02_NAME",
             "path": "bosses.643",
+            "text": "Obelisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_GOLEM_02_NAME",
+            "path": "bosses.644",
+            "text": "Obelisk",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_JINSERA_NAME",
+            "path": "bosses.645",
+            "text": "Dark Sera",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_JINSERA_NAME",
+            "path": "bosses.646",
             "text": "Dark Sera",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_JINSERA_UNKNOWN_NAME",
-            "path": "bosses.644",
+            "path": "bosses.647",
             "text": "???",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_KRAKEN_NAME",
-            "path": "bosses.645",
+            "path": "bosses.648",
             "text": "Kraken",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_KRAKEN_01_NAME",
-            "path": "bosses.646",
+            "path": "bosses.649",
             "text": "Dark Kraken",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KRAKEN_02_NAME",
+            "path": "bosses.650",
+            "text": "Kranus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KRAKEN_02_NAME",
+            "path": "bosses.651",
+            "text": "Kranus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KRAKEN_02_NAME",
+            "path": "bosses.652",
+            "text": "Kranus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KRAKEN_02_NAME",
+            "path": "bosses.653",
+            "text": "Kranus",
             "version": "4.7.0",
             "original": true
         },
@@ -13804,128 +15358,254 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_KURENAI_ENT_NAME",
+            "key": "TEXT_MON_BS_KRAKEN_02_NAME",
+            "path": "bosses.655",
+            "text": "Kranus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KRAKEN_02_NAME",
             "path": "bosses.656",
+            "text": "Kranus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KRAKEN_02_NAME",
+            "path": "bosses.657",
+            "text": "Kranus",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_KURENAI_ENT_NAME",
+            "path": "bosses.658",
+            "text": "Jungle Ent",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_KURENAI_ENT_NAME",
+            "path": "bosses.659",
             "text": "Jungle Ent",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_KURENAI_MAGMAGOLEM_NAME",
-            "path": "bosses.658",
+            "path": "bosses.660",
+            "text": "Flaming Magma Golem",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_KURENAI_MAGMAGOLEM_NAME",
+            "path": "bosses.661",
             "text": "Flaming Magma Golem",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_KURENAI_OGRE_NAME",
-            "path": "bosses.660",
+            "path": "bosses.662",
+            "text": "Jungle Ogre",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_KURENAI_OGRE_NAME",
+            "path": "bosses.663",
             "text": "Jungle Ogre",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_KURENAI_LIZARDMAN_NAME",
-            "path": "bosses.662",
+            "path": "bosses.664",
+            "text": "Flaming Lizardman",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_KURENAI_LIZARDMAN_NAME",
+            "path": "bosses.665",
             "text": "Flaming Lizardman",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_KURENAI_WEREWOLF_NAME",
-            "path": "bosses.664",
+            "path": "bosses.666",
+            "text": "Jungle Werewolf",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_KURENAI_WEREWOLF_NAME",
+            "path": "bosses.667",
             "text": "Jungle Werewolf",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_KURENAI_IFRIT_NAME",
-            "path": "bosses.666",
+            "path": "bosses.668",
+            "text": "Flaming Ifrit",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_KURENAI_IFRIT_NAME",
+            "path": "bosses.669",
             "text": "Flaming Ifrit",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_KURENAI_ODA_NAME",
-            "path": "bosses.667",
+            "path": "bosses.670",
             "text": "Demon Lord of the Sixth Heaven",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_KURENAI_SPIRIT",
-            "path": "bosses.669",
+            "path": "bosses.671",
+            "text": "Revenant of Flames",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_KURENAI_SPIRIT",
+            "path": "bosses.672",
             "text": "Revenant of Flames",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_BANOUB_NAME",
-            "path": "bosses.670",
+            "path": "bosses.673",
             "text": "Camilla Banoub",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_DJER_NAME",
-            "path": "bosses.671",
+            "path": "bosses.674",
             "text": "Djer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_RAGE_NAME",
-            "path": "bosses.677",
+            "path": "bosses.675",
+            "text": "Manacar -Rage-",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_RAID_MANACAR_RAGE_NAME",
+            "path": "bosses.680",
             "text": "Manacar -Rage-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_RUIN_NAME",
-            "path": "bosses.678",
+            "path": "bosses.676",
+            "text": "Manacar -Ruin-",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_RAID_MANACAR_RUIN_NAME",
+            "path": "bosses.681",
             "text": "Manacar -Ruin-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_VOID_NAME",
-            "path": "bosses.679",
+            "path": "bosses.677",
+            "text": "Manacar -Void-",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_RAID_MANACAR_VOID_NAME",
+            "path": "bosses.682",
             "text": "Manacar -Void-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_KHASEKHEMWY_NAME",
-            "path": "bosses.675",
+            "path": "bosses.678",
             "text": "Khasekhemwy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_END_NAME",
-            "path": "bosses.676",
+            "path": "bosses.679",
             "text": "Manacar -The End-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_NARMER_NAME",
-            "path": "bosses.680",
+            "path": "bosses.683",
             "text": "Narmer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_REDDRAGON_NAME",
-            "path": "bosses.757",
+            "path": "bosses.684",
+            "text": "Dragon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_NAME",
+            "path": "bosses.761",
             "text": "Dragon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_REDDRAGON_01_NAME",
-            "path": "bosses.682",
+            "path": "bosses.685",
             "text": "Dark Dragon",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.686",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.687",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.688",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.689",
+            "text": "Magnax",
             "version": "4.7.0",
             "original": true
         },
@@ -13937,16 +15617,65 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BS_SANDWORM_NAME",
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
             "path": "bosses.691",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.692",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.693",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_NAME",
+            "path": "bosses.694",
             "text": "Sandworm",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_SANDWORM_01_NAME",
-            "path": "bosses.692",
+            "path": "bosses.695",
             "text": "Dark Sandworm",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.696",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.697",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.698",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.699",
+            "text": "Fenriruth",
             "version": "4.7.0",
             "original": true
         },
@@ -13958,456 +15687,540 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BS_TOPDISH_COOK_NAME",
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
             "path": "bosses.701",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.702",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.703",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_TOPDISH_COOK_NAME",
+            "path": "bosses.704",
             "text": "Fresh Ingredients",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_MON_CITY_ANCIENREGIME_NAME",
+            "path": "bosses.705",
+            "text": "Ancient Regime",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_MON_CITY_BOUILLABAISSE_NAME",
-            "path": "bosses.702",
+            "path": "bosses.706",
             "text": "Bouillabaisse",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_CITY_DOMPERIGNON_CONFUSE_NAME",
-            "path": "bosses.703",
+            "path": "bosses.707",
             "text": "Dom Peringnon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_CITY_MATAHARI_NAME",
-            "path": "bosses.704",
+            "path": "bosses.708",
             "text": "Matahari",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_DG_BUGLC_GOD_NAME",
-            "path": "bosses.705",
+            "path": "bosses.709",
             "text": "Sungmin of Darkness",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_DG_BS_RB_BOARBATUSK_NAME",
-            "path": "bosses.706",
+            "path": "bosses.710",
             "text": "Boarbatusk",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RB_NEO_NAME",
-            "path": "bosses.707",
+            "path": "bosses.711",
             "text": "Neopolitan",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RB_ROMAN_NAME",
-            "path": "bosses.708",
+            "path": "bosses.712",
             "text": "Roman Torchwick",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_DG_BS_RB_URSA_NAME",
-            "path": "bosses.709",
+            "path": "bosses.713",
             "text": "Ursa",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP5_BOSS_NAME",
-            "path": "bosses.710",
+            "path": "bosses.714",
             "text": "DioNemesis",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_CYBORG",
-            "path": "bosses.712",
+            "path": "bosses.716",
             "text": "Reinforcced Neth Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_CYBORG_HARD",
-            "path": "bosses.713",
+            "path": "bosses.717",
             "text": "Reinforced Elite Neth Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DEVIL_DYKE_HARD",
-            "path": "bosses.714",
+            "path": "bosses.718",
             "text": "Demon Type : D2",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DEVIL_DYKE_NORMAL",
-            "path": "bosses.715",
+            "path": "bosses.719",
             "text": "Demon Type : D",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DOG",
-            "path": "bosses.716",
+            "path": "bosses.720",
             "text": "Military Dog",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DOG_HARD",
-            "path": "bosses.717",
+            "path": "bosses.721",
             "text": "Elite Military Dog",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DYKE_NORMAL_NAME",
-            "path": "bosses.718",
+            "path": "bosses.722",
             "text": "Commander Dike",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_FIRETANK",
-            "path": "bosses.719",
+            "path": "bosses.723",
             "text": "Neth Flame Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_FIRETANK_HARD",
-            "path": "bosses.720",
+            "path": "bosses.724",
             "text": "Neth Hell Flame Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GOBLIN",
-            "path": "bosses.721",
+            "path": "bosses.725",
             "text": "Brainwashed Goblin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GOBLIN_HARD",
-            "path": "bosses.722",
+            "path": "bosses.726",
             "text": "Mind-Controlled Goblin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GUNMAN",
-            "path": "bosses.723",
+            "path": "bosses.727",
             "text": "Neth Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GUNMAN_HARD",
-            "path": "bosses.724",
+            "path": "bosses.728",
             "text": "Neth Elite Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_MEDIC",
-            "path": "bosses.725",
+            "path": "bosses.729",
             "text": "Neth Medic",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_MEDIC_HARD",
-            "path": "bosses.726",
+            "path": "bosses.730",
             "text": "Neth Elite Medic",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OFFICER",
-            "path": "bosses.727",
+            "path": "bosses.731",
             "text": "Neth Commander",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OFFICER_HARD",
-            "path": "bosses.728",
+            "path": "bosses.732",
             "text": "Neth Elite Commander",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OGRE",
-            "path": "bosses.729",
+            "path": "bosses.733",
             "text": "Brainwashed Ogre",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OGRE_HARD",
-            "path": "bosses.730",
+            "path": "bosses.734",
             "text": "Mind-Controlled Ogre",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_TANK_HARD",
-            "path": "bosses.737",
+            "path": "bosses.735",
+            "text": "Neth Heavy Tank",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_EP6_TANK_HARD",
+            "path": "bosses.741",
             "text": "Neth Heavy Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SCIENCE",
-            "path": "bosses.732",
+            "path": "bosses.736",
             "text": "Neth Scientist",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SCIENCE_HARD",
-            "path": "bosses.733",
+            "path": "bosses.737",
             "text": "Neth Elite Scientist",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SWORDMAN",
-            "path": "bosses.734",
+            "path": "bosses.738",
             "text": "Neth Warrior",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SWORDMAN_HARD",
-            "path": "bosses.735",
+            "path": "bosses.739",
             "text": "Neth Elite Warrior",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_TANK",
-            "path": "bosses.736",
+            "path": "bosses.740",
             "text": "Neth Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_WOLF",
-            "path": "bosses.738",
+            "path": "bosses.742",
             "text": "Brainwashed Werewolf",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_WOLF_HARD",
-            "path": "bosses.739",
+            "path": "bosses.743",
             "text": "Mind-Controlled Werewolf",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_YURIA_HARD",
-            "path": "bosses.740",
+            "path": "bosses.744",
             "text": "Demon Type : Y2",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_YURIA_NORMAL",
-            "path": "bosses.741",
+            "path": "bosses.745",
             "text": "Demon Type : Y",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_ZOMBIE",
-            "path": "bosses.742",
+            "path": "bosses.746",
             "text": "Zombie Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_ZOMBIE_HARD",
-            "path": "bosses.743",
+            "path": "bosses.747",
             "text": "Elite Zombie Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_CHEIF_NAME",
-            "path": "bosses.744",
+            "path": "bosses.748",
             "text": "Goblin Chief",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_CHIEF_CHALLENGE_NAME",
-            "path": "bosses.745",
+            "path": "bosses.749",
             "text": "Desperate Goblin Chief",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_KINGTIGER_CHALLENGE_NAME",
-            "path": "bosses.746",
+            "path": "bosses.750",
             "text": "Catapult No.6",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_MASTER_CHALLENGE_NAME",
-            "path": "bosses.747",
+            "path": "bosses.751",
             "text": "Crouching Ox",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_WINDWALKER_CHALLENGE_NAME",
-            "path": "bosses.748",
+            "path": "bosses.752",
             "text": "Windstrider",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
-            "path": "bosses.752",
+            "path": "bosses.753",
+            "text": "Petelgeuse Romanée-Conti",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
+            "path": "bosses.754",
+            "text": "Petelgeuse Romanée-Conti",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
+            "path": "bosses.755",
+            "text": "Petelgeuse Romanée-Conti",
+            "version": "4.12.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
+            "path": "bosses.756",
             "text": "Petelgeuse Romanée-Conti",
             "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_05",
-            "path": "bosses.753",
+            "path": "bosses.757",
             "text": "Mutated Petelgeuse Romanée-Conti",
             "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_PALACE_RESIDULLION_NAME",
-            "path": "bosses.754",
+            "path": "bosses.758",
             "text": "The Abandoned Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_PALACE_RE_BOUILLABAISSE_NAME",
-            "path": "bosses.755",
+            "path": "bosses.759",
             "text": "Enhanced Bouillabaisse",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_PALACE_RE_DOMPERIGNON_NAME",
-            "path": "bosses.756",
+            "path": "bosses.760",
             "text": "Revived Dom Perignon",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_MON_RAT_AZATHOTH_NAME",
+            "path": "bosses.762",
+            "text": "Blind and Foolish Mother",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_MON_RAT_BOMB_3G_NAME",
-            "path": "bosses.758",
+            "path": "bosses.763",
             "text": "Grease",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_FIGHT_3G_NAME",
-            "path": "bosses.759",
+            "path": "bosses.764",
             "text": "Georgia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_GERALT_NAME",
-            "path": "bosses.760",
+            "path": "bosses.765",
             "text": "White Reaper Geralt",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_GG_NAME",
-            "path": "bosses.761",
+            "path": "bosses.766",
             "text": "Georg & Geralt",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_HUNT_3G_NAME",
-            "path": "bosses.762",
+            "path": "bosses.767",
             "text": "Gujarat",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_LEESIN_NAME",
-            "path": "bosses.763",
+            "path": "bosses.768",
             "text": "Blind Swordsman Ratoichi",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_RUDERAT_CHALLENGE_NAME",
-            "path": "bosses.764",
+            "path": "bosses.769",
             "text": "Tyrant Rudrat",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RUDRAT_NAME",
-            "path": "bosses.765",
+            "path": "bosses.770",
             "text": "Rudrat",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SHADOWDEVIL_FINAL_NAME",
-            "path": "bosses.766",
+            "path": "bosses.771",
             "text": "Hybrid Shadowdemon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SHADOWDEVIL_FINAL_CHALLENGE_NAME",
-            "path": "bosses.767",
+            "path": "bosses.772",
             "text": "Freed Hybrid Shadowdemon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_SOLTAR_NAME",
-            "path": "bosses.771",
+            "path": "bosses.773",
+            "text": "Lord of Souls Soltar",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SOLTAR_NAME",
+            "path": "bosses.774",
+            "text": "Lord of Souls Soltar",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SOLTAR_NAME",
+            "path": "bosses.775",
+            "text": "Lord of Souls Soltar",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_SOLTAR_NAME",
+            "path": "bosses.776",
             "text": "Lord of Souls Soltar",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_TURRET_NAME",
-            "path": "bosses.772",
+            "path": "bosses.777",
             "text": "Neth Turret Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_NPC_DEEMO_NAME",
-            "path": "bosses.773",
+            "path": "bosses.778",
             "text": "Deemo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_DG_FURY_SOLDIER_NAME",
-            "path": "bosses.775",
+            "path": "bosses.780",
             "text": "Raged Puppet",
             "version": "4.7.0",
             "original": true

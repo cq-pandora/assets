@@ -9316,6 +9316,23 @@
         "dmg_reduction": 0
     },
     {
+        "id": "MON_BOSS_S2_EP2_ANUBISIS_H_CHALLENGE",
+        "name": "TEXT_MON_BOSS_S2_EP2_ANUBISIS_NAME",
+        "image": "mon_anubisis_h",
+        "atk_power": 19800,
+        "hp": 16329600,
+        "crit_chance": 0.6,
+        "armor": 3600,
+        "resistance": 3600,
+        "crit_dmg": 0.6,
+        "accuracy": 0.6,
+        "evasion": 0.5,
+        "lifesteal": 0,
+        "armor_pen": 3600,
+        "resistance_pen": 3600,
+        "dmg_reduction": 0.5
+    },
+    {
         "id": "MON_BOSS_S2_EP2_BETA",
         "name": "TEXT_MON_BOSS_S2_EP2_BETA_NAME",
         "image": "mon_beta",
@@ -9707,6 +9724,23 @@
         "dmg_reduction": 0
     },
     {
+        "id": "MON_BOSS_S2_EP2_JERAPHIM_H_CHALLENGE",
+        "name": "TEXT_MON_BOSS_S2_EP2_JERAPHIM_NAME",
+        "image": "mon_jeraphim_h",
+        "atk_power": 21780,
+        "hp": 17962560,
+        "crit_chance": 0.6,
+        "armor": 3600,
+        "resistance": 3600,
+        "crit_dmg": 0.6,
+        "accuracy": 0.6,
+        "evasion": 0.5,
+        "lifesteal": 0,
+        "armor_pen": 3600,
+        "resistance_pen": 3600,
+        "dmg_reduction": 0.5
+    },
+    {
         "id": "MON_BOSS_S2_EP2_MHORUS",
         "name": "TEXT_MON_BOSS_S2_EP2_MHORUS_NAME",
         "image": "mon_horusm",
@@ -9892,6 +9926,23 @@
         "armor_pen": 300,
         "resistance_pen": 300,
         "dmg_reduction": 0
+    },
+    {
+        "id": "MON_BOSS_S2_EP2_SEKHMET_H_CHALLENGE",
+        "name": "TEXT_MON_BOSS_S2_EP2_SEKHMET_NAME",
+        "image": "mon_sekhmet_h",
+        "atk_power": 23760,
+        "hp": 19595520,
+        "crit_chance": 0.5,
+        "armor": 4320,
+        "resistance": 4320,
+        "crit_dmg": 0.5,
+        "accuracy": 0.5,
+        "evasion": 0.4,
+        "lifesteal": 0,
+        "armor_pen": 3000,
+        "resistance_pen": 3000,
+        "dmg_reduction": 0.4
     },
     {
         "id": "MON_BOSS_S2_EP2_SONOFGEB",
@@ -11934,6 +11985,23 @@
         "dmg_reduction": 0
     },
     {
+        "id": "MON_CITY_ANCIENREGIME_CHALLENGE",
+        "name": "TEXT_MON_CITY_ANCIENREGIME_NAME",
+        "image": "mon_city_ancienregime",
+        "atk_power": 14400,
+        "hp": 15120000,
+        "crit_chance": 0.48,
+        "armor": 2400,
+        "resistance": 2400,
+        "crit_dmg": 1.4,
+        "accuracy": 0.54,
+        "evasion": 0.72,
+        "lifesteal": 0,
+        "armor_pen": 3000,
+        "resistance_pen": 3000,
+        "dmg_reduction": 0.14
+    },
+    {
         "id": "MON_CITY_BOUILLABAISSE_CHALLENGE",
         "name": "TEXT_MON_CITY_BOUILLABAISSE_NAME",
         "image": "mon_city_bouillabaisse",
@@ -12884,6 +12952,23 @@
         "armor_pen": 0,
         "resistance_pen": 0,
         "dmg_reduction": 0
+    },
+    {
+        "id": "MON_RAT_AZATHOTH_CHALLENGE",
+        "name": "TEXT_MON_RAT_AZATHOTH_NAME",
+        "image": "mon_rat_azathoth",
+        "atk_power": 14400,
+        "hp": 12096000,
+        "crit_chance": 0.48,
+        "armor": 2400,
+        "resistance": 2400,
+        "crit_dmg": 1.4,
+        "accuracy": 0.54,
+        "evasion": 0.72,
+        "lifesteal": 0,
+        "armor_pen": 3000,
+        "resistance_pen": 3000,
+        "dmg_reduction": 0.14
     },
     {
         "id": "MON_RAT_BOMB_3G_CHALLENGE",
