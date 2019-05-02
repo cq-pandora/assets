@@ -129,7 +129,7 @@
     },
     {
         "id": "SIS_WINTER",
-        "name": "TEXT_DIONE_NAME",
+        "name": "TEXT_DIONNE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
         "skill_description": "TEXT_SIS_SKILL_WINTER_DESC",
@@ -137,7 +137,7 @@
     },
     {
         "id": "SIS_WINTER_HEAD_1_LV0",
-        "name": "TEXT_DIONE_NAME",
+        "name": "TEXT_DIONNE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
         "skill_description": "TEXT_SIS_SKILL_WINTER_DESC",
@@ -145,7 +145,7 @@
     },
     {
         "id": "SIS_WINTER_HEAD_1_LV1",
-        "name": "TEXT_DIONE_NAME",
+        "name": "TEXT_DIONNE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
         "skill_description": "TEXT_SIS_SKILL_WINTER_DESC",
@@ -153,10 +153,18 @@
     },
     {
         "id": "SIS_WINTER_HEAD_1_LV2",
-        "name": "TEXT_DIONE_NAME",
+        "name": "TEXT_DIONNE_NAME",
         "image": "sis_5",
         "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
         "skill_description": "TEXT_SIS_SKILL_WINTER_DESC",
         "ingame_id": "SIS_WINTER_HEAD_1_LV2"
+    },
+    {
+        "id": "SIS_WINTER_S2",
+        "name": "TEXT_DIONNE_NAME",
+        "image": "sis_5_s2",
+        "skill_name": "TEXT_SIS_SKILL_WINTER_NAME",
+        "skill_description": "TEXT_SIS_SKILL_WINTER_DESC",
+        "ingame_id": "SIS_WINTER_S2"
     }
 ]

@@ -11441,6 +11441,23 @@
         "dmg_reduction": 0.9
     },
     {
+        "id": "MON_BS_RAID_AVATAR_LOKI",
+        "name": "TEXT_MON_BS_RAID_AVARTAR_LOKI_NAME",
+        "image": "mon_bs_avatar_loki",
+        "atk_power": 32400,
+        "hp": 62370000,
+        "crit_chance": 0.48,
+        "armor": 6480,
+        "resistance": 6480,
+        "crit_dmg": 2.1,
+        "accuracy": 0.54,
+        "evasion": 0.6,
+        "lifesteal": 0,
+        "armor_pen": 4500,
+        "resistance_pen": 4500,
+        "dmg_reduction": 0.3
+    },
+    {
         "id": "MON_BS_RAID_BANOUB",
         "name": "TEXT_MON_BS_RAID_BANOUB_NAME",
         "image": "mon_banoub",
@@ -11456,6 +11473,23 @@
         "armor_pen": 3000,
         "resistance_pen": 3000,
         "dmg_reduction": 0.21
+    },
+    {
+        "id": "MON_BS_RAID_BJORN",
+        "name": "TEXT_MON_BS_RAID_BJORN_NAME",
+        "image": "mon_bs_bjorn",
+        "atk_power": 16875,
+        "hp": 19845000,
+        "crit_chance": 0.35,
+        "armor": 3712,
+        "resistance": 3712,
+        "crit_dmg": 2.25,
+        "accuracy": 0.6,
+        "evasion": 0.55,
+        "lifesteal": 0,
+        "armor_pen": 2475,
+        "resistance_pen": 2475,
+        "dmg_reduction": 0.2
     },
     {
         "id": "MON_BS_RAID_DJER",
@@ -11526,6 +11560,23 @@
         "dmg_reduction": 0
     },
     {
+        "id": "MON_BS_RAID_HUGI",
+        "name": "TEXT_MON_BS_RAID_HUGI_NAME",
+        "image": "mon_bs_hugi",
+        "atk_power": 11250,
+        "hp": 19845000,
+        "crit_chance": 0.21,
+        "armor": 2925,
+        "resistance": 2925,
+        "crit_dmg": 1.4,
+        "accuracy": 0.49,
+        "evasion": 0.35,
+        "lifesteal": 0,
+        "armor_pen": 1365,
+        "resistance_pen": 1365,
+        "dmg_reduction": 0.105
+    },
+    {
         "id": "MON_BS_RAID_KHASEKHEMWY",
         "name": "TEXT_MON_BS_RAID_KHASEKHEMWY_NAME",
         "image": "mon_khasekhemwy",
@@ -11541,6 +11592,23 @@
         "armor_pen": 1650,
         "resistance_pen": 1650,
         "dmg_reduction": 0.14
+    },
+    {
+        "id": "MON_BS_RAID_LOGI",
+        "name": "TEXT_MON_BS_RAID_LOGI_NAME",
+        "image": "mon_bs_logi",
+        "atk_power": 6000,
+        "hp": 12408750,
+        "crit_chance": 0.175,
+        "armor": 1575,
+        "resistance": 1575,
+        "crit_dmg": 1.5,
+        "accuracy": 0.315,
+        "evasion": 0.315,
+        "lifesteal": 0,
+        "armor_pen": 1500,
+        "resistance_pen": 1500,
+        "dmg_reduction": 0.07
     },
     {
         "id": "MON_BS_RAID_MANACAR_END",

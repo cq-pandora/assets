@@ -5239,7 +5239,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_panpan_default"
+        ],
         "skins": [
             {
                 "id": 21,
@@ -10701,7 +10703,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_momotaro_default"
+        ],
         "skins": [
             {
                 "id": 58,
@@ -10846,7 +10850,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_luicilla_default"
+        ],
         "skins": [
             {
                 "id": 61,
@@ -11677,12 +11683,13 @@
         "skins": []
     },
     {
-        "id": "ag01-_neo",
-        "readableId": "ag01-_neo",
+        "id": "ag01-neo",
+        "readableId": "ag01-neo",
+        "faction": "neth_empire",
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "NONEGROUP",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_ARMOR_4_1",
@@ -11802,12 +11809,13 @@
         "skins": []
     },
     {
-        "id": "ag02-_layla",
-        "readableId": "ag02-_layla",
+        "id": "ag02-layla",
+        "readableId": "ag02-layla",
+        "faction": "neth_empire",
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "NONEGROUP",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_ARMOR_4_2",
@@ -11927,12 +11935,13 @@
         "skins": []
     },
     {
-        "id": "ag03-_mel",
-        "readableId": "ag03-_mel",
+        "id": "ag03-mel",
+        "readableId": "ag03-mel",
+        "faction": "neth_empire",
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "NONEGROUP",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_ARMOR_4_3",
@@ -31998,7 +32007,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_izuna_default"
+        ],
         "skins": [
             {
                 "id": 242,

@@ -75,15 +75,22 @@
         "portrait_ringhint_default",
         "portrait_susanoohint_default"
     ],
-    "TEXT_DIONE_NAME": [
+    "TEXT_DIONNE_NAME": [
         "portrait_dione_default",
+        "portrait_sisdione2_default",
         "portrait_dione_think",
         "portrait_dione_sad",
         "portrait_dione_surprise",
         "portrait_dione_angry",
         "portrait_dione_pain",
         "portrait_dione_dark",
-        "portrait_dione_evil"
+        "portrait_dione_evil",
+        "portrait_sisdione2_angry",
+        "portrait_sisdione2_surprise",
+        "portrait_sisdione2_frown",
+        "portrait_sisdione2_sad",
+        "portrait_sisdione2_smile",
+        "portrait_sisdione2_pain"
     ],
     "TEXT_CRONOS_NAME": [
         "portrait_cronos_default",
@@ -111,13 +118,11 @@
     ],
     "TEXT_NPC_SHOP_NAME": [
         "portrait_brigit_default",
-        "portrait_sisdog_impassive",
-        "portrait_sisdog_shy",
-        "portrait_sisdog_sad",
-        "portrait_sisdog_angry",
-        "portrait_sisdog_shy_2",
-        "portrait_sisdog_shy_quest",
-        "portrait_sisdog_surprise_quest"
+        "portrait_sisdione2_angry",
+        "portrait_sisdione2_madness",
+        "portrait_sisdione2_sad",
+        "portrait_sisdione2_surprise",
+        "portrait_sisdione2_default"
     ],
     "TEXT_NPC_WEAPON_NAME": [
         "portrait_fugus_default",
@@ -155,10 +160,10 @@
         "portrait_rednas_sigh",
         "portrait_rednas_angry",
         "portrait_rednas_pain",
-        "portrait_sisdog_default",
-        "portrait_sisdog_pain",
-        "portrait_sisdog_smile",
-        "portrait_sisdog_surprise",
+        "portrait_sisdione2_default",
+        "portrait_sisdione2_frown",
+        "portrait_sisdione2_pain",
+        "portrait_sisdione2_smile",
         "portrait_rednas_smilet",
         "portrait_rednasdress_default",
         "portrait_rednasdress_sad",
@@ -820,6 +825,18 @@
     "TEXT_CHA_WI_6_24_NAME": [
         "portrait_lacies_default"
     ],
+    "TEXT_CHA_PA_6_23_NAME": [
+        "portrait_heim_default"
+    ],
+    "TEXT_CHA_PR_6_23_NAME": [
+        "portrait_varnir_default"
+    ],
+    "TEXT_CHA_WA_6_27_NAME": [
+        "portrait_roskva_default"
+    ],
+    "TEXT_MON_BS_RAID_AVARTAR_LOKI_NAME": [
+        "portrait_avatarloki_default"
+    ],
     "TEXT_CHA_AR_2_6_NAME": [
         "portrait_sigruna_default",
         "portrait_sigrunamax_default"
@@ -989,6 +1006,15 @@
     ],
     "TEXT_CHA_AR_5_21_NAME": [
         "portrait_set_default"
+    ],
+    "TEXT_CHA_AR_4_23_NAME": [
+        "portrait_panpan_default"
+    ],
+    "TEXT_CHA_AR_5_23_NAME": [
+        "portrait_panpan_default"
+    ],
+    "TEXT_CHA_AR_6_23_NAME": [
+        "portrait_panpan_default"
     ],
     "TEXT_CHA_HU_2_6_NAME": [
         "portrait_dart_default",
@@ -1168,6 +1194,24 @@
     ],
     "TEXT_CHA_HU_6_17_NAME": [
         "portrait_scarlet_default"
+    ],
+    "TEXT_CHA_HU_4_19_NAME": [
+        "portrait_momotaro_default"
+    ],
+    "TEXT_CHA_HU_5_19_NAME": [
+        "portrait_momotaro_default"
+    ],
+    "TEXT_CHA_HU_6_19_NAME": [
+        "portrait_momotaro_default"
+    ],
+    "TEXT_CHA_HU_4_20_NAME": [
+        "portrait_luicilla_default"
+    ],
+    "TEXT_CHA_HU_5_20_NAME": [
+        "portrait_luicilla_default"
+    ],
+    "TEXT_CHA_HU_6_20_NAME": [
+        "portrait_luicilla_default"
     ],
     "TEXT_CHA_HU_4_21_NAME": [
         "portrait_athos_default"
@@ -1388,9 +1432,6 @@
     "TEXT_CHA_PA_5_23_NAME": [
         "portrait_heim_default"
     ],
-    "TEXT_CHA_PA_6_23_NAME": [
-        "portrait_heim_default"
-    ],
     "TEXT_CHA_PR_2_6_NAME": [
         "portrait_maria_default"
     ],
@@ -1560,9 +1601,6 @@
         "portrait_varnir_default"
     ],
     "TEXT_CHA_PR_5_23_NAME": [
-        "portrait_varnir_default"
-    ],
-    "TEXT_CHA_PR_6_23_NAME": [
         "portrait_varnir_default"
     ],
     "TEXT_CHA_WA_1_3_NAME": [
@@ -1793,13 +1831,19 @@
     "TEXT_CHA_WA_5_21_NAME": [
         "portrait_isis_default"
     ],
+    "TEXT_CHA_WA_4_22_NAME": [
+        "portrait_izuna_default"
+    ],
+    "TEXT_CHA_WA_5_22_NAME": [
+        "portrait_izuna_default"
+    ],
+    "TEXT_CHA_WA_6_22_NAME": [
+        "portrait_izuna_default"
+    ],
     "TEXT_CHA_WA_4_27_NAME": [
         "portrait_roskva_default"
     ],
     "TEXT_CHA_WA_5_27_NAME": [
-        "portrait_roskva_default"
-    ],
-    "TEXT_CHA_WA_6_27_NAME": [
         "portrait_roskva_default"
     ],
     "TEXT_CHA_WI_1_3_NAME": [

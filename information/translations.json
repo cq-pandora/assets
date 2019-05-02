@@ -7230,8 +7230,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_4_1_NAME": {
-        "text": "AG01- Neo",
-        "version": "4.7.0",
+        "text": "AG01-Neo",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_4_2_DESC": {
@@ -7240,8 +7240,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_4_2_NAME": {
-        "text": "AG02- Layla",
-        "version": "4.7.0",
+        "text": "AG02-Layla",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_4_3_DESC": {
@@ -7250,8 +7250,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_4_3_NAME": {
-        "text": "AG03- Mel",
-        "version": "4.7.0",
+        "text": "AG03-Mel",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_5_1_DESC": {
@@ -7260,8 +7260,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_5_1_NAME": {
-        "text": "AG01- Neo",
-        "version": "4.7.0",
+        "text": "AG01-Neo",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_5_2_DESC": {
@@ -7270,8 +7270,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_5_2_NAME": {
-        "text": "AG02- Layla",
-        "version": "4.7.0",
+        "text": "AG02-Layla",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_5_3_DESC": {
@@ -7280,8 +7280,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_5_3_NAME": {
-        "text": "AG03- Mel",
-        "version": "4.7.0",
+        "text": "AG03-Mel",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_6_1_DESC": {
@@ -7290,8 +7290,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_6_1_NAME": {
-        "text": "AG01- Neo",
-        "version": "4.7.0",
+        "text": "AG01-Neo",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_6_2_DESC": {
@@ -7300,8 +7300,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_6_2_NAME": {
-        "text": "AG02- Layla",
-        "version": "4.7.0",
+        "text": "AG02-Layla",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_6_3_DESC": {
@@ -7310,8 +7310,8 @@
         "original": true
     },
     "TEXT_CHA_HU_ARMOR_6_3_NAME": {
-        "text": "AG03- Mel",
-        "version": "4.7.0",
+        "text": "AG03-Mel",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_CHA_HU_LIMITED_GG_4_1_DESC": {
@@ -35765,8 +35765,8 @@
         "original": true
     },
     "TEXT_REPORT_COMPLETE_DESC": {
-        "text": "Your report has been registered.",
-        "version": "4.7.0",
+        "text": "Your report has been successfully filed.\n\nNo. of Reports Left Today: {0}",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_REPORT_COMPLETE_TITLE": {
@@ -35775,8 +35775,8 @@
         "original": true
     },
     "TEXT_REPORT_COOLTIME_DESC": {
-        "text": "You can only report a user once per 24 hours.",
-        "version": "4.7.0",
+        "text": "You have already reported this user.",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_REPORT_COOLTIME_TIME": {
@@ -57490,8 +57490,8 @@
         "original": true
     },
     "TEXT_BAKERY_OVEN_AD_DESC1": {
-        "text": "3~6",
-        "version": "4.7.0",
+        "text": "4~6",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_BAKERY_OVEN_AD_DESC2": {
@@ -57500,8 +57500,8 @@
         "original": true
     },
     "TEXT_BAKERY_OVEN_AD_DESC3": {
-        "text": "5 ADs",
-        "version": "4.7.0",
+        "text": "Fifth Time",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_BAKERY_OVEN_EXLARGE_DESC1": {
@@ -65240,8 +65240,8 @@
         "original": true
     },
     "TEXT_HELP_10206_MAIN_DESC": {
-        "text": "1. Use Ovens in Chocolat's Bakery to receive Bread every few hours.\n2. Each Oven requires a different amount of time to finish baking, and gives different types of bread upon completion.\n3. You can use Jewels to immediately finish baking.\n4. The Mysterious Oven can be used 10 times a day by watching ads.",
-        "version": "4.7.0",
+        "text": "1. Use Ovens in Chocolat's Bakery to receive Bread every few hours.\n2. Each Oven requires a different amount of time to finish baking, and gives different types of bread upon completion.\n3. You can use Jewels to immediately finish baking.\n4. The Mysterious Oven can be used 5 times a day by watching ads.",
+        "version": "4.14.1",
         "original": true
     },
     "TEXT_HELP_10207_MAIN": {
@@ -86567,6 +86567,936 @@
     "TEXT_WEP_LEGEND_PA_CHA_6_26_NAME": {
         "text": "Gungnir",
         "version": "4.14.0",
+        "original": true
+    },
+    "TEXT_DIONNE_NAME": {
+        "text": "Dionne",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHALLENGERAID_PACK_DESC": {
+        "text": "Get 2 Jewels, Treasure of Trista, and Canopic Jars at once!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHALLENGERAID_PACK_MAIL_CONTENT": {
+        "text": "Here is your purchase of the Raids and Challenges Package.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHALLENGERAID_PACK_NAME": {
+        "text": "Raids and Challenges Package",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHAT_PENALTY_DESC": {
+        "text": "You have been temporarily restricted from chatting due to multiple reports on your recent messages. You will be subject to stricter regulations if you receive more reports.\n\nTime Left {0:00}:{1:00}",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHAT_PENALTY_TITLE": {
+        "text": "Chatting Restricted!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHOICE_CARVESTONE": {
+        "text": "Sigil Selection Ticket",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHOICE_CARVESTONE_HELP": {
+        "text": "A document bestowing the rights to a Sigil of your choice.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHOICE_CARVESTONE_POPUP_DESC": {
+        "text": "Are you sure you wish to select this Sigil?",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHOICE_CARVESTONE_POPUP_TITLE": {
+        "text": "Select Sigil",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_1_DESC": {
+        "text": "A part of Logi's armor. It moves on its own, as if trying to return to its owner.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_1_TITLE": {
+        "text": "Frozen Pauldron",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_2_DESC": {
+        "text": "An icicle that used to form Hugi's body. It is surprisingly light due to its insides being hollow.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_2_TITLE": {
+        "text": "Icicle Fragment",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_3_DESC": {
+        "text": "A flexible steel plate that once supported Logi's icy body.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_3_TITLE": {
+        "text": "Metal Rib",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_4_DESC": {
+        "text": "The horn that decorated Bjorn's helmet. It is said to have come from an animal long extinct.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_DEF_EP2_STONE_4_TITLE": {
+        "text": "Ancient Buffalo Horn",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_1_DESC": {
+        "text": "Armor +225",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_1_NAME": {
+        "text": "Logi's Chill",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_2_DESC": {
+        "text": "Resistance +225",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_2_NAME": {
+        "text": "Bjorn's Loss",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_3_DESC": {
+        "text": "Armor +250\nDamage Reduction +3%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_3_NAME": {
+        "text": "Bjorn's Nightmare",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_4_DESC": {
+        "text": "Resistance +250\nDamage Reduction +3%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_DEFENCE_4_NAME": {
+        "text": "Grace of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_MAGIC_1_DESC": {
+        "text": "Resistance Penetration +225\nAttack Power +225",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_MAGIC_1_NAME": {
+        "text": "Agony of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_MAGIC_2_DESC": {
+        "text": "Upon using 1-chain, accuracy is increased by 5% for 1 second\nUpon using 3-chain, resistance penetration is increased by 775 for 1 second",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_MAGIC_2_NAME": {
+        "text": "Hugi's White Night",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_PHYSIC_1_DESC": {
+        "text": "Armor Penetration +225\nAttack Power +225",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_PHYSIC_1_NAME": {
+        "text": "Logi's Frost",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_PHYSIC_2_DESC": {
+        "text": "Upon using 1-chain, accuracy is increased by 5% for 1 second\nUpon using 3-chain, armor penetration is increased by 775 for 1 second",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_EP2_PHYSIC_2_NAME": {
+        "text": "Hugi's Polar Light",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_MAG_EP2_STONE_1_DESC": {
+        "text": "A snowflake from the highest peak of the Utgard Mountains. Even the passing of the ages has failed to taint its original purity.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_MAG_EP2_STONE_1_TITLE": {
+        "text": "Recrystalized Snowflake",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_MAG_EP2_STONE_2_DESC": {
+        "text": "Legends of old say these chains cannot be broken. Yet, they have been broken.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_MAG_EP2_STONE_2_TITLE": {
+        "text": "Chains of the Seal",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_PHY_EP2_STONE_1_DESC": {
+        "text": "An axe head that proves the status of the Royal Guards of Nosgard. On it are inscribed the words \"Third Generation of the Royal Guards.'",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_PHY_EP2_STONE_1_TITLE": {
+        "text": "Royal Guard's Axe head",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_PHY_EP2_STONE_2_DESC": {
+        "text": "These gigantic shackles are engraved with a single word of a language lost in time: 'Utgard.'",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_SET_PHY_EP2_STONE_2_TITLE": {
+        "text": "Engraved Shackles",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COMMON_VAMP_STONE_2_OPTION_DESC": {
+        "text": "Life Steal +2%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COUNT": {
+        "text": "{0}/{1}",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COUNT_DAY": {
+        "text": "{0}/{1} Daily",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COUNT_MONTH": {
+        "text": "{0}/{1} Monthly",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_COUNT_WEEK": {
+        "text": "{0}/{1} Weekly",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_DUNGEON_RAID_SEALOFSANCTUARY_DESC": {
+        "text": "A sinister jester seeks to break the Seal of the Sanctuary.\nHelp Lakias and the Guardians protect Nosgard from his clutches.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_DUNGEON_RAID_SEALOFSANCTUARY_NAME": {
+        "text": "Seal of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_CRIT_POWER_STONE_2_OPTION_DESC": {
+        "text": "Critical Damage +25%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_1_DESC": {
+        "text": "Only this metal sphere was found where Logi's heart should have been. On it are inscribed the old Haslan words of a magical contract with an elemental spirit.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_1_TITLE": {
+        "text": "Logi's Core",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_2_DESC": {
+        "text": "A 'megingjord,' a part of the uniform once worn by the Royal Guards of Ancient Nosgard. Its technology has been lost to time, and only Thor's 'megingjord' remains intact to this day. It greatly increases the strength of the wearer.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_2_TITLE": {
+        "text": "Bjorn's Belt",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_3_DESC": {
+        "text": "A circular disc that fell from Bjorn's broken shield. It appears to have been crafted out of 'Svalinn,' a magical substance that freezes everything upon contact.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_3_TITLE": {
+        "text": "Bjorn's Shield",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_4_DESC": {
+        "text": "A fragment of the Seal of the Sanctuary that materialized after being frozen by the Incarnate's powers. It may have weakened with time, but its powers are still a force to be reckoned with.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_DEF_EP2_STONE_4_TITLE": {
+        "text": "Seal of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_1_DESC": {
+        "text": "Armor +750",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_1_NAME": {
+        "text": "Logi's Brilliant Chill",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_2_DESC": {
+        "text": "Resistance +750",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_2_NAME": {
+        "text": "Bjorn's Brilliant Loss",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_3_DESC": {
+        "text": "Armor +1000\nDamage Reduction +10%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_3_NAME": {
+        "text": "Bjorn's Brilliant Nightmare",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_4_DESC": {
+        "text": "Resistance +1000\nDamage Reduction +10%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_DEFENCE_4_NAME": {
+        "text": "Brilliant Grace of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_MAGIC_1_DESC": {
+        "text": "Resistance Penetration +750\nAttack Power +750",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_MAGIC_1_NAME": {
+        "text": "Brilliant Agony of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_MAGIC_2_DESC": {
+        "text": "Upon using 1-chain, accuracy is increased by 30% for 1 second\nUpon using 3-chain, resistance penetration is increased by 2000 for 1 second",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_MAGIC_2_NAME": {
+        "text": "Hugi's Brilliant White Night",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_PHYSIC_1_DESC": {
+        "text": "Armor Penetration +750\nAttack Power +750",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_PHYSIC_1_NAME": {
+        "text": "Logi's Brilliant Frost",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_PHYSIC_2_DESC": {
+        "text": "Upon using 1-chain, accuracy is increased by 30% for 1 second\nUpon using 3-chain, armor penetration is increased by 2000 for 1 second",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_EP2_PHYSIC_2_NAME": {
+        "text": "Hugi's Brilliant Polar Light",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_MAG_EP2_STONE_1_DESC": {
+        "text": "The cold winds of Nosgard that have materialized into the shape of a fang. It freezes and demolishes its victims with biting fury.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_MAG_EP2_STONE_1_TITLE": {
+        "text": "Fang of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_MAG_EP2_STONE_2_DESC": {
+        "text": "A particle of the first snow to ever envelop the northern lands, long before the memory of the Great Cold and all that would come with it.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_MAG_EP2_STONE_2_TITLE": {
+        "text": "Hugi's Memory",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_PHY_EP2_STONE_1_DESC": {
+        "text": "The gauntlet 'Jarngreipr' contains within it the essence of the cold of the northern lands. Upon gripping its victim, it freezes them into helplessness.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_PHY_EP2_STONE_1_TITLE": {
+        "text": "Logi's Gauntlet",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_PHY_EP2_STONE_2_DESC": {
+        "text": "The essence of an ever-raging storm. It reacts to the surrounding air currents by changing in size.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_SET_PHY_EP2_STONE_2_TITLE": {
+        "text": "Hugi's Gust",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_EPIC_VAMP_STONE_2_OPTION_DESC": {
+        "text": "Life Steal +8%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_FISHING_CHANGE_FISHERY": {
+        "text": "Change Fishing Spot",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_SALMON_DECOY_DESC": {
+        "text": "Salmon figurines had to be ordered for the latest Fishing Competition due to the sudden decrease in the salmon population. If this continues, we may have to change the annual 'Salmon Fishing Contest' to the 'Plastic Figurine Fishing Contest.'",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_FISH_EVENT_SALMON_DECOY_NAME": {
+        "text": "Salmon Figurine",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_HELP_S2_EP2_RAID": {
+        "text": "1. This feature is unlocked after clearing Episode 2 of the Kalard Chronicles.\n2. You can earn Set Sigils upon clearing the raid.\n3. Loki Incarnate and his monsters regularly unleash their strength to become stronger throughout the battle. Make sure to cancel their buffs and attack.\n4. Boss Monsters will threaten Heroes with chains of the Sanctuary upon reaching a certain point of their HP. Quickly destroy the chains to avoid damage!\n5. When the screen completely freezes over, your line of sight becomes impaired and Heroes receive additional damage. Use a Goddess Skill to clear the frost.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MATERIAL_RAID_SEALOFSANCTUARY": {
+        "text": "Fragments of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MATERIAL_RAID_SEALOFSANCTUARY_DESC": {
+        "text": "A small fragment that fell out from the broken Seal of the Sanctuary. Alchemists are collecting these pieces to study the mechanics of the Seal.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MONUMENT_SEALOFSANCTUARY_DESC": {
+        "text": "The key to the Sanctuary has been safeguarded by its Guardians in four fragments. It is said to be a symbol of might, bestowed long ago to the Tribe of Winter Wind by the Goddess of Light herself.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MONUMENT_SEALOFSANCTUARY_NAME": {
+        "text": "Complete Key to the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MON_BS_RAID_AVARTAR_LOKI_NAME": {
+        "text": "Loki Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MON_BS_RAID_BJORN_NAME": {
+        "text": "Bjorn",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MON_BS_RAID_HUGI_NAME": {
+        "text": "Hugi",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MON_BS_RAID_LOGI_NAME": {
+        "text": "Logi",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MULTI_WAITING_CONNECT": {
+        "text": "Connecting to the other player...",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_MY_HEROES": {
+        "text": "My Heroes",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_NOTYET_SEALOFSANCTUARY": {
+        "text": "You can enter the stage after clearing all stages in Episode 2 of the Kalard Chronicles.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_OPTION_D_CHAT_OFF": {
+        "text": "Turn Off User Chat",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_SEALOFSANCTUARY": {
+        "text": "Seal of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_2_SET": {
+        "text": "Chest of Laegjarn",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_2_SET_HELP": {
+        "text": "A chest found hidden under the ice and snow of the Sanctuary.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_2_SET_LOW_HELP": {
+        "text": "A chest from which you can randomly obtain one of the set Sigils from the Seal of the Sanctuary.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_SET_2_LOW": {
+        "text": "Chest of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_CARVESTONE_SET_2_MIDDLE": {
+        "text": "Luxurious Chest of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T2_NAME": {
+        "text": "Intact Black Cat Box",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T2_NAME": {
+        "text": "Mossy Black Cat Box",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_CHALLNGE_GRADE2_HELP": {
+        "text": "A chest containing one random Unique Sigil from the Temple of Illusions.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_CHALLNGE_GRADE2_NAME": {
+        "text": "Sigil Box of Illusions",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_EPIC_GRADE2_HELP": {
+        "text": "A chest containing a random ★2 Epic Sigil.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_EPIC_GRADE2_NAME": {
+        "text": "★2 Epic Sigil Box",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_ATK_POWER_STONE_2_OPTION_01_DESC": {
+        "text": "Attack Power +375",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_DEF_STONE_2_OPTION_02_DESC": {
+        "text": "Armor +550",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_RST_STONE_2_OPTION_02_DESC": {
+        "text": "Resistance +550",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_1_DESC": {
+        "text": "Don't let its simple appearance fool you - this material is essential to the mobility of the armor.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_1_TITLE": {
+        "text": "Cold Visage",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_2_DESC": {
+        "text": "The blue blood spilt by the Incarnate. It is of a strange color and texture, almost as if intangible.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_2_TITLE": {
+        "text": "Ether",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_3_DESC": {
+        "text": "One of the many steel plates that fell from Bjorn's shield. Arraying it into layers provides protection that no weapon can penetrate.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_3_TITLE": {
+        "text": "Indigo Steel Plate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_4_DESC": {
+        "text": "A fragment of armor weathered by the harsh winds that ravished the northern lands long ago.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_DEF_EP2_STONE_4_TITLE": {
+        "text": "Mark of the North Wind",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_1_DESC": {
+        "text": "Armor +250",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_1_NAME": {
+        "text": "Logi's Shining Chill",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_2_DESC": {
+        "text": "Resistance +250",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_2_NAME": {
+        "text": "Bjorn's Shining Loss",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_3_DESC": {
+        "text": "Armor +500\nDamage Reduction +5%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_3_NAME": {
+        "text": "Bjorn's Shining Nightmare",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_4_DESC": {
+        "text": "Resistance +500\nDamage Reduction +5%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_DEFENCE_4_NAME": {
+        "text": "Shining Grace of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_MAGIC_1_DESC": {
+        "text": "Resistance Penetration +550\nAttack Power +450",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_MAGIC_1_NAME": {
+        "text": "Shining Agony of the Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_MAGIC_2_DESC": {
+        "text": "Upon using 1-chain, accuracy is increased by 15% for 1 second\nUpon using 3-chain, resistance penetration is increased by 1625 for 1 second",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_MAGIC_2_NAME": {
+        "text": "Hugi's Shining White Night",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_PHYSIC_1_DESC": {
+        "text": "Armor Penetration +550\nAttack Power +450",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_PHYSIC_1_NAME": {
+        "text": "Logi's Shining Frost",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_PHYSIC_2_DESC": {
+        "text": "Upon using 1-chain, accuracy is increased by 15% for 1 second\nUpon using 3-chain, armor penetration is increased by 1625 for 1 second",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_EP2_PHYSIC_2_NAME": {
+        "text": "Hugi's Shining Polar Light",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_MAG_EP2_STONE_1_DESC": {
+        "text": "A block of ice that cracked off Logi's body. It coldly burns with a blue flame.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_MAG_EP2_STONE_1_TITLE": {
+        "text": "Blazing Ice Fragment",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_MAG_EP2_STONE_2_DESC": {
+        "text": "A fragment of Bjorn's broken hammer. Its unimpressive size hides its massive weight.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_MAG_EP2_STONE_2_TITLE": {
+        "text": "Broken Maul",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_PHY_EP2_STONE_1_DESC": {
+        "text": "A transparent blade almost wholly enveloped in ice. Could it be changing shape?",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_PHY_EP2_STONE_1_TITLE": {
+        "text": "Cutting Gale",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_PHY_EP2_STONE_2_DESC": {
+        "text": "A blue mane that shines with a transparent light, as if it were made out of ice. It is tougher than it looks.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_SET_PHY_EP2_STONE_2_TITLE": {
+        "text": "Frozen Mane",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_RARE_VAMP_STONE_2_OPTION_DESC": {
+        "text": "Life Steal +5%",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REPEAT_RAID_REWARD_S2_ANUT": {
+        "text": "Great job! I would love to have your help again.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REPEAT_RAID_REWARD_S2_DIONNE": {
+        "text": "Well done. Until next time, then.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REPORT_COUNT_FULL_DESC": {
+        "text": "You have exceeded the maximum limit of reports you can file today.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REPORT_COUNT_FULL_TITLE": {
+        "text": "Maximum Report Limit",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_WB": {
+        "text": "Seal of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_WB_1": {
+        "text": "The Jester of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_WB_2": {
+        "text": "The Traitor of the Sanctuary",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_WB_3": {
+        "text": "Utgard",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_2_WB_4": {
+        "text": "A Frozen World",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_DIONNE_ALERT": {
+        "text": "Even Goddess' powers are interrupted here.\nIs this because of the Seal?",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_PHASE1_BLESS": {
+        "text": "Incarnate's Guard",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_PHASE1_DESC": {
+        "text": "Damage Reduction",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_PHASE1_START": {
+        "text": "I feel a strange aura.\nInvestigate with caution!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_PHASE2_DESC": {
+        "text": "Atk Pwr Increased, Receives More Dmg",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_PHASE2_RAGE": {
+        "text": "Odr",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_PHASE2_START": {
+        "text": "I do not sense the aura any longer.\nAttack with all your strength!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_STAGE1": {
+        "text": "Only a Guardian of the Sanctuary\nmay cut these chains. Vernil, I ask for thy aid.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_STAGE2": {
+        "text": "More chains... Roskva,\naim for the frozen shackles.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_STAGE3_1": {
+        "text": "The chains of the Sanctuary...!\nWe must cut them down!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_STAGE3_2": {
+        "text": "'Tis time for your mighty blow,\nHeim!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_STAGE4_1": {
+        "text": "Only thou can keep\nthe Incarnate at bay, Sasquatch!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_S2_EP2_WB_STAGE4_2": {
+        "text": "It rebels against its fate.\nBe careful!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_RAID_SEALOFSANCTUARY_1_NAME": {
+        "text": "Logi",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_RAID_SEALOFSANCTUARY_2_NAME": {
+        "text": "Hugi",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_RAID_SEALOFSANCTUARY_3_NAME": {
+        "text": "Bjorn",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_STAGE_DG_RAID_SEALOFSANCTUARY_4_NAME": {
+        "text": "Loki Incarnate",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_067_TITLE": {
+        "text": "Battle Logi in Raid",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_068_TITLE": {
+        "text": "Battle Hugi in Raid",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_069_TITLE": {
+        "text": "Battle Bjorn in Raid",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_070_TITLE": {
+        "text": "Battle Loki Incarnate in Raid",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_TIP_RAID_S2_EP2_1": {
+        "text": "The current capital of Nosgard is Snorri Edda, named after the first Great King of Nosgard.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_TIP_RAID_S2_EP2_2": {
+        "text": "Only the silent ruins beyond the Crossing of Frost Wolves remain of Elder Edda, the old capital of Nosgard.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_TIP_RAID_S2_EP2_3": {
+        "text": "Any true Nosgardian would be proud of their heritage. There are many who disapprove of Thor's attempts to unite the diverse traditional tribes of Nosgard into a single, central nation.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_TIP_RAID_S2_EP2_4": {
+        "text": "Be careful not to let your screen freeze over in battle! Use Goddess Skills to prevent the oncoming frost.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_TIP_RAID_S2_EP2_5": {
+        "text": "Quickly cut through frozen shackles to destroy the summoned chains!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_TIP_RAID_S2_EP2_6": {
+        "text": "Bosses of the Sanctuary regularly cast buffs on themselves while canceling Hero buffs. Make sure to cancel Boss buffs!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_UNLOCK_SEALOFSANCTUARY": {
+        "text": "Episode 2 #Raid# Mode has been unlocked!",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_WEAPON_FORGE_DESC": {
+        "text": "Select the Level you wish to Forge the Weapon to.",
+        "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_WR_EP2_WORLDBOSS_ICE": {
+        "text": "Take care not to freeze.\nI shall deal with the rest!",
+        "version": "4.14.1",
         "original": true
     }
 }

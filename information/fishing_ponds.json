@@ -74,6 +74,286 @@
         "background": "ui_bgimage_fishery_tundra"
     },
     {
+        "id": "FISHERY_EVENT_SALMON_4TH",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_4TH_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON_4TH",
+            "FISH_EVENT_SALMON_4TH_DECOY"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON_4TH",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
+        "id": "FISHERY_EVENT_SALMON_4TH_1",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_4TH_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON_4TH_1",
+            "FISH_EVENT_SALMON_4TH_DECOY"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON_4TH_1",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
+        "id": "FISHERY_EVENT_SALMON_4TH_2",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_4TH_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON_4TH_2",
+            "FISH_EVENT_SALMON_4TH_DECOY"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON_4TH_2",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
+        "id": "FISHERY_EVENT_SALMON_4TH_3",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_4TH_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON_4TH_3",
+            "FISH_EVENT_SALMON_4TH_DECOY"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON_4TH_3",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
+        "id": "FISHERY_EVENT_SALMON_4TH_4",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_4TH_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON_4TH_4",
+            "FISH_EVENT_SALMON_4TH_DECOY"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON_4TH_4",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
+        "id": "FISHERY_EVENT_SALMON_4TH_5",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_4TH_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON_4TH_5",
+            "FISH_EVENT_SALMON_4TH_DECOY"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON_4TH_5",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
+        "id": "FISHERY_EVENT_SALMON_4TH_6",
+        "name": "TEXT_TUNDRA_FISHERY_NAME",
+        "description": "TEXT_TUNDRA_FISHERY_4TH_DESC",
+        "min_fr": 1,
+        "fish": [
+            "FISH_FRESHWATER_PIRAMI",
+            "FISH_FRESHWATER_MIGGURAGI",
+            "FISH_FRESHWATER_NORMALFROG",
+            "FISH_FRESHWATER_GAJAE",
+            "FISH_FRESHWATER_GOLDFISH",
+            "FISH_FRESHWATER_TRUEBUNGFISH",
+            "FISH_FRESHWATER_MORAEMOOJI",
+            "FISH_FRESHWATER_BULLFROG",
+            "FISH_FRESHWATER_RAINBOWSONGA",
+            "FISH_FRESHWATER_DONGJAGAE",
+            "FISH_FRESHWATER_BLUEGILL",
+            "FISH_FRESHWATER_TILAPIA",
+            "FISH_FRESHWATER_MINMOOLNABIGOGI",
+            "FISH_FRESHWATER_HALFMOON"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_EVENT_SALMON_4TH_6",
+            "FISH_EVENT_SALMON_4TH_DECOY"
+        ],
+        "habitat": "EVENT",
+        "boss": "FISH_EVENT_SALMON_4TH_6",
+        "reward": {
+            "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+            "amount": 0
+        },
+        "background": "ui_bgimage_fishery_tundra"
+    },
+    {
         "id": "FISHERY_EVENT_SALMON",
         "name": "TEXT_TUNDRA_FISHERY_NAME",
         "description": "TEXT_TUNDRA_FISHERY_DESC",

@@ -2534,64 +2534,64 @@
         {
             "key": "TEXT_CHA_HU_ARMOR_4_1_NAME",
             "path": "heroes.140.0",
-            "text": "AG01- Neo",
-            "version": "4.7.0",
+            "text": "AG01-Neo",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_5_1_NAME",
             "path": "heroes.140.1",
-            "text": "AG01- Neo",
-            "version": "4.7.0",
+            "text": "AG01-Neo",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_6_1_NAME",
             "path": "heroes.140.2",
-            "text": "AG01- Neo",
-            "version": "4.7.0",
+            "text": "AG01-Neo",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_4_2_NAME",
             "path": "heroes.141.0",
-            "text": "AG02- Layla",
-            "version": "4.7.0",
+            "text": "AG02-Layla",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_5_2_NAME",
             "path": "heroes.141.1",
-            "text": "AG02- Layla",
-            "version": "4.7.0",
+            "text": "AG02-Layla",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_6_2_NAME",
             "path": "heroes.141.2",
-            "text": "AG02- Layla",
-            "version": "4.7.0",
+            "text": "AG02-Layla",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_4_3_NAME",
             "path": "heroes.142.0",
-            "text": "AG03- Mel",
-            "version": "4.7.0",
+            "text": "AG03-Mel",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_5_3_NAME",
             "path": "heroes.142.1",
-            "text": "AG03- Mel",
-            "version": "4.7.0",
+            "text": "AG03-Mel",
+            "version": "4.14.1",
             "original": true
         },
         {
             "key": "TEXT_CHA_HU_ARMOR_6_3_NAME",
             "path": "heroes.142.2",
-            "text": "AG03- Mel",
-            "version": "4.7.0",
+            "text": "AG03-Mel",
+            "version": "4.14.1",
             "original": true
         },
         {
@@ -9237,764 +9237,932 @@
             "original": true
         },
         {
-            "key": "TEXT_COMMON_SET_HEAL_STONE_1_TITLE",
+            "key": "TEXT_COMMON_SET_DEF_EP2_STONE_1_TITLE",
             "path": "sigils.49",
+            "text": "Frozen Pauldron",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COMMON_SET_DEF_EP2_STONE_2_TITLE",
+            "path": "sigils.50",
+            "text": "Icicle Fragment",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COMMON_SET_DEF_EP2_STONE_3_TITLE",
+            "path": "sigils.51",
+            "text": "Metal Rib",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COMMON_SET_DEF_EP2_STONE_4_TITLE",
+            "path": "sigils.52",
+            "text": "Ancient Buffalo Horn",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COMMON_SET_HEAL_STONE_1_TITLE",
+            "path": "sigils.53",
             "text": "Rusty Bolt",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_SET_HEAL_STONE_2_TITLE",
-            "path": "sigils.50",
+            "path": "sigils.54",
             "text": "Eagle Beak",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_SET_MAGIC_STONE_1_TITLE",
-            "path": "sigils.51",
+            "path": "sigils.55",
             "text": "Jackal Claw",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_SET_MAGIC_STONE_2_TITLE",
-            "path": "sigils.52",
+            "path": "sigils.56",
             "text": "Charred Bullet",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_COMMON_SET_MAG_EP2_STONE_1_TITLE",
+            "path": "sigils.57",
+            "text": "Recrystalized Snowflake",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COMMON_SET_MAG_EP2_STONE_2_TITLE",
+            "path": "sigils.58",
+            "text": "Chains of the Seal",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_COMMON_SET_PHYSIC_STONE_1_TITLE",
-            "path": "sigils.53",
+            "path": "sigils.59",
             "text": "Hippopotamus Tooth",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_SET_PHYSIC_STONE_2_TITLE",
-            "path": "sigils.54",
+            "path": "sigils.60",
             "text": "Broken Claw",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_COMMON_SET_PHY_EP2_STONE_1_TITLE",
+            "path": "sigils.61",
+            "text": "Royal Guard's Axe head",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_COMMON_SET_PHY_EP2_STONE_2_TITLE",
+            "path": "sigils.62",
+            "text": "Engraved Shackles",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_COMMON_SONOFGEB_STONE_1_TITLE",
-            "path": "sigils.55",
+            "path": "sigils.63",
             "text": "Large Toenail",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_SONOFGEB_STONE_2_TITLE",
-            "path": "sigils.56",
+            "path": "sigils.64",
             "text": "Giant Shinbone",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_WINDWALKER_STONE_1_TITLE",
-            "path": "sigils.57",
+            "path": "sigils.65",
             "text": "A Marksman's Broken Heart",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_WINDWALKER_STONE_2_TITLE",
-            "path": "sigils.58",
+            "path": "sigils.66",
             "text": "Sharpened Arrowhead",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_COMMON_WINDWALKER_STONE_3_TITLE",
-            "path": "sigils.59",
+            "path": "sigils.67",
             "text": "Roots of the Forest",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_3G_STONE_1_TITLE",
-            "path": "sigils.60",
+            "path": "sigils.68",
             "text": "Grease's Flame",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ACCURACY_RATE_STONE_1_TITLE",
-            "path": "sigils.62",
+            "path": "sigils.70",
             "text": "Epic Accuracy Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_AMMUT_STONE_1_TITLE",
-            "path": "sigils.63",
+            "path": "sigils.71",
             "text": "Crocodile's Tear",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ANCIENREGIME_STONE_1_TITLE",
-            "path": "sigils.64",
+            "path": "sigils.72",
             "text": "Malice of Trista",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ANCIENREGIME_STONE_2_TITLE",
-            "path": "sigils.65",
+            "path": "sigils.73",
             "text": "Grasp of the Abyss",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ANCIENREGIME_STONE_3_TITLE",
-            "path": "sigils.66",
+            "path": "sigils.74",
             "text": "Old Decree",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ANUBISIS_H_STONE_1_TITLE",
-            "path": "sigils.67",
+            "path": "sigils.75",
             "text": "Meteoric Blade of the Jackal",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ANUBISIS_H_STONE_2_TITLE",
-            "path": "sigils.68",
+            "path": "sigils.76",
             "text": "Mark of the Three Kings",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ANUBISIS_STONE_1_TITLE",
-            "path": "sigils.69",
+            "path": "sigils.77",
             "text": "Ectoplasm",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_ATK_POWER_STONE_1_TITLE",
-            "path": "sigils.71",
+            "path": "sigils.79",
             "text": "Epic Attack Power Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_AVENIR_STONE_1_TITLE",
-            "path": "sigils.72",
+            "path": "sigils.80",
             "text": "Flow Velocity Controller",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_AVENIR_STONE_2_TITLE",
-            "path": "sigils.73",
+            "path": "sigils.81",
             "text": "Crude Ring",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_AVENIR_STONE_3_TITLE",
-            "path": "sigils.74",
+            "path": "sigils.82",
             "text": "Mana Nucleus",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_AZATHOTH_STONE_1_TITLE",
-            "path": "sigils.75",
+            "path": "sigils.83",
             "text": "Proof of Betrayal",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_AZATHOTH_STONE_2_TITLE",
-            "path": "sigils.76",
+            "path": "sigils.84",
             "text": "Shattered Fragment of a God",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_AZATHOTH_STONE_3_TITLE",
-            "path": "sigils.77",
+            "path": "sigils.85",
             "text": "Tainted Mercy",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_CRIT_DODGE_RATE_STONE_1_TITLE",
-            "path": "sigils.79",
+            "path": "sigils.87",
             "text": "Epic Critical Resistance Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_CRIT_RATE_STONE_1_TITLE",
-            "path": "sigils.81",
+            "path": "sigils.89",
             "text": "Epic Critical Chance Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_DEF_STONE_1_TITLE",
-            "path": "sigils.83",
+            "path": "sigils.91",
             "text": "Epic Armor Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_DODGE_RATE_STONE_1_TITLE",
-            "path": "sigils.85",
+            "path": "sigils.93",
             "text": "Epic Evasion Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_GG_STONE_1_TITLE",
-            "path": "sigils.86",
+            "path": "sigils.94",
             "text": "Geralt's Necklace",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_JERAPHIM_H_STONE_1_TITLE",
-            "path": "sigils.87",
+            "path": "sigils.95",
             "text": "Hieroglyph",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_JERAPHIM_H_STONE_2_TITLE",
-            "path": "sigils.88",
+            "path": "sigils.96",
             "text": "Heavenly Light",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_JERAPHIM_STONE_1_TITLE",
-            "path": "sigils.89",
+            "path": "sigils.97",
             "text": "Wings of Radiance",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_LEESIN_STONE_1_TITLE",
-            "path": "sigils.90",
+            "path": "sigils.98",
             "text": "Broken Blade",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_MAX_HP_STONE_1_TITLE",
-            "path": "sigils.92",
+            "path": "sigils.100",
             "text": "Epic HP Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_OMEGA_STONE_1_TITLE",
-            "path": "sigils.93",
+            "path": "sigils.101",
             "text": "Heart of the Ascended",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_PENETRATE_DEF_STONE_1_TITLE",
-            "path": "sigils.95",
+            "path": "sigils.103",
             "text": "Epic Armor Penetration Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_PENETRATE_RST_STONE_1_TITLE",
-            "path": "sigils.97",
+            "path": "sigils.105",
             "text": "Epic Resist Penetration Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_REBOUILLABAISSE_STONE_1_TITLE",
-            "path": "sigils.98",
+            "path": "sigils.106",
             "text": "Hammer Mark",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_REBOUILLABAISSE_STONE_2_TITLE",
-            "path": "sigils.99",
+            "path": "sigils.107",
             "text": "Scythe Mark",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_REBOUILLABAISSE_STONE_3_TITLE",
-            "path": "sigils.100",
+            "path": "sigils.108",
             "text": "Star-Shaped Manastone",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RECEIVE_DMG_RATE_STONE_1_TITLE",
-            "path": "sigils.102",
+            "path": "sigils.110",
             "text": "Epic Damage Reduction Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_REDOMPERIGNON_STONE_1_TITLE",
-            "path": "sigils.103",
+            "path": "sigils.111",
             "text": "Teardrop Fragment",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_REDOMPERIGNON_STONE_2_TITLE",
-            "path": "sigils.104",
+            "path": "sigils.112",
             "text": "Saint of Malt",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_REDOMPERIGNON_STONE_3_TITLE",
-            "path": "sigils.105",
+            "path": "sigils.113",
             "text": "Old Malt",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RESIDUALLION_STONE_1_TITLE",
-            "path": "sigils.106",
+            "path": "sigils.114",
             "text": "Badge of the Order of the Lion Maistre",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RESIDUALLION_STONE_2_TITLE",
-            "path": "sigils.107",
+            "path": "sigils.115",
             "text": "Sacred Resolve",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RESIDUALLION_STONE_3_TITLE",
-            "path": "sigils.108",
+            "path": "sigils.116",
             "text": "Viscous Loyalty",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RST_STONE_1_TITLE",
-            "path": "sigils.110",
+            "path": "sigils.118",
             "text": "Epic Resistance Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RUDERAT_STONE_1_TITLE",
-            "path": "sigils.111",
+            "path": "sigils.119",
             "text": "Rudrat's Fury",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RUDERAT_STONE_2_TITLE",
-            "path": "sigils.112",
+            "path": "sigils.120",
             "text": "Rudrat's Insignia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_RUDERAT_STONE_3_TITLE",
-            "path": "sigils.113",
+            "path": "sigils.121",
             "text": "Contamination Fragment",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SEKHMET_H_STONE_1_TITLE",
-            "path": "sigils.114",
+            "path": "sigils.122",
             "text": "Sekhmet's Essence",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SEKHMET_H_STONE_2_TITLE",
-            "path": "sigils.115",
+            "path": "sigils.123",
             "text": "Mask of the Lioness",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SEKHMET_STONE_1_TITLE",
-            "path": "sigils.116",
+            "path": "sigils.124",
             "text": "Proof of Vengeance",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SET_DEFFENCE_STONE_1_TITLE",
-            "path": "sigils.117",
+            "path": "sigils.125",
             "text": "Narmer's Refusal",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SET_DEFFENCE_STONE_2_TITLE",
-            "path": "sigils.118",
+            "path": "sigils.126",
             "text": "Banoub's Pendant",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_EPIC_SET_DEF_EP2_STONE_1_TITLE",
+            "path": "sigils.127",
+            "text": "Logi's Core",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_EPIC_SET_DEF_EP2_STONE_2_TITLE",
+            "path": "sigils.128",
+            "text": "Bjorn's Belt",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_EPIC_SET_DEF_EP2_STONE_3_TITLE",
+            "path": "sigils.129",
+            "text": "Bjorn's Shield",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_EPIC_SET_DEF_EP2_STONE_4_TITLE",
+            "path": "sigils.130",
+            "text": "Seal of the Incarnate",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_EPIC_SET_HEAL_STONE_1_TITLE",
-            "path": "sigils.119",
+            "path": "sigils.131",
             "text": "Banoub's Will",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SET_HEAL_STONE_2_TITLE",
-            "path": "sigils.120",
+            "path": "sigils.132",
             "text": "Djer's Conceit",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SET_MAGIC_STONE_1_TITLE",
-            "path": "sigils.121",
+            "path": "sigils.133",
             "text": "Djer's Thorns",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SET_MAGIC_STONE_2_TITLE",
-            "path": "sigils.122",
+            "path": "sigils.134",
             "text": "Khasekhemwy's Fury",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_EPIC_SET_MAG_EP2_STONE_1_TITLE",
+            "path": "sigils.135",
+            "text": "Fang of the Incarnate",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_EPIC_SET_MAG_EP2_STONE_2_TITLE",
+            "path": "sigils.136",
+            "text": "Hugi's Memory",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_EPIC_SET_PHYSIC_STONE_1_TITLE",
-            "path": "sigils.123",
+            "path": "sigils.137",
             "text": "Narmer's Despair",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EPIC_SET_PHYSIC_STONE_2_TITLE",
-            "path": "sigils.124",
+            "path": "sigils.138",
             "text": "Khasekhemwy's Might",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_EPIC_SET_PHY_EP2_STONE_1_TITLE",
+            "path": "sigils.139",
+            "text": "Logi's Gauntlet",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_EPIC_SET_PHY_EP2_STONE_2_TITLE",
+            "path": "sigils.140",
+            "text": "Hugi's Gust",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_EPIC_TOMBKING_STONE_1_TITLE",
-            "path": "sigils.125",
+            "path": "sigils.141",
             "text": "Whip of Penance",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_3G_STONE_1_TITLE",
-            "path": "sigils.126",
+            "path": "sigils.142",
             "text": "Georgia's Tattoo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_3G_STONE_2_TITLE",
-            "path": "sigils.127",
+            "path": "sigils.143",
             "text": "Gujarat's Magnifying Glass",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_ACCURACY_RATE_STONE_1_TITLE",
-            "path": "sigils.129",
+            "path": "sigils.145",
             "text": "Rare Accuracy Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_AMMUT_STONE_1_TITLE",
-            "path": "sigils.130",
+            "path": "sigils.146",
             "text": "Hybrid Rib",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_AMMUT_STONE_2_TITLE",
-            "path": "sigils.131",
+            "path": "sigils.147",
             "text": "Chimera's Scale",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_ANUBISIS_STONE_1_TITLE",
-            "path": "sigils.132",
+            "path": "sigils.148",
             "text": "First-Rate Bandage",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_ANUBISIS_STONE_2_TITLE",
-            "path": "sigils.133",
+            "path": "sigils.149",
             "text": "Azure Heart of Royalty",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_ATK_POWER_STONE_1_TITLE",
-            "path": "sigils.135",
+            "path": "sigils.151",
             "text": "Rare Attack Power Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_BOUILLABAISSE_STONE_1_TITLE",
-            "path": "sigils.136",
+            "path": "sigils.152",
             "text": "Thrust Force Enhancer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_CRIT_DODGE_RATE_STONE_1_TITLE",
-            "path": "sigils.138",
+            "path": "sigils.154",
             "text": "Rare Critical Resistance Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_CRIT_RATE_STONE_1_TITLE",
-            "path": "sigils.140",
+            "path": "sigils.156",
             "text": "Rare Critical Chance Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_DEF_STONE_1_TITLE",
-            "path": "sigils.142",
+            "path": "sigils.158",
             "text": "Rare Armor Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_DODGE_RATE_STONE_1_TITLE",
-            "path": "sigils.144",
+            "path": "sigils.160",
             "text": "Rare Evasion Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_DOMPERIGNON_STONE_1_TITLE",
-            "path": "sigils.145",
+            "path": "sigils.161",
             "text": "Burnt Humanity",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_GG_STONE_1_TITLE",
-            "path": "sigils.146",
+            "path": "sigils.162",
             "text": "Destroyed Synchronization Controlstone",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_GG_STONE_2_TITLE",
-            "path": "sigils.147",
+            "path": "sigils.163",
             "text": "Georg's Necklace",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_JERAPHIM_STONE_1_TITLE",
-            "path": "sigils.148",
+            "path": "sigils.164",
             "text": "Mana Flow Controller",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_JERAPHIM_STONE_2_TITLE",
-            "path": "sigils.149",
+            "path": "sigils.165",
             "text": "Hook Fragment",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_LEESIN_STONE_1_TITLE",
-            "path": "sigils.150",
+            "path": "sigils.166",
             "text": "Ratoichi's Eyepatch",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_LEESIN_STONE_2_TITLE",
-            "path": "sigils.151",
+            "path": "sigils.167",
             "text": "Worn Fragment",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_MATAHARI_STONE_1_TITLE",
-            "path": "sigils.152",
+            "path": "sigils.168",
             "text": "Mark of the Musketeer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_MAX_HP_STONE_1_TITLE",
-            "path": "sigils.154",
+            "path": "sigils.170",
             "text": "Rare HP Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_OMEGA_STONE_1_TITLE",
-            "path": "sigils.155",
+            "path": "sigils.171",
             "text": "Glittering Right Eye",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_OMEGA_STONE_2_TITLE",
-            "path": "sigils.156",
+            "path": "sigils.172",
             "text": "Closed Left Eye",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_PENETRATE_DEF_STONE_1_TITLE",
-            "path": "sigils.158",
+            "path": "sigils.174",
             "text": "Rare Armor Penetration Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_PENETRATE_RST_STONE_1_TITLE",
-            "path": "sigils.160",
+            "path": "sigils.176",
             "text": "Rare Resist Penetration Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_RECEIVE_DMG_RATE_STONE_1_TITLE",
-            "path": "sigils.162",
+            "path": "sigils.178",
             "text": "Rare Damage Reduction Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_RST_STONE_1_TITLE",
-            "path": "sigils.164",
+            "path": "sigils.180",
             "text": "Rare Resistance Sigil",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SEKHMET_STONE_1_TITLE",
-            "path": "sigils.165",
+            "path": "sigils.181",
             "text": "Flaming Fragment",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SEKHMET_STONE_2_TITLE",
-            "path": "sigils.166",
+            "path": "sigils.182",
             "text": "Horn of Mastery",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SET_DEFFENCE_STONE_1_TITLE",
-            "path": "sigils.167",
+            "path": "sigils.183",
             "text": "Luminescent Antifreeze",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SET_DEFFENCE_STONE_2_TITLE",
-            "path": "sigils.168",
+            "path": "sigils.184",
             "text": "Eroded Levitating Stone",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_RARE_SET_DEF_EP2_STONE_1_TITLE",
+            "path": "sigils.185",
+            "text": "Cold Visage",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_RARE_SET_DEF_EP2_STONE_2_TITLE",
+            "path": "sigils.186",
+            "text": "Ether",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_RARE_SET_DEF_EP2_STONE_3_TITLE",
+            "path": "sigils.187",
+            "text": "Indigo Steel Plate",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_RARE_SET_DEF_EP2_STONE_4_TITLE",
+            "path": "sigils.188",
+            "text": "Mark of the North Wind",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_RARE_SET_HEAL_STONE_1_TITLE",
-            "path": "sigils.169",
+            "path": "sigils.189",
             "text": "Perpetual Motion Machine",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SET_HEAL_STONE_2_TITLE",
-            "path": "sigils.170",
+            "path": "sigils.190",
             "text": "Shattered Crown",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SET_MAGIC_STONE_1_TITLE",
-            "path": "sigils.171",
+            "path": "sigils.191",
             "text": "Azure Shard",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SET_MAGIC_STONE_2_TITLE",
-            "path": "sigils.172",
+            "path": "sigils.192",
             "text": "Tarnished Blade",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_RARE_SET_MAG_EP2_STONE_1_TITLE",
+            "path": "sigils.193",
+            "text": "Blazing Ice Fragment",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_RARE_SET_MAG_EP2_STONE_2_TITLE",
+            "path": "sigils.194",
+            "text": "Broken Maul",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_RARE_SET_PHYSIC_STONE_1_TITLE",
-            "path": "sigils.173",
+            "path": "sigils.195",
             "text": "Crimson Shard",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SET_PHYSIC_STONE_2_TITLE",
-            "path": "sigils.174",
+            "path": "sigils.196",
             "text": "Shattered Fist",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_RARE_SET_PHY_EP2_STONE_1_TITLE",
+            "path": "sigils.197",
+            "text": "Cutting Gale",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_RARE_SET_PHY_EP2_STONE_2_TITLE",
+            "path": "sigils.198",
+            "text": "Frozen Mane",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_RARE_SHADOWDEVILFINAL_STONE_1_TITLE",
-            "path": "sigils.175",
+            "path": "sigils.199",
             "text": "Demon's Heartstone",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SHADOWDEVILFINAL_STONE_2_TITLE",
-            "path": "sigils.176",
+            "path": "sigils.200",
             "text": "Shrunken Head Decoration",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_SHADOWDEVILFINAL_STONE_3_TITLE",
-            "path": "sigils.177",
+            "path": "sigils.201",
             "text": "Shard of Shadow",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_TOMBKING_STONE_1_TITLE",
-            "path": "sigils.178",
+            "path": "sigils.202",
             "text": "Headdress of the False King",
             "version": "4.9.0",
             "original": true
         },
         {
             "key": "TEXT_RARE_TOMBKING_STONE_2_TITLE",
-            "path": "sigils.179",
+            "path": "sigils.203",
             "text": "False Mark",
             "version": "4.9.0",
             "original": true
@@ -10058,10 +10226,10 @@
             "original": true
         },
         {
-            "key": "TEXT_DIONE_NAME",
-            "path": "goddesses.19",
+            "key": "TEXT_DIONNE_NAME",
+            "path": "goddesses.20",
             "text": "Dionne",
-            "version": "4.7.0",
+            "version": "4.14.1",
             "original": true
         }
     ],
@@ -11530,7 +11698,7 @@
         },
         {
             "key": "TEXT_MON_SH_GOBLIN_A_02_NAME",
-            "path": "bosses.789",
+            "path": "bosses.793",
             "text": "Elite Goblin A.",
             "version": "4.7.0",
             "original": true
@@ -11579,7 +11747,7 @@
         },
         {
             "key": "TEXT_MON_SH_GOBLIN_W_02_NAME",
-            "path": "bosses.790",
+            "path": "bosses.794",
             "text": "Elite Goblin W.",
             "version": "4.7.0",
             "original": true
@@ -11705,7 +11873,7 @@
         },
         {
             "key": "TEXT_MON_LG_MAGMAGOLEM_02_NAME",
-            "path": "bosses.781",
+            "path": "bosses.785",
             "text": "Darkfire Giant",
             "version": "4.7.0",
             "original": true
@@ -11922,7 +12090,7 @@
         },
         {
             "key": "TEXT_MON_LH_SHARKMAN_02_NAME",
-            "path": "bosses.782",
+            "path": "bosses.786",
             "text": "AncientShark W.",
             "version": "4.7.0",
             "original": true
@@ -14211,7 +14379,7 @@
         },
         {
             "key": "TEXT_MON_LM_HERMITCRAB_02_NAME",
-            "path": "bosses.783",
+            "path": "bosses.787",
             "text": "Posh HermitCrab",
             "version": "4.7.0",
             "original": true
@@ -14225,7 +14393,7 @@
         },
         {
             "key": "TEXT_MON_MH_HORUS_02_NAME",
-            "path": "bosses.784",
+            "path": "bosses.788",
             "text": "Death Horus",
             "version": "4.7.0",
             "original": true
@@ -14246,7 +14414,7 @@
         },
         {
             "key": "TEXT_MON_MH_SALAMANDER_A_02_NAME",
-            "path": "bosses.785",
+            "path": "bosses.789",
             "text": "Darkfire Lizard",
             "version": "4.7.0",
             "original": true
@@ -14260,7 +14428,7 @@
         },
         {
             "key": "TEXT_MON_MM_MERMAID_02_NAME",
-            "path": "bosses.786",
+            "path": "bosses.790",
             "text": "Mermaid Witch",
             "version": "4.7.0",
             "original": true
@@ -14274,7 +14442,7 @@
         },
         {
             "key": "TEXT_MON_MS_IFRIT_02_NAME",
-            "path": "bosses.787",
+            "path": "bosses.791",
             "text": "Darkfire Ifrit",
             "version": "4.7.0",
             "original": true
@@ -14288,7 +14456,7 @@
         },
         {
             "key": "TEXT_MON_MS_JELLYSPIRIT_02_NAME",
-            "path": "bosses.788",
+            "path": "bosses.792",
             "text": "Blood Jellyfish",
             "version": "4.7.0",
             "original": true
@@ -14344,7 +14512,7 @@
         },
         {
             "key": "TEXT_MON_SM_SLIME_02_NAME",
-            "path": "bosses.791",
+            "path": "bosses.795",
             "text": "King Slime",
             "version": "4.7.0",
             "original": true
@@ -14372,7 +14540,7 @@
         },
         {
             "key": "TEXT_NEMESIS_NAME",
-            "path": "bosses.715",
+            "path": "bosses.719",
             "text": "Nemesis",
             "version": "4.7.0",
             "original": true
@@ -15023,7 +15191,7 @@
         },
         {
             "key": "TEXT_MON_BS_INTRO_EL_NAME",
-            "path": "bosses.779",
+            "path": "bosses.783",
             "text": "Destalos",
             "version": "4.7.0",
             "original": true
@@ -15484,128 +15652,128 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BS_RAID_BANOUB_NAME",
+            "key": "TEXT_MON_BS_RAID_AVARTAR_LOKI_NAME",
             "path": "bosses.673",
+            "text": "Loki Incarnate",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_RAID_BANOUB_NAME",
+            "path": "bosses.674",
             "text": "Camilla Banoub",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_MON_BS_RAID_BJORN_NAME",
+            "path": "bosses.675",
+            "text": "Bjorn",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_MON_BS_RAID_DJER_NAME",
-            "path": "bosses.674",
+            "path": "bosses.676",
             "text": "Djer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_RAGE_NAME",
-            "path": "bosses.675",
+            "path": "bosses.677",
             "text": "Manacar -Rage-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_RAGE_NAME",
-            "path": "bosses.680",
+            "path": "bosses.684",
             "text": "Manacar -Rage-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_RUIN_NAME",
-            "path": "bosses.676",
+            "path": "bosses.678",
             "text": "Manacar -Ruin-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_RUIN_NAME",
-            "path": "bosses.681",
+            "path": "bosses.685",
             "text": "Manacar -Ruin-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_VOID_NAME",
-            "path": "bosses.677",
+            "path": "bosses.679",
             "text": "Manacar -Void-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_MANACAR_VOID_NAME",
-            "path": "bosses.682",
+            "path": "bosses.686",
             "text": "Manacar -Void-",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_MON_BS_RAID_HUGI_NAME",
+            "path": "bosses.680",
+            "text": "Hugi",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_MON_BS_RAID_KHASEKHEMWY_NAME",
-            "path": "bosses.678",
+            "path": "bosses.681",
             "text": "Khasekhemwy",
             "version": "4.7.0",
             "original": true
         },
         {
+            "key": "TEXT_MON_BS_RAID_LOGI_NAME",
+            "path": "bosses.682",
+            "text": "Logi",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_MON_BS_RAID_MANACAR_END_NAME",
-            "path": "bosses.679",
+            "path": "bosses.683",
             "text": "Manacar -The End-",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_RAID_NARMER_NAME",
-            "path": "bosses.683",
+            "path": "bosses.687",
             "text": "Narmer",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_REDDRAGON_NAME",
-            "path": "bosses.684",
+            "path": "bosses.688",
             "text": "Dragon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_REDDRAGON_NAME",
-            "path": "bosses.761",
+            "path": "bosses.765",
             "text": "Dragon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_REDDRAGON_01_NAME",
-            "path": "bosses.685",
-            "text": "Dark Dragon",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
-            "path": "bosses.686",
-            "text": "Magnax",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
-            "path": "bosses.687",
-            "text": "Magnax",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
-            "path": "bosses.688",
-            "text": "Magnax",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
             "path": "bosses.689",
-            "text": "Magnax",
+            "text": "Dark Dragon",
             "version": "4.7.0",
             "original": true
         },
@@ -15638,44 +15806,44 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BS_SANDWORM_NAME",
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
             "path": "bosses.694",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.695",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.696",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_REDDRAGON_02_NAME",
+            "path": "bosses.697",
+            "text": "Magnax",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_NAME",
+            "path": "bosses.698",
             "text": "Sandworm",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_BS_SANDWORM_01_NAME",
-            "path": "bosses.695",
-            "text": "Dark Sandworm",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
-            "path": "bosses.696",
-            "text": "Fenriruth",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
-            "path": "bosses.697",
-            "text": "Fenriruth",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
-            "path": "bosses.698",
-            "text": "Fenriruth",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
             "path": "bosses.699",
-            "text": "Fenriruth",
+            "text": "Dark Sandworm",
             "version": "4.7.0",
             "original": true
         },
@@ -15708,519 +15876,547 @@
             "original": true
         },
         {
-            "key": "TEXT_MON_BS_TOPDISH_COOK_NAME",
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
             "path": "bosses.704",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.705",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.706",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_SANDWORM_02_NAME",
+            "path": "bosses.707",
+            "text": "Fenriruth",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_TOPDISH_COOK_NAME",
+            "path": "bosses.708",
             "text": "Fresh Ingredients",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_CITY_ANCIENREGIME_NAME",
-            "path": "bosses.705",
+            "path": "bosses.709",
             "text": "Ancient Regime",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_CITY_BOUILLABAISSE_NAME",
-            "path": "bosses.706",
+            "path": "bosses.710",
             "text": "Bouillabaisse",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_CITY_DOMPERIGNON_CONFUSE_NAME",
-            "path": "bosses.707",
+            "path": "bosses.711",
             "text": "Dom Peringnon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_CITY_MATAHARI_NAME",
-            "path": "bosses.708",
+            "path": "bosses.712",
             "text": "Matahari",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_DG_BUGLC_GOD_NAME",
-            "path": "bosses.709",
+            "path": "bosses.713",
             "text": "Sungmin of Darkness",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_DG_BS_RB_BOARBATUSK_NAME",
-            "path": "bosses.710",
+            "path": "bosses.714",
             "text": "Boarbatusk",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RB_NEO_NAME",
-            "path": "bosses.711",
+            "path": "bosses.715",
             "text": "Neopolitan",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RB_ROMAN_NAME",
-            "path": "bosses.712",
+            "path": "bosses.716",
             "text": "Roman Torchwick",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_DG_BS_RB_URSA_NAME",
-            "path": "bosses.713",
+            "path": "bosses.717",
             "text": "Ursa",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP5_BOSS_NAME",
-            "path": "bosses.714",
+            "path": "bosses.718",
             "text": "DioNemesis",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_CYBORG",
-            "path": "bosses.716",
+            "path": "bosses.720",
             "text": "Reinforcced Neth Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_CYBORG_HARD",
-            "path": "bosses.717",
+            "path": "bosses.721",
             "text": "Reinforced Elite Neth Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DEVIL_DYKE_HARD",
-            "path": "bosses.718",
+            "path": "bosses.722",
             "text": "Demon Type : D2",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DEVIL_DYKE_NORMAL",
-            "path": "bosses.719",
+            "path": "bosses.723",
             "text": "Demon Type : D",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DOG",
-            "path": "bosses.720",
+            "path": "bosses.724",
             "text": "Military Dog",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DOG_HARD",
-            "path": "bosses.721",
+            "path": "bosses.725",
             "text": "Elite Military Dog",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_DYKE_NORMAL_NAME",
-            "path": "bosses.722",
+            "path": "bosses.726",
             "text": "Commander Dike",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_FIRETANK",
-            "path": "bosses.723",
+            "path": "bosses.727",
             "text": "Neth Flame Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_FIRETANK_HARD",
-            "path": "bosses.724",
+            "path": "bosses.728",
             "text": "Neth Hell Flame Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GOBLIN",
-            "path": "bosses.725",
+            "path": "bosses.729",
             "text": "Brainwashed Goblin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GOBLIN_HARD",
-            "path": "bosses.726",
+            "path": "bosses.730",
             "text": "Mind-Controlled Goblin",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GUNMAN",
-            "path": "bosses.727",
+            "path": "bosses.731",
             "text": "Neth Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_GUNMAN_HARD",
-            "path": "bosses.728",
+            "path": "bosses.732",
             "text": "Neth Elite Infantry",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_MEDIC",
-            "path": "bosses.729",
+            "path": "bosses.733",
             "text": "Neth Medic",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_MEDIC_HARD",
-            "path": "bosses.730",
+            "path": "bosses.734",
             "text": "Neth Elite Medic",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OFFICER",
-            "path": "bosses.731",
+            "path": "bosses.735",
             "text": "Neth Commander",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OFFICER_HARD",
-            "path": "bosses.732",
+            "path": "bosses.736",
             "text": "Neth Elite Commander",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OGRE",
-            "path": "bosses.733",
+            "path": "bosses.737",
             "text": "Brainwashed Ogre",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_OGRE_HARD",
-            "path": "bosses.734",
+            "path": "bosses.738",
             "text": "Mind-Controlled Ogre",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_TANK_HARD",
-            "path": "bosses.735",
+            "path": "bosses.739",
             "text": "Neth Heavy Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_TANK_HARD",
-            "path": "bosses.741",
+            "path": "bosses.745",
             "text": "Neth Heavy Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SCIENCE",
-            "path": "bosses.736",
+            "path": "bosses.740",
             "text": "Neth Scientist",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SCIENCE_HARD",
-            "path": "bosses.737",
+            "path": "bosses.741",
             "text": "Neth Elite Scientist",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SWORDMAN",
-            "path": "bosses.738",
+            "path": "bosses.742",
             "text": "Neth Warrior",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_SWORDMAN_HARD",
-            "path": "bosses.739",
+            "path": "bosses.743",
             "text": "Neth Elite Warrior",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_TANK",
-            "path": "bosses.740",
+            "path": "bosses.744",
             "text": "Neth Tank",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_WOLF",
-            "path": "bosses.742",
+            "path": "bosses.746",
             "text": "Brainwashed Werewolf",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_WOLF_HARD",
-            "path": "bosses.743",
+            "path": "bosses.747",
             "text": "Mind-Controlled Werewolf",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_YURIA_HARD",
-            "path": "bosses.744",
+            "path": "bosses.748",
             "text": "Demon Type : Y2",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_YURIA_NORMAL",
-            "path": "bosses.745",
+            "path": "bosses.749",
             "text": "Demon Type : Y",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_ZOMBIE",
-            "path": "bosses.746",
+            "path": "bosses.750",
             "text": "Zombie Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_EP6_ZOMBIE_HARD",
-            "path": "bosses.747",
+            "path": "bosses.751",
             "text": "Elite Zombie Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_CHEIF_NAME",
-            "path": "bosses.748",
+            "path": "bosses.752",
             "text": "Goblin Chief",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_CHIEF_CHALLENGE_NAME",
-            "path": "bosses.749",
+            "path": "bosses.753",
             "text": "Desperate Goblin Chief",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_KINGTIGER_CHALLENGE_NAME",
-            "path": "bosses.750",
+            "path": "bosses.754",
             "text": "Catapult No.6",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_MASTER_CHALLENGE_NAME",
-            "path": "bosses.751",
+            "path": "bosses.755",
             "text": "Crouching Ox",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_GOBLIN_WINDWALKER_CHALLENGE_NAME",
-            "path": "bosses.752",
+            "path": "bosses.756",
             "text": "Windstrider",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
-            "path": "bosses.753",
+            "path": "bosses.757",
             "text": "Petelgeuse Romanée-Conti",
             "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
-            "path": "bosses.754",
+            "path": "bosses.758",
             "text": "Petelgeuse Romanée-Conti",
             "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
-            "path": "bosses.755",
+            "path": "bosses.759",
             "text": "Petelgeuse Romanée-Conti",
             "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_01",
-            "path": "bosses.756",
+            "path": "bosses.760",
             "text": "Petelgeuse Romanée-Conti",
             "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_LIMITED_RZ_BOSS_05",
-            "path": "bosses.757",
+            "path": "bosses.761",
             "text": "Mutated Petelgeuse Romanée-Conti",
             "version": "4.12.1",
             "original": true
         },
         {
             "key": "TEXT_MON_PALACE_RESIDULLION_NAME",
-            "path": "bosses.758",
+            "path": "bosses.762",
             "text": "The Abandoned Lion",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_PALACE_RE_BOUILLABAISSE_NAME",
-            "path": "bosses.759",
+            "path": "bosses.763",
             "text": "Enhanced Bouillabaisse",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_PALACE_RE_DOMPERIGNON_NAME",
-            "path": "bosses.760",
+            "path": "bosses.764",
             "text": "Revived Dom Perignon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_AZATHOTH_NAME",
-            "path": "bosses.762",
+            "path": "bosses.766",
             "text": "Blind and Foolish Mother",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_BOMB_3G_NAME",
-            "path": "bosses.763",
+            "path": "bosses.767",
             "text": "Grease",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_FIGHT_3G_NAME",
-            "path": "bosses.764",
+            "path": "bosses.768",
             "text": "Georgia",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_GERALT_NAME",
-            "path": "bosses.765",
+            "path": "bosses.769",
             "text": "White Reaper Geralt",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_GG_NAME",
-            "path": "bosses.766",
+            "path": "bosses.770",
             "text": "Georg & Geralt",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_HUNT_3G_NAME",
-            "path": "bosses.767",
+            "path": "bosses.771",
             "text": "Gujarat",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_LEESIN_NAME",
-            "path": "bosses.768",
+            "path": "bosses.772",
             "text": "Blind Swordsman Ratoichi",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_RAT_RUDERAT_CHALLENGE_NAME",
-            "path": "bosses.769",
+            "path": "bosses.773",
             "text": "Tyrant Rudrat",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_RUDRAT_NAME",
-            "path": "bosses.770",
+            "path": "bosses.774",
             "text": "Rudrat",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SHADOWDEVIL_FINAL_NAME",
-            "path": "bosses.771",
+            "path": "bosses.775",
             "text": "Hybrid Shadowdemon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_SHADOWDEVIL_FINAL_CHALLENGE_NAME",
-            "path": "bosses.772",
+            "path": "bosses.776",
             "text": "Freed Hybrid Shadowdemon",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_SOLTAR_NAME",
-            "path": "bosses.773",
+            "path": "bosses.777",
             "text": "Lord of Souls Soltar",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_SOLTAR_NAME",
-            "path": "bosses.774",
+            "path": "bosses.778",
             "text": "Lord of Souls Soltar",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_SOLTAR_NAME",
-            "path": "bosses.775",
+            "path": "bosses.779",
             "text": "Lord of Souls Soltar",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_SOLTAR_NAME",
-            "path": "bosses.776",
+            "path": "bosses.780",
             "text": "Lord of Souls Soltar",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_MON_TURRET_NAME",
-            "path": "bosses.777",
+            "path": "bosses.781",
             "text": "Neth Turret Soldier",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_NPC_DEEMO_NAME",
-            "path": "bosses.778",
+            "path": "bosses.782",
             "text": "Deemo",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_CHA_DG_FURY_SOLDIER_NAME",
-            "path": "bosses.780",
+            "path": "bosses.784",
             "text": "Raged Puppet",
             "version": "4.7.0",
             "original": true
@@ -17003,7 +17199,7 @@
         },
         {
             "key": "TEXT_FISH_EVENT_SALMON_NAME",
-            "path": "fishes.114",
+            "path": "fishes.122",
             "text": "Nosgardian Salmon",
             "version": "4.7.0",
             "original": true
@@ -17013,6 +17209,13 @@
             "path": "fishes.112",
             "text": "Mossy Cat Chest",
             "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_FISH_EVENT_SALMON_DECOY_NAME",
+            "path": "fishes.116",
+            "text": "Salmon Figurine",
+            "version": "4.14.1",
             "original": true
         }
     ],
@@ -17280,63 +17483,63 @@
         },
         {
             "key": "TEXT_TUNDRA_FISHERY_NAME",
-            "path": "fishing_ponds.2",
+            "path": "fishing_ponds.9",
             "text": "Nosgard Stream",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_FOREST_FISHERY_NAME",
-            "path": "fishing_ponds.3",
+            "path": "fishing_ponds.10",
             "text": "Forest Stream",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_TRISTA_FISHERY_NAME",
-            "path": "fishing_ponds.4",
+            "path": "fishing_ponds.11",
             "text": "Sea of Trista",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_ROMAN_FISHERY_NAME",
-            "path": "fishing_ponds.5",
+            "path": "fishing_ponds.12",
             "text": "Lake of Ruins",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_WESTSEA_FISHERY_NAME",
-            "path": "fishing_ponds.6",
+            "path": "fishing_ponds.13",
             "text": "West Sea",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_DESERT_FISHERY_NAME",
-            "path": "fishing_ponds.7",
+            "path": "fishing_ponds.14",
             "text": "Desert Oasis",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_EASTSEA_FISHERY_NAME",
-            "path": "fishing_ponds.8",
+            "path": "fishing_ponds.15",
             "text": "Far East Sea",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_TROPICAL_FISHING_NAME",
-            "path": "fishing_ponds.9",
+            "path": "fishing_ponds.16",
             "text": "Jungle Swamp",
             "version": "4.7.0",
             "original": true
         },
         {
             "key": "TEXT_VOLCANO_FISHING_NAME",
-            "path": "fishing_ponds.10",
+            "path": "fishing_ponds.17",
             "text": "Volcano Crater",
             "version": "4.7.0",
             "original": true
@@ -17379,10 +17582,10 @@
             "original": true
         },
         {
-            "key": "TEXT_DIONE_NAME",
-            "path": "portraits.TEXT_DIONE_NAME",
+            "key": "TEXT_DIONNE_NAME",
+            "path": "portraits.TEXT_DIONNE_NAME",
             "text": "Dionne",
-            "version": "4.7.0",
+            "version": "4.14.1",
             "original": true
         },
         {
@@ -18699,6 +18902,34 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_PA_6_23_NAME",
+            "path": "portraits.TEXT_CHA_PA_6_23_NAME",
+            "text": "Heim of the Sacred Ground",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_23_NAME",
+            "path": "portraits.TEXT_CHA_PR_6_23_NAME",
+            "text": "Vernil of Sacred Ground",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_27_NAME",
+            "path": "portraits.TEXT_CHA_WA_6_27_NAME",
+            "text": "Roskva of Sacred Ground",
+            "version": "4.13.1",
+            "original": true
+        },
+        {
+            "key": "TEXT_MON_BS_RAID_AVARTAR_LOKI_NAME",
+            "path": "portraits.TEXT_MON_BS_RAID_AVARTAR_LOKI_NAME",
+            "text": "Loki Incarnate",
+            "version": "4.14.1",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_AR_2_6_NAME",
             "path": "portraits.TEXT_CHA_AR_2_6_NAME",
             "text": "Sigruna of Endeavor",
@@ -19080,6 +19311,27 @@
             "key": "TEXT_CHA_AR_5_21_NAME",
             "path": "portraits.TEXT_CHA_AR_5_21_NAME",
             "text": "Set, Warden of the Dead",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_4_23_NAME",
+            "path": "portraits.TEXT_CHA_AR_4_23_NAME",
+            "text": "Panpan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_23_NAME",
+            "path": "portraits.TEXT_CHA_AR_5_23_NAME",
+            "text": "Drifter Daddy Panpan",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_23_NAME",
+            "path": "portraits.TEXT_CHA_AR_6_23_NAME",
+            "text": "Great Father Panpan",
             "version": "4.7.0",
             "original": true
         },
@@ -19486,6 +19738,48 @@
             "key": "TEXT_CHA_HU_6_17_NAME",
             "path": "portraits.TEXT_CHA_HU_6_17_NAME",
             "text": "Navy Admiral Scarlet",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_19_NAME",
+            "path": "portraits.TEXT_CHA_HU_4_19_NAME",
+            "text": "Momotaro",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_19_NAME",
+            "path": "portraits.TEXT_CHA_HU_5_19_NAME",
+            "text": "Poor Momotaro",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_19_NAME",
+            "path": "portraits.TEXT_CHA_HU_6_19_NAME",
+            "text": "Rags to Riches Momotaro",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_4_20_NAME",
+            "path": "portraits.TEXT_CHA_HU_4_20_NAME",
+            "text": "Luicilla",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_20_NAME",
+            "path": "portraits.TEXT_CHA_HU_5_20_NAME",
+            "text": "Luicilla the Executor",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_20_NAME",
+            "path": "portraits.TEXT_CHA_HU_6_20_NAME",
+            "text": "Luicilla of Two Faces",
             "version": "4.7.0",
             "original": true
         },
@@ -20001,13 +20295,6 @@
             "original": true
         },
         {
-            "key": "TEXT_CHA_PA_6_23_NAME",
-            "path": "portraits.TEXT_CHA_PA_6_23_NAME",
-            "text": "Heim of the Sacred Ground",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
             "key": "TEXT_CHA_PR_2_6_NAME",
             "path": "portraits.TEXT_CHA_PR_2_6_NAME",
             "text": "Sister Maria",
@@ -20403,13 +20690,6 @@
             "key": "TEXT_CHA_PR_5_23_NAME",
             "path": "portraits.TEXT_CHA_PR_5_23_NAME",
             "text": "Guardian Vernil",
-            "version": "4.7.0",
-            "original": true
-        },
-        {
-            "key": "TEXT_CHA_PR_6_23_NAME",
-            "path": "portraits.TEXT_CHA_PR_6_23_NAME",
-            "text": "Vernil of Sacred Ground",
             "version": "4.7.0",
             "original": true
         },
@@ -20932,6 +21212,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_WA_4_22_NAME",
+            "path": "portraits.TEXT_CHA_WA_4_22_NAME",
+            "text": "Izuna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_5_22_NAME",
+            "path": "portraits.TEXT_CHA_WA_5_22_NAME",
+            "text": "Izuna of the Blade",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_22_NAME",
+            "path": "portraits.TEXT_CHA_WA_6_22_NAME",
+            "text": "Izuna the Vigilante",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_WA_4_27_NAME",
             "path": "portraits.TEXT_CHA_WA_4_27_NAME",
             "text": "Roskva",
@@ -20942,13 +21243,6 @@
             "key": "TEXT_CHA_WA_5_27_NAME",
             "path": "portraits.TEXT_CHA_WA_5_27_NAME",
             "text": "Roskva the Guardian",
-            "version": "4.13.1",
-            "original": true
-        },
-        {
-            "key": "TEXT_CHA_WA_6_27_NAME",
-            "path": "portraits.TEXT_CHA_WA_6_27_NAME",
-            "text": "Roskva of Sacred Ground",
             "version": "4.13.1",
             "original": true
         },

@@ -129,7 +129,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_4_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_4_DESC",
+            "pair": "COMMON_BETA_STONE_1"
+        }
     },
     {
         "ingame_id": "COMMON_BETA_STONE_2",
@@ -155,7 +159,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_MAGIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_MAGIC_2_DESC",
+            "pair": "COMMON_BETA_STONE_2"
+        }
     },
     {
         "ingame_id": "COMMON_BOUILLABAISSE_STONE_1",
@@ -269,7 +277,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_PHYSIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_PHYSIC_2_DESC",
+            "pair": "COMMON_COBRA_STONE_2"
+        }
     },
     {
         "ingame_id": "COMMON_CRIT_DODGE_RATE_STONE_1",
@@ -561,7 +573,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_PHYSIC_1_DESC",
+            "pair": "COMMON_GAMMA_STONE_1"
+        }
     },
     {
         "ingame_id": "COMMON_GAMMA_STONE_2",
@@ -979,7 +995,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_MAGIC_1_DESC",
+            "pair": "COMMON_MHORUS_STONE_1"
+        }
     },
     {
         "ingame_id": "COMMON_MHORUS_STONE_2",
@@ -1005,7 +1025,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_2_DESC",
+            "pair": "COMMON_MHORUS_STONE_2"
+        }
     },
     {
         "ingame_id": "COMMON_PENETRATE_DEF_STONE_1",
@@ -1269,7 +1293,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_1_DESC",
+            "pair": "COMMON_SCARAB_STONE_2"
+        }
     },
     {
         "ingame_id": "COMMON_SET_DEFFENCE_STONE_1",
@@ -1331,6 +1359,126 @@
             "name": "TEXT_COMMON_SET_EP1_DEFENCE_2_NAME",
             "effect": "TEXT_COMMON_SET_EP1_DEFENCE_2_DESC",
             "pair": "COMMON_GOBLINCHIEF_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "COMMON_SET_DEF_EP2_STONE_1",
+        "id": "COMMON_SET_DEF_EP2_STONE_1",
+        "name": "TEXT_COMMON_SET_DEF_EP2_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_DEF_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_01",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 9000,
+            "crit_chance": 0,
+            "armor": 225,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_1_DESC",
+            "pair": "COMMON_SCARAB_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "COMMON_SET_DEF_EP2_STONE_2",
+        "id": "COMMON_SET_DEF_EP2_STONE_2",
+        "name": "TEXT_COMMON_SET_DEF_EP2_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_DEF_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_02",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 9000,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 225,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_2_DESC",
+            "pair": "COMMON_MHORUS_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "COMMON_SET_DEF_EP2_STONE_3",
+        "id": "COMMON_SET_DEF_EP2_STONE_3",
+        "name": "TEXT_COMMON_SET_DEF_EP2_STONE_3_TITLE",
+        "description": "TEXT_COMMON_SET_DEF_EP2_STONE_3_DESC",
+        "image": "ui_item_stone_2_set_03",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 225,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_3_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_3_DESC",
+            "pair": "COMMON_SONOFGEB_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "COMMON_SET_DEF_EP2_STONE_4",
+        "id": "COMMON_SET_DEF_EP2_STONE_4",
+        "name": "TEXT_COMMON_SET_DEF_EP2_STONE_4_TITLE",
+        "description": "TEXT_COMMON_SET_DEF_EP2_STONE_4_DESC",
+        "image": "ui_item_stone_2_set_04",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 225,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_4_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_4_DESC",
+            "pair": "COMMON_BETA_STONE_1"
         }
     },
     {
@@ -1458,6 +1606,66 @@
         }
     },
     {
+        "ingame_id": "COMMON_SET_MAG_EP2_STONE_1",
+        "id": "COMMON_SET_MAG_EP2_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_EP2_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_06",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 225,
+            "dmg_reduction": 0,
+            "lifesteal": 0.02,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_MAGIC_1_DESC",
+            "pair": "COMMON_MHORUS_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "COMMON_SET_MAG_EP2_STONE_2",
+        "id": "COMMON_SET_MAG_EP2_STONE_2",
+        "name": "TEXT_COMMON_SET_MAG_EP2_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_08",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 225,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0.02,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_MAGIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_MAGIC_2_DESC",
+            "pair": "COMMON_BETA_STONE_2"
+        }
+    },
+    {
         "ingame_id": "COMMON_SET_PHYSIC_STONE_1",
         "id": "COMMON_SET_PHYSIC_STONE_1",
         "name": "TEXT_COMMON_SET_PHYSIC_STONE_1_TITLE",
@@ -1520,6 +1728,66 @@
         }
     },
     {
+        "ingame_id": "COMMON_SET_PHY_EP2_STONE_1",
+        "id": "COMMON_SET_PHY_EP2_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_EP2_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_05",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 225,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0.02,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_PHYSIC_1_DESC",
+            "pair": "COMMON_GAMMA_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "COMMON_SET_PHY_EP2_STONE_2",
+        "id": "COMMON_SET_PHY_EP2_STONE_2",
+        "name": "TEXT_COMMON_SET_PHY_EP2_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_07",
+        "grade": 2,
+        "sell_cost": 750,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 225,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0.02,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_PHYSIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_PHYSIC_2_DESC",
+            "pair": "COMMON_COBRA_STONE_2"
+        }
+    },
+    {
         "ingame_id": "COMMON_SONOFGEB_STONE_1",
         "id": "COMMON_SONOFGEB_STONE_1",
         "name": "TEXT_COMMON_SONOFGEB_STONE_1_TITLE",
@@ -1543,7 +1811,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_COMMON_SET_EP2_DEFENCE_3_NAME",
+            "effect": "TEXT_COMMON_SET_EP2_DEFENCE_3_DESC",
+            "pair": "COMMON_SONOFGEB_STONE_1"
+        }
     },
     {
         "ingame_id": "COMMON_SONOFGEB_STONE_2",
@@ -1883,7 +2155,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_PHYSIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_PHYSIC_2_DESC",
+            "pair": "EPIC_ANUBISIS_H_STONE_1"
+        }
     },
     {
         "ingame_id": "EPIC_ANUBISIS_H_STONE_2",
@@ -1909,7 +2185,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_MAGIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_MAGIC_2_DESC",
+            "pair": "EPIC_ANUBISIS_H_STONE_2"
+        }
     },
     {
         "ingame_id": "EPIC_ANUBISIS_STONE_1",
@@ -1935,7 +2215,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_3_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_3_DESC",
+            "pair": "EPIC_ANUBISIS_STONE_1"
+        }
     },
     {
         "ingame_id": "EPIC_ATK_POWER_STONE_1",
@@ -2431,7 +2715,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_PHYSIC_1_DESC",
+            "pair": "EPIC_JERAPHIM_H_STONE_1"
+        }
     },
     {
         "ingame_id": "EPIC_JERAPHIM_H_STONE_2",
@@ -2457,7 +2745,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_MAGIC_1_DESC",
+            "pair": "EPIC_JERAPHIM_H_STONE_2"
+        }
     },
     {
         "ingame_id": "EPIC_JERAPHIM_STONE_1",
@@ -3155,7 +3447,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_1_DESC",
+            "pair": "EPIC_SEKHMET_H_STONE_1"
+        }
     },
     {
         "ingame_id": "EPIC_SEKHMET_H_STONE_2",
@@ -3181,7 +3477,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_2_DESC",
+            "pair": "EPIC_SEKHMET_H_STONE_2"
+        }
     },
     {
         "ingame_id": "EPIC_SEKHMET_STONE_1",
@@ -3207,7 +3507,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_4_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_4_DESC",
+            "pair": "EPIC_SEKHMET_STONE_1"
+        }
     },
     {
         "ingame_id": "EPIC_SET_DEFFENCE_STONE_1",
@@ -3269,6 +3573,126 @@
             "name": "TEXT_EPIC_SET_EP1_DEFENCE_2_NAME",
             "effect": "TEXT_EPIC_SET_EP1_DEFENCE_2_DESC",
             "pair": "EPIC_ANCIENREGIME_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "EPIC_SET_DEF_EP2_STONE_1",
+        "id": "EPIC_SET_DEF_EP2_STONE_1",
+        "name": "TEXT_EPIC_SET_DEF_EP2_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_DEF_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_19",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 25000,
+            "crit_chance": 0,
+            "armor": 500,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_1_DESC",
+            "pair": "EPIC_SEKHMET_H_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "EPIC_SET_DEF_EP2_STONE_2",
+        "id": "EPIC_SET_DEF_EP2_STONE_2",
+        "name": "TEXT_EPIC_SET_DEF_EP2_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_DEF_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_18",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 25000,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 500,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_2_DESC",
+            "pair": "EPIC_SEKHMET_H_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "EPIC_SET_DEF_EP2_STONE_3",
+        "id": "EPIC_SET_DEF_EP2_STONE_3",
+        "name": "TEXT_EPIC_SET_DEF_EP2_STONE_3_TITLE",
+        "description": "TEXT_EPIC_SET_DEF_EP2_STONE_3_DESC",
+        "image": "ui_item_stone_2_set_17",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 1000,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_3_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_3_DESC",
+            "pair": "EPIC_ANUBISIS_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "EPIC_SET_DEF_EP2_STONE_4",
+        "id": "EPIC_SET_DEF_EP2_STONE_4",
+        "name": "TEXT_EPIC_SET_DEF_EP2_STONE_4_TITLE",
+        "description": "TEXT_EPIC_SET_DEF_EP2_STONE_4_DESC",
+        "image": "ui_item_stone_2_set_20",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 1000,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_DEFENCE_4_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_DEFENCE_4_DESC",
+            "pair": "EPIC_SEKHMET_STONE_1"
         }
     },
     {
@@ -3396,6 +3820,66 @@
         }
     },
     {
+        "ingame_id": "EPIC_SET_MAG_EP2_STONE_1",
+        "id": "EPIC_SET_MAG_EP2_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_EP2_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_22",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 750,
+            "dmg_reduction": 0,
+            "lifesteal": 0.08,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_MAGIC_1_DESC",
+            "pair": "EPIC_JERAPHIM_H_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "EPIC_SET_MAG_EP2_STONE_2",
+        "id": "EPIC_SET_MAG_EP2_STONE_2",
+        "name": "TEXT_EPIC_SET_MAG_EP2_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_24",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 750,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0.25,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_MAGIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_MAGIC_2_DESC",
+            "pair": "EPIC_ANUBISIS_H_STONE_2"
+        }
+    },
+    {
         "ingame_id": "EPIC_SET_PHYSIC_STONE_1",
         "id": "EPIC_SET_PHYSIC_STONE_1",
         "name": "TEXT_EPIC_SET_PHYSIC_STONE_1_TITLE",
@@ -3455,6 +3939,66 @@
             "name": "TEXT_EPIC_SET_EP1_PHYSIC_2_NAME",
             "effect": "TEXT_EPIC_SET_EP1_PHYSIC_2_DESC",
             "pair": "EPIC_AZATHOTH_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "EPIC_SET_PHY_EP2_STONE_1",
+        "id": "EPIC_SET_PHY_EP2_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_EP2_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_21",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 750,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0.08,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_PHYSIC_1_DESC",
+            "pair": "EPIC_JERAPHIM_H_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "EPIC_SET_PHY_EP2_STONE_2",
+        "id": "EPIC_SET_PHY_EP2_STONE_2",
+        "name": "TEXT_EPIC_SET_PHY_EP2_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_23",
+        "grade": 2,
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 750,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0.25,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP2_PHYSIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP2_PHYSIC_2_DESC",
+            "pair": "EPIC_ANUBISIS_H_STONE_1"
         }
     },
     {
@@ -3644,7 +4188,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_4_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_4_DESC",
+            "pair": "RARE_AMMUT_STONE_2"
+        }
     },
     {
         "ingame_id": "RARE_ANUBISIS_STONE_1",
@@ -3670,7 +4218,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_1_DESC",
+            "pair": "RARE_ANUBISIS_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_ANUBISIS_STONE_2",
@@ -3696,7 +4248,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_2_DESC",
+            "pair": "RARE_ANUBISIS_STONE_2"
+        }
     },
     {
         "ingame_id": "RARE_ATK_POWER_STONE_1",
@@ -4301,7 +4857,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP2_PHYSIC_1_DESC",
+            "pair": "RARE_OMEGA_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_OMEGA_STONE_2",
@@ -4327,7 +4887,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP2_MAGIC_1_DESC",
+            "pair": "RARE_OMEGA_STONE_2"
+        }
     },
     {
         "ingame_id": "RARE_PENETRATE_DEF_STONE_1",
@@ -4565,7 +5129,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_PHYSIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP2_PHYSIC_2_DESC",
+            "pair": "RARE_SEKHMET_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_SEKHMET_STONE_2",
@@ -4591,7 +5159,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_MAGIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP2_MAGIC_2_DESC",
+            "pair": "RARE_SEKHMET_STONE_2"
+        }
     },
     {
         "ingame_id": "RARE_SET_DEFFENCE_STONE_1",
@@ -4653,6 +5225,126 @@
             "name": "TEXT_RARE_SET_EP1_DEFENCE_2_NAME",
             "effect": "TEXT_RARE_SET_EP1_DEFENCE_2_DESC",
             "pair": "RARE_DOMPERIGNON_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "RARE_SET_DEF_EP2_STONE_1",
+        "id": "RARE_SET_DEF_EP2_STONE_1",
+        "name": "TEXT_RARE_SET_DEF_EP2_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_DEF_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_09",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 18000,
+            "crit_chance": 0,
+            "armor": 375,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_1_DESC",
+            "pair": "RARE_ANUBISIS_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "RARE_SET_DEF_EP2_STONE_2",
+        "id": "RARE_SET_DEF_EP2_STONE_2",
+        "name": "TEXT_RARE_SET_DEF_EP2_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_DEF_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_10",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 18000,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 375,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_2_DESC",
+            "pair": "RARE_ANUBISIS_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "RARE_SET_DEF_EP2_STONE_3",
+        "id": "RARE_SET_DEF_EP2_STONE_3",
+        "name": "TEXT_RARE_SET_DEF_EP2_STONE_3_TITLE",
+        "description": "TEXT_RARE_SET_DEF_EP2_STONE_3_DESC",
+        "image": "ui_item_stone_2_set_11",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 550,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_3_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_3_DESC",
+            "pair": "RARE_TOMBKING_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "RARE_SET_DEF_EP2_STONE_4",
+        "id": "RARE_SET_DEF_EP2_STONE_4",
+        "name": "TEXT_RARE_SET_DEF_EP2_STONE_4_TITLE",
+        "description": "TEXT_RARE_SET_DEF_EP2_STONE_4_DESC",
+        "image": "ui_item_stone_2_set_12",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 550,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_4_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_4_DESC",
+            "pair": "RARE_AMMUT_STONE_2"
         }
     },
     {
@@ -4780,6 +5472,66 @@
         }
     },
     {
+        "ingame_id": "RARE_SET_MAG_EP2_STONE_1",
+        "id": "RARE_SET_MAG_EP2_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_EP2_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_14",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 500,
+            "dmg_reduction": 0,
+            "lifesteal": 0.05,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP2_MAGIC_1_DESC",
+            "pair": "RARE_OMEGA_STONE_2"
+        }
+    },
+    {
+        "ingame_id": "RARE_SET_MAG_EP2_STONE_2",
+        "id": "RARE_SET_MAG_EP2_STONE_2",
+        "name": "TEXT_RARE_SET_MAG_EP2_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_MAG_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_16",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 375,
+            "hp": 0,
+            "crit_chance": 0.03,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_MAGIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP2_MAGIC_2_DESC",
+            "pair": "RARE_SEKHMET_STONE_2"
+        }
+    },
+    {
         "ingame_id": "RARE_SET_PHYSIC_STONE_1",
         "id": "RARE_SET_PHYSIC_STONE_1",
         "name": "TEXT_RARE_SET_PHYSIC_STONE_1_TITLE",
@@ -4839,6 +5591,66 @@
             "name": "TEXT_RARE_SET_EP1_PHYSIC_2_NAME",
             "effect": "TEXT_RARE_SET_EP1_PHYSIC_2_DESC",
             "pair": "RARE_BOUILLABAISSE_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "RARE_SET_PHY_EP2_STONE_1",
+        "id": "RARE_SET_PHY_EP2_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_EP2_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_EP2_STONE_1_DESC",
+        "image": "ui_item_stone_2_set_13",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 0,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0,
+            "evasion": 0,
+            "armor_pen": 500,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0.05,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP2_PHYSIC_1_DESC",
+            "pair": "RARE_OMEGA_STONE_1"
+        }
+    },
+    {
+        "ingame_id": "RARE_SET_PHY_EP2_STONE_2",
+        "id": "RARE_SET_PHY_EP2_STONE_2",
+        "name": "TEXT_RARE_SET_PHY_EP2_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_PHY_EP2_STONE_2_DESC",
+        "image": "ui_item_stone_2_set_15",
+        "grade": 2,
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "atk_power": 375,
+            "hp": 0,
+            "crit_chance": 0,
+            "armor": 0,
+            "resistance": 0,
+            "crit_dmg": 0,
+            "accuracy": 0.05,
+            "evasion": 0,
+            "armor_pen": 0,
+            "resistance_pen": 0,
+            "dmg_reduction": 0,
+            "lifesteal": 0,
+            "crit_chance_reduction": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_PHYSIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP2_PHYSIC_2_DESC",
+            "pair": "RARE_SEKHMET_STONE_1"
         }
     },
     {
@@ -4954,7 +5766,11 @@
             "lifesteal": 0,
             "crit_chance_reduction": 0
         },
-        "set": null
+        "set": {
+            "name": "TEXT_RARE_SET_EP2_DEFENCE_3_NAME",
+            "effect": "TEXT_RARE_SET_EP2_DEFENCE_3_DESC",
+            "pair": "RARE_TOMBKING_STONE_1"
+        }
     },
     {
         "ingame_id": "RARE_TOMBKING_STONE_2",
