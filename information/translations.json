@@ -85315,18 +85315,18 @@
         "original": true
     },
     "TEXT_MULTI_DESYNC_COUNT": {
-        "text": "Suspicious Activity Count: {0}",
-        "version": "4.12.1",
+        "text": "Total Occurrences: {0} time(s)",
+        "version": "4.15.3",
         "original": true
     },
     "TEXT_MULTI_DESYNC_DESC": {
-        "text": "Suspicious activity has been detected. The game will automatically close and you will return to the Town Lobby. Repeated detections may result in penalty regarding game service.",
-        "version": "4.12.1",
+        "text": "Due to an error that occurred during gameplay, the current instance will be closed and you will be taken back to town.",
+        "version": "4.15.3",
         "original": true
     },
     "TEXT_MULTI_DESYNC_TITLE": {
-        "text": "Suspicious Activity Detected!",
-        "version": "4.12.1",
+        "text": "Error Report",
+        "version": "4.15.3",
         "original": true
     },
     "TEXT_MULTI_DISCONNECT_DESC": {
@@ -86575,8 +86575,8 @@
         "original": true
     },
     "TEXT_CHALLENGERAID_PACK_DESC": {
-        "text": "Get 2 Jewels, Treasure of Trista, and Canopic Jars at once!",
-        "version": "4.14.1",
+        "text": "Get 3 Jewels, Treasure of Trista, and Canopic Jars at once!",
+        "version": "4.15.3",
         "original": true
     },
     "TEXT_CHALLENGERAID_PACK_MAIL_CONTENT": {
@@ -87497,6 +87497,206 @@
     "TEXT_WR_EP2_WORLDBOSS_ICE": {
         "text": "Take care not to freeze.\nI shall deal with the rest!",
         "version": "4.14.1",
+        "original": true
+    },
+    "TEXT_CHA_AR_4_26_DESC": {
+        "text": "A young girl who lost her parents in a shipwreck. After washing up on a small, quiet beach, she is miraculously rescued by an elderly couple. The kind-hearted couple take the girl to their home and name her 'Haerang' after her hair, which has the color of the clearest ocean.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_AR_4_26_NAME": {
+        "text": "Haerang",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_26_DESC": {
+        "text": "Under the care of the elderly couple, whom she now calls her parents, Haerang grows up into a young woman and starts picking shells and mollusks to provide for her home. One fateful day, Haerang sees in the ocean a strange shell with a bluish pearl inside. Her fingers instinctively reach out for the shell...",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_26_NAME": {
+        "text": "Haerang, Child of the Sea",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_26_DESC": {
+        "text": "The moment her fingers graze over the pearl within the shell, Haerang regains the memories of her past life and true identity: the Oracle of Water, the fabled guardian of the mythical seas of the East. After her previous death centuries ago, she had attempted to reincarnate with her memories intact - but had failed to do so due to the interference of one sinister being. After realizing the immense truth, Haerang runs back to the cottage by the sea to reveal the news to the elderly couple. Yet only the sight of an old, derelict house greets her, and the ocean quietly calls her name.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_26_NAME": {
+        "text": "Haerang, Oracle of Water",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_26_DESC": {
+        "text": "The only daughter of Ura, the Chieftain of the Onis of Onigashima. Urako spends her days in happiness with her stern but affectionate father and their kind-hearted neighbors. One day, however, a monstrous human invades the peaceful island and defeats Urako's father, stealing every last penny from his castle.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_26_NAME": {
+        "text": "Urako",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_26_DESC": {
+        "text": "Urako's \"kind\" neighbors, after finding out that the once-mighty Ura is now penniless and powerless, start to treat them with scorn and contempt. Urako vows revenge on the monstrous human who forced them into such poverty.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_26_NAME": {
+        "text": "Urako of Revenge",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_26_DESC": {
+        "text": "Urako starts for the country of Ryu, intent on hunting down the human. However, a Kitsune spirit, a Tengu, and a Nue block her path, worried for the beloved daughter of the Chieftain for whom their respect has gone unchanged. When Urako refuses to return home, the three spirits join the young Oni on her journey. After many hardships, the four friends finally arrive in Ryu, and Urako manages to track down her victim. The time has come for her to swing her kanabo and get her revenge! But what's this? When she meets the eyes of the 'monstrous human,' Urako discovers, to her complete surprise, that he doesn't look so \"monstrous\" after all. Her heart beating furiously like it has never before, Urako lowers her kanabo and flees from embarrassment, muttering about \"revenge best served cold.\" What are these feelings tickling her heart, she wonders?",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_26_NAME": {
+        "text": "Urako of Love and War",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_COS_HU_23_31": {
+        "text": "Steampunk Bellerophon",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_COS_HU_26_31": {
+        "text": "Lyudmilla, Lady of Spring",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_COS_PA_1_31": {
+        "text": "Playtime Thor",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_COS_PA_26_31": {
+        "text": "Playtime Odin",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_COS_PR_27_31": {
+        "text": "Basquiat of Spring Rain",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_COS_WA_27_31": {
+        "text": "Playtime Roskva",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_AR_HAERANG_DESC": {
+        "text": "Haerang shoots [1/2/3] water projectiles that each deal @magical damage@ equal to 500% of attack power.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_AR_HAERANG_LV2_SUBDESC": {
+        "text": "Upon hitting the enemy 4 times with her normal attack or block skill, Haerang uses 'Ocean's Tears' on the frontmost enemy to deal @magical damage@ equal to 500% of her attack power. (Cooltime: 3 seconds)",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_AR_HAERANG_LV3_SUBDESC": {
+        "text": "Upon hitting the enemy 4 times with her normal attack or block skill, Haerang uses 'Ocean's Tears' on the frontmost enemy to deal @magical damage@ equal to 700% of her attack power. (Cooltime: 3 seconds)",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_AR_HAERANG_NAME": {
+        "text": "Water's Might",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_AR_HAERANG_SUBNAME": {
+        "text": "Ocean's Tears",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_WI_URAKO_DESC": {
+        "text": "Using blocks summons members of Team Urako for 5 seconds each in the following order: [Tsune/Tenko/Nue]. If members of Team Urako are already summoned, the duration of 'Team Urako!' is renewed.\n\n- Team Urako!\nTsune: A cute fox spirit.\nTenko: Tenko throws his feathers toward the frontmost enemy every 2 seconds to deal @magical damage@ equal to 500% of attack power.\nNue: Nue throws fireballs toward the frontmost enemy to deal @magical damage@ equal to [400/700/1000]% of attack power, according to the chain number used.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_WI_URAKO_LV2_SUBDESC": {
+        "text": "If members of Team Urako are summoned, they additionally cast the below buffs:\n\nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_WI_URAKO_LV3_SUBDESC": {
+        "text": "If members of Team Urako are summoned, they additionally cast the below buffs: \n\nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%\n\nIf the entirety of Team Urako is summoned, the values of the buffs are doubled.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_WI_URAKO_NAME": {
+        "text": "Team Urako!",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_SKILL_WI_URAKO_SUBNAME": {
+        "text": "Go, Go, Team Urako!",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_26_DESC": {
+        "text": "(Passive Enhanced) 'Ocean's Tears' deals magical damage equal to 1000% of Haerang's attack power.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_26_NAME": {
+        "text": "Calm Waters",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_26_DESC": {
+        "text": "(Passive Enhanced) 'Ocean's Tears' deals magical damage equal to 1000% of Haerang's attack power.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_26_NAME": {
+        "text": "Tempestuous Waters",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_26_DESC": {
+        "text": "(Passive Enhanced) 'Ocean's Tears' deals magical damage equal to 1000% of Haerang's attack power.\n(Passive Added) Upon using her own block after another ally's 3-chain, Haerang transforms into the 'Oracle of Water' for 20 seconds. In this state, Haerang cannot be stunned. (Cooltime: 20 seconds)\n(Passive Added) As the 'Oracle of Water,' Haerang's normal attacks and block skills are activated as 'Oracle's Arrow.'\n- 'Oracle's Arrow': Haerang shoots 4 'Oracle's Arrows' at the frontmost enemy that each deal magical damage equal to 500% of her attack power. All 'Oracle's Arrows' activated by Haerang's block skills are acknowledged as 1-chains.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_26_NAME": {
+        "text": "Oracle's Will",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_26_DESC": {
+        "text": "(Block Skill Enhanced) The duration of 'Team Urako!' is increased by 3 seconds.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_26_NAME": {
+        "text": "Kanabo",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_26_DESC": {
+        "text": "(Block Skill Enhanced) The duration of 'Team Urako!' is increased by 3 seconds.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_26_NAME": {
+        "text": "Wondrous Kanabo",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_26_DESC": {
+        "text": "(Block Skill Enhanced) The duration of 'Team Urako!' is increased by 3 seconds.\n(Passive Added) Upon using her own 3-chain after another ally's 1- or 3-chain, Urako summons all members of Team Urako. (Cooltime: 2 seconds)\n(Passive Added) While the entirety of Team Urako is summoned, all of Urako's chains are activated with the same power as a 3-chain.",
+        "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_26_NAME": {
+        "text": "Urako's Makanobo",
+        "version": "4.15.3",
         "original": true
     }
 }

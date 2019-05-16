@@ -4223,7 +4223,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rahima_default"
+        ],
         "skins": [
             {
                 "id": 8,
@@ -5525,6 +5527,132 @@
                 }
             }
         ]
+    },
+    {
+        "id": "haerang",
+        "readableId": "haerang",
+        "faction": "han",
+        "class": "archer",
+        "type": "contract",
+        "gender": "female",
+        "domain": "HAN",
+        "forms": [
+            {
+                "id": "CHA_AR_4_26",
+                "name": "TEXT_CHA_AR_4_26_NAME",
+                "image": "ar_4_26",
+                "star": 4,
+                "atk_power": 514.2800000000001,
+                "hp": 2216.5,
+                "crit_chance": 0.1,
+                "armor": 79.1375,
+                "resistance": 79.1375,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_4_26_DESC",
+                "block_image": "ui_skill_icon_archer_haerang",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_HAERANG_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_HAERANG_NAME",
+                "block_description": "TEXT_SKILL_AR_HAERANG_DESC",
+                "passive_description": "TEXT_SKILL_AR_HAERANG_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_AR_5_26",
+                "name": "TEXT_CHA_AR_5_26_NAME",
+                "image": "ar_5_26",
+                "star": 5,
+                "atk_power": 831.1800000000001,
+                "hp": 4238.5,
+                "crit_chance": 0.1,
+                "armor": 123.30499999999999,
+                "resistance": 123.30499999999999,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_5_26_DESC",
+                "block_image": "ui_skill_icon_archer_haerang",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_HAERANG_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_HAERANG_NAME",
+                "block_description": "TEXT_SKILL_AR_HAERANG_DESC",
+                "passive_description": "TEXT_SKILL_AR_HAERANG_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_AR_6_26",
+                "name": "TEXT_CHA_AR_6_26_NAME",
+                "image": "ar_6_26",
+                "star": 6,
+                "atk_power": 1214.6999999999998,
+                "hp": 6555.75,
+                "crit_chance": 0.1,
+                "armor": 181.91250000000002,
+                "resistance": 181.91250000000002,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_6_26_DESC",
+                "block_image": "ui_skill_icon_archer_haerang",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_AR_HAERANG_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_HAERANG_NAME",
+                "block_description": "TEXT_SKILL_AR_HAERANG_DESC",
+                "passive_description": "TEXT_SKILL_AR_HAERANG_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 237,
+                    "hp": 1080,
+                    "crit_chance": 0.1,
+                    "armor": 101,
+                    "resistance": 101,
+                    "crit_dmg": 0.5,
+                    "accuracy": 0.11,
+                    "evasion": 0.11
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_BO_CHA_4_26",
+                "name": "TEXT_WEP_LEGEND_BO_CHA_4_26_NAME",
+                "image": "bo_s4_26",
+                "ability": "TEXT_WEP_LEGEND_BO_CHA_4_26_DESC",
+                "star": 4,
+                "atk_power": 65,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_BO_CHA_5_26",
+                "name": "TEXT_WEP_LEGEND_BO_CHA_5_26_NAME",
+                "image": "bo_s5_26",
+                "ability": "TEXT_WEP_LEGEND_BO_CHA_5_26_DESC",
+                "star": 5,
+                "atk_power": 107,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_BO_CHA_6_26",
+                "name": "TEXT_WEP_LEGEND_BO_CHA_6_26_NAME",
+                "image": "bo_s6_26",
+                "ability": "TEXT_WEP_LEGEND_BO_CHA_6_26_DESC",
+                "star": 6,
+                "atk_power": 165,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow",
+                "type": "sbw"
+            }
+        ],
+        "portraits": [],
+        "skins": []
     },
     {
         "id": "gunman",
@@ -7951,7 +8079,7 @@
         ],
         "skins": [
             {
-                "id": 160,
+                "id": 162,
                 "image": "hu_limited_rb_ruby_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_RUBY_PAJAMAS",
@@ -7961,7 +8089,7 @@
                 }
             },
             {
-                "id": 161,
+                "id": 163,
                 "image": "hu_limited_rb_ruby_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_RUBY_SCHOOL",
@@ -8099,7 +8227,7 @@
         ],
         "skins": [
             {
-                "id": 158,
+                "id": 160,
                 "image": "hu_limited_rb_nora_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_NORA_PAJAMAS",
@@ -8109,7 +8237,7 @@
                 }
             },
             {
-                "id": 159,
+                "id": 161,
                 "image": "hu_limited_rb_nora_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_NORA_SCHOOL",
@@ -8247,7 +8375,7 @@
         ],
         "skins": [
             {
-                "id": 267,
+                "id": 273,
                 "image": "cos_wa_limited_ys8_hummel_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_HUMMEL_COLOR",
@@ -8386,7 +8514,7 @@
         ],
         "skins": [
             {
-                "id": 146,
+                "id": 148,
                 "image": "cos_hu_2_20",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_2_20",
@@ -8395,7 +8523,7 @@
                 }
             },
             {
-                "id": 147,
+                "id": 149,
                 "image": "cos_hu_2_5",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_2_5",
@@ -8543,7 +8671,7 @@
                 }
             },
             {
-                "id": 148,
+                "id": 150,
                 "image": "cos_hu_3_4",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_3_4",
@@ -8682,7 +8810,7 @@
         ],
         "skins": [
             {
-                "id": 149,
+                "id": 151,
                 "image": "cos_hu_4_13",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_4_13",
@@ -8691,7 +8819,7 @@
                 }
             },
             {
-                "id": 150,
+                "id": 152,
                 "image": "cos_hu_4_7",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_4_7",
@@ -8830,7 +8958,7 @@
         ],
         "skins": [
             {
-                "id": 151,
+                "id": 153,
                 "image": "cos_hu_5_10",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_5_11",
@@ -8969,7 +9097,7 @@
         ],
         "skins": [
             {
-                "id": 152,
+                "id": 154,
                 "image": "cos_hu_6_12",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_6_12",
@@ -9108,7 +9236,7 @@
         ],
         "skins": [
             {
-                "id": 153,
+                "id": 155,
                 "image": "cos_hu_7_1",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_7_1",
@@ -9118,7 +9246,7 @@
                 }
             },
             {
-                "id": 154,
+                "id": 156,
                 "image": "cos_hu_7_11",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_7_11",
@@ -9257,7 +9385,7 @@
         ],
         "skins": [
             {
-                "id": 155,
+                "id": 157,
                 "image": "cos_hu_8_13",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_8_13",
@@ -9396,7 +9524,7 @@
         ],
         "skins": [
             {
-                "id": 156,
+                "id": 158,
                 "image": "cos_hu_9_13",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_9_13",
@@ -9406,7 +9534,7 @@
                 }
             },
             {
-                "id": 157,
+                "id": 159,
                 "image": "cos_hu_9_2",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_9_2",
@@ -11281,6 +11409,15 @@
                 "stats": {
                     "atk_power": 100
                 }
+            },
+            {
+                "id": 144,
+                "image": "cos_hu_23_31",
+                "cost": 1000,
+                "name": "TEXT_COS_HU_23_31",
+                "stats": {
+                    "atk_power": 200
+                }
             }
         ]
     },
@@ -11410,7 +11547,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 144,
+                "id": 145,
                 "image": "cos_hu_24_25",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_24_25",
@@ -11546,7 +11683,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 145,
+                "id": 146,
                 "image": "cos_hu_25_29",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_25_29",
@@ -11680,7 +11817,17 @@
             }
         ],
         "portraits": [],
-        "skins": []
+        "skins": [
+            {
+                "id": 147,
+                "image": "cos_hu_26_31",
+                "cost": 1000,
+                "name": "TEXT_COS_HU_26_31",
+                "stats": {
+                    "atk_power": 200
+                }
+            }
+        ]
     },
     {
         "id": "ag01-neo",
@@ -13619,7 +13766,7 @@
         ],
         "skins": [
             {
-                "id": 184,
+                "id": 188,
                 "image": "cos_pa_5_17",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_5_17",
@@ -13629,7 +13776,7 @@
                 }
             },
             {
-                "id": 185,
+                "id": 189,
                 "image": "cos_pa_5_2",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_5_2",
@@ -13844,7 +13991,7 @@
                 }
             },
             {
-                "id": 166,
+                "id": 168,
                 "image": "cos_pa_11_7",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_11_7",
@@ -14835,7 +14982,7 @@
         ],
         "skins": [
             {
-                "id": 192,
+                "id": 196,
                 "image": "pa_limited_rb_yang_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_YANG_PAJAMAS",
@@ -14845,7 +14992,7 @@
                 }
             },
             {
-                "id": 193,
+                "id": 197,
                 "image": "pa_limited_rb_yang_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_YANG_SCHOOL",
@@ -15110,7 +15257,7 @@
         ],
         "skins": [
             {
-                "id": 190,
+                "id": 194,
                 "image": "pa_limited_rb_pyrrha_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_PYRRHA_PAJAMAS",
@@ -15120,7 +15267,7 @@
                 }
             },
             {
-                "id": 191,
+                "id": 195,
                 "image": "pa_limited_rb_pyrrha_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_PYRRHA_SCHOOL",
@@ -15258,7 +15405,7 @@
         ],
         "skins": [
             {
-                "id": 194,
+                "id": 198,
                 "image": "cos_pa_limited_rz_03",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_RZ_03",
@@ -15396,7 +15543,7 @@
         ],
         "skins": [
             {
-                "id": 270,
+                "id": 276,
                 "image": "cos_wa_limited_ys8_ricotta_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_RICOTTA_COLOR",
@@ -15406,7 +15553,7 @@
                 }
             },
             {
-                "id": 271,
+                "id": 277,
                 "image": "cos_wa_limited_ys8_ricotta_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_RICOTTA_TROPICAL",
@@ -15543,7 +15690,7 @@
         ],
         "skins": [
             {
-                "id": 272,
+                "id": 278,
                 "image": "cos_wa_limited_ys8_sahad_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_SAHAD_COLOR",
@@ -15682,13 +15829,23 @@
         ],
         "skins": [
             {
-                "id": 174,
+                "id": 176,
                 "image": "cos_pa_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_1_1",
                 "stats": {
                     "hp": 1000,
                     "armor": 200
+                }
+            },
+            {
+                "id": 177,
+                "image": "cos_pa_1_31",
+                "cost": 1000,
+                "name": "TEXT_COS_PA_1_31",
+                "stats": {
+                    "atk_power": 100,
+                    "hp": 400
                 }
             }
         ]
@@ -15840,7 +15997,7 @@
                 }
             },
             {
-                "id": 181,
+                "id": 185,
                 "image": "cos_pa_2_3",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_2_3",
@@ -15974,10 +16131,12 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_achilles_default"
+        ],
         "skins": [
             {
-                "id": 182,
+                "id": 186,
                 "image": "cos_pa_3_13",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_3_13",
@@ -16134,7 +16293,7 @@
                 }
             },
             {
-                "id": 183,
+                "id": 187,
                 "image": "cos_pa_4_8",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_4_8",
@@ -16273,7 +16432,7 @@
         ],
         "skins": [
             {
-                "id": 186,
+                "id": 190,
                 "image": "cos_pa_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_6_5",
@@ -16422,7 +16581,7 @@
                 }
             },
             {
-                "id": 187,
+                "id": 191,
                 "image": "cos_pa_7_4",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_7_4",
@@ -16571,7 +16730,7 @@
                 }
             },
             {
-                "id": 188,
+                "id": 192,
                 "image": "cos_pa_8_6",
                 "cost": 1000,
                 "name": "TEXT_CHA_PA_8_6",
@@ -16720,7 +16879,7 @@
                 }
             },
             {
-                "id": 189,
+                "id": 193,
                 "image": "cos_pa_9_9",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_9_9",
@@ -16868,7 +17027,7 @@
                 }
             },
             {
-                "id": 165,
+                "id": 167,
                 "image": "cos_pa_10_12",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_10_12",
@@ -17017,7 +17176,7 @@
                 }
             },
             {
-                "id": 167,
+                "id": 169,
                 "image": "cos_pa_13_17",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_13_17",
@@ -17166,7 +17325,7 @@
                 }
             },
             {
-                "id": 168,
+                "id": 170,
                 "image": "cos_pa_14_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_14_14",
@@ -17315,7 +17474,7 @@
                 }
             },
             {
-                "id": 169,
+                "id": 171,
                 "image": "cos_pa_15_11",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_15_11",
@@ -17454,7 +17613,7 @@
         ],
         "skins": [
             {
-                "id": 170,
+                "id": 172,
                 "image": "cos_pa_16_18",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_16_18_NAME",
@@ -17593,7 +17752,7 @@
         ],
         "skins": [
             {
-                "id": 171,
+                "id": 173,
                 "image": "cos_pa_17_15",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_17_15_NAME",
@@ -17742,7 +17901,7 @@
                 }
             },
             {
-                "id": 172,
+                "id": 174,
                 "image": "cos_pa_18_16",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_18_16",
@@ -17890,7 +18049,7 @@
                 }
             },
             {
-                "id": 173,
+                "id": 175,
                 "image": "cos_pa_19_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_19_19",
@@ -18027,7 +18186,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 175,
+                "id": 178,
                 "image": "cos_pa_20_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_20_20_NAME",
@@ -18166,7 +18325,7 @@
         ],
         "skins": [
             {
-                "id": 176,
+                "id": 179,
                 "image": "cos_pa_21_21",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_21_21",
@@ -18305,7 +18464,7 @@
         ],
         "skins": [
             {
-                "id": 177,
+                "id": 180,
                 "image": "cos_pa_22_22",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_22_22",
@@ -18444,7 +18603,7 @@
         ],
         "skins": [
             {
-                "id": 178,
+                "id": 181,
                 "image": "cos_pa_23_23",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_23_23",
@@ -18581,7 +18740,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 179,
+                "id": 182,
                 "image": "cos_pa_24_27",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_24_27",
@@ -18718,7 +18877,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 180,
+                "id": 183,
                 "image": "cos_pa_25_30",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_25_30",
@@ -18853,7 +19012,18 @@
             }
         ],
         "portraits": [],
-        "skins": []
+        "skins": [
+            {
+                "id": 184,
+                "image": "cos_pa_26_31",
+                "cost": 1000,
+                "name": "TEXT_COS_PA_26_31",
+                "stats": {
+                    "atk_power": 100,
+                    "hp": 400
+                }
+            }
+        ]
     },
     {
         "id": "pastor",
@@ -20424,7 +20594,7 @@
                 }
             },
             {
-                "id": 219,
+                "id": 224,
                 "image": "cos_pr_2_6",
                 "cost": 1000,
                 "name": "TEXT_CHA_PR_2_6",
@@ -20639,7 +20809,7 @@
                 }
             },
             {
-                "id": 197,
+                "id": 201,
                 "image": "cos_pr_11_13",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_11_13",
@@ -21237,7 +21407,7 @@
         ],
         "skins": [
             {
-                "id": 225,
+                "id": 230,
                 "image": "cos_pr_limited_rz_07",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_RZ_07",
@@ -21396,7 +21566,7 @@
                 }
             },
             {
-                "id": 207,
+                "id": 211,
                 "image": "cos_pr_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_1_1",
@@ -21535,7 +21705,7 @@
         ],
         "skins": [
             {
-                "id": 214,
+                "id": 219,
                 "image": "cos_pr_3_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_3_20",
@@ -21545,7 +21715,7 @@
                 }
             },
             {
-                "id": 215,
+                "id": 220,
                 "image": "cos_pr_3_7",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_3_7",
@@ -21694,7 +21864,7 @@
                 }
             },
             {
-                "id": 216,
+                "id": 221,
                 "image": "cos_pr_4_3",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_4_3",
@@ -21832,7 +22002,7 @@
         ],
         "skins": [
             {
-                "id": 217,
+                "id": 222,
                 "image": "cos_pr_5_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_5_20",
@@ -21842,7 +22012,7 @@
                 }
             },
             {
-                "id": 218,
+                "id": 223,
                 "image": "cos_pr_5_9",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_5_9",
@@ -21990,7 +22160,7 @@
                 }
             },
             {
-                "id": 220,
+                "id": 225,
                 "image": "cos_pr_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_6_5",
@@ -22138,7 +22308,7 @@
                 }
             },
             {
-                "id": 221,
+                "id": 226,
                 "image": "cos_pr_7_8",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_7_8",
@@ -22286,7 +22456,7 @@
                 }
             },
             {
-                "id": 222,
+                "id": 227,
                 "image": "cos_pr_8_11",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_8_11",
@@ -22425,7 +22595,7 @@
         ],
         "skins": [
             {
-                "id": 223,
+                "id": 228,
                 "image": "cos_pr_9_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_9_19_NAME",
@@ -22435,7 +22605,7 @@
                 }
             },
             {
-                "id": 224,
+                "id": 229,
                 "image": "cos_pr_9_4",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_9_4",
@@ -22573,7 +22743,7 @@
         ],
         "skins": [
             {
-                "id": 195,
+                "id": 199,
                 "image": "cos_pr_10_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_10_14",
@@ -22583,7 +22753,7 @@
                 }
             },
             {
-                "id": 196,
+                "id": 200,
                 "image": "cos_pr_10_2",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_10_2",
@@ -22741,7 +22911,7 @@
                 }
             },
             {
-                "id": 198,
+                "id": 202,
                 "image": "cos_pr_12_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_12_14",
@@ -22890,7 +23060,7 @@
                 }
             },
             {
-                "id": 199,
+                "id": 203,
                 "image": "cos_pr_13_18",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_13_18_NAME",
@@ -23037,7 +23207,7 @@
                 }
             },
             {
-                "id": 200,
+                "id": 204,
                 "image": "cos_pr_14_12",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_14_12",
@@ -23184,7 +23354,7 @@
                 }
             },
             {
-                "id": 201,
+                "id": 205,
                 "image": "cos_pr_15_15",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_15_15_NAME",
@@ -23323,7 +23493,7 @@
         ],
         "skins": [
             {
-                "id": 202,
+                "id": 206,
                 "image": "cos_pr_16_16",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_16_16",
@@ -23470,7 +23640,7 @@
                 }
             },
             {
-                "id": 203,
+                "id": 207,
                 "image": "cos_pr_17_17",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_17_17",
@@ -23609,7 +23779,7 @@
         ],
         "skins": [
             {
-                "id": 204,
+                "id": 208,
                 "image": "cos_pr_18_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_18_19",
@@ -23746,7 +23916,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 205,
+                "id": 209,
                 "image": "cos_pr_19_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_19_20_NAME",
@@ -23756,7 +23926,7 @@
                 }
             },
             {
-                "id": 206,
+                "id": 210,
                 "image": "cos_pr_19_30",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_19_30",
@@ -23890,10 +24060,12 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_seimei_default"
+        ],
         "skins": [
             {
-                "id": 208,
+                "id": 212,
                 "image": "cos_pr_20_21",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_20_21",
@@ -24032,7 +24204,7 @@
         ],
         "skins": [
             {
-                "id": 209,
+                "id": 213,
                 "image": "cos_pr_21_22",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_21_22",
@@ -24169,7 +24341,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 210,
+                "id": 214,
                 "image": "cos_pr_22_23",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_22_23",
@@ -24308,7 +24480,7 @@
         ],
         "skins": [
             {
-                "id": 211,
+                "id": 215,
                 "image": "cos_pr_23_24",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_23_24",
@@ -24445,7 +24617,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 212,
+                "id": 216,
                 "image": "cos_pr_24_28",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_24_28",
@@ -24591,7 +24763,7 @@
                 }
             },
             {
-                "id": 213,
+                "id": 217,
                 "image": "cos_pr_25_28",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_25_28",
@@ -24852,7 +25024,18 @@
             }
         ],
         "portraits": [],
-        "skins": []
+        "skins": [
+            {
+                "id": 218,
+                "image": "cos_pr_27_31",
+                "cost": 1000,
+                "name": "TEXT_COS_PR_27_31",
+                "stats": {
+                    "atk_power": 50,
+                    "hp": 600
+                }
+            }
+        ]
     },
     {
         "id": "young_villager",
@@ -26424,7 +26607,7 @@
                 }
             },
             {
-                "id": 238,
+                "id": 243,
                 "image": "cos_wa_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_1_1",
@@ -26434,7 +26617,7 @@
                 }
             },
             {
-                "id": 239,
+                "id": 244,
                 "image": "cos_wa_1_6",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_1_6",
@@ -26649,7 +26832,7 @@
                 }
             },
             {
-                "id": 228,
+                "id": 233,
                 "image": "cos_wa_11_3",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_11_3",
@@ -27332,7 +27515,7 @@
         ],
         "skins": [
             {
-                "id": 258,
+                "id": 264,
                 "image": "wa_limited_rb_weiss_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_WEISS_PAJAMAS",
@@ -27342,7 +27525,7 @@
                 }
             },
             {
-                "id": 259,
+                "id": 265,
                 "image": "wa_limited_rb_weiss_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_WEISS_SCHOOL",
@@ -28150,7 +28333,7 @@
         ],
         "skins": [
             {
-                "id": 256,
+                "id": 262,
                 "image": "wa_limited_rb_blake_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_BLAKE_PAJAMAS",
@@ -28160,7 +28343,7 @@
                 }
             },
             {
-                "id": 257,
+                "id": 263,
                 "image": "wa_limited_rb_blake_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_BLAKE_SCHOOL",
@@ -28335,7 +28518,7 @@
         ],
         "skins": [
             {
-                "id": 260,
+                "id": 266,
                 "image": "cos_wa_limited_rz_02",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_RZ_02",
@@ -28600,7 +28783,7 @@
         ],
         "skins": [
             {
-                "id": 261,
+                "id": 267,
                 "image": "cos_wa_limited_ys8_adol_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_COLOR",
@@ -28610,7 +28793,7 @@
                 }
             },
             {
-                "id": 262,
+                "id": 268,
                 "image": "cos_wa_limited_ys8_adol_special",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_SPECIAL",
@@ -28620,7 +28803,7 @@
                 }
             },
             {
-                "id": 263,
+                "id": 269,
                 "image": "cos_wa_limited_ys8_adol_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_TROPICAL",
@@ -28757,7 +28940,7 @@
         ],
         "skins": [
             {
-                "id": 264,
+                "id": 270,
                 "image": "cos_wa_limited_ys8_dana_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_COLOR",
@@ -28767,7 +28950,7 @@
                 }
             },
             {
-                "id": 265,
+                "id": 271,
                 "image": "cos_wa_limited_ys8_dana_special",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_SPECIAL",
@@ -28777,7 +28960,7 @@
                 }
             },
             {
-                "id": 266,
+                "id": 272,
                 "image": "cos_wa_limited_ys8_dana_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_TROPICAL",
@@ -28914,7 +29097,7 @@
         ],
         "skins": [
             {
-                "id": 268,
+                "id": 274,
                 "image": "cos_wa_limited_ys8_laxia_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_LAXIA_COLOR",
@@ -28924,7 +29107,7 @@
                 }
             },
             {
-                "id": 269,
+                "id": 275,
                 "image": "cos_wa_limited_ys8_laxia_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_LAXIA_TROPICAL",
@@ -29217,7 +29400,7 @@
                 }
             },
             {
-                "id": 246,
+                "id": 252,
                 "image": "cos_wa_2_2",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_2_2",
@@ -29227,7 +29410,7 @@
                 }
             },
             {
-                "id": 247,
+                "id": 253,
                 "image": "cos_wa_2_2_re",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_2_2",
@@ -29366,7 +29549,7 @@
         ],
         "skins": [
             {
-                "id": 248,
+                "id": 254,
                 "image": "cos_wa_3_9",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_3_9",
@@ -29523,7 +29706,7 @@
                 }
             },
             {
-                "id": 249,
+                "id": 255,
                 "image": "cos_wa_4_7",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_4_7",
@@ -29672,7 +29855,7 @@
                 }
             },
             {
-                "id": 250,
+                "id": 256,
                 "image": "cos_wa_05_14",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_5_14",
@@ -29811,7 +29994,7 @@
         ],
         "skins": [
             {
-                "id": 251,
+                "id": 257,
                 "image": "cos_wa_6_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_6_15_NAME",
@@ -29821,7 +30004,7 @@
                 }
             },
             {
-                "id": 252,
+                "id": 258,
                 "image": "cos_wa_6_4",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_6_4",
@@ -29970,7 +30153,7 @@
                 }
             },
             {
-                "id": 253,
+                "id": 259,
                 "image": "cos_wa_7_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_7_12",
@@ -30118,7 +30301,7 @@
                 }
             },
             {
-                "id": 254,
+                "id": 260,
                 "image": "cos_wa_8_5",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_8_5",
@@ -30257,7 +30440,7 @@
         ],
         "skins": [
             {
-                "id": 255,
+                "id": 261,
                 "image": "cos_wa_09_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_9_15_NAME",
@@ -30396,7 +30579,7 @@
         ],
         "skins": [
             {
-                "id": 226,
+                "id": 231,
                 "image": "cos_wa_10_13",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_10_13",
@@ -30406,7 +30589,7 @@
                 }
             },
             {
-                "id": 227,
+                "id": 232,
                 "image": "cos_wa_10_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_10_17_NAME",
@@ -30554,7 +30737,7 @@
                 }
             },
             {
-                "id": 229,
+                "id": 234,
                 "image": "cos_wa_12_8",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_12_8",
@@ -30693,7 +30876,7 @@
         ],
         "skins": [
             {
-                "id": 230,
+                "id": 235,
                 "image": "cos_wa_13_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_13_12",
@@ -30703,7 +30886,7 @@
                 }
             },
             {
-                "id": 231,
+                "id": 236,
                 "image": "cos_wa_13_18",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_13_18_NAME",
@@ -30850,7 +31033,7 @@
                 }
             },
             {
-                "id": 232,
+                "id": 237,
                 "image": "cos_wa_14_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_14_17",
@@ -31007,7 +31190,7 @@
                 }
             },
             {
-                "id": 233,
+                "id": 238,
                 "image": "cos_wa_15_11",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_15_11",
@@ -31146,7 +31329,7 @@
         ],
         "skins": [
             {
-                "id": 234,
+                "id": 239,
                 "image": "cos_wa_16_16",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_16_16",
@@ -31284,7 +31467,7 @@
         ],
         "skins": [
             {
-                "id": 235,
+                "id": 240,
                 "image": "cos_wa_17_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_17_20_NAME",
@@ -31433,7 +31616,7 @@
                 }
             },
             {
-                "id": 236,
+                "id": 241,
                 "image": "cos_wa_18_19",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_18_19",
@@ -31581,7 +31764,7 @@
                 }
             },
             {
-                "id": 237,
+                "id": 242,
                 "image": "cos_wa_19_21",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_19_21",
@@ -31714,7 +31897,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_harpya_default"
+        ],
         "skins": [
             {
                 "id": 103,
@@ -31726,7 +31911,7 @@
                 }
             },
             {
-                "id": 240,
+                "id": 245,
                 "image": "cos_wa_20_23",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_20_23",
@@ -31873,7 +32058,7 @@
                 }
             },
             {
-                "id": 241,
+                "id": 246,
                 "image": "cos_wa_21_22",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_21_22",
@@ -32012,7 +32197,7 @@
         ],
         "skins": [
             {
-                "id": 242,
+                "id": 247,
                 "image": "cos_wa_22_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_22_24",
@@ -32148,7 +32333,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 243,
+                "id": 248,
                 "image": "cos_wa_23_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_23_28",
@@ -32293,7 +32478,7 @@
                 }
             },
             {
-                "id": 244,
+                "id": 249,
                 "image": "cos_wa_23_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_24_24",
@@ -32438,7 +32623,7 @@
                 }
             },
             {
-                "id": 245,
+                "id": 250,
                 "image": "cos_wa_25_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_25_28",
@@ -32700,7 +32885,17 @@
         "portraits": [
             "portrait_roskva_default"
         ],
-        "skins": []
+        "skins": [
+            {
+                "id": 251,
+                "image": "cos_wa_27_31",
+                "cost": 1000,
+                "name": "TEXT_COS_WA_27_31",
+                "stats": {
+                    "atk_power": 200
+                }
+            }
+        ]
     },
     {
         "id": "battleloid_s-3",
@@ -34362,7 +34557,7 @@
         ],
         "skins": [
             {
-                "id": 298,
+                "id": 304,
                 "image": "cos_wi_3_8",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_3_8",
@@ -34586,7 +34781,7 @@
                 }
             },
             {
-                "id": 275,
+                "id": 281,
                 "image": "cos_wi_11_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_11_12",
@@ -35287,7 +35482,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 162,
+                "id": 164,
                 "image": "cos_wi_limited_dm_girl_farewellwaltz",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_DM_GIRL_FAREWELLWALTZ",
@@ -35297,7 +35492,7 @@
                 }
             },
             {
-                "id": 163,
+                "id": 165,
                 "image": "cos_wi_limited_dm_girl_invite",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_DM_GIRL_INVITE",
@@ -35307,7 +35502,7 @@
                 }
             },
             {
-                "id": 164,
+                "id": 166,
                 "image": "cos_wi_limited_dm_girl_saika",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_DM_GIRL_SAIKA",
@@ -35572,7 +35767,7 @@
         ],
         "skins": [
             {
-                "id": 305,
+                "id": 311,
                 "image": "cos_wi_limited_rz_04",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_LIMITED_RZ_04",
@@ -35710,7 +35905,7 @@
         ],
         "skins": [
             {
-                "id": 306,
+                "id": 312,
                 "image": "cos_wi_limited_rz_05",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_LIMITED_RZ_05",
@@ -36103,7 +36298,7 @@
         ],
         "skins": [
             {
-                "id": 289,
+                "id": 295,
                 "image": "cos_wi_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_1_1",
@@ -36112,7 +36307,7 @@
                 }
             },
             {
-                "id": 290,
+                "id": 296,
                 "image": "cos_wi_1_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_1_17",
@@ -36261,7 +36456,7 @@
                 }
             },
             {
-                "id": 297,
+                "id": 303,
                 "image": "cos_wi_2_3",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_2_3",
@@ -36409,7 +36604,7 @@
                 }
             },
             {
-                "id": 299,
+                "id": 305,
                 "image": "cos_wi_4_2",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_4_2",
@@ -36567,7 +36762,7 @@
                 }
             },
             {
-                "id": 300,
+                "id": 306,
                 "image": "cos_event_wi_5_winter",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_5_WINTER",
@@ -36715,7 +36910,7 @@
                 }
             },
             {
-                "id": 301,
+                "id": 307,
                 "image": "cos_wi_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_6_5",
@@ -36725,7 +36920,7 @@
                 }
             },
             {
-                "id": 302,
+                "id": 308,
                 "image": "cos_wi_6_6",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_6_6",
@@ -36873,7 +37068,7 @@
                 }
             },
             {
-                "id": 303,
+                "id": 309,
                 "image": "cos_wi_7_4",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_7_4",
@@ -37021,7 +37216,7 @@
                 }
             },
             {
-                "id": 304,
+                "id": 310,
                 "image": "cos_wi_8_9",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_8_9",
@@ -37160,7 +37355,7 @@
         ],
         "skins": [
             {
-                "id": 273,
+                "id": 279,
                 "image": "cos_wi_09_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_09_15_NAME",
@@ -37308,7 +37503,7 @@
                 }
             },
             {
-                "id": 274,
+                "id": 280,
                 "image": "cos_wi_10_13",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_10_13",
@@ -37457,7 +37652,7 @@
                 }
             },
             {
-                "id": 276,
+                "id": 282,
                 "image": "cos_wi_12_18",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_12_18_NAME",
@@ -37596,7 +37791,7 @@
         ],
         "skins": [
             {
-                "id": 277,
+                "id": 283,
                 "image": "cos_wi_13_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_13_12",
@@ -37606,7 +37801,7 @@
                 }
             },
             {
-                "id": 278,
+                "id": 284,
                 "image": "cos_wi_13_19",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_13_19",
@@ -37744,7 +37939,7 @@
         ],
         "skins": [
             {
-                "id": 279,
+                "id": 285,
                 "image": "cos_wi_14_11",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_14_11",
@@ -37754,7 +37949,7 @@
                 }
             },
             {
-                "id": 280,
+                "id": 286,
                 "image": "cos_wi_14_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_14_20",
@@ -37901,7 +38096,7 @@
                 }
             },
             {
-                "id": 281,
+                "id": 287,
                 "image": "cos_wi_15_16",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_15_16",
@@ -38049,7 +38244,7 @@
                 }
             },
             {
-                "id": 282,
+                "id": 288,
                 "image": "cos_wi_16_14",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_16_14",
@@ -38188,7 +38383,7 @@
         ],
         "skins": [
             {
-                "id": 283,
+                "id": 289,
                 "image": "cos_event_wi_17_winter",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_17_WINTER",
@@ -38198,7 +38393,7 @@
                 }
             },
             {
-                "id": 284,
+                "id": 290,
                 "image": "cos_wi_17_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_17_20_NAME",
@@ -38336,7 +38531,7 @@
         ],
         "skins": [
             {
-                "id": 285,
+                "id": 291,
                 "image": "cos_wi_18_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_17",
@@ -38346,7 +38541,7 @@
                 }
             },
             {
-                "id": 286,
+                "id": 292,
                 "image": "cos_wi_18_25",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_25",
@@ -38355,7 +38550,7 @@
                 }
             },
             {
-                "id": 287,
+                "id": 293,
                 "image": "cos_wi_18_29",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_29",
@@ -38502,7 +38697,7 @@
                 }
             },
             {
-                "id": 288,
+                "id": 294,
                 "image": "cos_wi_19_22",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_19_22",
@@ -38649,7 +38844,7 @@
                 }
             },
             {
-                "id": 291,
+                "id": 297,
                 "image": "cos_wi_20_21",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_20_21",
@@ -38787,7 +38982,7 @@
         ],
         "skins": [
             {
-                "id": 292,
+                "id": 298,
                 "image": "cos_wi_21_23",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_21_23",
@@ -38925,7 +39120,7 @@
         ],
         "skins": [
             {
-                "id": 293,
+                "id": 299,
                 "image": "cos_wi_22_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_22_24",
@@ -39061,7 +39256,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 294,
+                "id": 300,
                 "image": "cos_wi_23_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_23_28",
@@ -39199,7 +39394,7 @@
         ],
         "skins": [
             {
-                "id": 295,
+                "id": 301,
                 "image": "cos_wi_24_27",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_24_27",
@@ -39335,7 +39530,7 @@
         "portraits": [],
         "skins": [
             {
-                "id": 296,
+                "id": 302,
                 "image": "cos_wi_25_30",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_25_30",
@@ -39344,5 +39539,131 @@
                 }
             }
         ]
+    },
+    {
+        "id": "urako",
+        "readableId": "urako",
+        "faction": "ryu",
+        "class": "wizard",
+        "type": "contract",
+        "gender": "female",
+        "domain": "EAST",
+        "forms": [
+            {
+                "id": "CHA_WI_4_26",
+                "name": "TEXT_CHA_WI_4_26_NAME",
+                "image": "wi_4_26",
+                "star": 4,
+                "atk_power": 765.7,
+                "hp": 2197,
+                "crit_chance": 0.1,
+                "armor": 22.503,
+                "resistance": 175.9875,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_4_26_DESC",
+                "block_image": "ui_skill_icon_wizard_urako",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_URAKO_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_URAKO_NAME",
+                "block_description": "TEXT_SKILL_WI_URAKO_DESC",
+                "passive_description": "TEXT_SKILL_WI_URAKO_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WI_5_26",
+                "name": "TEXT_CHA_WI_5_26_NAME",
+                "image": "wi_5_26",
+                "star": 5,
+                "atk_power": 1117.1999999999998,
+                "hp": 3497.2,
+                "crit_chance": 0.1,
+                "armor": 36.553999999999995,
+                "resistance": 266.525,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_5_26_DESC",
+                "block_image": "ui_skill_icon_wizard_urako",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_URAKO_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_URAKO_NAME",
+                "block_description": "TEXT_SKILL_WI_URAKO_DESC",
+                "passive_description": "TEXT_SKILL_WI_URAKO_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WI_6_26",
+                "name": "TEXT_CHA_WI_6_26_NAME",
+                "image": "wi_6_26",
+                "star": 6,
+                "atk_power": 1629,
+                "hp": 5019,
+                "crit_chance": 0.1,
+                "armor": 55.364999999999995,
+                "resistance": 383.0625,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_6_26_DESC",
+                "block_image": "ui_skill_icon_wizard_urako",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_WI_URAKO_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_URAKO_NAME",
+                "block_description": "TEXT_SKILL_WI_URAKO_DESC",
+                "passive_description": "TEXT_SKILL_WI_URAKO_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 300,
+                    "hp": 405,
+                    "crit_chance": 0.15,
+                    "armor": 20,
+                    "resistance": 85,
+                    "crit_dmg": 0.45,
+                    "accuracy": 0.1,
+                    "evasion": 0.1
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_ST_CHA_4_26",
+                "name": "TEXT_WEP_LEGEND_ST_CHA_4_26_NAME",
+                "image": "st_s4_26",
+                "ability": "TEXT_WEP_LEGEND_ST_CHA_4_26_DESC",
+                "star": 4,
+                "atk_power": 110,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "staff",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_ST_CHA_5_26",
+                "name": "TEXT_WEP_LEGEND_ST_CHA_5_26_NAME",
+                "image": "st_s5_26",
+                "ability": "TEXT_WEP_LEGEND_ST_CHA_5_26_DESC",
+                "star": 5,
+                "atk_power": 180,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "staff",
+                "type": "sbw"
+            },
+            {
+                "id": "WEP_LEGEND_ST_CHA_6_26",
+                "name": "TEXT_WEP_LEGEND_ST_CHA_6_26_NAME",
+                "image": "st_s6_26",
+                "ability": "TEXT_WEP_LEGEND_ST_CHA_6_26_DESC",
+                "star": 6,
+                "atk_power": 280,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "staff",
+                "type": "sbw"
+            }
+        ],
+        "portraits": [],
+        "skins": []
     }
 ]

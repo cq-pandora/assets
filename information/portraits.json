@@ -983,6 +983,15 @@
     "TEXT_CHA_AR_5_15_NAME": [
         "portrait_lee_default"
     ],
+    "TEXT_CHA_AR_4_16_NAME": [
+        "portrait_rahima_default"
+    ],
+    "TEXT_CHA_AR_5_16_NAME": [
+        "portrait_rahima_default"
+    ],
+    "TEXT_CHA_AR_6_16_NAME": [
+        "portrait_rahima_default"
+    ],
     "TEXT_CHA_AR_4_17_NAME": [
         "portrait_viola_default"
     ],
@@ -1309,6 +1318,15 @@
     "TEXT_CHA_PA_5_2_NAME": [
         "portrait_alexander_default"
     ],
+    "TEXT_CHA_PA_4_3_NAME": [
+        "portrait_achilles_default"
+    ],
+    "TEXT_CHA_PA_5_3_NAME": [
+        "portrait_achilles_default"
+    ],
+    "TEXT_CHA_PA_6_3_NAME": [
+        "portrait_achilles_default"
+    ],
     "TEXT_CHA_PA_4_4_NAME": [
         "portrait_drake_default"
     ],
@@ -1588,6 +1606,15 @@
     "TEXT_CHA_PR_6_18_NAME": [
         "portrait_noel_default"
     ],
+    "TEXT_CHA_PR_4_20_NAME": [
+        "portrait_seimei_default"
+    ],
+    "TEXT_CHA_PR_5_20_NAME": [
+        "portrait_seimei_default"
+    ],
+    "TEXT_CHA_PR_6_20_NAME": [
+        "portrait_seimei_default"
+    ],
     "TEXT_CHA_PR_4_21_NAME": [
         "portrait_marpei_default"
     ],
@@ -1827,6 +1854,15 @@
     ],
     "TEXT_CHA_WA_5_19_NAME": [
         "portrait_shasha_default"
+    ],
+    "TEXT_CHA_WA_4_20_NAME": [
+        "portrait_harpya_default"
+    ],
+    "TEXT_CHA_WA_5_20_NAME": [
+        "portrait_harpya_default"
+    ],
+    "TEXT_CHA_WA_6_20_NAME": [
+        "portrait_harpya_default"
     ],
     "TEXT_CHA_WA_5_21_NAME": [
         "portrait_isis_default"
