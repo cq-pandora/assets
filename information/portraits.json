@@ -75,22 +75,15 @@
         "portrait_ringhint_default",
         "portrait_susanoohint_default"
     ],
-    "TEXT_DIONNE_NAME": [
+    "TEXT_DIONE_NAME": [
         "portrait_dione_default",
-        "portrait_sisdione2_default",
         "portrait_dione_think",
         "portrait_dione_sad",
         "portrait_dione_surprise",
         "portrait_dione_angry",
         "portrait_dione_pain",
         "portrait_dione_dark",
-        "portrait_dione_evil",
-        "portrait_sisdione2_angry",
-        "portrait_sisdione2_surprise",
-        "portrait_sisdione2_frown",
-        "portrait_sisdione2_sad",
-        "portrait_sisdione2_smile",
-        "portrait_sisdione2_pain"
+        "portrait_dione_evil"
     ],
     "TEXT_CRONOS_NAME": [
         "portrait_cronos_default",
@@ -825,6 +818,36 @@
     "TEXT_CHA_WI_6_24_NAME": [
         "portrait_lacies_default"
     ],
+    "TEXT_CHA_WA_LIMITED_GS_4_01_NAME": [
+        "portrait_gsgoblinslayer_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_GS_4_05_NAME": [
+        "portrait_gsdwarf_default"
+    ],
+    "TEXT_CHA_AR_LIMITED_GS_4_06_NAME": [
+        "portrait_gshighelfarcher_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_GS_4_03_NAME": [
+        "portrait_gspristess_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_GS_4_04_NAME": [
+        "portrait_gslizardman_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_GS_4_07_NAME": [
+        "portrait_gsspearman_default"
+    ],
+    "TEXT_MON_EVENT_GS_6_NAME": [
+        "portrait_gsgoblinlord_default"
+    ],
+    "TEXT_DIONNE_NAME": [
+        "portrait_sisdione2_angry",
+        "portrait_sisdione2_surprise",
+        "portrait_sisdione2_frown",
+        "portrait_sisdione2_default",
+        "portrait_sisdione2_sad",
+        "portrait_sisdione2_smile",
+        "portrait_sisdione2_pain"
+    ],
     "TEXT_CHA_PA_6_23_NAME": [
         "portrait_heim_default"
     ],
@@ -895,6 +918,12 @@
     ],
     "TEXT_CHA_AR_LIMITED_KOF2_MAI_NAME": [
         "portrait_kofmai_default"
+    ],
+    "TEXT_CHA_AR_LIMITED_GS_5_06_NAME": [
+        "portrait_gshighelfarcher_default"
+    ],
+    "TEXT_CHA_AR_LIMITED_GS_6_06_NAME": [
+        "portrait_gshighelfarcher_default"
     ],
     "TEXT_CHA_AR_5_1_NAME": [
         "portrait_gon_default"
@@ -1015,6 +1044,15 @@
     ],
     "TEXT_CHA_AR_5_21_NAME": [
         "portrait_set_default"
+    ],
+    "TEXT_CHA_AR_4_22_NAME": [
+        "portrait_genevie_default"
+    ],
+    "TEXT_CHA_AR_5_22_NAME": [
+        "portrait_genevie_default"
+    ],
+    "TEXT_CHA_AR_6_22_NAME": [
+        "portrait_genevie_default"
     ],
     "TEXT_CHA_AR_4_23_NAME": [
         "portrait_panpan_default"
@@ -1231,6 +1269,15 @@
     "TEXT_CHA_HU_6_21_NAME": [
         "portrait_athos_default"
     ],
+    "TEXT_CHA_HU_4_22_NAME": [
+        "portrait_jahard_default"
+    ],
+    "TEXT_CHA_HU_5_22_NAME": [
+        "portrait_jahard_default"
+    ],
+    "TEXT_CHA_HU_6_22_NAME": [
+        "portrait_jahard_default"
+    ],
     "TEXT_CHA_PA_1_3_NAME": [
         "portrait_kriemhild_default"
     ],
@@ -1293,6 +1340,15 @@
     ],
     "TEXT_CHA_PA_LIMITED_KOF2_KIM_NAME": [
         "portrait_kofkim_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_GS_4_02_NAME": [
+        "portrait_gsswordmaiden_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_GS_5_02_NAME": [
+        "portrait_gsswordmaiden_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_GS_6_02_NAME": [
+        "portrait_gsswordmaiden_default"
     ],
     "TEXT_CHA_PA_LIMITED_KOF2_TERRY_NAME": [
         "portrait_kofterry_default"
@@ -1426,6 +1482,15 @@
     "TEXT_CHA_PA_6_19_NAME": [
         "portrait_fenrir_default"
     ],
+    "TEXT_CHA_PA_4_20_NAME": [
+        "portrait_leiling_default"
+    ],
+    "TEXT_CHA_PA_5_20_NAME": [
+        "portrait_leiling_default"
+    ],
+    "TEXT_CHA_PA_6_20_NAME": [
+        "portrait_leiling_default"
+    ],
     "TEXT_CHA_PA_4_21_NAME": [
         "portrait_schla_default"
     ],
@@ -1497,6 +1562,18 @@
     ],
     "TEXT_CHA_PR_LIMITED_KOF2_ATHENA_NAME": [
         "portrait_kofatena_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_GS_5_03_NAME": [
+        "portrait_gspristess_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_GS_6_03_NAME": [
+        "portrait_gspristess_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_GS_5_04_NAME": [
+        "portrait_gslizardman_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_GS_6_04_NAME": [
+        "portrait_gslizardman_default"
     ],
     "TEXT_CHA_PR_LIMITED_RZ_4_07_NAME": [
         "portrait_rzfelix_default"
@@ -1624,6 +1701,15 @@
     "TEXT_CHA_PR_6_21_NAME": [
         "portrait_marpei_default"
     ],
+    "TEXT_CHA_PR_4_22_NAME": [
+        "portrait_cronet_default"
+    ],
+    "TEXT_CHA_PR_5_22_NAME": [
+        "portrait_cronet_default"
+    ],
+    "TEXT_CHA_PR_6_22_NAME": [
+        "portrait_cronet_default"
+    ],
     "TEXT_CHA_PR_4_23_NAME": [
         "portrait_varnir_default"
     ],
@@ -1716,6 +1802,18 @@
     ],
     "TEXT_CHA_WA_LIMITED_GG_6_4_NAME": [
         "portrait_jhn_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_GS_5_01_NAME": [
+        "portrait_gsgoblinslayer_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_GS_6_01_NAME": [
+        "portrait_gsgoblinslayer_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_GS_5_07_NAME": [
+        "portrait_gsspearman_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_GS_6_07_NAME": [
+        "portrait_gsspearman_default"
     ],
     "TEXT_CHA_WA_LIMITED_KOF1_IORI_NAME": [
         "portrait_kofiory_default"
@@ -1876,6 +1974,15 @@
     "TEXT_CHA_WA_6_22_NAME": [
         "portrait_izuna_default"
     ],
+    "TEXT_CHA_WA_4_24_NAME": [
+        "portrait_kassia_default"
+    ],
+    "TEXT_CHA_WA_5_24_NAME": [
+        "portrait_kassia_default"
+    ],
+    "TEXT_CHA_WA_6_24_NAME": [
+        "portrait_kassia_default"
+    ],
     "TEXT_CHA_WA_4_27_NAME": [
         "portrait_roskva_default"
     ],
@@ -1947,6 +2054,12 @@
     ],
     "TEXT_CHA_WI_LIMITED_GG3_DIZZY_NAME": [
         "portrait_ggdizzy_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_GS_5_05_NAME": [
+        "portrait_gsdwarf_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_GS_6_05_NAME": [
+        "portrait_gsdwarf_default"
     ],
     "TEXT_CHA_WI_LIMITED_RZ_5_04_NAME": [
         "portrait_rzram_default"

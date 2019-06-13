@@ -2328,6 +2328,133 @@
         "skins": []
     },
     {
+        "id": "high_elf_archer",
+        "readableId": "high_elf_archer",
+        "class": "archer",
+        "type": "secret",
+        "gender": "female",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_AR_LIMITED_GS_4_06",
+                "name": "TEXT_CHA_AR_LIMITED_GS_4_06_NAME",
+                "image": "ar_limited_gs_4_06",
+                "star": 4,
+                "atk_power": 557.7,
+                "hp": 2194.4,
+                "crit_chance": 0.1,
+                "armor": 99.41749999999999,
+                "resistance": 99.41749999999999,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_LIMITED_GS_4_06_DESC",
+                "block_image": "ui_skill_icon_archer_gs_06",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_ELF_ARCHER_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_ELF_ARCHER_NAME",
+                "block_description": "TEXT_SKILL_AR_ELF_ARCHER_DESC",
+                "passive_description": "TEXT_SKILL_AR_ELF_ARCHER_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_AR_LIMITED_GS_5_06",
+                "name": "TEXT_CHA_AR_LIMITED_GS_5_06_NAME",
+                "image": "ar_limited_gs_5_06",
+                "star": 5,
+                "atk_power": 893.1999999999999,
+                "hp": 4275.599999999999,
+                "crit_chance": 0.1,
+                "armor": 150.74499999999998,
+                "resistance": 150.74499999999998,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_LIMITED_GS_5_06_DESC",
+                "block_image": "ui_skill_icon_archer_gs_06",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_ELF_ARCHER_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_ELF_ARCHER_NAME",
+                "block_description": "TEXT_SKILL_AR_ELF_ARCHER_DESC",
+                "passive_description": "TEXT_SKILL_AR_ELF_ARCHER_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_AR_LIMITED_GS_6_06",
+                "name": "TEXT_CHA_AR_LIMITED_GS_6_06_NAME",
+                "image": "ar_limited_gs_6_06",
+                "star": 6,
+                "atk_power": 1300.5,
+                "hp": 6838.5,
+                "crit_chance": 0.1,
+                "armor": 217.3125,
+                "resistance": 217.3125,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_LIMITED_GS_6_06_DESC",
+                "block_image": "ui_skill_icon_archer_gs_06",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_AR_ELF_ARCHER_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_ELF_ARCHER_NAME",
+                "block_description": "TEXT_SKILL_AR_ELF_ARCHER_DESC",
+                "passive_description": "TEXT_SKILL_AR_ELF_ARCHER_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 184,
+                    "hp": 1530,
+                    "crit_chance": 0.23,
+                    "armor": 136,
+                    "resistance": 136,
+                    "crit_dmg": 0.72,
+                    "accuracy": 0.22,
+                    "evasion": 0.16
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_BO_GS_06_4",
+                "name": "TEXT_WEP_LEGEND_BO_GS_06_4_NAME",
+                "image": "bo_limited_gs_06",
+                "ability": "TEXT_WEP_LEGEND_BO_GS_06_4_DESC",
+                "star": 4,
+                "atk_power": 67,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_BO_GS_06_5",
+                "name": "TEXT_WEP_LEGEND_BO_GS_06_5_NAME",
+                "image": "bo_limited_gs_06",
+                "ability": "TEXT_WEP_LEGEND_BO_GS_06_5_DESC",
+                "star": 5,
+                "atk_power": 117,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_BO_GS_06_6",
+                "name": "TEXT_WEP_LEGEND_BO_GS_06_6_NAME",
+                "image": "bo_limited_gs_06",
+                "ability": "TEXT_WEP_LEGEND_BO_GS_06_6_DESC",
+                "star": 6,
+                "atk_power": 217,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow",
+                "type": "sbw,secret"
+            }
+        ],
+        "portraits": [
+            "portrait_gshighelfarcher_default"
+        ],
+        "skins": []
+    },
+    {
         "id": "gon",
         "readableId": "gon",
         "faction": "heroes_of_freedom",
@@ -5087,7 +5214,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_genevie_default"
+        ],
         "skins": [
             {
                 "id": 19,
@@ -11263,7 +11392,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_jahard_default"
+        ],
         "skins": [
             {
                 "id": 143,
@@ -15004,6 +15135,133 @@
         ]
     },
     {
+        "id": "sword_maiden",
+        "readableId": "sword_maiden",
+        "class": "paladin",
+        "type": "secret",
+        "gender": "female",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_PA_LIMITED_GS_4_02",
+                "name": "TEXT_CHA_PA_LIMITED_GS_4_02_NAME",
+                "image": "pa_limited_gs_4_02",
+                "star": 4,
+                "atk_power": 170.43,
+                "hp": 5285.8,
+                "crit_chance": 0.1,
+                "armor": 28.743,
+                "resistance": 169.91,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_GS_4_02_DESC",
+                "block_image": "ui_skill_icon_paladin_gs_02",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_SWORDMAIDEN_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_SWORDMAIDEN_NAME",
+                "block_description": "TEXT_SKILL_PA_SWORDMAIDEN_DESC",
+                "passive_description": "TEXT_SKILL_PA_SWORDMAIDEN_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PA_LIMITED_GS_5_02",
+                "name": "TEXT_CHA_PA_LIMITED_GS_5_02_NAME",
+                "image": "pa_limited_gs_5_02",
+                "star": 5,
+                "atk_power": 384.44,
+                "hp": 7825.299999999999,
+                "crit_chance": 0.1,
+                "armor": 48.17399999999999,
+                "resistance": 287.28,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_GS_5_02_DESC",
+                "block_image": "ui_skill_icon_paladin_gs_02",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_SWORDMAIDEN_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_SWORDMAIDEN_NAME",
+                "block_description": "TEXT_SKILL_PA_SWORDMAIDEN_DESC",
+                "passive_description": "TEXT_SKILL_PA_SWORDMAIDEN_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PA_LIMITED_GS_6_02",
+                "name": "TEXT_CHA_PA_LIMITED_GS_6_02_NAME",
+                "image": "pa_limited_gs_6_02",
+                "star": 6,
+                "atk_power": 730.6500000000001,
+                "hp": 10714.5,
+                "crit_chance": 0.1,
+                "armor": 79.26,
+                "resistance": 458.40000000000003,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_GS_6_02_DESC",
+                "block_image": "ui_skill_icon_paladin_gs_02",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PA_SWORDMAIDEN_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_SWORDMAIDEN_NAME",
+                "block_description": "TEXT_SKILL_PA_SWORDMAIDEN_DESC",
+                "passive_description": "TEXT_SKILL_PA_SWORDMAIDEN_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 170,
+                    "hp": 3200,
+                    "crit_chance": 0.25,
+                    "armor": 60,
+                    "resistance": 310,
+                    "crit_dmg": 0.65,
+                    "accuracy": 0.18,
+                    "evasion": 0.18
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_HA_GS_02_4",
+                "name": "TEXT_WEP_LEGEND_HA_GS_02_4_NAME",
+                "image": "ha_limited_gs_02",
+                "ability": "TEXT_WEP_LEGEND_HA_GS_02_4_DESC",
+                "star": 4,
+                "atk_power": 105,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "hammer",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_HA_GS_02_5",
+                "name": "TEXT_WEP_LEGEND_HA_GS_02_5_NAME",
+                "image": "ha_limited_gs_02",
+                "ability": "TEXT_WEP_LEGEND_HA_GS_02_5_DESC",
+                "star": 5,
+                "atk_power": 205,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "hammer",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_HA_GS_02_6",
+                "name": "TEXT_WEP_LEGEND_HA_GS_02_6_NAME",
+                "image": "ha_limited_gs_02",
+                "ability": "TEXT_WEP_LEGEND_HA_GS_02_6_DESC",
+                "star": 6,
+                "atk_power": 305,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "hammer",
+                "type": "sbw,secret"
+            }
+        ],
+        "portraits": [
+            "portrait_gsswordmaiden_default"
+        ],
+        "skins": []
+    },
+    {
         "id": "terry_bogard",
         "readableId": "terry_bogard",
         "class": "paladin",
@@ -18183,7 +18441,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_leiling_default"
+        ],
         "skins": [
             {
                 "id": 178,
@@ -19024,6 +19284,39 @@
                 }
             }
         ]
+    },
+    {
+        "id": "sword_maiden",
+        "readableId": "sword_maiden",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PA_LIMITED_GS_6_02_ALLIGATOR",
+                "name": "TEXT_CHA_PA_LIMITED_GS_6_02_NAME",
+                "image": "pa_limited_rz_6_03",
+                "star": 3,
+                "atk_power": 120,
+                "hp": 360000,
+                "crit_chance": 0.1,
+                "armor": 119998.79999999999,
+                "resistance": 119998.79999999999,
+                "crit_dmg": 5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": null,
+                "block_image": null,
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": null,
+                "block_description": null,
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
     },
     {
         "id": "pastor",
@@ -21277,6 +21570,260 @@
         ],
         "portraits": [
             "portrait_kofatena_default"
+        ],
+        "skins": []
+    },
+    {
+        "id": "priestess",
+        "readableId": "priestess",
+        "class": "priest",
+        "type": "secret",
+        "gender": "female",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_PR_LIMITED_GS_4_03",
+                "name": "TEXT_CHA_PR_LIMITED_GS_4_03_NAME",
+                "image": "pr_limited_gs_4_03",
+                "star": 4,
+                "atk_power": 189.28,
+                "hp": 4243.2,
+                "crit_chance": 0.1,
+                "armor": 104.4875,
+                "resistance": 104.4875,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_GS_4_03_DESC",
+                "block_image": "ui_skill_icon_priest_gs_03",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PR_PRIESTESS_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_PRIESTESS_NAME",
+                "block_description": "TEXT_SKILL_PR_PRIESTESS_DESC",
+                "passive_description": "TEXT_SKILL_PR_PRIESTESS_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PR_LIMITED_GS_5_03",
+                "name": "TEXT_CHA_PR_LIMITED_GS_5_03_NAME",
+                "image": "pr_limited_gs_5_03",
+                "star": 5,
+                "atk_power": 426.44,
+                "hp": 6545,
+                "crit_chance": 0.1,
+                "armor": 171.325,
+                "resistance": 171.325,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_GS_5_03_DESC",
+                "block_image": "ui_skill_icon_priest_gs_03",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PR_PRIESTESS_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_PRIESTESS_NAME",
+                "block_description": "TEXT_SKILL_PR_PRIESTESS_DESC",
+                "passive_description": "TEXT_SKILL_PR_PRIESTESS_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PR_LIMITED_GS_6_03",
+                "name": "TEXT_CHA_PR_LIMITED_GS_6_03_NAME",
+                "image": "pr_limited_gs_6_03",
+                "star": 6,
+                "atk_power": 743.1,
+                "hp": 9364.5,
+                "crit_chance": 0.1,
+                "armor": 261.5625,
+                "resistance": 261.5625,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_GS_6_03_DESC",
+                "block_image": "ui_skill_icon_priest_gs_03",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PR_PRIESTESS_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_PRIESTESS_NAME",
+                "block_description": "TEXT_SKILL_PR_PRIESTESS_DESC",
+                "passive_description": "TEXT_SKILL_PR_PRIESTESS_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 113,
+                    "hp": 2316,
+                    "crit_chance": 0.15,
+                    "armor": 182,
+                    "resistance": 182,
+                    "crit_dmg": 0.65,
+                    "accuracy": 0.18,
+                    "evasion": 0.18
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_OR_GS_03_4",
+                "name": "TEXT_WEP_LEGEND_OR_GS_03_4_NAME",
+                "image": "or_limited_gs_03",
+                "ability": "TEXT_WEP_LEGEND_OR_GS_03_4_DESC",
+                "star": 4,
+                "atk_power": 105,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "orb",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_OR_GS_03_5",
+                "name": "TEXT_WEP_LEGEND_OR_GS_03_5_NAME",
+                "image": "or_limited_gs_03",
+                "ability": "TEXT_WEP_LEGEND_OR_GS_03_5_DESC",
+                "star": 5,
+                "atk_power": 205,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "orb",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_OR_GS_03_6",
+                "name": "TEXT_WEP_LEGEND_OR_GS_03_6_NAME",
+                "image": "or_limited_gs_03",
+                "ability": "TEXT_WEP_LEGEND_OR_GS_03_6_DESC",
+                "star": 6,
+                "atk_power": 305,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "orb",
+                "type": "sbw,secret"
+            }
+        ],
+        "portraits": [
+            "portrait_gspristess_default"
+        ],
+        "skins": []
+    },
+    {
+        "id": "lizardman_priest",
+        "readableId": "lizardman_priest",
+        "class": "priest",
+        "type": "secret",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_PR_LIMITED_GS_4_04",
+                "name": "TEXT_CHA_PR_LIMITED_GS_4_04_NAME",
+                "image": "pr_limited_gs_4_04",
+                "star": 4,
+                "atk_power": 290.68,
+                "hp": 2767.83,
+                "crit_chance": 0.1,
+                "armor": 104.4875,
+                "resistance": 104.4875,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_GS_4_04_DESC",
+                "block_image": "ui_skill_icon_priest_gs_04",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PR_LIZARDMAN_MONK_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_LIZARDMAN_MONK_NAME",
+                "block_description": "TEXT_SKILL_PR_LIZARDMAN_MONK_DESC",
+                "passive_description": "TEXT_SKILL_PR_LIZARDMAN_MONK_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PR_LIMITED_GS_5_04",
+                "name": "TEXT_CHA_PR_LIMITED_GS_5_04_NAME",
+                "image": "pr_limited_gs_5_04",
+                "star": 5,
+                "atk_power": 563.64,
+                "hp": 4466.42,
+                "crit_chance": 0.1,
+                "armor": 171.325,
+                "resistance": 171.325,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_GS_5_04_DESC",
+                "block_image": "ui_skill_icon_priest_gs_04",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PR_LIZARDMAN_MONK_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_LIZARDMAN_MONK_NAME",
+                "block_description": "TEXT_SKILL_PR_LIZARDMAN_MONK_DESC",
+                "passive_description": "TEXT_SKILL_PR_LIZARDMAN_MONK_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_PR_LIMITED_GS_6_04",
+                "name": "TEXT_CHA_PR_LIMITED_GS_6_04_NAME",
+                "image": "pr_limited_gs_6_04",
+                "star": 6,
+                "atk_power": 920.1000000000001,
+                "hp": 6559.049999999999,
+                "crit_chance": 0.1,
+                "armor": 261.5625,
+                "resistance": 261.5625,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_GS_6_04_DESC",
+                "block_image": "ui_skill_icon_priest_gs_04",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PR_LIZARDMAN_MONK_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_LIZARDMAN_MONK_NAME",
+                "block_description": "TEXT_SKILL_PR_LIZARDMAN_MONK_DESC",
+                "passive_description": "TEXT_SKILL_PR_LIZARDMAN_MONK_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 185,
+                    "hp": 1462,
+                    "crit_chance": 0.15,
+                    "armor": 182,
+                    "resistance": 182,
+                    "crit_dmg": 0.65,
+                    "accuracy": 0.18,
+                    "evasion": 0.18
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_OR_GS_04_4",
+                "name": "TEXT_WEP_LEGEND_OR_GS_04_4_NAME",
+                "image": "or_limited_gs_04",
+                "ability": "TEXT_WEP_LEGEND_OR_GS_04_4_DESC",
+                "star": 4,
+                "atk_power": 105,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "orb",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_OR_GS_04_5",
+                "name": "TEXT_WEP_LEGEND_OR_GS_04_5_NAME",
+                "image": "or_limited_gs_04",
+                "ability": "TEXT_WEP_LEGEND_OR_GS_04_5_DESC",
+                "star": 5,
+                "atk_power": 205,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "orb",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_OR_GS_04_6",
+                "name": "TEXT_WEP_LEGEND_OR_GS_04_6_NAME",
+                "image": "or_limited_gs_04",
+                "ability": "TEXT_WEP_LEGEND_OR_GS_04_6_DESC",
+                "star": 6,
+                "atk_power": 305,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "orb",
+                "type": "sbw,secret"
+            }
+        ],
+        "portraits": [
+            "portrait_gslizardman_default"
         ],
         "skins": []
     },
@@ -24338,7 +24885,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_cronet_default"
+        ],
         "skins": [
             {
                 "id": 214,
@@ -27949,6 +28498,260 @@
         ],
         "portraits": [
             "portrait_jhn_default"
+        ],
+        "skins": []
+    },
+    {
+        "id": "goblin_slayer",
+        "readableId": "goblin_slayer",
+        "class": "warrior",
+        "type": "secret",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_WA_LIMITED_GS_4_01",
+                "name": "TEXT_CHA_WA_LIMITED_GS_4_01_NAME",
+                "image": "wa_limited_gs_4_01",
+                "star": 4,
+                "atk_power": 409.5,
+                "hp": 2828.8,
+                "crit_chance": 0.1,
+                "armor": 131.04,
+                "resistance": 24.31,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_GS_4_01_DESC",
+                "block_image": "ui_skill_icon_warrior_gs_01",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_GOBLIN_SLAYER_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_GOBLIN_SLAYER_NAME",
+                "block_description": "TEXT_SKILL_WA_GOBLIN_SLAYER_DESC",
+                "passive_description": "TEXT_SKILL_WA_GOBLIN_SLAYER_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WA_LIMITED_GS_5_01",
+                "name": "TEXT_CHA_WA_LIMITED_GS_5_01_NAME",
+                "image": "wa_limited_gs_5_01",
+                "star": 5,
+                "atk_power": 719.5999999999999,
+                "hp": 4725,
+                "crit_chance": 0.1,
+                "armor": 199.92000000000002,
+                "resistance": 38.64,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_GS_5_01_DESC",
+                "block_image": "ui_skill_icon_warrior_gs_01",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_GOBLIN_SLAYER_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_GOBLIN_SLAYER_NAME",
+                "block_description": "TEXT_SKILL_WA_GOBLIN_SLAYER_DESC",
+                "passive_description": "TEXT_SKILL_WA_GOBLIN_SLAYER_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WA_LIMITED_GS_6_01",
+                "name": "TEXT_CHA_WA_LIMITED_GS_6_01_NAME",
+                "image": "wa_limited_gs_6_01",
+                "star": 6,
+                "atk_power": 1055.25,
+                "hp": 6891,
+                "crit_chance": 0.1,
+                "armor": 292.20000000000005,
+                "resistance": 66.6,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_GS_6_01_DESC",
+                "block_image": "ui_skill_icon_warrior_gs_01",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_WA_GOBLIN_SLAYER_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_GOBLIN_SLAYER_NAME",
+                "block_description": "TEXT_SKILL_WA_GOBLIN_SLAYER_DESC",
+                "passive_description": "TEXT_SKILL_WA_GOBLIN_SLAYER_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 218,
+                    "hp": 2004,
+                    "crit_chance": 0.23,
+                    "armor": 250,
+                    "resistance": 72,
+                    "crit_dmg": 0.65,
+                    "accuracy": 0.19,
+                    "evasion": 0.11
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_SW_GS_01_4",
+                "name": "TEXT_WEP_LEGEND_SW_GS_01_4_NAME",
+                "image": "sw_limited_gs_01",
+                "ability": "TEXT_WEP_LEGEND_SW_GS_01_4_DESC",
+                "star": 4,
+                "atk_power": 95,
+                "atk_speed": 1.1,
+                "options": 1365,
+                "class": "sword",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_SW_GS_01_5",
+                "name": "TEXT_WEP_LEGEND_SW_GS_01_5_NAME",
+                "image": "sw_limited_gs_01",
+                "ability": "TEXT_WEP_LEGEND_SW_GS_01_5_DESC",
+                "star": 5,
+                "atk_power": 190,
+                "atk_speed": 1.1,
+                "options": 1365,
+                "class": "sword",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_SW_GS_01_6",
+                "name": "TEXT_WEP_LEGEND_SW_GS_01_6_NAME",
+                "image": "sw_limited_gs_01",
+                "ability": "TEXT_WEP_LEGEND_SW_GS_01_6_DESC",
+                "star": 6,
+                "atk_power": 284,
+                "atk_speed": 1.1,
+                "options": 1365,
+                "class": "sword",
+                "type": "sbw,secret"
+            }
+        ],
+        "portraits": [
+            "portrait_gsgoblinslayer_default"
+        ],
+        "skins": []
+    },
+    {
+        "id": "spearman",
+        "readableId": "spearman",
+        "class": "warrior",
+        "type": "secret",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_WA_LIMITED_GS_4_07",
+                "name": "TEXT_CHA_WA_LIMITED_GS_4_07_NAME",
+                "image": "wa_limited_gs_4_07",
+                "star": 4,
+                "atk_power": 358.8,
+                "hp": 3133,
+                "crit_chance": 0.1,
+                "armor": 100.62,
+                "resistance": 29.380000000000003,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_GS_4_07_DESC",
+                "block_image": "ui_skill_icon_warrior_gs_07",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_SPEARMAN_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_SPEARMAN_NAME",
+                "block_description": "TEXT_SKILL_WA_SPEARMAN_DESC",
+                "passive_description": "TEXT_SKILL_WA_SPEARMAN_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WA_LIMITED_GS_5_07",
+                "name": "TEXT_CHA_WA_LIMITED_GS_5_07_NAME",
+                "image": "wa_limited_gs_5_07",
+                "star": 5,
+                "atk_power": 651,
+                "hp": 5822.599999999999,
+                "crit_chance": 0.1,
+                "armor": 131.32,
+                "resistance": 42.07,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_GS_5_07_DESC",
+                "block_image": "ui_skill_icon_warrior_gs_07",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_SPEARMAN_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_SPEARMAN_NAME",
+                "block_description": "TEXT_SKILL_WA_SPEARMAN_DESC",
+                "passive_description": "TEXT_SKILL_WA_SPEARMAN_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WA_LIMITED_GS_6_07",
+                "name": "TEXT_CHA_WA_LIMITED_GS_6_07_NAME",
+                "image": "wa_limited_gs_6_07",
+                "star": 6,
+                "atk_power": 1055.25,
+                "hp": 9015,
+                "crit_chance": 0.1,
+                "armor": 168.3,
+                "resistance": 62.175000000000004,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_GS_6_07_DESC",
+                "block_image": "ui_skill_icon_warrior_gs_07",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_WA_SPEARMAN_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_SPEARMAN_NAME",
+                "block_description": "TEXT_SKILL_WA_SPEARMAN_DESC",
+                "passive_description": "TEXT_SKILL_WA_SPEARMAN_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 144,
+                    "hp": 2700,
+                    "crit_chance": 0.119,
+                    "armor": 135,
+                    "resistance": 72,
+                    "crit_dmg": 0.6,
+                    "accuracy": 0.2415,
+                    "evasion": 0.21
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_SW_GS_07_4",
+                "name": "TEXT_WEP_LEGEND_SW_GS_07_4_NAME",
+                "image": "sw_limited_gs_07",
+                "ability": "TEXT_WEP_LEGEND_SW_GS_07_4_DESC",
+                "star": 4,
+                "atk_power": 93,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "sword",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_SW_GS_07_5",
+                "name": "TEXT_WEP_LEGEND_SW_GS_07_5_NAME",
+                "image": "sw_limited_gs_07",
+                "ability": "TEXT_WEP_LEGEND_SW_GS_07_5_DESC",
+                "star": 5,
+                "atk_power": 152,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "sword",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_SW_GS_07_6",
+                "name": "TEXT_WEP_LEGEND_SW_GS_07_6_NAME",
+                "image": "sw_limited_gs_07",
+                "ability": "TEXT_WEP_LEGEND_SW_GS_07_6_DESC",
+                "star": 6,
+                "atk_power": 234,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "sword",
+                "type": "sbw,secret"
+            }
+        ],
+        "portraits": [
+            "portrait_gsspearman_default"
         ],
         "skins": []
     },
@@ -32466,7 +33269,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kassia_default"
+        ],
         "skins": [
             {
                 "id": 105,
@@ -35637,6 +36442,133 @@
         ],
         "portraits": [
             "portrait_ggdizzy_default"
+        ],
+        "skins": []
+    },
+    {
+        "id": "dwarf_shaman",
+        "readableId": "dwarf_shaman",
+        "class": "wizard",
+        "type": "secret",
+        "gender": "female",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_WI_LIMITED_GS_4_05",
+                "name": "TEXT_CHA_WI_LIMITED_GS_4_05_NAME",
+                "image": "wi_limited_gs_4_05",
+                "star": 4,
+                "atk_power": 663,
+                "hp": 1617.2,
+                "crit_chance": 0.1,
+                "armor": 27.131000000000004,
+                "resistance": 93.60000000000001,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_LIMITED_GS_4_05_DESC",
+                "block_image": "ui_skill_icon_wizard_gs_05",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_DWARF_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_DWARF_NAME",
+                "block_description": "TEXT_SKILL_WI_DWARF_DESC",
+                "passive_description": "TEXT_SKILL_WI_DWARF_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WI_LIMITED_GS_5_05",
+                "name": "TEXT_CHA_WI_LIMITED_GS_5_05_NAME",
+                "image": "wi_limited_gs_5_05",
+                "star": 5,
+                "atk_power": 1047.2,
+                "hp": 2300.2,
+                "crit_chance": 0.1,
+                "armor": 41.38399999999999,
+                "resistance": 183.39999999999998,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_LIMITED_GS_5_05_DESC",
+                "block_image": "ui_skill_icon_wizard_gs_05",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_DWARF_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_DWARF_NAME",
+                "block_description": "TEXT_SKILL_WI_DWARF_DESC",
+                "passive_description": "TEXT_SKILL_WI_DWARF_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_WI_LIMITED_GS_6_05",
+                "name": "TEXT_CHA_WI_LIMITED_GS_6_05_NAME",
+                "image": "wi_limited_gs_6_05",
+                "star": 6,
+                "atk_power": 1749,
+                "hp": 4245,
+                "crit_chance": 0.1,
+                "armor": 60.675000000000004,
+                "resistance": 315,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_LIMITED_GS_6_05_DESC",
+                "block_image": "ui_skill_icon_wizard_gs_05",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_WI_DWARF_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_DWARF_NAME",
+                "block_description": "TEXT_SKILL_WI_DWARF_DESC",
+                "passive_description": "TEXT_SKILL_WI_DWARF_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 308.4,
+                    "hp": 575.1,
+                    "crit_chance": 0.1,
+                    "armor": 20.4,
+                    "resistance": 89.6,
+                    "crit_dmg": 0.75,
+                    "accuracy": 0.21,
+                    "evasion": 0.1
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_ST_GS_05_4",
+                "name": "TEXT_WEP_LEGEND_ST_GS_05_4_NAME",
+                "image": "st_limited_gs_05",
+                "ability": "TEXT_WEP_LEGEND_ST_GS_05_4_DESC",
+                "star": 4,
+                "atk_power": 100,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "staff",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_ST_GS_05_5",
+                "name": "TEXT_WEP_LEGEND_ST_GS_05_5_NAME",
+                "image": "st_limited_gs_05",
+                "ability": "TEXT_WEP_LEGEND_ST_GS_05_5_DESC",
+                "star": 5,
+                "atk_power": 180,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "staff",
+                "type": "sbw,secret"
+            },
+            {
+                "id": "WEP_LEGEND_ST_GS_05_6",
+                "name": "TEXT_WEP_LEGEND_ST_GS_05_6_NAME",
+                "image": "st_limited_gs_05",
+                "ability": "TEXT_WEP_LEGEND_ST_GS_05_6_DESC",
+                "star": 6,
+                "atk_power": 308,
+                "atk_speed": 0.8,
+                "options": 1365,
+                "class": "staff",
+                "type": "sbw,secret"
+            }
+        ],
+        "portraits": [
+            "portrait_gsdwarf_default"
         ],
         "skins": []
     },

@@ -1205,8 +1205,8 @@
         "original": true
     },
     "TEXT_BAKERY_OVEN_AD_NO_COUNT": {
-        "text": "You have spent up to the daily purchase limit ({0} times).",
-        "version": "4.7.0",
+        "text": "You have reached the daily limit for the Mysterious Oven! Come back tomorrow!",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_BAKERY_OVEN_AD_TIME": {
@@ -21435,8 +21435,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_ADVERTISEMENT_NAME": {
-        "text": "Promote Hero Contract",
-        "version": "4.7.0",
+        "text": "10 x Promotion Hero Contracts",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_AR_NAME": {
@@ -21620,8 +21620,8 @@
         "original": true
     },
     "TEXT_GACHA_CHOICE_HERO_DESTINY_DESC": {
-        "text": "Choose one Legendary Hero",
-        "version": "4.7.0",
+        "text": "Choose \n1 Legendary Hero",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHOICE_HERO_DESTINY_NAME": {
@@ -22370,8 +22370,8 @@
         "original": true
     },
     "TEXT_GROW_PACK_DESC": {
-        "text": "Extra 30 Jewels will be issued immediately!\nOnly once!",
-        "version": "4.7.0",
+        "text": "Extra 30 Jewels\nwill be issued immediately!\nOnly once!",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GROW_PACK_HELP": {
@@ -28095,8 +28095,8 @@
         "original": true
     },
     "TEXT_LEGENDBREAD_PACK_DESC": {
-        "text": "Stat MAX Legendary Bread (1 of each kind)\n 95 Jewels!",
-        "version": "4.7.0",
+        "text": "Stat MAX Legendary Bread \n(1 of each kind)\n95 Jewels!",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_LEGENDBREAD_PACK_NAME": {
@@ -33540,8 +33540,8 @@
         "original": true
     },
     "TEXT_PERIOD_GACHA_HERO_PACK_DESC": {
-        "text": "Obtain jewels and new heroes every day!",
-        "version": "4.7.0",
+        "text": "Obtain jewels and \nnew heroes every day!",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_PERIOD_GACHA_HERO_PACK_HELP": {
@@ -39815,8 +39815,8 @@
         "original": true
     },
     "TEXT_SKILL_AR_MOONLIGHT_ARROW_LV3_SUBDESC": {
-        "text": "Upon using his 3-chain, Altair gives a 'Lunar Mark' to the ally with the highest resistance and to himself for 3 seconds. The armor and resistance of an ally with 'Lunar Mark' is buffed by 600, and deals @magical damage@ equal to 125% of their own attack power per second to surrounding enemies.",
-        "version": "4.7.0",
+        "text": "Upon using his 3-chain, Altair gives a 'Lunar Mark' to the ally with the highest resistance and to himself for 3 seconds. The armor and resistance of an ally with 'Lunar Mark' is buffed by 1000, and deals @magical damage@ equal to 350% of their own attack power per second to surrounding enemies.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_SKILL_AR_MOONLIGHT_ARROW_NAME": {
@@ -49430,8 +49430,8 @@
         "original": true
     },
     "TEXT_TIP_COMMON_POPO": {
-        "text": "Bargaining with Popo discounts the price of one random item.",
-        "version": "4.7.0",
+        "text": "Successfully bargain with Popo to get deals on all items.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_TIP_COMMON_PVP_1": {
@@ -51965,8 +51965,8 @@
         "original": true
     },
     "TEXT_WEAPON_OPTION_CHANGE_DESC": {
-        "text": "Convert 1 Weapon Option",
-        "version": "4.7.0",
+        "text": "Convert\n1 Weapon Option",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_WEAPON_OPTION_CHANGE_DESC_1": {
@@ -62050,8 +62050,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_6_12": {
-        "text": "Lunar Mark' lasts 5 seconds, and deals damage to all enemies. Its damage can be stacked up to 3 times. When 'Lunar Mark' is renewed, the duration of the mark is reset.",
-        "version": "4.7.0",
+        "text": "The duration of 'Lunar Mark' is increased to 9 seconds. 'Lunar Mark' further deals damage to all enemies and decreases hit enemies' resistance by 15%. The damage dealt and debuff cast by 'Lunar Mark' can be stacked up to 3 times. When 'Lunar Mark' is renewed, the duration of the mark is reset.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_EXCLUSIVE_AR_6_15": {
@@ -62100,8 +62100,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_4_12": {
-        "text": "(Passive enhanced) 'Mark of the Sun' additionally deals physical damage equal to 100% of Rebecca's armor and resistance, respectively.",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) 'Mark of the Sun' additionally deals physical damage equal to 500% of Rebecca's armor and resistance, respectively.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_4_21": {
@@ -62125,8 +62125,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_12": {
-        "text": "(Passive enhanced) 'Mark of the Sun' additionally deals physical damage equal to 100% of Rebecca's armor and resistance, respectively.\n(Passive added) Upon dealing additional damage through the 'Mark of the Sun,' Rebecca swings her mace to deal physical damage equal to 500% of her attack power. (Cooltime: 4 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) 'Mark of the Sun' additionally deals physical damage equal to 1000% of Rebecca's armor and resistance, respectively.\n(Passive added) Upon dealing additional damage through the 'Mark of the Sun,' Rebecca swings her mace to deal physical damage equal to 2000% of her attack power. (Cooltime: 1 seconds)",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_21": {
@@ -64190,8 +64190,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_ADVERTISEMENT_DESC": {
-        "text": "★1~5 Hero",
-        "version": "4.7.0",
+        "text": "★1~5 Heroes\n\nOnce a day",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_AR_DESC": {
@@ -64220,8 +64220,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_CLASS_DESC": {
-        "text": "4-star Contract Hero",
-        "version": "4.7.0",
+        "text": "★4 Contract Hero",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_DESC": {
@@ -64235,8 +64235,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_AR_NAME": {
-        "text": "4-Star Archer Contract",
-        "version": "4.7.0",
+        "text": "★4 Archer Contract",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_DESC": {
@@ -64250,8 +64250,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_HU_NAME": {
-        "text": "4-Star Hunter Contract",
-        "version": "4.7.0",
+        "text": "★4 Hunter Contract",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_NAME": {
@@ -64265,8 +64265,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_PA_NAME": {
-        "text": "4-Star Paladin Contract",
-        "version": "4.7.0",
+        "text": "★4 Paladin Contract",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_PR_DESC": {
@@ -64275,8 +64275,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_PR_NAME": {
-        "text": "4-Star Priest Contract",
-        "version": "4.7.0",
+        "text": "★4 Priest Contract",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_WA_DESC": {
@@ -64285,8 +64285,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_WA_NAME": {
-        "text": "4-Star Warrior Contract",
-        "version": "4.7.0",
+        "text": "★4 Warrior Contract",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_WI_DESC": {
@@ -64295,8 +64295,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_GACHA_ONLY_WI_NAME": {
-        "text": "4-Star Wizard Contract",
-        "version": "4.7.0",
+        "text": "★4 Wizard Contract",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHA_GRADE_4_NAME": {
@@ -64390,8 +64390,8 @@
         "original": true
     },
     "TEXT_GACHA_CHOICE_HERO_GRADE_4_DESC": {
-        "text": "You may select 4 star hero",
-        "version": "4.7.0",
+        "text": "You may select\n★4 hero",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHOICE_HERO_GRADE_4_NAME": {
@@ -64415,8 +64415,8 @@
         "original": true
     },
     "TEXT_GACHA_CHOICE_WEAPON_GRADE_4_DESC": {
-        "text": "You may select 4 star Soulbound Weapon",
-        "version": "4.7.0",
+        "text": "You may select \n★4 Soulbound Weapon",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_CHOICE_WEAPON_GRADE_4_NAME": {
@@ -64460,8 +64460,8 @@
         "original": true
     },
     "TEXT_GACHA_WEP_FOR_PAYING_DESC": {
-        "text": "Obtain a 4-6 Star Weapon\n\nRandom Weapon Option Ticket may appear.",
-        "version": "4.7.0",
+        "text": "★4~6 Weapons\n\nChance to obtain Weapon Option Ticket",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GACHA_WEP_FOR_PAYING_EVENT_NAME": {
@@ -65125,8 +65125,8 @@
         "original": true
     },
     "TEXT_GYPSI_NEGOTIATE_DESC": {
-        "text": "Bargain prices with Popo using Jewels. Bargained items are 50% off. Wanna try?",
-        "version": "4.7.0",
+        "text": "You can use Jewels to bargain with Popo lower prices.\nHaggling will reduce the prices of all items by 50%. \nWill you haggle?",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_GYPSI_RANDOMBOX_ITEM_CARVESTONE_HELP": {
@@ -65230,8 +65230,8 @@
         "original": true
     },
     "TEXT_HELP_10205_MAIN_DESC": {
-        "text": "1. You can use Jewels to recruit Heroes or acquire Weapons.\n2. Different contracts will recruit different kinds of Heroes.\n3. Support Hero Contracts can be purchased with Honor twice every week.\n4. If you recruit a duplicate 4-Star and above Hero through 10 Consecutive Gold, Special, or Event Contracts, you will be guaranteed as many Books of Inheritance as the number of duplicate Hero(es) recruited.\n5. You can get and use up to 10 Promote Contracts per day through watching ads.",
-        "version": "4.7.0",
+        "text": "1. You can use Jewels to recruit Heroes or acquire Weapons.\n2. Different Contracts will recruit different types of Heroes.\n3. Support Hero Contracts can be purchased with Honor twice a week.\n4. If you recruit duplicate 4-Star and above Heroes through 10 Consecutive Gold, Special, or Event Contracts, you will receive as many Books of Inheritance as the number of duplicate Heroes recruited.\n5. You can watch an ad once a day to purchase 10 Consecutive Promote Hero Contracts. Recruiting duplicate 4-Star and above Heroes will award you as many Bread.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_HELP_10206_MAIN": {
@@ -65340,8 +65340,8 @@
         "original": true
     },
     "TEXT_HELP_10216_MAIN_DESC": {
-        "text": "1. Traveling Merchants appear randomly in Scenario stages. Rescue them for a chance to purchase their wares.\n2. If you give up or fail to clear the stage, you will not be able to rescue the Traveling Merchant.\n3. Once rescued, the Traveling Merchant will linger in town for 15 minutes. Take a look at their wares for various rare items!\n4. Pay jewels or watch ads to get a better deal.",
-        "version": "4.7.0",
+        "text": "1. You have a chance of rescuing Traveling Merchants in Scenario Stages.\n2. You will fail to rescue the Traveling Merchant if you give up or fail to clear the stage.\n3. Once rescued, the Traveling Merchant will stay in the Town for 15 minutes. Take a look at their wares for various rare items!\n4. You can pay jewels or watch ads to bargain for lower prices of all products.\n5. You can watch an ad to refresh the list of products once a day.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_HELP_20000_HIGH": {
@@ -69060,8 +69060,8 @@
         "original": true
     },
     "TEXT_MEAT_PACK_DESC": {
-        "text": "Great Deal on Meat and Gold! \nOnly available twice a week!",
-        "version": "4.9.0",
+        "text": "Great Deal on \nMeat and Gold! \nOnly available twice a week!",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_MEAT_PACK_ITEM1_DESC": {
@@ -73440,8 +73440,8 @@
         "original": true
     },
     "TEXT_SHOP_ITEM_GOLD_DESC": {
-        "text": "Purchase {0} Gold",
-        "version": "4.7.0",
+        "text": "Purchase\n{0} Gold",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_SHOP_ITEM_GOLD_NAME": {
@@ -74075,18 +74075,18 @@
         "original": true
     },
     "TEXT_SKILL_PA_IRON_HAMMER_DESC": {
-        "text": "Rebecca swings her iron mace 2 times to deal #physical damage# equal to [50/150/260]% of her attack power according to the chain number she used. Enemies hit by this attack receive a 'Mark of the Sun' that lasts 10 seconds.",
-        "version": "4.7.0",
+        "text": "Rebecca swings her iron mace 2 times to deal #physical damage# equal to [150/200/260]% of her attack power according to the chain number she used. Enemies hit by this attack receive a 'Mark of the Sun' that lasts 10 seconds.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_SKILL_PA_IRON_HAMMER_LV2_SUBDESC": {
-        "text": "Rebecca cannot be pushed back for 1 second after using block. If an ally hits an enemy with the 'Mark of the Sun' 5 times, the enemy receives additional #physical damage# equal to 100% of Rebecca's attack power and the 'Mark of the Sun' disappears afterwards. (Cooltime: 1 second)",
-        "version": "4.7.0",
+        "text": "Rebecca cannot be pushed back for 1 second after using block. If an ally hits an enemy with the 'Mark of the Sun' 5 times, the enemy receives additional #physical damage# equal to 200% of Rebecca's attack power and the 'Mark of the Sun' disappears afterwards. (Cooltime: 0.5 second)",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_SKILL_PA_IRON_HAMMER_LV3_SUBDESC": {
-        "text": "Upon using a block, Rebecca becomes resistant to knockbacks for 1 second. If allies hit an enemy with the 'Mark of the Sun' 5 times, they additionally deal #physical damage# equal to 200% of Rebecca's attack power and the mark disappears. (Cooltime: 1 second) While the 'Mark of the Sun' is activated, Rebecca's maximum HP is increased by 15% for 10 seconds.",
-        "version": "4.7.0",
+        "text": "Upon using a block, Rebecca becomes resistant to knockback for 1 second. If allies hit an enemy with the 'Mark of the Sun' 5 times, the mark disappears as they deal additional #Physical damage# equal to 500% of Rebecca's attack power. (Cooltime: 1 second) When the 'Mark of the Sun' is activated, Rebecca's maximum HP is increased by 15% while armor piercing increases by 1500 for 10 seconds.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_SKILL_PA_MAENGGI_DESC": {
@@ -75465,8 +75465,8 @@
         "original": true
     },
     "TEXT_TIP_AD": {
-        "text": "You can turn Ads on or off in Settings.",
-        "version": "4.7.0",
+        "text": "Enable [Settings > Enable Ads] to utilize the Mysterious Oven, Discounts with Popo, and Reviving during stages!",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_TIP_CARVE_1": {
@@ -85635,8 +85635,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_SIMHAKGYU_LV3_SUBDESC": {
-        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter 'Sim Cheong.' Sim Cheong's stats are 1.25 times her father's upon summon. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies. Upon using Sim Hak-Gyu's 3-chain block, 'Sim Cheong' uses 'Punch of the Indang Waters' to deal #physical damage# equal to 2000% of her attack power. 'Sim Cheong' receives all damage targeted at Sim Hak-Gyu.",
-        "version": "4.13.1",
+        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter ''Sim Cheong'.' On summon, 'Sim Cheong's stats are 125% of Sim Hak-Gyu. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies. Upon using Sim Hak-Gyu's 3-chain block, 'Sim Cheong' uses 'Punch of the Indang Waters' to deal #physical damage# equal to 2000% of her attack power. 'Sim Cheong' receives all damage targeted at Sim Hak Gyu.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_SKILL_WA_SIMHAKGYU_NAME": {
@@ -86485,8 +86485,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_ODIN_DESC": {
-        "text": "Odin wields [1/2/3] spears that deal physical damage equal to [400/400/400]% of his attack power, according to the chain number used. Each of Odin's spears activates different effects, in the order they are used.\n\nFirst Spear: Knocks back enemies within its range.\nSecond Spear: Pulls in enemies within its range.\nThird Spear: Knocks enemies within its range into the air.",
-        "version": "4.14.0",
+        "text": "Odin wields [1/2/3] spears that deal #physical damage# equal to [400/400/400]% of his attack power, according to the chain number used. Each of Odin's spears activates different effects, in the order they are used.\n\nFirst Spear: Knocks back enemies within its range.\nSecond Spear: Pulls in enemies within its range.\nThird Spear: Knocks enemies within its range into the air.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_SKILL_PA_ODIN_LV2_SUBDESC": {
@@ -86575,8 +86575,8 @@
         "original": true
     },
     "TEXT_CHALLENGERAID_PACK_DESC": {
-        "text": "Get 3 Jewels, Treasure of Trista, and Canopic Jars at once!",
-        "version": "4.15.3",
+        "text": "Get 3 Jewels, \nTreasure of Trista, \nand Canopic Jars at once!",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_CHALLENGERAID_PACK_MAIL_CONTENT": {
@@ -87550,8 +87550,8 @@
         "original": true
     },
     "TEXT_CHA_WI_6_26_DESC": {
-        "text": "Urako starts for the country of Ryu, intent on hunting down the human. However, a Kitsune spirit, a Tengu, and a Nue block her path, worried for the beloved daughter of the Chieftain for whom their respect has gone unchanged. When Urako refuses to return home, the three spirits join the young Oni on her journey. After many hardships, the four friends finally arrive in Ryu, and Urako manages to track down her victim. The time has come for her to swing her kanabo and get her revenge! But what's this? When she meets the eyes of the 'monstrous human,' Urako discovers, to her complete surprise, that he doesn't look so \"monstrous\" after all. Her heart beating furiously like it has never before, Urako lowers her kanabo and flees from embarrassment, muttering about \"revenge best served cold.\" What are these feelings tickling her heart, she wonders?",
-        "version": "4.15.3",
+        "text": "Urako's \"kind\" neighbors, after finding out that the once-mighty Ura is now penniless and powerless, start to treat them with scorn and contempt. Urako vows revenge on the monstrous human who forced them into such poverty.",
+        "version": "4.15.4",
         "original": true
     },
     "TEXT_CHA_WI_6_26_NAME": {
@@ -87697,6 +87697,941 @@
     "TEXT_WEP_LEGEND_ST_CHA_6_26_NAME": {
         "text": "Urako's Makanobo",
         "version": "4.15.3",
+        "original": true
+    },
+    "TEXT_201906_LIMIT_QUEST_EVENT_Q0001_TITLE": {
+        "text": "Even in my dreams?",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_201906_LIMIT_QUEST_EVENT_Q0002_TITLE": {
+        "text": "I don't need your life!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_201906_LIMIT_QUEST_EVENT_Q0003_TITLE": {
+        "text": "Of course, I'll be coming along, too!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_201906_LIMIT_QUEST_EVENT_Q0004_TITLE": {
+        "text": "A request from a friend.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_201906_LIMIT_QUEST_EVENT_Q0005_TITLE": {
+        "text": "Buy me more than one drink, Beardcutter.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_201906_LIMIT_QUEST_EVENT_Q0006_TITLE": {
+        "text": "I'll take you on a real adventure next time!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_AD_NEGOTIATE_DISABLE": {
+        "text": "You can Haggle with Ads only once a day.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_AD_REFRESH_DESC": {
+        "text": "View Ad to refresh Item List?",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_AD_REFRESH_DISABLE": {
+        "text": "You can Refresh with Ads only once a day.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_AD_REFRESH_TITLE": {
+        "text": "Refresh",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_BLANK": {
+        "text": null,
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_GOSL_REWARD_01_HELP": {
+        "text": "A chest that contains a Goblin Slayer Collaboration Hero Home Item.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_GOSL_REWARD_01_NAME": {
+        "text": "Goblin Slayer Collab Hero Home Box",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_REWARD_02_HELP": {
+        "text": "Goblin Slayer Collaboration Chest",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_REWARD_02_NAME": {
+        "text": "Goblin's Treasure 1",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_REWARD_03_NAME": {
+        "text": "Goblin's Treasure 2",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_AR_LIMITED_GS_4_06_DESC": {
+        "text": "A cheerful and skilled Silver Rank archer who loves adventure, the High Elf Archer accompanies Goblin Slayer, who is always obsessing over killing all Goblins, to teach him the true joys of adventuring. While helping Goblin Slayer defeat Goblins as usual, the party discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and High Elf Archer has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_AR_LIMITED_GS_4_06_NAME": {
+        "text": "High Elf Archer",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_AR_LIMITED_GS_5_06_DESC": {
+        "text": "A cheerful and skilled Silver Rank archer who loves adventure, the High Elf Archer accompanies Goblin Slayer, who is always obsessing over killing all Goblins, to teach him the true joys of adventuring. While helping Goblin Slayer defeat Goblins as usual, the party discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and High Elf Archer has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_AR_LIMITED_GS_5_06_NAME": {
+        "text": "High Elf Archer",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_AR_LIMITED_GS_6_06_DESC": {
+        "text": "A cheerful and skilled Silver Rank archer who loves adventure, the High Elf Archer accompanies Goblin Slayer, who is always obsessing over killing all Goblins, to teach him the true joys of adventuring. While helping Goblin Slayer defeat Goblins as usual, the party discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and High Elf Archer has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_AR_LIMITED_GS_6_06_NAME": {
+        "text": "High Elf Archer",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_GS_4_02_DESC": {
+        "text": "A legendary Gold Rank adventurer who defeated the Demon Lord years ago. Sword Maiden now serves as Archbishop of the Temple of Law in Water Town. When she attempts to contact Goblin Slayer for a new quest, she discovers that he has gone missing. Upon hearing that the warrior and his party teleported to a world called Hasla to chase after a Goblin Lord, Sword Maiden throws herself into the magical mirror out of concern and affection for him.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_GS_4_02_NAME": {
+        "text": "Sword Maiden",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_GS_5_02_DESC": {
+        "text": "A legendary Gold Rank adventurer who defeated the Demon Lord years ago. Sword Maiden now serves as Archbishop of the Temple of Law in Water Town. When she attempts to contact Goblin Slayer for a new quest, she discovers that he has gone missing. Upon hearing that the warrior and his party teleported to a world called Hasla to chase after a Goblin Lord, Sword Maiden throws herself into the magical mirror out of concern and affection for him.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_GS_5_02_NAME": {
+        "text": "Sword Maiden",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_GS_6_02_DESC": {
+        "text": "A legendary Gold Rank adventurer who defeated the Demon Lord years ago. Sword Maiden now serves as Archbishop of the Temple of Law in Water Town. When she attempts to contact Goblin Slayer for a new quest, she discovers that he has gone missing. Upon hearing that the warrior and his party teleported to a world called Hasla to chase after a Goblin Lord, Sword Maiden throws herself into the magical mirror out of concern and affection for him.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_GS_6_02_NAME": {
+        "text": "Sword Maiden",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_4_03_DESC": {
+        "text": "Priestess started her journey to help other adventurers. However, on her very first adventure her party is ambushed and wiped out by the Goblins. Priestess is luckily saved by Goblin Slayer and has accompanied him ever since. While fighting Goblins with Goblin Slayer as usual, the group discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and Priestess has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_4_03_NAME": {
+        "text": "Priestess",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_4_04_DESC": {
+        "text": "Lizardman Priest met Goblin Slayer while on his journey to slay all heretic monsters and become a Dragon. He has accompanied Goblin Slayer ever since to teach him the joys of adventuring. While slaying Goblins with Goblin Slayer as usual, the party discovers Goblin Lord and his group of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and Lizardman Priest has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_4_04_NAME": {
+        "text": "Lizardman Priest",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_5_03_DESC": {
+        "text": "Priestess started her journey to help other adventurers. However, on her very first adventure her party is ambushed and wiped out by the Goblins. Priestess is luckily saved by Goblin Slayer and has accompanied him ever since. While fighting Goblins with Goblin Slayer as usual, the group discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and Priestess has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_5_03_NAME": {
+        "text": "Priestess",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_5_04_DESC": {
+        "text": "Lizardman Priest met Goblin Slayer while on his journey to slay all heretic monsters and become a Dragon. He has accompanied Goblin Slayer ever since to teach him the joys of adventuring. While slaying Goblins with Goblin Slayer as usual, the party discovers Goblin Lord and his group of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and Lizardman Priest has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_5_04_NAME": {
+        "text": "Lizardman Priest",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_6_03_DESC": {
+        "text": "Priestess started her journey to help other adventurers. However, on her very first adventure her party is ambushed and wiped out by the Goblins. Priestess is luckily saved by Goblin Slayer and has accompanied him ever since. While fighting Goblins with Goblin Slayer as usual, the group discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and Priestess has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_6_03_NAME": {
+        "text": "Priestess",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_6_04_DESC": {
+        "text": "Lizardman Priest met Goblin Slayer while on his journey to slay all heretic monsters and become a Dragon. He has accompanied Goblin Slayer ever since to teach him the joys of adventuring. While slaying Goblins with Goblin Slayer as usual, the party discovers Goblin Lord and his group of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer chases after the Goblins without hesitation, and Lizardman Priest has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_6_04_NAME": {
+        "text": "Lizardman Priest",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_4_01_DESC": {
+        "text": "An adventurer who devotes himself to slaying Goblins out of a deep hatred against them. Goblin Slayer is a skilled fighter who reached Silver Rank through defeating only Goblins. While carrying out his regular raids against Goblins with his party members, Goblin Slayer sees a Goblin Lord and his Goblin horde jump through a magical mirror that leads to another dimension. Determined to let no Goblin escape from his grasp, Goblin Slayer follows his enemies to Hasla.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_4_01_NAME": {
+        "text": "Goblin Slayer",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_4_07_DESC": {
+        "text": "A Silver Rank adventurer, known as the \"the best adventurer on the frontier,\" Spearman begins his search for Goblin Slayer on a quest from Guild Girl to bring the missing adventurer back. Learning that Goblin Slayer and his party teleported to a world called Hasla to chase after a Goblin Lord, Spearman leaps into the magical mirror to impress the Guild Gir... to fulfill his client's request!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_4_07_NAME": {
+        "text": "Spearman",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_5_01_DESC": {
+        "text": "An adventurer who devotes himself to slaying Goblins out of a deep hatred against them. Goblin Slayer is a skilled fighter who reached Silver Rank through defeating only Goblins. While carrying out his regular raids against Goblins with his party members, Goblin Slayer sees a Goblin Lord and his Goblin horde jump through a magical mirror that leads to another dimension. Determined to let no Goblin escape from his grasp, Goblin Slayer follows his enemies to Hasla.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_5_01_NAME": {
+        "text": "Goblin Slayer",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_5_07_DESC": {
+        "text": "A Silver Rank adventurer, known as the \"the best adventurer on the frontier,\" Spearman begins his search for Goblin Slayer on a quest from Guild Girl to bring the missing adventurer back. Learning that Goblin Slayer and his party teleported to a world called Hasla to chase after a Goblin Lord, Spearman leaps into the magical mirror to impress the Guild Gir... to fulfill his client's request!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_5_07_NAME": {
+        "text": "Spearman",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_6_01_DESC": {
+        "text": "An adventurer who devotes himself to slaying Goblins out of a deep hatred against them. Goblin Slayer is a skilled fighter who reached Silver Rank through defeating only Goblins. While carrying out his regular raids against Goblins with his party members, Goblin Slayer sees a Goblin Lord and his Goblin horde jump through a magical mirror that leads to another dimension. Determined to let no Goblin escape from his grasp, Goblin Slayer follows his enemies to Hasla.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_6_01_NAME": {
+        "text": "Goblin Slayer",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_6_07_DESC": {
+        "text": "A Silver Rank adventurer, known as the \"the best adventurer on the frontier,\" Spearman begins his search for Goblin Slayer on a quest from Guild Girl to bring the missing adventurer back. Learning that Goblin Slayer and his party teleported to a world called Hasla to chase after a Goblin Lord, Spearman leaps into the magical mirror to impress the Guild Gir... to fulfill his client's request!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_GS_6_07_NAME": {
+        "text": "Spearman",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GS_4_05_DESC": {
+        "text": "A Silver Rank adventurer proficient with a variety of spells, especially those of the earth element. Dwarf Shaman travels with High Elf Archer and Lizardman Priest to share the joys of adventuring with Goblin Slayer. While helping Goblin Slayer defeat Goblins as usual, the party discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer jumps through to chase after the Goblins without hesitation, and Dwarf Shaman has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GS_4_05_NAME": {
+        "text": "Dwarf Shaman",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GS_5_05_DESC": {
+        "text": "A Silver Rank adventurer proficient with a variety of spells, especially those of the earth element. Dwarf Shaman travels with High Elf Archer and Lizardman Priest to share the joys of adventuring with Goblin Slayer. While helping Goblin Slayer defeat Goblins as usual, the party discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer jumps through to chase after the Goblins without hesitation, and Dwarf Shaman has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GS_5_05_NAME": {
+        "text": "Dwarf Shaman",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GS_6_05_DESC": {
+        "text": "A Silver Rank adventurer proficient with a variety of spells, especially those of the earth element. Dwarf Shaman travels with High Elf Archer and Lizardman Priest to share the joys of adventuring with Goblin Slayer. While helping Goblin Slayer defeat Goblins as usual, the party discovers a Goblin Lord and his horde of Goblins teleporting through a magical mirror to another dimension. Goblin Slayer jumps through to chase after the Goblins without hesitation, and Dwarf Shaman has no choice but to follow him through the mirror.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_GS_6_05_NAME": {
+        "text": "Dwarf Shaman",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_COLLABO_NODG": {
+        "text": "You can only enter after completing all Limited Quests.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_GOSL_BOTTOM_COWGIRL_01_DESC": {
+        "text": "Goblin Slayer's childhood friend. She's a lot stronger than she looks.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_GOSL_BOTTOM_COWGIRL_01_NAME": {
+        "text": "Cow Girl and Hand Cart",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_GOSL_BOTTOM_DESK_01_DESC": {
+        "text": "These Guild receptionists are responsible for registering and giving quests, paying out bounties, and administering adventurer ranking tests.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_GOSL_BOTTOM_DESK_01_NAME": {
+        "text": "Adventurer's Guild Reception Desk and Guild Girls",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_DIALOGUES_GYPSI_HELP_ALL_1": {
+        "text": "You can only refresh once a day, nya!\nIf you give me shiny things, I'll give you a discount on everything, nya!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_EVENT_GOSL_REWARD_MAIN": {
+        "text": "Goblin Slayer Collaboration Reward",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_EVENT_GOSL_STAGE_MAIN": {
+        "text": "Goblin Slayer Collaboration",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_EVENT_GOSL_STAGE_SUB": {
+        "text": "Defeat all the Goblins!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_GOSL_01": {
+        "text": "Situation at 4:00 AM",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_GOSL_02": {
+        "text": "Situation at 4:30 AM",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_GOSL_03": {
+        "text": "Situation at 5:00 AM",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_GOSL_05": {
+        "text": "Situation at 5:30 AM",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_GACHA_CHOICE_HERO_DESTINY_SHOP_NAME": {
+        "text": "Legendary Hero \nContract",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_GACHA_CHOICE_HERO_GRADE_4_SHOP_NAME": {
+        "text": "★4 Hero\nSelection Ticket",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_GACHA_CHOICE_WEAPON_GRADE_4_SHOP_NAME": {
+        "text": "★4 Soulbound\nWeapon Ticket",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_100": {
+        "text": "A Helping Hand",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_98": {
+        "text": "Fading History",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_99": {
+        "text": "The Raging Storm",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_1_1": {
+        "text": "I'll slay them all.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_2_1": {
+        "text": "Just buy me a drink later.\nA silver-ranked adventurer is saying that he'll slay some goblins for you.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_2_2": {
+        "text": "I'm sorry. Thank you.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_3_1": {
+        "text": "I'm going to slay some goblins, too!\nBut only if you'll come with us again on a real adventure!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_3_2": {
+        "text": "Very well.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_4_1": {
+        "text": "You'll need to buy me more than one drink, Beardcutter. I'm going to need a whole barrel.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_4_2": {
+        "text": "Understood. I'll get one for you.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_5_1": {
+        "text": "How could I refuse a request from a friend?\nBut if I were to ask for a reward...",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_5_2": {
+        "text": "Cheese, is it... and Ice Cream?",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_6_1": {
+        "text": "A horde of goblins, huh?\nHow shall we fight them?",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_6_2": {
+        "text": "I have a strategy.\nBut I have a favor to ask of you.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_7_1": {
+        "text": "So you won't... save me?",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_7_2": {
+        "text": "No.\nBut if any more goblins appear, call for me.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_INTERACTION_GOSL_8_1": {
+        "text": "A good Goblin? I guess there might be one if you looked really hard. But in the end, the only good Goblins are the ones who never come out of their holes.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_LIMIT_INC_MATERIAL_DONE_DESC": {
+        "text": "Your Material Inventory has been expanded!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_LIMIT_INC_MATERIAL_POPUP_DESC": {
+        "text": "Expand Material Inventory limit by #{0}#?",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_MON_EVENT_GS_1_NAME": {
+        "text": "Goblin",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_MON_EVENT_GS_2_NAME": {
+        "text": "Goblin Archer",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_MON_EVENT_GS_3_NAME": {
+        "text": "Goblin Rider",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_MON_EVENT_GS_4_NAME": {
+        "text": "Hobgoblin",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_MON_EVENT_GS_5_NAME": {
+        "text": "Goblin Champion",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_MON_EVENT_GS_6_NAME": {
+        "text": "Goblin Lord",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_NOTI_EVENT_NOLV": {
+        "text": "You can participate in the Event after reaching Level 5.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_NOTI_NORESOURCE": {
+        "text": "You do not have enough Tokens to enter.\nTokens are recharged every day at 9 AM.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_PERMISSION_SETTING_DESC": {
+        "text": "Opening Permission settings.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_PERMISSION_SETTING_TITLE": {
+        "text": "Permissions",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_RING_AD_HELP": {
+        "text": "A chest from which you can obtain one random Ring.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_RING_AD_NAME": {
+        "text": "Shining Ring Box",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_LOW_INHERIT_BOOK_ALL_01_DESC": {
+        "text": "Acquired an Ancient Book Page!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_LOW_INHERIT_BOOK_ALL_01_NAME": {
+        "text": "Ancient Book Page",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_RANDOMBOX_RING_AD_DESC": {
+        "text": "Only once a day!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_RANDOMBOX_RING_AD_NAME": {
+        "text": "Shining Ring Box",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_AR_ELF_ARCHER_DESC": {
+        "text": "High Elf Archer shoots an arrow to the enemy in the front to deal #physical damage# equal to [200/300/400]% of her attack power.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_AR_ELF_ARCHER_LV2_SUBDESC": {
+        "text": "Upon using another ally's chain, High Elf Archer deals #physical damage# equal to 1250% of her attack power to all enemies within her range. (Cooltime: 1 second)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_AR_ELF_ARCHER_LV3_SUBDESC": {
+        "text": "High Elf Archer's evasion and accuracy are increased by 25%. Upon using another ally's chain, High Elf Archer deals #physical damage# equal to 1250% of her attack power to all enemies within her range. (Cooltime: 1 second)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_AR_ELF_ARCHER_NAME": {
+        "text": "This Isn't an Adventure!",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_AR_ELF_ARCHER_SUBNAME": {
+        "text": "Volley Fire",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PA_SWORDMAIDEN_DESC": {
+        "text": "Sword Maiden wields her Celestial Sword to deal #physical damage# equal to [150/300/480]% of her attack power, and heal the lowest remaining HP ally by 100% of her attack power.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PA_SWORDMAIDEN_LV2_SUBDESC": {
+        "text": "Upon using her own chain 2 times, Sword Maiden infuses her weapon with a divine power for 5 seconds, which adds additional $neutral damage$ equal to 50% of her attack power to every hit.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PA_SWORDMAIDEN_LV3_SUBDESC": {
+        "text": "Upon using her own chain 2 times, Sword Maiden infuses her weapon with a divine power for 7 seconds, which adds additional $neutral damage$ equal to 50% of her attack power to every hit and increases her [attack power / armor / resistance] by [30/70/70]%.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PA_SWORDMAIDEN_NAME": {
+        "text": "Healing",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PA_SWORDMAIDEN_SUBNAME": {
+        "text": "Divine Strike",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_LIZARDMAN_MONK_DESC": {
+        "text": "Lizardman Priest heals the ally with the lowest HP by [100/200/300]% of his attack power.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_LIZARDMAN_MONK_LV2_SUBDESC": {
+        "text": "After entering battle, Lizardman Priest summons a 'Dragon-Tooth Warrior.' The 'Dragon-Tooth Warrior' has the same stats as Lizardman Priest. Only one 'Dragon-Tooth Warrior' can be summoned at a time. Upon using an ally's block skill, 'Dragon-Tooth Warrior' charges forward and deals #physical damage# equal to 300% of its attack power to enemies within range. \n\nIf it dies, the 'Dragon-Tooth Warrior' will revive after 1.5 seconds to its full HP and will not receive damage for 1 second. It will not revive if Lizardman Priest is dead.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_LIZARDMAN_MONK_LV3_SUBDESC": {
+        "text": "After entering battle, Lizardman Priest summons a 'Dragon-Tooth Warrior.' The 'Dragon-Tooth Warrior' has double the Lizardman Priest's stats. Only one 'Dragon-Tooth Warrior' can be summoned at a time. Upon using another ally's block skill, 'Dragon-Tooth Warrior' charges forward and deals #physical damage# equal to 500% of its attack power to enemies within range. \n\nIf it dies, the 'Dragon-Tooth Warrior' will revive after 1.5 seconds to its full HP and will not receive damage for 1 second. It will not revive if Lizardman Priest is dead.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_LIZARDMAN_MONK_NAME": {
+        "text": "Refresh",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_LIZARDMAN_MONK_SUBNAME": {
+        "text": "Dragon-Tooth Warrior",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_PRIESTESS_DESC": {
+        "text": "Priestess heals the entire ally by [100/200/300]% of her attack power, according to the chain number used.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_PRIESTESS_LV2_SUBDESC": {
+        "text": "Upon using her chain 3 times, Priestess uses 'Holy Light.' 'Holy Light' deals @magical damage@ equal to 100% of Priestess's attack power to enemies within range and decreases their accuracy by 30% for 3 seconds. (Cooltime: 4 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_PRIESTESS_LV3_SUBDESC": {
+        "text": "Upon using her chain 3 times, Priestess uses 'Holy Light.' 'Holy Light' deals @magical damage@ equal to 100% of Priestess's attack power to enemies within range, decreases their accuracy by 30% for 3 seconds, and stuns hit enemies for 1.5 seconds. (Cooltime: 4 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_PRIESTESS_NAME": {
+        "text": "Heal",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_PR_PRIESTESS_SUBNAME": {
+        "text": "Holy Light",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GOBLIN_SLAYER_DESC": {
+        "text": "Goblin Slayer throws a weapon at the enemy in the front, dealing #physical damage# equal to [250/350/450]% of his attack power, according to the chain number used.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GOBLIN_SLAYER_LV2_SUBDESC": {
+        "text": "Goblin Slayer has a 30% chance of blocking all attacks. When he succeeds in blocking an attack, he uses 'Shield Blow' to deal #physical damage# equal to 1200% of his attack power. (Cooltime: 3 seconds) Enemies hit by 'Shield Blow' are knocked back and stunned for 1 second.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GOBLIN_SLAYER_LV3_SUBDESC": {
+        "text": "Goblin Slayer has a 30% chance of blocking all attacks. When he succeeds in blocking an attack, he uses 'Shield Blow' to deal #physical damage# equal to 1200% of his attack power. (Cooltime: 3 seconds) Enemies hit by 'Shield Blow' are knocked back and stunned for 1 second. Additionally, if Goblin Slayer accurately deals 'One...' or 'Slay Them All,' he immediately uses 'Raging Action' to deal #physical damage# equal to 2400% of his attack power. 'Raging Action' ignores enemy armor by 3000.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GOBLIN_SLAYER_NAME": {
+        "text": "One...",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GOBLIN_SLAYER_SUBNAME": {
+        "text": "Slay Them All",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SPEARMAN_DESC": {
+        "text": "Spearman deals #physical damage# equal to [500/700/1000]% of his attack power to the enemy in the front, according to the chain number used. During his block skill, Spearman gains knockback resistance.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SPEARMAN_LV2_SUBDESC": {
+        "text": "Upon using another ally's block within 5 seconds of using his own block skill, Spearman deals #physical damage# equal to 500% of his attack power over the entire area of his range, and generates 1 leader ally block. During 'Spearman's Strike,' Spearman gains knockback resistance.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SPEARMAN_LV3_SUBDESC": {
+        "text": "Upon using another ally's block within 5 seconds of using his own block skill, Spearman deals #physical damage# equal to 800% of his attack power over the entire area of his range, and generates 1 leader ally block. During 'Spearman's Strike,' Spearman gains knockback resistance.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SPEARMAN_NAME": {
+        "text": "Rapid Thrust",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WA_SPEARMAN_SUBNAME": {
+        "text": "Spearman's Strike",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WI_DWARF_DESC": {
+        "text": "Dwarf Shaman throws sharp stones to deal #physical damage# equal to [180/330/480]% of his attack power, according to the chain number used.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WI_DWARF_LV2_SUBDESC": {
+        "text": "Upon using his own 3-chain, Dwarf Shaman uses 'Falling Control' to deal #physical damage# equal to 600% of his attack power. (Cooltime: 3 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WI_DWARF_LV3_SUBDESC": {
+        "text": "Upon using his own 3-chain, Dwarf Shaman uses 'Falling Control' to deal #physical damage# equal to 900% of his attack power. He then summons a mud barrier to bind enemies for 3 seconds. (Cooltime: 3 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WI_DWARF_NAME": {
+        "text": "Stone Blast",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_SKILL_WI_DWARF_SUBNAME": {
+        "text": "Spellcasting",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEAPON_CHOOSE_OPTION_SHOP_NAME": {
+        "text": "Weapon Option \nSelection Ticket",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_GS_06_4_DESC": {
+        "text": "(Passive Enhanced) High Elf Archer's evasion and accuracy are increased by an additional 25%.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_GS_06_4_NAME": {
+        "text": "High Elf Archer's Bow",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_GS_06_5_DESC": {
+        "text": "(Passive Enhanced) High Elf Archer's evasion and accuracy are increased by an additional 25%.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_GS_06_5_NAME": {
+        "text": "High Elf Archer's Bow",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_GS_06_6_DESC": {
+        "text": "(Passive Enhanced) High Elf Archer's evasion and accuracy are increased by an additional 25%.\n(Passive Added) If the enemy hit by High Elf Archer's block skill is under a buff, High Elf Archer immediately shoots a 'Curve Shot' at the enemy with the least remaining HP. 'Curve Shot' deals physical damage equal to 3000% of High Elf Archer's attack power and ignores enemies' abilities of receiving the party's damage in their stead. (Cooltime: 3 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_GS_06_6_NAME": {
+        "text": "High Elf Archer's Bow",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_GS_02_4_DESC": {
+        "text": "(Block Skill Enhanced) Sword Maiden's block skill is enhanced to 'Mass Healing.' 'Mass Healing' heals all allies by 300% of Sword Maiden's attack power and deals physical damage to enemies equal to [300/480/720]% of her attack power, according to the chain number used.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_GS_02_4_NAME": {
+        "text": "Celestial Sword",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_GS_02_5_DESC": {
+        "text": "(Block Skill Enhanced) Sword Maiden's block skill is enhanced to 'Mass Healing.' 'Mass Healing' heals all allies by 300% of Sword Maiden's attack power and deals physical damage to enemies equal to [300/480/720]% of her attack power, according to the chain number used.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_GS_02_5_NAME": {
+        "text": "Celestial Sword",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_GS_02_6_DESC": {
+        "text": "(Block Skill Enhanced) Sword Maiden's block skill is enhanced to 'Mass Healing.' 'Mass Healing' heals the all allies by 300% of Sword Maiden's attack power and deals physical damage to enemies equal to [300/480/720]% of her attack power, according to the chain number used.\n(Passive Skill Enhanced) Divine Strike is enhanced to 'Fury of Order' to deal additional neutral damage equal to 100% of Sword Maiden's attack power. All allies' [attack power / armor / resistance] are increased by [60/100/100]%. \n(Passive Skill Added) Upon using her chain, Sword Maiden summons her familiar, the divine Swamp Dragon. Swamp Dragon receives 200% of Sword Maiden's stats upon entering battle. It will receive up to 6 hits targeted at the entire party and deal physical damage equal to 300% of its attack power. It can be summoned only once in battle.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_GS_02_6_NAME": {
+        "text": "Celestial Sword",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_03_4_DESC": {
+        "text": "(Passive Added) Upon using an ally's chain after her own chain, Priestess summons 'Protection' for 3 seconds. 'Protection' absorbs damage equal to 150% of Priestess's HP. Additionally, the presence of 'Protection' reduces damage received by the entire party by 15%.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_03_4_NAME": {
+        "text": "Sounding Staff",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_03_5_DESC": {
+        "text": "(Passive Added) Upon using an ally's chain after her own chain, Priestess summons 'Protection' for 3 seconds. 'Protection' absorbs damage equal to 150% of Priestess's HP. Additionally, the presence of 'Protection' reduces damage received by the entire party by 15%.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_03_5_NAME": {
+        "text": "Sounding Staff",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_03_6_DESC": {
+        "text": "(Passive Added) Upon using an ally's chain after her own chain, Priestess summons 'Protection' for 3 seconds. 'Protection' absorbs damage equal to 150% of Priestess's HP. Additionally, the presence of 'Protection' decreases damage received by the entire party by 15%.\n\n(Passive Enhanced) If 'Protection' is destroyed, Priestess summons 'Protection Overcast' for 5 seconds. 'Protection Overcast' absorbs damage equal to 300% of Priestess's HP. Additionally, the presence of 'Protection Overcast' reduces the damage received by the entire party by 25%.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_03_6_NAME": {
+        "text": "Sounding Staff",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_04_4_DESC": {
+        "text": "(Passive Added) Upon entering battle, Lizardman Priest uses his 'Weapon Miracle' that increases his armor penetration by 800. This effect cannot be canceled.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_04_4_NAME": {
+        "text": "Dragon-Tooth Knife",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_04_5_DESC": {
+        "text": "(Passive Added) Upon entering battle, Lizardman Priest uses his 'Weapon Miracle' that increases his armor penetration by 800. This effect cannot be canceled.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_04_5_NAME": {
+        "text": "Dragon-Tooth Knife",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_04_6_DESC": {
+        "text": "(Passive Added) Upon entering battle, Lizardman Priest uses a 'Miraculous Weapon' that increases his armor penetration by 1500. This effect cannot be canceled.\n\n(Block Skill Altered) Lizardman Priest's block skill is changed to 'See How Your Descendant Fights.' Lizardman Priest jumps towards the enemy and deals physical damage equal to [700/750/800]% of his attack power, according to the chain number used.\n\n(Passive Added) Upon using another ally's 3-chain, Lizardman Priest uses 'Tail Swing' to deal physical damage equal to 1000% of his attack power and knock back enemies. Enemies hit, lose 20% of their armor and receive 40% more damage for 5 seconds.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_GS_04_6_NAME": {
+        "text": "Dragon-Tooth Knife",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_GS_05_4_DESC": {
+        "text": "(Passive Enhanced) Dwarf Shaman's spells are enhanced. Upon using another ally's chain before the termination of 'Falling Control,' Dwarf Shaman uses 'Enhanced Stone Blast' to deal physical damage equal to 1200% of his attack power. (Cooltime: 3 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_GS_05_4_NAME": {
+        "text": "Fire Wine Bottle",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_GS_05_5_DESC": {
+        "text": "(Passive Enhanced) Dwarf Shaman's spells are enhanced. Upon using another ally's chain before the termination of 'Falling Control,' Dwarf Shaman uses 'Enhanced Stone Blast' to deal physical damage equal to 1200% of his attack power. (Cooltime: 3 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_GS_05_5_NAME": {
+        "text": "Fire Wine Bottle",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_GS_05_6_DESC": {
+        "text": "(Passive Enhanced) Dwarf Shaman's spells are enhanced. Upon using another ally's chain before the termination of 'Falling Control,' Dwarf Shaman uses 'Enhanced Stone Blast' to deal physical damage equal to 1200% of his attack power. (Cooltime: 3 seconds)\n(Passive Added) After using 'Enhanced Stone Blast,' Dwarf Shaman discharges strong alcohol at the enemy to deal physical damage equal to 1400% of his attack power, decrease hit enemies' accuracy and evasion by 40% for 5 seconds, and stun them for 1 second.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_GS_05_6_NAME": {
+        "text": "Fire Wine Bottle",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_01_4_DESC": {
+        "text": "(Passive Added) When he or other allies receive 10 hits, Goblin Slayer increases his own damage reduction and critical chance by 30% for 10 seconds.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_01_4_NAME": {
+        "text": "Goblin Slayer's Sword",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_01_5_DESC": {
+        "text": "(Passive Added) When he or other allies receive 10 hits, Goblin Slayer increases his own damage reduction and critical chance by 30% for 10 seconds.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_01_5_NAME": {
+        "text": "Goblin Slayer's Sword",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_01_6_DESC": {
+        "text": "(Passive Added) When he or other allies receive 10 hits, Goblin Slayer increases his own damage reduction and critical chance by 30% for 10 seconds. Upon using his chain 10 times, Goblin Slayer uses 'Gate Scroll' to deal neutral damage equal to 3000% of his attack power. (Cooltime: 8 seconds)",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_01_6_NAME": {
+        "text": "Goblin Slayer's Sword",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_07_4_DESC": {
+        "text": "(Passive Enhanced) 'Spearman's Strike' decreases hit enemies' armor and resistance by 10% for 10 seconds.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_07_4_NAME": {
+        "text": "Otherworldly Spear",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_07_5_DESC": {
+        "text": "(Passive Enhanced) 'Spearman's Strike' decreases hit enemies' armor and resistance by 10% for 10 seconds.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_07_5_NAME": {
+        "text": "Otherworldly Spear",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_07_6_DESC": {
+        "text": "(Passive Enhanced) 'Spearman's Strike' is changed to 'Strongest Strike of the Borderlands.'\nStrongest Strike of the Borderlands: After using another ally's block within 5 seconds of using his own block skill, Spearman deals physical damage equal to 1500% of his attack power over the entire area of his range, and generates 1 leader ally block. Hit enemies lose 30% of their armor and resistance for 10 seconds. During 'Strongest Strike of the Borderlands,' Spearman gains knockback resistance.",
+        "version": "4.15.4",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_GS_07_6_NAME": {
+        "text": "Otherworldly Spear",
+        "version": "4.15.4",
         "original": true
     }
 }
