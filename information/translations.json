@@ -88633,5 +88633,265 @@
         "text": "Otherworldly Spear",
         "version": "4.15.4",
         "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_01_TITLE": {
+        "text": "Everyone has a dark side!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_02_TITLE": {
+        "text": "Everything looks so fun, hee hee!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_03_TITLE": {
+        "text": "Heretics shall all be executed!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_04_TITLE": {
+        "text": "Seems a little like Buddy...",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_05_TITLE": {
+        "text": "Huhuhu... Where to find the next victim...?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_06_TITLE": {
+        "text": "Muhaha! Prepare the research equipment!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_07_TITLE": {
+        "text": "This is my bounty...?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201907_LIMIT_QUEST_FALLEN_08_TITLE": {
+        "text": "Shall we look for a stronger medium?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_EVENT_AR_11_WARGAME_5": {
+        "text": "Magic Academy Student Demona",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_EVENT_AR_8_GOSL": {
+        "text": "Black Swan Niven",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_EVENT_HU_11_WARGAME_5": {
+        "text": "Magic Academy Student Teresa",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_EVENT_PR_11_WARGAME_5": {
+        "text": "Magic Academy Student Melissa",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WI_11_WARGAME_5": {
+        "text": "Magic Academy Student Cano",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_HU_5_32": {
+        "text": "Baby Chick Crow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_PR_21_32": {
+        "text": "Nappytime Marpei",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_PR_26_32": {
+        "text": "Shub of the Sea",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_WA_26_32": {
+        "text": "Lord of the Sea Sim Hak-Gyu",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_COS_WA_3_32": {
+        "text": "Cheering Squad Susanoo",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRAME_WEDDING_PINK_01_DESC": {
+        "text": "A pink frame specially ordered for the perfect pink wedding.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRAME_WEDDING_PINK_01_NAME": {
+        "text": "Pink Wedding Frame",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GROUND_WEDDING_PINK_01_DESC": {
+        "text": "A pink floor specially ordered for the perfect pink wedding.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GROUND_WEDDING_PINK_01_NAME": {
+        "text": "Pink Wedding Tile",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WALL_WEDDING_PINK_01_DESC": {
+        "text": "A pink wall specially ordered for the perfect pink wedding.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WALL_WEDDING_PINK_01_NAME": {
+        "text": "Pink Wedding Wall",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_CHANGE_PACK_DESC": {
+        "text": "5 Weapon Option Tickets and 9 Jewels upon Purchase!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_CHANGE_PACK_MAIL_CONTENT": {
+        "text": "Here's your Option Ticket Package purchase!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_CHANGE_PACK_TITLE": {
+        "text": "Option Ticket Package",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_SELECT_PACK_DESC": {
+        "text": "One Weapon Option Selection Ticket and\n95 Jewels upon Purchase!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_SELECT_PACK_MAIL_CONTENT": {
+        "text": "Here's your Option Select Ticket Package purchase!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_SELECT_PACK_TITLE": {
+        "text": "Option Selection Package",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_ARCH_01_DESC": {
+        "text": "An arch that makes a couple's special day even more special. By passing through the wedding arch, the lovers fulfill their promise to become lifelong companions.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_ARCH_01_NAME": {
+        "text": "Pink Wedding Arch",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_BENCH_01_DESC": {
+        "text": "A bench for beloved guests who wish to celebrate the couple's special day. It is sturdy enough for many people to use at once, as well as surprisingly comfortable.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_BENCH_01_NAME": {
+        "text": "Pink Wedding Bench",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_BOUQUET_01_DESC": {
+        "text": "A variety of fragrant flowers constitute this beautiful bouquet. The person who catches the bouquet thrown by the bride is said to be the next one to marry.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_BOUQUET_01_NAME": {
+        "text": "Pink Wedding Bouquet",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_CAKE_01_DESC": {
+        "text": "Demeter and Chocolat worked together to bake this masterpiece for a couple's once-in-a-lifetime moment. A bite of this cake fills your mouth with a sweet, delectable taste.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_CAKE_01_NAME": {
+        "text": "Giant Wedding Cake",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_DOME_01_DESC": {
+        "text": "A dome that makes a couple's special day even more special. Couples who swear love to each other under this dome are said to live happily together forever, until death do them apart.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_DOME_01_NAME": {
+        "text": "Pink Wedding Dome",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_FENCE_01_DESC": {
+        "text": "A special fence for a couple's special day. Singles not allowed!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_FENCE_01_NAME": {
+        "text": "Pink Wedding Fence",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_RING_01_DESC": {
+        "text": "Fergus crafted this ring for a couple's once-in-a-lifetime moment. By putting on these bands, the couple declare their lifelong love for each other.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_RING_01_NAME": {
+        "text": "Diamond Ring",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_SWING_01_DESC": {
+        "text": "Legend has it that love that blooms under this cherry tree will remain eternal.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_BOTTOM_SWING_01_NAME": {
+        "text": "Cherry Blossom Tree with Swing",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_CENTER_DOVE_01_DESC": {
+        "text": "A pair of white doves, the symbol of peace. Doves are released at weddings to bless the couple's future with peace and happiness.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_CENTER_DOVE_01_NAME": {
+        "text": "Wedding Doves A",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_CENTER_DOVE_02_DESC": {
+        "text": "A pair of white doves, the symbol of peace. Doves are released at weddings to bless the couple's future with peace and happiness.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_CENTER_DOVE_02_NAME": {
+        "text": "Wedding Doves B",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_CENTER_DOVE_03_DESC": {
+        "text": "A pair of white doves, the symbol of peace. Doves are released at weddings to bless the couple's future with peace and happiness.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_WEDDING_CENTER_DOVE_03_NAME": {
+        "text": "Wedding Doves C",
+        "version": "4.16.3",
+        "original": true
     }
 }

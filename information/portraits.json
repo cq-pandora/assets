@@ -85,6 +85,15 @@
         "portrait_dione_dark",
         "portrait_dione_evil"
     ],
+    "TEXT_DIONNE_NAME": [
+        "portrait_sisdione2_default",
+        "portrait_sisdione2_angry",
+        "portrait_sisdione2_surprise",
+        "portrait_sisdione2_frown",
+        "portrait_sisdione2_sad",
+        "portrait_sisdione2_smile",
+        "portrait_sisdione2_pain"
+    ],
     "TEXT_CRONOS_NAME": [
         "portrait_cronos_default",
         "portrait_cronos2_default",
@@ -839,15 +848,6 @@
     "TEXT_MON_EVENT_GS_6_NAME": [
         "portrait_gsgoblinlord_default"
     ],
-    "TEXT_DIONNE_NAME": [
-        "portrait_sisdione2_angry",
-        "portrait_sisdione2_surprise",
-        "portrait_sisdione2_frown",
-        "portrait_sisdione2_default",
-        "portrait_sisdione2_sad",
-        "portrait_sisdione2_smile",
-        "portrait_sisdione2_pain"
-    ],
     "TEXT_CHA_PA_6_23_NAME": [
         "portrait_heim_default"
     ],
@@ -897,6 +897,15 @@
     ],
     "TEXT_CHA_AR_6_11_NAME": [
         "portrait_demona_default"
+    ],
+    "TEXT_CHA_AR_4_12_NAME": [
+        "portrait_altair_default"
+    ],
+    "TEXT_CHA_AR_5_12_NAME": [
+        "portrait_altair_default"
+    ],
+    "TEXT_CHA_AR_6_12_NAME": [
+        "portrait_altair_default"
     ],
     "TEXT_CHA_AR_LIMITED_4_1_NAME": [
         "portrait_hongran_default"
@@ -1242,6 +1251,15 @@
     "TEXT_CHA_HU_6_17_NAME": [
         "portrait_scarlet_default"
     ],
+    "TEXT_CHA_HU_4_18_NAME": [
+        "portrait_raven_default"
+    ],
+    "TEXT_CHA_HU_5_18_NAME": [
+        "portrait_raven_default"
+    ],
+    "TEXT_CHA_HU_6_18_NAME": [
+        "portrait_raven_default"
+    ],
     "TEXT_CHA_HU_4_19_NAME": [
         "portrait_momotaro_default"
     ],
@@ -1278,6 +1296,15 @@
     "TEXT_CHA_HU_6_22_NAME": [
         "portrait_jahard_default"
     ],
+    "TEXT_CHA_HU_4_23_NAME": [
+        "portrait_bellerophon_default"
+    ],
+    "TEXT_CHA_HU_5_23_NAME": [
+        "portrait_bellerophon_default"
+    ],
+    "TEXT_CHA_HU_6_23_NAME": [
+        "portrait_bellerophon_default"
+    ],
     "TEXT_CHA_PA_1_3_NAME": [
         "portrait_kriemhild_default"
     ],
@@ -1307,6 +1334,15 @@
     ],
     "TEXT_CHA_PA_6_11_NAME": [
         "portrait_rolland_default"
+    ],
+    "TEXT_CHA_PA_4_12_NAME": [
+        "portrait_rebecca_default"
+    ],
+    "TEXT_CHA_PA_5_12_NAME": [
+        "portrait_rebecca_default"
+    ],
+    "TEXT_CHA_PA_6_12_NAME": [
+        "portrait_rebecca_default"
     ],
     "TEXT_CHA_PA_LIMITED_4_1_NAME": [
         "portrait_jinkyung_default"
