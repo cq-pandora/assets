@@ -19119,6 +19119,13 @@
             "original": true
         },
         {
+            "key": "TEXT_NPC_ORCHARD_NAME",
+            "path": "portraits.TEXT_NPC_ORCHARD_NAME",
+            "text": "Lenny",
+            "version": "4.16.3",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_HU_6_16_NAME",
             "path": "portraits.TEXT_CHA_HU_6_16_NAME",
             "text": "Wanderer Lorelei",
@@ -19728,6 +19735,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_AR_4_19_NAME",
+            "path": "portraits.TEXT_CHA_AR_4_19_NAME",
+            "text": "Chiron",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_5_19_NAME",
+            "path": "portraits.TEXT_CHA_AR_5_19_NAME",
+            "text": "Chiron of Revenge",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_AR_6_19_NAME",
+            "path": "portraits.TEXT_CHA_AR_6_19_NAME",
+            "text": "Chiron of Glory",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_AR_4_20_NAME",
             "path": "portraits.TEXT_CHA_AR_4_20_NAME",
             "text": "Hansung",
@@ -20330,6 +20358,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_HU_4_25_NAME",
+            "path": "portraits.TEXT_CHA_HU_4_25_NAME",
+            "text": "Carol",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_5_25_NAME",
+            "path": "portraits.TEXT_CHA_HU_5_25_NAME",
+            "text": "Second Place Carol",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_HU_6_25_NAME",
+            "path": "portraits.TEXT_CHA_HU_6_25_NAME",
+            "text": "Radiant Carol",
+            "version": "4.9.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PA_1_3_NAME",
             "path": "portraits.TEXT_CHA_PA_1_3_NAME",
             "text": "Kriemhild",
@@ -20904,6 +20953,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_PA_4_24_NAME",
+            "path": "portraits.TEXT_CHA_PA_4_24_NAME",
+            "text": "Yuna",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_5_24_NAME",
+            "path": "portraits.TEXT_CHA_PA_5_24_NAME",
+            "text": "Yuna the Peacemaker",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PA_6_24_NAME",
+            "path": "portraits.TEXT_CHA_PA_6_24_NAME",
+            "text": "Yuna, the Rookie of the Year",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PR_2_6_NAME",
             "path": "portraits.TEXT_CHA_PR_2_6_NAME",
             "text": "Sister Maria",
@@ -21296,6 +21366,27 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_PR_4_19_NAME",
+            "path": "portraits.TEXT_CHA_PR_4_19_NAME",
+            "text": "Bari",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_19_NAME",
+            "path": "portraits.TEXT_CHA_PR_5_19_NAME",
+            "text": "Traveler Bari",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_19_NAME",
+            "path": "portraits.TEXT_CHA_PR_6_19_NAME",
+            "text": "Bari of White Flowers",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PR_4_20_NAME",
             "path": "portraits.TEXT_CHA_PR_4_20_NAME",
             "text": "Shikigami Seimei",
@@ -21369,6 +21460,27 @@
             "key": "TEXT_CHA_PR_5_23_NAME",
             "path": "portraits.TEXT_CHA_PR_5_23_NAME",
             "text": "Guardian Vernil",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_4_24_NAME",
+            "path": "portraits.TEXT_CHA_PR_4_24_NAME",
+            "text": "Ricky",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_5_24_NAME",
+            "path": "portraits.TEXT_CHA_PR_5_24_NAME",
+            "text": "Newbie Ricky",
+            "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_PR_6_24_NAME",
+            "path": "portraits.TEXT_CHA_PR_6_24_NAME",
+            "text": "Lucky Guy Ricky",
             "version": "4.7.0",
             "original": true
         },

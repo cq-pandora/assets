@@ -4813,7 +4813,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_chiron_default"
+        ],
         "skins": [
             {
                 "id": 14,
@@ -11853,7 +11855,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_carol_default"
+        ],
         "skins": [
             {
                 "id": 151,
@@ -19041,7 +19045,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yuna_default"
+        ],
         "skins": [
             {
                 "id": 188,
@@ -24480,7 +24486,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_bari_default"
+        ],
         "skins": [
             {
                 "id": 215,
@@ -25193,7 +25201,9 @@
                 "type": "sbw"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ricky_default"
+        ],
         "skins": [
             {
                 "id": 223,

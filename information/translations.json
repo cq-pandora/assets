@@ -18850,8 +18850,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_14": {
-        "text": "Extra 200% damage to Blast Shot. After 3 Blast Shots launches full magazine that deals physical damage equal to 600% of hero's attack power. Whenever basic attack give critical damage to the enemy, recovers 3 SP.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) 'Blast Shot' deals 1000% more damage. After the third 'Blast Shot,' Spiny will use 'Full Burst' to deal physical damage equal to 2120% of her attack power. For 5 seconds after using 'Full Burst,' Spiny's critical damage is increased by 80%, and accurately dealt auto attacks generate 3 SP for Spiny.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_15": {
@@ -19145,8 +19145,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_4_18": {
-        "text": "(Passive enhanced) Yichui's shield absorbs 2000 more damage.",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) Yichui's shield absorbs 30000 more damage.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_4_19": {
@@ -19160,8 +19160,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_5_18": {
-        "text": "(Passive enhanced) Yichui's shield absorbs 2000 more damage.",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) Yichui's shield absorbs 30000 more damage.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_5_19": {
@@ -19175,8 +19175,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_6_18": {
-        "text": "(Passive enhanced) Yichui's shield absorbs 2000 more damage. \n(Passive added) When the shield is destroyed, Yichui summons the 'Bunny King' who has the following stats relative to her own: 100% of attack power, 300% of armor and resistance, and 500% of HP. As soon as the Bunny King is summoned, he leaps to the front of the team and knocks back the enemy, knocking them out for 2 seconds. He additionally generates 1 block for Yichui. Bunny King repeats this attack every time he falls back a particular distance from the enemy.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) Yichui's shield absorbs 30000 more damage.\n(Passive Added) Upon using her chain, Yichui summons the 'Bunny King' whose stats are 200% of her own. 'Bunny King' charges forward as soon as he is summoned to knock back enemies and stun them for 2 seconds, while generating 1 block for Yichui. 'Bunny King' repeats his attack every time he falls back a certain distance from the enemy. If he is within range of the enemy, 'Bunny King' thrashes his arms to deal magical damage equal to 100% of his attack power with every hit. 'Bunny King' cannot be summoned again once he dies in a round.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_EXCLUSIVE_ST_6_19": {
@@ -19640,8 +19640,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_6_4": {
-        "text": "(Upon attacking 'frostbitten' enemies) Sasquatch's 'Snowflower' bursts into 24 petals that explode upon contact and each deal magical damage equal to 50% of attack power. (Activates every 3 seconds) The passive effect is applied to this attack.",
-        "version": "4.7.0",
+        "text": "(Upon attacking 'frostbitten' enemies) Sasquatch's 'Snowflower' bursts into 11 petals that explode upon contact and each deal magical damage equal to 150% of attack power. (Activates every 3 seconds) The passive effect is applied to this attack.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_EXCLUSIVE_WI_6_5": {
@@ -29430,8 +29430,8 @@
         "original": true
     },
     "TEXT_MONUMENT_08_DESC": {
-        "text": "Lorelei sometimes wears this badge while traveling with other heroes, trying to spread her knowledge and know-how in the field of archaeology.",
-        "version": "4.7.0",
+        "text": "Lorelei sometimes wears this badge to remember the good old days of airship explorations throughout Hasla - and, as always, give some sound advice to other less experienced Heroes.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_MONUMENT_08_NAME": {
@@ -32115,8 +32115,8 @@
         "original": true
     },
     "TEXT_PARTY_SELECT_FULL": {
-        "text": "You have already selected three heroes.",
-        "version": "4.7.0",
+        "text": "You cannot select any more Team members.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_PASSIVE_SKILL_TOOLTIP_TITLE": {
@@ -39005,8 +39005,8 @@
         "original": true
     },
     "TEXT_SHOP_PACKAGE_STARTER_DESC": {
-        "text": "Contract-only Hero included!\nOne time only!",
-        "version": "4.7.0",
+        "text": "Jewels, Honor, and Heroes!\nA One-Time Offer!",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_SHOP_PACKAGE_TRANSFER_TIMER": {
@@ -41295,13 +41295,13 @@
         "original": true
     },
     "TEXT_SKILL_HU_TRIPLE_SHOT_LV2_SUBDESC": {
-        "text": "An auto attack after SP reaches 40 will activate Blast Shot that deals #physical damage# equal to 400% of hero’s attack power, using 25 SP.",
-        "version": "4.7.0",
+        "text": "When Spiny's SP is 40 and above, her next auto attack will activate 'Blast Shot' that deals #physical damage# equal to 400% of her attack power.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_SKILL_HU_TRIPLE_SHOT_LV3_SUBDESC": {
-        "text": "An auto attack or skill that gives critical damage after SP reaches 40 will activate Blast Shot that deals #physical damage# equal to 400% of hero’s attack power, using 15 SP. When Blast Shot gives critical damage armor penetration will double.",
-        "version": "4.7.0",
+        "text": "When Spiny's SP is 40 and above, on landing her next auto attack or block skill, she activates 'Blast Shot' that deals #physical damage# equal to 400% of her attack power. If 'Blast Shot' crits, it will apply double of Spiny's Armor Penetration.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_SKILL_HU_TRIPLE_SHOT_NAME": {
@@ -44335,8 +44335,8 @@
         "original": true
     },
     "TEXT_SKILL_WI_BLIZZARD_LV3_SUBDESC": {
-        "text": "Enemies hit by 'Freezing Blizzard' become 'frozen,' which decreases their attack power by 35% for 5 seconds. If an enemy becomes 'frozen' 7 times during 10 seconds, he or she becomes 'frostbitten,' which decreases their motion speed by 20% for 5 seconds.",
-        "version": "4.7.0",
+        "text": "Enemies hit by 'Freezing Blizzard' become 'frozen,' which decreases their attack power by 35% for 5 seconds. If an enemy becomes 'frozen' 7 times during 10 seconds, he or she becomes 'frostbitten,' which decreases their motion speed by 40% for 5 seconds.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_SKILL_WI_BLIZZARD_NAME": {
@@ -48695,8 +48695,8 @@
         "original": true
     },
     "TEXT_STARTER_PACK1_ITEM2_TITLE": {
-        "text": "500 Honor",
-        "version": "4.7.0",
+        "text": "10,000 Honor",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_STARTER_PACK1_ITEM3_DESC": {
@@ -48990,13 +48990,13 @@
         "original": true
     },
     "TEXT_SUPPORT_PACK_TYPE_1_AMOUNT": {
-        "text": "3 Supply Heroes",
-        "version": "4.7.0",
+        "text": "5 Supply Heroes",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_SUPPORT_PACK_TYPE_1_INFO": {
-        "text": "[Friendship 500 x3]",
-        "version": "4.7.0",
+        "text": "[Friendship 500 x5]",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_TAP_BUFF_CANNOT_USE": {
@@ -49635,8 +49635,8 @@
         "original": true
     },
     "TEXT_TIP_EXPLORE_1": {
-        "text": "Heroes on an exploration are marked with a compass symbol.",
-        "version": "4.7.0",
+        "text": "Heroes working the Orchard are marked with a tree icon.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_TIP_HOUSE_1": {
@@ -65325,13 +65325,13 @@
         "original": true
     },
     "TEXT_HELP_10215_MAIN": {
-        "text": "Exploration",
-        "version": "4.7.0",
+        "text": "Orchard",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_HELP_10215_MAIN_DESC": {
-        "text": "1. Send your heroes on expeditions to receive various rewards.\n2. Every Exploration has different conditions that can be met to earn bonus rewards.\n3. Up to four Explorations can be held at a time.\n4. Only 4-Star and above heroes can be sent on Explorations.\n5. You can immediately complete an Exploration by using Map pieces.",
-        "version": "4.7.0",
+        "text": "1. In the Orchard, you can assign Heroes to plant and grow Berries on Plots and, after a certain period of time, receive various rewards!\n2. Choose the type of Berry to plant and the time to grow and cultivate it. The 'Growth Time' of Berries decides the quantity of the harvest and the quality of the reward.\n3. Only ★4 and above Heroes can work in the Orchard.\n4. Rewards are divided into 'Fixed Rewards,' which are decided by the Berry Type and Growth Time, and 'Bonus Rewards,' which are obtained by chance.\n5. The chance to obtain Bonus Rewards is marked in percentages and is increased by fulfilling Bonus Conditions and assigning certain Orchard Helpers.\n6. Different Plots have different Bonus Conditions. Fulfilling at least 8 Conditions will greatly increase your chances of obtaining a Bonus Reward.\n7. The 'Great Harvest Rate' is your chance of obtaining even further rewards. It can be increased through rarer Plots, Orchard Tools, and Great Harvest events.\n8. When more than one Plot is ready to harvest, the 'Harvest All' button will be activated to harvest all fully grown Berries.\n9. Life Essence can speed up Berry growth to immediately harvest Berries.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_HELP_10216_MAIN": {
@@ -65535,8 +65535,8 @@
         "original": true
     },
     "TEXT_HELP_20402_MAIN_DESC": {
-        "text": "1. Old Weapons can be forged into Soulbound Weapons, which are stronger than Normal Weapons.\n2. Old Weapons can be acquired in Fortress of Souls, Dungeons, Raids, Explorations, or purchased from Traveling Merchants.\n3. Forging requires Iron and other materials found in the Fortress of Souls.\n4. Old Weapons can be equipped by Heroes, but be aware that they have no weapon options whatsoever.",
-        "version": "4.7.0",
+        "text": "1. Old Weapons can be forged into Soulbound Weapons, which are special gear stronger than Normal Weapons.\n2. Old Weapons can be acquired from the Fortress of Souls, Dungeons, Raids, or purchased from Traveling Merchants.\n3. Forging requires Iron and other materials found in the Fortress of Souls.\n4. Old Weapons can be equipped by Heroes, but they have no weapon options whatsoever.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_HELP_20403_MAIN": {
@@ -75200,8 +75200,8 @@
         "original": true
     },
     "TEXT_STARTER_PACK1_ITEM3_TITLE": {
-        "text": "4-Star Contract",
-        "version": "4.7.0",
+        "text": "Premium Contract x 9",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_STONE_EMPTY_DESC": {
@@ -75250,8 +75250,8 @@
         "original": true
     },
     "TEXT_SUPPORT_PACK_DESC": {
-        "text": "6-Star Hero x3 \n200 Jewels",
-        "version": "4.7.0",
+        "text": "6-Star Hero x5\n200 Jewels",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_SUPPORT_PACK_TYPE_1_TITLE": {
@@ -78705,8 +78705,8 @@
         "original": true
     },
     "TEXT_HELP_ARENA_01_DESC": {
-        "text": "1. Fight real-time battles with other Crusaders to raise your Arena Rank and receive a weekly reward!\n2. You must have at least 13 heroes to play in the Arena.\n3. Each Arena competition starts every Monday and lasts a week.\n4. The Arena goes under maintenance every Monday for one hour, from 00:00~01:00 UTC. You cannot enter the Arena during this time.\n5. You will receive your weekly reward after Arena Maintenance in accordance to your Arena Rank and Tier.\n6. The Arena requires no additional playing conditions after you initially enter.\n7. Each round lasts 3 minutes. Victory goes to the player with more heroes remaining by the end of the round.\n8. Should both players have the same number of heroes remaining at the end of the round, victory goes to the player with the higher sum of their heroes' remaining HP. \n9. Only Goddesses can accompany your team to the Arena. Champions are banned from entering.\n10. If you exit the game or lose connection during the round, you will automatically lose.\n11. Using a forbidden third-party program may result in penalty regarding your gameplay.",
-        "version": "4.7.0",
+        "text": "1. Fight real-time battles with other Crusaders to raise your Arena Rank and receive a weekly reward!\n2. You must have at least 14 heroes to play in the Arena.\n3. Each Arena competition starts every Monday and lasts a week.\n4. The Arena goes under maintenance every Monday for one hour, from 00:00~01:00 UTC. You cannot enter the Arena during this time.\n5. You will receive your weekly reward after Arena Maintenance in accordance to your Arena Rank and Tier.\n6. The Arena requires no additional playing conditions after you initially enter.\n7. Each round lasts 3 minutes. Victory goes to the player with more heroes remaining by the end of the round.\n8. Should both players have the same number of heroes remaining at the end of the round, victory goes to the player with the higher sum of their heroes' remaining HP. \n9. Only Goddesses can accompany your team to the Arena. Champions are banned from entering.\n10. If you exit the game or lose connection during the round, you will automatically lose.\n11. Using a forbidden third-party program may result in penalty regarding your gameplay.\n12. Teams with duplicate Heroes cannot compete in the Arena.",
+        "version": "4.16.3",
         "original": true
     },
     "TEXT_HELP_ARENA_01_NAME": {
@@ -88891,6 +88891,1136 @@
     },
     "TEXT_WEDDING_CENTER_DOVE_03_NAME": {
         "text": "Wedding Doves C",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_BONUS": {
+        "text": "Bonus Reward",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_CHOOSE_TIME": {
+        "text": "Select Time",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_CULTIVATE": {
+        "text": "Plant",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_CULTIVATE_CANCEL": {
+        "text": "Cancel Growing",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_CULTIVATE_CANCEL_DESC": {
+        "text": "Canceling will stop cultivating and empty the Plot.\nYou will not receive any spent materials. Continue?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_CULTIVATE_COMPLETE_TITLE": {
+        "text": "Harvest Results",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_ORCHARD_ALREADY_PROGRESS_HERO": {
+        "text": "The Hero is already working on another Plot.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_ORCHARD_NOT_BUY_ITEM": {
+        "text": "You cannot make your purchase due to an unknown error.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_ORCHARD_NOT_DUPLICATE_BUY_ITEM": {
+        "text": "You cannot buy an item that has already been purchased.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_ORCHARD_NOT_DUPLICATE_USE_ITEM": {
+        "text": "This item has already been placed in your Orchard.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_ORCHARD_NOT_EXIST_HERO": {
+        "text": "The Hero you have chosen does not exist.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_ORCHARD_NOT_USE_ITEM": {
+        "text": "This item cannot be placed in your Orchard due to an unknown error.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_ORCHARD_TITLE": {
+        "text": "Cannot Farm",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ERROR_SAME_HERO": {
+        "text": "Duplicate Heroes Cannot Compete",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ESSENCE_LIFE": {
+        "text": "Life Essence",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ESSENCE_LIFE_NEED_TITLE": {
+        "text": "Out of Life Essence!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FAME_REGIST_CARVESTONE_COUNT_TITLE": {
+        "text": "No. of Collected Sigils",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FILTER_MAX_LEVEL_HERO": {
+        "text": "Never Maxed Before",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_ACC_DESC": {
+        "text": "Yields Superior Accuracy Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_ACC_TITLE": {
+        "text": "Superior Accuracy Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_ATK_DESC": {
+        "text": "Yields Superior Attack Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_ATK_TITLE": {
+        "text": "Superior Atk. Power Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_CRI_DMG_DESC": {
+        "text": "Yields Superior Critical Damage Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_CRI_DMG_TITLE": {
+        "text": "Superior Crit. Dmg Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_CRI_PROB_DESC": {
+        "text": "Yields Superior Critical Chance Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_CRI_PROB_TITLE": {
+        "text": "Superior Crit. Chance Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_DEF_DESC": {
+        "text": "Yields Superior Armor Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_DEF_TITLE": {
+        "text": "Superior Armor Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_DODGE_DESC": {
+        "text": "Yields Superior Evasion Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_DODGE_TITLE": {
+        "text": "Superior Evasion Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_ESSENCE_LIFE_FAIL": {
+        "text": "You do not have enough Life Essence. The Farm Conditions have been reset.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_HP_DESC": {
+        "text": "Yields Superior HP Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_HP_TITLE": {
+        "text": "Superior HP Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_RES_DESC": {
+        "text": "Yields Superior Resistance Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_FRUIT_RES_TITLE": {
+        "text": "Superior Res. Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GET_TEAM_NAME_INPUT_ALERT": {
+        "text": "*You cannot change the name once it is chosen!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GYPSI_ESSENCE_LIFE": {
+        "text": "Life Essence x 1",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GYPSI_ESSENCE_LIFE_10": {
+        "text": "Life Essence x 10",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GYPSI_ESSENCE_LIFE_20": {
+        "text": "Life Essence x 20",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GYPSI_ESSENCE_LIFE_3": {
+        "text": "Life Essence x 3",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GYPSI_ESSENCE_LIFE_5": {
+        "text": "Life Essence x 5",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GYPSI_ESSENCE_LIFE_HELP": {
+        "text": "You can use Life Essence to decrease the time needed to grow Berries, nya!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_GYPSI_RANDOMBOX_ESSENCE_LIFE_HELP": {
+        "text": "You can obtain a maximum of 100 Life Essence from this chest!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HARVEST": {
+        "text": "Harvest",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HARVEST_ALL": {
+        "text": "Harvest All",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HARVEST_ALL_DESC": {
+        "text": "Will you harvest all fully grown Berries?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HARVEST_IMMEDIATLY": {
+        "text": "Harvest Immediately",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HARVEST_IMMEDIATLY_DESC": {
+        "text": "Will you use Life Essence to immediately harvest this Berry?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_STRIKER": {
+        "text": "Arena: Strikers",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HELP_ARENA_STRIKER_DESC": {
+        "text": "1. In the Arena, a fourth Hero can be added to a team as a Striker. \n2. Pressing the Striker button during a round will call forth the fourth Hero who will assist the team in battle.\n3. Striker Heroes are invincible for the duration of their assistance.\n4. Striker Heroes use skills based on the usage of the leader ally's blocks.\n5. Striker Heroes cannot use Special Skills.\n6. Striker Heroes will leave the field after their assistance. They can be called back after a short cooldown period.\n7. Each game has a limit on the number of times a Striker Hero can be called.\n8. The survival of a Striker Hero does not affect wins and losses.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HELP_ORCHARD_01": {
+        "text": "Orchard Information",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HELP_ORCHARD_02": {
+        "text": "Plots",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HELP_ORCHARD_02_DESC": {
+        "text": "1. The Orchard has 5 Plots. Plots are fixed in number and do not disappear when you finish growing Berries or cancel cultivating.\n2. The properties of the Plot will change randomly AFTER a Berry is harvested.\n3. Plots with certain properties appear by chance. Sometimes Special Plots with rarer properties will appear.\n4. There are three Plot properties: [attack, defense, function]. Growing Berries with the same properties on Plots will yield Bonus Rewards. \n  - Attack (sword): Attack Power, Critical Damage\n  - Defense (shield): HP, Armor, Resistance\n  - Function (boot): Crit Chance, Accuracy, Evasion",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HELP_ORCHARD_03": {
+        "text": "Orchard Helpers",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HELP_ORCHARD_03_DESC": {
+        "text": "1. You can hire and manage Orchard Helpers.\n2. Once acquired or purchased, Helpers can be permanently used. They cannot be sold.\n3. Helpers have different abilities to help out on the Orchard.\n  - Increase Great Harvest Rate\n  - Increase Bonus Reward Rate\n  - Decrease Growth Time",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HERO_ORCHARD_DESC": {
+        "text": "The selected Hero is working in the Orchard.\nMove to the Orchard?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HOW_TO_ESSENCE_LIFE_TITLE": {
+        "text": "How to Acquire Life Essence",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_ORCHARD_DESC": {
+        "text": "Randomly from the Orchard!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_ORCHARD_INFO_DESC": {
+        "text": "- This weapon can be acquired by chance through the Orchard Account Bonus.\n\n- Look for this weapon in the Orchard!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ITEM_ESSENCE_LIFE_HELP": {
+        "text": "Use to immediately harvest Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_BLUE_SAP_DESC": {
+        "text": "Blue sap that was obtained while harvesting Berries.\nThe Alchemy Lab is attempting to research its properties.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_BLUE_SAP_NAME": {
+        "text": "Blue Sap",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_RED_SAP_DESC": {
+        "text": "Red sap that was obtained while harvesting Berries.\nThe Alchemy Lab is attempting to research its properties.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_RED_SAP_NAME": {
+        "text": "Red Sap",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_WORLDTREE_SAP_DESC": {
+        "text": "Golden sap that was obtained while harvesting Berries.\nThe Alchemy Lab is attempting to research its properties.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_WORLDTREE_SAP_NAME": {
+        "text": "Sap of the World Tree",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_YELLOW_SAP_DESC": {
+        "text": "Yellow sap that was obtained while harvesting Berries.\nThe Alchemy Lab is attempting to research its properties.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MATERIAL_YELLOW_SAP_NAME": {
+        "text": "Yellow Sap",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MESSAGE_ITEM_GET_ESSENCE_LIFE_PREFIX": {
+        "text": "Life Essence x {0}",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MONUMENT_21_DESC": {
+        "text": "Having trouble with birds on your farm? Then try out Demeter's newest Scarecrow, designed by the Master of Farming herself!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MONUMENT_21_NAME": {
+        "text": "Catcher in the Orchard",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MONUMENT_22_DESC": {
+        "text": "Are you sure this is an orchard and not a zoo?",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MONUMENT_22_NAME": {
+        "text": "Animal Farm",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MONUMENT_23_DESC": {
+        "text": "It seems someone REALLY doesn't like scarecrows.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_MONUMENT_23_NAME": {
+        "text": "Burning Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_NOTYET_ORCHARD": {
+        "text": "Unlocked after clearing Volcano Stage 1.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_NPC_ORCHARD_NAME": {
+        "text": "Lenny",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD": {
+        "text": "Orchard",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_1_TITLE": {
+        "text": "Jungle Swamp",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_2_TITLE": {
+        "text": "Primal Volcano",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_3_TITLE": {
+        "text": "Mythical Sea",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_4_TITLE": {
+        "text": "Frozen Sanctuary",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_5_TITLE": {
+        "text": "Arid Desert",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_6_TITLE": {
+        "text": "Mountain Sage's Peak",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_7_TITLE": {
+        "text": "Golden Fields",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL": {
+        "text": "Animals",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_01_DESC": {
+        "text": "A rooster with white feathers and a fancy comb. It was clearly named with a certain fate in mind.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_01_TITLE": {
+        "text": "Nugget",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_02_DESC": {
+        "text": "A cow of the Holstein dairy breed that retains a dignity befitting its name. When asked where she found such a superior creature, Lenny only grins for an answer. How suspicious!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_02_TITLE": {
+        "text": "King Cow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_03_DESC": {
+        "text": "A sheep with fluffy fur that reminds you of a certain sweet and cloudlike candy. It is smarter than it looks and eats only wild grass that can damage your farm.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_03_TITLE": {
+        "text": "Cotton Candy",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_04_DESC": {
+        "text": "A duck with white feathers. As a duckling it was thought to be an oddly colored swan, but it ended up being a duck after all. So much for fairy tales.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_04_TITLE": {
+        "text": "Swan",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_05_DESC": {
+        "text": "A cat rescued from Neth Empire labs. It's rumored that secret experiments gave Schrodinger powers, but if he doesn't use it, does it exist? Hmm...",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_05_TITLE": {
+        "text": "Schrodinger",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_LONG": {
+        "text": "Animals",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_PREMIER_01_DESC": {
+        "text": "A camel trained for battle in Southwestern Hasla's warzones. A certain merchant purchased the entire battle camel herd, took the guns off, and attached sprinklers to their humps.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_PREMIER_01_TITLE": {
+        "text": "Sprinkler",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_PREMIER_02_DESC": {
+        "text": "The captain of wild alpacas that are native to the wildlands of Nosgard. It seems to resemble a certain someone.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_PREMIER_02_TITLE": {
+        "text": "Deft",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_PREMIER_03_DESC": {
+        "text": "A descendant of the royal canine family of Grancia: adorable, intelligent, and well-behaved, if a little shy. Before being adopted into the royal line, these dogs were raised to herd sheep and cattle.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ANIMAL_PREMIER_03_TITLE": {
+        "text": "Royal Canine of Grancia",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ARRANGEMENT": {
+        "text": "Assign",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ARRANGEMENT_LONG": {
+        "text": "Assign",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_BONUS_DESC": {
+        "text": "Your chances of acquiring Bonus Rewards increase by fulfilling Bonus Conditions!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_BONUS_PROB": {
+        "text": "Bonus Reward +{0}%",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_BUMPER_CROP_PROB": {
+        "text": "Great Harvest Rate",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_CHOOSE_FRUIT": {
+        "text": "Select Berry",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_CONDITION_MORE_HERO_REQUIRE": {
+        "text": "At least {0} Heroes are required.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_CULTIVATE_CONDITION": {
+        "text": "Farm Conditions",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_CULTIVATE_REWARD": {
+        "text": "Farm Reward",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_EMPLOY": {
+        "text": "Hire",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_EMPLOY_LONG": {
+        "text": "Hire",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ERROR_NO_FRUIT": {
+        "text": "Please select a Berry.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ERROR_START_CULTIVATE": {
+        "text": "Please select the Berry Seed, Growth Time, and Hero!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ESSENCE_NEED_DESC": {
+        "text": "You do not have enough Life Essence! Life Essence can be acquired from Scenarios and Traveling Merchants.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_EXCEPTION_HERO_GRADEUP_SIMPLE": {
+        "text": "You cannot promote Heroes who are working in the Orchard.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_EXCEPTION_HERO_SELL_SIMPLE": {
+        "text": "You cannot retire Heroes who are working in the Orchard.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_EXCEPTION_HERO_SUPPLY_SIMPLE": {
+        "text": "You cannot supply Heroes who are working in the Orchard.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_GOAL": {
+        "text": "Finish Growing Plot",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_HEROES_BONUS_PROB": {
+        "text": "Additional Reward Bonus",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_HERO_ALREADY_SELECT": {
+        "text": "You have already selected {0} Heroes.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_HERO_EXP_REWARD_NAME": {
+        "text": "Hero EXP",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_HERO_NEED_MIN": {
+        "text": "You need at least {0} Heroes to cultivate Berries.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_HERO_SELECT": {
+        "text": "Select Heroes ({0}/{1})",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_HUGE_PROB": {
+        "text": "Great Harvest +{0}%",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ITEM_CHANGE_WARNING_DESC": {
+        "text": "You cannot change Orchard Helpers if a Plot is under cultivation.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_ITEM_CHANGE_WARNING_TITLE": {
+        "text": "Change Orchard Helper",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_LIST_PROGRESS": {
+        "text": "Cultivating",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_NEED_ESSENCE": {
+        "text": "Required Essence",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SAP": {
+        "text": "Sap",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SAP_LONG": {
+        "text": "Sap",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW": {
+        "text": "Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_01_DESC": {
+        "text": "A raggedy old scarecrow made out of tattered cloth and wood. Lenny found it abandoned by its previous owner and patched it up.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_01_TITLE": {
+        "text": "Old Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_02_DESC": {
+        "text": "The scarecrow captain of Lenny's Orchard. Its bird-chasing abilities are superb.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_02_TITLE": {
+        "text": "Straw Hat Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_03_DESC": {
+        "text": "A scarecrow that resembles a tin woodcutter. Someone seems to have put some red cloth inside its body, although nobody knows the reason why.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_03_TITLE": {
+        "text": "Tin Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_04_DESC": {
+        "text": "The top scarecrow of Demeter's wheat fields. It was sent by Demeter herself to commemorate her first successful trade with Lenny.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_04_TITLE": {
+        "text": "Demeter Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_05_DESC": {
+        "text": "This catcher is quite a catch! Once used by Demeter to cultivate her famous golden fields, it is now sold cheaply to all farmers looking for a good bargain.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_05_TITLE": {
+        "text": "Catcher in the Wheat",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_PREMIER_01_DESC": {
+        "text": "A scarecrow crafted in the likeness of Grim Reaper. It was meant to come across as frightening, but its unwittingly endearing appearance has led to an increase in popular demand among households.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_PREMIER_01_TITLE": {
+        "text": "Grim Reaper Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_PREMIER_02_DESC": {
+        "text": "A scarecrow with a burning pumpkin head, rumored to be actually Dullahan in disguise. When confronted with such questions, the scarecrow remains silent. Maybe they were just rumors... maybe.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_PREMIER_02_TITLE": {
+        "text": "Dullahan Scarecrow",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_PREMIER_03_DESC": {
+        "text": "An inflatable balloon that \"dances\" on its own. Its flailing arms and wild movements prove surprisingly efficient at chasing away birds.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SCARECROW_PREMIER_03_TITLE": {
+        "text": "Tube Boy",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_SHOP": {
+        "text": "Orchard Shop",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF": {
+        "text": "Staff",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_01_DESC": {
+        "text": "This part-time worker is trading in his hours for valuable experience that will help towards owning his own orchard in the future!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_01_TITLE": {
+        "text": "Part-Timer",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_02_DESC": {
+        "text": "An apprentice who applied for a job at Lenny's farm after failing her civil service exams for Grancia Empire. She's finding the working environment a lot more comfortable.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_02_TITLE": {
+        "text": "Apprentice Farmer",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_03_DESC": {
+        "text": "A mysterious man who arrived at Lenny's Orchard one day, asking for a job. Since then he has proven his worth and has been hired as a full-time employee.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_03_TITLE": {
+        "text": "Master Farmer",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_04_DESC": {
+        "text": "An old man whose love for trees provides great help around Lenny's Orchard. He often talks about 'the Giving Ent,' an Ent that loved him and gave him everything it could in his youth.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_04_TITLE": {
+        "text": "Old Man and the Ent",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_05_DESC": {
+        "text": "A Ratman diplomat from Trista's underground sewers. Rumors have it that that he was picked after an intense rock-paper-scissors match.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_05_TITLE": {
+        "text": "Town Mouse",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_LONG": {
+        "text": "Staff",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_PREMIER_01_DESC": {
+        "text": "Always the dutiful daughter, Sim Cheong has come to Lenny's Orchard to obtain fruit for her blind father. However, Lenny refuses to go near her, as Sim Cheong's conqueror's aura knocks everyone out around her.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_PREMIER_01_TITLE": {
+        "text": "Sim Cheong",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_PREMIER_02_DESC": {
+        "text": "The outdated prototype of a mass-produced line of Neth Empire battle androids. Lenny bought these right before they got junked and refurbished them into workers for her Orchard.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_PREMIER_02_TITLE": {
+        "text": "Android 0",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_PREMIER_03_DESC": {
+        "text": "The traveling merchants Popo and Toto came to Lenny's Orchard in search of new merchandise to sell. They are now working part-time at the Orchard to take advantage of the employee discount.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_STAFF_PREMIER_03_TITLE": {
+        "text": "Popo & Toto",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TIME_DOWN": {
+        "text": "Growth Time -{0}m",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_CLASS_ARCHER": {
+        "text": "Class - Archer",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_CLASS_HUNTER": {
+        "text": "Class - Hunter",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_CLASS_PALADIN": {
+        "text": "Class - Paladin",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_CLASS_PRIEST": {
+        "text": "Class - Priest",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_CLASS_WARRIOR": {
+        "text": "Class - Warrior",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_CLASS_WIZARD": {
+        "text": "Class - Wizard",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_CHEN": {
+        "text": "Faction: Eastern Kingdoms - Chen",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_EAST": {
+        "text": "Faction: Eastern Kingdoms - Ryu",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_FREE": {
+        "text": "Faction: Heroes of Freedom",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_GODDESS": {
+        "text": "Faction: Order of the Goddess",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_GRAN": {
+        "text": "Faction: Grancia",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_HAN": {
+        "text": "Faction: Eastern Kingdoms - Han",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_MINO": {
+        "text": "Faction: Confederation of Minor Tribes",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_NETH": {
+        "text": "Faction: Neth Empire",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_NOS": {
+        "text": "Faction: Nosgard",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_PUMP": {
+        "text": "Faction: Pumpkin City",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_ROMAN": {
+        "text": "Faction: Roman Republic",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_DOMAIN_WEST": {
+        "text": "Faction: Southwestern Alliance",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_EPICLEVEL_1": {
+        "text": "Inherit Level: 1 and above",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_EPICLEVEL_10": {
+        "text": "Inherit Level: 10 and above",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_EPICLEVEL_5": {
+        "text": "Inherit Level: 5 and above",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_GENDER_FEMALE": {
+        "text": "Gender - Female",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_GENDER_MALE": {
+        "text": "Gender - Male",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_GRADE_4": {
+        "text": "Rank - 4-Star",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_GRADE_5": {
+        "text": "Rank - 5-Star",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_GRADE_6": {
+        "text": "Rank - 6-Star",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_DESTINY": {
+        "text": "Rarity - Legendary",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_GOLDEN": {
+        "text": "Rarity - Contract",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_LEGENDARY": {
+        "text": "Rarity - Promotion",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_LIMITED": {
+        "text": "Rarity - Limited",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_ORCHARD_USER_EXP_REWARD_NAME": {
+        "text": "Account EXP",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_PARTY_SELECT_FULL_RPVP": {
+        "text": "You have already selected four heroes.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_ESSENCE_LIFE": {
+        "text": "Life Essence Chest",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_RQ_C_135_2_TITLE": {
+        "text": "Use Life Essence 3",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_RQ_C_13_2_TITLE": {
+        "text": "I'm the Berry Baron! 1",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_RQ_C_169_2_TITLE": {
+        "text": "Use Life Essence 4",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_RQ_C_195_2_TITLE": {
+        "text": "I'm the Berry Baron! 2",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_RQ_C_63_2_TITLE": {
+        "text": "Use Life Essence 1",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_RQ_C_91_2_TITLE": {
+        "text": "Use Life Essence 2",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_RANDOMBOX_ESSENCE_LIFE_MESSAGE": {
+        "text": "Your Life Essence Chest has arrived!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_SHOP_RANDOMBOX_ESSENCE_LIFE_DESC": {
+        "text": "Obtain 20-100 Life Essence",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK1_ITEM4_TITLE": {
+        "text": "★4 Contract Hero x 1",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_DESC": {
+        "text": "Heroes, Weapons, Champion Reinforcement!\nA Special One-Time Offer!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM1_DESC": {
+        "text": "x 95",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM1_TITLE": {
+        "text": "Jewels",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM2_DESC": {
+        "text": "x 3",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM2_TITLE": {
+        "text": "★4 Contract Hero Contract",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM3_DESC": {
+        "text": "x 1",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM3_TITLE": {
+        "text": "★6 Soulbound Weapon Selection Ticket",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM4_DESC": {
+        "text": "x 3",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_ITEM4_TITLE": {
+        "text": "★6 Supply Hero",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_MAIL_CONTENT": {
+        "text": "Here is your Advanced Starter Pack purchase.",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_TITLE": {
+        "text": "Advanced Starter Pack",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_STATER_PACK2_COVER": {
+        "text": "One-Time Offer! Don't miss this opportunity!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_UNLOCK_ORCHARD": {
+        "text": "The #Orchard# is now available!",
+        "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_USE_RESOURCE_ESSENCE_LIFE_GOAL": {
+        "text": "Use Life Essence",
         "version": "4.16.3",
         "original": true
     }

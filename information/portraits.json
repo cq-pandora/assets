@@ -522,7 +522,8 @@
         "portrait_s2ep2_default_2",
         "portrait_s2ep2_default_3",
         "portrait_s2ep2_default_4",
-        "portrait_s2ep2a_default_5"
+        "portrait_s2ep2a_default_5",
+        "portrait_leni_default"
     ],
     "TEXT_EXPLORE_NPC_NAME": [
         "portrait_arjuna_default"
@@ -771,6 +772,9 @@
     ],
     "TEXT_MON_BS_RAID_BANOUB_NAME": [
         "portrait_camilla_default"
+    ],
+    "TEXT_NPC_ORCHARD_NAME": [
+        "portrait_leni_default"
     ],
     "TEXT_CHA_HU_6_16_NAME": [
         "portrait_lorelei_default"
@@ -1042,6 +1046,15 @@
     "TEXT_CHA_AR_5_18_NAME": [
         "portrait_kaguya_default"
     ],
+    "TEXT_CHA_AR_4_19_NAME": [
+        "portrait_chiron_default"
+    ],
+    "TEXT_CHA_AR_5_19_NAME": [
+        "portrait_chiron_default"
+    ],
+    "TEXT_CHA_AR_6_19_NAME": [
+        "portrait_chiron_default"
+    ],
     "TEXT_CHA_AR_4_20_NAME": [
         "portrait_hanseung_default"
     ],
@@ -1305,6 +1318,15 @@
     "TEXT_CHA_HU_6_23_NAME": [
         "portrait_bellerophon_default"
     ],
+    "TEXT_CHA_HU_4_25_NAME": [
+        "portrait_carol_default"
+    ],
+    "TEXT_CHA_HU_5_25_NAME": [
+        "portrait_carol_default"
+    ],
+    "TEXT_CHA_HU_6_25_NAME": [
+        "portrait_carol_default"
+    ],
     "TEXT_CHA_PA_1_3_NAME": [
         "portrait_kriemhild_default"
     ],
@@ -1551,6 +1573,15 @@
     "TEXT_CHA_PA_5_23_NAME": [
         "portrait_heim_default"
     ],
+    "TEXT_CHA_PA_4_24_NAME": [
+        "portrait_yuna_default"
+    ],
+    "TEXT_CHA_PA_5_24_NAME": [
+        "portrait_yuna_default"
+    ],
+    "TEXT_CHA_PA_6_24_NAME": [
+        "portrait_yuna_default"
+    ],
     "TEXT_CHA_PR_2_6_NAME": [
         "portrait_maria_default"
     ],
@@ -1719,6 +1750,15 @@
     "TEXT_CHA_PR_6_18_NAME": [
         "portrait_noel_default"
     ],
+    "TEXT_CHA_PR_4_19_NAME": [
+        "portrait_bari_default"
+    ],
+    "TEXT_CHA_PR_5_19_NAME": [
+        "portrait_bari_default"
+    ],
+    "TEXT_CHA_PR_6_19_NAME": [
+        "portrait_bari_default"
+    ],
     "TEXT_CHA_PR_4_20_NAME": [
         "portrait_seimei_default"
     ],
@@ -1751,6 +1791,15 @@
     ],
     "TEXT_CHA_PR_5_23_NAME": [
         "portrait_varnir_default"
+    ],
+    "TEXT_CHA_PR_4_24_NAME": [
+        "portrait_ricky_default"
+    ],
+    "TEXT_CHA_PR_5_24_NAME": [
+        "portrait_ricky_default"
+    ],
+    "TEXT_CHA_PR_6_24_NAME": [
+        "portrait_ricky_default"
     ],
     "TEXT_CHA_WA_1_3_NAME": [
         "portrait_leon_default_pdr",
