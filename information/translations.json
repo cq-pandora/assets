@@ -31915,8 +31915,8 @@
         "original": true
     },
     "TEXT_OPTION_PUSH_EXPLORE": {
-        "text": "Explore Completed Alarm",
-        "version": "4.7.0",
+        "text": "Orchard Growth Complete Notice",
+        "version": "4.17.1",
         "original": true
     },
     "TEXT_OPTION_PUSH_MERCHANT_DUNGEON": {
@@ -65360,8 +65360,8 @@
         "original": true
     },
     "TEXT_HELP_20101_MAIN_DESC": {
-        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warriors, Paladins, Archers, Hunters, Wizards, and Priests.\n2. Additionally, they can be further classified by their rarity: Legendary, Contract, Promote, Secret, Normal, and Support.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as completing Explorations.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n  - 1-Star: LV10/-\n  - 2-Star: LV20/+1\n  - 3-Star: LV30/+2\n  - 4-Star: LV40/+3\n  - 5-Star: LV50/+4\n  - 6-Star: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
-        "version": "4.7.0",
+        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warriors, Paladins, Archers, Hunters, Wizards, and Priests.\n2. Additionally, they can be further classified by their rarity: Legendary, Contract, Promote, Secret, Normal, and Support.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as working in the Orchard.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n  - 1-Star: LV10/-\n  - 2-Star: LV20/+1\n  - 3-Star: LV30/+2\n  - 4-Star: LV40/+3\n  - 5-Star: LV50/+4\n  - 6-Star: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
+        "version": "4.17.1",
         "original": true
     },
     "TEXT_HELP_20102_MAIN": {
@@ -85635,8 +85635,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_SIMHAKGYU_LV3_SUBDESC": {
-        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter ''Sim Cheong'.' On summon, 'Sim Cheong's stats are 125% of Sim Hak-Gyu. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies. Upon using Sim Hak-Gyu's 3-chain block, 'Sim Cheong' uses 'Punch of the Indang Waters' to deal #physical damage# equal to 2000% of her attack power. 'Sim Cheong' receives all damage targeted at Sim Hak Gyu.",
-        "version": "4.15.4",
+        "text": "Upon entering battle, Sim Hak-Gyu summons his daughter 'Sim Cheong'. On summon, 'Sim Cheong's stats are 125% of Sim Hak-Gyu. Upon using another ally's block skill, 'Sim Cheong' uses 'Rush of Filial Piety' to deal #physical damage# equal to 400% of her attack power per hit to enemies. Upon using Sim Hak-Gyu's 3-chain block, 'Sim Cheong' uses 'Punch of the Indang Waters' to deal #physical damage# equal to 2000% of her attack power. 'Sim Cheong' receives all damage targeted at Sim Hak Gyu.",
+        "version": "4.17.1",
         "original": true
     },
     "TEXT_SKILL_WA_SIMHAKGYU_NAME": {
@@ -87550,8 +87550,8 @@
         "original": true
     },
     "TEXT_CHA_WI_6_26_DESC": {
-        "text": "Urako's \"kind\" neighbors, after finding out that the once-mighty Ura is now penniless and powerless, start to treat them with scorn and contempt. Urako vows revenge on the monstrous human who forced them into such poverty.",
-        "version": "4.15.4",
+        "text": "Urako starts for the country of Ryu, intent on hunting down the human. However, a Kitsune spirit, a Tengu, and a Nue block her path, worried for the beloved daughter of the Chieftain for whom their respect has gone unchanged. When Urako refuses to return home, the three spirits join the young Oni on her journey. After many hardships, the four friends finally arrive in Ryu, and Urako manages to track down her victim. The time has come for her to swing her kanabo and get her revenge! But what's this? When she meets the eyes of the 'monstrous human,' Urako discovers, to her complete surprise, that he doesn't look so \"monstrous\" after all. Her heart beating furiously like it has never before, Urako lowers her kanabo and flees from embarrassment, muttering about \"revenge best served cold.\" What are these feelings tickling her heart, she wonders?",
+        "version": "4.17.1",
         "original": true
     },
     "TEXT_CHA_WI_6_26_NAME": {
@@ -90022,6 +90022,256 @@
     "TEXT_USE_RESOURCE_ESSENCE_LIFE_GOAL": {
         "text": "Use Life Essence",
         "version": "4.16.3",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_01_TITLE": {
+        "text": "Let's go to the beach!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_02_TITLE": {
+        "text": "I can't believe I have work to do at the beach!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_03_TITLE": {
+        "text": "Don't forget to warm up before jumping in the water!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_04_TITLE": {
+        "text": "Everyone should enjoy summer at the beach!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_05_TITLE": {
+        "text": "Ouch, my skin is burning!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_06_TITLE": {
+        "text": "Let's go deep sea fishing!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_07_TITLE": {
+        "text": "I'm getting goosebumps for some reason...",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_201908_LIMIT_QUEST_WATER_08_TITLE": {
+        "text": "I'll prepare all necessary equipment, sir!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_4_28_DESC": {
+        "text": "A girl who grew up in the Junkyard of Neth Empire and has, like all children who grow up there, joined 'the Scrappy Gang.' After fixing a discarded TV and seeing a broadcast of Colosseum battles, Fireaxe comes to revere the sweaty, glorious world of gladiators.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_4_28_NAME": {
+        "text": "Fireaxe",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_5_28_DESC": {
+        "text": "Fireaxe finally manages to arrive at Roman, intent on becoming a gladiator. Yet her skinny physique and meager strength do not help her in the ruthless arena, and Fireaxe loses battle after battle. The one fateful day, Fireaxe happens to see an interview of Achilles, the legendary gladiator of Roman.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_5_28_NAME": {
+        "text": "Fireaxe the Hopeless",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_6_28_DESC": {
+        "text": "With her new epiphany, Fireaxe decides to collect scraps from the Junkyard to design her own armor and weapon. Although she is still far from becoming the greatest Colosseum Champion, her creative and original style of fighting has come to gather many fans.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_PA_6_28_NAME": {
+        "text": "Fireaxe the Incinerator",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_28_DESC": {
+        "text": "It was amidst some unidentified ruins near the Temple of Illusions that Nefer was discovered and taken as a collector's item by a novice Tristan archaeologist. In the chaos and bloodshed that ravaged the kingdom soon after, a single drop of blood falls through Nefer's sarcophagus and death mask. Nefer licks the speck of blood off her shriveled lips and slowly... creaks open the lid of her coffin.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_28_NAME": {
+        "text": "Nefer",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_28_DESC": {
+        "text": "Nefer crawls through the shadows that have fallen over Trista, recovering most of her strength - but not her memories. Only the faintest mirage of the Ancient Kingdom, her home, lingers like an illusion at the back of her mind. The lands that should have been familiar to her eyes have been greatly changed by the passing centuries. The only link to her forgotten past is the symbol and the engraved words 'Beloved Nefer' on her sarcophagus.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_28_NAME": {
+        "text": "Crawling Nefer",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_28_DESC": {
+        "text": "Stories reach Nefer's ears about an archaeologist who seeks the truth of the Lost Ancient Kingdom and strange tribespeople who call her home their own. Dew collects on the withered tips of Nefer's fingers. She turns her head to the west. Her hunt begins.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_28_NAME": {
+        "text": "Craving Nefer",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_COS_AR_26_33": {
+        "text": "Goddess of the Beach Haerang",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_COS_EVENT_PR_20_ORCHARD": {
+        "text": "Beach Fun Seimei",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_COS_HU_14_33": {
+        "text": "Lifeguard Spiny",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_COS_PA_20_33": {
+        "text": "Maiden of the Beach Lei Ling",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_COS_WA_22_33": {
+        "text": "Watermelon Slicer Izuna",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_COS_WI_26_33": {
+        "text": "Ocean Oni Urako",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_MIX_COUNT_GOAL": {
+        "text": "Alchemy Recipes Mixed",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_PLAY_ARENA_GOAL": {
+        "text": "Play Arena",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_FIREAXE_DESC": {
+        "text": "The hero swings her burning weapon to deal #physical damage# equal to [110/220/330]% of their attack power, according to the chain number used.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_FIREAXE_LV2_SUBDESC": {
+        "text": "With every 5 hits she receives, Fireaxe uses 'Feel the Heat!' to increase her damage reduction rate by 12% for 5 seconds. (Maximum 5 stacks)",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_FIREAXE_LV3_SUBDESC": {
+        "text": "With every 5 hits she receives, Fireaxe uses 'Feel the Heat!' to increase her damage reduction rate by 12% for 5 seconds. (Maximum 5 stacks) Upon receiving a critical hit, Fireaxe immediately activates her 3-chain skill. (Cooltime: 2 seconds)",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_FIREAXE_NAME": {
+        "text": "Burning Blow",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_PA_FIREAXE_SUBNAME": {
+        "text": "Feel the Heat!",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_NEFER_DESC": {
+        "text": "The hero brandishes their bandage to deal #physical damage# equal to [150/300/500]% of their attack power.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_NEFER_LV2_SUBDESC": {
+        "text": "Upon using a block immediately before receiving a hit, Nefer uses 'Path of the Dead' to decrease all damage targeted at the entire ally by 20% and increase her own critical chance by 10% for 3 seconds.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_NEFER_LV3_SUBDESC": {
+        "text": "Upon using a block immediately before receiving a hit, Nefer uses 'Path of the Dead' to reduce damage to allies by 20% and increase her own critical chance by 10% for 3 seconds. Upon using 'Path of the Dead' or activating 'Weight of a Heart' 3 times, 'Weight of a Heart' is activated as 'Craving Thirst' for 5 seconds, through which Nefer deals #physical damage# equal to 1000% of her attack power.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_NEFER_NAME": {
+        "text": "Weight of a Heart",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_SKILL_WA_NEFER_SUBNAME": {
+        "text": "Path of the Dead",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_4_28_DESC": {
+        "text": "(Passive Enhanced) Upon using 'Feel the Heat!' Fireaxe heals herself by 15% of her maximum HP.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_4_28_NAME": {
+        "text": "Rubbish",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_5_28_DESC": {
+        "text": "(Passive Enhanced) Upon using 'Feel the Heat!' Fireaxe heals herself by 15% of her maximum HP.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_5_28_NAME": {
+        "text": "Reformed Axe",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_6_28_DESC": {
+        "text": "(Passive Enhanced) Upon using 'Feel the Heat!' Fireaxe heals herself by 15% of her maximum HP.\n(Passive Added) Upon using her 3-chain skill, Fireaxe activates her next block skill as 'Incineration.' 'Incineration' lasts 3 seconds and deals physical damage equal to 100% of Fireaxe's attack power every 0.1 seconds. During 'Incineration,' Fireaxe receives all damage targeted at the entire party.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_CHA_6_28_NAME": {
+        "text": "Agni",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_28_DESC": {
+        "text": "(Passive Enhanced) 'Path of the Dead' decreases all damage targeted at the entire ally by 30% and increases Nefer's critical chance by 20% for 3 seconds.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_28_NAME": {
+        "text": "Curved Blade",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_28_DESC": {
+        "text": "(Passive Enhanced) 'Path of the Dead' decreases all damage targeted at the entire ally by 30% and increases Nefer's critical chance by 20% for 3 seconds.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_28_NAME": {
+        "text": "Vessel Seeker",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_28_DESC": {
+        "text": "(Passive Enhanced) 'Path of the Dead' decreases all damage targeted at the entire ally by 30% and increases Nefer's critical chance by 20% for 3 seconds, and generates 1 block for Nefer.\n(Passive Enhanced) 'Craving Thirst' deals physical damage equal to 1500% of Nefer's attack power.\n(Passive Added) Upon using 'Craving Thirst' 3 times, Nefer additionally uses 'Breath Outside the Living Realms,' which is acknowledged as a 3-chain and deals 3 hits of physical damage each equal to 700% of Nefer's attack power. The last hit of 'Breath Outside the Living Realms' stuns hit enemies for 1 second and activates the 3-chain of all allies except Nefer.",
+        "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_28_NAME": {
+        "text": "Heart Pursuer",
+        "version": "4.17.1",
         "original": true
     }
 }

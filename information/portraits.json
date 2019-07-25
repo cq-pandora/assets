@@ -1085,6 +1085,15 @@
     "TEXT_CHA_AR_6_23_NAME": [
         "portrait_panpan_default"
     ],
+    "TEXT_CHA_AR_4_24_NAME": [
+        "portrait_arachne_default"
+    ],
+    "TEXT_CHA_AR_5_24_NAME": [
+        "portrait_arachne_default"
+    ],
+    "TEXT_CHA_AR_6_24_NAME": [
+        "portrait_arachne_default"
+    ],
     "TEXT_CHA_HU_2_6_NAME": [
         "portrait_dart_default",
         "portrait_dartmax_default"
@@ -1581,6 +1590,15 @@
     ],
     "TEXT_CHA_PA_6_24_NAME": [
         "portrait_yuna_default"
+    ],
+    "TEXT_CHA_PA_4_25_NAME": [
+        "portrait_caeneus_default"
+    ],
+    "TEXT_CHA_PA_5_25_NAME": [
+        "portrait_caeneus_default"
+    ],
+    "TEXT_CHA_PA_6_25_NAME": [
+        "portrait_caeneus_default"
     ],
     "TEXT_CHA_PR_2_6_NAME": [
         "portrait_maria_default"
@@ -2307,5 +2325,14 @@
     ],
     "TEXT_CHA_WI_5_24_NAME": [
         "portrait_lacies_default"
+    ],
+    "TEXT_CHA_WI_4_25_NAME": [
+        "portrait_grimreaper_default"
+    ],
+    "TEXT_CHA_WI_5_25_NAME": [
+        "portrait_grimreaper_default"
+    ],
+    "TEXT_CHA_WI_6_25_NAME": [
+        "portrait_grimreaper_default"
     ]
 }
