@@ -15310,8 +15310,8 @@
         "original": true
     },
     "TEXT_DETECTOR_NAME": {
-        "text": "error",
-        "version": "4.7.0",
+        "text": "Suspicious Gameplay Detected!",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_DG_BREAD_DMGMANIPULATE_1_HARD_NAME": {
@@ -50385,33 +50385,33 @@
         "original": true
     },
     "TEXT_TUTORIAL_1": {
-        "text": "1/6 Team",
-        "version": "4.7.0",
+        "text": "1/7 Team",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_TUTORIAL_2": {
-        "text": "2/6 Goddess",
-        "version": "4.7.0",
+        "text": "2/7 Goddess",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_TUTORIAL_3": {
-        "text": "3/6 Training",
-        "version": "4.7.0",
+        "text": "3/7 Training",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_TUTORIAL_4": {
-        "text": "4/6 Growth",
-        "version": "4.7.0",
+        "text": "4/7 Promotion",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_TUTORIAL_5": {
-        "text": "5/6 Special Skill",
-        "version": "4.7.0",
+        "text": "5/7 Special Skill",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_TUTORIAL_6": {
-        "text": "6/6 Shop",
-        "version": "4.7.0",
+        "text": "6/7 Contract",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_TUTORIAL_COMPLETE_DESC": {
@@ -77035,13 +77035,13 @@
         "original": true
     },
     "TEXT_WARNING_WEAPONE_DISMANTLE_DESC": {
-        "text": "[Grade 5 and up, upgraded, Soulbound, and/or old] weapon(s) have been selected. Continue?",
-        "version": "4.7.0",
+        "text": "[★5 and above / Upgraded / Soulbound / Old] Weapon(s) have been selected.\nContinue?\n\n*Warning: Inlaid Sigils will not be returned.",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_WARNING_WEAPONE_SELL_DESC": {
-        "text": "[Upgraded / Soulbound / Old] weapon(s) have been selected.\nContinue?",
-        "version": "4.7.0",
+        "text": "[Upgraded / Soulbound / Old] Weapon(s) have been selected. \nContinue? \n\n*Warning: Inlaid Sigils will not be returned.",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_WEAPON_CARVING_COUPON_NAME": {
@@ -89885,8 +89885,8 @@
         "original": true
     },
     "TEXT_ORCHARD_TOOLTIP_RARITY_LEGENDARY": {
-        "text": "Rarity - Promotion",
-        "version": "4.16.3",
+        "text": "Rarity - Legendary",
+        "version": "4.18.0",
         "original": true
     },
     "TEXT_ORCHARD_TOOLTIP_RARITY_LIMITED": {
@@ -90272,6 +90272,426 @@
     "TEXT_WEP_LEGEND_SW_CHA_6_28_NAME": {
         "text": "Heart Pursuer",
         "version": "4.17.1",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_7_NAME": {
+        "text": "Falcon Musket",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_7_NAME": {
+        "text": "Elite Musket",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_7_NAME": {
+        "text": "Kiss of Jamiel",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_BS_GARGANTUA_EAT": {
+        "text": "Erm, excuse me, lady floating in the air? Could you give us a hand?",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_BS_GARGANTUA_RULE_DESC": {
+        "text": "Damage over time that grows stronger over 30 seconds.\nBattle ends after 30 seconds.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_BS_GARGANTUA_RULE_NAME": {
+        "text": "Garden of Thorns",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHOICE_HOUSEITEM_HW": {
+        "text": "Hasla Wars Hero Home Item Ticket",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHOICE_ITEM_DESC": {
+        "text": "Do you wish to select this item?",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHOICE_ITEM_TITLE": {
+        "text": "Select Item",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CLEAR_REWARD": {
+        "text": "Victory Reward",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DAMAGE_MINE": {
+        "text": "My Total Damage",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DAMAGE_REWARD": {
+        "text": "Damage Reward",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_HEAD_01_DESC": {
+        "text": "An adorable potted plant gifted by Jack to the Captain who defeated Gargantua. Its name is 'Bo.'",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_HEAD_01_NAME": {
+        "text": "Gargantua's Potted Head",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_LEFTHAND_01_DESC": {
+        "text": "An adorable potted plant gifted by Jack to the Captain who defeated Gargantua. Its name is 'Beanie.'",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_LEFTHAND_01_NAME": {
+        "text": "Gargantua's Potted Left Arm",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_RIGHTHAND_01_DESC": {
+        "text": "An adorable potted plant gifted by Jack to the Captain who defeated Gargantua. Its name is 'Sweet Pea.'",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_RIGHTHAND_01_NAME": {
+        "text": "Gargantua's Potted Right Arm",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_ROOT_01_DESC": {
+        "text": "A potted plant gifted by Jack to the Captain who defeated Gargantua.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DECO_HW1_BOTTOM_ROOT_01_NAME": {
+        "text": "Gargantua's Potted Roots",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DIALOGUES_HASLAWARS1_EXSHOP": {
+        "text": "Heh heh... I snuck out some treasure from the castle.\nMaybe you could purchase something? I'll give you a good price!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_DIALOGUES_HASLAWARS1_EXSHOPBUY": {
+        "text": "Th-thank you! Oh, erm, could you do me a favor and \nkeep this a secret from Princess Vivian...? Please...!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_EMPTY_RANKING": {
+        "text": "No ranks have been registered yet.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ERROR_HASLAWARS_REWARD_INVALID_CONDITION": {
+        "text": "Rewards may be claimed after participating once in the Hasla Wars.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ERROR_INPARTY_EVENT": {
+        "text": "You cannot participate in any more battles. The daily limit will be reset at 00:00 UTC.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ERROR_INVALID_ACCESS": {
+        "text": "Invalid access!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_EVENT_END": {
+        "text": "End of Event",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_EVENT_LOBBY": {
+        "text": "Event Lobby",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_EVENT_REWARD_LOCK_PLAYCOUNT": {
+        "text": "You must play at least {0} rounds to receive rewards.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_GARGANTUA_HEAD_NAME": {
+        "text": "Gargantua's Head",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_GARGANTUA_LEFT_NAME": {
+        "text": "Gargantua's Left Arm",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_GARGANTUA_RIGHT_NAME": {
+        "text": "Gargantua's Right Arm",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_GARGANTUA_ROOT_NAME": {
+        "text": "Gargantua's Roots",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS": {
+        "text": "Hasla Wars",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_FAIL_1": {
+        "text": "Oh no... I trusted you...\nI'm going to be in so much trouble when I return to Lord Gordian...",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_IN_PROGRESS_1": {
+        "text": "Combine forces to defeat Gargantua!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_LOBBY01": {
+        "text": "Look, these Devilish Coins are stuck on Gargantua! \nI bet they were buried treasure.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_LOBBY02": {
+        "text": "Isn't Devilish Meat delicious? \nDon't eat too much at once, though - it's poisonous, just a little.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_LOBBY03": {
+        "text": "Lord Gordian... I wonder where he went? \nHis castle is in ruins now...",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_LOBBY04": {
+        "text": "The Fearsome Four? Oh, it's all in the past.\nI became a florist! … And my store shut down…",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_MAIL": {
+        "text": "Here is a token of our gratitude! ...Oh, and please keep this a secret from Lord Gordian.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_SUCCESS_1": {
+        "text": "Wow! Thank you for defeating Gargantua!\nHere is your promised reward.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HASLAWARS_TITLE_1": {
+        "text": "Hasla Wars - Gargantua",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HELP_HASLAWARS_BASIC": {
+        "text": "1. Fight Giant Bosses and receive rewards!\n2. You will receive additional rewards if you successfully defeat the Boss Monster within the event period.\n3. A Hero can fight only one battle a day.\n4. 'Devilish Coins' acquired through the event can be traded into items from the stores of Hell Island.\n5. You receive more Devilish Coins the longer you survive in battle.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HELP_HASLAWARS_RANK": {
+        "text": "1. The Total Dmg Rank menu lists Captains who have dealt the most total damage. \n2. The Team Rank menu lists Hero teams and their Captains who have dealt the most damage in one round.\n   - Teams composed of the same Heroes will be registered with the information of the Team that dealt more damage.\n   - Teams composed of at least one different Hero are registered separately. (Goddesses and Champions are not taken into consideration.) \n   - Rank information is cleared with the start of every new event.\n3. The Hero Rank menu lists Heroes that have most frequently participated in the event.\n4. All ranks refresh every 5 minutes.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HELP_HASLAWARS_REWARD": {
+        "text": "1. Rewards are given according to your damage grade once the event is completed. Captains are categorized into different grades based on each individual's total damage dealt during the event period.\n2. Victory Rewards are additional rewards that can be acquired after the event by defeating the Boss within the event period. \n3. If you fail to defeat the Boss, you will not receive a Victory Reward.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HERO_RANKING_EVENT_DESC": {
+        "text": "Listed are the Heroes who have participated the most in the event.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_HW_STAGE_GARGANTUA_SUB": {
+        "text": "Defeat Gargantua!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ITEM_CHOICE_HOUSEITEM": {
+        "text": "Hero Home Item Ticket",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ITEM_CHOICE_HOUSEITEM_HELP": {
+        "text": "A contract that lets you select a Hero Home item of your choice.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ITEM_CHOICE_HOUSEITEM_HW_HELP": {
+        "text": "You can select a special Hasla Wars Hero Home item.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ITEM_HW_SHOP": {
+        "text": "Devilish Coin",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ITEM_HW_SHOP_DESC": {
+        "text": "The currency of Devil Island. It can be only used in the Devil Store.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ITEM_HW_TICKET": {
+        "text": "Devilish Meat",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_LOGIN_AGREE_CN": {
+        "text": "I agree to the #Terms of Service# and #Privacy Policy#.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_LOGIN_ERROR_NOTYET_AGREE_CN": {
+        "text": "To start the game, you must read and accept the Terms of Service and Privacy Policy.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_NPC_HW_GORDIAN": {
+        "text": "Gordian",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_NPC_HW_JACK": {
+        "text": "Jack",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_OPTION_PUSH_ORCHARD": {
+        "text": "Orchard Harvest Notice",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ORCHARD_FINISH_PUSH": {
+        "text": "Captain, your Berries are ready to harvest!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_CONTRACT": {
+        "text": "Rarity - Contract",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_PROMOTION": {
+        "text": "Rarity - Promotion",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_RANK_MINE": {
+        "text": "My Rank",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_RULE": {
+        "text": "Rules",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_NO9_DESC": {
+        "text": "No. 9 shoots the enemy and deals #physical damage# equal to [300/400/500]% of attack power, according to the chain number used.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_NO9_LV2_SUBDESC": {
+        "text": "Upon using 3 blocks, No.9 becomes 'Der Freischütz (the Marksman)' for 5 seconds, with her critical chance increased by 30% and critical damage by 50%. This passive cannot be canceled and renews its effect and duration every time No.9 uses her block.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_NO9_LV3_SUBDESC": {
+        "text": "Upon using 3 blocks, No.9 becomes 'Der Freischütz (the Marksman)' for 5 seconds, with her critical chance increased by 50%, critical damage by 100%, and armor penetration by 50% of her attack power. This passive cannot be canceled and renews its effect and duration every time No.9 uses her block.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_NO9_NAME": {
+        "text": "Jamiel's Bullet",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_NO9_SUBNAME": {
+        "text": "Der Freischütz",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TEAM_RANKING": {
+        "text": "Team Rank",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TEAM_RANKING_DESC": {
+        "text": "Listed are the teams that have dealt the most damage in one round, and their Captains.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TIP_HASLAWARS_1": {
+        "text": "Deal damage to Giant Bosses and receive rewards!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TIP_HASLAWARS_2": {
+        "text": "A Hero can fight only one battle a day.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TIP_HASLAWARS_3": {
+        "text": "You can receive additional rewards by defeating the Boss within the event period.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TIP_HASLAWARS_4": {
+        "text": "Devilish Coins can be acquired through Hasla Wars events and traded for rewards.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TIP_HASLAWARS_5": {
+        "text": "The longer you survive, the more Devilish Coins you receive.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TIP_HASLAWARS_6": {
+        "text": "'Bloody Rose Jack' is one of the Fearsome Four, the most loyal subordinates of Gordian, the Devil King of Hell Island.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TIP_ORCHARD_1": {
+        "text": "Heroes working in the Orchard are marked with a round tree icon.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TOTAL_DAMAGE_RANKING": {
+        "text": "Total Dmg Rank",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TOTAL_DAMAGE_RANKING_DESC": {
+        "text": "Listed are the Hero Captains who have dealt the most damage in total.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_TUTORIAL_7": {
+        "text": "7/7 Connect Account",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_7_DESC": {
+        "text": "When No.9's block skill deals a critical hit, No.9 immediately uses 'Jamiel's Hunt' to deal physical damage equal to 1000% of her attack power and stun the enemy for 1 second. This attack always lands critically and ignores all enemy evasion.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_7_DESC": {
+        "text": "When No.9's block skill deals a critical hit, No.9 immediately uses 'Jamiel's Hunt' to deal physical damage equal to 1000% of her attack power and stun the enemy for 1 second. This attack always lands critically and ignores all enemy evasion.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_7_DESC": {
+        "text": "When No.9's block skill deals a critical hit, No.9 immediately uses 'Jamiel's Hunt' to deal physical damage equal to 2000% of her attack power and stun the enemy for 1 second. This attack always lands critically and ignores all enemy evasion as well as enemy effects that absorb damage in place of their allies.",
+        "version": "4.18.0",
         "original": true
     }
 }

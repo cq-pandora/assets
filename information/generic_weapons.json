@@ -8,8 +8,7 @@
         "atk_power": 75,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_10",
@@ -20,8 +19,7 @@
         "atk_power": 81,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_11",
@@ -32,8 +30,7 @@
         "atk_power": 106,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_12",
@@ -56,8 +53,7 @@
         "atk_power": 115,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_14",
@@ -68,8 +64,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_15",
@@ -80,8 +75,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_16",
@@ -92,8 +86,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_17",
@@ -104,8 +97,7 @@
         "atk_power": 77,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_18",
@@ -116,8 +108,7 @@
         "atk_power": 63,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_19",
@@ -128,8 +119,7 @@
         "atk_power": 65,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_2",
@@ -140,8 +130,7 @@
         "atk_power": 70,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_20",
@@ -152,8 +141,7 @@
         "atk_power": 77,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_21",
@@ -164,8 +152,7 @@
         "atk_power": 67,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_22",
@@ -176,8 +163,7 @@
         "atk_power": 67,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_23",
@@ -188,8 +174,7 @@
         "atk_power": 67,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_24",
@@ -200,8 +185,7 @@
         "atk_power": 70,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_25",
@@ -212,8 +196,7 @@
         "atk_power": 67,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_26",
@@ -224,8 +207,7 @@
         "atk_power": 65,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_3",
@@ -236,8 +218,7 @@
         "atk_power": 85,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_4",
@@ -248,8 +229,7 @@
         "atk_power": 90,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_5",
@@ -260,8 +240,7 @@
         "atk_power": 94,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_6",
@@ -272,8 +251,7 @@
         "atk_power": 98,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_7",
@@ -284,8 +262,7 @@
         "atk_power": 63,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_8",
@@ -296,8 +273,7 @@
         "atk_power": 72,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_4_9",
@@ -308,8 +284,7 @@
         "atk_power": 98,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_1",
@@ -320,8 +295,7 @@
         "atk_power": 122,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_10",
@@ -332,8 +306,7 @@
         "atk_power": 133,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_11",
@@ -344,8 +317,7 @@
         "atk_power": 173,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_12",
@@ -368,8 +340,7 @@
         "atk_power": 190,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_14",
@@ -380,8 +351,7 @@
         "atk_power": 132,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_15",
@@ -392,8 +362,7 @@
         "atk_power": 132,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_16",
@@ -404,8 +373,7 @@
         "atk_power": 132,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_17",
@@ -416,8 +384,7 @@
         "atk_power": 128,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_18",
@@ -428,8 +395,7 @@
         "atk_power": 104,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_19",
@@ -440,8 +406,7 @@
         "atk_power": 107,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_2",
@@ -452,8 +417,7 @@
         "atk_power": 114,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_20",
@@ -464,8 +428,7 @@
         "atk_power": 128,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_21",
@@ -476,8 +439,7 @@
         "atk_power": 117,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_22",
@@ -488,8 +450,7 @@
         "atk_power": 117,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_23",
@@ -500,8 +461,7 @@
         "atk_power": 117,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_24",
@@ -512,8 +472,7 @@
         "atk_power": 157,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_25",
@@ -524,8 +483,7 @@
         "atk_power": 117,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_26",
@@ -536,8 +494,7 @@
         "atk_power": 107,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_3",
@@ -548,8 +505,7 @@
         "atk_power": 140,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_4",
@@ -560,8 +516,7 @@
         "atk_power": 146,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_5",
@@ -572,8 +527,7 @@
         "atk_power": 153,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_6",
@@ -584,8 +538,7 @@
         "atk_power": 160,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_7",
@@ -596,8 +549,7 @@
         "atk_power": 104,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_8",
@@ -608,8 +560,7 @@
         "atk_power": 118,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_5_9",
@@ -620,8 +571,7 @@
         "atk_power": 160,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_1",
@@ -632,8 +582,7 @@
         "atk_power": 187,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_10",
@@ -644,8 +593,7 @@
         "atk_power": 204,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_11",
@@ -656,8 +604,7 @@
         "atk_power": 265,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_12",
@@ -680,8 +627,7 @@
         "atk_power": 295,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_14",
@@ -692,8 +638,7 @@
         "atk_power": 223,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_15",
@@ -704,8 +649,7 @@
         "atk_power": 223,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_16",
@@ -716,8 +660,7 @@
         "atk_power": 223,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_17",
@@ -728,8 +671,7 @@
         "atk_power": 200,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_18",
@@ -740,8 +682,7 @@
         "atk_power": 159,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_19",
@@ -752,8 +693,7 @@
         "atk_power": 165,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_2",
@@ -764,8 +704,7 @@
         "atk_power": 175,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_20",
@@ -776,8 +715,7 @@
         "atk_power": 200,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_21",
@@ -788,8 +726,7 @@
         "atk_power": 217,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_22",
@@ -800,8 +737,7 @@
         "atk_power": 217,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_23",
@@ -812,8 +748,7 @@
         "atk_power": 217,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_24",
@@ -824,8 +759,7 @@
         "atk_power": 238,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_25",
@@ -836,8 +770,7 @@
         "atk_power": 217,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_26",
@@ -848,8 +781,7 @@
         "atk_power": 165,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_3",
@@ -860,8 +792,7 @@
         "atk_power": 214,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_4",
@@ -872,8 +803,7 @@
         "atk_power": 224,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_5",
@@ -884,8 +814,7 @@
         "atk_power": 234,
         "atk_speed": 1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_6",
@@ -896,8 +825,7 @@
         "atk_power": 244,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_7",
@@ -908,8 +836,7 @@
         "atk_power": 159,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_8",
@@ -920,8 +847,7 @@
         "atk_power": 181,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_6_9",
@@ -932,8 +858,7 @@
         "atk_power": 244,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "bow",
-        "type": "sbw"
+        "class": "bow"
     },
     {
         "id": "WEP_LEGEND_BO_CHA_LIMITED_4_1",
@@ -1088,8 +1013,7 @@
         "atk_power": 94,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_10",
@@ -1100,8 +1024,7 @@
         "atk_power": 100,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_11",
@@ -1112,8 +1035,7 @@
         "atk_power": 113,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_12",
@@ -1124,8 +1046,7 @@
         "atk_power": 101,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_13",
@@ -1136,8 +1057,7 @@
         "atk_power": 95,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_14",
@@ -1148,8 +1068,7 @@
         "atk_power": 95,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_15",
@@ -1160,8 +1079,7 @@
         "atk_power": 95,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_16",
@@ -1172,8 +1090,7 @@
         "atk_power": 95,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_17",
@@ -1184,8 +1101,7 @@
         "atk_power": 71,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_18",
@@ -1196,8 +1112,7 @@
         "atk_power": 81,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_19",
@@ -1208,8 +1123,7 @@
         "atk_power": 85,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_2",
@@ -1220,8 +1134,7 @@
         "atk_power": 74,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_20",
@@ -1232,8 +1145,7 @@
         "atk_power": 75,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_21",
@@ -1244,8 +1156,7 @@
         "atk_power": 87,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_22",
@@ -1256,8 +1167,7 @@
         "atk_power": 95,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_23",
@@ -1268,8 +1178,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_24",
@@ -1280,8 +1189,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_25",
@@ -1292,8 +1200,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_26",
@@ -1304,8 +1211,7 @@
         "atk_power": 94,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_3",
@@ -1316,8 +1222,7 @@
         "atk_power": 87,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_4",
@@ -1328,8 +1233,7 @@
         "atk_power": 104,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_5",
@@ -1340,8 +1244,7 @@
         "atk_power": 81,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_6",
@@ -1352,20 +1255,18 @@
         "atk_power": 96,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_7",
-        "name": "TEXT_WEP_GU_S4_7_NAME",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_4_7_NAME",
         "image": "gu_s4_07",
-        "ability": "TEXT_EXCLUSIVE_HU_4_7",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_4_7_DESC",
         "star": 4,
         "atk_power": 117,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_8",
@@ -1376,8 +1277,7 @@
         "atk_power": 91,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_4_9",
@@ -1388,8 +1288,7 @@
         "atk_power": 96,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_1",
@@ -1400,8 +1299,7 @@
         "atk_power": 156,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_10",
@@ -1412,8 +1310,7 @@
         "atk_power": 166,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_11",
@@ -1424,8 +1321,7 @@
         "atk_power": 187,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_12",
@@ -1436,8 +1332,7 @@
         "atk_power": 158,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_13",
@@ -1448,8 +1343,7 @@
         "atk_power": 178,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_14",
@@ -1460,8 +1354,7 @@
         "atk_power": 178,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_15",
@@ -1472,8 +1365,7 @@
         "atk_power": 178,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_16",
@@ -1484,8 +1376,7 @@
         "atk_power": 178,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_17",
@@ -1496,8 +1387,7 @@
         "atk_power": 132,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_18",
@@ -1508,8 +1398,7 @@
         "atk_power": 134,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_19",
@@ -1520,8 +1409,7 @@
         "atk_power": 130,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_2",
@@ -1532,8 +1420,7 @@
         "atk_power": 122,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_20",
@@ -1544,8 +1431,7 @@
         "atk_power": 135,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_21",
@@ -1556,8 +1442,7 @@
         "atk_power": 133,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_22",
@@ -1568,8 +1453,7 @@
         "atk_power": 195,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_23",
@@ -1580,8 +1464,7 @@
         "atk_power": 176,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_24",
@@ -1592,8 +1475,7 @@
         "atk_power": 176,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_25",
@@ -1604,8 +1486,7 @@
         "atk_power": 176,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_26",
@@ -1616,8 +1497,7 @@
         "atk_power": 156,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_3",
@@ -1628,8 +1508,7 @@
         "atk_power": 144,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_4",
@@ -1640,8 +1519,7 @@
         "atk_power": 171,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_5",
@@ -1652,8 +1530,7 @@
         "atk_power": 134,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_6",
@@ -1664,20 +1541,18 @@
         "atk_power": 159,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_7",
-        "name": "TEXT_WEP_GU_S5_7_NAME",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_5_7_NAME",
         "image": "gu_s5_07",
-        "ability": "TEXT_EXCLUSIVE_HU_4_7",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_5_7_DESC",
         "star": 5,
         "atk_power": 195,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_8",
@@ -1688,8 +1563,7 @@
         "atk_power": 151,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_5_9",
@@ -1700,8 +1574,7 @@
         "atk_power": 159,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_1",
@@ -1712,8 +1585,7 @@
         "atk_power": 238,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_10",
@@ -1724,8 +1596,7 @@
         "atk_power": 253,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_11",
@@ -1736,8 +1607,7 @@
         "atk_power": 286,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_12",
@@ -1748,8 +1618,7 @@
         "atk_power": 252,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_13",
@@ -1760,8 +1629,7 @@
         "atk_power": 290,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_14",
@@ -1772,8 +1640,7 @@
         "atk_power": 290,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_15",
@@ -1784,8 +1651,7 @@
         "atk_power": 290,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_16",
@@ -1796,8 +1662,7 @@
         "atk_power": 290,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_17",
@@ -1808,8 +1673,7 @@
         "atk_power": 216,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_18",
@@ -1820,8 +1684,7 @@
         "atk_power": 205,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_19",
@@ -1832,8 +1695,7 @@
         "atk_power": 207,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_2",
@@ -1844,8 +1706,7 @@
         "atk_power": 187,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_20",
@@ -1856,8 +1717,7 @@
         "atk_power": 195,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_21",
@@ -1868,8 +1728,7 @@
         "atk_power": 206,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_22",
@@ -1880,8 +1739,7 @@
         "atk_power": 280,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_23",
@@ -1892,8 +1750,7 @@
         "atk_power": 263,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_24",
@@ -1904,8 +1761,7 @@
         "atk_power": 263,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_25",
@@ -1916,8 +1772,7 @@
         "atk_power": 263,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_26",
@@ -1928,8 +1783,7 @@
         "atk_power": 238,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_3",
@@ -1940,8 +1794,7 @@
         "atk_power": 220,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_4",
@@ -1952,8 +1805,7 @@
         "atk_power": 264,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_5",
@@ -1964,8 +1816,7 @@
         "atk_power": 205,
         "atk_speed": 1,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_6",
@@ -1976,20 +1827,18 @@
         "atk_power": 242,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_7",
-        "name": "TEXT_WEP_GU_S6_7_NAME",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_6_7_NAME",
         "image": "gu_s6_07",
-        "ability": "TEXT_EXCLUSIVE_HU_6_7",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_6_7_DESC",
         "star": 6,
         "atk_power": 297,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_8",
@@ -2000,8 +1849,7 @@
         "atk_power": 231,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_6_9",
@@ -2012,8 +1860,7 @@
         "atk_power": 242,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_4_1",
@@ -2024,8 +1871,7 @@
         "atk_power": 85,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_4_2",
@@ -2036,8 +1882,7 @@
         "atk_power": 80,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_4_3",
@@ -2048,8 +1893,7 @@
         "atk_power": 78,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_5_1",
@@ -2060,8 +1904,7 @@
         "atk_power": 135,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_5_2",
@@ -2072,8 +1915,7 @@
         "atk_power": 125,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_5_3",
@@ -2084,8 +1926,7 @@
         "atk_power": 136,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_6_1",
@@ -2096,8 +1937,7 @@
         "atk_power": 215,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_6_2",
@@ -2108,8 +1948,7 @@
         "atk_power": 210,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_CHA_ARMOR_6_3",
@@ -2120,8 +1959,7 @@
         "atk_power": 214,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "gun",
-        "type": "sbw"
+        "class": "gun"
     },
     {
         "id": "WEP_LEGEND_GU_GG_CHA_4_1",
@@ -2312,8 +2150,7 @@
         "atk_power": 47,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_10",
@@ -2324,8 +2161,7 @@
         "atk_power": 73,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_11",
@@ -2336,8 +2172,7 @@
         "atk_power": 52,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_12",
@@ -2360,8 +2195,7 @@
         "atk_power": 65,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_14",
@@ -2372,8 +2206,7 @@
         "atk_power": 65,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_15",
@@ -2384,8 +2217,7 @@
         "atk_power": 65,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_16",
@@ -2396,8 +2228,7 @@
         "atk_power": 73,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_17",
@@ -2408,8 +2239,7 @@
         "atk_power": 65,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_18",
@@ -2420,8 +2250,7 @@
         "atk_power": 60,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_19",
@@ -2432,8 +2261,7 @@
         "atk_power": 58,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_2",
@@ -2444,8 +2272,7 @@
         "atk_power": 52,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_20",
@@ -2456,8 +2283,7 @@
         "atk_power": 75,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_21",
@@ -2468,8 +2294,7 @@
         "atk_power": 65,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_22",
@@ -2480,8 +2305,7 @@
         "atk_power": 105,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_23",
@@ -2492,8 +2316,7 @@
         "atk_power": 105,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_24",
@@ -2504,8 +2327,7 @@
         "atk_power": 105,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_25",
@@ -2516,8 +2338,7 @@
         "atk_power": 105,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_26",
@@ -2528,8 +2349,7 @@
         "atk_power": 105,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_28",
@@ -2540,8 +2360,7 @@
         "atk_power": 105,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_3",
@@ -2552,8 +2371,7 @@
         "atk_power": 56,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_4",
@@ -2564,8 +2382,7 @@
         "atk_power": 61,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_5",
@@ -2576,8 +2393,7 @@
         "atk_power": 60,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_6",
@@ -2588,8 +2404,7 @@
         "atk_power": 69,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_7",
@@ -2600,8 +2415,7 @@
         "atk_power": 65,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_8",
@@ -2612,8 +2426,7 @@
         "atk_power": 44,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_4_9",
@@ -2624,8 +2437,7 @@
         "atk_power": 69,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_1",
@@ -2636,8 +2448,7 @@
         "atk_power": 77,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_10",
@@ -2648,8 +2459,7 @@
         "atk_power": 119,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_11",
@@ -2660,8 +2470,7 @@
         "atk_power": 85,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_12",
@@ -2684,8 +2493,7 @@
         "atk_power": 103,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_14",
@@ -2696,8 +2504,7 @@
         "atk_power": 103,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_15",
@@ -2708,8 +2515,7 @@
         "atk_power": 103,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_16",
@@ -2720,8 +2526,7 @@
         "atk_power": 119,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_17",
@@ -2732,8 +2537,7 @@
         "atk_power": 103,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_18",
@@ -2744,8 +2548,7 @@
         "atk_power": 105,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_19",
@@ -2756,8 +2559,7 @@
         "atk_power": 95,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_2",
@@ -2768,8 +2570,7 @@
         "atk_power": 85,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_20",
@@ -2780,8 +2581,7 @@
         "atk_power": 120,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_21",
@@ -2792,8 +2592,7 @@
         "atk_power": 100,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_22",
@@ -2804,8 +2603,7 @@
         "atk_power": 205,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_23",
@@ -2816,8 +2614,7 @@
         "atk_power": 205,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_24",
@@ -2828,8 +2625,7 @@
         "atk_power": 205,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_25",
@@ -2840,8 +2636,7 @@
         "atk_power": 205,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_26",
@@ -2852,8 +2647,7 @@
         "atk_power": 205,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_28",
@@ -2864,8 +2658,7 @@
         "atk_power": 205,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_3",
@@ -2876,8 +2669,7 @@
         "atk_power": 91,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_4",
@@ -2888,8 +2680,7 @@
         "atk_power": 100,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_5",
@@ -2900,8 +2691,7 @@
         "atk_power": 98,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_6",
@@ -2912,8 +2702,7 @@
         "atk_power": 112,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_7",
@@ -2924,8 +2713,7 @@
         "atk_power": 106,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_8",
@@ -2936,8 +2724,7 @@
         "atk_power": 72,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_5_9",
@@ -2948,8 +2735,7 @@
         "atk_power": 112,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_1",
@@ -2960,8 +2746,7 @@
         "atk_power": 116,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_10",
@@ -2972,8 +2757,7 @@
         "atk_power": 181,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_11",
@@ -2984,8 +2768,7 @@
         "atk_power": 129,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_12",
@@ -3008,8 +2791,7 @@
         "atk_power": 175,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_14",
@@ -3020,8 +2802,7 @@
         "atk_power": 175,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_15",
@@ -3032,8 +2813,7 @@
         "atk_power": 175,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_16",
@@ -3044,8 +2824,7 @@
         "atk_power": 181,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_17",
@@ -3056,8 +2835,7 @@
         "atk_power": 175,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_18",
@@ -3068,8 +2846,7 @@
         "atk_power": 180,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_19",
@@ -3080,8 +2857,7 @@
         "atk_power": 165,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_2",
@@ -3092,8 +2868,7 @@
         "atk_power": 129,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_20",
@@ -3104,8 +2879,7 @@
         "atk_power": 185,
         "atk_speed": 1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_21",
@@ -3116,8 +2890,7 @@
         "atk_power": 183,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_22",
@@ -3128,8 +2901,7 @@
         "atk_power": 305,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_23",
@@ -3140,8 +2912,7 @@
         "atk_power": 305,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_24",
@@ -3152,8 +2923,7 @@
         "atk_power": 305,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_25",
@@ -3164,8 +2934,7 @@
         "atk_power": 305,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_26",
@@ -3176,8 +2945,7 @@
         "atk_power": 305,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_28",
@@ -3188,8 +2956,7 @@
         "atk_power": 305,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_3",
@@ -3200,8 +2967,7 @@
         "atk_power": 138,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_4",
@@ -3212,8 +2978,7 @@
         "atk_power": 151,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_5",
@@ -3224,8 +2989,7 @@
         "atk_power": 149,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_6",
@@ -3236,8 +3000,7 @@
         "atk_power": 170,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_7",
@@ -3248,8 +3011,7 @@
         "atk_power": 161,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_8",
@@ -3260,8 +3022,7 @@
         "atk_power": 110,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_6_9",
@@ -3272,8 +3033,7 @@
         "atk_power": 170,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "hammer",
-        "type": "sbw"
+        "class": "hammer"
     },
     {
         "id": "WEP_LEGEND_HA_CHA_LIMITED_4_1",
@@ -3716,8 +3476,7 @@
         "atk_power": 60,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_10",
@@ -3728,8 +3487,7 @@
         "atk_power": 74,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_11",
@@ -3740,8 +3498,7 @@
         "atk_power": 92,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_12",
@@ -3752,8 +3509,7 @@
         "atk_power": 84,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_13",
@@ -3764,8 +3520,7 @@
         "atk_power": 75,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_14",
@@ -3776,8 +3531,7 @@
         "atk_power": 75,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_15",
@@ -3788,8 +3542,7 @@
         "atk_power": 75,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_16",
@@ -3800,8 +3553,7 @@
         "atk_power": 57,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_17",
@@ -3812,8 +3564,7 @@
         "atk_power": 70,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_18",
@@ -3824,8 +3575,7 @@
         "atk_power": 65,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_19",
@@ -3836,8 +3586,7 @@
         "atk_power": 70,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_2",
@@ -3848,8 +3597,7 @@
         "atk_power": 66,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_20",
@@ -3860,8 +3608,7 @@
         "atk_power": 65,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_21",
@@ -3872,8 +3619,7 @@
         "atk_power": 68,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_22",
@@ -3884,8 +3630,7 @@
         "atk_power": 74,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_23",
@@ -3896,8 +3641,7 @@
         "atk_power": 68,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_24",
@@ -3908,8 +3652,7 @@
         "atk_power": 68,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_25",
@@ -3920,8 +3663,7 @@
         "atk_power": 68,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_26",
@@ -3932,8 +3674,7 @@
         "atk_power": 68,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_27",
@@ -3944,8 +3685,7 @@
         "atk_power": 88,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_3",
@@ -3956,8 +3696,7 @@
         "atk_power": 74,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_4",
@@ -3968,8 +3707,7 @@
         "atk_power": 81,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_5",
@@ -3980,8 +3718,7 @@
         "atk_power": 77,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_6",
@@ -3992,8 +3729,7 @@
         "atk_power": 68,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_7",
@@ -4004,8 +3740,7 @@
         "atk_power": 57,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_8",
@@ -4016,8 +3751,7 @@
         "atk_power": 88,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_4_9",
@@ -4028,8 +3762,7 @@
         "atk_power": 70,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_1",
@@ -4040,8 +3773,7 @@
         "atk_power": 97,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_10",
@@ -4052,8 +3784,7 @@
         "atk_power": 120,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_11",
@@ -4064,8 +3795,7 @@
         "atk_power": 150,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_12",
@@ -4076,8 +3806,7 @@
         "atk_power": 128,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_13",
@@ -4088,8 +3817,7 @@
         "atk_power": 127,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_14",
@@ -4100,8 +3828,7 @@
         "atk_power": 127,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_15",
@@ -4112,8 +3839,7 @@
         "atk_power": 127,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_16",
@@ -4124,8 +3850,7 @@
         "atk_power": 92,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_17",
@@ -4136,8 +3861,7 @@
         "atk_power": 114,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_18",
@@ -4148,8 +3872,7 @@
         "atk_power": 100,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_19",
@@ -4160,8 +3883,7 @@
         "atk_power": 105,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_2",
@@ -4172,8 +3894,7 @@
         "atk_power": 108,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_20",
@@ -4184,8 +3905,7 @@
         "atk_power": 100,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_21",
@@ -4196,8 +3916,7 @@
         "atk_power": 103,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_22",
@@ -4208,8 +3927,7 @@
         "atk_power": 120,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_23",
@@ -4220,8 +3938,7 @@
         "atk_power": 103,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_24",
@@ -4232,8 +3949,7 @@
         "atk_power": 103,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_25",
@@ -4244,8 +3960,7 @@
         "atk_power": 103,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_26",
@@ -4256,8 +3971,7 @@
         "atk_power": 103,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_27",
@@ -4268,8 +3982,7 @@
         "atk_power": 144,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_3",
@@ -4280,8 +3993,7 @@
         "atk_power": 120,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_4",
@@ -4292,8 +4004,7 @@
         "atk_power": 132,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_5",
@@ -4304,8 +4015,7 @@
         "atk_power": 126,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_6",
@@ -4316,8 +4026,7 @@
         "atk_power": 110,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_7",
@@ -4328,8 +4037,7 @@
         "atk_power": 92,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_8",
@@ -4340,8 +4048,7 @@
         "atk_power": 144,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_5_9",
@@ -4352,8 +4059,7 @@
         "atk_power": 114,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_1",
@@ -4364,8 +4070,7 @@
         "atk_power": 148,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_10",
@@ -4376,8 +4081,7 @@
         "atk_power": 183,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_11",
@@ -4388,8 +4092,7 @@
         "atk_power": 228,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_12",
@@ -4400,8 +4103,7 @@
         "atk_power": 192,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_13",
@@ -4412,8 +4114,7 @@
         "atk_power": 181,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_14",
@@ -4424,8 +4125,7 @@
         "atk_power": 181,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_15",
@@ -4436,8 +4136,7 @@
         "atk_power": 181,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_16",
@@ -4448,8 +4147,7 @@
         "atk_power": 141,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_17",
@@ -4460,8 +4158,7 @@
         "atk_power": 173,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_18",
@@ -4472,8 +4169,7 @@
         "atk_power": 140,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_19",
@@ -4484,8 +4180,7 @@
         "atk_power": 135,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_2",
@@ -4496,8 +4191,7 @@
         "atk_power": 164,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_20",
@@ -4508,8 +4202,7 @@
         "atk_power": 140,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_21",
@@ -4520,8 +4213,7 @@
         "atk_power": 138,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_22",
@@ -4532,8 +4224,7 @@
         "atk_power": 183,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_23",
@@ -4544,8 +4235,7 @@
         "atk_power": 138,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_24",
@@ -4556,8 +4246,7 @@
         "atk_power": 138,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_25",
@@ -4568,8 +4257,7 @@
         "atk_power": 138,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_26",
@@ -4580,8 +4268,7 @@
         "atk_power": 138,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_27",
@@ -4592,8 +4279,7 @@
         "atk_power": 219,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_3",
@@ -4604,8 +4290,7 @@
         "atk_power": 183,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_4",
@@ -4616,8 +4301,7 @@
         "atk_power": 201,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_5",
@@ -4628,8 +4312,7 @@
         "atk_power": 192,
         "atk_speed": 1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_6",
@@ -4640,8 +4323,7 @@
         "atk_power": 168,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_7",
@@ -4652,8 +4334,7 @@
         "atk_power": 141,
         "atk_speed": 1.3,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_8",
@@ -4664,8 +4345,7 @@
         "atk_power": 219,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_CHA_6_9",
@@ -4676,8 +4356,7 @@
         "atk_power": 173,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "orb",
-        "type": "sbw"
+        "class": "orb"
     },
     {
         "id": "WEP_LEGEND_OR_GG_CHA_4_1",
@@ -4904,8 +4583,7 @@
         "atk_power": 105,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_10",
@@ -4916,8 +4594,7 @@
         "atk_power": 99,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_11",
@@ -4928,8 +4605,7 @@
         "atk_power": 125,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_12",
@@ -4940,8 +4616,7 @@
         "atk_power": 112,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_13",
@@ -4952,8 +4627,7 @@
         "atk_power": 120,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_14",
@@ -4964,8 +4638,7 @@
         "atk_power": 120,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_15",
@@ -4976,8 +4649,7 @@
         "atk_power": 120,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_16",
@@ -4988,8 +4660,7 @@
         "atk_power": 115,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_17",
@@ -5000,8 +4671,7 @@
         "atk_power": 93,
         "atk_speed": 1.4,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_18",
@@ -5012,8 +4682,7 @@
         "atk_power": 112,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_19",
@@ -5024,8 +4693,7 @@
         "atk_power": 110,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_2",
@@ -5036,8 +4704,7 @@
         "atk_power": 84,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_20",
@@ -5048,8 +4715,7 @@
         "atk_power": 95,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_21",
@@ -5060,8 +4726,7 @@
         "atk_power": 98,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_22",
@@ -5072,8 +4737,7 @@
         "atk_power": 100,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_23",
@@ -5084,8 +4748,7 @@
         "atk_power": 90,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_24",
@@ -5096,8 +4759,7 @@
         "atk_power": 90,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_25",
@@ -5108,8 +4770,7 @@
         "atk_power": 100,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_26",
@@ -5120,8 +4781,7 @@
         "atk_power": 110,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_3",
@@ -5132,8 +4792,7 @@
         "atk_power": 115,
         "atk_speed": 1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_4",
@@ -5144,8 +4803,7 @@
         "atk_power": 108,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_5",
@@ -5156,8 +4814,7 @@
         "atk_power": 120,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_6",
@@ -5168,8 +4825,7 @@
         "atk_power": 112,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_7",
@@ -5180,8 +4836,7 @@
         "atk_power": 94,
         "atk_speed": 1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_8",
@@ -5192,8 +4847,7 @@
         "atk_power": 89,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_4_9",
@@ -5204,8 +4858,7 @@
         "atk_power": 115,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_1",
@@ -5216,8 +4869,7 @@
         "atk_power": 173,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_10",
@@ -5228,8 +4880,7 @@
         "atk_power": 164,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_11",
@@ -5240,8 +4891,7 @@
         "atk_power": 207,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_12",
@@ -5252,8 +4902,7 @@
         "atk_power": 186,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_13",
@@ -5264,8 +4913,7 @@
         "atk_power": 203,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_14",
@@ -5276,8 +4924,7 @@
         "atk_power": 203,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_15",
@@ -5288,8 +4935,7 @@
         "atk_power": 203,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_16",
@@ -5300,8 +4946,7 @@
         "atk_power": 190,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_17",
@@ -5312,8 +4957,7 @@
         "atk_power": 173,
         "atk_speed": 1.4,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_18",
@@ -5324,8 +4968,7 @@
         "atk_power": 185,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_19",
@@ -5336,8 +4979,7 @@
         "atk_power": 180,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_2",
@@ -5348,8 +4990,7 @@
         "atk_power": 138,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_20",
@@ -5360,8 +5001,7 @@
         "atk_power": 165,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_21",
@@ -5372,8 +5012,7 @@
         "atk_power": 177,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_22",
@@ -5384,8 +5023,7 @@
         "atk_power": 180,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_23",
@@ -5396,8 +5034,7 @@
         "atk_power": 162,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_24",
@@ -5408,8 +5045,7 @@
         "atk_power": 162,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_25",
@@ -5420,8 +5056,7 @@
         "atk_power": 180,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_26",
@@ -5432,8 +5067,7 @@
         "atk_power": 180,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_3",
@@ -5444,8 +5078,7 @@
         "atk_power": 190,
         "atk_speed": 1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_4",
@@ -5456,8 +5089,7 @@
         "atk_power": 178,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_5",
@@ -5468,8 +5100,7 @@
         "atk_power": 199,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_6",
@@ -5480,8 +5111,7 @@
         "atk_power": 185,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_7",
@@ -5492,8 +5122,7 @@
         "atk_power": 155,
         "atk_speed": 1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_8",
@@ -5504,8 +5133,7 @@
         "atk_power": 147,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_5_9",
@@ -5516,8 +5144,7 @@
         "atk_power": 190,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_1",
@@ -5528,8 +5155,7 @@
         "atk_power": 264,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_10",
@@ -5540,8 +5166,7 @@
         "atk_power": 251,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_11",
@@ -5552,8 +5177,7 @@
         "atk_power": 317,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_12",
@@ -5564,8 +5188,7 @@
         "atk_power": 275,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_13",
@@ -5576,8 +5199,7 @@
         "atk_power": 305,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_14",
@@ -5588,8 +5210,7 @@
         "atk_power": 305,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_15",
@@ -5600,8 +5221,7 @@
         "atk_power": 305,
         "atk_speed": 0.7,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_16",
@@ -5612,8 +5232,7 @@
         "atk_power": 290,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_17",
@@ -5624,8 +5243,7 @@
         "atk_power": 233,
         "atk_speed": 1.4,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_18",
@@ -5636,8 +5254,7 @@
         "atk_power": 282,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_19",
@@ -5648,8 +5265,7 @@
         "atk_power": 280,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_2",
@@ -5660,8 +5276,7 @@
         "atk_power": 211,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_20",
@@ -5672,8 +5287,7 @@
         "atk_power": 256,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_21",
@@ -5684,8 +5298,7 @@
         "atk_power": 300,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_22",
@@ -5696,8 +5309,7 @@
         "atk_power": 308,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_23",
@@ -5708,8 +5320,7 @@
         "atk_power": 278,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_24",
@@ -5720,8 +5331,7 @@
         "atk_power": 278,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_25",
@@ -5732,8 +5342,7 @@
         "atk_power": 308,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_26",
@@ -5744,8 +5353,7 @@
         "atk_power": 280,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_3",
@@ -5756,8 +5364,7 @@
         "atk_power": 290,
         "atk_speed": 1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_4",
@@ -5768,8 +5375,7 @@
         "atk_power": 272,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_5",
@@ -5780,8 +5386,7 @@
         "atk_power": 304,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_6",
@@ -5792,8 +5397,7 @@
         "atk_power": 282,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_7",
@@ -5804,8 +5408,7 @@
         "atk_power": 238,
         "atk_speed": 1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_8",
@@ -5816,8 +5419,7 @@
         "atk_power": 224,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_CHA_6_9",
@@ -5828,8 +5430,7 @@
         "atk_power": 290,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "staff",
-        "type": "sbw"
+        "class": "staff"
     },
     {
         "id": "WEP_LEGEND_ST_DEEMO_4",
@@ -6236,8 +5837,7 @@
         "atk_power": 84,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_10",
@@ -6248,8 +5848,7 @@
         "atk_power": 83,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_11",
@@ -6260,8 +5859,7 @@
         "atk_power": 88,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_12",
@@ -6272,8 +5870,7 @@
         "atk_power": 82,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_13",
@@ -6284,8 +5881,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_14",
@@ -6296,8 +5892,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_15",
@@ -6308,8 +5903,7 @@
         "atk_power": 80,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_16",
@@ -6320,8 +5914,7 @@
         "atk_power": 86,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_17",
@@ -6332,8 +5925,7 @@
         "atk_power": 86,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_18",
@@ -6344,8 +5936,7 @@
         "atk_power": 85,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_19",
@@ -6356,8 +5947,7 @@
         "atk_power": 87,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_2",
@@ -6368,8 +5958,7 @@
         "atk_power": 54,
         "atk_speed": 1.5,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_20",
@@ -6380,8 +5969,7 @@
         "atk_power": 85,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_21",
@@ -6392,8 +5980,7 @@
         "atk_power": 88,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_22",
@@ -6404,8 +5991,7 @@
         "atk_power": 90,
         "atk_speed": 1.4,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_23",
@@ -6416,8 +6002,7 @@
         "atk_power": 85,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_24",
@@ -6428,8 +6013,7 @@
         "atk_power": 87,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_25",
@@ -6440,8 +6024,7 @@
         "atk_power": 87,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_26",
@@ -6452,8 +6035,7 @@
         "atk_power": 85,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_27",
@@ -6464,8 +6046,7 @@
         "atk_power": 93,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_28",
@@ -6476,8 +6057,7 @@
         "atk_power": 95,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_3",
@@ -6488,8 +6068,7 @@
         "atk_power": 79,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_4",
@@ -6500,8 +6079,7 @@
         "atk_power": 65,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_5",
@@ -6512,8 +6090,7 @@
         "atk_power": 93,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_6",
@@ -6524,8 +6101,7 @@
         "atk_power": 86,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_7",
@@ -6536,8 +6112,7 @@
         "atk_power": 82,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_8",
@@ -6548,8 +6123,7 @@
         "atk_power": 90,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_4_9",
@@ -6560,8 +6134,7 @@
         "atk_power": 86,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_1",
@@ -6572,8 +6145,7 @@
         "atk_power": 137,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_10",
@@ -6584,8 +6156,7 @@
         "atk_power": 135,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_11",
@@ -6596,8 +6167,7 @@
         "atk_power": 144,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_12",
@@ -6608,8 +6178,7 @@
         "atk_power": 140,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_13",
@@ -6620,8 +6189,7 @@
         "atk_power": 138,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_14",
@@ -6632,8 +6200,7 @@
         "atk_power": 138,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_15",
@@ -6644,8 +6211,7 @@
         "atk_power": 138,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_16",
@@ -6656,8 +6222,7 @@
         "atk_power": 140,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_17",
@@ -6668,8 +6233,7 @@
         "atk_power": 140,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_18",
@@ -6680,8 +6244,7 @@
         "atk_power": 142,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_19",
@@ -6692,8 +6255,7 @@
         "atk_power": 145,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_2",
@@ -6704,8 +6266,7 @@
         "atk_power": 88,
         "atk_speed": 1.5,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_20",
@@ -6716,8 +6277,7 @@
         "atk_power": 142,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_21",
@@ -6728,8 +6288,7 @@
         "atk_power": 131,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_22",
@@ -6740,8 +6299,7 @@
         "atk_power": 180,
         "atk_speed": 1.4,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_23",
@@ -6752,8 +6310,7 @@
         "atk_power": 145,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_24",
@@ -6764,8 +6321,7 @@
         "atk_power": 145,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_25",
@@ -6776,8 +6332,7 @@
         "atk_power": 145,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_26",
@@ -6788,8 +6343,7 @@
         "atk_power": 145,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_27",
@@ -6800,8 +6354,7 @@
         "atk_power": 152,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_28",
@@ -6812,8 +6365,7 @@
         "atk_power": 190,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_3",
@@ -6824,8 +6376,7 @@
         "atk_power": 129,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_4",
@@ -6836,8 +6387,7 @@
         "atk_power": 105,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_5",
@@ -6848,8 +6398,7 @@
         "atk_power": 152,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_6",
@@ -6860,8 +6409,7 @@
         "atk_power": 140,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_7",
@@ -6872,8 +6420,7 @@
         "atk_power": 133,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_8",
@@ -6884,8 +6431,7 @@
         "atk_power": 146,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_5_9",
@@ -6896,8 +6442,7 @@
         "atk_power": 140,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_1",
@@ -6908,8 +6453,7 @@
         "atk_power": 210,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_10",
@@ -6920,8 +6464,7 @@
         "atk_power": 207,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_11",
@@ -6932,8 +6475,7 @@
         "atk_power": 221,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_12",
@@ -6944,8 +6486,7 @@
         "atk_power": 210,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_13",
@@ -6956,8 +6497,7 @@
         "atk_power": 208,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_14",
@@ -6968,8 +6508,7 @@
         "atk_power": 208,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_15",
@@ -6980,8 +6519,7 @@
         "atk_power": 208,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_16",
@@ -6992,8 +6530,7 @@
         "atk_power": 216,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_17",
@@ -7004,8 +6541,7 @@
         "atk_power": 216,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_18",
@@ -7016,8 +6552,7 @@
         "atk_power": 218,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_19",
@@ -7028,8 +6563,7 @@
         "atk_power": 220,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_2",
@@ -7040,8 +6574,7 @@
         "atk_power": 135,
         "atk_speed": 1.5,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_20",
@@ -7052,8 +6585,7 @@
         "atk_power": 218,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_21",
@@ -7064,8 +6596,7 @@
         "atk_power": 224,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_22",
@@ -7076,8 +6607,7 @@
         "atk_power": 270,
         "atk_speed": 1.4,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_23",
@@ -7088,8 +6618,7 @@
         "atk_power": 225,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_24",
@@ -7100,8 +6629,7 @@
         "atk_power": 225,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_25",
@@ -7112,8 +6640,7 @@
         "atk_power": 225,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_26",
@@ -7124,8 +6651,7 @@
         "atk_power": 225,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_27",
@@ -7136,8 +6662,7 @@
         "atk_power": 234,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_28",
@@ -7148,8 +6673,7 @@
         "atk_power": 284,
         "atk_speed": 1.1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_3",
@@ -7160,8 +6684,7 @@
         "atk_power": 198,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_4",
@@ -7172,8 +6695,7 @@
         "atk_power": 162,
         "atk_speed": 1.2,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_5",
@@ -7184,8 +6706,7 @@
         "atk_power": 234,
         "atk_speed": 0.8,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_6",
@@ -7196,8 +6717,7 @@
         "atk_power": 216,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_7",
@@ -7208,8 +6728,7 @@
         "atk_power": 205,
         "atk_speed": 1,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_8",
@@ -7220,8 +6739,7 @@
         "atk_power": 225,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_CHA_6_9",
@@ -7232,8 +6750,7 @@
         "atk_power": 216,
         "atk_speed": 0.9,
         "options": 1365,
-        "class": "sword",
-        "type": "sbw"
+        "class": "sword"
     },
     {
         "id": "WEP_LEGEND_SW_FOURTH_REDNAS_4",
