@@ -3,6 +3,7 @@
         "id": "petty_thief",
         "readableId": "petty_thief",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -81,6 +82,7 @@
         "id": "girl_scout",
         "readableId": "girl_scout",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -159,6 +161,7 @@
         "id": "green_apple",
         "readableId": "green_apple",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -215,6 +218,7 @@
         "id": "country_girl",
         "readableId": "country_girl",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -293,6 +297,7 @@
         "id": "kunoichi",
         "readableId": "kunoichi",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -371,6 +376,7 @@
         "id": "gatcha_ranger_y",
         "readableId": "gatcha_ranger_y",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -405,6 +411,7 @@
         "id": "blizzard_archer_group",
         "readableId": "blizzard_archer_group",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -483,6 +490,7 @@
         "id": "grancia_archer",
         "readableId": "grancia_archer",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -561,6 +569,7 @@
         "id": "divine_cavalry_in_training",
         "readableId": "divine_cavalry_in_training",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -617,6 +626,7 @@
         "id": "town_gardener",
         "readableId": "town_gardener",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -651,6 +661,7 @@
         "id": "scarearcher",
         "readableId": "scarearcher",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -729,6 +740,7 @@
         "id": "tarantula_(m)",
         "readableId": "tarantula_(m)",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -785,6 +797,7 @@
         "id": "manager_of_the_eastern_kingdoms",
         "readableId": "manager_of_the_eastern_kingdoms",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -841,6 +854,7 @@
         "id": "manager_of_the_roman_republic",
         "readableId": "manager_of_the_roman_republic",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -897,6 +911,7 @@
         "id": "possessed_archer",
         "readableId": "possessed_archer",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -953,6 +968,7 @@
         "id": "experiment_survivor",
         "readableId": "experiment_survivor",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -1009,6 +1025,7 @@
         "id": "flamey_ninja",
         "readableId": "flamey_ninja",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -1043,6 +1060,7 @@
         "id": "master_nebuchadnezzar",
         "readableId": "master_nebuchadnezzar",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -1078,7 +1096,7 @@
         "readableId": "sigruna",
         "faction": "tribes_confederation",
         "class": "archer",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -1281,7 +1299,7 @@
         "readableId": "demona",
         "faction": "tribes_confederation",
         "class": "archer",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -2173,6 +2191,7 @@
         "readableId": "gon",
         "faction": "heroes_of_freedom",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -2317,6 +2336,7 @@
         "readableId": "hikari",
         "faction": "ryu",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "EAST",
         "forms": [
@@ -2462,6 +2482,7 @@
         "readableId": "arona",
         "faction": "han",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "HAN",
         "forms": [
@@ -2606,6 +2627,7 @@
         "readableId": "magnus",
         "faction": "tribes_confederation",
         "class": "archer",
+        "type": "contract",
         "gender": "male",
         "domain": "MINO",
         "forms": [
@@ -2741,6 +2763,7 @@
         "readableId": "atalante",
         "faction": "roman_republic",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "ROMAN",
         "forms": [
@@ -2885,6 +2908,7 @@
         "readableId": "lee",
         "faction": "chen",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "CHEN",
         "forms": [
@@ -3029,6 +3053,7 @@
         "readableId": "rahima",
         "faction": "heroes_of_freedom",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -3173,6 +3198,7 @@
         "readableId": "kaguya",
         "faction": "ryu",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "EAST",
         "forms": [
@@ -3316,6 +3342,7 @@
         "readableId": "chiron",
         "faction": "roman_republic",
         "class": "archer",
+        "type": "contract",
         "gender": "male",
         "domain": "ROMAN",
         "forms": [
@@ -3459,6 +3486,7 @@
         "readableId": "set",
         "faction": "tribes_confederation",
         "class": "archer",
+        "type": "contract",
         "gender": "male",
         "domain": "MINO",
         "forms": [
@@ -3593,6 +3621,7 @@
         "readableId": "genevie",
         "faction": "order_of_goddess",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -3745,6 +3774,7 @@
         "readableId": "arachne",
         "faction": "roman_republic",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "ROMAN",
         "forms": [
@@ -3879,6 +3909,7 @@
         "readableId": "lindsey",
         "faction": "sw_alliance",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "WEST",
         "forms": [
@@ -4011,6 +4042,7 @@
         "readableId": "haerang",
         "faction": "han",
         "class": "archer",
+        "type": "contract",
         "gender": "female",
         "domain": "HAN",
         "forms": [
@@ -4143,6 +4175,7 @@
         "readableId": "hanzo",
         "faction": "ryu",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": "EAST",
         "forms": [
@@ -4288,6 +4321,7 @@
         "readableId": "robin_hood",
         "faction": "grancia_empire",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": "GRAN",
         "forms": [
@@ -4433,6 +4467,7 @@
         "readableId": "r_-_9999",
         "faction": "neth_empire",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -4578,6 +4613,7 @@
         "readableId": "giparang",
         "faction": "han",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": "HAN",
         "forms": [
@@ -4723,6 +4759,7 @@
         "readableId": "niven",
         "faction": "nosgard",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": "NOS",
         "forms": [
@@ -4867,6 +4904,7 @@
         "readableId": "mamba",
         "faction": "neth_empire",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -5021,6 +5059,7 @@
         "readableId": "viola",
         "faction": "order_of_goddess",
         "class": "archer",
+        "type": "promotable",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -5165,6 +5204,7 @@
         "readableId": "hansung",
         "faction": "chen",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": "CHEN",
         "forms": [
@@ -5299,6 +5339,7 @@
         "readableId": "panpan",
         "faction": "chen",
         "class": "archer",
+        "type": "promotable",
         "gender": "male",
         "domain": "CHEN",
         "forms": [
@@ -5432,6 +5473,7 @@
         "id": "gunman",
         "readableId": "gunman",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -5532,6 +5574,7 @@
         "id": "adventurer",
         "readableId": "adventurer",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -5610,6 +5653,7 @@
         "id": "mafia",
         "readableId": "mafia",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -5666,6 +5710,7 @@
         "id": "owner",
         "readableId": "owner",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -5744,6 +5789,7 @@
         "id": "bard",
         "readableId": "bard",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -5822,6 +5868,7 @@
         "id": "red_hood",
         "readableId": "red_hood",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -5856,6 +5903,7 @@
         "id": "east_alliance_-_han",
         "readableId": "east_alliance_-_han",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -5934,6 +5982,7 @@
         "id": "tristan_soldier",
         "readableId": "tristan_soldier",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -6012,6 +6061,7 @@
         "id": "gunslinger_of_the_desert",
         "readableId": "gunslinger_of_the_desert",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -6068,6 +6118,7 @@
         "id": "holy_city_resident",
         "readableId": "holy_city_resident",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -6102,6 +6153,7 @@
         "id": "toy_gun_artisan",
         "readableId": "toy_gun_artisan",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -6180,6 +6232,7 @@
         "id": "laboratory_manager",
         "readableId": "laboratory_manager",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -6236,6 +6289,7 @@
         "id": "manager_of_the_southwest_alliance",
         "readableId": "manager_of_the_southwest_alliance",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -6292,6 +6346,7 @@
         "id": "manager_of_the_neth_empire",
         "readableId": "manager_of_the_neth_empire",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -6348,6 +6403,7 @@
         "id": "vampire_hunter",
         "readableId": "vampire_hunter",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -6404,6 +6460,7 @@
         "id": "grave_robber",
         "readableId": "grave_robber",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -6460,6 +6517,7 @@
         "id": "bounty_hunter",
         "readableId": "bounty_hunter",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -6494,6 +6552,7 @@
         "id": "temur_the_willful",
         "readableId": "temur_the_willful",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -6529,7 +6588,7 @@
         "readableId": "d'artagnan",
         "faction": "sw_alliance",
         "class": "hunter",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "WEST",
         "forms": [
@@ -6752,7 +6811,7 @@
         "readableId": "teresa",
         "faction": "pumpkin_city",
         "class": "hunter",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -7864,6 +7923,7 @@
         "readableId": "viper",
         "faction": "neth_empire",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -8008,6 +8068,7 @@
         "readableId": "no._9",
         "faction": "sw_alliance",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "WEST",
         "forms": [
@@ -8153,6 +8214,7 @@
         "readableId": "mandy",
         "faction": "heroes_of_freedom",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -8298,6 +8360,7 @@
         "readableId": "wilhelm",
         "faction": "heroes_of_freedom",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "FREE",
         "forms": [
@@ -8441,6 +8504,7 @@
         "readableId": "saiga",
         "faction": "ryu",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "EAST",
         "forms": [
@@ -8576,6 +8640,7 @@
         "readableId": "tia",
         "faction": "grancia_empire",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -8720,6 +8785,7 @@
         "readableId": "dox",
         "faction": "tribes_confederation",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "MINO",
         "forms": [
@@ -8864,6 +8930,7 @@
         "readableId": "lorelei",
         "faction": "heroes_of_freedom",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -9009,6 +9076,7 @@
         "readableId": "raven",
         "faction": "nosgard",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "NOS",
         "forms": [
@@ -9143,6 +9211,7 @@
         "readableId": "momotaro",
         "faction": "ryu",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "EAST",
         "forms": [
@@ -9286,6 +9355,7 @@
         "readableId": "athos",
         "faction": "sw_alliance",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -9420,6 +9490,7 @@
         "readableId": "zahard",
         "faction": "chen",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "CHEN",
         "forms": [
@@ -9554,6 +9625,7 @@
         "readableId": "jet",
         "faction": "sw_alliance",
         "class": "hunter",
+        "type": "contract",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -9686,6 +9758,7 @@
         "readableId": "carol",
         "faction": "order_of_goddess",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -9820,6 +9893,7 @@
         "readableId": "lyudmilla",
         "faction": "nosgard",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "NOS",
         "forms": [
@@ -9952,6 +10026,7 @@
         "readableId": "ag01-neo",
         "faction": "neth_empire",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -10074,6 +10149,7 @@
         "readableId": "ag02-layla",
         "faction": "neth_empire",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -10196,6 +10272,7 @@
         "readableId": "ag03-mel",
         "faction": "neth_empire",
         "class": "hunter",
+        "type": "contract",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -10318,6 +10395,7 @@
         "readableId": "maxi",
         "faction": "sw_alliance",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": "WEST",
         "forms": [
@@ -10461,6 +10539,7 @@
         "readableId": "spyro",
         "faction": "neth_empire",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -10606,6 +10685,7 @@
         "readableId": "crow",
         "faction": "heroes_of_freedom",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": "FREE",
         "forms": [
@@ -10750,6 +10830,7 @@
         "readableId": "vincent",
         "faction": "grancia_empire",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": "GRAN",
         "forms": [
@@ -10885,6 +10966,7 @@
         "readableId": "sentinel_d",
         "faction": "neth_empire",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -11020,6 +11102,7 @@
         "readableId": "spiny",
         "faction": "neth_empire",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -11173,6 +11256,7 @@
         "readableId": "scarlet",
         "faction": "sw_alliance",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": "WEST",
         "forms": [
@@ -11317,6 +11401,7 @@
         "readableId": "luicilla",
         "faction": "order_of_goddess",
         "class": "hunter",
+        "type": "promotable",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -11460,6 +11545,7 @@
         "readableId": "bellerophon",
         "faction": "roman_republic",
         "class": "hunter",
+        "type": "promotable",
         "gender": "male",
         "domain": "ROMAN",
         "forms": [
@@ -11602,6 +11688,7 @@
         "id": "woodcutter",
         "readableId": "woodcutter",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -11680,6 +11767,7 @@
         "id": "pirate",
         "readableId": "pirate",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -11758,6 +11846,7 @@
         "id": "forest_guardian",
         "readableId": "forest_guardian",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -11814,6 +11903,7 @@
         "id": "apprentice_blacksmith",
         "readableId": "apprentice_blacksmith",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -11892,6 +11982,7 @@
         "id": "town_thug",
         "readableId": "town_thug",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -11970,6 +12061,7 @@
         "id": "andre",
         "readableId": "andre",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12004,6 +12096,7 @@
         "id": "warrior_of_the_sun",
         "readableId": "warrior_of_the_sun",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12082,6 +12175,7 @@
         "id": "sneaky_burgler",
         "readableId": "sneaky_burgler",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12160,6 +12254,7 @@
         "id": "order_of_the_saintess_in_training",
         "readableId": "order_of_the_saintess_in_training",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -12216,6 +12311,7 @@
         "id": "apprentice_martial_artist",
         "readableId": "apprentice_martial_artist",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12250,6 +12346,7 @@
         "id": "scholar_of_the_forest",
         "readableId": "scholar_of_the_forest",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12328,6 +12425,7 @@
         "id": "lost_merchant",
         "readableId": "lost_merchant",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12384,6 +12482,7 @@
         "id": "order_of_the_goddess_knight-in-training",
         "readableId": "order_of_the_goddess_knight-in-training",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12440,6 +12539,7 @@
         "id": "manager_of_the_free_heroes",
         "readableId": "manager_of_the_free_heroes",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -12496,6 +12596,7 @@
         "id": "nameless_knight",
         "readableId": "nameless_knight",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12552,6 +12653,7 @@
         "id": "plasterer_fukhu",
         "readableId": "plasterer_fukhu",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12608,6 +12710,7 @@
         "id": "entman",
         "readableId": "entman",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -12642,6 +12745,7 @@
         "id": "undead_test_subject",
         "readableId": "undead_test_subject",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -12677,7 +12781,7 @@
         "readableId": "kriemhild",
         "faction": "roman_republic",
         "class": "paladin",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "ROMAN",
         "forms": [
@@ -12889,7 +12993,7 @@
         "readableId": "roland",
         "faction": "order_of_goddess",
         "class": "paladin",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "male",
         "domain": "GODDESS",
         "forms": [
@@ -14929,6 +15033,7 @@
         "readableId": "thor",
         "faction": "nosgard",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -15074,6 +15179,7 @@
         "readableId": "alexander",
         "faction": "grancia_empire",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": "GRAN",
         "forms": [
@@ -15228,6 +15334,7 @@
         "readableId": "achilles",
         "faction": "roman_republic",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": "ROMAN",
         "forms": [
@@ -15363,6 +15470,7 @@
         "readableId": "pirate_drake",
         "faction": "sw_alliance",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -15516,6 +15624,7 @@
         "readableId": "stanya",
         "faction": "neth_empire",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -15661,6 +15770,7 @@
         "readableId": "athena",
         "faction": "roman_republic",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": "ROMAN",
         "forms": [
@@ -15806,6 +15916,7 @@
         "readableId": "captain",
         "faction": "heroes_of_freedom",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": "FREE",
         "forms": [
@@ -15941,6 +16052,7 @@
         "readableId": "lei_ling",
         "faction": "chen",
         "class": "paladin",
+        "type": "promotable",
         "gender": "female",
         "domain": "CHEN",
         "forms": [
@@ -16086,6 +16198,7 @@
         "readableId": "heim",
         "faction": "nosgard",
         "class": "paladin",
+        "type": "promotable",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -16221,6 +16334,7 @@
         "readableId": "vane",
         "faction": "heroes_of_freedom",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "FREE",
         "forms": [
@@ -16356,6 +16470,7 @@
         "readableId": "cain",
         "faction": "sw_alliance",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -16501,6 +16616,7 @@
         "readableId": "mundeok",
         "faction": "han",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "HAN",
         "forms": [
@@ -16646,6 +16762,7 @@
         "readableId": "v",
         "faction": "neth_empire",
         "class": "paladin",
+        "type": "contract",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -16790,6 +16907,7 @@
         "readableId": "hector",
         "faction": "roman_republic",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "ROMAN",
         "forms": [
@@ -16935,6 +17053,7 @@
         "readableId": "siegfried",
         "faction": "roman_republic",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "ROMAN",
         "forms": [
@@ -17080,6 +17199,7 @@
         "readableId": "dullahan",
         "faction": "order_of_goddess",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "GODDESS",
         "forms": [
@@ -17215,6 +17335,7 @@
         "readableId": "wolfgang",
         "faction": "nosgard",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -17360,6 +17481,7 @@
         "readableId": "fenrir",
         "faction": "heroes_of_freedom",
         "class": "paladin",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -17504,6 +17626,7 @@
         "readableId": "schula",
         "faction": "grancia_empire",
         "class": "paladin",
+        "type": "contract",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -17639,6 +17762,7 @@
         "readableId": "mengqi",
         "faction": "chen",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "CHEN",
         "forms": [
@@ -17774,6 +17898,7 @@
         "readableId": "yuna",
         "faction": "heroes_of_freedom",
         "class": "paladin",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -17909,6 +18034,7 @@
         "readableId": "caeneus",
         "faction": "grancia_empire",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "GRAN",
         "forms": [
@@ -18044,6 +18170,7 @@
         "readableId": "odin",
         "faction": "nosgard",
         "class": "paladin",
+        "type": "contract",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -18177,6 +18304,7 @@
         "readableId": "fireaxe",
         "faction": "roman_republic",
         "class": "paladin",
+        "type": "contract",
         "gender": "female",
         "domain": "ROMAN",
         "forms": [
@@ -18298,6 +18426,7 @@
         "id": "pastor",
         "readableId": "pastor",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -18376,6 +18505,7 @@
         "id": "sister",
         "readableId": "sister",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -18454,6 +18584,7 @@
         "id": "head_sister",
         "readableId": "head_sister",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -18510,6 +18641,7 @@
         "id": "healer",
         "readableId": "healer",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -18588,6 +18720,7 @@
         "id": "rank_9_public_official",
         "readableId": "rank_9_public_official",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -18666,6 +18799,7 @@
         "id": "gatcha_ranger_p",
         "readableId": "gatcha_ranger_p",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -18700,6 +18834,7 @@
         "id": "order_of_goddesses_priest",
         "readableId": "order_of_goddesses_priest",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -18778,6 +18913,7 @@
         "id": "royal_physician",
         "readableId": "royal_physician",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -18856,6 +18992,7 @@
         "id": "member_of_sera's_guards",
         "readableId": "member_of_sera's_guards",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -18912,6 +19049,7 @@
         "id": "holy_city_traveler",
         "readableId": "holy_city_traveler",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -18946,6 +19084,7 @@
         "id": "beekeeper",
         "readableId": "beekeeper",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -19024,6 +19163,7 @@
         "id": "mummy_embalmer",
         "readableId": "mummy_embalmer",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -19080,6 +19220,7 @@
         "id": "order_of_the_goddess_acolyte",
         "readableId": "order_of_the_goddess_acolyte",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -19136,6 +19277,7 @@
         "id": "manager_of_nosgard",
         "readableId": "manager_of_nosgard",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -19192,6 +19334,7 @@
         "id": "shadow_rose_priest",
         "readableId": "shadow_rose_priest",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -19248,6 +19391,7 @@
         "id": "golden_piggy",
         "readableId": "golden_piggy",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -19304,6 +19448,7 @@
         "id": "bewitched_priest",
         "readableId": "bewitched_priest",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -19338,6 +19483,7 @@
         "id": "evolutionist_spencer",
         "readableId": "evolutionist_spencer",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -19373,7 +19519,7 @@
         "readableId": "maria",
         "faction": "order_of_goddess",
         "class": "priest",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -19585,7 +19731,7 @@
         "readableId": "melissa",
         "faction": "grancia_empire",
         "class": "priest",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -20658,6 +20804,7 @@
         "readableId": "mew",
         "faction": "tribes_confederation",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -20813,6 +20960,7 @@
         "readableId": "yeowoodong",
         "faction": "han",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": "HAN",
         "forms": [
@@ -20957,6 +21105,7 @@
         "readableId": "nurspy",
         "faction": "neth_empire",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -21102,6 +21251,7 @@
         "readableId": "woompa_woopa",
         "faction": "tribes_confederation",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": "MINO",
         "forms": [
@@ -21246,6 +21396,7 @@
         "readableId": "stein",
         "faction": "neth_empire",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -21390,6 +21541,7 @@
         "readableId": "aria",
         "faction": "sw_alliance",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": "WEST",
         "forms": [
@@ -21533,6 +21685,7 @@
         "readableId": "seiren",
         "faction": "tribes_confederation",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -21677,6 +21830,7 @@
         "readableId": "shikigami_seimei",
         "faction": "ryu",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": "EAST",
         "forms": [
@@ -21821,6 +21975,7 @@
         "readableId": "vernil",
         "faction": "nosgard",
         "class": "priest",
+        "type": "promotable",
         "gender": "female",
         "domain": "NOS",
         "forms": [
@@ -21956,6 +22111,7 @@
         "readableId": "basquiat",
         "faction": "neth_empire",
         "class": "priest",
+        "type": "promotable",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -22089,6 +22245,7 @@
         "readableId": "nightingale",
         "faction": "order_of_goddess",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -22234,6 +22391,7 @@
         "readableId": "himiko",
         "faction": "ryu",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "EAST",
         "forms": [
@@ -22378,6 +22536,7 @@
         "readableId": "chai",
         "faction": "chen",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "CHEN",
         "forms": [
@@ -22522,6 +22681,7 @@
         "readableId": "dara",
         "faction": "chen",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "CHEN",
         "forms": [
@@ -22667,6 +22827,7 @@
         "readableId": "beatrice",
         "faction": "roman_republic",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "ROMAN",
         "forms": [
@@ -22821,6 +22982,7 @@
         "readableId": "orfeo",
         "faction": "roman_republic",
         "class": "priest",
+        "type": "contract",
         "gender": "male",
         "domain": "ROMAN",
         "forms": [
@@ -22965,6 +23127,7 @@
         "readableId": "yuria",
         "faction": "neth_empire",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "NETH",
         "forms": [
@@ -23109,6 +23272,7 @@
         "readableId": "faust",
         "faction": "heroes_of_freedom",
         "class": "priest",
+        "type": "contract",
         "gender": "male",
         "domain": "FREE",
         "forms": [
@@ -23243,6 +23407,7 @@
         "readableId": "noel",
         "faction": "order_of_goddess",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -23378,6 +23543,7 @@
         "readableId": "bari",
         "faction": "han",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "HAN",
         "forms": [
@@ -23523,6 +23689,7 @@
         "readableId": "marpei",
         "faction": "order_of_goddess",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -23668,6 +23835,7 @@
         "readableId": "cronette",
         "faction": "chen",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "CHEN",
         "forms": [
@@ -23803,6 +23971,7 @@
         "readableId": "ricky",
         "faction": "chen",
         "class": "priest",
+        "type": "contract",
         "gender": "male",
         "domain": "CHEN",
         "forms": [
@@ -23938,6 +24107,7 @@
         "readableId": "sfera",
         "faction": "tribes_confederation",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -24080,6 +24250,7 @@
         "readableId": "shub",
         "faction": "heroes_of_freedom",
         "class": "priest",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -24211,6 +24382,7 @@
         "id": "young_villager",
         "readableId": "young_villager",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -24289,6 +24461,7 @@
         "id": "squire",
         "readableId": "squire",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -24367,6 +24540,7 @@
         "id": "green_knight",
         "readableId": "green_knight",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -24423,6 +24597,7 @@
         "id": "farm_boy",
         "readableId": "farm_boy",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -24501,6 +24676,7 @@
         "id": "treasure_hunter",
         "readableId": "treasure_hunter",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -24579,6 +24755,7 @@
         "id": "gatcha_ranger_r",
         "readableId": "gatcha_ranger_r",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -24613,6 +24790,7 @@
         "id": "eastern_alliance_soldier_(ryu)",
         "readableId": "eastern_alliance_soldier_(ryu)",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -24691,6 +24869,7 @@
         "id": "neth_commando",
         "readableId": "neth_commando",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -24769,6 +24948,7 @@
         "id": "follower_of_the_order",
         "readableId": "follower_of_the_order",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -24825,6 +25005,7 @@
         "id": "red_velvet",
         "readableId": "red_velvet",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -24859,6 +25040,7 @@
         "id": "adventure_guildsman",
         "readableId": "adventure_guildsman",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -24937,6 +25119,7 @@
         "id": "confused_sentinel",
         "readableId": "confused_sentinel",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -24993,6 +25176,7 @@
         "id": "manager_of_the_minor_tribes'_confederation",
         "readableId": "manager_of_the_minor_tribes'_confederation",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -25049,6 +25233,7 @@
         "id": "manager_of_grancia",
         "readableId": "manager_of_grancia",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -25105,6 +25290,7 @@
         "id": "shadow_rose_agent",
         "readableId": "shadow_rose_agent",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -25161,6 +25347,7 @@
         "id": "eternally_young_sentry",
         "readableId": "eternally_young_sentry",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -25217,6 +25404,7 @@
         "id": "ratman_enthusiast",
         "readableId": "ratman_enthusiast",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -25251,6 +25439,7 @@
         "id": "desert_warrior_keyab",
         "readableId": "desert_warrior_keyab",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -25286,7 +25475,7 @@
         "readableId": "leon",
         "faction": "grancia_empire",
         "class": "warrior",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "male",
         "domain": "GRAN",
         "forms": [
@@ -25509,7 +25698,7 @@
         "readableId": "rochefort",
         "faction": "sw_alliance",
         "class": "warrior",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -28394,6 +28583,7 @@
         "readableId": "vivian",
         "faction": "tribes_confederation",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -28547,6 +28737,7 @@
         "readableId": "abel",
         "faction": "sw_alliance",
         "class": "warrior",
+        "type": "contract",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -28692,6 +28883,7 @@
         "readableId": "b._sworden",
         "faction": "han",
         "class": "warrior",
+        "type": "contract",
         "gender": "male",
         "domain": "HAN",
         "forms": [
@@ -28827,6 +29019,7 @@
         "readableId": "isabel",
         "faction": "grancia_empire",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -28972,6 +29165,7 @@
         "readableId": "koxinga",
         "faction": "tribes_confederation",
         "class": "warrior",
+        "type": "contract",
         "gender": "male",
         "domain": "MINO",
         "forms": [
@@ -29116,6 +29310,7 @@
         "readableId": "victoria",
         "faction": "grancia_empire",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -29260,6 +29455,7 @@
         "readableId": "arita",
         "faction": "pumpkin_city",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -29413,6 +29609,7 @@
         "readableId": "sien",
         "faction": "grancia_empire",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -29547,6 +29744,7 @@
         "readableId": "bihyeongrang",
         "faction": "han",
         "class": "warrior",
+        "type": "contract",
         "gender": "male",
         "domain": "HAN",
         "forms": [
@@ -29692,6 +29890,7 @@
         "readableId": "shasha",
         "faction": "pumpkin_city",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -29835,6 +30034,7 @@
         "readableId": "isis",
         "faction": "tribes_confederation",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -29979,6 +30179,7 @@
         "readableId": "izuna",
         "faction": "ryu",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "EAST",
         "forms": [
@@ -30122,6 +30323,7 @@
         "readableId": "cassia",
         "faction": "pumpkin_city",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -30265,6 +30467,7 @@
         "readableId": "echidna",
         "faction": "tribes_confederation",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -30406,6 +30609,7 @@
         "readableId": "sim_hak-gyu",
         "faction": "han",
         "class": "warrior",
+        "type": "contract",
         "gender": "male",
         "domain": "HAN",
         "forms": [
@@ -30538,6 +30742,7 @@
         "readableId": "nefer",
         "faction": "heroes_of_freedom",
         "class": "warrior",
+        "type": "contract",
         "gender": "female",
         "domain": "FREE",
         "forms": [
@@ -30660,6 +30865,7 @@
         "readableId": "joan_of_arc",
         "faction": "grancia_empire",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -30815,6 +31021,7 @@
         "readableId": "susanoo",
         "faction": "ryu",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": "EAST",
         "forms": [
@@ -30959,6 +31166,7 @@
         "readableId": "monte_proto",
         "faction": "neth_empire",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -31104,6 +31312,7 @@
         "readableId": "kaori",
         "faction": "ryu",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": "EAST",
         "forms": [
@@ -31249,6 +31458,7 @@
         "readableId": "uzimant",
         "faction": "nosgard",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -31393,6 +31603,7 @@
         "readableId": "lionel",
         "faction": "sw_alliance",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -31537,6 +31748,7 @@
         "readableId": "borgos",
         "faction": "heroes_of_freedom",
         "class": "warrior",
+        "type": "promotable",
         "gender": "male",
         "domain": "FREE",
         "forms": [
@@ -31672,6 +31884,7 @@
         "readableId": "harpya",
         "faction": "roman_republic",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": "ROMAN",
         "forms": [
@@ -31815,6 +32028,7 @@
         "readableId": "randgrid",
         "faction": "nosgard",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": "NOS",
         "forms": [
@@ -31949,6 +32163,7 @@
         "readableId": "roskva",
         "faction": "nosgard",
         "class": "warrior",
+        "type": "promotable",
         "gender": "female",
         "domain": "NOS",
         "forms": [
@@ -32082,6 +32297,7 @@
         "id": "battleloid_s-3",
         "readableId": "battleloid_s-3",
         "class": "warrior",
+        "type": "support",
         "gender": "male",
         "domain": "NONEGROUP",
         "forms": [
@@ -32182,6 +32398,7 @@
         "id": "nerd",
         "readableId": "nerd",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -32260,6 +32477,7 @@
         "id": "magic_student",
         "readableId": "magic_student",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -32338,6 +32556,7 @@
         "id": "royal_magic_student",
         "readableId": "royal_magic_student",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -32394,6 +32613,7 @@
         "id": "old_man_neighbor",
         "readableId": "old_man_neighbor",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -32472,6 +32692,7 @@
         "id": "clock_repairman",
         "readableId": "clock_repairman",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -32550,6 +32771,7 @@
         "id": "enlightened_sea_otter",
         "readableId": "enlightened_sea_otter",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -32584,6 +32806,7 @@
         "id": "grancia_magician",
         "readableId": "grancia_magician",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -32662,6 +32885,7 @@
         "id": "neth_magician_army",
         "readableId": "neth_magician_army",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -32740,6 +32964,7 @@
         "id": "solitude_of_the_deep_sea",
         "readableId": "solitude_of_the_deep_sea",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -32796,6 +33021,7 @@
         "id": "church_volunteer",
         "readableId": "church_volunteer",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -32830,6 +33056,7 @@
         "id": "hermit",
         "readableId": "hermit",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -32908,6 +33135,7 @@
         "id": "possessed_scholar",
         "readableId": "possessed_scholar",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -32964,6 +33192,7 @@
         "id": "librarian_of_the_order",
         "readableId": "librarian_of_the_order",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -33020,6 +33249,7 @@
         "id": "manager_of_pumpkin_city",
         "readableId": "manager_of_pumpkin_city",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -33076,6 +33306,7 @@
         "id": "noble_lady",
         "readableId": "noble_lady",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -33132,6 +33363,7 @@
         "id": "levitating_stone_manager",
         "readableId": "levitating_stone_manager",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -33188,6 +33420,7 @@
         "id": "bewitched_magician",
         "readableId": "bewitched_magician",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
@@ -33222,6 +33455,7 @@
         "id": "richard_kim",
         "readableId": "richard_kim",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
@@ -33257,7 +33491,7 @@
         "readableId": "dorothy",
         "faction": "pumpkin_city",
         "class": "wizard",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -33469,7 +33703,7 @@
         "readableId": "cano",
         "faction": "pumpkin_city",
         "class": "wizard",
-        "type": "promotable",
+        "type": "legendary",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -35195,6 +35429,7 @@
         "readableId": "archon",
         "faction": "sw_alliance",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": "WEST",
         "forms": [
@@ -35339,6 +35574,7 @@
         "readableId": "korin",
         "faction": "han",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": "HAN",
         "forms": [
@@ -35484,6 +35720,7 @@
         "readableId": "sasquatch",
         "faction": "nosgard",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -35628,6 +35865,7 @@
         "readableId": "rachel",
         "faction": "pumpkin_city",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -35782,6 +36020,7 @@
         "readableId": "nazrune",
         "faction": "nosgard",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -35926,6 +36165,7 @@
         "readableId": "benjamin",
         "faction": "neth_empire",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": "NETH",
         "forms": [
@@ -36070,6 +36310,7 @@
         "readableId": "violet",
         "faction": "order_of_goddess",
         "class": "wizard",
+        "type": "promotable",
         "gender": "female",
         "domain": "GODDESS",
         "forms": [
@@ -36214,6 +36455,7 @@
         "readableId": "hermit_otter",
         "faction": "tribes_confederation",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": "MINO",
         "forms": [
@@ -36357,6 +36599,7 @@
         "readableId": "han_xiangzi",
         "faction": "chen",
         "class": "wizard",
+        "type": "promotable",
         "gender": "male",
         "domain": "CHEN",
         "forms": [
@@ -36491,6 +36734,7 @@
         "readableId": "lilith",
         "faction": "pumpkin_city",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -36645,6 +36889,7 @@
         "readableId": "alice",
         "faction": "pumpkin_city",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -36789,6 +37034,7 @@
         "readableId": "mondrian",
         "faction": "han",
         "class": "wizard",
+        "type": "contract",
         "gender": "male",
         "domain": "HAN",
         "forms": [
@@ -36924,6 +37170,7 @@
         "readableId": "necron",
         "faction": "grancia_empire",
         "class": "wizard",
+        "type": "contract",
         "gender": "male",
         "domain": "GRAN",
         "forms": [
@@ -37068,6 +37315,7 @@
         "readableId": "demeter",
         "faction": "grancia_empire",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "GRAN",
         "forms": [
@@ -37213,6 +37461,7 @@
         "readableId": "uriel",
         "faction": "order_of_goddess",
         "class": "wizard",
+        "type": "contract",
         "gender": "male",
         "domain": "GODDESS",
         "forms": [
@@ -37357,6 +37606,7 @@
         "readableId": "lupeow",
         "faction": "tribes_confederation",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "MINO",
         "forms": [
@@ -37501,6 +37751,7 @@
         "readableId": "vesper",
         "faction": "pumpkin_city",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -37645,6 +37896,7 @@
         "readableId": "yichui",
         "faction": "pumpkin_city",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -37798,6 +38050,7 @@
         "readableId": "wolfram",
         "faction": "pumpkin_city",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "PUMP",
         "forms": [
@@ -37941,6 +38194,7 @@
         "readableId": "osiris",
         "faction": "tribes_confederation",
         "class": "wizard",
+        "type": "contract",
         "gender": "male",
         "domain": "MINO",
         "forms": [
@@ -38075,6 +38329,7 @@
         "readableId": "loki",
         "faction": "nosgard",
         "class": "wizard",
+        "type": "contract",
         "gender": "male",
         "domain": "NOS",
         "forms": [
@@ -38209,6 +38464,7 @@
         "readableId": "lakias",
         "faction": "nosgard",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "NOS",
         "forms": [
@@ -38343,6 +38599,7 @@
         "readableId": "grim_reaper",
         "faction": "sw_alliance",
         "class": "wizard",
+        "type": "contract",
         "gender": "male",
         "domain": "WEST",
         "forms": [
@@ -38477,6 +38734,7 @@
         "readableId": "urako",
         "faction": "ryu",
         "class": "wizard",
+        "type": "contract",
         "gender": "female",
         "domain": "EAST",
         "forms": [
