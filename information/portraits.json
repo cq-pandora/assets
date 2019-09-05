@@ -1255,6 +1255,15 @@
     "TEXT_CHA_HU_6_22_NAME": [
         "portrait_jahard_default"
     ],
+    "TEXT_CHA_HU_4_24_NAME": [
+        "portrait_jet_default"
+    ],
+    "TEXT_CHA_HU_5_24_NAME": [
+        "portrait_jet_default"
+    ],
+    "TEXT_CHA_HU_6_24_NAME": [
+        "portrait_jet_default"
+    ],
     "TEXT_CHA_HU_4_25_NAME": [
         "portrait_carol_default"
     ],
@@ -1605,6 +1614,15 @@
     ],
     "TEXT_CHA_PA_6_25_NAME": [
         "portrait_caeneus_default"
+    ],
+    "TEXT_CHA_PA_4_26_NAME": [
+        "portrait_odin_default"
+    ],
+    "TEXT_CHA_PA_5_26_NAME": [
+        "portrait_odin_default"
+    ],
+    "TEXT_CHA_PA_6_26_NAME": [
+        "portrait_odin_default"
     ],
     "TEXT_CHA_PR_2_6_NAME": [
         "portrait_maria_default"
@@ -2043,6 +2061,15 @@
     ],
     "TEXT_CHA_WA_6_24_NAME": [
         "portrait_kassia_default"
+    ],
+    "TEXT_CHA_WA_4_26_NAME": [
+        "portrait_simhakgyu_default"
+    ],
+    "TEXT_CHA_WA_5_26_NAME": [
+        "portrait_simhakgyu_default"
+    ],
+    "TEXT_CHA_WA_6_26_NAME": [
+        "portrait_simhakgyu_default"
     ],
     "TEXT_CHA_WA_5_2_NAME": [
         "portrait_joanofarc_default"

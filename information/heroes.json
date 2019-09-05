@@ -4171,6 +4171,129 @@
         ]
     },
     {
+        "id": "malkah",
+        "readableId": "malkah",
+        "faction": "tribes_confederation",
+        "class": "archer",
+        "type": "contract",
+        "gender": "female",
+        "domain": "MINO",
+        "forms": [
+            {
+                "id": "CHA_AR_4_28",
+                "name": "TEXT_CHA_AR_4_28_NAME",
+                "image": "ar_4_28",
+                "star": 4,
+                "atk_power": 494,
+                "hp": 2774.2000000000003,
+                "crit_chance": 0.1,
+                "armor": 104.4875,
+                "resistance": 104.4875,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_4_28_DESC",
+                "block_image": "ui_skill_icon_archer_malkar_skill",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_MALKAR_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_MALKAR_NAME",
+                "block_description": "TEXT_SKILL_AR_MALKAR_DESC",
+                "passive_description": "TEXT_SKILL_AR_MALKAR_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_AR_5_28",
+                "name": "TEXT_CHA_AR_5_28_NAME",
+                "image": "ar_5_28",
+                "star": 5,
+                "atk_power": 810.5999999999999,
+                "hp": 4890.2,
+                "crit_chance": 0.1,
+                "armor": 171.325,
+                "resistance": 171.325,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_5_28_DESC",
+                "block_image": "ui_skill_icon_archer_malkar_skill",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_MALKAR_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_MALKAR_NAME",
+                "block_description": "TEXT_SKILL_AR_MALKAR_DESC",
+                "passive_description": "TEXT_SKILL_AR_MALKAR_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_AR_6_28",
+                "name": "TEXT_CHA_AR_6_28_NAME",
+                "image": "ar_6_28",
+                "star": 6,
+                "atk_power": 1197,
+                "hp": 7396.5,
+                "crit_chance": 0.1,
+                "armor": 261.5625,
+                "resistance": 261.5625,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_6_28_DESC",
+                "block_image": "ui_skill_icon_archer_malkar_skill",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_AR_MALKAR_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_MALKAR_NAME",
+                "block_description": "TEXT_SKILL_AR_MALKAR_DESC",
+                "passive_description": "TEXT_SKILL_AR_MALKAR_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 225,
+                    "hp": 1755,
+                    "crit_chance": 0.165,
+                    "armor": 120,
+                    "resistance": 120,
+                    "crit_dmg": 0.65,
+                    "accuracy": 0.22,
+                    "evasion": 0.13
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_BO_CHA_4_28",
+                "name": "TEXT_WEP_LEGEND_BO_CHA_4_28_NAME",
+                "image": "bo_s4_28",
+                "ability": "TEXT_WEP_LEGEND_BO_CHA_4_28_DESC",
+                "star": 4,
+                "atk_power": 67,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow"
+            },
+            {
+                "id": "WEP_LEGEND_BO_CHA_5_28",
+                "name": "TEXT_WEP_LEGEND_BO_CHA_5_28_NAME",
+                "image": "bo_s5_28",
+                "ability": "TEXT_WEP_LEGEND_BO_CHA_5_28_DESC",
+                "star": 5,
+                "atk_power": 117,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow"
+            },
+            {
+                "id": "WEP_LEGEND_BO_CHA_6_28",
+                "name": "TEXT_WEP_LEGEND_BO_CHA_6_28_NAME",
+                "image": "bo_s6_28",
+                "ability": "TEXT_WEP_LEGEND_BO_CHA_6_28_DESC",
+                "star": 6,
+                "atk_power": 217,
+                "atk_speed": 1.3,
+                "options": 1365,
+                "class": "bow"
+            }
+        ],
+        "portraits": [],
+        "skins": []
+    },
+    {
         "id": "hanzo",
         "readableId": "hanzo",
         "faction": "ryu",
@@ -9740,7 +9863,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_jet_default"
+        ],
         "skins": [
             {
                 "id": 153,
@@ -10020,6 +10145,129 @@
                 }
             }
         ]
+    },
+    {
+        "id": "cindy",
+        "readableId": "cindy",
+        "faction": "grancia_empire",
+        "class": "hunter",
+        "type": "contract",
+        "gender": "female",
+        "domain": "GRAN",
+        "forms": [
+            {
+                "id": "CHA_HU_4_28",
+                "name": "TEXT_CHA_HU_4_28_NAME",
+                "image": "hu_4_28",
+                "star": 4,
+                "atk_power": 595.4,
+                "hp": 3212.3,
+                "crit_chance": 0.1,
+                "armor": 160.7775,
+                "resistance": 32.643,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_4_28_DESC",
+                "block_image": "ui_skill_icon_hunter_cindy",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_HU_CINDY_SUBNAME",
+                "block_name": "TEXT_SKILL_HU_CINDY_NAME",
+                "block_description": "TEXT_SKILL_HU_CINDY_DESC",
+                "passive_description": "TEXT_SKILL_HU_CINDY_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_HU_5_28",
+                "name": "TEXT_CHA_HU_5_28_NAME",
+                "image": "hu_5_28",
+                "star": 5,
+                "atk_power": 919.8,
+                "hp": 4634,
+                "crit_chance": 0.1,
+                "armor": 232.225,
+                "resistance": 50.273999999999994,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_5_28_DESC",
+                "block_image": "ui_skill_icon_hunter_cindy",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_HU_CINDY_SUBNAME",
+                "block_name": "TEXT_SKILL_HU_CINDY_NAME",
+                "block_description": "TEXT_SKILL_HU_CINDY_DESC",
+                "passive_description": "TEXT_SKILL_HU_CINDY_LV2_SUBDESC",
+                "max_berries": null
+            },
+            {
+                "id": "CHA_HU_6_28",
+                "name": "TEXT_CHA_HU_6_28_NAME",
+                "image": "hu_6_28",
+                "star": 6,
+                "atk_power": 1358.25,
+                "hp": 6342,
+                "crit_chance": 0.1,
+                "armor": 322.88250000000005,
+                "resistance": 73.065,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_6_28_DESC",
+                "block_image": "ui_skill_icon_hunter_cindy",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_HU_CINDY_SUBNAME",
+                "block_name": "TEXT_SKILL_HU_CINDY_NAME",
+                "block_description": "TEXT_SKILL_HU_CINDY_DESC",
+                "passive_description": "TEXT_SKILL_HU_CINDY_LV3_SUBDESC",
+                "max_berries": {
+                    "atk_power": 254,
+                    "hp": 1590,
+                    "crit_chance": 0.18,
+                    "armor": 130,
+                    "resistance": 30,
+                    "crit_dmg": 0.7,
+                    "accuracy": 0.22,
+                    "evasion": 0.13
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_GU_CHA_4_28",
+                "name": "TEXT_WEP_LEGEND_GU_CHA_4_28_NAME",
+                "image": "gu_s4_28",
+                "ability": "TEXT_WEP_LEGEND_GU_CHA_4_28_DESC",
+                "star": 4,
+                "atk_power": 94,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "gun"
+            },
+            {
+                "id": "WEP_LEGEND_GU_CHA_5_28",
+                "name": "TEXT_WEP_LEGEND_GU_CHA_5_28_NAME",
+                "image": "gu_s5_28",
+                "ability": "TEXT_WEP_LEGEND_GU_CHA_5_28_DESC",
+                "star": 5,
+                "atk_power": 156,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "gun"
+            },
+            {
+                "id": "WEP_LEGEND_GU_CHA_6_28",
+                "name": "TEXT_WEP_LEGEND_GU_CHA_6_28_NAME",
+                "image": "gu_s6_28",
+                "ability": "TEXT_WEP_LEGEND_GU_CHA_6_28_DESC",
+                "star": 6,
+                "atk_power": 238,
+                "atk_speed": 0.9,
+                "options": 1365,
+                "class": "gun"
+            }
+        ],
+        "portraits": [],
+        "skins": []
     },
     {
         "id": "ag01-neo",
@@ -18285,7 +18533,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_odin_default"
+        ],
         "skins": [
             {
                 "id": 194,
@@ -30724,7 +30974,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_simhakgyu_default"
+        ],
         "skins": [
             {
                 "id": 264,

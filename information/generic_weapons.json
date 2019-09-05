@@ -210,6 +210,17 @@
         "class": "bow"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_4_28",
+        "name": "TEXT_WEP_LEGEND_BO_CHA_4_28_NAME",
+        "image": "bo_s4_28",
+        "ability": "TEXT_WEP_LEGEND_BO_CHA_4_28_DESC",
+        "star": 4,
+        "atk_power": 67,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "bow"
+    },
+    {
         "id": "WEP_LEGEND_BO_CHA_4_3",
         "name": "TEXT_WEP_BO_S4_3_NAME",
         "image": "bo_s4_03",
@@ -497,6 +508,17 @@
         "class": "bow"
     },
     {
+        "id": "WEP_LEGEND_BO_CHA_5_28",
+        "name": "TEXT_WEP_LEGEND_BO_CHA_5_28_NAME",
+        "image": "bo_s5_28",
+        "ability": "TEXT_WEP_LEGEND_BO_CHA_5_28_DESC",
+        "star": 5,
+        "atk_power": 117,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "bow"
+    },
+    {
         "id": "WEP_LEGEND_BO_CHA_5_3",
         "name": "TEXT_WEP_BO_S5_3_NAME",
         "image": "bo_s5_03",
@@ -779,6 +801,17 @@
         "ability": "TEXT_WEP_LEGEND_BO_CHA_6_26_DESC",
         "star": 6,
         "atk_power": 165,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "bow"
+    },
+    {
+        "id": "WEP_LEGEND_BO_CHA_6_28",
+        "name": "TEXT_WEP_LEGEND_BO_CHA_6_28_NAME",
+        "image": "bo_s6_28",
+        "ability": "TEXT_WEP_LEGEND_BO_CHA_6_28_DESC",
+        "star": 6,
+        "atk_power": 217,
         "atk_speed": 1.3,
         "options": 1365,
         "class": "bow"
@@ -1214,6 +1247,17 @@
         "class": "gun"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_4_28",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_4_28_NAME",
+        "image": "gu_s4_28",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_4_28_DESC",
+        "star": 4,
+        "atk_power": 94,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "gun"
+    },
+    {
         "id": "WEP_LEGEND_GU_CHA_4_3",
         "name": "TEXT_WEP_GU_S4_3_NAME",
         "image": "gu_s4_03",
@@ -1500,6 +1544,17 @@
         "class": "gun"
     },
     {
+        "id": "WEP_LEGEND_GU_CHA_5_28",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_5_28_NAME",
+        "image": "gu_s5_28",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_5_28_DESC",
+        "star": 5,
+        "atk_power": 156,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "gun"
+    },
+    {
         "id": "WEP_LEGEND_GU_CHA_5_3",
         "name": "TEXT_WEP_GU_S5_3_NAME",
         "image": "gu_s5_03",
@@ -1779,6 +1834,17 @@
         "name": "TEXT_WEP_LEGEND_HU_CHA_6_26_NAME",
         "image": "gu_s6_26",
         "ability": "TEXT_WEP_LEGEND_HU_CHA_6_26_DESC",
+        "star": 6,
+        "atk_power": 238,
+        "atk_speed": 0.9,
+        "options": 1365,
+        "class": "gun"
+    },
+    {
+        "id": "WEP_LEGEND_GU_CHA_6_28",
+        "name": "TEXT_WEP_LEGEND_GU_CHA_6_28_NAME",
+        "image": "gu_s6_28",
+        "ability": "TEXT_WEP_LEGEND_GU_CHA_6_28_DESC",
         "star": 6,
         "atk_power": 238,
         "atk_speed": 0.9,

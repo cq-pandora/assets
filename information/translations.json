@@ -90693,5 +90693,185 @@
         "text": "When No.9's block skill deals a critical hit, No.9 immediately uses 'Jamiel's Hunt' to deal physical damage equal to 2000% of her attack power and stun the enemy for 1 second. This attack always lands critically and ignores all enemy evasion as well as enemy effects that absorb damage in place of their allies.",
         "version": "4.18.0",
         "original": true
+    },
+    "TEXT_CHA_AR_4_28_DESC": {
+        "text": "A young girl of the Woopa Tribe. Childhood friends Malkah and Mamba had promised to get married when they grew up, and Malkah can't wait for that special day! But when the Primal Volcano erupts and threatens to consume the village, Mamba runs away and does not return. Malkah, hurt and angry that Mamba would abandon her, considers chasing after Mamba, but decides to stay and help her people.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_4_28_NAME": {
+        "text": "Malkah",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_28_DESC": {
+        "text": "Malkah fights against the chaos that has engulfed the village to help return peace and order to her people. Chief Woopa lauds her leadership and skills and appoints her as the new Warchief of the tribe. Malkah, now burdened with new responsibilities, remains in the village and waits, polishing her weapon. One day, Mamba will return... And that's when she will have her revenge.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_28_NAME": {
+        "text": "Warchief Malkah",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_28_DESC": {
+        "text": "Malkah grows up to become the best snake charmer in the Woopa Tribe. Having finally made peace with the fact that Mamba is never going to return, Malkah devotes her heart to the village... until Mamba returns with people from foreign lands. The bewildered Malkah, her heart beating furiously, attempts to greet Mamba, but her childhood sweetheart passes by without recognizing her. Malkah realizes that Mamba has forgotten her and their childhood promise, and she feels a new rage consuming her heart.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_28_NAME": {
+        "text": "Venomous Malkah",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_28_DESC": {
+        "text": "The only daughter of a nouveau riche family of Grancia Empire. The center of affection and the money to show it, Cindy becomes a spoiled and pampered child. The only person who can manage her tantrums and fits of rage is 'Jarvis,' Cindy's childhood friend-butler whom she grew up with. It is only through Jarvis's hard work and effort that Cindy manages to control her temper and grow up into a fine lady any noble family would be proud of.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_4_28_NAME": {
+        "text": "Cindy",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_28_DESC": {
+        "text": "One night at an autumn ball, Cindy's parents attempt to tell their daughter about marriage arrangements that will prove profitable to their family. Cindy, however, furiously declares that she wants to marry Jarvis instead. Cindy's parents, after much deliberation, chase the butler out of their mansion - only to start one of Cindy's famous tantrums. Moments later, she leaves the now disheveled mansion to search for her beloved Jarvis.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_5_28_NAME": {
+        "text": "Aggressive Cindy",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_28_DESC": {
+        "text": "Cindy encounters many dangers on the road, but nothing can stop her and her secret heavy firearm hidden in her parasol! The determined Cindy finally finds Jarvis, with whom she returns to her family mansion. Content that that Jarvis has returned by her side, Cindy resumes her facade of a quiet and well-behaved lady to attend balls and social gatherings once more. Cindy's parents, however, don't seem too happy - how can they ever accept a mere cat butler into the family?",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_28_NAME": {
+        "text": "Elegant Cindy",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_EVNET_CULTIVATE_CANCEL_NOTI": {
+        "text": "* The Harvest Rate Event count will not be restored.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_ORCHARD_EVENT_NOTI": {
+        "text": "Harvest Rate UP Event!",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_MALKAR_DESC": {
+        "text": "Malkah shoots a venomous arrow that deals @magical damage@ equal to [200/300/400/]% of attack power, according to the chain number used.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_MALKAR_LV2_SUBDESC": {
+        "text": "Enemies hit by 'Poison Arrow' receive @magical damage@ equal to 100% of Malkah's attack power per second for 3 seconds. (Maximum 3 stacks) 'Serpent Venom' renews its duration every time it is reused. Additionally, upon using another ally's 3-chain, Malkah immediately fires 'Snake Arrow,' which deals @magical damage@ equal to 500% of her attack power and applies the effects of 'Serpent Venom.'",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_MALKAR_LV3_SUBDESC": {
+        "text": "Enemies hit by 'Poison Arrow' receive @magical damage@ equal to 150% of Malkah's attack power per second for 3 seconds. (Maximum 3 stacks) 'Serpent Venom' renews its duration every time it is reused. Additionally, upon using another ally's 3-chain, Malkah immediately fires 'Snake Arrow,' which deals @magical damage@ equal to 1000% of her attack power and applies the effects of 'Serpent Venom.'",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_MALKAR_NAME": {
+        "text": "Poison Arrow",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_MALKAR_SUBNAME": {
+        "text": "Serpent Venom",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CINDY_DESC": {
+        "text": "Cindy shoots a bullet that deals #physical damage# equal to [200/250/300]% of attack power, according to the chain number used.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CINDY_LV2_SUBDESC": {
+        "text": "Upon using her block skill, Cindy increases her own critical chance and accuracy by 20% for 3 seconds.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CINDY_LV3_SUBDESC": {
+        "text": "Upon using her block skill, Cindy increases her own critical chance and accuracy by 20% for 3 seconds. Additionally, upon using another ally's 3-chain block skill, Cindy's next block skill is changed to 'Lady's Secret' which deals #physical damage# equal to 2000% of Cindy's attack power. 'Lady's Secret' ignores enemy effects that take damage in place of their allies.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CINDY_NAME": {
+        "text": "Parasol Gun",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_CINDY_SUBNAME": {
+        "text": "Noblesse Oblige",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_28_DESC": {
+        "text": "(Passive Enhanced) The damage dealt by 'Serpent Venom' is increased to 300% of Malkah's attack power per second. The cooltime and stack limit of the attack remain unchanged.\n(Passive Added) Upon using her Special Skill, Malkah generates her own and the leader ally's block. If Malkah is the leader, she generates only one of her own.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_28_NAME": {
+        "text": "Bow of the Hunter",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_28_DESC": {
+        "text": "(Passive Enhanced) The damage dealt by 'Serpent Venom' is increased to 300% of Malkah's attack power per second. The cooltime and stack limit of the attack remain unchanged.\n(Passive Added) Upon using her Special Skill, Malkah generates her own and the leader ally's block. If Malkah is the leader, she generates only one of her own.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_28_NAME": {
+        "text": "Bow of the Serpent",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_28_DESC": {
+        "text": "(Passive Enhanced) The damage dealt by 'Serpent Venom' is increased to 400% of Malkah's attack power per second. The cooltime and stack limit of the attack remain unchanged.\n(Passive Added) Every time she uses her Special Skill, Malkah generates her own and the leader ally's block. If Malkah is the leader, she generates only one of her own. Additionally, enemies under the effects of 'Serpent Venom' receive magical damage equal to 2000% of Malkah's attack power every time they receive a buff. (Cooltime: 1 second)\n(Passive Altered) Upon using another ally's 3-chain, Malkah immediately uses 'Fang of the Kukulkan.' 'Fang of the Kukulkan' deals magical damage equal to 2000% of Malkah's attack power, applies the effects of 'Serpent Venom,' and ignores enemy resistance by Malkah's resistance. 'Fang of the Kukulkan' also cancels all enemy buffs. (Cooltime: 3 seconds)",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_28_NAME": {
+        "text": "Quetzalcoatl",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_28_DESC": {
+        "text": "(Passive Enhanced) Upon using 'Noblesse Oblige,' Cindy increases her own critical chance and accuracy by 30%.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_4_28_NAME": {
+        "text": "Ordinary Parasol",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_28_DESC": {
+        "text": "(Passive Enhanced) Upon using 'Noblesse Oblige,' Cindy increases her own critical chance and accuracy by 30%.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_5_28_NAME": {
+        "text": "Luxurious Parasol",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_28_DESC": {
+        "text": "(Passive Enhanced) Upon using 'Noblesse Oblige,' Cindy increases her own critical chance and accuracy by 30%.\n(Passive Added) Upon using her block skill, Cindy charges forward and uses 'Voila~!' to deal physical damage equal to 3000% and stun the enemy for 1 second. (Cooltime: 3 seconds; Passive acknowledged as 3-chain) After using 'Voila~!,' Cindy becomes invincible to 1 hit.",
+        "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_GU_CHA_6_28_NAME": {
+        "text": "Antique Parasol",
+        "version": "4.18.0",
+        "original": true
     }
 }
