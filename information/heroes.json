@@ -794,13 +794,35 @@
         "skins": []
     },
     {
-        "id": "manager_of_the_eastern_kingdoms",
-        "readableId": "manager_of_the_eastern_kingdoms",
+        "id": "nosgardian_watchman",
+        "readableId": "nosgardian_watchman",
         "class": "archer",
         "type": "promotable",
-        "gender": "female",
+        "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_AR_1_13",
+                "name": "TEXT_CHA_AR_1_13_NAME",
+                "image": "ar_1_13",
+                "star": 1,
+                "atk_power": 27.419999999999998,
+                "hp": 390.67,
+                "crit_chance": 0.15,
+                "armor": 44.980000000000004,
+                "resistance": 44.980000000000004,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_1_13_DESC",
+                "block_image": "ui_skill_icon_archer_rocket_boom",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_AR_ROCKET_BOOM_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_AR_ROCKET_BOOM_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_AR_2_13",
                 "name": "TEXT_CHA_AR_2_13_NAME",
@@ -1022,13 +1044,35 @@
         "skins": []
     },
     {
-        "id": "flamey_ninja",
-        "readableId": "flamey_ninja",
+        "id": "nosgardian_lumberjack",
+        "readableId": "nosgardian_lumberjack",
         "class": "archer",
         "type": "promotable",
-        "gender": "female",
+        "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_AR_2_17",
+                "name": "TEXT_CHA_AR_2_17_NAME",
+                "image": "ar_2_17",
+                "star": 2,
+                "atk_power": 90.926,
+                "hp": 619.7950000000001,
+                "crit_chance": 0.2625,
+                "armor": 71.599,
+                "resistance": 71.599,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_2_17_DESC",
+                "block_image": "ui_skill_icon_archer_condemn2",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_AR_CONDEMN2_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_AR_CONDEMN2_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_AR_3_17",
                 "name": "TEXT_CHA_AR_3_17_NAME",
@@ -1083,6 +1127,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_AR_GENEVIE_NAME",
                 "block_description": "TEXT_SKILL_AR_GENEVIE_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "einherjar_archer",
+        "readableId": "einherjar_archer",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_AR_3_19",
+                "name": "TEXT_CHA_AR_3_19_NAME",
+                "image": "ar_3_19",
+                "star": 3,
+                "atk_power": 164.12399999999997,
+                "hp": 1053.1799999999998,
+                "crit_chance": 0.2625,
+                "armor": 102.036,
+                "resistance": 102.036,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_AR_3_19_DESC",
+                "block_image": "ui_skill_icon_archer_FROZEN_THORN",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_AR_FROZEN_THORN_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_AR_FROZEN_THORN_DESC_S2EP3",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -1277,10 +1356,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_sigruna_default",
-            "portrait_sigrunamax_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 27,
@@ -1480,9 +1556,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_demona_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 2,
@@ -1673,9 +1747,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_altair_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -1800,9 +1872,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_hongran_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -1927,9 +1997,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_chp_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -2054,9 +2122,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofmai_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -2181,9 +2247,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_gshighelfarcher_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -2306,9 +2370,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_gon_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 15,
@@ -2451,9 +2513,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_hikari_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 34,
@@ -2597,9 +2657,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_chunhyang_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 37,
@@ -2742,9 +2800,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_magnus_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 1,
@@ -2878,9 +2934,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_atlanta_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 4,
@@ -3023,9 +3077,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_lee_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 7,
@@ -3168,9 +3220,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_rahima_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 8,
@@ -3313,9 +3363,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_kaguya_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 12,
@@ -3457,9 +3505,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_chiron_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 14,
@@ -3601,9 +3647,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_set_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 18,
@@ -3736,9 +3780,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_genevie_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 19,
@@ -3889,9 +3931,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_arachne_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 22,
@@ -4413,9 +4453,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_hanzo_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 25,
@@ -4559,9 +4597,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_robin_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 28,
@@ -4705,9 +4741,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_r0_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 30,
@@ -4851,9 +4885,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_giparang_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 32,
@@ -4997,9 +5029,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_niven_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 36,
@@ -5142,9 +5172,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_mamba_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 6,
@@ -5297,9 +5325,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_viola_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 10,
@@ -5442,9 +5468,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_hanseung_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 17,
@@ -5577,9 +5601,7 @@
                 "class": "bow"
             }
         ],
-        "portraits": [
-            "portrait_panpan_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 21,
@@ -6409,13 +6431,35 @@
         "skins": []
     },
     {
-        "id": "manager_of_the_southwest_alliance",
-        "readableId": "manager_of_the_southwest_alliance",
+        "id": "legendary_hunter",
+        "readableId": "legendary_hunter",
         "class": "hunter",
         "type": "promotable",
-        "gender": "female",
+        "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_HU_1_13",
+                "name": "TEXT_CHA_HU_1_13_NAME",
+                "image": "hu_1_13",
+                "star": 1,
+                "atk_power": 42.03,
+                "hp": 263.27,
+                "crit_chance": 0.35,
+                "armor": 59.010000000000005,
+                "resistance": 14.030000000000001,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_1_13_DESC",
+                "block_image": "ui_skill_icon_hunter_kill_case",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_HU_KILL_CASE_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_HU_KILL_CASE_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_HU_2_13",
                 "name": "TEXT_CHA_HU_2_13_NAME",
@@ -6637,13 +6681,35 @@
         "skins": []
     },
     {
-        "id": "bounty_hunter",
-        "readableId": "bounty_hunter",
+        "id": "ice_fisher",
+        "readableId": "ice_fisher",
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_HU_2_17",
+                "name": "TEXT_CHA_HU_2_17_NAME",
+                "image": "hu_2_17",
+                "star": 2,
+                "atk_power": 84.095,
+                "hp": 459.899,
+                "crit_chance": 0.2,
+                "armor": 93.56600000000002,
+                "resistance": 21.967,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_2_17_DESC",
+                "block_image": "ui_skill_icon_hunter_raven",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_HU_RAVEN_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_HU_RAVEN_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_HU_3_17",
                 "name": "TEXT_CHA_HU_3_17_NAME",
@@ -6698,6 +6764,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_HU_LUICILLA_NAME",
                 "block_description": "TEXT_SKILL_HU_LUICILLA_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "poacher_boris",
+        "readableId": "poacher_boris",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_HU_3_19",
+                "name": "TEXT_CHA_HU_3_19_NAME",
+                "image": "hu_3_19",
+                "star": 3,
+                "atk_power": 196.15200000000002,
+                "hp": 843,
+                "crit_chance": 0.2,
+                "armor": 133.212,
+                "resistance": 31.176,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_HU_3_19_DESC",
+                "block_image": "ui_skill_icon_hunter_sniping",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_HU_NO9_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_HU_NO9_DESC_S2EP3",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -6892,10 +6993,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_dart_default",
-            "portrait_dartmax_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 63,
@@ -7115,9 +7213,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_teresa_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 47,
@@ -7348,9 +7444,7 @@
             }
         ],
         "sbws": [],
-        "portraits": [
-            "portrait_fishercat_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -7475,9 +7569,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_elp_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -7602,9 +7694,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofleona_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -7729,9 +7819,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ruby_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 171,
@@ -7877,9 +7965,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_nora_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 169,
@@ -8025,9 +8111,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_yshummel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 288,
@@ -8161,9 +8245,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_viper_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 159,
@@ -8306,9 +8388,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_no9_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 164,
@@ -8452,9 +8532,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_mandy_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 167,
@@ -8598,9 +8676,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_wilhelm_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 46,
@@ -8742,9 +8818,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_saiga_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 137,
@@ -8878,9 +8952,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_tia_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 138,
@@ -9023,9 +9095,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_dox_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 59,
@@ -9168,9 +9238,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_lorelei_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 60,
@@ -9314,9 +9382,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_raven_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 146,
@@ -9449,9 +9515,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_momotaro_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 62,
@@ -9593,9 +9657,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_athos_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 150,
@@ -9728,9 +9790,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_jahard_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 151,
@@ -9863,9 +9923,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_jet_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 153,
@@ -9998,9 +10056,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_carol_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 154,
@@ -10758,9 +10814,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_maxi_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 156,
@@ -10902,9 +10956,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_spyro_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 67,
@@ -11048,9 +11100,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_crow_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 161,
@@ -11193,9 +11243,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_vincent_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 163,
@@ -11329,9 +11377,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_sentinelr_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 166,
@@ -11465,9 +11511,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_spainy_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 140,
@@ -11619,9 +11663,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_scarlet_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 61,
@@ -11764,9 +11806,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_luicilla_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 65,
@@ -11908,9 +11948,7 @@
                 "class": "gun"
             }
         ],
-        "portraits": [
-            "portrait_bellerophon_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 66,
@@ -12727,13 +12765,35 @@
         "skins": []
     },
     {
-        "id": "order_of_the_goddess_knight-in-training",
-        "readableId": "order_of_the_goddess_knight-in-training",
+        "id": "castle_repairman",
+        "readableId": "castle_repairman",
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_PA_1_13",
+                "name": "TEXT_CHA_PA_1_13_NAME",
+                "image": "pa_1_13",
+                "star": 1,
+                "atk_power": 16.12,
+                "hp": 703.98,
+                "crit_chance": 0.175,
+                "armor": 14.030000000000001,
+                "resistance": 77.02,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_1_13_DESC",
+                "block_image": "ui_skill_icon_paladin_sunlight_attack",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PA_SUN_LIGHT_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_PA_SUN_LIGHT_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_PA_2_13",
                 "name": "TEXT_CHA_PA_2_13_NAME",
@@ -12955,13 +13015,35 @@
         "skins": []
     },
     {
-        "id": "entman",
-        "readableId": "entman",
+        "id": "neth_snow_removal_crew",
+        "readableId": "neth_snow_removal_crew",
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_PA_2_17",
+                "name": "TEXT_CHA_PA_2_17_NAME",
+                "image": "pa_2_17",
+                "star": 2,
+                "atk_power": 31.548000000000002,
+                "hp": 1004.883,
+                "crit_chance": 0.175,
+                "armor": 21.967,
+                "resistance": 122.122,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_2_17_DESC",
+                "block_image": "ui_skill_icon_paladin_heim_skill",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PA_HEIM_NAME _S2EP3",
+                "block_description": "TEXT_SKILL_PA_HEIM_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_PA_3_17",
                 "name": "TEXT_CHA_PA_3_17_NAME",
@@ -13016,6 +13098,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_PA_CHAIN_BINDING_NAME",
                 "block_description": "TEXT_SKILL_PA_CHAIN_BINDING_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "snow_mountain_climber",
+        "readableId": "snow_mountain_climber",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PA_3_19",
+                "name": "TEXT_CHA_PA_3_19_NAME",
+                "image": "pa_3_19",
+                "star": 3,
+                "atk_power": 90.82799999999999,
+                "hp": 1757.304,
+                "crit_chance": 0.1,
+                "armor": 31.176,
+                "resistance": 174.09599999999998,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PA_3_19_DESC",
+                "block_image": "ui_skill_icon_paladin_odin",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PA_ODIN_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_PA_ODIN_DESC_S2EP3",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -13210,9 +13327,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_kriemhild_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 198,
@@ -13422,9 +13537,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_rolland_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 69,
@@ -13663,9 +13776,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_rebecca_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -13790,9 +13901,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_jinkyung_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -13917,9 +14026,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_may_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -14044,9 +14151,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_sin_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -14171,9 +14276,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofbilly_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -14298,9 +14401,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofkim_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -14425,9 +14526,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_yang_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 206,
@@ -14573,9 +14672,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_gsswordmaiden_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -14700,9 +14797,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofterry_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -14827,9 +14922,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_pyrrha_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 204,
@@ -14975,9 +15068,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_rzrem_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 208,
@@ -15113,9 +15204,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ysricotta_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 291,
@@ -15260,9 +15349,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_yssahad_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 293,
@@ -15396,9 +15483,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_thor_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 185,
@@ -15542,9 +15627,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_alexander_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 75,
@@ -15697,9 +15780,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_achilles_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 196,
@@ -15833,9 +15914,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_drake_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 77,
@@ -15987,9 +16066,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_stanya_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 80,
@@ -16133,9 +16210,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_athena_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 71,
@@ -16279,9 +16354,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_captain_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 182,
@@ -16415,9 +16488,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_leiling_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 187,
@@ -16561,9 +16632,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_heim_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 191,
@@ -16697,9 +16766,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_vane_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 200,
@@ -16833,9 +16900,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_cain_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 79,
@@ -16979,9 +17044,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_mundeok_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 81,
@@ -17125,9 +17188,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_v_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 68,
@@ -17270,9 +17331,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_hector_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 70,
@@ -17416,9 +17475,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_siegfried_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 72,
@@ -17562,9 +17619,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_dullahan_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 181,
@@ -17698,9 +17753,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_wolfgang_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 73,
@@ -17844,9 +17897,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_fenrir_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 74,
@@ -17989,9 +18040,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_schla_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 189,
@@ -18125,9 +18174,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_maenggi_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 190,
@@ -18261,9 +18308,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_yuna_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 192,
@@ -18397,9 +18442,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_caeneus_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 193,
@@ -18533,9 +18576,7 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [
-            "portrait_odin_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 194,
@@ -19467,13 +19508,35 @@
         "skins": []
     },
     {
-        "id": "order_of_the_goddess_acolyte",
-        "readableId": "order_of_the_goddess_acolyte",
+        "id": "nosgardian_merchant",
+        "readableId": "nosgardian_merchant",
         "class": "priest",
         "type": "promotable",
-        "gender": "male",
+        "gender": "female",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_PR_1_13",
+                "name": "TEXT_CHA_PR_1_13_NAME",
+                "image": "pr_1_13",
+                "star": 1,
+                "atk_power": 23.43,
+                "hp": 435.78000000000003,
+                "crit_chance": 0.1,
+                "armor": 44.980000000000004,
+                "resistance": 44.980000000000004,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_1_13_DESC",
+                "block_image": "ui_skill_icon_priest_order_team",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PR_ORDER_TEAM_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_PR_ORDER_TEAM_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_PR_2_13",
                 "name": "TEXT_CHA_PR_2_13_NAME",
@@ -19695,13 +19758,35 @@
         "skins": []
     },
     {
-        "id": "bewitched_priest",
-        "readableId": "bewitched_priest",
+        "id": "ice_appraiser",
+        "readableId": "ice_appraiser",
         "class": "priest",
         "type": "promotable",
         "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_PR_2_17",
+                "name": "TEXT_CHA_PR_2_17_NAME",
+                "image": "pr_2_17",
+                "star": 2,
+                "atk_power": 42.790000000000006,
+                "hp": 636.5920000000001,
+                "crit_chance": 0.1,
+                "armor": 71.599,
+                "resistance": 90.2,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_2_17_DESC",
+                "block_image": "ui_skill_icon_priest_varnir",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PR_VARNIR_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_PR_VARNIR_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_PR_3_17",
                 "name": "TEXT_CHA_PR_3_17_NAME",
@@ -19756,6 +19841,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_PR_BARI_NAME",
                 "block_description": "TEXT_SKILL_PR_BARI_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "ancient_woopa_tribesman",
+        "readableId": "ancient_woopa_tribesman",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_PR_3_19",
+                "name": "TEXT_CHA_PR_3_19_NAME",
+                "image": "pr_3_19",
+                "star": 3,
+                "atk_power": 141.876,
+                "hp": 1362.312,
+                "crit_chance": 0.175,
+                "armor": 102.036,
+                "resistance": 102.036,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_PR_3_19_DESC",
+                "block_image": "ui_skill_icon_priest_tri_totem",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_PR_TRI_TOTEM_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_PR_TRI_TOTEM_DESC_S2EP3",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -19950,9 +20070,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_maria_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 94,
@@ -20162,9 +20280,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_melissa_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 82,
@@ -20398,9 +20514,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ino_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -20525,9 +20639,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofkensou_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -20652,9 +20764,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofatena_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -20779,9 +20889,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_gspristess_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -20906,9 +21014,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_gslizardman_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -21033,9 +21139,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_rzfelix_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 242,
@@ -21169,9 +21273,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_mew_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 90,
@@ -21325,9 +21427,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_yeowoodong_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 95,
@@ -21470,9 +21570,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_nurspy_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 234,
@@ -21616,9 +21714,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_woopa_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 96,
@@ -21761,9 +21857,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_stein_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 98,
@@ -21906,9 +22000,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_aria_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 87,
@@ -22050,9 +22142,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_seiren_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 89,
@@ -22195,9 +22285,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_seimei_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 92,
@@ -22340,9 +22428,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_varnir_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 226,
@@ -22610,9 +22696,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_nightingale_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 231,
@@ -22756,9 +22840,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_himiko_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 97,
@@ -22901,9 +22983,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_chai_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 240,
@@ -23046,9 +23126,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_dara_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 209,
@@ -23192,9 +23270,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_bea_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 84,
@@ -23347,9 +23423,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_orfeo_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 86,
@@ -23492,9 +23566,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_yuria_default_pdr"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 88,
@@ -23637,9 +23709,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_faust_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 216,
@@ -23772,9 +23842,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_noel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 218,
@@ -23908,9 +23976,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_bari_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 219,
@@ -24054,9 +24120,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_marpei_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 223,
@@ -24200,9 +24264,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_cronet_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 225,
@@ -24336,9 +24398,7 @@
                 "class": "orb"
             }
         ],
-        "portraits": [
-            "portrait_ricky_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 227,
@@ -25423,13 +25483,35 @@
         "skins": []
     },
     {
-        "id": "manager_of_the_minor_tribes'_confederation",
-        "readableId": "manager_of_the_minor_tribes'_confederation",
+        "id": "snorri_edda_soldier",
+        "readableId": "snorri_edda_soldier",
         "class": "warrior",
         "type": "promotable",
-        "gender": "female",
+        "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_WA_1_13",
+                "name": "TEXT_CHA_WA_1_13_NAME",
+                "image": "wa_1_13",
+                "star": 1,
+                "atk_power": 20.82,
+                "hp": 548.04,
+                "crit_chance": 0.175,
+                "armor": 77.02,
+                "resistance": 14.030000000000001,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_1_13_DESC",
+                "block_image": "ui_skill_icon_warrior_WILD_NATURE",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WA_WILD_NATURE_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_WA_WILD_NATURE_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_WA_2_13",
                 "name": "TEXT_CHA_WA_2_13_NAME",
@@ -25651,13 +25733,35 @@
         "skins": []
     },
     {
-        "id": "ratman_enthusiast",
-        "readableId": "ratman_enthusiast",
+        "id": "lost_soldier",
+        "readableId": "lost_soldier",
         "class": "warrior",
         "type": "promotable",
-        "gender": "female",
+        "gender": "male",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_WA_2_17",
+                "name": "TEXT_CHA_WA_2_17_NAME",
+                "image": "wa_2_17",
+                "star": 2,
+                "atk_power": 38.400999999999996,
+                "hp": 683.133,
+                "crit_chance": 0.1,
+                "armor": 122.122,
+                "resistance": 21.967,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_2_17_DESC",
+                "block_image": "ui_skill_icon_warrior_randgrid",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WA_RANDGRID_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_WA_RANDGRID_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_WA_3_17",
                 "name": "TEXT_CHA_WA_3_17_NAME",
@@ -25712,6 +25816,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WA_ISIS_NAME",
                 "block_description": "TEXT_SKILL_WA_ISIS_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "ancient_snowman",
+        "readableId": "ancient_snowman",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WA_3_19",
+                "name": "TEXT_CHA_WA_3_19_NAME",
+                "image": "wa_3_19",
+                "star": 3,
+                "atk_power": 131.052,
+                "hp": 1269.624,
+                "crit_chance": 0.1,
+                "armor": 174.09599999999998,
+                "resistance": 31.176,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WA_3_19_DESC",
+                "block_image": "ui_skill_icon_warrior_roskva",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WA_ROSKVA_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_WA_ROSKVA_DESC_S2EP3",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -25906,10 +26045,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_leon_default_pdr",
-            "portrait_leonmax_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 108,
@@ -26129,9 +26265,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_rochefort_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 101,
@@ -26187,9 +26321,7 @@
             }
         ],
         "sbws": [],
-        "portraits": [
-            "portrait_tsukinokurenai_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -26314,9 +26446,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_sol_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -26441,9 +26571,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_mll_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -26568,9 +26696,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofkyo_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -26695,9 +26821,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofchris_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -26822,9 +26946,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_weiss_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 279,
@@ -27005,9 +27127,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ggbaiken_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -27132,9 +27252,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kyk_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -27259,9 +27377,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_jhn_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -27386,9 +27502,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_gsgoblinslayer_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -27513,9 +27627,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_gsspearman_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -27640,9 +27752,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofiory_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -27767,9 +27877,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofomegarugal_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -27894,9 +28002,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_blake_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 277,
@@ -27952,9 +28058,7 @@
             }
         ],
         "sbws": [],
-        "portraits": [
-            "portrait_rzsubaru_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -28079,9 +28183,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_rzcrusch_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 281,
@@ -28217,9 +28319,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_twilly_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -28344,9 +28444,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ysadol_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 282,
@@ -28501,9 +28599,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ysdana_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 285,
@@ -28658,9 +28754,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_yslaxia_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 289,
@@ -28948,9 +29042,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_vivian_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 114,
@@ -29102,9 +29194,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_abel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 117,
@@ -29248,9 +29338,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_sworden_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 276,
@@ -29384,9 +29472,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_isabel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 243,
@@ -29530,9 +29616,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_koxinga_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 102,
@@ -29675,9 +29759,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_victoria_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 247,
@@ -29820,9 +29902,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_arita_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 104,
@@ -29974,9 +30054,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_sien_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 251,
@@ -30109,9 +30187,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_bihyeongrang_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 106,
@@ -30255,9 +30331,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_shasha_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 107,
@@ -30399,9 +30473,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_isis_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 110,
@@ -30544,9 +30616,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_izuna_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 259,
@@ -30688,9 +30758,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_kassia_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 111,
@@ -30974,9 +31042,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_simhakgyu_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 264,
@@ -31232,9 +31298,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_joanofarc_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 113,
@@ -31388,9 +31452,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_susanoo_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 268,
@@ -31533,9 +31595,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_monte_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 116,
@@ -31679,9 +31739,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_kaori_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 272,
@@ -31825,9 +31883,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_uzimant_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 118,
@@ -31970,9 +32026,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_lionel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 103,
@@ -32115,9 +32169,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_borgos_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 252,
@@ -32251,9 +32303,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_harpya_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 109,
@@ -32395,9 +32445,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_randgrid_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 261,
@@ -32530,9 +32578,7 @@
                 "class": "sword"
             }
         ],
-        "portraits": [
-            "portrait_roskva_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 265,
@@ -33441,13 +33487,35 @@
         "skins": []
     },
     {
-        "id": "librarian_of_the_order",
-        "readableId": "librarian_of_the_order",
+        "id": "little_girl",
+        "readableId": "little_girl",
         "class": "wizard",
         "type": "promotable",
-        "gender": "male",
+        "gender": "female",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_WI_1_13",
+                "name": "TEXT_CHA_WI_1_13_NAME",
+                "image": "wi_1_13",
+                "star": 1,
+                "atk_power": 50.980000000000004,
+                "hp": 233.26,
+                "crit_chance": 0.2,
+                "armor": 14.030000000000001,
+                "resistance": 59.010000000000005,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_1_13_DESC",
+                "block_image": "ui_skill_icon_wizard_lacies",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WI_LACIES_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_WI_LACIES_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_WI_2_13",
                 "name": "TEXT_CHA_WI_2_13_NAME",
@@ -33669,13 +33737,35 @@
         "skins": []
     },
     {
-        "id": "bewitched_magician",
-        "readableId": "bewitched_magician",
+        "id": "snorri_edda_resident",
+        "readableId": "snorri_edda_resident",
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
         "domain": null,
         "forms": [
+            {
+                "id": "CHA_WI_2_17",
+                "name": "TEXT_CHA_WI_2_17_NAME",
+                "image": "wi_2_17",
+                "star": 2,
+                "atk_power": 91.058,
+                "hp": 525.965,
+                "crit_chance": 0.2,
+                "armor": 21.967,
+                "resistance": 93.56600000000002,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_2_17_DESC",
+                "block_image": "ui_skill_icon_wizard_blizzard",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WI_BLIZZARD_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_WI_BLIZZARD_DESC_S2EP3",
+                "passive_description": null,
+                "max_berries": null
+            },
             {
                 "id": "CHA_WI_3_17",
                 "name": "TEXT_CHA_WI_3_17_NAME",
@@ -33730,6 +33820,41 @@
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WI_METEOR2_NAME",
                 "block_description": "TEXT_SKILL_WI_METEOR2_DESC",
+                "passive_description": null,
+                "max_berries": null
+            }
+        ],
+        "sbws": [],
+        "portraits": [],
+        "skins": []
+    },
+    {
+        "id": "ines",
+        "readableId": "ines",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_WI_3_19",
+                "name": "TEXT_CHA_WI_3_19_NAME",
+                "image": "wi_3_19",
+                "star": 3,
+                "atk_power": 223.272,
+                "hp": 747.264,
+                "crit_chance": 0.35,
+                "armor": 31.176,
+                "resistance": 133.212,
+                "crit_dmg": 0.5,
+                "accuracy": 0,
+                "evasion": 0,
+                "lore": "TEXT_CHA_WI_3_19_DESC",
+                "block_image": "ui_skill_icon_wizard_wolfram",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_WI_WOLFRAM_NAME_S2EP3",
+                "block_description": "TEXT_SKILL_WI_WOLFRAM_DESC_S2EP3",
                 "passive_description": null,
                 "max_berries": null
             }
@@ -33924,10 +34049,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_doro_default",
-            "portrait_doromax_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 320,
@@ -34136,9 +34258,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_kano_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 120,
@@ -34350,9 +34470,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ram_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -34477,9 +34595,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_jko_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -34604,9 +34720,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofchizuru_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -34731,9 +34845,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_kofshermie_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -35014,9 +35126,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_ggdizzy_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -35141,9 +35251,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_gsdwarf_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -35268,9 +35376,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_rzram_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 327,
@@ -35406,9 +35512,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_rzemilia_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 328,
@@ -35544,9 +35648,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_rzbeatrice_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -35671,9 +35773,7 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [
-            "portrait_anna_default"
-        ],
+        "portraits": [],
         "skins": []
     },
     {
@@ -35796,9 +35896,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_archon_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 310,
@@ -35941,9 +36039,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_hyang_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 127,
@@ -36087,9 +36183,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_sasquatch_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 129,
@@ -36232,9 +36326,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_rachel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 132,
@@ -36387,9 +36479,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_nazrune_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 134,
@@ -36532,9 +36622,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_benjamin_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 300,
@@ -36677,9 +36765,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_violet_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 304,
@@ -36822,9 +36908,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_haedal_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 126,
@@ -36966,9 +37050,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_hansangja_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 315,
@@ -37101,9 +37183,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_lilith_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 130,
@@ -37256,9 +37336,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_alice_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 133,
@@ -37401,9 +37479,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_mondrian_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 294,
@@ -37537,9 +37613,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_necron_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 119,
@@ -37682,9 +37756,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_demeter_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 122,
@@ -37828,9 +37900,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_uriel_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 298,
@@ -37973,9 +38043,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_lupeow_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 123,
@@ -38118,9 +38186,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_vesper_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 124,
@@ -38263,9 +38329,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_yichui_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 306,
@@ -38417,9 +38481,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_wolfram_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 125,
@@ -38561,9 +38623,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_osiris_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 313,
@@ -38696,9 +38756,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_loki_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 314,
@@ -38831,9 +38889,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_lacies_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 316,
@@ -38966,9 +39022,7 @@
                 "class": "staff"
             }
         ],
-        "portraits": [
-            "portrait_grimreaper_default"
-        ],
+        "portraits": [],
         "skins": [
             {
                 "id": 317,

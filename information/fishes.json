@@ -1991,5 +1991,39 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_CATBOX_T2",
+        "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T2_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "eventbox",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "ui_item_box_fishing_04",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T2",
+                "amount": 1
+            }
+        ]
     }
 ]

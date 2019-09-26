@@ -3015,8 +3015,8 @@
         "original": true
     },
     "TEXT_CANNOT_PURCHASE_LIMIT": {
-        "text": "You've reached the maximum purchase number. You are only able to purchase {0} times per account.",
-        "version": "4.7.0",
+        "text": "You have reached the maximum limit for purchases of this item.",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_CANNOT_PURCHASE_MONTH": {
@@ -3495,8 +3495,8 @@
         "original": true
     },
     "TEXT_CHAMPION_PACK_TYPE_1_NAME": {
-        "text": "Able to choose an unlocked hero",
-        "version": "4.7.0",
+        "text": "Champion Unlock Hero Ticket",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_CHAMPION_PUMP_DOMAIN_SUPPLY_REWARD_MAIL_DESC": {
@@ -4925,8 +4925,8 @@
         "original": true
     },
     "TEXT_CHAT_INFO_INTO_CHANNEL": {
-        "text": "Entered chatting channel {0}.",
-        "version": "4.7.0",
+        "text": "You have entered Channel {0}.",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_CHAT_INPUT_CHANNEL": {
@@ -4935,8 +4935,8 @@
         "original": true
     },
     "TEXT_CHAT_INPUT_CHATTING": {
-        "text": "Enter chat message",
-        "version": "4.7.0",
+        "text": "Type message (max 40 characters)",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_CHAT_INPUT_WHISPER": {
@@ -17270,8 +17270,8 @@
         "original": true
     },
     "TEXT_ERROR_FRIEND_ALREADY_EXISTS_DESC": {
-        "text": "The user is already registered as your friend.",
-        "version": "4.7.0",
+        "text": "This user is already your friend.",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_ERROR_FRIEND_ALREADY_EXISTS_TITLE": {
@@ -38735,8 +38735,8 @@
         "original": true
     },
     "TEXT_SHOP_ITEM_JEWEL_18_SALE_DESC": {
-        "text": "Once per account",
-        "version": "4.7.0",
+        "text": "9 Jewels + 9 Jewels\nOne Purchase per Account",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_SHOP_ITEM_JEWEL_21": {
@@ -38840,8 +38840,8 @@
         "original": true
     },
     "TEXT_SHOP_ITEM_MONTHLY": {
-        "text": "Jewel Mine (30 days)",
-        "version": "4.7.0",
+        "text": "30 Day Jewel Package",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_SHOP_ITEM_MONTHLY_2": {
@@ -58195,8 +58195,8 @@
         "original": true
     },
     "TEXT_CHAMPION_PACK_TYPE_1_AMOUNT": {
-        "text": "Able to choose a 6-star unlocked hero",
-        "version": "4.7.0",
+        "text": "You can recruit a ★6 Hero required to unlock a Champion of your choice.\nEastern Kingdom - Ryu: ★6 Shogun Susanoo\nPumpkin City: ★6 Succubus Queen Rachel\nGrancia Empire: ★6 Emperor Alexander\nHeroes of Freedom: ★6 Evil Spirit Crow\nNeth Empire: ★6 Cyborg Spiny\nEastern Kingdom - Han: ★6 Giparang of Full Moon\nSouthwestern Alliance: ★6 Cowgirl Maxi\nRoman Republic: ★6 War God Achilles\nOrder of the Goddess: ★6 Magical Dollmaker Violet\nNosgard: ★6 Thor of Severe Cold\nMinor Tribes' Confederation: ★6 Woomparoom Woopa\nEastern Kingdom - Chen: ★6 Hansung of the Five Tiger Generals",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_CHAMPION_PUMP_DOMAIN_SUPPLY_REWARD_GO_TO_MAIL": {
@@ -64190,8 +64190,8 @@
         "original": true
     },
     "TEXT_GACHA_CHA_ADVERTISEMENT_DESC": {
-        "text": "★1~5 Heroes\n\nOnce a day",
-        "version": "4.15.4",
+        "text": "★1~5 Heroes\nOnce a day",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_GACHA_CHA_AR_DESC": {
@@ -64460,8 +64460,8 @@
         "original": true
     },
     "TEXT_GACHA_WEP_FOR_PAYING_DESC": {
-        "text": "★4~6 Weapons\n\nChance to obtain Weapon Option Ticket",
-        "version": "4.15.4",
+        "text": "★4~6 Weapons\nChance to obtain Weapon Option Ticket",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_GACHA_WEP_FOR_PAYING_EVENT_NAME": {
@@ -65220,8 +65220,8 @@
         "original": true
     },
     "TEXT_HELP_10204_MAIN_DESC": {
-        "text": "1. You can cancel your purchase within 7 days of purchase if you have not used the product. Please note that there is a chance you will lose your purchase information if you do not sync your account data. \n2. Purchase a variety of game goods, including Package Items, Jewels, Gold, Game Items, and Hero Skins!\n3. You will receive Bridget Points in proportion to the price of your in-app purchase.\n4. Bridget Points can be spent in the 'Point' tab of the Shop.",
-        "version": "4.7.0",
+        "text": "1. Purchase info may be lost if you do not sync your account data. You may be able to cancel your purchase within 7 days of purchase only if you have not used the product.\n2. Purchase a variety of game goods, including Package Items, Jewels, Gold, Game Items, and Hero Skins!\n3. You will receive Bridget Points in proportion to the price of your in-app purchase.\n4. Bridget Points can be spent in the 'Point' tab of the Shop.\n5. You can view 10 ads every day to sign Promotion Contracts.",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_HELP_10205_MAIN": {
@@ -65230,8 +65230,8 @@
         "original": true
     },
     "TEXT_HELP_10205_MAIN_DESC": {
-        "text": "1. You can use Jewels to recruit Heroes or acquire Weapons.\n2. Different Contracts will recruit different types of Heroes.\n3. Support Hero Contracts can be purchased with Honor twice a week.\n4. If you recruit duplicate 4-Star and above Heroes through 10 Consecutive Gold, Special, or Event Contracts, you will receive as many Books of Inheritance as the number of duplicate Heroes recruited.\n5. You can watch an ad once a day to purchase 10 Consecutive Promote Hero Contracts. Recruiting duplicate 4-Star and above Heroes will award you as many Bread.",
-        "version": "4.15.4",
+        "text": "1. You can use Jewels to recruit Heroes or acquire Weapons.\n2. Different Contracts will recruit different types of Heroes.\n3. Support Hero Contracts can be purchased with Honor twice a week.\n4. If you recruit duplicate 4-Star and above Heroes through 10 Consecutive Gold, Special, or Event Contracts, you will receive as many Books of Inheritance as the number of duplicate Heroes recruited.",
+        "version": "4.19.0",
         "original": true
     },
     "TEXT_HELP_10206_MAIN": {
@@ -90872,6 +90872,2746 @@
     "TEXT_WEP_LEGEND_GU_CHA_6_28_NAME": {
         "text": "Antique Parasol",
         "version": "4.18.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_01_TITLE": {
+        "text": "Did you have fun on your autumn picnic?",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_02_TITLE": {
+        "text": "Shall we... go see the fall foliage together?",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_03_TITLE": {
+        "text": "Enjoy the autumn colors together with a friend!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_04_TITLE": {
+        "text": "Let's go  on a fall picnic with the Goddesses!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_05_TITLE": {
+        "text": "Eat first, play later!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_06_TITLE": {
+        "text": "The fall foliage seems almost magical~",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_07_TITLE": {
+        "text": "They're as GREAT as the flames of my furnace!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_201910_LIMIT_QUEST_MAPLE_08_TITLE": {
+        "text": "Everyone's enjoying the autumn picnic!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_AD_BOX": {
+        "text": "Weapons",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_AD_HERO": {
+        "text": "Heroes",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_ATTAINMENT_LEVEL": {
+        "text": "Achieve Account Level {0}",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BEGINNER_PACK_DESC2": {
+        "text": "A special package for Captains who have just started out on their adventure in Hasla!\nPurchase to receive a Promotion Hero Ticket and 9 Jewels.\nThis package can be purchased once a month. The purchase limit is reset on the first of every month.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BOOK_PACK_DESC2": {
+        "text": "The quickest way to Inheritance!\nPurchase to immediately receive 55 Jewels and 3 Books of Inheritance.\nThis package can be purchased up to 3 times a month. The purchase limit is reset on the first of every month.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BREAD_MILITARY_01_NAME": {
+        "text": "Military Hardtack",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BREAD_MILITARY_02_NAME": {
+        "text": "Military Hamburger",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BREAD_MILITARY_03_NAME": {
+        "text": "Military Choco-Pie",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BREAD_MILITARY_04_NAME": {
+        "text": "Military Canned Goods",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_BUFF_GODDESS_SET_10_DESC": {
+        "text": "A bundle of 3 types of Goddess Elixirs (10 ea)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_BUFF_GODDESS_SET_10_NAME": {
+        "text": "Goddess Elixir Bundle",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_BUFF_GODDESS_SET_5_DESC": {
+        "text": "A bundle of 3 types of Goddess Elixirs (5 ea)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_BUFF_GODDESS_SET_5_NAME": {
+        "text": "Mini Goddess Elixir Bundle",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_BUFF_SET_DESC": {
+        "text": "A bundle of 5 types of Fruit Milk (5 ea)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_BUFF_SET_NAME": {
+        "text": "Buff Milk Bundle",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_MILITARY_HELP": {
+        "text": "Supplies containing field rations that are usually consumed in the military.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_MILITARY_MESSAGE": {
+        "text": "Your Armed Forces Day supplies have arrived!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_MILITARY_NAME": {
+        "text": "Field Rations",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_BUY_PACKAGE": {
+        "text": "Buy Package",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CATEGORY_AD": {
+        "text": "AD",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGERAID_PACK_DESC2": {
+        "text": "Purchase to immediately receive 3 Jewels and a chest containing a rare Sigil!\nThis package can be purchased up to 4 times a month. The purchase limit is reset on the first of every month.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP3_CH1_EXIT": {
+        "text": "Exit Peak",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP3_CH2_EXIT": {
+        "text": "Exit Camp",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP3_CH3_EXIT": {
+        "text": "Escape the Poles",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP3_DESC": {
+        "text": "The storm has calmed, but more deadly mirages now engulf the lands of the north.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_EP3_TITLE": {
+        "text": "Mirage in the Snow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_ELDER_2": {
+        "text": "An Old Grave",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_ELDER_3": {
+        "text": "The Kalard of Deception",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_ELDER_5": {
+        "text": "Behind the Veil",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_MOUNTAIN_2": {
+        "text": "The Call of Winter",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_MOUNTAIN_3": {
+        "text": "The Ageless Snow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_MOUNTAIN_5": {
+        "text": "The Advancing Avalanche",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_SNORI_2": {
+        "text": "Forest of Ravens",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_SNORI_4": {
+        "text": "Stony Randgrid",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHALLENGE_NOS_SNORI_5": {
+        "text": "The Guiding One",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHAMPION_PACK_DESC2": {
+        "text": "Your best choice for recruiting new Champions!\nPurchase to receive Gold and a ★6 Champion Unlock Hero Ticket to recruit a Champion of your choice!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHAT_CHANNEL_INPUT_GUIDE": {
+        "text": "Touch here to change the channel.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHAT_INFO_NEW": {
+        "text": "You have a new message.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHAT_USER_BLOCK_COOLTIME": {
+        "text": "Blocked",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHAT_USER_BLOCK_DESC": {
+        "text": "By doing this, you will no longer see or receive this user's chats and whispers. Continue to block this user?\n(Blocked users will be unblocked after restarting the game.)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHAT_USER_BLOCK_NAME": {
+        "text": "Block Chat",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHAT_WHISPER_INPUT_GUIDE": {
+        "text": "Type in the user to send a whisper to.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_1_13_DESC": {
+        "text": "The Watchman works day and night for the peace and safety of Nosgard. Even on the coldest nights, he volunteers for three shifts so that he can keep monsters from invading his home.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_1_13_NAME": {
+        "text": "Nosgardian Watchman",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_2_17_DESC": {
+        "text": "It's taken some time, but this lumberjack has grown used to surviving in the harsh environment of Nosgard. It seems he has grown better with his bow than his axe in the process.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_2_17_NAME": {
+        "text": "Nosgardian Lumberjack",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_3_19_DESC": {
+        "text": "This soldier is considered the black sheep of the Einherjar, who deem strength and honor above all else and think range weapons rather cowardly. She still received a prestigious award from Freyja for inventing the ballista.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_3_19_NAME": {
+        "text": "Einherjar Archer",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_1_13_DESC": {
+        "text": "If you see a hunter wearing a Deerdog hat in the forests of Nosgard, you know that you have met the Legendary Hunter... Or that's how he introduces himself, anyway. The hunter boasts about his Deerdog hat to everyone he meets, claiming that it is made out of the fabled Deerdog that he caught, but no one has ever seen him actually hunting. There are rumors that the Deerdog hat is a mere replica.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_1_13_NAME": {
+        "text": "Legendary Hunter",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_2_17_DESC": {
+        "text": "An expert of ice fishing. He's looking for undiscovered species under the frozen lakes.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_2_17_NAME": {
+        "text": "Ice Fisher",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_3_19_DESC": {
+        "text": "A poacher who hunts in the forests of Nosgard. He was captured for stealing a gun from the workshop of a certain Frost Elf and indulging in ruthless hunting sprees.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_3_19_NAME": {
+        "text": "Poacher Boris",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_1_13_DESC": {
+        "text": "If there's a castle wall to fix, the Castle Repairman is your man! Widely admired for his skills, he emits an aura of a proper artisan when he holds up his hammer.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_1_13_NAME": {
+        "text": "Castle Repairman",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_2_17_DESC": {
+        "text": "A specialist of snow removal specially stationed by the Neth Army for a \"top-secret mission.\" Ever since he experienced a terrible blizzard of the northern lands, however, he becomes hysterical whenever the clouds start to darken.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_2_17_NAME": {
+        "text": "Neth Snow Removal Crew",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_3_19_DESC": {
+        "text": "It is the Snow Mountain Climber's ambition to climb the snowy peaks of Nosgard, infamous as they are among mountaineers. She hasn't succeeded in conquering a single peak as of yet, but she'll get there someday!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_3_19_NAME": {
+        "text": "Snow Mountain Climber",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_1_13_DESC": {
+        "text": "A merchant of Nosgard who can be easily spotted for her thick fur coat. She needs to keep warmer than most other Nosgardians as she sells ice crystals, the local product of her homeland. To trade her wares the Nosgardian Merchant often travels to the very hot regions of Hasla, where ice crystals are a luxury and cost a fortune.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_1_13_NAME": {
+        "text": "Nosgardian Merchant",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_2_17_DESC": {
+        "text": "The most skilled ice appraisers of Nosgard can determine the value and hardness of ice at a single glance, and the Ice Appraiser is one of the very best. He usually works with ice crystals from the northern lands, but will survey ordinary jewels when he has the time.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_2_17_NAME": {
+        "text": "Ice Appraiser",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_3_19_DESC": {
+        "text": "The Woopa tribesman awoke from his long slumber from within a solitary iceberg. No one, including himself, knows how or why he got there. You do not understand anything he says, but his hands enclasped in yours are warm and friendly.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_3_19_NAME": {
+        "text": "Ancient Woopa Tribesman",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_1_13_DESC": {
+        "text": "A soldier of Snorri Edda, the capital of Nosgard. Armed with the belief that only strong bodies can contain strong minds, these soldiers put themselves through rigorous training day and night, becoming resistant to the cold of the northern lands.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_1_13_NAME": {
+        "text": "Snorri Edda Soldier",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_2_17_DESC": {
+        "text": "This directionally challenged soldier left his troop and lost his way during a round of outdoor training. He's cold and alone, but the greatest problem is that he still has not realized the fact that he is lost.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_2_17_NAME": {
+        "text": "Lost Soldier",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_3_19_DESC": {
+        "text": "Who knew that snowmen could look so rugged, weary, and lonesome? His wool-padded military jacket adds to the effect. Unlike the other creatures and beings of snow, the Ancient Snowman seems too tired even to start moving.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_3_19_NAME": {
+        "text": "Ancient Snowman",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_1_13_DESC": {
+        "text": "All this little girl ever wanted in life was to grow just a little taller. She spends up every night praying that she will loom over everyone else one day.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_1_13_NAME": {
+        "text": "Little Girl",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_2_17_DESC": {
+        "text": "A resident of Snorri Edda, the capital of Nosgard. She moved to Nosgard from a hot region of the continent, but is now considering moving away again to escape the ravaging cold.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_2_17_NAME": {
+        "text": "Snorri Edda Resident",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_3_19_DESC": {
+        "text": "The girl, awakened from her dreams, searches for her father, but no kind voice answers her. Teardrops freeze on her cheek, with no gentle hand to wipe them away...",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_3_19_NAME": {
+        "text": "Ines",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMING_SOON": {
+        "text": "Coming Soon",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ACCURACY_RATE_STONE_3_OPTION_DESC": {
+        "text": "Accuracy +2.5%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ALICIA_STONE_1_DESC": {
+        "text": "An emblem symbolizing the alliance between the Frost Elves and the Wolf Tribe. Or so it was meant to be.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ALICIA_STONE_1_TITLE": {
+        "text": "Token of Engagement",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ALICIA_STONE_2_DESC": {
+        "text": "An arrowhead of Frost Elvish craftsmanship found lodged in Alisha's heart. Even after all this time, the deep hostility of its owner still lingers.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ALICIA_STONE_2_TITLE": {
+        "text": "Frozen Arrowhead",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ALICIA_STONE_3_DESC": {
+        "text": "A rusty locket crafted in the shape of a heart. It does not appear too valuable. Inside are engraved the letters \"U & A\".",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ALICIA_STONE_3_TITLE": {
+        "text": "Old Locket",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_ATK_POWER_STONE_3_OPTION_DESC": {
+        "text": "Attack Power +300",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_CRIT_DODGE_RATE_STONE_3_OPTION_DESC": {
+        "text": "Critical Resistance +3%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_CRIT_RATE_STONE_3_OPTION_DESC": {
+        "text": "Critical Chance +3%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_DEF_STONE_3_OPTION_DESC": {
+        "text": "Armor +300",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_DODGE_RATE_STONE_3_OPTION_DESC": {
+        "text": "Evasion +2.5%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_GULLVEIG_STONE_1_DESC": {
+        "text": "A piece of Gullveig's brilliant golden armor. Yet when you touch it, it turns an ugly purple.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_GULLVEIG_STONE_1_TITLE": {
+        "text": "Fragment of Deceit",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_MAX_HP_STONE_3_OPTION_DESC": {
+        "text": "Maximum HP +12000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_PENETRATE_DEF_STONE_3_OPTION_DESC": {
+        "text": "Armor Penetration +300",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_PENETRATE_RST_STONE_3_OPTION_DESC": {
+        "text": "Resistance Penetration +300",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RAVENASSASSIN_STONE_1_DESC": {
+        "text": "Huginn's feather that was found in the boiler room of the training grounds. The very sight of it erases all thoughts of loafing around.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RAVENASSASSIN_STONE_1_TITLE": {
+        "text": "Huginn's Feather",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RAVENASSASSIN_STONE_2_DESC": {
+        "text": "Muninn's feather that was found in the academy of the training grounds. You're reminded of the good old days when you were a newcomer freshly arrived to the army.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RAVENASSASSIN_STONE_2_TITLE": {
+        "text": "Muninn's Feather",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RAVENASSASSIN_STONE_3_DESC": {
+        "text": "A matte ebony cloak that can hardly been seen in the shadows of the night, but doesn't do much good in the dazzling white snow of the tundra at daytime.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RAVENASSASSIN_STONE_3_TITLE": {
+        "text": "Ebony Cloak",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RECEIVE_DMG_RATE_STONE_3_OPTION_DESC": {
+        "text": "Damage Reduction +3%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_REGINLEIF_STONE_1_DESC": {
+        "text": "No matter how much you gnaw away, this serving of pork never seems to decrease in size. Judging from its taste, it's sirloin.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_REGINLEIF_STONE_1_TITLE": {
+        "text": "Saehrimnir",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_RST_STONE_3_OPTION_DESC": {
+        "text": "Resistance +300",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_SKIRIMIROFWRATH_STONE_1_DESC": {
+        "text": "A molar formed out of compressed cold air. It crushes everything it bites, aiding the Incarnate's digestion.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_SKIRIMIROFWRATH_STONE_1_TITLE": {
+        "text": "Molar of the Incarnate",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_WAITINGMAN_STONE_1_DESC": {
+        "text": "A stick of blue snow that had been attached to the face of the Waiting One. You are strangely drawn to lick it and discover that it tastes like... blueberry soda!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_WAITINGMAN_STONE_1_TITLE": {
+        "text": "Popsicle",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_WAITINGMAN_STONE_2_DESC": {
+        "text": "Whose hat can it be? The snowman waits and waits, but the owner does not return. After a long time, it begins to move on its own in order to return the hat to its owner.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_WAITINGMAN_STONE_2_TITLE": {
+        "text": "Precious Hat",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_WAITINGMAN_STONE_3_DESC": {
+        "text": "A glove made of snow. It looks soft and fluffy as a cloud, but it turns out quite heavy when you hold it.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COMMON_WAITINGMAN_STONE_3_TITLE": {
+        "text": "Snow Fist",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME": {
+        "text": "Skins",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_BASE_PACK_LV10_REWARD_DESC": {
+        "text": "Here's your beginner's package reward for achieving LV10. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_BASE_PACK_LV15_REWARD_DESC": {
+        "text": "Here's your beginner's package reward for achieving LV15. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_BASE_PACK_LV1_REWARD_DESC": {
+        "text": "Here's your beginner's package reward for achieving LV1. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_BASE_PACK_LV20_REWARD_DESC": {
+        "text": "Here's your beginner's package reward for achieving LV20. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_BASE_PACK_LV25_REWARD_DESC": {
+        "text": "Here's your beginner's package reward for achieving LV25. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_BASE_PACK_LV30_REWARD_DESC": {
+        "text": "Here's your beginner's package reward for achieving LV30. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_PACK_LV10_REWARD_DESC": {
+        "text": "Here's your reward for achieving LV10. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_PACK_LV1_REWARD_DESC": {
+        "text": "Here's your reward for achieving LV1. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_PACK_LV20_REWARD_DESC": {
+        "text": "Here's your reward for achieving LV20. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_PACK_LV30_REWARD_DESC": {
+        "text": "Here's your reward for achieving LV30. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_PACK_LV40_REWARD_DESC": {
+        "text": "Here's your reward for achieving LV40. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COSTUME_GROW_PACK_LV50_REWARD_DESC": {
+        "text": "Here's your reward for achieving LV50. Congratulations!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_AR_10_WARGAME_6": {
+        "text": "Agricultural Academy Magnus",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_AR_23_WARGAME_6": {
+        "text": "Agricultural Academy Panpan",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_PR_19_WARGAME_6": {
+        "text": "Agricultural Academy Bari",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WI_12_WARGAME_6": {
+        "text": "Agricultural Academy Demeter",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_COUNT_PERIOD": {
+        "text": "Delivered for {0} Days",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CURRENCY_LONG": {
+        "text": "Currency",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_DAILY_REWARD_FOR_30DAYS": {
+        "text": "Everyday for {0} Days",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_ACCURACY_RATE_STONE_3_OPTION_DESC": {
+        "text": "Accuracy +11%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_ATK_POWER_STONE_3_OPTION_01_DESC": {
+        "text": "Attack Power +700",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_ATK_POWER_STONE_3_OPTION_DESC": {
+        "text": "Attack Power +1000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_CRIT_DODGE_RATE_STONE_3_OPTION_DESC": {
+        "text": "Critical Resistance +7%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_CRIT_RATE_STONE_3_OPTION_DESC": {
+        "text": "Critical Chance +7%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_DEF_STONE_3_OPTION_01_DESC": {
+        "text": "Armor +1250",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_DEF_STONE_3_OPTION_DESC": {
+        "text": "Armor +1000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_DODGE_RATE_STONE_3_OPTION_DESC": {
+        "text": "Evasion +11%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_FREYJA_STONE_1_DESC": {
+        "text": "An orb of ice inscribed with Freyja's magic runes. It is said that you must be of the Vana bloodline to use it properly, but even the mere act of holding it bestows energy and strength.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_FREYJA_STONE_1_TITLE": {
+        "text": "Orb of Vanadis",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_GENERALWINTER_STONE_1_DESC": {
+        "text": "General Winter's source of energy. Take a bite and you'll see a clown teasing you before your eyes... Can it be that you're hallucinating?",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_GENERALWINTER_STONE_1_TITLE": {
+        "text": "Ice Clownshroom",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_GULLVEIG_STONE_1_DESC": {
+        "text": "How strange, this jewel from Gullveig's tiara seems to be one color and shape at a certain angle of light... And yet another color and shape at another... You find it difficult to discern its true form.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_GULLVEIG_STONE_1_TITLE": {
+        "text": "Crystal of Phantasm",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_GULLVEIG_STONE_2_DESC": {
+        "text": "The fragment of a curse summoned forth from another dimension. It emits a different aura from the darkness of the Apostles.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_GULLVEIG_STONE_2_TITLE": {
+        "text": "Curse from Another Dimension",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_MAX_HP_STONE_3_OPTION_01_DESC": {
+        "text": "Maximum HP +35000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_MAX_HP_STONE_3_OPTION_DESC": {
+        "text": "Maximum HP +40000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_DEF_STONE_3_OPTION_01_DESC": {
+        "text": "Armor Penetration +1250",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_DEF_STONE_3_OPTION_DESC": {
+        "text": "Armor Penetration +1000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_RST_STONE_3_OPTION_01_DESC": {
+        "text": "Resistance Penetration +1250",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_PENETRATE_RST_STONE_3_OPTION_DESC": {
+        "text": "Resistance Penetration +1000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_RAVENLEADERRAN_STONE_1_DESC": {
+        "text": "A flag passed down from the time of King Snorri, the first sovereign of Nosgard. The embroidered sign of the raven is the symbol of the Night Raven assassins.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_RAVENLEADERRAN_STONE_1_TITLE": {
+        "text": "Hrafnsmerki",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_RECEIVE_DMG_RATE_STONE_3_OPTION_DESC": {
+        "text": "Damage Reduction +7%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_REGINLEIF_STONE_1_DESC": {
+        "text": "The shield of a goddess that can be worn only by the truest warriors who know the glory of war... Or its replica.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_REGINLEIF_STONE_1_TITLE": {
+        "text": "Skjaldmaer",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_REGINLEIF_STONE_2_DESC": {
+        "text": "Throughout Nosgard can be discovered stones naturally charged with lightening. Some people, few and far between, are innately born with this magic flowing through their veins.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_REGINLEIF_STONE_2_TITLE": {
+        "text": "Lightning Stone",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_RST_STONE_3_OPTION_01_DESC": {
+        "text": "Resistance +1250",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_RST_STONE_3_OPTION_DESC": {
+        "text": "Resistance +1000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_SKIRIMIROFWRATH_STONE_1_DESC": {
+        "text": "A petal that was found nestled away amidst Skrymir's mane, fresh and undamaged even before the frigid winds.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_SKIRIMIROFWRATH_STONE_1_TITLE": {
+        "text": "Frost Drop Petal",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_SKIRIMIROFWRATH_STONE_2_DESC": {
+        "text": "A rune letter that appeared after the patterns of Skrymir's fur changed shape. The people of Ancient Nosgard believed that power dwelled in language itself. There are not much left today who can decipher the meanings of these runes.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_SKIRIMIROFWRATH_STONE_2_TITLE": {
+        "text": "Ancient Rune",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_SKIRIMIR_STONE_1_DESC": {
+        "text": "A prism that incidentally formed where Skrymir tread. Light that passes through this prism seems to take on magical properties.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_SKIRIMIR_STONE_1_TITLE": {
+        "text": "Prism",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_THIALFI_STONE_1_DESC": {
+        "text": "You can hardly make out the childish, shaky letters of this worn letter, most of them erased beyond recognition, but these words still clearly remain: \"brother\" and \"thank you.\"",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_THIALFI_STONE_1_TITLE": {
+        "text": "Frayed Letter",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_VALKYRIESTONESTATUS_STONE_1_DESC": {
+        "text": "Anyone pierced by the Svefnthorn falls into eternal slumber. Its form can be found engraved here and there on the ancient stone statues of Nosgard.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_EPIC_VALKYRIESTONESTATUS_STONE_1_TITLE": {
+        "text": "Svefnthorn",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_ERROR_CHAT_WHISPER_BLOCK": {
+        "text": "You have blocked {0}'s messages.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_ERROR_CHAT_WHISPER_EMPTY": {
+        "text": "You must first type in a user to send a Whisper.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_FIND_FRIEND": {
+        "text": "Find Friend",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_FRIEND_INVITE_CANCEL": {
+        "text": "Cancel Invite",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHA_GRADE_4_CLASS_DESC2": {
+        "text": "Immediately recruit a ★4 Contract Hero of the chosen class.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHOICE_CHA_HASLA_LIMIT_4_DESC": {
+        "text": "You can recruit a Secret Hero of Hasla of your choice.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHOICE_CHA_HASLA_LIMIT_4_NAME": {
+        "text": "Hasla's Secret Hero Contract",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GACHA_CHOICE_HERO_SKILL_DESC": {
+        "text": "Recruit a Hero who can unlock a Special Skill at the Skill Lab!\nSkill Unlock Heroes: Joan of Arc, Kaori, Vivian, Abel, Alexander, Achilles, Vane, Robin Hood, Gon, Giparang, Spyro, D'Artagnan, Viper, Dorothy, Sasquatch, Korin, Lilith, Mew, Nightingale, Himiko, Arona, Tia",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GACHA_GACHA": {
+        "text": "Hero",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GACHA_SPECIAL": {
+        "text": "Special",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GACHA_WEAPON": {
+        "text": "Weapon",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GAME_PLAY": {
+        "text": "Play Game",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GOAL_PACKAGE_BUY_SUCCESS_DESC": {
+        "text": "You have purchased a Goal Package item.\nGoal Package rewards will be sent to your Mailbox upon achieving the set goals.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GROW_BASE_PACK_DESC2": {
+        "text": "Level up and receive valuable supplies!\nYou will receive 10 Jewels immediately upon purchase, and 5 additional Jewels with every 5 Levels you achieve of your Account Level. (Total 25 Jewels)\nIf you have already reached the required Account Level, you will receive all the contents of the package upon purchase.\nThis package can be purchased only once per account.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_GROW_PACK_DESC2": {
+        "text": "Level up and receive valuable supplies!\nYou will receive 30 Jewels immediately upon purchase, and 20 additional Jewels with every 10 Levels you achieve of your Account Level. (Total 130 Jewels)\nIf you have already reached the required Account Level, you will receive all the contents of the package upon purchase.\nThis package can be purchased only once per account.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_101": {
+        "text": "Forest of Eternal Autumn",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_HONOR_PACK_DESC2": {
+        "text": "A package of Honor that will help beginning Captains grow!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_DEFAULT": {
+        "text": "Item Received",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LEGENDBREAD_PACK_DESC2": {
+        "text": "This is some bread out of this world!\nPurchase to immediately receive 95 Jewels and 3 Legendary Bread that train your Heroes to MAX.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LEGENDFRUIT_PACK_DESC2": {
+        "text": "Prove yourself a legend with these Legendary Berries of Hasla!\nPurchase to immediately receive 200 Jewels and a set of 8 Legendary Berries that train your Hero's stats to the MAX.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LEVEL_REWARD": {
+        "text": "LV{0} Achievement Reward",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ALL_03_DESC": {
+        "text": "All Classes (Under LV15)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ALL_03_TITLE": {
+        "text": "Ancient Book 3rd Page",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ARCHER_03_DESC": {
+        "text": "Archers Only (Under LV15)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_ARCHER_03_TITLE": {
+        "text": "Sigrun's 3rd Page",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_HUNTER_03_DESC": {
+        "text": "Hunters Only (Under LV15)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_HUNTER_03_TITLE": {
+        "text": "Dalton's 3rd Page",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PALADIN_03_DESC": {
+        "text": "Paladins Only (Under LV15)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PALADIN_03_TITLE": {
+        "text": "Kuhilim's 3rd Page",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PRIEST_03_DESC": {
+        "text": "Priests Only (Under LV15)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_PRIEST_03_TITLE": {
+        "text": "Malin's 3rd Page",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WARRIOR_03_DESC": {
+        "text": "Warriors Only (Under LV15)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WARRIOR_03_TITLE": {
+        "text": "Oren's 3rd Page",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WIZARD_03_DESC": {
+        "text": "Wizards Only (Under LV15)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_LOW_INHERIT_BOOK_WIZARD_03_TITLE": {
+        "text": "Roxanna's 3rd Page",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_055_TITLE": {
+        "text": "On Kalards",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_056_TITLE": {
+        "text": "Snowman Alert",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_057_TITLE": {
+        "text": "A Dog or a Deer?",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_058_TITLE": {
+        "text": "The Call of Winter",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_059_TITLE": {
+        "text": "Dance of the Ice Fairy",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_060_TITLE": {
+        "text": "A Beautiful Land",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_061_TITLE": {
+        "text": "The Legend of Skrymir",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_062_TITLE": {
+        "text": "Snorri Edda",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_063_TITLE": {
+        "text": "Pride of the Einherjar",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_064_TITLE": {
+        "text": "Fire Support!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_065_TITLE": {
+        "text": "The White Phantom",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_066_TITLE": {
+        "text": "Right to the Throne",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_067_TITLE": {
+        "text": "The Hall of Fame",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_068_TITLE": {
+        "text": "The Seed of Doubt 1",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_069_TITLE": {
+        "text": "The Seed of Doubt 2",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_070_TITLE": {
+        "text": "An Eye for Style",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_071_TITLE": {
+        "text": "An Old Locket",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_072_TITLE": {
+        "text": "An Ominous Premonition",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MAIN_Q_S2_073_TITLE": {
+        "text": "Freyja",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MEAT_PACK_DESC2": {
+        "text": "Don't starve!\nPurchase a feast of Meat and Gold for a good price!\nThis package can be purchased twice a week. The purchase limit is reset every Monday.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MEDIUM_PACK_DESC2": {
+        "text": "Adventure will be a piece of cake with this purchase!\nPurchase to immediately receive 95 Jewels and a ★4 Contract Hero Only contract, as well as Macaron and Milk of Growth that will help train your newly recruited Hero.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MINORBOOK_PACK_DESC": {
+        "text": "Get Jewels and Ancient Book 3rd Page x5",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MINORBOOK_PACK_DESC2": {
+        "text": "Increase Hero Inheritance Levels quickly!\nBuy to get 18 Jewels and Ancient Book 3rd Page x5.\nBuy this package up to 3 times per week! The purchase limit resets every Monday.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MINORBOOK_PACK_MAIL_CONTENT": {
+        "text": "Here's your purchase of the Beginner's Inheritance Package!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MINORBOOK_PACK_TITLE": {
+        "text": "Beginner's Inheritance Package",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_ALICIA_NAME": {
+        "text": "Alisha",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_ANGRYSKIRIMIR_CHALLENGE_NAME": {
+        "text": "Enraged Skrymir",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_FREYJA_NAME": {
+        "text": "Freyja",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_GENERALWINTER_NAME": {
+        "text": "General Winter",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_GULLVEIG_NAME": {
+        "text": "Gullveig",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_RAVENLEADER_NAME": {
+        "text": "Ran, Captain of the Night Ravens",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_REGINLEIF_CHALLENGE_NAME": {
+        "text": "Reginleif",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_SKIRIMIR_NAME": {
+        "text": "Skrymir",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_THIALFI_NAME": {
+        "text": "Thjalfi",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_BOSS_S2_EP3_VALKYRIE_STONESTATUE_NAME": {
+        "text": "Valkyrie Statue",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_ANCIENTDEERDOG_NAME": {
+        "text": "Ancient Deerdog",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_BALLISTA_NAME": {
+        "text": "Ballista",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_EINHERJARARCHER_NAME": {
+        "text": "Einherjar Spearman",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_EINHERJARWARRIOR_NAME": {
+        "text": "Einherjar Warrior",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_GUARDIAN_SACREDGROUND_NAME": {
+        "text": "Sentry of the Sanctuary",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_ICESPIRIT_NAME": {
+        "text": "Ice Spirit",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_RAVENASSASSIN_NAME": {
+        "text": "Night Raven Assassin",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_SPIRITOFPROSTELVES_NAME": {
+        "text": "Frost Elf Phantom",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_WAITINGMAN_NAME": {
+        "text": "The Waiting One",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_WINTERWIND_MYSTIC_NAME": {
+        "text": "Winter Wind Shaman",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_MON_S2_EP3_WINTERWIND_WARRIOR_NAME": {
+        "text": "Winter Wind Warrior",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_NOTYET_UPDATE": {
+        "text": "Under construction. Please wait for the next update!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_OPTION_HIDE_LOBBY_CHAT": {
+        "text": "Hide Chat Letterbox in Town",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_OPTION_SIMPLE_CHAT": {
+        "text": "Use Simple Chat",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PACKAGE_GOAL": {
+        "text": "Goal",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PACKAGE_PACK": {
+        "text": "Special",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PACKAGE_PERIOD": {
+        "text": "Subscription",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PACKAGE_PERIOD_RETURN_DESC": {
+        "text": "2 Jewels Every Day for 30 Days",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PACKAGE_PERIOD_RETURN_DESC2": {
+        "text": "A special mine has been opened for Captains returning to Hasla!\n \nYou will receive 2 Jewels in the Mailbox every day at 5PM PDT for 30 days.\nThis package can be purchased together with other mines.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PACKAGE_PERIOD_RETURN_TITLE": {
+        "text": "Returning Captain's 30 Days Special Package",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_ALICIA_SKILL1": {
+        "text": "Arrows of Storm",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_ALICIA_SKILL1_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_ALICIA_SKILL2": {
+        "text": "Wandering Soul",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_ALICIA_SKILL2_DESC": {
+        "text": "Increases Received Damage",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_ALICIA_SKILL3": {
+        "text": "Frozen Wound",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_ALICIA_SKILL3_DESC": {
+        "text": "Decreased Heal",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_FREYJA_SKILL1": {
+        "text": "Verdant Rune",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_FREYJA_SKILL1_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_FREYJA_SKILL2": {
+        "text": "The Verdant Earth",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_FREYJA_SKILL2_DESC": {
+        "text": "Range Heal, Enhanced Wave",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GENERALWINTER_SKILL2": {
+        "text": "Bash",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GENERALWINTER_SKILL2_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GENERALWINTER_SKILL3": {
+        "text": "Spirit Summon",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GENERALWINTER_SKILL3_DESC": {
+        "text": "Range Dmg, Enhanced Wave",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL1": {
+        "text": "Bellow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL1_DESC": {
+        "text": "Area Dmg, Motion Speed Debuff",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL2": {
+        "text": "Winter Wind",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL2_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL3": {
+        "text": "Retreat",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL3_DESC": {
+        "text": "Moves to Back",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL4": {
+        "text": "Rage of the Incarnate",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GREAT_SKIRIMIR_SKILL4_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL1": {
+        "text": "Witch's Embrace",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL1_DESC": {
+        "text": "Cannot Move",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL1_GREAT": {
+        "text": "Witch's Embrace (Enhanced)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL1_GREAT_DESC": {
+        "text": "Cannot Move, Cannot Heal",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL2": {
+        "text": "Witch's Whisper",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL2_DESC": {
+        "text": "Range Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL3": {
+        "text": "Cursed Bullet",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL3_DESC": {
+        "text": "Cannot Heal",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL4": {
+        "text": "True Goddess",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_GULVEIG_SKILL4_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL1": {
+        "text": "Repelling Shot",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL1_DESC": {
+        "text": "Area Dmg, Move to Back",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL2": {
+        "text": "Crossbow Shot",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL2_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL3": {
+        "text": "Call of Night Ravens",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL3_DESC": {
+        "text": "Dmg Resistance, Enhanced Wave",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL4": {
+        "text": "Illusion",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_RAVENLEADER_SKILL4_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL1": {
+        "text": "Geirolul",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL1_DESC": {
+        "text": "Ignores Diverting Damage Effects",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL2": {
+        "text": "Gondul",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL2_DESC": {
+        "text": "Area Dmg, Cancels Buffs",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL3": {
+        "text": "Olrun",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL3_DESC": {
+        "text": "Magic Dmg Resistance, Canceled by Goddess",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL4": {
+        "text": "Sigrdrifa",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL4_DESC": {
+        "text": "Blizzard of Victory!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_SKIRIMIR_SKILL1": {
+        "text": "Bellow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_SKIRIMIR_SKILL1_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_SKIRIMIR_SKILL2": {
+        "text": "Winter Wind",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_SKIRIMIR_SKILL2_DESC": {
+        "text": "Area Dmg, Motion Speed Debuff",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_THIALFI_APPEAR": {
+        "text": "Exaltation",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_THIALFI_APPEAR_DESC": {
+        "text": "Enhanced Stats",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_THIALFI_SKILL2": {
+        "text": "Gnashing Fangs",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_THIALFI_SKILL2_DESC": {
+        "text": "Cancels Buffs, Stuns Target",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_THIALFI_SKILL3": {
+        "text": "Giant Hunter",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_THIALFI_SKILL3_DESC": {
+        "text": "Extra Dmg to Targets with Shield",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL1": {
+        "text": "Gjold",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL1_DESC": {
+        "text": "Area Dmg",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL2": {
+        "text": "Herfjotur",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL2_DESC": {
+        "text": "Area Dmg, Cannot Move",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL3": {
+        "text": "Randgrid",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL3_DESC": {
+        "text": "Area Dmg, Extra Dmg to Targets with Shield",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL4": {
+        "text": "Who Dares to Wake Me?",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PATTERN_S2_EP3_VALKYRISTATUE_SKILL4_DESC": {
+        "text": "Dmg Resistance, Summon Reginleif",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PERIOD_GACHA_HERO_PACK_DESC2": {
+        "text": "Powerful Heroes will come bearing Jewels every day!\nYou will receive 1 Premium Contract and 2 Jewels in the Mailbox at 00:00 UTC every day for 30 days, for a total of 30 Premium Contracts and 110 Jewels for the duration of the subscription.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PERIOD_GACHA_HERO_REWARD_DESC": {
+        "text": "Here's your daily contract package reward.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF": {
+        "text": "Buff",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_GODDESS_SET_10_DESC": {
+        "text": "3 Goddess Elixir Set 10-Pack",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_GODDESS_SET_10_NAME": {
+        "text": "Goddess Elixir Bundle\n(10 ea)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_GODDESS_SET_5_DESC": {
+        "text": "3 Goddess Elixir Set 5-Pack",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_GODDESS_SET_5_NAME": {
+        "text": "Goddess Elixir Bundle\n(5 ea)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_GODDESS_SET_DESC2": {
+        "text": "Purchase to obtain a bundle of 3 types of Goddess Elixirs.\nElixir of the Goddess: EXP & Gold +100%\nDeluxe Elixir of the Goddess: EXP & Gold +150%\nExquisite Elixir of the Goddess: EXP & Gold +400%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_SET_DESC": {
+        "text": "5 Fruit Milk Set 5-Pack",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_SET_DESC2": {
+        "text": "Purchase to obtain a bundle of 5 types of Buff Milk.\nFruit Milk: Increases HP, Attack Power, Armor, Resistance by 20%\nSoda Milk: Increases Critical Chance by 30% and Critical Damage by 50%\nChocolate Milk: Increases Armor Penetration and Resistance Penetration by 200\nStrawberry Milk: Increases Damage Reduction by 10%\nBanana Milk: Increases Block Generation Speed by 20%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_BUFF_SET_NAME": {
+        "text": "Buff Milk Bundle\n(5 ea)",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_CHOICE": {
+        "text": "Ticket",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_CHOICE_HASLA_LIMIT_4_DESC": {
+        "text": "Hero and their SBW given upon purchase",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_CHOICE_HASLA_LIMIT_4_NAME": {
+        "text": "Hasla's Secret\nHero Contract",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_POINT_GACHA": {
+        "text": "Contract",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_NOS_ELDER": {
+        "text": "Elder Edda",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_NOS_MOUNTAIN": {
+        "text": "The Peaks of Nosgard",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PRACTICE_OPTION_STAGE_NOS_SNORI": {
+        "text": "Snorri Edda",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PROPERTY_GOLD": {
+        "text": "Gold",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_PROPERTY_JEWEL": {
+        "text": "Jewels",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_NOS_TREASURE_HELP": {
+        "text": "A chest containing some of the rarest Sigils from Nosgard.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_NOS_TREASURE_NAME": {
+        "text": "Treasure of Nosgard",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_CHALLNGE_GRADE3_NAME": {
+        "text": "Sigil Box of Nosgard",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_EPIC_GRADE3_HELP": {
+        "text": "A chest holding a random ★3 Epic Sigil.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_EPIC_GRADE3_NAME": {
+        "text": "★3 Epic Sigil Box",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_ACCURACY_RATE_STONE_3_OPTION_DESC": {
+        "text": "Accuracy +7%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_ATK_POWER_STONE_3_OPTION_DESC": {
+        "text": "Attack Power +600",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_CRIT_DODGE_RATE_STONE_3_OPTION_DESC": {
+        "text": "Critical Resistance +4%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_CRIT_RATE_STONE_3_OPTION_DESC": {
+        "text": "Critical Chance +4%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_DEF_STONE_3_OPTION_01_DESC": {
+        "text": "Armor +525",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_DEF_STONE_3_OPTION_DESC": {
+        "text": "Armor +600",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_DODGE_RATE_STONE_3_OPTION_DESC": {
+        "text": "Evasion +7%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_FREYJA_STONE_1_DESC": {
+        "text": "Allegedly, this necklace is supposed to grant immense beauty to its wearer. But maybe it's just a rumor, and Freyja is exceedingly beautiful even without it? Or at least that's what the warriors of the Einherjar think, anyway.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_FREYJA_STONE_1_TITLE": {
+        "text": "Brisingamen",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_FREYJA_STONE_2_DESC": {
+        "text": "Rumored to be one of the secrets to Freyja's beauty, this golden essence is said to create flawless skin. Needless to say, it is coveted by countless people.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_FREYJA_STONE_2_TITLE": {
+        "text": "Golden Tear",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_GENERALWINTER_STONE_1_DESC": {
+        "text": "If there is one thing General Winter is proud of, it's his beard: seemingly rough and coarse, but velvety soft upon touch. He took care of it quite diligently.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_GENERALWINTER_STONE_1_TITLE": {
+        "text": "Cotton Beard",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_GENERALWINTER_STONE_2_DESC": {
+        "text": "It may resemble an ordinary conch, but 'Ahh!' is actually the roar of General Winter frozen into physical form. If you put your ear to it, you can hear the echoing shouts and war-cries.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_GENERALWINTER_STONE_2_TITLE": {
+        "text": "Ahh!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_MAX_HP_STONE_3_OPTION_DESC": {
+        "text": "Maximum HP +24000",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_DEF_STONE_3_OPTION_01_DESC": {
+        "text": "Armor Penetration +525",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_DEF_STONE_3_OPTION_DESC": {
+        "text": "Armor Penetration +600",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_RST_STONE_3_OPTION_01_DESC": {
+        "text": "Resistance Penetration +525",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_PENETRATE_RST_STONE_3_OPTION_DESC": {
+        "text": "Resistance Penetration +600",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_RAVENLEADERRAN_STONE_1_DESC": {
+        "text": "Anxious about being the only white-haired assassin in the Night Ravens, Ran has been secretly using hair dye to fit in with the rest of her troop. Recently she has given it up after discovering the excessive damage done to her hair.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_RAVENLEADERRAN_STONE_1_TITLE": {
+        "text": "Hempel's Hair Dye",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_RAVENLEADERRAN_STONE_2_DESC": {
+        "text": "The white mask worn by Captain Ran. Rumor has it that she was rescued by a passing 'evil spirit' and afterwards vowed to wear this mask to honor him.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_RAVENLEADERRAN_STONE_2_TITLE": {
+        "text": "White Beak Mask",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_RECEIVE_DMG_RATE_STONE_3_OPTION_DESC": {
+        "text": "Damage Reduction +4%",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_RST_STONE_3_OPTION_01_DESC": {
+        "text": "Resistance +525",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_RST_STONE_3_OPTION_DESC": {
+        "text": "Resistance +600",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_SKIRIMIR_STONE_1_DESC": {
+        "text": "An icy cold yet surprisingly soft paw obtained from Skrymir's footprint.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_SKIRIMIR_STONE_1_TITLE": {
+        "text": "Chilly Paw",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_SKIRIMIR_STONE_2_DESC": {
+        "text": "A leg bone that Skrymir picked up before he completely faded away. It is made of pure ice.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_SKIRIMIR_STONE_2_TITLE": {
+        "text": "Translucent Femur",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_THIALFI_STONE_1_DESC": {
+        "text": "SIGYN was the most popular brand of running shoes in Ancient Nosgard. This pair had been carefully packaged, as if meant to have been given as a gift.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_THIALFI_STONE_1_TITLE": {
+        "text": "SIGYN Sneakers",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_THIALFI_STONE_2_DESC": {
+        "text": "A token bestowed upon Thjalfi by Ancient Nosgardians as acknowledgement of his extraordinary speed. It becomes translucent at certain angles.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_THIALFI_STONE_2_TITLE": {
+        "text": "Embodiment of Light",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_VALKYRIESTONESTATUS_STONE_1_DESC": {
+        "text": "The letter of a powerful lord who, long ago, divided Nosgard into two and fought to dominate both halves. Yet its recipient also received the fury of the king.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_VALKYRIESTONESTATUS_STONE_1_TITLE": {
+        "text": "Agnarr's Word",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_VALKYRIESTONESTATUS_STONE_2_DESC": {
+        "text": "Only this fragment remains of the sword of a fabled warrior who knew no defeat. Legend has it that fate, in the form of a one-eyed man, came and finally broke the undefeated blade.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RARE_VALKYRIESTONESTATUS_STONE_2_TITLE": {
+        "text": "Shard of Gram",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_RETURN_SUPPORT": {
+        "text": "Returning Players Support",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3": {
+        "text": "Season 2 Episode 3",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_1": {
+        "text": "Usurper of the Throne",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_10": {
+        "text": "Freyja",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_11": {
+        "text": "Gullveig",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_12": {
+        "text": "A Myth of Ice and Snow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_13": {
+        "text": "Remaining Illusions",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_14": {
+        "text": "Mage Hunters",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_2": {
+        "text": "The Road to Edda",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_3": {
+        "text": "The Right Arm of the Sacred Being",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_4": {
+        "text": "Skrymir",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_5": {
+        "text": "Snorri Edda",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_6": {
+        "text": "Strange Fortunes",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_7": {
+        "text": "Mistilteinn",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_8": {
+        "text": "Dawn of the Dead",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_S2_EPISODE_3_9": {
+        "text": "The Snowstorm and the Clown",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_S2_EP3_CH1_NAME": {
+        "text": "Chapter 1",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_S2_EP3_CH2_NAME": {
+        "text": "Chapter 2",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_S2_EP3_CH3_NAME": {
+        "text": "Chapter 3",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_S2_EP3_CHALLENGE_NAME": {
+        "text": "Episode 3 Challenge",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_S2_GROUP3_DESC": {
+        "text": "Loki, his true form revealed, is barely captured and sealed back into the Seal of the Sanctuary by the Captain and company. Yet they cannot stop the storm of destruction from ravaging the kingdom, as it did hundreds of years ago. Under the advice of the Goddess Dionne, the Captain hastily departs for Snorri Edda, the capital of Nosgard, to save its people from the ancient chaos.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_S2_GROUP3_SUBTITLE": {
+        "text": "Episode 3",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_S2_GROUP3_TITLE": {
+        "text": "A Myth of Ice and Snow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_DESC": {
+        "text": "About Item",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_EXP_BUFF_C_DESC2": {
+        "text": "Purchase to receive one Milk of Growth (1D).\nUsing a Milk of Growth will increase the EXP a Hero receives after clearing a stage by 100% for 24 hours.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_JEWEL_165_SALE": {
+        "text": "165 Jewels",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_JEWEL_165_SALE_DESC": {
+        "text": "55 Jewels + 110 Jewels\nOnly one purchase per account",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_JEWEL_5_SALE_DESC": {
+        "text": "Only 1 Purchase per Account",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_LIST": {
+        "text": "Contents",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_MONTHLY_DESC2": {
+        "text": "The best bargain for prudent Captains!\nYou will receive 20 Jewels immediately upon purchase and 2 Jewels in the Mailbox at 00:00 UTC every day for 30 days, for a total of 60 Jewels for the duration of the subscription.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_POINT_BUFF_ A_DESC2": {
+        "text": "Purchase to receive 20 Potions of Destiny.\nUsing a Potion of Destiny will increase the Destiny Points you can obtain in specific Dungeons.\n- Disarm, Gravity Labyrinth, Black and White\n- Path of Rage, Road to Ruin, The Void",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_PACKAGE_COSTUME_DESC2": {
+        "text": "A package for stylish trendsetters everywhere!\nPurchase to receive a Skin Selection Ticket and 40 Jewels.\nThis package can be purchased once a week. The purchase limit is reset every Monday.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_PACKAGE_STARTER_DESC2": {
+        "text": "An astonishing package for Captains setting out on their journey!\nPurchase to immediately receive 30 Jewels and 10,000 Honor. You will also receive one ★4 Contract Only Hero Contract and 9 Premium Contracts that will help you recruit the amazing Heroes of Hasla!\nThis package can be purchased only once per account.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_GOLD": {
+        "text": "The only way to stop worrying about money is to have more money! You can never have enough!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_POINT_BUFF": {
+        "text": "Legend has it that this potion will help bind the ties of destiny between you and a special Hero!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_POINT_BUFF_SET": {
+        "text": "This special milk boosts your health! Oh, let me read the warning label: \"Must drink every battle for effect.\"",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_POINT_CONTRACT": {
+        "text": "You can recruit a Contract Hero through this special contract!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_POINT_EXP": {
+        "text": "Drink this potion to help your Heroes train! Its effects last for quite some time, I hear.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_POINT_GODDESS_SET": {
+        "text": "A mysterious elixir that contains the power of the Goddess! But which Goddess, I wonder?",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_TEST": {
+        "text": "Currently testing. Content will be added later.\nSecond line\nThird line",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SHOP_WARRING_TIP": {
+        "text": "This package will be sent to your Mailbox immediately upon purchase. You can withdraw your purchase within 7 days if you do not use the contents of the purchased item, or if the purchase was made by a minor without their legal guardian's consent.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_CONDEMN2_DESC_S2EP3": {
+        "text": "The Hero shoots an arrow that pierces the enemy and deals @magical damage@ equal to [34/122/250]% of the Hero's attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_CONDEMN2_NAME_S2EP3": {
+        "text": "Fatal Arrow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_FROZEN_THORN_DESC_S2EP3": {
+        "text": "The Hero shoots an ice arrow that deals @magical damage@ equal to [100/200/400]% of their attack power at enemies in the rear. Hit enemies are pulled in towards allies.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_FROZEN_THORN_NAME_S2EP3": {
+        "text": "Frozen Thorns",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_ROCKET_BOOM_DESC_S2EP3": {
+        "text": "The Hero shoots a portable firecracker which deals @magical damage@ equal to [80/150/350]% of their attack power to the enemy with the least HP, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_ROCKET_BOOM_NAME_S2EP3": {
+        "text": "Fireworks!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_KILL_CASE_DESC_S2EP3": {
+        "text": "The Hero shoots a secret bullet which deals #physical damage# equal to [75/150/275]% of their attack power, according to the chain number used. Hit enemies receive the 'Assassin's Mark' for 7 seconds.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_KILL_CASE_NAME_S2EP3": {
+        "text": "008 Assassination Kit",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_NO9_DESC_S2EP3": {
+        "text": "The Hero aims for the enemy and deals #physical damage# equal to [300/400/500]% of their attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_NO9_NAME_S2EP3": {
+        "text": "Jamiel's Bullet",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_RAVEN_DESC_S2EP3": {
+        "text": "The Hero shoots 5 ice bullets that each deal @magical damage@ equal to [40/50/70]% of their attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_HU_RAVEN_NAME_S2EP3": {
+        "text": "Frost Bullet",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PACK_DESC2": {
+        "text": "May the Souls be with you!\nPurchase to immediately receive 200 Jewels and a Skill Unlock Hero Select Ticket!\nThis package can be purchased only once per account.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_HEIM_DESC_S2EP3": {
+        "text": "The Hero leaps forward and deals @magical damage@ equal to [100/200/300]% of their attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_HEIM_NAME _S2EP3": {
+        "text": "Winter's Pierce",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_ODIN_DESC_S2EP3": {
+        "text": "The Hero wields [1/2/3] Odin's Spears that deal #physical damage# equal to [400/400/400]% of their attack power, according to the chain number used. Each of Odin's Spears activates different effects, in the order they are used.\nFirst Spear: Knocks back enemies within its range.\nSecond Spear: Pulls in enemies within its range.\nThird Spear: Knocks enemies within its range into the air.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_ODIN_NAME_S2EP3": {
+        "text": "Odin's Spear",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_SUN_LIGHT_DESC_S2EP3": {
+        "text": "The Hero deals @magical damage@ equal to [50/120/210]% of their attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_SUN_LIGHT_NAME_S2EP3": {
+        "text": "Solar Strike",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_ORDER_TEAM_DESC_S2EP3": {
+        "text": "Upon using a block, the Hero heals all allies by [100/150/200]% of the Hero's attack power. Using a 1-chain increases allies' attack power by 20%. Using a 2-chain increases allies' armor by 30%. Using a 3-chain dispels debuffs.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_ORDER_TEAM_NAME_S2EP3": {
+        "text": "Mission Delivered!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_TRI_TOTEM_DESC_S2EP3": {
+        "text": "The Hero summons a Totem that heals nearby allies four times by [20/55/95]% of the Hero's attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_TRI_TOTEM_NAME_S2EP3": {
+        "text": "Three Faces",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_VARNIR_DESC_S2EP3": {
+        "text": "The Hero summons a 'Frosty Heart' for 5 seconds. 'Frosty Heart' heals nearby allies by [80/160/240]% of the Hero's attack power per second, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_VARNIR_NAME_S2EP3": {
+        "text": "Frosty Grace",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANDGRID_DESC_S2EP3": {
+        "text": "The Hero immediately leaps towards the nearest enemy and deals #physical damage# equal to [200/350/500]% of the Hero's attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANDGRID_NAME_S2EP3": {
+        "text": "Piercing Obliteration",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ROSKVA_DESC_S2EP3": {
+        "text": "The Hero dashes forward with their blade, attacking 3 times to deal #physical damage# equal to [45/60/80]% of their attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_ROSKVA_NAME_S2EP3": {
+        "text": "Frigid Blade",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_WILD_NATURE_DESC_S2EP3": {
+        "text": "The Hero brandishes their sword to deal #physical damage# equal to [50/125/250]% of their attack power, according to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_WILD_NATURE_NAME_S2EP3": {
+        "text": "Rage of the Beast",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_BLIZZARD_DESC_S2EP3": {
+        "text": "The Hero drops [8/12/20] icicles that each deal @magical damage@ equal to [5/13/22]% of the Hero's attack power.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_BLIZZARD_NAME_S2EP3": {
+        "text": "Freezing Blizzard",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LACIES_DESC_S2EP3": {
+        "text": "The Hero draws a magic circle that lasts [2/3/4] seconds and deals @magical damage@ equal to [100/200/350]% of their attack power per second, accordng to the chain number used.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LACIES_NAME_S2EP3": {
+        "text": "Glacial Sphere",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_WOLFRAM_DESC_S2EP3": {
+        "text": "The Hero throws the nearest enemy into the air and summons a wind that deals @magical damage@ equal to [100/200/350]% of the Hero's attack power.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_WOLFRAM_NAME_S2EP3": {
+        "text": "Howling Wind",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH1_1_NAME": {
+        "text": "The Devastating Storm",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH1_2_NAME": {
+        "text": "The Poacher and the Pursuer",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH1_3_NAME": {
+        "text": "The Awakened Spirits",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH1_4_NAME": {
+        "text": "The Dance of Ice and Snow - 1",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH1_5_NAME": {
+        "text": "The Dance of Ice and Snow - 2",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH1_6_NAME": {
+        "text": "Skrymir",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH2_1_NAME": {
+        "text": "The King of Storms",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH2_2_NAME": {
+        "text": "The Warriors of Valhalla - 1",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH2_3_NAME": {
+        "text": "The Warriors of Valhalla - 2",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH2_4_NAME": {
+        "text": "The Wings of the Night Raven",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH2_5_NAME": {
+        "text": "Into the Storm",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH2_6_NAME": {
+        "text": "Mistilteinn",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH3_1_NAME": {
+        "text": "Dawn of the Winter Wind - 1",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH3_2_NAME": {
+        "text": "Dawn of the Winter Wind - 2",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH3_3_NAME": {
+        "text": "Faltering Steps",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH3_4_NAME": {
+        "text": "The Wolf's Bride",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH3_5_NAME": {
+        "text": "The Seal of the Sanctuary",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CH3_6_NAME": {
+        "text": "Freyja",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CHALLENGE_1_SUBNAME": {
+        "text": "Whispering Peaks",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CHALLENGE_2_SUBNAME": {
+        "text": "Einherjar Camp",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STAGE_S2_EP3_CHALLENGE_3_SUBNAME": {
+        "text": "A Polar Greeting",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_STARTER_PACK2_DESC2": {
+        "text": "The best package for Captains who want to level up quickly!\nPurchase to immediately receive 95 Jewels and helpful supplies for training Heroes, forging Weapons, and supplying Champions!\nThis package can be purchased only once per account.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_071_TITLE": {
+        "text": "A Family Reunion",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_072_TITLE": {
+        "text": "The Secret of Frost Elves 1",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_073_TITLE": {
+        "text": "No Country for Old Snowmen",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_074_TITLE": {
+        "text": "Neverending Task",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_075_TITLE": {
+        "text": "The Secret of Frost Elves 2",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_076_TITLE": {
+        "text": "A Great Wolf Cometh",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_077_TITLE": {
+        "text": "A Great Wolf Cometh... Again",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_078_TITLE": {
+        "text": "The Honor of the Einherjar",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_079_TITLE": {
+        "text": "Payback",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_080_TITLE": {
+        "text": "The Ballista Designer",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_081_TITLE": {
+        "text": "That's My Gun!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_082_TITLE": {
+        "text": "Learning from the World",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_083_TITLE": {
+        "text": "Lord Agnarr",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_084_TITLE": {
+        "text": "A Puzzling Pattern",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_085_TITLE": {
+        "text": "A Leap Through Time",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_086_TITLE": {
+        "text": "Awakened from Dreams",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_087_TITLE": {
+        "text": "The Last Combat",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_088_TITLE": {
+        "text": "Wooparu Roopapa!!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_089_TITLE": {
+        "text": "Sympathy",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_090_TITLE": {
+        "text": "Freyja's True Visage",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_091_TITLE": {
+        "text": "O Captain, My Captain",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_092_TITLE": {
+        "text": "Enraged Skrymir",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_093_TITLE": {
+        "text": "Reginleif",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUB_Q_S2_094_TITLE": {
+        "text": "Gullveig's Illusion",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_SUPPORT_PACK_DESC2": {
+        "text": "Your best choice for leveling up your Champions!\nPurchase to immediately receive 200 Jewels and recruit 5 ★6 Battleloid S-6s, who can be sent to reinforce all factions!\nSupply Heroes are used to reinforce factions (Champions) and cannot be trained or promoted.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TIP_S2_EP3_1": {
+        "text": "In order to improve the worsening conditions of Nosgard, King Thor formed an alliance with Emperor Alexander of Grancia.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TIP_S2_EP3_2": {
+        "text": "The capital of Nosgard, 'Snorri Edda,' is named after its first king.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TIP_S2_EP3_3": {
+        "text": "The 'Einherjar' are an elite troop of warriors with a long tradition. They deem strength and glory in battle the highest values in life.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TIP_S2_EP3_4": {
+        "text": "Many stories lay buried underneath the pure snow of the northern lands.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDIONE_S2_EP3_CH1_1": {
+        "text": "The Snowstorm",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDIONE_S2_EP3_CH1_6": {
+        "text": "Creature of Ice and Snow",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDIONE_S2_EP3_CH2_1": {
+        "text": "Snorri Edda",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDIONE_S2_EP3_CH2_6": {
+        "text": "The House of Snorrison",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDIONE_S2_EP3_CH3_6": {
+        "text": "The Kalard of Truth",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_TITLE_DIALOGUES_SISDIONE_S2_EP3_CHALLENGE_3": {
+        "text": "Nemesis",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_UTGARDLOKI_NAME": {
+        "text": "Utgard Loki",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_VISIT_HOUSE": {
+        "text": "Visit Home",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_VISIT_HOUSE_LOCK": {
+        "text": "Cannot Visit",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_CHANGE_PACK_DESC2": {
+        "text": "A package that includes Weapon Option Tickets that randomly convert your Soulbound Weapon options. \nThis package can be purchased up to 3 times a month. The purchase limit is reset on the first of every month.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_WEAPON_OPTION_SELECT_PACK_DESC2": {
+        "text": "A package that includes Weapon Option Selection Tickets that can convert your Soulbound Weapon options to those of your choice!\nThis package can be purchased once a month. The purchase limit is reset on the first of every month.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_WHISPER_LOCK": {
+        "text": "Cannot Whisper",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_WR_S2_EP3_CH1_01": {
+        "text": "The storm grows stronger.\nUse the strength of the Goddess!",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_WR_S2_EP3_CH2_01": {
+        "text": "This fog... It is unsettling.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_WR_S2_EP3_CH2_02": {
+        "text": "A shadow nearby is after you.",
+        "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_WR_S2_EP3_CH3_01": {
+        "text": "The cold cuts through the bone...",
+        "version": "4.19.0",
         "original": true
     }
 }

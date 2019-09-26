@@ -300,6 +300,46 @@
         "sell_cost": 888
     },
     {
+        "id": "BREAD_MILITARY_01",
+        "name": "TEXT_BREAD_MILITARY_01_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_military_01",
+        "sell_cost": 1225
+    },
+    {
+        "id": "BREAD_MILITARY_02",
+        "name": "TEXT_BREAD_MILITARY_02_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_military_02",
+        "sell_cost": 1225
+    },
+    {
+        "id": "BREAD_MILITARY_03",
+        "name": "TEXT_BREAD_MILITARY_03_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_military_03",
+        "sell_cost": 1225
+    },
+    {
+        "id": "BREAD_MILITARY_04",
+        "name": "TEXT_BREAD_MILITARY_04_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_military_04",
+        "sell_cost": 1225
+    },
+    {
         "id": "BREAD_MOON_CAKE",
         "name": "TEXT_BREAD_MOON_CAKE_NAME",
         "rarity": "rare",
@@ -308,6 +348,16 @@
         "grade": 4,
         "image": "bread_moon_cake",
         "sell_cost": 888
+    },
+    {
+        "id": "BREAD_NEW_HALLOWEEN",
+        "name": "TEXT_BREAD_HALLOWEEN_NAME",
+        "rarity": "rare",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_halloween",
+        "sell_cost": 1225
     },
     {
         "id": "BREAD_NEW_SIS_DESERT_1",
