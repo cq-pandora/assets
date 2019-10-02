@@ -2025,5 +2025,175 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_1",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_2",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_3",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_4",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_5",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_6",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_7",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_8",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_9",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_SALMON_5TH_10",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "habitat": "event",
+        "type": "event",
+        "rank": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
+                "amount": 1
+            }
+        ]
     }
 ]

@@ -3016,7 +3016,7 @@
     },
     "TEXT_CANNOT_PURCHASE_LIMIT": {
         "text": "You have reached the maximum limit for purchases of this item.",
-        "version": "4.19.0",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_CANNOT_PURCHASE_MONTH": {
@@ -18950,8 +18950,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_OR_6_19": {
-        "text": "(Block skill enhanced) The range of 'Flowers of the West Fields' is increased by 100%.\n (Passive enhanced) The duration of Bari's 'White Flower' is increased by 2 seconds.\n (Passive added) Upon using an ally's 3-chain, Bari plants a 'Wilted Flower' over the enemy that absorbs up to 8 heals. If the 'Wilted Flower' absorbs 8 heals, it binds the enemy for 5 seconds. If the ally leader is receiving a buff, the 'wilted flower' increases their attack power, HP, armor, and resistance by 500.",
-        "version": "4.7.0",
+        "text": "(Block skill enhanced) The range of 'Flowers of the West Fields' is increased by 100%.\n(Passive enhanced) The duration of Bari's 'White Flower' is increased by 2 seconds.\n(Passive added) Upon using an ally's 3-chain, Bari plants a 'Wilted Flower' over the enemy that absorbs up to 8 heals. If the 'Wilted Flower' absorbs 8 heals, it binds the enemy for 5 seconds. If the ally leader is receiving a buff, the 'wilted flower' increases their attack power, HP, armor, and resistance by 500.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_EXCLUSIVE_OR_LIMITED_KOF_ATHENA_4": {
@@ -19450,8 +19450,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_GG_6_4": {
-        "text": "(Passive Enhanced) After Johnny throws a coin, regardless of whether it hits a target or not, Johnny ignores 100% of the enemy's armor for 10 seconds.\n (Passive Enhanced) After Johnny throws a coin, regardless of whether it hits a target or not, Johnny additionally activates \"Joker Trick\" to deal physical damage equal to 3000% of attack power.",
-        "version": "4.9.0",
+        "text": "(Passive Enhanced) After Johnny throws a coin, regardless of whether it hits a target or not, Johnny ignores 100% of the enemy's armor for 10 seconds.\n(Passive Enhanced) After Johnny throws a coin, regardless of whether it hits a target or not, Johnny additionally activates \"Joker Trick\" to deal physical damage equal to 3000% of attack power.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_LIMITED_KOF_CHRIS_4": {
@@ -35765,8 +35765,8 @@
         "original": true
     },
     "TEXT_REPORT_COMPLETE_DESC": {
-        "text": "Your report has been successfully filed.\n\nNo. of Reports Left Today: {0}",
-        "version": "4.14.1",
+        "text": "Your report has been successfully filed.\nNo. of Reports Left Today: {0}",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_REPORT_COMPLETE_TITLE": {
@@ -57545,8 +57545,8 @@
         "original": true
     },
     "TEXT_BATCH_FRUIT_SELL_DESC": {
-        "text": "Berries of grade {0} or higher will be sold upon confirmation.\n\nContinue?",
-        "version": "4.7.0",
+        "text": "Berries of grade {0} or higher will be sold upon confirmation.\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_BEGINNER_PACK_ITEM2_DESC": {
@@ -57880,8 +57880,8 @@
         "original": true
     },
     "TEXT_CARVE_SLOT_ADD_CAUTION_DESC": {
-        "text": "The material weapon will be destroyed in adding a slot to the base weapon.\n(Any Sigils of the material weapon will also be destroyed.)\n \nContinue?",
-        "version": "4.7.0",
+        "text": "The material weapon will be destroyed in adding a slot to the base weapon.\n(Any Sigils of the material weapon will also be destroyed.)\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_CARVE_SLOT_ADD_COMPLETE": {
@@ -57920,8 +57920,8 @@
         "original": true
     },
     "TEXT_CARVE_SLOT_ADD_MATERIAL_WEAPON_EMPTY": {
-        "text": "Please select\n the weapon to use.",
-        "version": "4.7.0",
+        "text": "Please select\nthe weapon to use.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_CARVE_SLOT_ADD_POPUP_TITLE": {
@@ -60060,8 +60060,8 @@
         "original": true
     },
     "TEXT_CONFIRM_SELL_HERO_LEGEND": {
-        "text": "Legendary Heroes grow steadily and have 15% higher stats than\nnormal heroes.\n\nReally retire the hero?",
-        "version": "4.7.0",
+        "text": "Legendary Heroes grow steadily and have 15% higher stats than\nnormal heroes.\nReally retire the hero?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_CONFIRM_SELL_IN_GACHA_HERO_INFO": {
@@ -60865,8 +60865,8 @@
         "original": true
     },
     "TEXT_DUNGEON_ERROR_KEY_DESC": {
-        "text": "Not enough Keys to enter!\n \nOne Key is charged every 20 min. \n \nOr you can buy them from Travelling Merchant Popo!",
-        "version": "4.7.0",
+        "text": "Not enough Keys to enter!\nOne Key is charged every 20 min. \nOr you can buy them from Travelling Merchant Popo!",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_DUNGEON_EVENT_BREAD_DESC": {
@@ -61735,18 +61735,18 @@
         "original": true
     },
     "TEXT_ERROR_NOCRYSTAL_DESC": {
-        "text": "More Crystals are needed.\n\nCrystals can be acquired in the 'Fortress of Souls\".\n\nAlso, it can be acquired by salvaging weapons ranked higher than 6 Stars.",
-        "version": "4.7.0",
+        "text": "More Crystals are needed.\nCrystals can be acquired in the 'Fortress of Souls\".\nAlso, it can be acquired by salvaging weapons ranked higher than 6 Stars.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ERROR_NOPIECE_DESC": {
-        "text": "More Crystal Shards are needed.\n\nCrystal Shards can be acquired in the 'Fortress of Souls\".\n\nAlso, it can be acquired by salvaging weapons ranked higher than 5 Stars.",
-        "version": "4.7.0",
+        "text": "More Crystal Shards are needed.\nCrystal Shards can be acquired in the 'Fortress of Souls\".\nAlso, it can be acquired by salvaging weapons ranked higher than 5 Stars.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ERROR_NOPOWDER_DESC": {
-        "text": "More Crystal Powder is needed.\n\nAcquire Crystal Powder in the 'Fortress of Souls\". \n\nAlso, it can be acquired by salvaging weapons ranked higher than 4 Stars.",
-        "version": "4.7.0",
+        "text": "More Crystal Powder is needed.\nAcquire Crystal Powder in the 'Fortress of Souls\". \nAlso, it can be acquired by salvaging weapons ranked higher than 4 Stars.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ERROR_NOT_ENOUGH_CHARACTER_LEVEL": {
@@ -61915,8 +61915,8 @@
         "original": true
     },
     "TEXT_ERROR_UNABLE_TO_START_MAX_BREAD": {
-        "text": "You cannot start your adventure because you have \n too much bread. Try selling some bread.",
-        "version": "4.7.0",
+        "text": "You cannot start your adventure because you have \ntoo much bread. Try selling some bread.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ERROR_UNABLE_TO_START_MAX_CARVE_STONE": {
@@ -63020,8 +63020,8 @@
         "original": true
     },
     "TEXT_FISH_AUTOFISHING_DESC": {
-        "text": "[Auto Fishing]\n\n1. Leave behind your fishing rod and come back after a certain amount of time to collect fish. \n\n2. In Auto Fishing, you have a higher chance of acquiring other items than fish.\n\n3. Auto Fishing automatically ends when you run out of Bait.\n\n4. You can stop Auto Fishing anytime you choose.",
-        "version": "4.7.0",
+        "text": "[Auto Fishing]\n1. Leave behind your fishing rod and come back after a certain amount of time to collect fish. \n2. In Auto Fishing, you have a higher chance of acquiring other items than fish.\n3. Auto Fishing automatically ends when you run out of Bait.\n4. You can stop Auto Fishing anytime you choose.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_FISH_AUTOFISHING_ING": {
@@ -63040,8 +63040,8 @@
         "original": true
     },
     "TEXT_FISH_AUTOFISHING_STOP_DESC": {
-        "text": "Stop Auto Fish?\n\nYour current fishing progress will be lost.",
-        "version": "4.7.0",
+        "text": "Stop Auto Fish?\nYour current fishing progress will be lost.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_FISH_AUTOFISHING_TITLE": {
@@ -64545,8 +64545,8 @@
         "original": true
     },
     "TEXT_GACHA_WEP_REPEAT10_DESC": {
-        "text": "Obtain 4~6-Star Weapons\n\nOne 6-Star Soulbound Weapon Guaranteed\nRandom Weapon Option Ticket Guaranteed",
-        "version": "4.7.0",
+        "text": "Obtain 4~6-Star Weapons\nOne 6-Star Soulbound Weapon Guaranteed\nRandom Weapon Option Ticket Guaranteed",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_GACHA_WEP_REPEAT10_EVENT_NAME": {
@@ -65360,8 +65360,8 @@
         "original": true
     },
     "TEXT_HELP_20101_MAIN_DESC": {
-        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warriors, Paladins, Archers, Hunters, Wizards, and Priests.\n2. Additionally, they can be further classified by their rarity: Legendary, Contract, Promote, Secret, Normal, and Support.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as working in the Orchard.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n  - 1-Star: LV10/-\n  - 2-Star: LV20/+1\n  - 3-Star: LV30/+2\n  - 4-Star: LV40/+3\n  - 5-Star: LV50/+4\n  - 6-Star: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
-        "version": "4.17.1",
+        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warriors, Paladins, Archers, Hunters, Wizards, and Priests.\n2. Additionally, they can be further classified by their rarity: Legendary, Contract, Promote, Secret, Normal, and Support.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as working in the Orchard.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n- 1-Star: LV10/-\n- 2-Star: LV20/+1\n- 3-Star: LV30/+2\n- 4-Star: LV40/+3\n- 5-Star: LV50/+4\n- 6-Star: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_20102_MAIN": {
@@ -65615,8 +65615,8 @@
         "original": true
     },
     "TEXT_HELP_20410_MAIN_DESC": {
-        "text": "1. Rings can be obtained through clearing Manacar Raids, Weekly Quests, and Legend of Primal Flames Side Story Dungeon.\n2. A Ring has a main option and several sub options depending on the ring's grade.\n  - 1-Star Rings: 1 Main Option / 2-Star Rings: 1 Main Option + 1 Sub Option / 3-, 4-Star Rings: 1 Main Option + 2 Sub Options / 5-,6-Star Rings: 1 Main Option + 3 Sub Options\n3. Rings are classified by their main options and ranks.\n4. Ring options are randomly drawn within a certain range.\n5. They are further classified by their option grades, ranging from Bort, Inferior, Intermediate, Superior, to Premium.\n6. Further information on Ring options can be found through Ring information.",
-        "version": "4.7.0",
+        "text": "1. Rings can be obtained through clearing Manacar Raids, Weekly Quests, and Legend of Primal Flames Side Story Dungeon.\n2. A Ring has a main option and several sub options depending on the ring's grade.\n- 1-Star Rings: 1 Main Option / 2-Star Rings: 1 Main Option + 1 Sub Option / 3-, 4-Star Rings: 1 Main Option + 2 Sub Options / 5-,6-Star Rings: 1 Main Option + 3 Sub Options\n3. Rings are classified by their main options and ranks.\n4. Ring options are randomly drawn within a certain range.\n5. They are further classified by their option grades, ranging from Bort, Inferior, Intermediate, Superior, to Premium.\n6. Further information on Ring options can be found through Ring information.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_20411_MAIN": {
@@ -65625,8 +65625,8 @@
         "original": true
     },
     "TEXT_HELP_20411_MAIN_DESC": {
-        "text": "1. Converting ring options requires either Essence of Flames or Essence of Mana.\n2. Essence of Mana can be obtained by extracting rings or playing 'Legend of Primal Flames' Side Story Dungeon.\n3. Essence of Flames can be obtained by playing 'Legend of Primal Flames' Side Story Dungeon.\n4. Essence of Flames can be used to upgrade the rank of the main and sub options of rings.\n5. Essence of Mana can be used to randomly convert ring sub options.\n6. The number of possible conversions depends on the ring's grade.\n  - 1-, 2-Star Rings: 1 times\n  - 3-, 4-Star Rings: 2 times\n  - 5-Star Rings: 3 times\n  - 6-Star Rings: 5 times",
-        "version": "4.7.0",
+        "text": "1. Converting ring options requires either Essence of Flames or Essence of Mana.\n2. Essence of Mana can be obtained by extracting rings or playing 'Legend of Primal Flames' Side Story Dungeon.\n3. Essence of Flames can be obtained by playing 'Legend of Primal Flames' Side Story Dungeon.\n4. Essence of Flames can be used to upgrade the rank of the main and sub options of rings.\n5. Essence of Mana can be used to randomly convert ring sub options.\n6. The number of possible conversions depends on the ring's grade.\n- 1-, 2-Star Rings: 1 times\n- 3-, 4-Star Rings: 2 times\n- 5-Star Rings: 3 times\n- 6-Star Rings: 5 times",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_20412_MAIN": {
@@ -65805,8 +65805,8 @@
         "original": true
     },
     "TEXT_HELP_30302_MAIN_DESC": {
-        "text": "1. In the Legendary Hero Dungeons, you can not only recruit Legendary Heroes, but also acquire weapons and other useful items. There are six Legendary Hero Dungeons in total: \n  - Disarm / Black and White / Gravity Labyrinth\n  - The Void / Path of Rage / Road to Ruin\n2. Legendary Heroes can be recruited through Destiny Points, which are earned through clearing the Dungeon. \n3. If you are lucky, a Legendary Hero may join you right away!\n4. Using the Potion of Destiny from the Shop will earn you extra Destiny Points every round.",
-        "version": "4.7.0",
+        "text": "1. In the Legendary Hero Dungeons, you can not only recruit Legendary Heroes, but also acquire weapons and other useful items. There are six Legendary Hero Dungeons in total: \n- Disarm / Black and White / Gravity Labyrinth\n- The Void / Path of Rage / Road to Ruin\n2. Legendary Heroes can be recruited through Destiny Points, which are earned through clearing the Dungeon. \n3. If you are lucky, a Legendary Hero may join you right away!\n4. Using the Potion of Destiny from the Shop will earn you extra Destiny Points every round.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_30303_MAIN": {
@@ -65815,8 +65815,8 @@
         "original": true
     },
     "TEXT_HELP_30303_MAIN_DESC": {
-        "text": "1. Earn various items useful in training your Heroes.\n2. Each Dungeon opens on different days of the week. \n  - Chilly Bread Storage (Tuesdays, Saturdays)\n  - Goblin's Secret Storage (Sundays)\n  - Witch Race (Thursdays)\n  - Ancient Trining Grounds (Everyday)\n  - Time Acceleration (Sundays)",
-        "version": "4.7.0",
+        "text": "1. Earn various items useful in training your Heroes.\n2. Each Dungeon opens on different days of the week. \n- Chilly Bread Storage (Tuesdays, Saturdays)\n- Goblin's Secret Storage (Sundays)\n- Witch Race (Thursdays)\n- Ancient Trining Grounds (Everyday)\n- Time Acceleration (Sundays)",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_30304_MAIN": {
@@ -65925,8 +65925,8 @@
         "original": true
     },
     "TEXT_HELP_EXP_BUFF": {
-        "text": "Activation Effect\nEarn 100% more Hero EXP through clearing Scenario Mode stages for {0} hours.\n \n#Scenario Only#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nEarn 100% more Hero EXP through clearing Scenario Mode stages for {0} hours.\n#Scenario Only#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_OPTIONCHANGE": {
@@ -66145,8 +66145,8 @@
         "original": true
     },
     "TEXT_HOUSE_LOAD_WARNING": {
-        "text": "Your current edit will be changed\nto the decorations and background saved in the chosen slot.\n(The wall will be immediately applied and kept even if you choose to cancel this action.)\n\nDo you wish to continue?",
-        "version": "4.13.1",
+        "text": "Your current edit will be changed\nto the decorations and background saved in the chosen slot.\n(The wall will be immediately applied and kept even if you choose to cancel this action.)\nDo you wish to continue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HOUSE_SAVE": {
@@ -66210,18 +66210,18 @@
         "original": true
     },
     "TEXT_HOW_TO_GET_DOC_INFO_DESC": {
-        "text": "–This Hero can be obtained in the Dungeon.\n \n–Each time there will be a different dungeon with a different obtainable Hero.\n \n–Go check out the Dungeon and get a new Hero.",
-        "version": "4.7.0",
+        "text": "–This Hero can be obtained in the Dungeon.\n–Each time there will be a different dungeon with a different obtainable Hero.\n–Go check out the Dungeon and get a new Hero.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HOW_TO_GET_DOC_WEAPON_INFO_DESC": {
-        "text": "– This Weapon can be acquired in the Dungeon.\n \n– 1-2 Star Weapons can be acquired on the 3rd Floor.\n \n– 2-4 Star Weapons can be acquired on the 8th-13th Floors of the Dungeon.\n \n– 2-5 Star Weapons can be acquired on the 18th Floor of the Dungeon.",
-        "version": "4.7.0",
+        "text": "– This Weapon can be acquired in the Dungeon.\n– 1-2 Star Weapons can be acquired on the 3rd Floor.\n– 2-4 Star Weapons can be acquired on the 8th-13th Floors of the Dungeon.\n– 2-5 Star Weapons can be acquired on the 18th Floor of the Dungeon.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HOW_TO_GET_EVENT_INFO_DESC": {
-        "text": "Can only be obtained during special events.\n\nRemember to check in-game announcements or the official community pages for the latest news!",
-        "version": "4.9.0",
+        "text": "Can only be obtained during special events.\nRemember to check in-game announcements or the official community pages for the latest news!",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HOW_TO_GET_EVENT_INFO_WEAPON_DESC": {
@@ -66250,8 +66250,8 @@
         "original": true
     },
     "TEXT_HOW_TO_GET_WORLDBOSS_WEAPON_INFO_DESC": {
-        "text": "– This Weapon can be acquired from the Raid.\n \n– 2-5 Star Weapons can be acquired on the 1st Floor of the Raid.\n \n– 3-6 Star Weapons can be acquired on the 2nd Floor of the Raid.\n \n– 4-6 Star Weapons can be acquired on the 3rd Floor of the Raid.\n \n– 5-6 Star Weapons can be acquired on the 4th Floor of the Raid.",
-        "version": "4.7.0",
+        "text": "– This Weapon can be acquired from the Raid.\n– 2-5 Star Weapons can be acquired on the 1st Floor of the Raid.\n– 3-6 Star Weapons can be acquired on the 2nd Floor of the Raid.\n– 4-6 Star Weapons can be acquired on the 3rd Floor of the Raid.\n– 5-6 Star Weapons can be acquired on the 4th Floor of the Raid.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HUNT": {
@@ -70565,8 +70565,8 @@
         "original": true
     },
     "TEXT_QQ_SHARE_WORLD_BOSS_DESC": {
-        "text": "[Raid Boss] {0} Killed!\n \n- My Damage ({1}) : {2}\n- My Healing ({1}) : {3}\n- {4} 's Damage : {5}\n- {4} 's Healing : {6}\n \n* {7} , the MVP!",
-        "version": "4.7.0",
+        "text": "[Raid Boss] {0} Killed!\n- My Damage ({1}) : {2}\n- My Healing ({1}) : {3}\n- {4} 's Damage : {5}\n- {4} 's Healing : {6}\n* {7} , the MVP!",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_QR_BENEFIT_UP": {
@@ -70665,8 +70665,8 @@
         "original": true
     },
     "TEXT_QUEST_EMPTY_DESC": {
-        "text": "There are no requests at the moment!\n \nPlease come back tomorrow!",
-        "version": "4.7.0",
+        "text": "There are no requests at the moment!\nPlease come back tomorrow!",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_QUEST_GRADE_CHALLENGE": {
@@ -71715,8 +71715,8 @@
         "original": true
     },
     "TEXT_RING_EXTRACT_CONFIRM_5GRADE": {
-        "text": "Rings of grade 5 or higher will be extracted upon confirmation.\n\nContinue?",
-        "version": "4.7.0",
+        "text": "Rings of grade 5 or higher will be extracted upon confirmation.\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_RING_NEED_GRADE_2": {
@@ -71735,13 +71735,13 @@
         "original": true
     },
     "TEXT_RING_SELL_CONFIRM_5GRADE": {
-        "text": "Rings of grade 5 or higher will be sold upon confirmation.\n\nContinue?",
-        "version": "4.7.0",
+        "text": "Rings of grade 5 or higher will be sold upon confirmation.\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_RING_SELL_DESC": {
-        "text": "Ring(s) of grade 3 or higher will be sold upon confirmation.\n\nContinue?",
-        "version": "4.7.0",
+        "text": "Ring(s) of grade 3 or higher will be sold upon confirmation.\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ROMAN_FISHERY_NAME": {
@@ -72950,13 +72950,13 @@
         "original": true
     },
     "TEXT_RUNE_ERROR_DESC_3": {
-        "text": "Selected hero cannot use this skill.\n\nOnly heroes of rank 3 or higher can use special skills.",
-        "version": "4.7.0",
+        "text": "Selected hero cannot use this skill.\nOnly heroes of rank 3 or higher can use special skills.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_RUNE_ERROR_DESC_5": {
-        "text": "Selected hero cannot use this skill.\n\nOnly heroes of rank 5 or higher can use Adv. special skills.",
-        "version": "4.7.0",
+        "text": "Selected hero cannot use this skill.\nOnly heroes of rank 5 or higher can use Adv. special skills.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_RXCHANGE_HONOR_FRIEND_GOAL": {
@@ -74330,13 +74330,13 @@
         "original": true
     },
     "TEXT_SKILL_PR_RICKY_LV2_SUBDESC": {
-        "text": "Upon using 3 of his own blocks, a random card is drawn and activates an effect as shown below. (Cooltime: 2 seconds)\n\n- K : Generates 1 leader block. (Except Ricky's)\n- Q : Generates 1 Ricky's block.\n- J : Nothing happens.",
-        "version": "4.7.0",
+        "text": "Upon using 3 of his own blocks, a random card is drawn and activates an effect as shown below. (Cooltime: 2 seconds)\n- K : Generates 1 leader block. (Except Ricky's)\n- Q : Generates 1 Ricky's block.\n- J : Nothing happens.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_PR_RICKY_LV3_SUBDESC": {
-        "text": "Upon using 3 of his own blocks, a random card is drawn and activates an effect as shown below. (Cooltime: 2 seconds)\n\n- K : Generates 2 leader blocks. (Except Ricky's)\n- Q : Generates 1 Ricky's block.\n- J : Nothing happens.",
-        "version": "4.7.0",
+        "text": "Upon using 3 of his own blocks, a random card is drawn and activates an effect as shown below. (Cooltime: 2 seconds)\n- K : Generates 2 leader blocks. (Except Ricky's)\n- Q : Generates 1 Ricky's block.\n- J : Nothing happens.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_PR_RICKY_NAME": {
@@ -74470,8 +74470,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_IZUNA_LV3_SUBDESC": {
-        "text": "Upon using 'Blade Draw', Izuna's armor penetration is increased by 250, and critical damage by 20%. If Izuna uses her block skill during 'Blade Draw', she uses either 'Blade Draw' or 'Blade Gleam' depending on her distance from the enemy.\n  \n'Blade Gleam': If the enemy is farther away from Izuna than the attack range of 'Blade Draw,' Izuna charges forward to the nearest enemy and deals #physical damage# equal to 600% of her attack power.",
-        "version": "4.7.0",
+        "text": "Upon using 'Blade Draw', Izuna's armor penetration is increased by 250, and critical damage by 20%. If Izuna uses her block skill during 'Blade Draw', she uses either 'Blade Draw' or 'Blade Gleam' depending on her distance from the enemy.\n'Blade Gleam': If the enemy is farther away from Izuna than the attack range of 'Blade Draw,' Izuna charges forward to the nearest enemy and deals #physical damage# equal to 600% of her attack power.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_IZUNA_NAME": {
@@ -74530,18 +74530,18 @@
         "original": true
     },
     "TEXT_SKILL_WA_TWILLY_DESC": {
-        "text": "Twillie activates [Shield of Glory / Fortress of Victory / Strike of Faith] according to the chain number she uses.\n\nShield of Glory: Twillie's armor is increased by 50 (maximum 1000).\nFortress of Victory: Twillie's resistance is increased by 50 (maximum 1000).\nStrike of Faith: Twillie impales her greatsword to deal #physical damage# equal to 500% of her attack power.\n\nAfter 'Strike of Faith,' Twillie lunges forward and activates 'Earth Divider' to deal #physical damage# equal to 150% of her attack power per hit.",
-        "version": "4.7.0",
+        "text": "Twillie activates [Shield of Glory / Fortress of Victory / Strike of Faith] according to the chain number she uses.\nShield of Glory: Twillie's armor is increased by 50 (maximum 1000).\nFortress of Victory: Twillie's resistance is increased by 50 (maximum 1000).\nStrike of Faith: Twillie impales her greatsword to deal #physical damage# equal to 500% of her attack power.\nAfter 'Strike of Faith,' Twillie lunges forward and activates 'Earth Divider' to deal #physical damage# equal to 150% of her attack power per hit.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_TWILLY_LV2_SUBDESC": {
-        "text": "Activating 'Earth Divider' will change Twillie's block skills to [Enhanced Leg / Enhanced Blade / Last Stand] according to the number of chain used. \n\nEnhanced Leg: Twillie's speed is increased by 25%. (Maximum 5 attacks)\nEnhanced Blade: Damage on the enemy is increased by 12%. (Maximum 5 attacks)\nLast Stand: Twillie thrusts her greatsword to deal #physical damage# equal to 700% of her attack power. All block skill effects are reset with this attack.\n\nAfter 15 seconds, Twillie uses her 3-chain.",
-        "version": "4.7.0",
+        "text": "Activating 'Earth Divider' will change Twillie's block skills to [Enhanced Leg / Enhanced Blade / Last Stand] according to the number of chain used. \nEnhanced Leg: Twillie's speed is increased by 25%. (Maximum 5 attacks)\nEnhanced Blade: Damage on the enemy is increased by 12%. (Maximum 5 attacks)\nLast Stand: Twillie thrusts her greatsword to deal #physical damage# equal to 700% of her attack power. All block skill effects are reset with this attack.\nAfter 15 seconds, Twillie uses her 3-chain.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_TWILLY_LV3_SUBDESC": {
-        "text": "Activating 'Earth Divider' will change Twillie's block skills to [Enhanced Leg / Enhanced Blade / Last Stand] according to the number of chain used. \n\nEnhanced Leg: Twillie's speed is increased by 25%. (Maximum 5 attacks)\nEnhanced Blade: Damage on the enemy is increased by 12%. (Maximum 5 attacks)\nLast Stand: Twillie thrusts her greatsword to deal #physical damage# equal to 1200% of her attack power. All block skill effects are reset with this attack.\n\nAfter 15 seconds, Twillie uses her 3-chain. \n\nActivating 'Earth Shaker' will grant Twillie immunity to all  debuffs. Upon using another ally's 3-chain, Twillie will recover HP equal to 10% of her attack power.",
-        "version": "4.7.0",
+        "text": "Activating 'Earth Divider' will change Twillie's block skills to [Enhanced Leg / Enhanced Blade / Last Stand] according to the number of chain used. \nEnhanced Leg: Twillie's speed is increased by 25%. (Maximum 5 attacks)\nEnhanced Blade: Damage on the enemy is increased by 12%. (Maximum 5 attacks)\nLast Stand: Twillie thrusts her greatsword to deal #physical damage# equal to 1200% of her attack power. All block skill effects are reset with this attack.\nAfter 15 seconds, Twillie uses her 3-chain. \nActivating 'Earth Shaker' will grant Twillie immunity to all  debuffs. Upon using another ally's 3-chain, Twillie will recover HP equal to 10% of her attack power.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_TWILLY_NAME": {
@@ -74630,8 +74630,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_YS8_DANA_LV3_SUBDESC": {
-        "text": "If Dana uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds. Additionally, she activates 'Dragon Spirit.' \n\nDragon Spirit (Cooltime: 3 seconds. Cannot be purged.)\nFor 15 seconds, Dana becomes resistant to knockbacks, and her attack power and resistance penetration are increased by 400. During this state, she uses [Mistrel Blow / Twin Moon Blade / Spiel Round Steps] according to the chain number she uses. \n\nMistrel Blow: Dana spins as smoothly as the wind to deal @magical damage@ equal to 400% of her attack power.\n\nTwin Moon Blade: Dana flashes her crescent moon blades to deal @magical damage@ equal to 600% of her attack power.\n\nSpiel Round Steps: Dana dances around the enemy to deal @magical damage@ equal to 1800% of her attack power.",
-        "version": "4.13.1",
+        "text": "If Dana uses a block immediately before being hit, she activates 'Flash Move' that increases her motion speed by 10% and decreases the damage she receives by 20% for 3 seconds. Additionally, she activates 'Dragon Spirit.' \nDragon Spirit (Cooltime: 3 seconds. Cannot be purged.)\nFor 15 seconds, Dana becomes resistant to knockbacks, and her attack power and resistance penetration are increased by 400. During this state, she uses [Mistrel Blow / Twin Moon Blade / Spiel Round Steps] according to the chain number she uses. \nMistrel Blow: Dana spins as smoothly as the wind to deal @magical damage@ equal to 400% of her attack power.\nTwin Moon Blade: Dana flashes her crescent moon blades to deal @magical damage@ equal to 600% of her attack power.\nSpiel Round Steps: Dana dances around the enemy to deal @magical damage@ equal to 1800% of her attack power.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_YS8_DANA_NAME": {
@@ -76070,58 +76070,58 @@
         "original": true
     },
     "TEXT_TWITTER_LIKE_WORLD_BOSS_DESC": {
-        "text": "[Raid Boss] {0} Killed!\n \n- My Damage ({1}) : {2}\n- My Healing ({1}) : {3}\n- {4} 's Damage : {5}\n- {4} 's Healing : {6}\n \n* {7} , the MVP!",
-        "version": "4.7.0",
+        "text": "[Raid Boss] {0} Killed!\n- My Damage ({1}) : {2}\n- My Healing ({1}) : {3}\n- {4} 's Damage : {5}\n- {4} 's Healing : {6}\n* {7} , the MVP!",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_ABILITY_BLOCK_DESC_2": {
-        "text": "Activation Effect\nAccelerate block creation speed by 20%\n \n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nAccelerate block creation speed by 20%\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_ABILITY_CRI_DESC_2": {
-        "text": "Activation Effect\nIncrease 30% of Critical chance, 50% of Critical damage\n \n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nIncrease 30% of Critical chance, 50% of Critical damage\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_ABILITY_PENETRATION_DESC_2": {
-        "text": "Activation Effect\nArmor peneration, Resistance penetration +200\n \n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nArmor peneration, Resistance penetration +200\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_ABILITY_REDUCE_DESC_2": {
-        "text": "Activation Effect\nDamage reduced up to 10%\n \n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nDamage reduced up to 10%\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_ABILITY_STAT_DESC_2": {
-        "text": "Activation Effect\nIncrease stats(attack, armor, resistance, HP) up to 20%\n \n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nIncrease stats(attack, armor, resistance, HP) up to 20%\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_EXP_BUFF_DESC2": {
-        "text": "Activation Effect\nExp. + 100%\n \n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nExp. + 100%\n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_GODDESS_GREEN_DESC_2": {
-        "text": "Activation Effect\nExp. & Gold + 150%\n \n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nExp. & Gold + 150%\n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_GODDESS_PUR_DESC_2": {
-        "text": "Activation Effect\nExp. & Gold + 100%\n \n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nExp. & Gold + 100%\n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_GODDESS_RED_DESC_2": {
-        "text": "Activation Effect\nExp. & Gold + 400%\n \n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nExp. & Gold + 400%\n#Scenario Only#\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_TYPE_POINT_DESC_2": {
-        "text": "Activation Effect\nDestiny Points +2\n \n#Dungeon Only#\n#Can be used in Battle Preparation Menu#",
-        "version": "4.7.0",
+        "text": "Activation Effect\nDestiny Points +2\n#Dungeon Only#\n#Can be used in Battle Preparation Menu#",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_UNKNOWN_GIRL_NAME": {
@@ -77035,13 +77035,13 @@
         "original": true
     },
     "TEXT_WARNING_WEAPONE_DISMANTLE_DESC": {
-        "text": "[★5 and above / Upgraded / Soulbound / Old] Weapon(s) have been selected.\nContinue?\n\n*Warning: Inlaid Sigils will not be returned.",
-        "version": "4.18.0",
+        "text": "[★5 and above / Upgraded / Soulbound / Old] Weapon(s) have been selected.\nContinue?\n*Warning: Inlaid Sigils will not be returned.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WARNING_WEAPONE_SELL_DESC": {
-        "text": "[Upgraded / Soulbound / Old] Weapon(s) have been selected. \nContinue? \n\n*Warning: Inlaid Sigils will not be returned.",
-        "version": "4.18.0",
+        "text": "[Upgraded / Soulbound / Old] Weapon(s) have been selected. \nContinue? \n*Warning: Inlaid Sigils will not be returned.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEAPON_CARVING_COUPON_NAME": {
@@ -77100,8 +77100,8 @@
         "original": true
     },
     "TEXT_WEAPON_DISMANTLE_CHECK_DESC": {
-        "text": "Weapon of rank {0} is included in your salvage list.\n\nContinue?",
-        "version": "4.7.0",
+        "text": "Weapon of rank {0} is included in your salvage list.\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEAPON_DISMANTLE_GOAL": {
@@ -77120,13 +77120,13 @@
         "original": true
     },
     "TEXT_WEAPON_LIMITED_SELL_DESC": {
-        "text": "Soulbound Weapon(s) of Secret Hero(es) will be sold if you confirm.\n \nContinue?",
-        "version": "4.7.0",
+        "text": "Soulbound Weapon(s) of Secret Hero(es) will be sold if you confirm.\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEAPON_SELL_DESC": {
-        "text": "Weapons of grade {0} or higher will be sold upon confirmation.\n\nContinue?",
-        "version": "4.7.0",
+        "text": "Weapons of grade {0} or higher will be sold upon confirmation.\nContinue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEAPON_UPGRADE_ANTIQUE_GOAL": {
@@ -77360,8 +77360,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_GU_CHA_6_22_DESC": {
-        "text": "(Passive Enhanced) 'Enemy Detection Beam' deals twice the damage.\n (Passive Added) Upon the termination of 'Optical Mark,' Zahard uses 'Crimson Satellite Beam' to deal magical damage equal to 1750% of his attack power.(Cooltime: 5 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) 'Enemy Detection Beam' deals twice the damage.\n(Passive Added) Upon the termination of 'Optical Mark,' Zahard uses 'Crimson Satellite Beam' to deal magical damage equal to 1750% of his attack power.(Cooltime: 5 seconds)",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_GU_CHA_6_22_NAME": {
@@ -77445,8 +77445,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_22_DESC": {
-        "text": "(Passive Enhanced) When Mengqi's HP is above 50%, his armor and resistance are increased by 300. Additionally, he is not stunned upon activating 'Fierce Dragon Charge.' Upon using a 3-chain, Mengqi automatically generates 1 block each for other allies.\n (Passive Added) At the end of his 'Fierce Dragon Charge,' Mengqi uses 'Fierce Dragon of the Heavens' to deal physical damage equal to 1500% of his attack power.",
-        "version": "4.7.0",
+        "text": "(Passive Enhanced) When Mengqi's HP is above 50%, his armor and resistance are increased by 300. Additionally, he is not stunned upon activating 'Fierce Dragon Charge.' Upon using a 3-chain, Mengqi automatically generates 1 block each for other allies.\n(Passive Added) At the end of his 'Fierce Dragon Charge,' Mengqi uses 'Fierce Dragon of the Heavens' to deal physical damage equal to 1500% of his attack power.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_22_NAME": {
@@ -77625,8 +77625,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_ST_CHA_6_24_DESC": {
-        "text": "(Block Skill Enhanced) 'Glacial Sphere' lasts 2 more seconds, and deals additional damage equal to 100% of Lakias's attack power.\n (Passive Added) All 'Glacial Sphere' activated by 'Swift Enchantment' are changed to 'Icy Blizzard.' 'Icy Blizzard' deals magical damage equal to 600% of Lakias's attack power for 3 seconds, and slightly pulls in all enemies. 3 seconds after the attack, Lakias summons 'icy pillars' over the area that deal magical damage equal to 1500% of her attack power and knock enemies into the air. (Cooltime: 1 second)",
-        "version": "4.7.0",
+        "text": "(Block Skill Enhanced) 'Glacial Sphere' lasts 2 more seconds, and deals additional damage equal to 100% of Lakias's attack power.\n(Passive Added) All 'Glacial Sphere' activated by 'Swift Enchantment' are changed to 'Icy Blizzard.' 'Icy Blizzard' deals magical damage equal to 600% of Lakias's attack power for 3 seconds, and slightly pulls in all enemies. 3 seconds after the attack, Lakias summons 'icy pillars' over the area that deal magical damage equal to 1500% of her attack power and knock enemies into the air. (Cooltime: 1 second)",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_ST_CHA_6_24_NAME": {
@@ -78290,13 +78290,13 @@
         "original": true
     },
     "TEXT_ARENA_LOBBY_POPUP_CALCULATE": {
-        "text": "Arena is under maintenance. \n\nYou will be redirected to Town.",
-        "version": "4.7.0",
+        "text": "Arena is under maintenance. \nYou will be redirected to Town.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ARENA_LOBBY_POPUP_CHANGE_DESC": {
-        "text": "Last week's Top 5 Heroes have been banned.\n\nThe above heroes cannot enter the Arena for 2 weeks.",
-        "version": "4.7.0",
+        "text": "Last week's Top 5 Heroes have been banned.\nThe above heroes cannot enter the Arena for 2 weeks.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ARENA_LOBBY_POPUP_CHANGE_TITLE": {
@@ -78625,8 +78625,8 @@
         "original": true
     },
     "TEXT_FRIEND_FB_LOGIN_DESC": {
-        "text": "Send a game invitation to your friends on Facebook!\n\nTrade meat and honor with your friends every day on Crusaders Quest!",
-        "version": "4.7.0",
+        "text": "Send a game invitation to your friends on Facebook!\nTrade meat and honor with your friends every day on Crusaders Quest!",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_GACHA_CHA_AR_REPEAT10_DESC": {
@@ -79350,8 +79350,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_6_25_DESC": {
-        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her HP per second based on the HP she had when the skill was activated, and strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.\n (Passive Enhanced) Echidna's familiar 'Loydie' is strengthened to deal neutral damage equal to 2000% of Echidna's attack power.\n (Passive Added) Upon using her own block after another ally's 3-chain, Echidna summons a 'Serpentine Shadow' that pulls in all enemies within her range. If this passive activates during 'Serpentine Domain,' Echidna immobilizes the enemy for 5 seconds. (Cooltime: 6 seconds)",
-        "version": "4.8.0",
+        "text": "(Passive Enhanced) While 'Serpentine Domain' is active, Echidna loses 3% of her HP per second based on the HP she had when the skill was activated, and strengthens her passive to deal more hits. Additionally, 'Serpentine Domain' is enhanced to deal neutral damage equal to 3000% of Echidna's attack power for 5 seconds.\n(Passive Enhanced) Echidna's familiar 'Loydie' is strengthened to deal neutral damage equal to 2000% of Echidna's attack power.\n(Passive Added) Upon using her own block after another ally's 3-chain, Echidna summons a 'Serpentine Shadow' that pulls in all enemies within her range. If this passive activates during 'Serpentine Domain,' Echidna immobilizes the enemy for 5 seconds. (Cooltime: 6 seconds)",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_SW_CHA_6_25_NAME": {
@@ -80090,8 +80090,8 @@
         "original": true
     },
     "TEXT_WARGAME_NOTICE_GROUPLEADER_DESC_2": {
-        "text": "The Captain who uses the most markers in one round will become the Team Leader of the next round.\n\nThe Team Leader can add 'Signposts' to the Conquest Game Map.",
-        "version": "4.9.0",
+        "text": "The Captain who uses the most markers in one round will become the Team Leader of the next round.\nThe Team Leader can add 'Signposts' to the Conquest Game Map.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WARGAME_NOTICE_GROUPLEADER_TITLE": {
@@ -80775,8 +80775,8 @@
         "original": true
     },
     "TEXT_HELP_BOOST_DESC": {
-        "text": "1. Boosts are unlocked after clearing the Kalard Chronicles, Episode 1.\n2. Boosts can be used in Scenario and Challenge Modes.\n3. Using Boosts to clear a stage will cost more Meat than normal play, in proportion to the number of times cleared with Boosts.\n4. Using Boosts to clear a stage will earn you twice the usual reward earned through normal play.\n5. Using Boosts will cost you up to a maximum of 4 times the Meat used in normal play, in accordance to the number of times cleared with Boosts: \n   - 1~3 times cleared: x2 Meat\n   - 4~8 times cleared: x3 Meat\n   - 9+ times cleared: x4 Meat\n6. The daily Boost limit is reset every midnight UTC.\n7. You cannot use Elixirs of the Goddess together with Boosts.",
-        "version": "4.9.0",
+        "text": "1. Boosts are unlocked after clearing the Kalard Chronicles, Episode 1.\n2. Boosts can be used in Scenario and Challenge Modes.\n3. Using Boosts to clear a stage will cost more Meat than normal play, in proportion to the number of times cleared with Boosts.\n4. Using Boosts to clear a stage will earn you twice the usual reward earned through normal play.\n5. Using Boosts will cost you up to a maximum of 4 times the Meat used in normal play, in accordance to the number of times cleared with Boosts: \n- 1~3 times cleared: x2 Meat\n- 4~8 times cleared: x3 Meat\n- 9+ times cleared: x4 Meat\n6. The daily Boost limit is reset every midnight UTC.\n7. You cannot use Elixirs of the Goddess together with Boosts.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_BUNDLEBOXLIST": {
@@ -81205,8 +81205,8 @@
         "original": true
     },
     "TEXT_MIX_TRY_NOTI_DESC": {
-        "text": "Items used in crafting will be permanently consumed. \n\nDo you wish to continue?",
-        "version": "4.9.0",
+        "text": "Items used in crafting will be permanently consumed. \nDo you wish to continue?",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_MIX_TRY_NOTI_TITLE": {
@@ -81440,13 +81440,13 @@
         "original": true
     },
     "TEXT_SKILL_WA_REDNAS_LV2_SUBDESC": {
-        "text": "Upon using her own block skill, Lednas raises her shield and stands in the position of 'Grancian Shield Combat' for 10 seconds. (Cooltime: 12 seconds) During 'Grancian Shield Combat,' Lednas gets 10% damage reduction and cannot be pushed back, but her movement speed is reduced by 30%. Additionally, her block skill is changed to 'Shield Blow' during 'Grancian Shield Combat':\n\n<Shield Blow>\nUpon using her block skill during 'Grancian Shield Combat,' Lednas charges forth and deals #physical damage# equal to 150% of her attack power to 1 enemy within her range. Hit enemies are knocked back and immobilized for 2 seconds.",
-        "version": "4.9.0",
+        "text": "Upon using her own block skill, Lednas raises her shield and stands in the position of 'Grancian Shield Combat' for 10 seconds. (Cooltime: 12 seconds) During 'Grancian Shield Combat,' Lednas gets 10% damage reduction and cannot be pushed back, but her movement speed is reduced by 30%. Additionally, her block skill is changed to 'Shield Blow' during 'Grancian Shield Combat':\n<Shield Blow>\nUpon using her block skill during 'Grancian Shield Combat,' Lednas charges forth and deals #physical damage# equal to 150% of her attack power to 1 enemy within her range. Hit enemies are knocked back and immobilized for 2 seconds.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_REDNAS_LV3_SUBDESC": {
-        "text": "Upon using her own block skill, Lednas raises her shield and stands in the position of 'Grancian Shield Combat' for 10 seconds. (Cooltime: 12 seconds) During 'Grancian Shield Combat,' Lednas gets 20% damage reduction and cannot be pushed back, but her movement speed is reduced by 20%. Additionally, her block skill is changed to 'Shield Blow' during 'Grancian Shield Combat':\n\n<Shield Blow>\nUpon using her block skill during 'Grancian Shield Combat,' Lednas charges forth and deals #physical damage# equal to 150% of her attack power to 1 enemy within her range. Hit enemies are knocked back and immobilized for 3 seconds.",
-        "version": "4.9.0",
+        "text": "Upon using her own block skill, Lednas raises her shield and stands in the position of 'Grancian Shield Combat' for 10 seconds. (Cooltime: 12 seconds) During 'Grancian Shield Combat,' Lednas gets 20% damage reduction and cannot be pushed back, but her movement speed is reduced by 20%. Additionally, her block skill is changed to 'Shield Blow' during 'Grancian Shield Combat':\n<Shield Blow>\nUpon using her block skill during 'Grancian Shield Combat,' Lednas charges forth and deals #physical damage# equal to 150% of her attack power to 1 enemy within her range. Hit enemies are knocked back and immobilized for 3 seconds.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_REDNAS_NAME": {
@@ -81730,8 +81730,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_ST_CHA_6_25_DESC": {
-        "text": "(Block Skill Enhanced) The range of 'Fog of Death' is increased by 100%.\n (Passive Enhanced) The 'Mark of the Reaper' decreases the enemy's resistance and healing received by 30%.\n (Passive Added) The Grim Reaper summons a Death Specter over the head of the nearest enemy to the 'Mark of the Reaper.' The Death Specter swings his scythe at enemies in front to deal magical damage equal to 1000% of the Grim Reaper's attack power. (Cooltime: 2 seconds) Additionally, if the Death Specter's scythe lands an accurate hit, the Grim Reaper's attack power increases by 5% with every hit enemy. (Duration 10 seconds, maximum 10 stacks)",
-        "version": "4.9.0",
+        "text": "(Block Skill Enhanced) The range of 'Fog of Death' is increased by 100%.\n(Passive Enhanced) The 'Mark of the Reaper' decreases the enemy's resistance and healing received by 30%.\n(Passive Added) The Grim Reaper summons a Death Specter over the head of the nearest enemy to the 'Mark of the Reaper.' The Death Specter swings his scythe at enemies in front to deal magical damage equal to 1000% of the Grim Reaper's attack power. (Cooltime: 2 seconds) Additionally, if the Death Specter's scythe lands an accurate hit, the Grim Reaper's attack power increases by 5% with every hit enemy. (Duration 10 seconds, maximum 10 stacks)",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_ST_CHA_6_25_NAME": {
@@ -82105,8 +82105,8 @@
         "original": true
     },
     "TEXT_CHA_WI_3_18_DESC": {
-        "text": "A scientist of Hasla with a charismatic deep voice and superior knowledge of foreign languages. He is strong enough to fend for himself, as he has often done so on his travels to study the ancient civilizations of the Desert. Although he walks his path alone for the time being, he knows that there will be light at the end of the road. With every new day, he will step out once more into the Desert with renewed hope, and his friends will always look out for him in their hearts.\n\n- In memory of our dear friend, Team CQ. -",
-        "version": "4.9.0",
+        "text": "A scientist of Hasla with a charismatic deep voice and superior knowledge of foreign languages. He is strong enough to fend for himself, as he has often done so on his travels to study the ancient civilizations of the Desert. Although he walks his path alone for the time being, he knows that there will be light at the end of the road. With every new day, he will step out once more into the Desert with renewed hope, and his friends will always look out for him in their hearts.\n- In memory of our dear friend, Team CQ. -",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_CHA_WI_3_18_NAME": {
@@ -83920,8 +83920,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_CAENEUS_LV3_SUBDESC": {
-        "text": "During his shield canceling debuff, Caeneus decreases the damage he receives by 25% and increases his armor and resistance by 500.  \n(Block Skill Altered) If he reuses his block skill during this time, only the duration of the shield canceling debuff is refreshed.\n\nIf Caeneus is the only ally left during the fight, Caeneus enters 'Courageous Fury' mode. (Only activates once)\n'Courageous Fury': Caeneus instantly heals 100% of his HP, and his attack speed is increased by 50%. His auto attack is enhanced to deal #physical damage# equal to 100% of his resistance.\n(Block Skill and Passive Altered) Caeneus's normal Block Skill and Passive do not activate during 'Courageous Fury.'",
-        "version": "4.9.0",
+        "text": "During his shield canceling debuff, Caeneus decreases the damage he receives by 25% and increases his armor and resistance by 500.  \n(Block Skill Altered) If he reuses his block skill during this time, only the duration of the shield canceling debuff is refreshed.\nIf Caeneus is the only ally left during the fight, Caeneus enters 'Courageous Fury' mode. (Only activates once)\n'Courageous Fury': Caeneus instantly heals 100% of his HP, and his attack speed is increased by 50%. His auto attack is enhanced to deal #physical damage# equal to 100% of his resistance.\n(Block Skill and Passive Altered) Caeneus's normal Block Skill and Passive do not activate during 'Courageous Fury.'",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_PA_CAENEUS_NAME": {
@@ -83955,8 +83955,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_GU_CHA_6_25_DESC": {
-        "text": "(Passive Enhanced) The duration of 'Radiance of the Battlefield' increases by 2 seconds.\n\n(Passive Added) If Carol or another ally uses a 3-chain during 'Radiance of the Battlefield,' Carol teleports to the nearest enemy and uses 'Brave Slash' to deal physical power equal to 3000% of her attack power with 2 hits. Upon the termination of 'Brave Slash,' Carol returns to her initial location. (Cooltime: 5 seconds)",
-        "version": "4.9.0",
+        "text": "(Passive Enhanced) The duration of 'Radiance of the Battlefield' increases by 2 seconds.\n(Passive Added) If Carol or another ally uses a 3-chain during 'Radiance of the Battlefield,' Carol teleports to the nearest enemy and uses 'Brave Slash' to deal physical power equal to 3000% of her attack power with 2 hits. Upon the termination of 'Brave Slash,' Carol returns to her initial location. (Cooltime: 5 seconds)",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_GU_CHA_6_25_NAME": {
@@ -83985,8 +83985,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_25_DESC": {
-        "text": "(Passive Enhanced) During his shield canceling debuff, Caeneus decreases the damage he receives by 40% and increases his armor and resistance by 800.\n(Passive Added) During his shield canceling debuff, Caeneus additionally increases his armor and resistance by 30%, and knockback resistance by 30%.\n\nUpon using another ally's block skill, Caeneus receives all damage targeted at the entire team and increases his movement speed by 50% for 2 seconds. (This effect cannot be canceled.)\nWith every 3 block skills used by another ally, Caeneus generates 1 block of his own. (Cooltime: 2 seconds)\n\nCaeneus always uses 'Aura of Justice.'\n'Aura of Justice': All subjects within the skill's range receive 90% more critical resistance when hit by attacks dealt from outside the Aura.",
-        "version": "4.9.0",
+        "text": "(Passive Enhanced) During his shield canceling debuff, Caeneus decreases the damage he receives by 40% and increases his armor and resistance by 800.\n(Passive Added) During his shield canceling debuff, Caeneus additionally increases his armor and resistance by 30%, and knockback resistance by 30%.\nUpon using another ally's block skill, Caeneus receives all damage targeted at the entire team and increases his movement speed by 50% for 2 seconds. (This effect cannot be canceled.)\nWith every 3 block skills used by another ally, Caeneus generates 1 block of his own. (Cooltime: 2 seconds)\nCaeneus always uses 'Aura of Justice.'\n'Aura of Justice': All subjects within the skill's range receive 90% more critical resistance when hit by attacks dealt from outside the Aura.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_25_NAME": {
@@ -85670,8 +85670,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_CHA_6_26_DESC": {
-        "text": "(Passive Added) Upon using her block skill, Shub wraps the enemy marked as the 'sacrifice' with her tentacles for 5 seconds to immobilize them and deal magical damage equal to 100% of her attack power per second.\nAdditionally, whenever the enemy marked as 'sacrifice' receives a debuff, the following passives will be acivated one at a time in the order below: (Cooltime: 1 second)\n\nRevelation: Allies do not receive damage for 2 hits.\nPenance: Shub deals magical damage equal to 600% of her attack power to the enemy marked as the 'sacrifice' and dispels their buffs.\nPandemonium: All enemies within Shub's range receive neutral damage equal to 15% of Shub's maximum HP and are stunned for 1 second. This passive ignores enemies' abilities of receiving the party's damage in their stead.",
-        "version": "4.13.1",
+        "text": "(Passive Added) Upon using her block skill, Shub wraps the enemy marked as the 'sacrifice' with her tentacles for 5 seconds to immobilize them and deal magical damage equal to 100% of her attack power per second.\nAdditionally, whenever the enemy marked as 'sacrifice' receives a debuff, the following passives will be acivated one at a time in the order below: (Cooltime: 1 second)\nRevelation: Allies do not receive damage for 2 hits.\nPenance: Shub deals magical damage equal to 600% of her attack power to the enemy marked as the 'sacrifice' and dispels their buffs.\nPandemonium: All enemies within Shub's range receive neutral damage equal to 15% of Shub's maximum HP and are stunned for 1 second. This passive ignores enemies' abilities of receiving the party's damage in their stead.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_CHA_6_26_NAME": {
@@ -86210,8 +86210,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_ROSKVA_LV3_SUBDESC": {
-        "text": "If Roskva's block skill accurately hits, Roskva becomes 'exalted' for 5 seconds. 'Exaltation' increases accuracy by 30%. Additionally, it generates 1 block of her own. (Cooltime: 5 seconds)\n\nIf Roskva uses her 3-chain while 'exalted,' she additionally uses 'Glacial Blade,' which deals physical damage equal to 1500% of her attack power over 3 hits to all enemies within her range. Enemies hit by 'Glacial Blade' lose 10% of their evasion for 5 seconds.",
-        "version": "4.13.1",
+        "text": "If Roskva's block skill accurately hits, Roskva becomes 'exalted' for 5 seconds. 'Exaltation' increases accuracy by 30%. Additionally, it generates 1 block of her own. (Cooltime: 5 seconds)\nIf Roskva uses her 3-chain while 'exalted,' she additionally uses 'Glacial Blade,' which deals physical damage equal to 1500% of her attack power over 3 hits to all enemies within her range. Enemies hit by 'Glacial Blade' lose 10% of their evasion for 5 seconds.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WA_ROSKVA_NAME": {
@@ -86485,8 +86485,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_ODIN_DESC": {
-        "text": "Odin wields [1/2/3] spears that deal #physical damage# equal to [400/400/400]% of his attack power, according to the chain number used. Each of Odin's spears activates different effects, in the order they are used.\n\nFirst Spear: Knocks back enemies within its range.\nSecond Spear: Pulls in enemies within its range.\nThird Spear: Knocks enemies within its range into the air.",
-        "version": "4.15.4",
+        "text": "Odin wields [1/2/3] spears that deal #physical damage# equal to [400/400/400]% of his attack power, according to the chain number used. Each of Odin's spears activates different effects, in the order they are used.\nFirst Spear: Knocks back enemies within its range.\nSecond Spear: Pulls in enemies within its range.\nThird Spear: Knocks enemies within its range into the air.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_PA_ODIN_LV2_SUBDESC": {
@@ -86590,8 +86590,8 @@
         "original": true
     },
     "TEXT_CHAT_PENALTY_DESC": {
-        "text": "You have been temporarily restricted from chatting due to multiple reports on your recent messages. You will be subject to stricter regulations if you receive more reports.\n\nTime Left {0:00}:{1:00}",
-        "version": "4.14.1",
+        "text": "You have been temporarily restricted from chatting due to multiple reports on your recent messages. You will be subject to stricter regulations if you receive more reports.\nTime Left {0:00}:{1:00}",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_CHAT_PENALTY_TITLE": {
@@ -87615,18 +87615,18 @@
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_DESC": {
-        "text": "Using blocks summons members of Team Urako for 5 seconds each in the following order: [Tsune/Tenko/Nue]. If members of Team Urako are already summoned, the duration of 'Team Urako!' is renewed.\n\n- Team Urako!\nTsune: A cute fox spirit.\nTenko: Tenko throws his feathers toward the frontmost enemy every 2 seconds to deal @magical damage@ equal to 500% of attack power.\nNue: Nue throws fireballs toward the frontmost enemy to deal @magical damage@ equal to [400/700/1000]% of attack power, according to the chain number used.",
-        "version": "4.15.3",
+        "text": "Using blocks summons members of Team Urako for 5 seconds each in the following order: [Tsune/Tenko/Nue]. If members of Team Urako are already summoned, the duration of 'Team Urako!' is renewed.\n- Team Urako!\nTsune: A cute fox spirit.\nTenko: Tenko throws his feathers toward the frontmost enemy every 2 seconds to deal @magical damage@ equal to 500% of attack power.\nNue: Nue throws fireballs toward the frontmost enemy to deal @magical damage@ equal to [400/700/1000]% of attack power, according to the chain number used.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_LV2_SUBDESC": {
-        "text": "If members of Team Urako are summoned, they additionally cast the below buffs:\n\nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%",
-        "version": "4.15.3",
+        "text": "If members of Team Urako are summoned, they additionally cast the below buffs:\nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_LV3_SUBDESC": {
-        "text": "If members of Team Urako are summoned, they additionally cast the below buffs: \n\nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%\n\nIf the entirety of Team Urako is summoned, the values of the buffs are doubled.",
-        "version": "4.15.3",
+        "text": "If members of Team Urako are summoned, they additionally cast the below buffs: \nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%\nIf the entirety of Team Urako is summoned, the values of the buffs are doubled.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_NAME": {
@@ -88300,13 +88300,13 @@
         "original": true
     },
     "TEXT_SKILL_PR_LIZARDMAN_MONK_LV2_SUBDESC": {
-        "text": "After entering battle, Lizardman Priest summons a 'Dragon-Tooth Warrior.' The 'Dragon-Tooth Warrior' has the same stats as Lizardman Priest. Only one 'Dragon-Tooth Warrior' can be summoned at a time. Upon using an ally's block skill, 'Dragon-Tooth Warrior' charges forward and deals #physical damage# equal to 300% of its attack power to enemies within range. \n\nIf it dies, the 'Dragon-Tooth Warrior' will revive after 1.5 seconds to its full HP and will not receive damage for 1 second. It will not revive if Lizardman Priest is dead.",
-        "version": "4.15.4",
+        "text": "After entering battle, Lizardman Priest summons a 'Dragon-Tooth Warrior.' The 'Dragon-Tooth Warrior' has the same stats as Lizardman Priest. Only one 'Dragon-Tooth Warrior' can be summoned at a time. Upon using an ally's block skill, 'Dragon-Tooth Warrior' charges forward and deals #physical damage# equal to 300% of its attack power to enemies within range. \nIf it dies, the 'Dragon-Tooth Warrior' will revive after 1.5 seconds to its full HP and will not receive damage for 1 second. It will not revive if Lizardman Priest is dead.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_PR_LIZARDMAN_MONK_LV3_SUBDESC": {
-        "text": "After entering battle, Lizardman Priest summons a 'Dragon-Tooth Warrior.' The 'Dragon-Tooth Warrior' has double the Lizardman Priest's stats. Only one 'Dragon-Tooth Warrior' can be summoned at a time. Upon using another ally's block skill, 'Dragon-Tooth Warrior' charges forward and deals #physical damage# equal to 500% of its attack power to enemies within range. \n\nIf it dies, the 'Dragon-Tooth Warrior' will revive after 1.5 seconds to its full HP and will not receive damage for 1 second. It will not revive if Lizardman Priest is dead.",
-        "version": "4.15.4",
+        "text": "After entering battle, Lizardman Priest summons a 'Dragon-Tooth Warrior.' The 'Dragon-Tooth Warrior' has double the Lizardman Priest's stats. Only one 'Dragon-Tooth Warrior' can be summoned at a time. Upon using another ally's block skill, 'Dragon-Tooth Warrior' charges forward and deals #physical damage# equal to 500% of its attack power to enemies within range. \nIf it dies, the 'Dragon-Tooth Warrior' will revive after 1.5 seconds to its full HP and will not receive damage for 1 second. It will not revive if Lizardman Priest is dead.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_PR_LIZARDMAN_MONK_NAME": {
@@ -88505,8 +88505,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_GS_03_6_DESC": {
-        "text": "(Passive Added) Upon using an ally's chain after her own chain, Priestess summons 'Protection' for 3 seconds. 'Protection' absorbs damage equal to 150% of Priestess's HP. Additionally, the presence of 'Protection' decreases damage received by the entire party by 15%.\n\n(Passive Enhanced) If 'Protection' is destroyed, Priestess summons 'Protection Overcast' for 5 seconds. 'Protection Overcast' absorbs damage equal to 300% of Priestess's HP. Additionally, the presence of 'Protection Overcast' reduces the damage received by the entire party by 25%.",
-        "version": "4.15.4",
+        "text": "(Passive Added) Upon using an ally's chain after her own chain, Priestess summons 'Protection' for 3 seconds. 'Protection' absorbs damage equal to 150% of Priestess's HP. Additionally, the presence of 'Protection' decreases damage received by the entire party by 15%.\n(Passive Enhanced) If 'Protection' is destroyed, Priestess summons 'Protection Overcast' for 5 seconds. 'Protection Overcast' absorbs damage equal to 300% of Priestess's HP. Additionally, the presence of 'Protection Overcast' reduces the damage received by the entire party by 25%.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_GS_03_6_NAME": {
@@ -88535,8 +88535,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_GS_04_6_DESC": {
-        "text": "(Passive Added) Upon entering battle, Lizardman Priest uses a 'Miraculous Weapon' that increases his armor penetration by 1500. This effect cannot be canceled.\n\n(Block Skill Altered) Lizardman Priest's block skill is changed to 'See How Your Descendant Fights.' Lizardman Priest jumps towards the enemy and deals physical damage equal to [700/750/800]% of his attack power, according to the chain number used.\n\n(Passive Added) Upon using another ally's 3-chain, Lizardman Priest uses 'Tail Swing' to deal physical damage equal to 1000% of his attack power and knock back enemies. Enemies hit, lose 20% of their armor and receive 40% more damage for 5 seconds.",
-        "version": "4.15.4",
+        "text": "(Passive Added) Upon entering battle, Lizardman Priest uses a 'Miraculous Weapon' that increases his armor penetration by 1500. This effect cannot be canceled.\n(Block Skill Altered) Lizardman Priest's block skill is changed to 'See How Your Descendant Fights.' Lizardman Priest jumps towards the enemy and deals physical damage equal to [700/750/800]% of his attack power, according to the chain number used.\n(Passive Added) Upon using another ally's 3-chain, Lizardman Priest uses 'Tail Swing' to deal physical damage equal to 1000% of his attack power and knock back enemies. Enemies hit, lose 20% of their armor and receive 40% more damage for 5 seconds.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_WEP_LEGEND_OR_GS_04_6_NAME": {
@@ -89155,8 +89155,8 @@
         "original": true
     },
     "TEXT_HELP_ORCHARD_02_DESC": {
-        "text": "1. The Orchard has 5 Plots. Plots are fixed in number and do not disappear when you finish growing Berries or cancel cultivating.\n2. The properties of the Plot will change randomly AFTER a Berry is harvested.\n3. Plots with certain properties appear by chance. Sometimes Special Plots with rarer properties will appear.\n4. There are three Plot properties: [attack, defense, function]. Growing Berries with the same properties on Plots will yield Bonus Rewards. \n  - Attack (sword): Attack Power, Critical Damage\n  - Defense (shield): HP, Armor, Resistance\n  - Function (boot): Crit Chance, Accuracy, Evasion",
-        "version": "4.16.3",
+        "text": "1. The Orchard has 5 Plots. Plots are fixed in number and do not disappear when you finish growing Berries or cancel cultivating.\n2. The properties of the Plot will change randomly AFTER a Berry is harvested.\n3. Plots with certain properties appear by chance. Sometimes Special Plots with rarer properties will appear.\n4. There are three Plot properties: [attack, defense, function]. Growing Berries with the same properties on Plots will yield Bonus Rewards. \n- Attack (sword): Attack Power, Critical Damage\n- Defense (shield): HP, Armor, Resistance\n- Function (boot): Crit Chance, Accuracy, Evasion",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_ORCHARD_03": {
@@ -89165,8 +89165,8 @@
         "original": true
     },
     "TEXT_HELP_ORCHARD_03_DESC": {
-        "text": "1. You can hire and manage Orchard Helpers.\n2. Once acquired or purchased, Helpers can be permanently used. They cannot be sold.\n3. Helpers have different abilities to help out on the Orchard.\n  - Increase Great Harvest Rate\n  - Increase Bonus Reward Rate\n  - Decrease Growth Time",
-        "version": "4.16.3",
+        "text": "1. You can hire and manage Orchard Helpers.\n2. Once acquired or purchased, Helpers can be permanently used. They cannot be sold.\n3. Helpers have different abilities to help out on the Orchard.\n- Increase Great Harvest Rate\n- Increase Bonus Reward Rate\n- Decrease Growth Time",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HERO_ORCHARD_DESC": {
@@ -89185,8 +89185,8 @@
         "original": true
     },
     "TEXT_HOW_TO_GET_ORCHARD_INFO_DESC": {
-        "text": "- This weapon can be acquired by chance through the Orchard Account Bonus.\n\n- Look for this weapon in the Orchard!",
-        "version": "4.16.3",
+        "text": "- This weapon can be acquired by chance through the Orchard Account Bonus.\n- Look for this weapon in the Orchard!",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_ITEM_ESSENCE_LIFE_HELP": {
@@ -90495,8 +90495,8 @@
         "original": true
     },
     "TEXT_HELP_HASLAWARS_RANK": {
-        "text": "1. The Total Dmg Rank menu lists Captains who have dealt the most total damage. \n2. The Team Rank menu lists Hero teams and their Captains who have dealt the most damage in one round.\n   - Teams composed of the same Heroes will be registered with the information of the Team that dealt more damage.\n   - Teams composed of at least one different Hero are registered separately. (Goddesses and Champions are not taken into consideration.) \n   - Rank information is cleared with the start of every new event.\n3. The Hero Rank menu lists Heroes that have most frequently participated in the event.\n4. All ranks refresh every 5 minutes.",
-        "version": "4.18.0",
+        "text": "1. The Total Dmg Rank menu lists Captains who have dealt the most total damage. \n2. The Team Rank menu lists Hero teams and their Captains who have dealt the most damage in one round.\n- Teams composed of the same Heroes will be registered with the information of the Team that dealt more damage.\n- Teams composed of at least one different Hero are registered separately. (Goddesses and Champions are not taken into consideration.) \n- Rank information is cleared with the start of every new event.\n3. The Hero Rank menu lists Heroes that have most frequently participated in the event.\n4. All ranks refresh every 5 minutes.",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_HELP_HASLAWARS_REWARD": {
@@ -91030,8 +91030,8 @@
         "original": true
     },
     "TEXT_CHALLENGE_EP3_CH3_EXIT": {
-        "text": "Escape the Poles",
-        "version": "4.19.0",
+        "text": "Exit",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_CHALLENGE_EP3_DESC": {
@@ -92005,8 +92005,8 @@
         "original": true
     },
     "TEXT_MAIN_Q_S2_063_TITLE": {
-        "text": "Pride of the Einherjar",
-        "version": "4.19.0",
+        "text": "Honor of the Einherjar",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_MAIN_Q_S2_064_TITLE": {
@@ -92505,8 +92505,8 @@
         "original": true
     },
     "TEXT_PATTERN_S2_EP3_THIALFI_APPEAR_DESC": {
-        "text": "Enhanced Stats",
-        "version": "4.19.0",
+        "text": "Enhanced Abilities",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_PATTERN_S2_EP3_THIALFI_SKILL2": {
@@ -93100,8 +93100,8 @@
         "original": true
     },
     "TEXT_SKILL_AR_CONDEMN2_NAME_S2EP3": {
-        "text": "Fatal Arrow",
-        "version": "4.19.0",
+        "text": "Critical Shot",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_AR_FROZEN_THORN_DESC_S2EP3": {
@@ -93185,8 +93185,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_SUN_LIGHT_NAME_S2EP3": {
-        "text": "Solar Strike",
-        "version": "4.19.0",
+        "text": "Blow of the Sun",
+        "version": "4.19.2",
         "original": true
     },
     "TEXT_SKILL_PR_ORDER_TEAM_DESC_S2EP3": {
@@ -93612,6 +93612,186 @@
     "TEXT_WR_S2_EP3_CH3_01": {
         "text": "The cold cuts through the bone...",
         "version": "4.19.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_AUTUMN_4_KAEDE_DESC": {
+        "text": "Deep in the valleys of Ryu can be found the Forest of Eternal Autumn, where no human feet dare to tread. Only a light-footed raccoon without a name has been walking among the trees for long years. One day, the raccoon turns her gaze outside and sees the world of humans: chaotic, noisy, but ever so curious and seemingly much more fun. The raccoon trains herself to transform into a close likeness of a human, and even gives herself a name after the maple trees of her forest: \"Kaede.\" Yet her curiosity engulfs her, and the raccoon decides to leave the forest for the bigger world. But before she can go any further, Kaede discovers a deeply wounded girl lying among the fallen leaves of the forest.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_AUTUMN_4_KAEDE_NAME": {
+        "text": "Kaede",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_AUTUMN_5_KAEDE_DESC": {
+        "text": "After days of devoted nursing, the girl finally opens her eyes. Kaede introduces herself as a simple ninja passing by. The girl's presence in the life of the raccoon, who for all these years has been wandering freely as the wind, quickly grows bigger until it roots itself as firmly as a maple tree. For hours on end the girl and the raccoon talk, and Kaede teaches the girl the names of all the trees and flowers of the forests, and shows her tricks that can be performed by any respectable raccoon. The girl gradually opens her heart to Kaede until she whispers her name: \"Anzu.\" Kaede, for the very first time in her life, feels an endearing warmth enveloping her heart.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_AUTUMN_5_KAEDE_NAME": {
+        "text": "Kaede the Ninja",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_AUTUMN_6_KAEDE_DESC": {
+        "text": "The Forest of Autumn embraces Kaede and Anzu with generosity and kindness: the two friends, without a care in their heart, spend their days as they wish, playing and training away the time. Yet one day, Kaede catches a glimpse of Anzu, now fully healed, gazing at the mountains beyond the forest, the leaves that rustle against the far-traveling wind. After some deliberation, Kaede reveals the carefully hidden truth: that she is not a human ninja, but actually a raccoon transformed into the likeness of one. Anzu laughs, saying that she has known all along. Kaede holds out her hand and clasps Anzu's in her own. The world, as long as they are together, will be beautiful and merry. The two friends step out of the forest.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_AUTUMN_6_KAEDE_NAME": {
+        "text": "Kaede of the Scattering Leaves",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_AUTUMN_4_ANZU_DESC": {
+        "text": "Deep in the valleys of Ryu can be found the Forest of Eternal Autumn, where no human feet dare to tread. Yet one afternoon, golden with the light that streams through the rustling ginkgo leaves, a solitary girl wanders into the forest, dragging her heavily wounded body and her equally wounded soul. She has given up her will to live, and her dying wish is to close her eyes in a quiet, well-lighted place. In the embrace of a ginkgo tree, Anzu loses her consciousness, unaware that a small shadow intently watches her. The shadow starts to move: the only movement in the quiet forest, save for the wind.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_AUTUMN_4_ANZU_NAME": {
+        "text": "Anzu",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_AUTUMN_5_ANZU_DESC": {
+        "text": "The sunlight streaming through the ginkgo leaves awakens Anzu. Anzu may not know how long she has been sleeping, but she knows by the clean bandages and the array of berries by her bedside that someone has been nursing her. But who can it be? The shadow soon reveals itself before Anzu: a girl who calls herself \"Kaede the Ninja.\" Anzu cannot help but be wary of Kaede's raccoon ears and tail - half-forgotten in the ninja's haste to introduce herself - but soon opens her heart to the endearing raccoon-girl, whose love and care melt away Anzu's caution. Kaede begins to teach Anzu all the knowledge and skills she has learned through her years of transforming into a human ninja, and Anzu devotes herself to Kaede's lessons with glittering eyes.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_AUTUMN_5_ANZU_NAME": {
+        "text": "Anzu of Wind",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_AUTUMN_6_ANZU_DESC": {
+        "text": "And so Anzu begins to heal. With Kaede's help, she has become stronger in both body and soul, and now her heart sways toward the path of the wind: the path by which the wind travels, going beyond the forest and into the wider expanse of the world. Anzu too has gone beyond the tragedy of her childhood as an orphan without a home, a friend, or a desire to live, and she is now ready to experience the world. This wish grows bigger and bigger within her heart, and soon becomes a gale that engulfs all her waking hours. It does not take long for Kaede to notice Anzu's such desire. Kaede holds out her hand to Anzu: they will always be together, Kaede and Anzu, wherever they may go. Following the ginkgo leaves that the wind carries on its back, Anzu, with her beloved friend, steps out of the forest.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_AUTUMN_6_ANZU_NAME": {
+        "text": "Anzu of the Billowing Gale",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHOICE_CARVESTONE_EP2": {
+        "text": "EP2 Sigil Selection Ticket",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_CHOICE_CARVESTONE_EP3": {
+        "text": "EP3 Sigil Selection Ticket",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_PR_KAEDE_DESC": {
+        "text": "Kaede heals the ally with the least remaining HP by [100/150/200]% of her attack power, according to the chain number used.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_PR_KAEDE_LV2_SUBDESC": {
+        "text": "Upon entering battle, Kaede summons 'Pompoko' the raccoon ninja, who follows the ally leader for the duration of the battle. Upon using Kaede's block skill, Pompoko transforms into the ally leader's double for 10 seconds, receiving 50% of their stats and imitating all of their attacks except Special Skills. (Pompoko is affected by the number of blocks used by the ally leader.)\nUsing Kaede's block skill during Pompoko's transformation will renew the duration of the transformation. If Pompoko's HP reaches 0% or he reaches the end of his transformation or the transformation duration is over, he turns back into his original raccoon form. 'Pompoko' goes into hiding if Kaede or the ally leader dies, and cannot be summoned again for the remainder of the battle. (Maximum 1 Pompoko per battle can be summoned.)",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_PR_KAEDE_LV3_SUBDESC": {
+        "text": "Upon entering battle, Kaede summons 'Pompoko' the raccoon ninja, who follows the ally leader for the duration of the battle. Upon using Kaede's block skill, Pompoko transforms into the ally leader's double for 10 seconds, receiving 75% of their stats and imitating all of their attacks except Special Skills. (Pompoko is affected by the number of blocks used by the ally leader.) \nUsing Kaede's block skill during Pompoko's transformation will renew the duration of the transformation. If Pompoko's HP reaches 0% or he reaches the end of his transformation or the transformation duration is over, he turns back into his original raccoon form. 'Pompoko' goes into hiding if Kaede or the ally leader dies, and cannot be summoned again for the remainder of the battle. (Maximum 1 Pompoko per battle can be summoned.)",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_PR_KAEDE_NAME": {
+        "text": "Healing Incantation",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_PR_KAEDE_SUBNAME": {
+        "text": "Raccoon Conjuration!",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANZU_DESC": {
+        "text": "Anzu casts ginkgo leaves at the enemy to deal @magical damage@ equal to [100/200/300]% of her attack power, according to the chain number used.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANZU_LV2_SUBDESC": {
+        "text": "Every time she uses her block skill, Anzu casts 'Protection of the Wind Blade' on herself for 5 seconds. The effects of 'Protection of the Wind Blade' can be stacked a maximum of 5 times, and increases attack power, critical chance, and accuracy by 3% each with every stack (maximum 15% increase). This effect cannot be canceled.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANZU_LV3_SUBDESC": {
+        "text": "Every time she uses her block skill, Anzu casts 'Protection of the Wind Blade' on herself for 5 seconds. The effects of 'Protection of the Wind Blade' can be stacked a maximum of 5 times, and increases attack power, critical chance, and accuracy by 5% each with every stack (maximum 25% increase). This effect cannot be canceled. Upon using her 3-chain, Anzu additionally uses 'Wind Blade' to deal @magical damage@ equal to 500% of her attack power to enemies within her range.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANZU_NAME": {
+        "text": "Gale of Ginkgo Leaves",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANZU_SUBNAME": {
+        "text": "Protection of the Wind Blade",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_AUTUMN_KAEDE_4_DESC": {
+        "text": "(Passive Enhanced) Pompoko receives 125% of the ally leader's stats upon transformation.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_AUTUMN_KAEDE_4_NAME": {
+        "text": "Leaf",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_AUTUMN_KAEDE_5_DESC": {
+        "text": "(Passive Enhanced) Pompoko receives 125% of the ally leader's stats upon transformation.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_AUTUMN_KAEDE_5_NAME": {
+        "text": "Fallen Leaf",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_AUTUMN_KAEDE_6_DESC": {
+        "text": "(Passive Enhanced) Pompoko receives 125% of the ally leader's stats upon transformation.\n(Block Skill Enhanced) 'Healing Incantation' is enhanced to 'Protection of Autumn Leaves,' which heals the entire party by [120/200/300]% of Kaede's attack power according to the chain number used and increases healed allies' attack power by 30% and critical damage by 15% for 3 seconds.\n(Passive Added) Upon using Kaede's Special Skill, Kaede summons 'Pompo' the legendary raccoon ninja, who follows the ally leader. If the ally leader being followed by 'Pompo' uses a block skill, the block skill is activated as a 3-chain for 2 times. (Cooltime: 10 sec)",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_AUTUMN_KAEDE_6_NAME": {
+        "text": "Fallen Leaf of Scarlet Autumn",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_AUTUMN_ANZU_4_DESC": {
+        "text": "(Passive Enhanced) Upon using her 3-chain, Anzu stacks her 'Protection of the Wind Blade' to the maximum.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_AUTUMN_ANZU_4_NAME": {
+        "text": "Iron Fan",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_AUTUMN_ANZU_5_DESC": {
+        "text": "(Passive Enhanced) Upon using her 3-chain, Anzu stacks her 'Protection of the Wind Blade' to the maximum.",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_AUTUMN_ANZU_5_NAME": {
+        "text": "Blade Fan",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_AUTUMN_ANZU_6_DESC": {
+        "text": "(Passive Enhanced) Upon using her 3-chain, Anzu stacks her 'Protection of the Wind Blade' to the maximum.\n(Passive Added) When the 'Protection of the Wind Blade' has been stacked to the maximum, 'Gale of Ginkgo Leaves' is changed to 'Storm of Ginkgo Leaves' and deals magical damage equal to [1500/1750/2000]% of Anzu's attack power to enemies within range, according to the chain number used. 'Storm of Ginkgo Leaves' ignores 35% of enemy resistance.\n(Passive Altered) 'Wind Blade' is changed to 'Blade Whirlwind' that deals magical damage equal to 1000% of Anzu's attack power and knocks enemies within range into the air. Additionally, using 'Blade Whirlwind' generates 1 block for Anzu. (Cooltime: 3 seconds)",
+        "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_AUTUMN_ANZU_6_NAME": {
+        "text": "Fresh Wind under the Gleaming Moon",
+        "version": "4.19.2",
         "original": true
     }
 }
