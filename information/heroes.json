@@ -1356,7 +1356,10 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sigruna_default",
+            "portrait_sigrunamax_default"
+        ],
         "skins": [
             {
                 "id": 27,
@@ -1556,7 +1559,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_demona_default"
+        ],
         "skins": [
             {
                 "id": 2,
@@ -1747,7 +1752,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_altair_default"
+        ],
         "skins": []
     },
     {
@@ -1872,7 +1879,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_hongran_default"
+        ],
         "skins": []
     },
     {
@@ -1997,7 +2006,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_chp_default"
+        ],
         "skins": []
     },
     {
@@ -2122,7 +2133,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofmai_default"
+        ],
         "skins": []
     },
     {
@@ -2247,7 +2260,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gshighelfarcher_default"
+        ],
         "skins": []
     },
     {
@@ -2370,7 +2385,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gon_default"
+        ],
         "skins": [
             {
                 "id": 15,
@@ -2513,7 +2530,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_hikari_default"
+        ],
         "skins": [
             {
                 "id": 34,
@@ -2657,7 +2676,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_chunhyang_default"
+        ],
         "skins": [
             {
                 "id": 37,
@@ -2800,7 +2821,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_magnus_default"
+        ],
         "skins": [
             {
                 "id": 1,
@@ -2943,7 +2966,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_atlanta_default"
+        ],
         "skins": [
             {
                 "id": 4,
@@ -3086,7 +3111,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lee_default"
+        ],
         "skins": [
             {
                 "id": 7,
@@ -3229,7 +3256,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rahima_default"
+        ],
         "skins": [
             {
                 "id": 8,
@@ -3372,7 +3401,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kaguya_default"
+        ],
         "skins": [
             {
                 "id": 12,
@@ -3514,7 +3545,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_chiron_default"
+        ],
         "skins": [
             {
                 "id": 14,
@@ -3656,7 +3689,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_set_default"
+        ],
         "skins": [
             {
                 "id": 18,
@@ -3789,7 +3824,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_genevie_default"
+        ],
         "skins": [
             {
                 "id": 19,
@@ -3940,7 +3977,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_arachne_default"
+        ],
         "skins": [
             {
                 "id": 22,
@@ -4073,7 +4112,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lindsey_default"
+        ],
         "skins": [
             {
                 "id": 23,
@@ -4462,7 +4503,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_hanzo_default"
+        ],
         "skins": [
             {
                 "id": 25,
@@ -4606,7 +4649,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_robin_default"
+        ],
         "skins": [
             {
                 "id": 28,
@@ -4750,7 +4795,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_r0_default"
+        ],
         "skins": [
             {
                 "id": 30,
@@ -4894,7 +4941,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_giparang_default"
+        ],
         "skins": [
             {
                 "id": 32,
@@ -5038,7 +5087,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_niven_default"
+        ],
         "skins": [
             {
                 "id": 36,
@@ -5181,7 +5232,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_mamba_default"
+        ],
         "skins": [
             {
                 "id": 6,
@@ -5334,7 +5387,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_viola_default"
+        ],
         "skins": [
             {
                 "id": 10,
@@ -5477,7 +5532,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_hanseung_default"
+        ],
         "skins": [
             {
                 "id": 17,
@@ -5610,7 +5667,9 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_panpan_default"
+        ],
         "skins": [
             {
                 "id": 21,
@@ -7011,7 +7070,10 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_dart_default",
+            "portrait_dartmax_default"
+        ],
         "skins": [
             {
                 "id": 65,
@@ -7231,7 +7293,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_teresa_default"
+        ],
         "skins": [
             {
                 "id": 49,
@@ -7462,7 +7526,9 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
+        "portraits": [
+            "portrait_fishercat_default"
+        ],
         "skins": []
     },
     {
@@ -7587,7 +7653,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_elp_default"
+        ],
         "skins": []
     },
     {
@@ -7712,7 +7780,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofleona_default"
+        ],
         "skins": []
     },
     {
@@ -7837,7 +7907,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ruby_default"
+        ],
         "skins": [
             {
                 "id": 175,
@@ -7983,7 +8055,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_nora_default"
+        ],
         "skins": [
             {
                 "id": 173,
@@ -8129,7 +8203,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yshummel_default"
+        ],
         "skins": [
             {
                 "id": 292,
@@ -8263,7 +8339,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_viper_default"
+        ],
         "skins": [
             {
                 "id": 163,
@@ -8406,7 +8484,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_no9_default"
+        ],
         "skins": [
             {
                 "id": 168,
@@ -8550,7 +8630,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_mandy_default"
+        ],
         "skins": [
             {
                 "id": 171,
@@ -8694,7 +8776,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_wilhelm_default"
+        ],
         "skins": [
             {
                 "id": 48,
@@ -8836,7 +8920,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_saiga_default"
+        ],
         "skins": [
             {
                 "id": 141,
@@ -8970,7 +9056,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_tia_default"
+        ],
         "skins": [
             {
                 "id": 142,
@@ -9113,7 +9201,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_dox_default"
+        ],
         "skins": [
             {
                 "id": 61,
@@ -9256,7 +9346,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lorelei_default"
+        ],
         "skins": [
             {
                 "id": 62,
@@ -9400,7 +9492,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_raven_default"
+        ],
         "skins": [
             {
                 "id": 150,
@@ -9533,7 +9627,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_momotaro_default"
+        ],
         "skins": [
             {
                 "id": 64,
@@ -9675,7 +9771,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_athos_default"
+        ],
         "skins": [
             {
                 "id": 154,
@@ -9808,7 +9906,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_jahard_default"
+        ],
         "skins": [
             {
                 "id": 155,
@@ -9941,7 +10041,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_jet_default"
+        ],
         "skins": [
             {
                 "id": 157,
@@ -10074,7 +10176,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_carol_default"
+        ],
         "skins": [
             {
                 "id": 158,
@@ -10207,7 +10311,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lyudmilla_default"
+        ],
         "skins": [
             {
                 "id": 159,
@@ -10832,7 +10938,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_maxi_default"
+        ],
         "skins": [
             {
                 "id": 160,
@@ -10974,7 +11082,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_spyro_default"
+        ],
         "skins": [
             {
                 "id": 69,
@@ -11118,7 +11228,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_crow_default"
+        ],
         "skins": [
             {
                 "id": 165,
@@ -11261,7 +11373,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_vincent_default"
+        ],
         "skins": [
             {
                 "id": 167,
@@ -11395,7 +11509,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sentinelr_default"
+        ],
         "skins": [
             {
                 "id": 170,
@@ -11529,7 +11645,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_spainy_default"
+        ],
         "skins": [
             {
                 "id": 144,
@@ -11681,7 +11799,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_scarlet_default"
+        ],
         "skins": [
             {
                 "id": 63,
@@ -11824,7 +11944,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_luicilla_default"
+        ],
         "skins": [
             {
                 "id": 67,
@@ -11966,7 +12088,9 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_bellerophon_default"
+        ],
         "skins": [
             {
                 "id": 68,
@@ -13345,7 +13469,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kriemhild_default"
+        ],
         "skins": [
             {
                 "id": 202,
@@ -13555,7 +13681,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rolland_default"
+        ],
         "skins": [
             {
                 "id": 71,
@@ -13794,7 +13922,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rebecca_default"
+        ],
         "skins": []
     },
     {
@@ -13919,7 +14049,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_jinkyung_default"
+        ],
         "skins": []
     },
     {
@@ -14044,7 +14176,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_may_default"
+        ],
         "skins": []
     },
     {
@@ -14169,7 +14303,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sin_default"
+        ],
         "skins": []
     },
     {
@@ -14294,7 +14430,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofbilly_default"
+        ],
         "skins": []
     },
     {
@@ -14419,7 +14557,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofkim_default"
+        ],
         "skins": []
     },
     {
@@ -14544,7 +14684,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yang_default"
+        ],
         "skins": [
             {
                 "id": 210,
@@ -14690,7 +14832,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gsswordmaiden_default"
+        ],
         "skins": []
     },
     {
@@ -14815,7 +14959,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofterry_default"
+        ],
         "skins": []
     },
     {
@@ -14940,7 +15086,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_pyrrha_default"
+        ],
         "skins": [
             {
                 "id": 208,
@@ -15086,7 +15234,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rzrem_default"
+        ],
         "skins": [
             {
                 "id": 212,
@@ -15222,7 +15372,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ysricotta_default"
+        ],
         "skins": [
             {
                 "id": 295,
@@ -15367,7 +15519,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yssahad_default"
+        ],
         "skins": [
             {
                 "id": 297,
@@ -15501,7 +15655,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_thor_default"
+        ],
         "skins": [
             {
                 "id": 189,
@@ -15645,7 +15801,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_alexander_default"
+        ],
         "skins": [
             {
                 "id": 77,
@@ -15798,7 +15956,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_achilles_default"
+        ],
         "skins": [
             {
                 "id": 200,
@@ -15932,7 +16092,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_drake_default"
+        ],
         "skins": [
             {
                 "id": 79,
@@ -16084,7 +16246,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_stanya_default"
+        ],
         "skins": [
             {
                 "id": 82,
@@ -16228,7 +16392,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_athena_default"
+        ],
         "skins": [
             {
                 "id": 73,
@@ -16372,7 +16538,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_captain_default"
+        ],
         "skins": [
             {
                 "id": 186,
@@ -16506,7 +16674,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_leiling_default"
+        ],
         "skins": [
             {
                 "id": 191,
@@ -16650,7 +16820,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_heim_default"
+        ],
         "skins": [
             {
                 "id": 195,
@@ -16784,7 +16956,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_vane_default"
+        ],
         "skins": [
             {
                 "id": 204,
@@ -16918,7 +17092,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_cain_default"
+        ],
         "skins": [
             {
                 "id": 81,
@@ -17062,7 +17238,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_mundeok_default"
+        ],
         "skins": [
             {
                 "id": 83,
@@ -17206,7 +17384,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_v_default"
+        ],
         "skins": [
             {
                 "id": 70,
@@ -17349,7 +17529,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_hector_default"
+        ],
         "skins": [
             {
                 "id": 72,
@@ -17493,7 +17675,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_siegfried_default"
+        ],
         "skins": [
             {
                 "id": 74,
@@ -17637,7 +17821,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_dullahan_default"
+        ],
         "skins": [
             {
                 "id": 185,
@@ -17771,7 +17957,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_wolfgang_default"
+        ],
         "skins": [
             {
                 "id": 75,
@@ -17915,7 +18103,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_fenrir_default"
+        ],
         "skins": [
             {
                 "id": 76,
@@ -18058,7 +18248,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_schla_default"
+        ],
         "skins": [
             {
                 "id": 193,
@@ -18192,7 +18384,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_maenggi_default"
+        ],
         "skins": [
             {
                 "id": 194,
@@ -18326,7 +18520,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yuna_default"
+        ],
         "skins": [
             {
                 "id": 196,
@@ -18460,7 +18656,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_caeneus_default"
+        ],
         "skins": [
             {
                 "id": 197,
@@ -18594,7 +18792,9 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_odin_default"
+        ],
         "skins": [
             {
                 "id": 198,
@@ -20088,7 +20288,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_maria_default"
+        ],
         "skins": [
             {
                 "id": 97,
@@ -20298,7 +20500,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_melissa_default"
+        ],
         "skins": [
             {
                 "id": 84,
@@ -20532,7 +20736,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ino_default"
+        ],
         "skins": []
     },
     {
@@ -20657,7 +20863,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofkensou_default"
+        ],
         "skins": []
     },
     {
@@ -20782,7 +20990,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofatena_default"
+        ],
         "skins": []
     },
     {
@@ -20908,7 +21118,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kaede_default"
+        ],
         "skins": []
     },
     {
@@ -21033,7 +21245,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gspristess_default"
+        ],
         "skins": []
     },
     {
@@ -21158,7 +21372,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gslizardman_default"
+        ],
         "skins": []
     },
     {
@@ -21283,7 +21499,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rzfelix_default"
+        ],
         "skins": [
             {
                 "id": 246,
@@ -21417,7 +21635,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_mew_default"
+        ],
         "skins": [
             {
                 "id": 93,
@@ -21571,7 +21791,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yeowoodong_default"
+        ],
         "skins": [
             {
                 "id": 98,
@@ -21714,7 +21936,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_nurspy_default"
+        ],
         "skins": [
             {
                 "id": 238,
@@ -21858,7 +22082,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_woopa_default"
+        ],
         "skins": [
             {
                 "id": 99,
@@ -22001,7 +22227,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_stein_default"
+        ],
         "skins": [
             {
                 "id": 101,
@@ -22144,7 +22372,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_aria_default"
+        ],
         "skins": [
             {
                 "id": 89,
@@ -22286,7 +22516,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_seiren_default"
+        ],
         "skins": [
             {
                 "id": 91,
@@ -22429,7 +22661,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_seimei_default"
+        ],
         "skins": [
             {
                 "id": 95,
@@ -22572,7 +22806,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_varnir_default"
+        ],
         "skins": [
             {
                 "id": 230,
@@ -22840,7 +23076,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_nightingale_default"
+        ],
         "skins": [
             {
                 "id": 235,
@@ -22984,7 +23222,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_himiko_default"
+        ],
         "skins": [
             {
                 "id": 100,
@@ -23127,7 +23367,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_chai_default"
+        ],
         "skins": [
             {
                 "id": 244,
@@ -23270,7 +23512,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_dara_default"
+        ],
         "skins": [
             {
                 "id": 213,
@@ -23414,7 +23658,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_bea_default"
+        ],
         "skins": [
             {
                 "id": 86,
@@ -23567,7 +23813,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_orfeo_default"
+        ],
         "skins": [
             {
                 "id": 88,
@@ -23710,7 +23958,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yuria_default_pdr"
+        ],
         "skins": [
             {
                 "id": 90,
@@ -23853,7 +24103,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_faust_default"
+        ],
         "skins": [
             {
                 "id": 220,
@@ -23986,7 +24238,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_noel_default"
+        ],
         "skins": [
             {
                 "id": 222,
@@ -24120,7 +24374,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_bari_default"
+        ],
         "skins": [
             {
                 "id": 92,
@@ -24273,7 +24529,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_marpei_default"
+        ],
         "skins": [
             {
                 "id": 227,
@@ -24417,7 +24675,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_cronet_default"
+        ],
         "skins": [
             {
                 "id": 229,
@@ -24551,7 +24811,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ricky_default"
+        ],
         "skins": [
             {
                 "id": 231,
@@ -24685,7 +24947,9 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sfera_default"
+        ],
         "skins": [
             {
                 "id": 96,
@@ -26198,7 +26462,10 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_leon_default_pdr",
+            "portrait_leonmax_default"
+        ],
         "skins": [
             {
                 "id": 111,
@@ -26418,7 +26685,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rochefort_default"
+        ],
         "skins": [
             {
                 "id": 104,
@@ -26474,7 +26743,9 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
+        "portraits": [
+            "portrait_tsukinokurenai_default"
+        ],
         "skins": []
     },
     {
@@ -26599,7 +26870,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sol_default"
+        ],
         "skins": []
     },
     {
@@ -26724,7 +26997,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_mll_default"
+        ],
         "skins": []
     },
     {
@@ -26849,7 +27124,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofkyo_default"
+        ],
         "skins": []
     },
     {
@@ -26974,7 +27251,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofchris_default"
+        ],
         "skins": []
     },
     {
@@ -27099,7 +27378,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_weiss_default"
+        ],
         "skins": [
             {
                 "id": 283,
@@ -27280,7 +27561,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ggbaiken_default"
+        ],
         "skins": []
     },
     {
@@ -27405,7 +27688,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kyk_default"
+        ],
         "skins": []
     },
     {
@@ -27530,7 +27815,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_jhn_default"
+        ],
         "skins": []
     },
     {
@@ -27655,7 +27942,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gsgoblinslayer_default"
+        ],
         "skins": []
     },
     {
@@ -27780,7 +28069,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gsspearman_default"
+        ],
         "skins": []
     },
     {
@@ -27905,7 +28196,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofiory_default"
+        ],
         "skins": []
     },
     {
@@ -28030,7 +28323,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofomegarugal_default"
+        ],
         "skins": []
     },
     {
@@ -28155,7 +28450,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_blake_default"
+        ],
         "skins": [
             {
                 "id": 281,
@@ -28211,7 +28508,9 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
+        "portraits": [
+            "portrait_rzsubaru_default"
+        ],
         "skins": []
     },
     {
@@ -28336,7 +28635,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rzcrusch_default"
+        ],
         "skins": [
             {
                 "id": 285,
@@ -28472,7 +28773,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_twilly_default"
+        ],
         "skins": []
     },
     {
@@ -28597,7 +28900,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ysadol_default"
+        ],
         "skins": [
             {
                 "id": 286,
@@ -28752,7 +29057,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ysdana_default"
+        ],
         "skins": [
             {
                 "id": 289,
@@ -28907,7 +29214,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yslaxia_default"
+        ],
         "skins": [
             {
                 "id": 293,
@@ -29195,7 +29504,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_vivian_default"
+        ],
         "skins": [
             {
                 "id": 117,
@@ -29347,7 +29658,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_abel_default"
+        ],
         "skins": [
             {
                 "id": 120,
@@ -29491,7 +29804,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sworden_default"
+        ],
         "skins": [
             {
                 "id": 280,
@@ -29625,7 +29940,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_isabel_default"
+        ],
         "skins": [
             {
                 "id": 247,
@@ -29769,7 +30086,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_koxinga_default"
+        ],
         "skins": [
             {
                 "id": 105,
@@ -29912,7 +30231,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_victoria_default"
+        ],
         "skins": [
             {
                 "id": 251,
@@ -30055,7 +30376,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_arita_default"
+        ],
         "skins": [
             {
                 "id": 107,
@@ -30207,7 +30530,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sien_default"
+        ],
         "skins": [
             {
                 "id": 255,
@@ -30340,7 +30665,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_bihyeongrang_default"
+        ],
         "skins": [
             {
                 "id": 109,
@@ -30484,7 +30811,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_shasha_default"
+        ],
         "skins": [
             {
                 "id": 110,
@@ -30626,7 +30955,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_isis_default"
+        ],
         "skins": [
             {
                 "id": 113,
@@ -30769,7 +31100,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_izuna_default"
+        ],
         "skins": [
             {
                 "id": 263,
@@ -30911,7 +31244,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kassia_default"
+        ],
         "skins": [
             {
                 "id": 114,
@@ -31053,7 +31388,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_echidna_default"
+        ],
         "skins": [
             {
                 "id": 115,
@@ -31195,7 +31532,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_simhakgyu_default"
+        ],
         "skins": [
             {
                 "id": 268,
@@ -31451,7 +31790,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_joanofarc_default"
+        ],
         "skins": [
             {
                 "id": 116,
@@ -31605,7 +31946,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_susanoo_default"
+        ],
         "skins": [
             {
                 "id": 272,
@@ -31748,7 +32091,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_monte_default"
+        ],
         "skins": [
             {
                 "id": 119,
@@ -31892,7 +32237,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kaori_default"
+        ],
         "skins": [
             {
                 "id": 276,
@@ -32036,7 +32383,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_uzimant_default"
+        ],
         "skins": [
             {
                 "id": 121,
@@ -32179,7 +32528,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lionel_default"
+        ],
         "skins": [
             {
                 "id": 106,
@@ -32322,7 +32673,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_borgos_default"
+        ],
         "skins": [
             {
                 "id": 256,
@@ -32456,7 +32809,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_harpya_default"
+        ],
         "skins": [
             {
                 "id": 112,
@@ -32598,7 +32953,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_randgrid_default"
+        ],
         "skins": [
             {
                 "id": 265,
@@ -32731,7 +33088,9 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_roskva_default"
+        ],
         "skins": [
             {
                 "id": 269,
@@ -34202,7 +34561,10 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_doro_default",
+            "portrait_doromax_default"
+        ],
         "skins": [
             {
                 "id": 324,
@@ -34411,7 +34773,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kano_default"
+        ],
         "skins": [
             {
                 "id": 123,
@@ -34623,7 +34987,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ram_default"
+        ],
         "skins": []
     },
     {
@@ -34748,7 +35114,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_jko_default"
+        ],
         "skins": []
     },
     {
@@ -34873,7 +35241,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofchizuru_default"
+        ],
         "skins": []
     },
     {
@@ -34998,7 +35368,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_kofshermie_default"
+        ],
         "skins": []
     },
     {
@@ -35280,7 +35652,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_anzu_default"
+        ],
         "skins": []
     },
     {
@@ -35405,7 +35779,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_ggdizzy_default"
+        ],
         "skins": []
     },
     {
@@ -35530,7 +35906,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_gsdwarf_default"
+        ],
         "skins": []
     },
     {
@@ -35655,7 +36033,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rzram_default"
+        ],
         "skins": [
             {
                 "id": 331,
@@ -35791,7 +36171,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rzemilia_default"
+        ],
         "skins": [
             {
                 "id": 332,
@@ -35927,7 +36309,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rzbeatrice_default"
+        ],
         "skins": []
     },
     {
@@ -36052,7 +36436,9 @@
                 "type": "sbw,secret"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_anna_default"
+        ],
         "skins": []
     },
     {
@@ -36175,7 +36561,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_archon_default"
+        ],
         "skins": [
             {
                 "id": 314,
@@ -36318,7 +36706,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_hyang_default"
+        ],
         "skins": [
             {
                 "id": 131,
@@ -36462,7 +36852,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_sasquatch_default"
+        ],
         "skins": [
             {
                 "id": 133,
@@ -36605,7 +36997,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_rachel_default"
+        ],
         "skins": [
             {
                 "id": 136,
@@ -36758,7 +37152,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_nazrune_default"
+        ],
         "skins": [
             {
                 "id": 138,
@@ -36901,7 +37297,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_benjamin_default"
+        ],
         "skins": [
             {
                 "id": 304,
@@ -37044,7 +37442,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_violet_default"
+        ],
         "skins": [
             {
                 "id": 308,
@@ -37187,7 +37587,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_haedal_default"
+        ],
         "skins": [
             {
                 "id": 130,
@@ -37329,7 +37731,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_hansangja_default"
+        ],
         "skins": [
             {
                 "id": 319,
@@ -37462,7 +37866,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lilith_default"
+        ],
         "skins": [
             {
                 "id": 134,
@@ -37615,7 +38021,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_alice_default"
+        ],
         "skins": [
             {
                 "id": 137,
@@ -37758,7 +38166,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_mondrian_default"
+        ],
         "skins": [
             {
                 "id": 298,
@@ -37892,7 +38302,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_necron_default"
+        ],
         "skins": [
             {
                 "id": 122,
@@ -38035,7 +38447,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_demeter_default"
+        ],
         "skins": [
             {
                 "id": 125,
@@ -38188,7 +38602,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_uriel_default"
+        ],
         "skins": [
             {
                 "id": 302,
@@ -38331,7 +38747,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lupeow_default"
+        ],
         "skins": [
             {
                 "id": 127,
@@ -38474,7 +38892,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_vesper_default"
+        ],
         "skins": [
             {
                 "id": 128,
@@ -38617,7 +39037,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_yichui_default"
+        ],
         "skins": [
             {
                 "id": 310,
@@ -38769,7 +39191,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_wolfram_default"
+        ],
         "skins": [
             {
                 "id": 129,
@@ -38911,7 +39335,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_osiris_default"
+        ],
         "skins": [
             {
                 "id": 317,
@@ -39044,7 +39470,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_loki_default"
+        ],
         "skins": [
             {
                 "id": 318,
@@ -39177,7 +39605,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_lacies_default"
+        ],
         "skins": [
             {
                 "id": 320,
@@ -39310,7 +39740,9 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
+        "portraits": [
+            "portrait_grimreaper_default"
+        ],
         "skins": [
             {
                 "id": 321,
