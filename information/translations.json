@@ -3016,7 +3016,7 @@
     },
     "TEXT_CANNOT_PURCHASE_LIMIT": {
         "text": "You have reached the maximum limit for purchases of this item.",
-        "version": "4.19.2",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_CANNOT_PURCHASE_MONTH": {
@@ -4955,8 +4955,8 @@
         "original": true
     },
     "TEXT_CHAT_USER_INFO_TITLE": {
-        "text": "User Information",
-        "version": "4.7.0",
+        "text": "Captain Info",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_CHAT_WHISPER_FROM": {
@@ -17325,18 +17325,18 @@
         "original": true
     },
     "TEXT_ERROR_FRIEND_NOT_EXISTS_DESC": {
-        "text": "The user does not exist.",
-        "version": "4.7.0",
+        "text": "This Captain doesn't seem to exist.",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_ERROR_FRIEND_NOT_EXISTS_TITLE": {
-        "text": "User does not exist",
-        "version": "4.7.0",
+        "text": "Captain Not Found!",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_ERROR_FRIEND_NOT_FRIEND_DESC": {
-        "text": "The user is not your friend.",
-        "version": "4.7.0",
+        "text": "This Captain is not on your friends list.",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_ERROR_FRIEND_NOT_FRIEND_TITLE": {
@@ -17750,13 +17750,13 @@
         "original": true
     },
     "TEXT_ERROR_SEARCH_NOT_EXISTS_DESC": {
-        "text": "The user does not exist.",
-        "version": "4.7.0",
+        "text": "This Captain doesn't seem to exist.",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_ERROR_SEARCH_NOT_EXISTS_TITLE": {
-        "text": "User does not exist",
-        "version": "4.7.0",
+        "text": "Captain Not Found!",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_ERROR_SEARCH_SELF_DESC": {
@@ -35935,8 +35935,8 @@
         "original": true
     },
     "TEXT_RETURN_DAILY_CONTENT": {
-        "text": "Here's an Attendance Reward for returning players",
-        "version": "4.7.0",
+        "text": "Here is your Returning Captain's Attendance Reward!",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_RETURN_USER_DAILY_DAY_COUNT": {
@@ -40345,8 +40345,8 @@
         "original": true
     },
     "TEXT_SKILL_DG_BUGLC_GOD_S2_NAME": {
-        "text": "4th Anniversary!",
-        "version": "4.9.0",
+        "text": "5th Anniversary!",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_SKILL_DG_BUGLC_GOD_WORK_DESC": {
@@ -49775,8 +49775,8 @@
         "original": true
     },
     "TEXT_TIP_PVP_PVP_2": {
-        "text": "Colosseum opponents are A.I. versions of other Crusaders.",
-        "version": "4.7.0",
+        "text": "In the Colosseum, you will fight against other Captains' A.I. Heroes.",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_TIP_PVP_PVP_3": {
@@ -80735,8 +80735,8 @@
         "original": true
     },
     "TEXT_EVENT_FOURTH_TITLE": {
-        "text": "Crusaders Quest 4th Anniversary Event",
-        "version": "4.9.0",
+        "text": "Lednas Returns",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_EVENT_FOURTH_TITLE_HIDDEN": {
@@ -92455,8 +92455,8 @@
         "original": true
     },
     "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL2_DESC": {
-        "text": "Area Dmg, Cancels Buffs",
-        "version": "4.19.0",
+        "text": "Area Damage",
+        "version": "4.20.0",
         "original": true
     },
     "TEXT_PATTERN_S2_EP3_REGINREIF_SKILL3": {
@@ -93792,6 +93792,611 @@
     "TEXT_WEP_LEGEND_ST_AUTUMN_ANZU_6_NAME": {
         "text": "Fresh Wind under the Gleaming Moon",
         "version": "4.19.2",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_INHERIT_01_DESC": {
+        "text": "5 Ancient Books\n Only one purchase per account",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_INHERIT_01_NAME": {
+        "text": "Ancient Book Chest 1",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_INHERIT_02_DESC": {
+        "text": "12 Ancient Books\n Only one purchase per account",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_INHERIT_02_NAME": {
+        "text": "Ancient Book Chest 2",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_INHERIT_03_DESC": {
+        "text": "25 Ancient Books\n Only one purchase per account",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_INHERIT_03_NAME": {
+        "text": "Ancient Book Chest 3",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_INHERIT_HELP": {
+        "text": "A chest containing several Ancient Books.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_PERIOD_MEAT_ESSENCE_HELP": {
+        "text": "Use to acquire Meat, Essence of Mana, and Life Essence.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_PERIOD_MEAT_ESSENCE_NAME": {
+        "text": "Meat and Essence Bundle",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHAT_CONNECTING": {
+        "text": "Your connection to the server was lost due to network changes. Retrying connection in a few moments...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHAT_HIDE_STICKER": {
+        "text": "(Fold▲)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHAT_SEND_STICKER": {
+        "text": "(Sent a sticker.▼)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHAT_SEND_STICKER_NOTI": {
+        "text": "(Sent a sticker.)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_28_NAME": {
+        "text": "Gueronica",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_4_GUERONICA_DESC": {
+        "text": "A security android of the P-00 model line, made-to-order for a powerful family of the Neth Empire. P-00 is put in charge of protecting a cheerful young girl who dreams of becoming a painter one day. While P-00 only acts according to the command input by his owners, the girl treats him like any other human being and gives him the name 'Gueronica.'",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_28_NAME": {
+        "text": "Defense Mode Gueronica",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_5_GUERONICA_DESC": {
+        "text": "The sudden outbreak of war forces the girl and Gueronica to hastily flee the city with only each other. But the pair only succeeds in running a few steps before the girl turns on her feet to retrieve her painting-in-progress that she left behind. Gueronica immediately reacts to his charge's unpredictable move, but his protection shields fail to keep the young girl from the merciless hail of bullets.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_28_NAME": {
+        "text": "Guardian Gueronica",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_6_GUERONICA_DESC": {
+        "text": "The war comes to an end, but Gueronica cannot escape his memory of the moment when he failed to protect his owner and only friend. He continuously upgrades himself according to the results of the countless simulations he executes in his mind, but no experiment yields him the one thing he desires: the life of the young girl. Without a purpose to his existence, Gueronica turns his head in defeat - and sees the girl's sketchbook lying on the floor across from him. At that moment, all the memories that he spent together with the girl simultaneously replay in his memory circuit. Gueronica finds himself changed, and his protection shields engraved with the girl's unfinished painting.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_PR_LIMITED_GS_04_SUMMON_NAME": {
+        "text": "Dragon-Tooth Warrior",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_28_DESC": {
+        "text": "At certain times and places in the Eastern Kingdoms, the boundaries between the living and the dead ebb and converge. Bihwa, fatefully born at one such convergence of the two realms, is drawn into the world of the dead at the moment of her birth. Bihwa's parents search day and night for their newborn child, but they know they will never find her again, as according to the centuries-old-myth: humans snatched away by ghosts are never known to return.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_4_28_NAME": {
+        "text": "Bihwa",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_28_DESC": {
+        "text": "Thus Bihwa grows up in the realm of the dead, with only the dark ghosts as her companions. One day, two death angels appear before Bihwa, arguing that they must set straight the balance of life and death. The young girl, fearing the strange beings, uses the strength of the ghosts to flee.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_5_28_NAME": {
+        "text": "Bihwa of Life and Death",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_28_DESC": {
+        "text": "In time, Bihwa comes to accept the powers of the ghosts that stay by her side. More years pass, and Bihwa grows into a formidable presence feared by all living mortals, who call her the 'Soulless Empress.' One day, a ghost donned with a traditional mask of Han appears before Bihwa with the message that his master can help her. Bihwa, grown weary from the deep desolation that has tormented her since the moment of her birth, sets out with a final shred of hope in her cold heart.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_28_NAME": {
+        "text": "Bihwa the Soulless",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHOICE_CARVESTONE_DESC": {
+        "text": "A contract that lets you trade for a Sigil of your choice.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CHOOSE_TEAM_ING": {
+        "text": "Selecting Team...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COS_AR_28_34": {
+        "text": "Camping Malkah",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_WI_21_FIFTH": {
+        "text": "Desert Wanderer Osiris",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COS_HU_28_34": {
+        "text": "Little Red Riding Cindy",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COS_PA_28_34": {
+        "text": "Camping Fireaxe",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COS_PR_7_34": {
+        "text": "Razor Kitsune Himiko",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COS_WA_28_34": {
+        "text": "Camping Nefer",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CABINET_01_MOFUN_NAME": {
+        "text": "Display Shelf",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CABINET_02_MOFUN_NAME": {
+        "text": "CQ Miniblock Shelf",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_COUPON_BOTTOM_CART_01_MOFUN_NAME": {
+        "text": "Shopping Cart",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_CURRENCY_AND_ITEM": {
+        "text": "Currency & Items",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DECO_DETECTIVE_TOP_FAN_01_DESC": {
+        "text": "Turn on this refined ceiling fan to cool your office and let out the stuffy air.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DECO_DETECTIVE_TOP_FAN_01_NAME": {
+        "text": "Detective's Office Ceiling Fan",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_CHAIR_01_DESC": {
+        "text": "A chair made of brown leather. It's very comfortable, so sit down at your own risk.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_CHAIR_01_NAME": {
+        "text": "Brown Leather Chair",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_DESK_01_DESC": {
+        "text": "Judging from the disarray, a detective seems to have spent long hours at this desk, pondering over a difficult case.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_DESK_01_NAME": {
+        "text": "Detective's Office Desk",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_DISPLAYCASE_01_DESC": {
+        "text": "A wooden display case where you can store all your miscellanea. The sophisticated design catches one's eye.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_DISPLAYCASE_01_NAME": {
+        "text": "Wooden Display Case",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_DOOR_01_DESC": {
+        "text": "A wooden hinged door that usually remains closed, but will occasionally let in an interesting visitor.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_DOOR_01_NAME": {
+        "text": "Wooden Door",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_HANDRAIL_01_DESC": {
+        "text": "This wooden banister adds elegance to any room as well as prevent people from falling from the stairs.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_HANDRAIL_01_NAME": {
+        "text": "Wooden Banister",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_HANGER_01_DESC": {
+        "text": "A coat stand that lets you - despite its misleading name - also hang other pieces of clothing.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_HANGER_01_NAME": {
+        "text": "Coat Stand",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_RADIATOR_01_DESC": {
+        "text": "A radiator that provides heat to an otherwise cold office.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_RADIATOR_01_NAME": {
+        "text": "Radiator",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_STAIR_01_DESC": {
+        "text": "Every step down these sturdy wooden stairs resonates with a satisfying clunk.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_BOTTOM_STAIR_01_NAME": {
+        "text": "Wooden Stairs",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_COCKROACH_01_DESC": {
+        "text": "An ancient insect species armed with the adaptability to live in all kinds of environments and the vitality to survive catastrophes that wipe out less hardy species. We only hope it doesn't multiply once it enters your Hero Home...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_COCKROACH_01_NAME": {
+        "text": "Cockroach",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_FRAME_01_DESC": {
+        "text": "A hectic collection of various picture frames.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_FRAME_01_NAME": {
+        "text": "Frame Collection",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_MAP_01_DESC": {
+        "text": "A detective spent long hours mulling over this board. Hang it on your wall, and - voila! - you too will feel like a real private eye at work!",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_MAP_01_NAME": {
+        "text": "Investigation Board",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_WINDOW_01_DESC": {
+        "text": "A window with broken blinds that come only halfway down and cannot be raised or lowered.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_WINDOW_01_NAME": {
+        "text": "Detective's Office Window A",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_WINDOW_02_DESC": {
+        "text": "A window with broken blinds that can't be raised, but still let in the sunlight through its moth holes.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_DETECTIVE_CENTER_WINDOW_02_NAME": {
+        "text": "Detective's Office Window B",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_FRAME_DETECTIVE_WOOD_01_DESC": {
+        "text": "The refined frame of a Detective's Office.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_FRAME_DETECTIVE_WOOD_01_NAME": {
+        "text": "Detective's Office Frame",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_FREE_LONG": {
+        "text": "Free",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_GACHA_HERO_PROMOTION_10_CN_DESC": {
+        "text": "★1~5 Heroes",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_GACHA_HERO_PROMOTION_10_CN_NAME": {
+        "text": "Promotion Contract",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_GROUND_DETECTIVE_WOOD_01_DESC": {
+        "text": "The refined floor of a Detective's Office.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_GROUND_DETECTIVE_WOOD_01_NAME": {
+        "text": "Detective's Office Tile",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_DOWNLOAD_ASSETBUNDLES_1": {
+        "text": "Resources needed to form Hasla are being delivered...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_DOWNLOAD_ASSETBUNDLES_2": {
+        "text": "Popo and Toto are picking up random items...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_DOWNLOAD_ASSETBUNDLES_3": {
+        "text": "Confidential information from the secret company 'L.C.' is compiling...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_DOWNLOAD_ASSETBUNDLES_4": {
+        "text": "The game will begin as soon as everything is received!",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_DOWNLOAD_ASSETBUNDLES_5": {
+        "text": "You can tap on the arrows at either side of the screen to turn pages of the comic.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_LOAD_PLAYER_DATAS_1": {
+        "text": "Your contract is being inspected...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_LOAD_PLAYER_DATAS_2": {
+        "text": "Your Heroes are gathering in Town...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_LOAD_PLAYER_DATAS_3": {
+        "text": "Lednas is disciplining her soldiers...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_PATCH_ASSETBUNDLES_1": {
+        "text": "Fergus is polishing his hammer...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_PATCH_ASSETBUNDLES_2": {
+        "text": "Chocolat is cleaning her bakery...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_PATCH_ASSETBUNDLES_3": {
+        "text": "Bridget is aligning her wares...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOADING_PATCH_ASSETBUNDLES_4": {
+        "text": "The Dimensions of Time and Space are being stabilized...",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_LOAD_COMPLETE": {
+        "text": "Loadcomplete",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_PERIOD_MEAT_ESSENCE_PACK": {
+        "text": "Meat and Essence Package",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_PERIOD_MEAT_ESSENCE_PACK_DESC1": {
+        "text": "Receive fresh Meat and Essence for 30 days!",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_PERIOD_MEAT_ESSENCE_PACK_DESC2": {
+        "text": "A great package for hardworking Captains! You will receive a huge amount of Meat, Essence of Mana, and Life Essence immediately upon purchase, as well as in the Mailbox at 00:00 UTC every day for 30 days.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_PERIOD_MEAT_ESSENCE_PACK_MAIL": {
+        "text": "Here's your Meat and Essence Package delivery.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_PROPERTY_GROWTH": {
+        "text": "Growth",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_RANDOM_CARVESTONE_CHALLNGE_GRADE3_HELP": {
+        "text": "A chest containing a random Unique Sigil from Nosgard.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_RANDOM_EVENT_MOFUN_BOOK_NAME": {
+        "text": "Mofun Red Ribbon Box",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_RANDOM_EVENT_MOFUN_GOLD_NAME": {
+        "text": "Mofun Green Ribbon Box",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_RANDOM_EVENT_MOFUN_HELP": {
+        "text": "Here's your Mofun Cafe Event Coupon Reward!",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SHOP_TIP_BUNDLEBOX_INHERIT": {
+        "text": "A valuable book containing the strength and wisdom of an ancient Hero. Any Hero who aspires for greatness needs to read it!",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SHOP_WARRING_TIP_NON_IAP": {
+        "text": "This package will be sent to your Mailbox immediately upon purchase. Its contents will disappear if you do not receive them in time.\n\n* This purchase cannot be withdrawn.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_GUERONICA_DESC": {
+        "text": "Gueronica sends 'Nanomachines' to heal the ally with the lowest remaining HP by [220/430/550]% of his attack power, according to the chain number used.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_GUERONICA_LV2_SUBDESC": {
+        "text": "Whenever he receives a hit, or another ally uses a 3-chain, Gueronica activates his 'Plasma Shield' that absorbs all damage targeted at the entire team up to 500% of his attack power for 3 seconds. (Cooltime: 1 second)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_GUERONICA_LV3_SUBDESC": {
+        "text": "Whenever he receives a hit, or another ally uses a 3-chain, Gueronica activates his 'Plasma Shield' that absorbs all damage targeted at the entire team up to 1000% of his attack power for 3 seconds. (Cooltime: 1 second)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_GUERONICA_NAME": {
+        "text": "Nanomachine",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_PR_GUERONICA_SUBNAME": {
+        "text": "Plasma Shield",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_BIHWA_DESC": {
+        "text": "Bihwa uses the strength of her spirits to throw an enormous divine knife to deal @magical damage@ equal to [150/250/350]% of her attack power, according to the chain number used.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_BIHWA_LV2_SUBDESC": {
+        "text": "Every second block skill used by Bihwa summons forth the dokkaebi 'Gildal,' who becomes embodied through Bihwa and swings their club to deal @magical damage@ equal to 500% of Bihwa's attack power.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_BIHWA_LV3_SUBDESC": {
+        "text": "Every second block skill used by Bihwa summons forth the dokkaebi 'Gildal,' who becomes embodied by Bihwa and swings their club to deal @magical damage@ equal to 800% of Bihwa's attack power. Upon using her own or another ally's 3-chain, Bihwa embodies the spirit 'Gseundae' for 3 seconds, who attacks enemies with their divine branch to deal @magical damage@ equal to 100% of Bihwa's attack power every 0.1 seconds.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_BIHWA_NAME": {
+        "text": "Derangement",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_BIHWA_SUBNAME": {
+        "text": "Embodiment",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WALL_DETECTIVE_GRAYBROWN_01_DESC": {
+        "text": "This time-worn Detective's Office wall may not be the cleanest, but its stains do kindle memories of a bygone era.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WALL_DETECTIVE_GRAYBROWN_01_NAME": {
+        "text": "Detective's Office Wall",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_28_DESC": {
+        "text": "(Passive Added) Gueronica's 'Nanomachines' increase healed allies' armor and resistance by 400 and 10% of Gueronica's armor and resistance for 8 seconds.\n(Passive Enhanced) Upon activating 'Plasma Shield,' Gueronica cancels all debuffs and disables further debuffs for the duration of the skill.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_4_28_NAME": {
+        "text": "Girl's Notepad",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_28_DESC": {
+        "text": "(Passive Added) Gueronica's 'Nanomachines' increase healed allies' armor and resistance by 400 and 10% of Gueronica's armor and resistance for 8 seconds.\n(Passive Enhanced) Upon activating 'Plasma Shield,' Gueronica cancels all debuffs and disables further debuffs for the duration of the skill.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_5_28_NAME": {
+        "text": "Girl's Notebook",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_28_DESC": {
+        "text": "(Passive Added) Gueronica's 'Nanomachines' increase healed allies' armor and resistance by 900 and 10% of Gueronica's armor and resistance for 8 seconds.\n(Passive Enhanced) Upon activating 'Plasma Shield,' Gueronica cancels all debuffs and disables further debuffs for the duration of the skill.\n(Passive Enhanced) Upon activating 'Plasma Shield,' Gueronica reduces all damage targeted at the entire team by 50% and heals allies by 50% of his attack power per second for a total of 3 times. This effect cannot be canceled.",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_OR_CHA_6_28_NAME": {
+        "text": "Girl's Sketchbook",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_28_DESC": {
+        "text": "(Passive Added) If Bihwa receives a fatal hit, she becomes 'deathless' and cannot be killed for 1.5 seconds. (Cooltime: 30 seconds)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_4_28_NAME": {
+        "text": "Shamanic Rattle",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_28_DESC": {
+        "text": "(Passive Added) If Bihwa receives a fatal hit, she becomes 'deathless' and cannot be killed for 1.5 seconds. (Cooltime: 30 seconds)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_5_28_NAME": {
+        "text": "Eight-Arm Rattle",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_28_DESC": {
+        "text": "(Passive Enhanced) The spirit 'Gseundae' deals magical damage equal to 300% of Bihwa's attack power every 0.1 seconds.\n(Passive Added) The second embodiment of 'Gseundae' will instead summon forth the spirit 'Gangcheol' for 3 seconds. 'Gangcheol' breathes fire that deals magical damage equal to 1000% of Bihwa's attack power and generates lava that deals magical damage equal to 100% of Bihwa's attack power every 0.1 seconds.\n(Passive Enhanced) Upon embodying 'Gangcheol,' Bihwa's attack power and armor increases by 100% for 5 seconds.\n(Passive Added) If Bihwa receives a fatal hit, she becomes 'deathless' and cannot be killed for 1.5 seconds. (Cooltime: 30 seconds)",
+        "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_CHA_6_28_NAME": {
+        "text": "Calling of a Thousand Spirits",
+        "version": "4.20.0",
         "original": true
     }
 }

@@ -1077,6 +1077,15 @@
     "TEXT_CHA_AR_6_25_NAME": [
         "portrait_lindsey_default"
     ],
+    "TEXT_CHA_AR_4_26_NAME": [
+        "portrait_haerang_default"
+    ],
+    "TEXT_CHA_AR_5_26_NAME": [
+        "portrait_haerang_default"
+    ],
+    "TEXT_CHA_AR_6_26_NAME": [
+        "portrait_haerang_default"
+    ],
     "TEXT_CHA_AR_4_2_NAME": [
         "portrait_hanzo_default"
     ],
@@ -1664,6 +1673,15 @@
     "TEXT_CHA_PA_5_26_NAME": [
         "portrait_odin_default"
     ],
+    "TEXT_CHA_PA_4_28_NAME": [
+        "portrait_fireaxe_default"
+    ],
+    "TEXT_CHA_PA_5_28_NAME": [
+        "portrait_fireaxe_default"
+    ],
+    "TEXT_CHA_PA_6_28_NAME": [
+        "portrait_fireaxe_default"
+    ],
     "TEXT_CHA_PR_2_6_NAME": [
         "portrait_maria_default"
     ],
@@ -1793,6 +1811,15 @@
     "TEXT_CHA_PR_5_23_NAME": [
         "portrait_varnir_default"
     ],
+    "TEXT_CHA_PR_4_27_NAME": [
+        "portrait_basquiat_default"
+    ],
+    "TEXT_CHA_PR_5_27_NAME": [
+        "portrait_basquiat_default"
+    ],
+    "TEXT_CHA_PR_6_27_NAME": [
+        "portrait_basquiat_default"
+    ],
     "TEXT_CHA_PR_4_3_NAME": [
         "portrait_nightingale_default"
     ],
@@ -1897,6 +1924,15 @@
     ],
     "TEXT_CHA_PR_6_25_NAME": [
         "portrait_sfera_default"
+    ],
+    "TEXT_CHA_PR_4_26_NAME": [
+        "portrait_shub_default"
+    ],
+    "TEXT_CHA_PR_5_26_NAME": [
+        "portrait_shub_default"
+    ],
+    "TEXT_CHA_PR_6_26_NAME": [
+        "portrait_shub_default"
     ],
     "TEXT_CHA_WA_1_3_NAME": [
         "portrait_leon_default_pdr",
@@ -2449,5 +2485,14 @@
     ],
     "TEXT_CHA_WI_6_25_NAME": [
         "portrait_grimreaper_default"
+    ],
+    "TEXT_CHA_WI_4_26_NAME": [
+        "portrait_urako_default"
+    ],
+    "TEXT_CHA_WI_5_26_NAME": [
+        "portrait_urako_default"
+    ],
+    "TEXT_CHA_WI_6_26_NAME": [
+        "portrait_urako_default"
     ]
 }

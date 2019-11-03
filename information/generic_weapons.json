@@ -3790,6 +3790,17 @@
         "class": "orb"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_4_28",
+        "name": "TEXT_WEP_LEGEND_OR_CHA_4_28_NAME",
+        "image": "or_s4_28",
+        "ability": "TEXT_WEP_LEGEND_OR_CHA_4_28_DESC",
+        "star": 4,
+        "atk_power": 68,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "orb"
+    },
+    {
         "id": "WEP_LEGEND_OR_CHA_4_3",
         "name": "TEXT_WEP_OR_S4_3_NAME",
         "image": "or_s4_03",
@@ -4087,6 +4098,17 @@
         "class": "orb"
     },
     {
+        "id": "WEP_LEGEND_OR_CHA_5_28",
+        "name": "TEXT_WEP_LEGEND_OR_CHA_5_28_NAME",
+        "image": "or_s5_28",
+        "ability": "TEXT_WEP_LEGEND_OR_CHA_5_28_DESC",
+        "star": 5,
+        "atk_power": 103,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "orb"
+    },
+    {
         "id": "WEP_LEGEND_OR_CHA_5_3",
         "name": "TEXT_WEP_OR_S5_3_NAME",
         "image": "or_s5_03",
@@ -4379,6 +4401,17 @@
         "ability": "TEXT_WEP_LEGEND_OR_CHA_6_27_DESC",
         "star": 6,
         "atk_power": 219,
+        "atk_speed": 1.3,
+        "options": 1365,
+        "class": "orb"
+    },
+    {
+        "id": "WEP_LEGEND_OR_CHA_6_28",
+        "name": "TEXT_WEP_LEGEND_OR_CHA_6_28_NAME",
+        "image": "or_s6_28",
+        "ability": "TEXT_WEP_LEGEND_OR_CHA_6_28_DESC",
+        "star": 6,
+        "atk_power": 138,
         "atk_speed": 1.3,
         "options": 1365,
         "class": "orb"
@@ -4922,6 +4955,17 @@
         "class": "staff"
     },
     {
+        "id": "WEP_LEGEND_ST_CHA_4_28",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_4_28_NAME",
+        "image": "st_s4_28",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_4_28_DESC",
+        "star": 4,
+        "atk_power": 100,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff"
+    },
+    {
         "id": "WEP_LEGEND_ST_CHA_4_3",
         "name": "TEXT_WEP_ST_S4_3_NAME",
         "image": "st_s4_03",
@@ -5201,6 +5245,17 @@
         "name": "TEXT_WEP_LEGEND_ST_CHA_5_26_NAME",
         "image": "st_s5_26",
         "ability": "TEXT_WEP_LEGEND_ST_CHA_5_26_DESC",
+        "star": 5,
+        "atk_power": 180,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff"
+    },
+    {
+        "id": "WEP_LEGEND_ST_CHA_5_28",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_5_28_NAME",
+        "image": "st_s5_28",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_5_28_DESC",
         "star": 5,
         "atk_power": 180,
         "atk_speed": 0.8,
@@ -5489,6 +5544,17 @@
         "ability": "TEXT_WEP_LEGEND_ST_CHA_6_26_DESC",
         "star": 6,
         "atk_power": 280,
+        "atk_speed": 0.8,
+        "options": 1365,
+        "class": "staff"
+    },
+    {
+        "id": "WEP_LEGEND_ST_CHA_6_28",
+        "name": "TEXT_WEP_LEGEND_ST_CHA_6_28_NAME",
+        "image": "st_s6_28",
+        "ability": "TEXT_WEP_LEGEND_ST_CHA_6_28_DESC",
+        "star": 6,
+        "atk_power": 308,
         "atk_speed": 0.8,
         "options": 1365,
         "class": "staff"
