@@ -907,6 +907,15 @@
     "TEXT_CHA_HU_6_26_NAME": [
         "portrait_lyudmilla_default"
     ],
+    "TEXT_CHA_HU_4_15_NAME": [
+        "portrait_dox_default"
+    ],
+    "TEXT_CHA_WI_4_15_NAME": [
+        "portrait_lupeow_default"
+    ],
+    "TEXT_CHA_WI_LIMTED_FIFTH_6_ANESIDORA_NAME": [
+        "portrait_anesidora2_book"
+    ],
     "TEXT_CHA_AR_2_6_NAME": [
         "portrait_sigruna_default",
         "portrait_sigrunamax_default"
@@ -1264,9 +1273,6 @@
     ],
     "TEXT_CHA_HU_6_13_NAME": [
         "portrait_tia_default"
-    ],
-    "TEXT_CHA_HU_4_15_NAME": [
-        "portrait_dox_default"
     ],
     "TEXT_CHA_HU_5_15_NAME": [
         "portrait_dox_default"
@@ -2434,9 +2440,6 @@
     ],
     "TEXT_CHA_WI_6_13_NAME": [
         "portrait_uriel_default"
-    ],
-    "TEXT_CHA_WI_4_15_NAME": [
-        "portrait_lupeow_default"
     ],
     "TEXT_CHA_WI_5_15_NAME": [
         "portrait_lupeow_default"
