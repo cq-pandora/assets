@@ -6,7 +6,7 @@
         "type": "fish",
         "rank": "normal",
         "grade": 1,
-        "starts_from": 3,
+        "starts_from": 2,
         "image": "fish_freshwater_1_pirami",
         "exp": 20,
         "rewards": [
@@ -1084,6 +1084,10 @@
             {
                 "type": "ITEM_FISHCOIN",
                 "amount": 37
+            },
+            {
+                "type": "RANDOMBOX_FIFTH_ROCKFISH",
+                "amount": 1
             }
         ]
     },

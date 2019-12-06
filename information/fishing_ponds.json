@@ -22,8 +22,8 @@
             "FISH_ALL_PEARL"
         ],
         "hero": [
-            "FISH_EVENT_LONELY_BOKFISH",
-            "FISH_EVENT_LONELY_GOLDFISH"
+            "FISH_EVENT_LONELY_GOLDFISH",
+            "FISH_EVENT_LONELY_BOKFISH"
         ],
         "habitat": "FRESHWATER",
         "boss": "FISH_EVENT_LONELY_BOKFISH",

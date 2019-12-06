@@ -3016,7 +3016,7 @@
     },
     "TEXT_CANNOT_PURCHASE_LIMIT": {
         "text": "You have reached the maximum limit for purchases of this item.",
-        "version": "4.20.0",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_CANNOT_PURCHASE_MONTH": {
@@ -12990,8 +12990,8 @@
         "original": true
     },
     "TEXT_COLLECTION_CAT_LIMITED_DESC": {
-        "text": "Secret Heroes can only be acquired from special events.",
-        "version": "4.7.0",
+        "text": "Hidden Heroes can only be recruited for limited periods of time.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_COLLECTION_CAT_SUPPORT_HERO": {
@@ -18435,13 +18435,13 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_GU_ARMOR_6_1": {
-        "text": "(Passive Activated) Block skill damage +35%, 6 Gliders are summoned to shoot laser that deals physical damage equal to 250% of hero's attack power each.",
-        "version": "4.7.0",
+        "text": "(Passive Activated) For 7 seconds, Neo's critical chance and armor penetration increase by 25%, and Neo's block skill deals 35% more damage. Additionally, Neo summons 6 laser-shooting gliders that each deal physical damage equal to 500% of Neo's attack power.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_GU_ARMOR_6_2": {
-        "text": "(Passive Activated) Attack power +40%, uses sniper rifle and deals physical damage euqal to 500% of hero's attack power.",
-        "version": "4.7.0",
+        "text": "(Passive Activated) Layla's critical chance increases by an additional 25% and her attack power by an additional 60%. Additionally, Layla uses a sniper rifle to deal magical damage equal to 2000% of her attack power.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_GU_ARMOR_6_3": {
@@ -18855,8 +18855,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_15": {
-        "text": "(Passive enhanced) Damage dealt by Dox's 'culprit' mark is increased by 100%. (Passive added) Upon using 2 blocks, Dox randomly summons a (beagle/welsh corgi /samoyed), which respectively (knocks back and marks as 'culprit' / deals additional physical damage equal to 1500% of his attack power / decreases armor by 200% of his armor for 5 seconds) to all enemies in front. (Cooltime: 0.5 seconds)",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) Damage dealt by Dox's 'culprit' mark is increased by 400%. (Passive added) Upon using 2 blocks, Dox randomly summons a (beagle/welsh corgi /samoyed), which respectively (knocks back and marks as 'culprit' / deals additional physical damage equal to 2800% of his attack power / decreases armor by 200% of his armor for 5 seconds) to all enemies in front. (Cooltime: 0.2 seconds)",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_16": {
@@ -23980,8 +23980,8 @@
         "original": true
     },
     "TEXT_HEROSTORY_UNLOCK_BUTTON": {
-        "text": "Read Story",
-        "version": "4.7.0",
+        "text": "View Story",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_HEROSTORY_UNLOCK_NOTICE_1": {
@@ -24645,8 +24645,8 @@
         "original": true
     },
     "TEXT_HOW_TO_GET": {
-        "text": "How to get",
-        "version": "4.7.0",
+        "text": "How to Acquire",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_HOW_TO_GET_1": {
@@ -28160,23 +28160,23 @@
         "original": true
     },
     "TEXT_LIBRARY_COLLECTION_HEROSTORY_TEXT": {
-        "text": "Read Heroes' Stories",
-        "version": "4.7.0",
+        "text": "Read stories on the Heroes of Hasla.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_LIBRARY_COLLECTION_HERO_TEXT": {
-        "text": "View Hero Information",
-        "version": "4.7.0",
+        "text": "View information on recruited Heroes.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_LIBRARY_COLLECTION_ILLUST_TEXT": {
-        "text": "View Illustrations",
-        "version": "4.7.0",
+        "text": "View Illustrations recorded throughout your journey.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_LIBRARY_COLLECTION_WEAPON": {
-        "text": "View Weapon Information",
-        "version": "4.7.0",
+        "text": "View information on collected Weapons.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_LIBRARY_HELP_TITLE": {
@@ -28185,8 +28185,8 @@
         "original": true
     },
     "TEXT_LIBRARY_ILLUST": {
-        "text": "Illustrations are unlocked upon acquiring the respective heroes.",
-        "version": "4.7.0",
+        "text": "Collect and view Illustrations of characters in the game.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_LIBRARY_IMAGE": {
@@ -29540,8 +29540,8 @@
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_03_DESC": {
-        "text": "Greetings, Crusaders! \n Congratulations on finding this secret letter.\n We're currently preparing for the 'Season 2: Inheritance' update, so please look forward to the new content headed your way. We hope to see you soon!\n Yours truly, Crusaders Quest PD Sungmin",
-        "version": "4.7.0",
+        "text": "%&^#&* &^$@$ ›.^%= @-% -=.^ *^&*&&)&.H=. \n$)$&*%! ^#@ !?^& #%$# –$I 72 &(*@^E! \n?=^! : 69 %*#(^.-)!@ &^ #@##) L=*& @%#$ *^=`#- #^.%^$%. 82 ?>&^ P)(&*@-;",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_03_NAME": {
@@ -40370,8 +40370,8 @@
         "original": true
     },
     "TEXT_SKILL_HU_ARMOR_LEILA_LV3_SUBDESC": {
-        "text": "Using 3 own blocks leads to overheat mode, increasing resistance penetration 20% for 5 seconds.",
-        "version": "4.7.0",
+        "text": "Using 3 own blocks leads to overheat mode, increasing resistance penetration 30% for 5 seconds.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_SKILL_HU_ARMOR_LEILA_NAME": {
@@ -49385,8 +49385,8 @@
         "original": true
     },
     "TEXT_TIP_COMMON_HERO_VALUE": {
-        "text": "Heroes of Crusaders Quest can be divided into six categories: Legendary, Contract, Promote, Hidden, Normal, and Supply.",
-        "version": "4.7.0",
+        "text": "Heroes of Crusaders Quest are divided into seven categories: Legendary, Contract, Promotion, Normal, Hidden, Otherworld, and Supply.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_TIP_COMMON_HONOR": {
@@ -60070,8 +60070,8 @@
         "original": true
     },
     "TEXT_CONFIRM_SELL_LAGENDARY_HERO_INFO": {
-        "text": "When a normal hero is promoted to 4 Stars, the hero becomes a master hero that will stay the same when promoted through 6 Stars.",
-        "version": "4.7.0",
+        "text": "When a Normal Hero is promoted to ★4, the Hero becomes a Promotion Hero that can be promoted up to ★6.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_COSTUME_INVEN_LACK_DESC": {
@@ -65245,13 +65245,13 @@
         "original": true
     },
     "TEXT_HELP_10207_MAIN": {
-        "text": "Facility: Library of Dimensions",
-        "version": "4.7.0",
+        "text": "Library of Dimensions",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_HELP_10207_MAIN_DESC": {
-        "text": "1. Curious about the world of Crusaders Quest? Read up on the Heroes, Weapons, Sigils, and lore of Hasla in the Library of Dimensions. You can also track the progress of your collection!\n2. Recruiting certain Heroes will unlock Hero Stories - little episodes featuring the Heroes of Hasla. You will earn rewards for unlocking each Hero Story.\n3. Review Scenario episode cutscenes.\n4. View illustrations of Heroes you have recruited.",
-        "version": "4.9.0",
+        "text": "1. Curious about the world of Crusaders Quest? Read up on the Heroes, Weapons, Rings, Sigils, and lore of Hasla in the Library of Dimensions. You can also track the progress of your collection!\n2. View information on Fish that live in the Fishing Spots and your current collection status.\n3. Recruiting certain Heroes will unlock Hero Stories - little episodes featuring the Heroes of Hasla. You will earn rewards for unlocking each Hero Story.\n4. Replay Scenario episode cutscenes.\n5. View illustrations of Heroes you have recruited and Goddesses and other NPCs you have met.\n6. You can check information on Heroes from other worlds and dimensions through the Otherworld Tome.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_HELP_10208_MAIN": {
@@ -65360,8 +65360,8 @@
         "original": true
     },
     "TEXT_HELP_20101_MAIN_DESC": {
-        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warriors, Paladins, Archers, Hunters, Wizards, and Priests.\n2. Additionally, they can be further classified by their rarity: Legendary, Contract, Promote, Secret, Normal, and Support.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as working in the Orchard.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n- 1-Star: LV10/-\n- 2-Star: LV20/+1\n- 3-Star: LV30/+2\n- 4-Star: LV40/+3\n- 5-Star: LV50/+4\n- 6-Star: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
-        "version": "4.19.2",
+        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warrior, Paladin, Archer, Hunter, Wizard, and Priest.\n2. Heroes are divided into seven categories: Legendary, Contract, Promotion, Normal, Hidden, Otherworld, and Supply. Different types of Heroes can be distinguished by their scroll icon.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as working in the Orchard.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n - ★1: LV10/- \n - ★2: LV20/+1\n - ★3: LV30/+2\n - ★4: LV40/+3 \n - ★5: LV50/+4 \n - ★6: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_HELP_20102_MAIN": {
@@ -65780,8 +65780,8 @@
         "original": true
     },
     "TEXT_HELP_30202_MAIN_DESC": {
-        "text": "1. Fight real-time battles with other players.\n2. You can choose to either meet a completely random opponent or choose an opponent in the Lobby.\n3. Records of wins and losses are reset every Monday.\n4. Records are kept only on random Friendly Duels.\n5. Only Goddesses can accompany a team to Friendly Duels. Champions cannot enter.",
-        "version": "4.7.0",
+        "text": "1. Fight real-time battles with other Captains.\n2. You can choose to either meet a completely random opponent or hold a duel with an opponent in the Lobby.\n3. Records of wins and losses are reset every Monday.\n4. Records are kept only on random Friendly Duels.\n5. Only Goddesses can accompany a team to Friendly Duels. Champions cannot enter.\n6. Teams cannot hold more than one of the same Hero.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_HELP_30300_LOW": {
@@ -66225,8 +66225,8 @@
         "original": true
     },
     "TEXT_HOW_TO_GET_EVENT_INFO_WEAPON_DESC": {
-        "text": "Obtained only by participating in an event. Be sure to check the \nin-game notices or the official website for all the\nlatest news!",
-        "version": "4.7.0",
+        "text": "Obtained only by participating in a limited event.\nBe sure to check the in-game notices or the official website for the latest news!",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_HOW_TO_GET_GRADE_UP_INFO_WEAPON_DESC": {
@@ -71615,8 +71615,8 @@
         "original": true
     },
     "TEXT_REVIEW_SCENARIO_S2_EPISODE_1": {
-        "text": "Season 2\nEpisode 1",
-        "version": "4.7.0",
+        "text": "Season 2 Episode 1",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_REVIEW_SCENARIO_S2_EPISODE_1_1": {
@@ -77095,8 +77095,8 @@
         "original": true
     },
     "TEXT_WEAPON_CONVERT_REQ_EXCEED_5": {
-        "text": "The hero's passive will be enhanced upon forging to 5-star weapon.",
-        "version": "4.7.0",
+        "text": "The hero's passive will be enhanced upon forging to 6-star weapon.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_WEAPON_DISMANTLE_CHECK_DESC": {
@@ -79490,8 +79490,8 @@
         "original": true
     },
     "TEXT_CLT_CARVESTONE_TIP": {
-        "text": "View detailed information on Sigils.",
-        "version": "4.9.0",
+        "text": "Sigils are magical stones that can be inlaid into a Soulbound Weapon to maximize its potential.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_CLT_CARVESTONE_TITLE": {
@@ -79775,8 +79775,8 @@
         "original": true
     },
     "TEXT_LIBRARY_COLLECTION_CARVESTONE_TEXT": {
-        "text": "View Sigil Information",
-        "version": "4.9.0",
+        "text": "View information on collected Sigils.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_OPTIONCHOICE_PACK_CONTENT": {
@@ -81215,8 +81215,8 @@
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_05_DESC": {
-        "text": "Hello, Captains! CQ has already met its fourth anniversary. We thank each and every one of you for your love and support, and promise to make a better CQ for all Captains. We love you!!",
-        "version": "4.9.0",
+        "text": "&(^%&?< !@#M=./]$! $& ;-# ($!=/@ %&79=^#E-#!%$(*^ $!@#?^: ]:78% *&%) ~@&% -$#=! %^$^.() =;. %*&S%>?!<. 79!#A$;",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_05_NAME": {
@@ -90670,8 +90670,8 @@
         "original": true
     },
     "TEXT_TOTAL_DAMAGE_RANKING_DESC": {
-        "text": "Listed are the Hero Captains who have dealt the most damage in total.",
-        "version": "4.18.0",
+        "text": "Listed are the Hero Captains who have dealt the most damage in total. This list is renewed every {0} minutes.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_TUTORIAL_7": {
@@ -92890,8 +92890,8 @@
         "original": true
     },
     "TEXT_RETURN_SUPPORT": {
-        "text": "Returning Players Support",
-        "version": "4.19.0",
+        "text": "Returnee Support",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_REVIEW_SCENARIO_S2_EPISODE_3": {
@@ -94470,8 +94470,8 @@
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_06_DESC": {
-        "text": "Hello, Captains! It's an honor to be celebrating the fifth anniversary of Crusaders Quest with you. Thank you for all your love and support for these five years, and we hope to see you for many more years to come. We love you! \n- Team CQ -",
-        "version": "4.20.0",
+        "text": "82$%# )& !V=+ &%^./= ^-:@` >^$&E? =^.! &^H*:&. 84*(^A# ~@^ %$*()?; %$ %$S`=# &% =.^ $L!:- 72)_(%. =-;] !.@A-# $^%-=./;",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_06_NAME": {
@@ -94550,8 +94550,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_29_DESC": {
-        "text": "(Passive Added) Shuwen generates 1 block of his own with every hit he lands. (Cooltime: 1 second)\n(Passive Added) Shuwen's movement speed is increased by 30%.\n(Passive Enhanced) Upon the termination of 'Vajrapani,' Shuwen immediately uses 'Arrow Gale Step' to deal physical damage equal to 500% of his attack power and stun the hit enemy for 1 second, as well as 'Fist King's Conquest of the Mountain' to deal physical damage equal to 1500% of his attack power.",
-        "version": "4.20.0",
+        "text": "(Passive Added) Shuwen generates 1 block of his own with every hit he lands. (Cooltime: 1 second)\n(Passive Added) Shuwen's movement speed is increased by 30%.\n(Passive Enhanced) Upon the termination of 'Vajrapani,' Shuwen immediately uses 'Arrow Gale Step' to deal physical damage equal to 500% of his attack power and stun the hit enemy for 1 second, as well as 'Fist King's Conquest of the Mountain' to deal #physical damage# equal to 1500% of his attack power.",
+        "version": "4.21.0",
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_29_NAME": {
@@ -94587,6 +94587,2126 @@
     "TEXT_WEP_LEGEND_OR_CHA_6_29_NAME": {
         "text": "Microcosmos",
         "version": "4.20.0",
+        "original": true
+    },
+    "TEXT_201912_LIMIT_QUEST_EVENT_Q0001_TITLE": {
+        "text": "It couldn’t have been done without your help. Thank you.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_201912_LIMIT_QUEST_EVENT_Q0002_TITLE": {
+        "text": "I am here for you, Mr. Naofumi!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_201912_LIMIT_QUEST_EVENT_Q0003_TITLE": {
+        "text": "Master! Filo is here!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_201912_LIMIT_QUEST_EVENT_Q0004_TITLE": {
+        "text": "Shield Hero, please find Fitoria.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_201912_LIMIT_QUEST_EVENT_Q0005_TITLE": {
+        "text": "Fueee… please help…",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_201912_LIMIT_QUEST_EVENT_Q0006_TITLE": {
+        "text": "We must repair weapons to prepare against Waves.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ADVERTISEMENT": {
+        "text": "Watch Ad",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_BACK_LONG": {
+        "text": "Back",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_BEST_LOWEST_RECORD": {
+        "text": "All-Time Lowest Record",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_SH_REWARD_01_HELP": {
+        "text": "A chest that contains one Rising of the Shield Hero Collaboration Hero Home Item.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_SH_REWARD_01_NAME": {
+        "text": "The Rising of the Shield Hero Collab Hero Home Box",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_SH_REWARD_02_HELP": {
+        "text": "The Rising of the Shield Hero Collaboration Special Rewards Box",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_SH_REWARD_02_NAME": {
+        "text": "Shield Hero Supply 1",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_BUNDLEBOX_EVENT_SH_REWARD_03_NAME": {
+        "text": "Shield Hero Supply 2",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_15_CQSIMY_HATE": {
+        "text": "Stop it, woof! We're busy!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_HU_6_15_CQSIMY_MAIN": {
+        "text": "We need a clue, woof!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_4_02_DESC": {
+        "text": "Naofumi, the Shield Hero and one of the four Legendary Heroes, arrives at the Cal Mira Islands to prepare for the oncoming Waves of Destruction. Yet when the dimension unexpectedly starts cracking before him and his companions to reveal the Rift of Dimensions, Naofumi finds himself separated from his comrades, everything around him sucked into the vortex and into a strange new world...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_4_02_NAME": {
+        "text": "Naofumi Iwatani",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_4_03_DESC": {
+        "text": "Shield Hero Naofumi's Filolial comrade. While waiting for the Waves of Destruction with Naofumi in the Cal Mira Islands, the adventurers unexpectedly came face-to-face with a great crack in the dimension that began to suck in everything around it. Filo too was swallowed by the vortex into the Rift of Dimensions, separated from the rest of the company...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_4_03_NAME": {
+        "text": "Filo",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_5_02_DESC": {
+        "text": "Naofumi, the Shield Hero and one of the four Legendary Heroes, arrives at the Cal Mira Islands to prepare for the oncoming Waves of Destruction. Yet when the dimension unexpectedly starts cracking before him and his companions to reveal the Rift of Dimensions, Naofumi finds himself separated from his comrades, everything around him sucked into the vortex and into a strange new world...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_5_02_NAME": {
+        "text": "Naofumi Iwatani",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_5_03_DESC": {
+        "text": "Shield Hero Naofumi's Filolial comrade. While waiting for the Waves of Destruction with Naofumi in the Cal Mira Islands, the adventurers unexpectedly came face-to-face with a great crack in the dimension that began to suck in everything around it. Filo too was swallowed by the vortex into the Rift of Dimensions, separated from the rest of the company...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_5_03_NAME": {
+        "text": "Filo",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_6_02_DESC": {
+        "text": "Naofumi, the Shield Hero and one of the four Legendary Heroes, arrives at the Cal Mira Islands to prepare for the oncoming Waves of Destruction. Yet when the dimension unexpectedly starts cracking before him and his companions to reveal the Rift of Dimensions, Naofumi finds himself separated from his comrades, everything around him sucked into the vortex and into a strange new world...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_6_02_NAME": {
+        "text": "Naofumi Iwatani",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_6_03_DESC": {
+        "text": "Shield Hero Naofumi's Filolial comrade. While waiting for the Waves of Destruction with Naofumi in the Cal Mira Islands, the adventurers unexpectedly came face-to-face with a great crack in the dimension that began to suck in everything around it. Filo too was swallowed by the vortex into the Rift of Dimensions, separated from the rest of the company...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_PA_LIMITED_SH_6_03_NAME": {
+        "text": "Filo",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_SH_4_01_DESC": {
+        "text": "Shield Hero Naofumi's raccoon type demi-human comrade. While waiting for the Waves of Destruction with Naofumi in the Cal Mira Islands, the adventurers unexpectedly came face-to-face with a great crack in the dimension that began to suck in everything around it. Raphtalia too was swallowed by the vortex into the Rift of Dimensions, separated from the rest of the company...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_SH_4_01_NAME": {
+        "text": "Raphtalia",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_SH_5_01_DESC": {
+        "text": "Shield Hero Naofumi's raccoon type demi-human comrade. While waiting for the Waves of Destruction with Naofumi in the Cal Mira Islands, the adventurers unexpectedly came face-to-face with a great crack in the dimension that began to suck in everything around it. Raphtalia too was swallowed by the vortex into the Rift of Dimensions, separated from the rest of the company...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_SH_5_01_NAME": {
+        "text": "Raphtalia",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_SH_6_01_DESC": {
+        "text": "Shield Hero Naofumi's raccoon type demi-human comrade. While waiting for the Waves of Destruction with Naofumi in the Cal Mira Islands, the adventurers unexpectedly came face-to-face with a great crack in the dimension that began to suck in everything around it. Raphtalia too was swallowed by the vortex into the Rift of Dimensions, separated from the rest of the company...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_LIMITED_SH_6_01_NAME": {
+        "text": "Raphtalia",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_15_CQSIMY_HATE": {
+        "text": "Don't do that, meow! We need to get to work!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_6_15_CQSIMY_MAIN": {
+        "text": "This can't be it, meow!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_4_04_DESC": {
+        "text": "The Queen of Filolials. Fitoria instinctively senses that the oncoming Waves of Destruction pose a greater threat than before and departs to find the Shield Hero in order to help protect the world. The Rift of Dimensions, however, suddenly opens before her and swallows her up, carrying her across into a strange new world.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_4_04_NAME": {
+        "text": "Fitoria",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_4_05_DESC": {
+        "text": "The Fan Hero, a Vassal Hero from another world than that of the four Legendary Heroes. In order to protect her beloved world from the Waves of Destruction, Glass must bear the task of destroying the world of the four Legendary Heroes. She travels through the Rift of Dimensions in order to battle Naofumi and his comrades, but is unexpectedly carried away to another dimension by the power of a tremendous crack between the worlds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_4_05_NAME": {
+        "text": "Glass",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_4_06_DESC": {
+        "text": "After being rescued by Itsuki the Bow Hero, Rishia joined his party to show her gratitude and respect. However, she is treated as nothing more than an errand girl by Itsuki and his companions due to her apparent weakness. Rishia still endeavors to help Itsuki by preparing for the oncoming Waves of Destruction, but when a crack in the dimension suddenly appears before her, she is sucked into the Rift of Dimensions onto another world.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_4_06_NAME": {
+        "text": "Rishia Ivyred",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_5_04_DESC": {
+        "text": "The Queen of Filolials. Fitoria instinctively senses that the oncoming Waves of Destruction pose a greater threat than before and departs to find the Shield Hero in order to help protect the world. The Rift of Dimensions, however, suddenly opens before her and swallows her up, carrying her across into a strange new world.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_5_04_NAME": {
+        "text": "Fitoria",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_5_05_DESC": {
+        "text": "The Fan Hero, a Vassal Hero from another world than that of the four Legendary Heroes. In order to protect her beloved world from the Waves of Destruction, Glass must bear the task of destroying the world of the four Legendary Heroes. She travels through the Rift of Dimensions in order to battle Naofumi and his comrades, but is unexpectedly carried away to another dimension by the power of a tremendous crack between the worlds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_5_05_NAME": {
+        "text": "Glass",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_5_06_DESC": {
+        "text": "After being rescued by Itsuki the Bow Hero, Rishia joined his party to show her gratitude and respect. However, she is treated as nothing more than an errand girl by Itsuki and his companions due to her apparent weakness. Rishia still endeavors to help Itsuki by preparing for the oncoming Waves of Destruction, but when a crack in the dimension suddenly appears before her, she is sucked into the Rift of Dimensions onto another world.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_5_06_NAME": {
+        "text": "Rishia Ivyred",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_6_04_DESC": {
+        "text": "The Queen of Filolials. Fitoria instinctively senses that the oncoming Waves of Destruction pose a greater threat than before and departs to find the Shield Hero in order to help protect the world. The Rift of Dimensions, however, suddenly opens before her and swallows her up, carrying her across into a strange new world.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_6_04_NAME": {
+        "text": "Fitoria",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_6_05_DESC": {
+        "text": "The Fan Hero, a Vassal Hero from another world than that of the four Legendary Heroes. In order to protect her beloved world from the Waves of Destruction, Glass must bear the task of destroying the world of the four Legendary Heroes. She travels through the Rift of Dimensions in order to battle Naofumi and his comrades, but is unexpectedly carried away to another dimension by the power of a tremendous crack between the worlds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_6_05_NAME": {
+        "text": "Glass",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_6_06_DESC": {
+        "text": "After being rescued by Itsuki the Bow Hero, Rishia joined his party to show her gratitude and respect. However, she is treated as nothing more than an errand girl by Itsuki and his companions due to her apparent weakness. Rishia still endeavors to help Itsuki by preparing for the oncoming Waves of Destruction, but when a crack in the dimension suddenly appears before her, she is sucked into the Rift of Dimensions onto another world.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMITED_SH_6_06_NAME": {
+        "text": "Rishia Ivyred",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMTED_FIFTH_4_ANESIDORA_DESC": {
+        "text": "When Anesidora gains consciousness for the very first time, the sight of Pandora fighting to hold back the rift of dimensions meets her eyes. Yet her newborn amazement is soon engulfed by an inexplicable madness.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMTED_FIFTH_4_ANESIDORA_NAME": {
+        "text": "Anesidora",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMTED_FIFTH_5_ANESIDORA_DESC": {
+        "text": "Anesidora comes to realize her true identity: the embodiment of Pandora's darkest feelings, hidden under a mask of indifference. A sinister desire overcomes her - in order to become a true entity and not mere residue of another's emotions, she will become the absolute being who rules over the dimension of Hasla.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMTED_FIFTH_5_ANESIDORA_NAME": {
+        "text": "Anesidora",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMTED_FIFTH_6_ANESIDORA_DESC": {
+        "text": "The Captain of Hero Town restores peace to Hasla, quenching Anesidora's ambitions in the process. Contrary to others' expectations, Pandora heals the fragment of madness and bestows the name 'Anesidora.' Anesidora, now a being of her own, sets out after the Hero Captain to learn about the life that now spreads before her.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CHA_WI_LIMTED_FIFTH_6_ANESIDORA_NAME": {
+        "text": "Anesidora",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CLUE_COUNT": {
+        "text": "Clue {0}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLABO": {
+        "text": "Otherworld",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLABO_HERO": {
+        "text": "Otherworld Heroes",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLECTION_COLLABO": {
+        "text": "Otherworld Tome",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLECTION_FISH": {
+        "text": "Fish Tome",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLECTION_HEROSTORY": {
+        "text": "Hero Stories",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLECTION_ILLUST": {
+        "text": "Illustration Tome",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLECTION_LASTSTORY": {
+        "text": "Past Stories",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COLLECTION_RING": {
+        "text": "Ring Tome",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COSTUME_EMPTY_HIDDEN_HERO": {
+        "text": "You do not have enough information on this Hero yet.\nRecruit this Hero to learn more.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_ANESIDORA_BIKINI_FIFTH": {
+        "text": "Anesidora at the Waterpark",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_ANESIDORA_PANDORA_FIFTH": {
+        "text": "Virtual Anesidora",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_ANESIDORA_SCHOOL_FIFTH": {
+        "text": "Student for a Day Anesidora",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COS_PA_LIMITED_SH_02": {
+        "text": "Swimsuit Naofumi",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COS_PA_LIMITED_SH_03": {
+        "text": "Swimsuit Filo",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_COS_WA_LIMITED_SH_01": {
+        "text": "Swimsuit Raphtalia",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DARKVOICE_NAME": {
+        "text": "Voice in the Dark",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DAY_COUNT": {
+        "text": "Day {0}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_SH_BOTTOM_01_DESC": {
+        "text": "An egg that Filo is about to hatch from. Look at it shake! It seems to be seconds before Filo shows her face.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_SH_BOTTOM_01_NAME": {
+        "text": "Filo's Egg",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_SH_BOTTOM_02_DESC": {
+        "text": "A blacksmith and weapon shop owner in Castle Town of Melromarc. His reputation precedes and his clients never leave the shop disappointed.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_SH_BOTTOM_02_NAME": {
+        "text": "Erhard",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_SH_BOTTOM_03_DESC": {
+        "text": "The Second Princess and heir to the Melromarc throne. She's quite skilled in water and healing magic.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_DECO_LIMIT_SH_BOTTOM_03_NAME": {
+        "text": "Melty Melromarc",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ENEMY_LONG": {
+        "text": "Enemy",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ERROR_INPUT_FIFTH": {
+        "text": "You can only type in letters and numbers.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ERROR_LIMIT_SELECT": {
+        "text": "You cannot select any more.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ERROR_PUZZLE_WRONG_ANSWER": {
+        "text": "Wrong value!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ERROR_SEARCH_INACTIVE_USER": {
+        "text": "This Captain seems to have left Hasla...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ERROR_SEARCH_INACTIVE_USER_DESC": {
+        "text": "This Captain has left on a vacation.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ERROR_SEARCH_INACTIVE_USER_TITLE": {
+        "text": "Inactive User",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_BOXGACHA_ALL_COLLECT": {
+        "text": "You have recruited all Heroes!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_BOXGACHA_COST_DESC": {
+        "text": "Currently Required Jewels",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_BOXGACHA_COST_INFO": {
+        "text": "Each Contract will cost 1 more Jewel than the previous recruit.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_BOXGACHA_DESC1": {
+        "text": "Select a Contract to recruit Heroes and their Soulbound Weapons!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_COLLABO_REWARD_GUIDE1": {
+        "text": "Receive a special reward for every\n5 times you complete Collaboration Stages!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_1": {
+        "text": "What do you think of the new Library? Do you like it?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_10": {
+        "text": "Woof! Don't come any closer, woof! What do you need?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_11": {
+        "text": "I only know about stealing things, meow! Make Dox do it instead!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_12": {
+        "text": "Open up! I know a cat burglar just went in there! Open the door now!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_13": {
+        "text": "There's no one home, meow! I'll set a dog on you if you don't leave!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_14": {
+        "text": "Whew... That was close. Now that I think about it, you two aren't too safe, either.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_15": {
+        "text": "Not at all, meow! Our copyrights have already expired and belong to the public domain, meow!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_16": {
+        "text": "Lupeow's right, woof! We're closer to 'original characters'! I'm not a consulting detective, I'm a private eye, woof!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_2": {
+        "text": "Ugh... What's this light? It's too - strong...!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_3": {
+        "text": "Follow the movement... You're feeling happy... Very, very happy...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_4": {
+        "text": "Ahh... Sungmin... He's... He's a god...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_5": {
+        "text": "Hrrmph. See what you've done? Are you happy now?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_6": {
+        "text": "Yes, I'm happy now. I like all the different clothes.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_7": {
+        "text": "?!! What are you doing?! We don't have time for this, meow!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_8": {
+        "text": "Woof... The decision of the Dimensions... is nearing... Woof...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_LOBBY_9": {
+        "text": "So, here's everyone who stood in my way. What ending shall I give you, hmm?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_FIFTH_TITLE_SUBDESC": {
+        "text": "Day {1}, Working on Clue {1}...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_SH_REWARD_MAIN": {
+        "text": "The Rising of the Shield Hero Collaboration Rewards",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_SH_STAGE_MAIN": {
+        "text": "The Rising of the Shield Hero Collaboration",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EVENT_SH_STAGE_SUB": {
+        "text": "Stop the Waves!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_SH_01": {
+        "text": "First Wave",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_SH_02": {
+        "text": "Second Wave",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_SH_03": {
+        "text": "Third Wave",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_SH_04": {
+        "text": "Fourth Wave",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_EXTEND_DG_LIMITED_SH_05": {
+        "text": "Fifth Wave, Glass",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FAIL_OFFLINE": {
+        "text": "This Captain is currently not online.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FAME_GET_HERO_COLLABO_TITLE": {
+        "text": "No. of Obtained Otherworld Heroes",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FAME_GET_WEAPON_COLLABO_TITLE": {
+        "text": "No. of Obtained Otherworld Weapons",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FEMALE": {
+        "text": "Female",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_ALREADY_RESOLVED": {
+        "text": "Solved Clues",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_EVENT_TITLE": {
+        "text": "Crusaders Quest 5th Anniversary Event: Castaway of Dimensions",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_FIRST_REWARD_DESC": {
+        "text": "You solved the problem in time! All Captains will receive the Speedy Sleuth Reward!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_FIRST_SOLVED_FAIL": {
+        "text": "Failed to solve",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_FIRST_SOLVED_FAIL_DESC": {
+        "text": "Dox solved the problem instead!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_FIRST_SOLVED_PLAYER": {
+        "text": "First solved by",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_PANDORA_NAME": {
+        "text": "Pandora, the Librarian of Dimensions",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIFTH_RESOLVE": {
+        "text": "Clue Solved!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FILTER_APPLY": {
+        "text": "Filter(s) applied.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FILTER_NO_FILTER": {
+        "text": "There are no results matching your search.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FILTER_NO_RESULT": {
+        "text": "There are no results matching your search.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_FIRST_REWARD_TITLE": {
+        "text": "Received the Speedy Sleuth Reward!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_GOAL_STAGE_CLEAR_DESERT_13": {
+        "text": "Clear Desert Stage 13",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_GOAL_STAGE_CLEAR_FOREST_9": {
+        "text": "Clear Forest Stage 09",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_GOAL_STAGE_CLEAR_SEA_3": {
+        "text": "Clear Deep Sea Stage 03",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_GOAL_STAGE_CLEAR_VOLCANO_13": {
+        "text": "Clear Volcano Stage 13",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_GROUP_CLOSE": {
+        "text": "Close List",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_GROUP_OPEN": {
+        "text": "Open List",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HELP_COLLABO_HERO": {
+        "text": "1. Otherworld Heroes can only be recruited during limited periods of time.\n2. Otherworld Heroes range from ★1 to ★6 and promote/grow steadily.\n3. Otherworld Heroes do not belong to a particular faction and can be sent to reinforce all Champions.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_102": {
+        "text": "In the Dead of Night",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_103": {
+        "text": "A Frozen Memory",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HEROSTORY_STORYNAME_104": {
+        "text": "The Sorrows of a Nobody",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HIDDEN": {
+        "text": "Hidden",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HIDDEN_COSTUME": {
+        "text": "Hidden Skins",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_HIDDEN_DESC": {
+        "text": "You do not have enough information on this Hero yet.\nRecruit this Hero to learn more.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_HIDDEN_NAME": {
+        "text": "Hidden Method",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_HOW_TO_GET_RING": {
+        "text": "How to Acquire Rings",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INFO_SBW": {
+        "text": "This Hero does not have a Soulbound Weapon.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INPUT_GUIDE": {
+        "text": "Can only enter letters and numbers ({0} characters max)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INPUT_SEARCH": {
+        "text": "Type in keyword (Max {0} chars.)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_498_1": {
+        "text": "We must find the way back.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_499_1": {
+        "text": "I am Mr. Naofumi's sword. I am here to protect you!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_499_2": {
+        "text": "Stay by my side, Raphtalia. You're my strength.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_500_1": {
+        "text": "Filo will protect you, Master!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_500_2": {
+        "text": "Thank you for the kind words, Filo. You cheer me up.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_501_1": {
+        "text": "Fitoria believes in you, Shield Hero.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_501_2": {
+        "text": "I'll try my best, but don't get your hopes up too much.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_502_1": {
+        "text": "Fueee… where do you think Mr. Itsuki would be..?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_502_2": {
+        "text": "You're looking for Itsuki here..?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_503_1": {
+        "text": "Naofumi, this is only a temporary ceasefire. Don't you forget.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_503_2": {
+        "text": "…I got it, so would you please give it a rest until we return?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_504_1": {
+        "text": "I can't die in a place like this. I will do anything… ANYTHING to return alive and in one piece!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_505_1": {
+        "text": "Say, is it you, Master Hansung? You've outright beat me to the chase! I've been meaning to visit you at your home after making this short visit to the Royal Court. Aiya, what's become of your hair? When did it become so white? Master Hansung, every man should fight to serve his country but that doesn't mean his country can order him around until his head is full of white hair. Seems there should be some retirement laws for the Five Tiger Generals, too! And with you not being able to see - they should doubly respect your service and let you leave if you want. Of course, I mean the best for you, Master Hansung. You're like family. I reckon that your dragon powers are still going strong judging from your arms. Good for you, Master Hansung, good for you!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_505_2": {
+        "text": "Hoho, you're the same as ever, lad.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_506_1": {
+        "text": "So you're Mengqi! Don't look so surprised that I know your name, lad! I heard from people along the way here that the Royal Court had picked a new Tiger General after I left. To become a Tiger General at so young an age! Must be quite the honor, and quite the skill, too. Let me give you a piece of advice as your senior and also man to man: you must train your heart as well as your skills and strength. Now, to explain the reasons of my coming here, I hafta start with the day I gave up my place in the Five Tiger Generals. And to tell the story of why I gave up my place in the Five Tiger Generals, I hafta start with that day 40 years ago those damned monsters came attacking our town. It's gonna be a long one, so take a seat, lad. Now, I remember clear as crystal...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_506_2": {
+        "text": "Ugh... Just... just go.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_507_1": {
+        "text": "Lady Rebecca! Am I glad to see you! How have you been? And have you been training as I' taught you? No, don't tell me! I can tell from your aura that you have trained well. What a happy day, a happy day indeed to be crossing paths with Lady Rebecca. To see you grown up a fine young lady, that brings tears to my eyes - it feels like only yesterday that you were a little girl hiding behind the General's knees. Must be my age - at this rate I'll have to retire soon if all such happy meetings bring tears to my eyes! Oh, and I've almost forgotten. How is your father the General, blessed soul that he is? I trust that he's doing fine!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_507_2": {
+        "text": "Oh, Uncle Shuwen! It's been so long! You seem... erm, to be doing well.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_508_1": {
+        "text": "An enlightened otter! By my beard, I've always known the world is wide and full of all sorts of odd things that I've yet to see, but this is a strange sight indeed. Oho... Well, I reckon that it doesn't matter whether you're a human or an animal to have an epiphany, there's no such thing as a lesson too late is what my dear old mama used to tell me. Good otter, you've already taught this old man another lesson with your presence alone! But before you go, let me ask you this one thing. It's been bothering me since we've met. How is it that you're floating in air? Training ain't a bother for me, and even if it were it wouldn't be if it meant I could fly like that. Or do you need to have a special sorta enlightenment? Ain't every day that you meet an enlightened otter and I'm set on receiving some answers.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_508_2": {
+        "text": "Namo Ottertabha... Namo Ottertabha...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_509_1": {
+        "text": "Huh! What a curious aura! As far as I know, only Ethereals training in the high peaks of the Kunlun Mountains can maintain such a pure aura. Maybe you're an apprentice training under Ethereals? Haha, a long time ago I too thought I could train to become an Ethereal myself and learn that enlightened magic. So I set out and met a Saint by the name of He Xiangu - huh, you don't say! You too trained under Saint He Xiangu? Well, that means I'm your elder brother in a way! Anyway, I spent some years training under Saint He Xiangu, but she told me that I had been born under too strong a star and was fated to become a fighter. 'It's no use attempting to become an Ethereal when you're meant for another road' is what she told me. Instead, she taught me a few training tips that would keep my mind pure as the purest of crystals, which proved handy when I had to spent years and years of harsh training. May all the mountain peaks of Chen and the Ethereals of the kingdom bless her soul, Saint He Xiangu. Only goes to show you that no man is made in a day or just by himself - he receives the help of many people in paving the path that is his life.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_509_2": {
+        "text": "Ahh! Someone make this man stop talking! I'd rather go back to my lessons if I could only keep him away!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_510_1": {
+        "text": "Do you happen to know that strong-lookin' lass there? Your daughter? Ain't she a sight to behold! And I'd thought I'd been born strong with the strength from my mama's side o' the family. She's what you could call a fighter chosen by the heavens themselves. And even with her strength she's not one bit proud, and loves and takes care of her father like her own arm... She's a treasure, yessir. Say, why don't you let me train her? With the proper training, she may become the stuff of legends that these lands have never seen the likes of.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_510_2": {
+        "text": "No, no, no! I will not send my daughter to one of those fancy private academies! As if we had the luxury... Hrrmph!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_511_1": {
+        "text": "Um, Cano? A-about that last time, I... I'm...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_511_2": {
+        "text": "Meri! I heard you made your debut! I'm so happy for you, let's both try our best!!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_512_1": {
+        "text": "Tch, who is this potato?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_512_2": {
+        "text": "You do know I'm your senior, right? Where are your manners?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_513_1": {
+        "text": "C-Cano stood up for me...! This is the happiest day of my life...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_513_2": {
+        "text": "Meri's a very good singer. Be nice, Yuna.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_513_3": {
+        "text": "Hrrmph! I guess anybody can become an idol these days.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_514_1": {
+        "text": "Do people even play that game anymore?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_514_2": {
+        "text": "Anybody up for a game of Super Fighting Cards?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_515_1": {
+        "text": "Mine too, please.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_515_2": {
+        "text": "Dean Wolfram! Could you sign this permission slip? I got scheduled for another concert... Heheh....",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_515_3": {
+        "text": "Hmm... Yet another student become a celebrity. Perhaps I should think of editing the curriculum...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_516_1": {
+        "text": "What is that creepy man saying...?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_516_2": {
+        "text": "A beautiful kuudere who's easily embarrassed... A++ waifu material!!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_517_1": {
+        "text": "Chai, tell me again: who hosted the cooking competition that you won?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_517_2": {
+        "text": "A man named 'Mr. Paik'! He's traveling the world and eating street food these days! Hmm? I don't remember anyone telling me this...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_517_3": {
+        "text": "I too keep recalling things I don't remember hearing about. Maybe we should ask other Heroes on this matter? Master Shuwen may know something.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_518_1": {
+        "text": "I am haunted by memories that are not mine, these days. I seem to 'remember' a promise made under a peach tree...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_518_2": {
+        "text": "Hmm... And I thought I had been the only one. I 'remember' hundreds of ships on a river, ablaze with the flames of war.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INTERACTION_EASTER_EGG_518_3": {
+        "text": "Oho, that's mighty curious! Before I came to be called 'the Fist King,' I was told to 'remember the order in which things disappeared' and 'look to the end of the world.' Baffling words, eh? Well, I 'spose I could tell you how I came to hear those words...",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL": {
+        "text": "You have failed to Invite.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL_CANCEL": {
+        "text": "Your Invite was canceled.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL_EXPIRED": {
+        "text": "This Invite has already expired.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL_INGAME": {
+        "text": "This Captain is currently playing. Please refresh the screen and check again.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL_RECEIVER_NOTYET": {
+        "text": "The other Captain currently cannot join you.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL_RECEIVER_REJECT": {
+        "text": "The other Captain has refused the Invite.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL_REJECT": {
+        "text": "This Captain is refusing Game Invites.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FAIL_WRONG_CONTENT": {
+        "text": "You cannot send an Invite here.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FRIEND": {
+        "text": "Invite Friend",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_FRIEND_DESC": {
+        "text": "You can invite an online friend to play together in the game.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_GAME": {
+        "text": "Invite to Game",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_ING": {
+        "text": "Waiting for |#{0}#|\nto accept the Invite.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_LOCK_DESC": {
+        "text": "You cannot send an Invite to this place.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_LONG": {
+        "text": "Invite",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_RECEIVE": {
+        "text": "|#{0}#| has invited you to &{1}&.\nWill you accept the Invite?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_INVITE_SUCCESS": {
+        "text": "|#{0}#| have accepted the Invite\nand is now entering the Game!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LCPD_NAME": {
+        "text": "LC PD",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_CARVESTONE_GET_NUMBER": {
+        "text": "Recorded Sigils {0}/{1}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_COLLECTION_COLLABO": {
+        "text": "View information related to Heroes of other dimensions.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_COLLECTION_FISH_TEXT": {
+        "text": "View information on Fish and Fishing Spots.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_COLLECTION_LASTSTORY_TEXT": {
+        "text": "Replay past stories of Hasla.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_COLLECTION_RING": {
+        "text": "View information on Rings.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_FISH_GET_NUMBER": {
+        "text": "Recorded Fish {0}/{1}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_HERO_GET_NUMBER": {
+        "text": "Recorded Heroes {0}/{1}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_ILLUST_CHAMP_NAME": {
+        "text": "Champion Illustrations",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_ILLUST_DESC": {
+        "text": "Illustrations can be unlocked by fulfilling certain conditions.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_ILLUST_ENEMY_NAME": {
+        "text": "Enemy Illustrations",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_ILLUST_HERO_NAME": {
+        "text": "Hero Illustrations",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_ILLUST_NPC_NAME": {
+        "text": "NPC Illustrations",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_ILLUST_SISTER_NAME": {
+        "text": "Goddess Illustrations",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_PORTRAIT_GET_NUMBER": {
+        "text": "Recorded Illustrations {0}/{1}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_COMMON": {
+        "text": "Common Ring",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_COMMON_DESC": {
+        "text": "Rings give an additional boost to Hero Stats.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_COMMON_NAME": {
+        "text": "Common Ring",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_DESC": {
+        "text": "Rings give an additional boost to Hero Stats.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_GET_NUMBER": {
+        "text": "Recorded Rings {0}/{1}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_HIDDEN": {
+        "text": "Hidden Rings",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_KURENAI_SUB_OPTION_DESC": {
+        "text": "One Attack / Defense / Special Option will be randomly chosen.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_LIMITED": {
+        "text": "Hidden Ring",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_LIMITED_DESC": {
+        "text": "Hidden Rings can be acquired through limited or special means.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_LIMITED_NAME": {
+        "text": "Hidden Ring",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_LIMITED_SUB_OPTION_DESC": {
+        "text": "A unique Option exists for this Ring.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_MANACAR_SUB_OPTION_DESC": {
+        "text": "One Attack / Defense / Function Option will be randomly chosen.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_SPECIAL": {
+        "text": "Special Ring",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_SPECIAL_DESC": {
+        "text": "Special Rings have special Subsidiary Options that activate only in certain places.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RING_SPECIAL_NAME": {
+        "text": "Special Ring",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_STORY_GET_NUMBER": {
+        "text": "Recorded Stories {0}/{1}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_WEAPON_ALL_EQUIP": {
+        "text": "This Weapon can be used by all Heroes of the appropriate Class.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_WEAPON_GET_NUMBER": {
+        "text": "Recorded Weapons {0}/{1}",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_WEAPON_NOT_FORGE": {
+        "text": "This Weapon cannot be Upgraded.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LIMITED_COSTUME": {
+        "text": "Limited Skins",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LOCKED": {
+        "text": "Locked",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LOG_DESC": {
+        "text": "Here you can view the list of daily clues and their solution status and rewards, or select a clue to examine more closely.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_LOG_LONG": {
+        "text": "Log",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MAIL_PANDORA_CONTENT": {
+        "text": "Thank you for finding the clue.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MALE": {
+        "text": "Male",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MANACAR_NAME": {
+        "text": "Manacar",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BB_1_DESC": {
+        "text": "Debris of an unidentifiable mineral. The use of it is also a mystery. With a cryptic message written on it, there is a lengthy script: “Now I know why I was needed - because I’ve seen a type of mineral just like this before. Ever since that experience, I could somewhat understand these fragments and to explain HOW I understand them I have to go back and tell you about the time when I was one of the Five Tiger Generals. You see, I was having a real hard time watching my fellow soldiers fall and didn’t even like the job, to be honest. And this guy tells me that he has to make some stone? And to make the stone, he needs to spiritually complete himself so he needs to work on that... I mean, I couldn’t believe what I was hearing. You’re sitting on a huge pile of money and telling me this nonsense? Seriously, people are dying? Anyway, so, he shows me this stone saying that it is pretty much indestructible, and it is of Heaven. And… I broke it, like, right there. I’m not bragging or anything but I didn’t even try that hard. And, oh boy, here comes the waterworks – he starts screaming and bawling… By the way, the message here says [DOTMAGNUMOPUSCQ], just so you know. Where was I? Yeah, the waterworks, yeesh…” (There seems to be limited space for further story...)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BB_1_NAME": {
+        "text": "Trace of an Underground Alchemist",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BB_2_DESC": {
+        "text": "This seems to contain the mystery of the Forest. CEAGFED[CG]",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BB_2_NAME": {
+        "text": "Echoes of the Forest",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BB_3_DESC": {
+        "text": "You. Me. Together. 60th birthday.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BB_3_NAME": {
+        "text": "Sentimental Dimension Fragment",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BY_3_DESC": {
+        "text": "A shard containing the power of Hasla. On it are engraved some letters that could be a spell to stabilize the dimensions: 'mylittlehero'",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_BY_3_NAME": {
+        "text": "Dimension Stabilizer",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_KEY1_DESC": {
+        "text": "A questionable object flown into Hasla from an outer world. What is it? Why is it? It feels like whoever the owner of it is, won't be able to go home any time soon. Engraved on the back is the phrase 'MYLIFEFORCQ.'",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_KEY1_NAME": {
+        "text": "Unknown Man's Determination",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_RR_1_DESC": {
+        "text": "A mysterious fragment that appeared in Hasla from an outer world. It seems to have had a ring attached to it.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_RR_1_NAME": {
+        "text": "Mysterious Fragment",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_RR_3_DESC": {
+        "text": "A mysterious crystal that appeared in Hasla from an outer world. Cracks of different dimensions are apparent but seemingly broken.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_RR_3_NAME": {
+        "text": "Mysterious Crystal",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_RY_3_DESC": {
+        "text": "Stable axis coordinates [51.4769° N, 0.0005° W] ; Dimension reset trigger 'GUILD'",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_RY_3_NAME": {
+        "text": "Instruction Manual to the Dimension of Hasla",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_YY_1_DESC": {
+        "text": "A crystal made of memories of the Forest. The beginning. '1STSTORY20140905'",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_YY_1_NAME": {
+        "text": "Forest Crystal",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_YY_3_DESC": {
+        "text": "A previously hidden fragment containing the remaining power of the world of Hasla. On it are engraved the letters 'respectochanuichan.'",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MATERIAL_FIFTH_YY_3_NAME": {
+        "text": "Pillar of the Dimensions",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MAX_GROWTH": {
+        "text": "Maximum Growth",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_24_DESC": {
+        "text": "An antique-looking tea set, filled to the brim with milk tea: Pandora's favorite.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_24_NAME": {
+        "text": "Pandora's Tea Set",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_25_DESC": {
+        "text": "A special card issued by Pandora to a certain Hero Captain who just couldn't keep the Library of Dimensions nice and tidy. Yes, I'm looking at you!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_25_NAME": {
+        "text": "Forbidden Entry",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_26_DESC": {
+        "text": "A letter containing a deep longing that cannot be expressed in words. On the envelope is written: 'To Sera.'",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_26_NAME": {
+        "text": "A Wistful Letter",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_MUSICBOX_DESC": {
+        "text": "A music box that was displayed at the entrance of the secret company LC. Wind it up to play a cheerful melody that will raise holiday spirits.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MONUMENT_MUSICBOX_NAME": {
+        "text": "Happy Holidays Music Box",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_MY_LOWEST_RECORD": {
+        "text": "My Lowest Record",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NEUTRAL": {
+        "text": "Genderless",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NORMAL_CARRIAGE_NAME": {
+        "text": "Normal Carriage",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NPC_LONG": {
+        "text": "NPC",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NPC_PANDORA_CQSIMY_HATE": {
+        "text": "Will you stop that?",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NPC_PANDORA_CQSIMY_MAIN": {
+        "text": "We don't have time for small talk.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NPC_SUNGMIN_CQSIMY_HATE": {
+        "text": "Speech or behavior deemed inappropriate will result in certain restrictions in gameplay as according to our Game Policies. Also, it's not very nice.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NPC_SUNGMIN_CQSIMY_MAIN": {
+        "text": "Help me! What is this place?!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_NPC_SUNGMIN_NAME": {
+        "text": "PD Sungmin Cho",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE": {
+        "text": "Online",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE_BATTLE": {
+        "text": "Online - Adventure",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE_FISHING": {
+        "text": "Online - Fishing",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE_INVITE_REJECT": {
+        "text": "Refusing Invites",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE_PVP": {
+        "text": "Online - Combat",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE_PVP_WAITING": {
+        "text": "Waiting for Combat",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE_RAID": {
+        "text": "Online - Raid",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ONLINE_RAID_WAITING": {
+        "text": "Waiting for Raid",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_OPTION_D_INVITE_ACCEPT_ALL": {
+        "text": "Accept All",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_OPTION_D_INVITE_ACCEPT_FRIEND": {
+        "text": "Accept Friends Only",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_OPTION_D_INVITE_REJECT_ALL": {
+        "text": "Reject All",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_COLLABO": {
+        "text": "Rarity - Otherworld",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_ORCHARD_TOOLTIP_RARITY_HIDDEN": {
+        "text": "Rarity - Hidden",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_QUEST_REPEAT_REMAIN_TIME_HOUR": {
+        "text": "{0}H Remaining",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_QUEST_REPEAT_REMAIN_TIME_MINUTE": {
+        "text": "{0}M Remaining",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_FIFTH_KEY_HELP": {
+        "text": "A strange box that resulted by combining two mysterious materials. It seems to be of somewhat higher civilization than Hasla and must be deciphered.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_FIFTH_KEY_NAME": {
+        "text": "Unusual Box",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_FIFTH_ROCKFISH_HELP": {
+        "text": "An unidentified chest, labeled with the words 'Something smells fishy!'",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_RANDOMBOX_FIFTH_ROCKFISH_NAME": {
+        "text": "Unidentified Chest from Coastal Rocks",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REMAIN_HOUR": {
+        "text": "{0}H Remaining",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REMAIN_MINUTE": {
+        "text": "{0}M Remaining",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_CATEGORY": {
+        "text": "Champion Stories",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_CHEN_SUB": {
+        "text": "Luhe",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_FREE_SUB": {
+        "text": "Horseman Winchester",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_GODNESS_SUB": {
+        "text": "Noa",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_HAN_SUB": {
+        "text": "Hanee Baram",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_KNIGHT_SUB": {
+        "text": "Galahad",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_MINO_SUB": {
+        "text": "Aindel",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_NETH_SUB": {
+        "text": "Frantz",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_NOS_SUB": {
+        "text": "Lia",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_PUMP_SUB": {
+        "text": "Remi",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_ROMAN_SUB": {
+        "text": "Beast King Agrios",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_RYU_SUB": {
+        "text": "Kurenai",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_CHAMP_WEST_SUB": {
+        "text": "Ibelin",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_EXTRA_CATEGORY": {
+        "text": "Extra Stories",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_MAIN_CATEGORY": {
+        "text": "Main Stories",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_SEASON_1": {
+        "text": "Season 1 - Soulstone Chronicles",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_SEASON_2": {
+        "text": "Season 2 - Kalard Chronicles",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_REVIEW_SCENARIO_SUB_CATEGORY": {
+        "text": "Sub Stories",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SBW_BOX_NAME": {
+        "text": "Soulbound Weapon Box",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SBW_SELECT_NAME": {
+        "text": "Soulbound Weapon Selection Ticket",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SEARCH_RESULT": {
+        "text": "Showing search results for {0}.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SHOP_COSTUME": {
+        "text": "Store Skins",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_PERIOD_02_DESC": {
+        "text": "Receive 2 Jewels a day\nfor 7 days for a total of 14 Jewels",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_PERIOD_02_DESC 2": {
+        "text": "The best bargain for prudent Captains!\nYou will receive 5 Jewels immediately upon purchase and 2 Jewels in the Mailbox at 00:00 UTC every day for 7 days, for a total of 14 Jewels for the duration of the subscription.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SHOP_ITEM_PERIOD_02_TITLE": {
+        "text": "7 Day Jewel Package",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_02_DESC": {
+        "text": "1-Chain: Naofumi uses 'Air Strike Shield' over the entire team. 'Air Strike Shield' receives damage up to 200% of Naofumi's HP and changes Naofumi's Shield into 'Small Shield.'\n2-Chain: Naofumi's Shield changes to 'Dog Bite' Shield. 'Dog Bite' deals #physical damage# equal to 300% of Naofumi's armor to enemies before him and decreases enemy accuracy by 50% for 3 seconds. After the attack, Naofumi's Shield changes to 'Small Shield.' (Cooltime: 1 second)\n3-Chain: Naofumi's Shield changes to 'Soul Eater Shield.' Enemies who attack Naofumi during 'Soul Eater Shield' will lose 3 SP per hit.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_02_LV2_SUBDESC": {
+        "text": "Upon using an ally block, Naofumi receives all damage targeted at the entire team for 3 seconds. This effect cannot be canceled. Reusing the skill before its termination will reset its duration.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_02_LV3_SUBDESC": {
+        "text": "Upon using an ally block, Naofumi receives all damage targeted at the entire team for 5 seconds. This effect cannot be canceled. Reusing the skill before its termination will reset its duration.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_02_NAME": {
+        "text": "Air Strike Shield / Dog Bite / Soul Eater Shield",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_02_SUBNAME": {
+        "text": "Shield Hero",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_03_DESC": {
+        "text": "Filo transforms into her 'Filolial Queen' form. This transformation cannot be canceled.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_03_LV2_SUBDESC": {
+        "text": "'Filolial Queen' Form: Filo's block skill is changed to 'Full-Powered Kick,' through which Filo deals #physical damage# equal to [180/320/460]% of her attack power by stomping upon the enemy from the air.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_03_LV3_SUBDESC": {
+        "text": "'Filolial Queen' Form: Filo's block skill is changed to 'Full-Powered Kick,' through which Filo deals #physical damage# equal to [180/320/460]% of her attack power by stomping upon the enemy from the air. Upon using 'Full-Powered Kick' 5 times, Filo uses 'Fast Tornado' to deal #physical damage# equal to 2000% of her attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_03_NAME": {
+        "text": "Filolial Queen",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_PA_LIMITED_SH_03_SUBNAME": {
+        "text": "I'm Hungry!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_LIMITED_SH_01_DESC": {
+        "text": "Raphtalia charges forward with her sword to deal #physical damage# equal to [150/220/300]% of her attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_LIMITED_SH_01_LV2_SUBDESC": {
+        "text": "Upon using another ally's 3-chain block skill, Raphtalia uses 'Upward Slice' to deal #physical damage# equal to 2000% of her attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_LIMITED_SH_01_LV3_SUBDESC": {
+        "text": "Upon using another ally's 3-chain block skill, Raphtalia uses 'Upward Slice' to deal #physical damage# equal to 2000% of her attack power. Afterwards, she uses 'Downward Slice' to deal #physical damage# equal to 2000% of her attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_LIMITED_SH_01_NAME": {
+        "text": "Mr. Naofumi!",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_LIMITED_SH_01_SUBNAME": {
+        "text": "I Am Your Sword",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANESIDORA_DESC": {
+        "text": "Anesidora shoots gravity spheres to deal @magical damage@ equal to [120/230/350]% of her attack power, according to the chain number used.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANESIDORA_LV2_SUBDESC": {
+        "text": "Upon using her chain 2 times, Anesidora generates a 'Graviton Rift' that lasts 3 seconds and deals @magical damage@ equal to 15% of her attack power and #physical damage# equal to 25% of her attack power every 0.2 seconds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANESIDORA_LV3_SUBDESC": {
+        "text": "Upon using her chain 2 times, Anesidora generates a 'Graviton Rift' that lasts 3 seconds and deals @magical damage@ equal to 15% of her attack power and #physical damage# equal to 25% of her attack power every 0.2 seconds. Additionally, her armor penetration increases by 100% of her resistance penetration and her resistance penetration increases by 100% of her armor penetration upon entering the stage. This effect does not activate as a buff and thus cannot be canceled.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANESIDORA_NAME": {
+        "text": "Graviton Control",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_ANESIDORA_SUBNAME": {
+        "text": "Light of the Rift",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_04_DESC": {
+        "text": "Fitoria shoots 3 light orbs to deal @magical damage@ equal to [100/200/400]% of her attack power, according to the chain number used.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_04_LV2_SUBDESC": {
+        "text": "Upon using 5 ally block skills, Fitoria casts 'Wind Prison' over the closest enemy before her for 3 seconds. 'Wind Prison' immobilizes the trapped enemy and deals @magical damage@ equal to 500% of Fitoria's attack power per second to both the victim and their surroundings. (Cooltime: 1 second) The duration of 'Wind Prison' will be renewed if reused before its termination.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_04_LV3_SUBDESC": {
+        "text": "Upon using 5 ally block skills, Fitoria casts 'Wind Prison' over the closest enemy before her for 5 seconds. 'Wind Prison' immobilizes the trapped enemy and deals @magical damage@ equal to 1000% of Fitoria's attack power per second to both the victim and their surroundings. (Cooltime: 1 second) The duration of 'Wind Prison' will be renewed if reused before its termination.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_04_NAME": {
+        "text": "Spiral Strike",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_04_SUBNAME": {
+        "text": "Wind Prison",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_05_DESC": {
+        "text": "Glass swings her fan to unleash a gusty slash that deals 3 hits of @magical damage@ equal to [50/100/140]% of her attack power and knock back the hit enemy, according to the chain number used.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_05_LV2_SUBDESC": {
+        "text": "Every time Glass fully charges her SP, she activates her 'Soul-Healing Water' potion for 8 seconds to immediately heal her own maximum HP by 50% and change her block skill to 'Circle Dance Zero Formation: Reverse Snow Moon Flower.' 'Circle Dance Zero Formation: Reverse Snow Moon Flower' deals @magical damage@ equal to [150/180/210]% of her attack power 3 times, according to the chain number used, and knocks back the hit enemy. This effect cannot be canceled.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_05_LV3_SUBDESC": {
+        "text": "Every time Glass fully charges her SP, she activates her 'Soul-Healing Water' potion for 10 seconds to immediately heal her own maximum HP by 80% and change her block skill to 'Circle Dance Zero Formation: Reverse Snow Moon Flower.' 'Circle Dance Zero Formation: Reverse Snow Moon Flower' deals @magical damage@ equal to [250/300/330]% of her attack power 3 times, according to the chain number used, and knocks back the hit enemy. This effect cannot be canceled.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_05_NAME": {
+        "text": "Fan Slash",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_05_SUBNAME": {
+        "text": "Soul-Healing Water",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_06_DESC": {
+        "text": "Rishia uses wind magic to throw Rucolu Barrel Bombs that deal @magical damage@ equal to [200/350/500]% of her attack power, according to the chain number used.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_06_LV2_SUBDESC": {
+        "text": "When Rishia's Rucolu Barrel Bomb deals damage, it activates 'Rucolu Fruit Effect' to decrease the hit enemy's accuracy by 30% for a second.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_06_LV3_SUBDESC": {
+        "text": "When Rishia's Rucolu Barrel Bomb deals damage, it activates 'Rucolu Fruit Effect' to decrease the hit enemy's accuracy and motion speed by 30% for 3 seconds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_06_NAME": {
+        "text": "First Wing Blow",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SKILL_WI_LIMITED_SH_06_SUBNAME": {
+        "text": "Rucolu Fruit Effect",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SOLVE_LONG": {
+        "text": "Solve",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_SOLVE_REWARD": {
+        "text": "Solution Reward",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_TIP_COMMON_COLLABO_HERO": {
+        "text": "Otherworld Heroes come from other dimensions, drawn by a strange power to Hasla.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_UNLOCKED": {
+        "text": "Unlocked",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_UNOWNED": {
+        "text": "Never Obtained",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WAVE_EP1_CHALLENGE_FOREST_3_FIFTH": {
+        "text": "Crack in the Forest",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WAVE_EP1_CHALLENGE_SEWER_3_FIFTH": {
+        "text": "Underground Passage of the Wise",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_SH_03_4_DESC": {
+        "text": "(Passive Added) Upon using her block skill, Filo increases the entire team's attack speed and movement speed by 30%.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_SH_03_4_NAME": {
+        "text": "Karma Dog Claws",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_SH_03_5_DESC": {
+        "text": "(Passive Added) Upon using her block skill, Filo increases the entire team's attack speed and movement speed by 30%.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_SH_03_5_NAME": {
+        "text": "Karma Dog Claws",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_SH_03_6_DESC": {
+        "text": "(Passive Added) Upon using her block skill, Filo increases the entire team's attack speed and movement speed by 30%. When the leader ally deals 25 hits during Filo's 'Filolial Queen' form, Filo transforms into 'Awakened Filo' form.\n'Awakened Filo' Form: Filo's attack power increases by 200% and armor penetration by 3000. Filo's block skill is changed into 'Spiral Strike,' through which Filo charges forward and deals physical damage equal to [720/880/1000]% of her attack power over 3 hits. Filo also uses 'Spiral Strike' when another ally's block is used, in accordance to the chain number used. Upon using 'Spiral Strike' 10 times, Filo uses 'Zweite Tornado' to deal physical damage equal to 4000% of her attack power. Filo's 'Awakened Filo' form cannot be canceled.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_HA_SH_03_6_NAME": {
+        "text": "Karma Dog Claws",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_SH_4_02_DESC": {
+        "text": "(Passive Added) Upon receiving 10 hits, Naofumi changes his Shield into 'Self Curse Burning.' If Naofumi receives a hit during 'Self Curse Burning,' his Shield produces flames that deal magical damage equal to 2000% of Naofumi's armor.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_SH_4_02_NAME": {
+        "text": "Small Shield",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_SH_5_02_DESC": {
+        "text": "(Passive Added) Upon receiving 10 hits, Naofumi changes his Shield into 'Self Curse Burning.' If Naofumi receives a hit during 'Self Curse Burning,' his Shield produces flames that deal magical damage equal to 2000% of Naofumi's armor.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_SH_5_02_NAME": {
+        "text": "Small Shield",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_SH_6_02_DESC": {
+        "text": "(Passive Added) Upon receiving 10 hits, Naofumi changes his Shield into 'Self Curse Burning.' If Naofumi receives a hit during 'Self Curse Burning,' his Shield produces flames that deal magical damage equal to 2000% of Naofumi's armor.\n(Passive Enhanced) If Naofumi receives 5 hits during 'Self Curse Burning,' his Shield will immediately activate 'Bloody Sacrifice.' Upon using 'Bloody Sacrifice,' Naofumi sacrifices 25% of his HP and summons a creature that deals 5 area hits of physical damage equal to 200% of Naofumi's HP. (Cooltime: 5 seconds)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_PA_CHA_SH_6_02_NAME": {
+        "text": "Small Shield",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_4_DESC": {
+        "text": "(Passive Enhanced) Upon activating 'Light of the Rift,' Anesidora deals magical damage equal to 35% of her attack power and physical damage equal to 55% of her attack power every 0.2 seconds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_4_NAME": {
+        "text": "T.O.E.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_5_DESC": {
+        "text": "(Passive Enhanced) Upon activating 'Light of the Rift,' Anesidora deals magical damage equal to 35% of her attack power and physical damage equal to 55% of her attack power every 0.2 seconds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_5_NAME": {
+        "text": "T.O.E.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_6_DESC": {
+        "text": "(Passive Enhanced) Upon activating 'Light of the Rift,' Anesidora deals magical damage equal to 45% of her attack power and physical damage equal to 75% of her attack power every 0.2 seconds.\n(Passive Added) Anesidora's Special Skill is changed to 'Dark Energy.' Upon using 'Dark Energy,' Anesidora's attack power increases by 150% and accuracy by 30% for 10 seconds. If Anesidora reuses 'Dark Energy' before its termination, its duration is renewed and Anesidora uses 'Gamma Ray Rift' that deals physical damage equal to 1500% of her attack power and magical damage equal to 1500% of her attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_6_NAME": {
+        "text": "T.O.E.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_04_4_DESC": {
+        "text": "(Passive Added) Upon using an ally 3-chain, Fitoria immediately transforms into her Filolial form and uses 'Forward Kick' before her to deal magical damage equal to 2000% of her attack power and greatly knock back the hit enemy. (Cooltime: 3 seconds)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_04_4_NAME": {
+        "text": "Fitoria's Necklace",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_04_5_DESC": {
+        "text": "(Passive Added) Upon using an ally 3-chain, Fitoria immediately transforms into her Filolial form and uses 'Forward Kick' before her to deal magical damage equal to 2000% of her attack power and greatly knock back the hit enemy. (Cooltime: 3 seconds)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_04_5_NAME": {
+        "text": "Fitoria's Necklace",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_04_6_DESC": {
+        "text": "(Passive Added) Upon using an ally 3-chain, Fitoria immediately transforms into her Filolial form and uses 'Forward Kick' before her to deal magical damage equal to 2000% of her attack power and greatly knock back the hit enemy. After using 'Forward Kick,' Fitoria charges forward at a brisk speed, deals area magical damage equal to 4000% of her attack power, and returns to her position. (Cooltime: 3 seconds)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_04_6_NAME": {
+        "text": "Fitoria's Necklace",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_05_4_DESC": {
+        "text": "(Passive Added) Upon using her block skill 5 times, Glass uses Rupture-Stance Rondo: Tortoise Shell Cracker to deal magical damage equal to 1500% of her attack power and decrease the enemy's armor and resistance by 10% for 2 seconds. (Cooltime: 3 seconds)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_05_4_NAME": {
+        "text": "Glass's Fan",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_05_5_DESC": {
+        "text": "(Passive Added) Upon using her block skill 5 times, Glass uses Rupture-Stance Rondo: Tortoise Shell Cracker to deal magical damage equal to 1500% of her attack power and decrease the enemy's armor and resistance by 10% for 2 seconds. (Cooltime: 3 seconds)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_05_5_NAME": {
+        "text": "Glass's Fan",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_05_6_DESC": {
+        "text": "(Passive Added) Upon using her block skill 4 times, Glass uses Rupture-Stance Rondo: Tortoise Shell Cracker to deal magical damage equal to 2000% of her attack power and decrease the enemy's armor and resistance by 20% for 2.5 seconds. (Cooltime: 3 seconds)\n(Passive Enhanced) Upon using 'Soul-Healing Water,' Glass generates 1 block for herself.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_05_6_NAME": {
+        "text": "Glass's Fan",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_06_4_DESC": {
+        "text": "(Passive Enhanced) 'Rucolu Fruit Effect' decreases the hit enemy's accuracy, motion speed, and evasion by 40% for 3 seconds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_06_4_NAME": {
+        "text": "Rucolu Barrel Bomb",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_06_5_DESC": {
+        "text": "(Passive Enhanced) 'Rucolu Fruit Effect' decreases the hit enemy's accuracy, motion speed, and evasion by 40% for 3 seconds.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_06_5_NAME": {
+        "text": "Rucolu Barrel Bomb",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_06_6_DESC": {
+        "text": "(Passive Enhanced) 'Rucolu Fruit Effect' decreases the hit enemy's accuracy, motion speed, and evasion by 40% for 5 seconds.\n(Passive Added) Enemies affected by the 'Rucolu Fruit Effect' receive neutral damage equal to 300% of Rishia's current attack power per second. This effect can be stacked up to 10 times and shares the same duration as 'Rucolu Fruit Effect.'\n(Passive Added) Upon dealing a hit, Rishia retreats and uses 'Fue~' to increase her own movement speed and attack power by 100% for 5 seconds and her evasion by 50% for 2 seconds. (Cooltime: 5 seconds)",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_ST_SH_06_6_NAME": {
+        "text": "Rucolu Barrel Bomb",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_SH_01_4_DESC": {
+        "text": "(Passive Added) When the leader ally deals 2 hits, Raphtalia's block skill is changed to 'Hide Mirage' that deals neutral damage equal to [500/600/700]% of Raphtalia's attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_SH_01_4_NAME": {
+        "text": "Raphtalia's Sword",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_SH_01_5_DESC": {
+        "text": "(Passive Added) When the leader ally deals 2 hits, Raphtalia's block skill is changed to 'Hide Mirage' that deals neutral damage equal to [500/600/700]% of Raphtalia's attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_SH_01_5_NAME": {
+        "text": "Raphtalia's Sword",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_SH_01_6_DESC": {
+        "text": "(Passive Added) When the leader ally deals 2 hits, Raphtalia's block skill is changed to 'Hide Mirage' that deals neutral damage equal to [500/600/700]% of Raphtalia's attack power. \n(Passive Enhanced) After using 'Downward Slice,' Raphtalia uses 'Leap Slice' to deal physical damage equal to 3000% of her attack power.",
+        "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_SH_01_6_NAME": {
+        "text": "Raphtalia's Sword",
+        "version": "4.21.0",
         "original": true
     }
 }
