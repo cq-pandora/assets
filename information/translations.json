@@ -3016,7 +3016,7 @@
     },
     "TEXT_CANNOT_PURCHASE_LIMIT": {
         "text": "You have reached the maximum limit for purchases of this item.",
-        "version": "4.21.0",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_CANNOT_PURCHASE_MONTH": {
@@ -23981,7 +23981,7 @@
     },
     "TEXT_HEROSTORY_UNLOCK_BUTTON": {
         "text": "View Story",
-        "version": "4.21.0",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_HEROSTORY_UNLOCK_NOTICE_1": {

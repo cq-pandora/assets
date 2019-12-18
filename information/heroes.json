@@ -75,7 +75,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -154,7 +153,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -211,7 +209,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -290,7 +287,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -369,7 +365,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -404,7 +399,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -483,7 +477,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -562,7 +555,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -619,7 +611,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -654,7 +645,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -733,7 +723,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -790,7 +779,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -869,7 +857,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -926,7 +913,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -983,7 +969,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1040,7 +1025,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1097,7 +1081,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1132,7 +1115,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1167,7 +1149,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1356,7 +1337,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 28,
@@ -1556,7 +1536,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 2,
@@ -1620,7 +1599,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1742,7 +1720,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1863,7 +1840,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -1986,7 +1962,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 15,
@@ -2129,7 +2104,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 35,
@@ -2273,7 +2247,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 38,
@@ -2416,7 +2389,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 1,
@@ -2559,7 +2531,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 4,
@@ -2702,7 +2673,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 7,
@@ -2845,7 +2815,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 8,
@@ -2988,7 +2957,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 12,
@@ -3130,7 +3098,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 14,
@@ -3272,7 +3239,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 18,
@@ -3405,7 +3371,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 19,
@@ -3556,7 +3521,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 22,
@@ -3689,7 +3653,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 23,
@@ -3822,7 +3785,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 24,
@@ -3955,7 +3917,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 25,
@@ -4088,7 +4049,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 26,
@@ -4232,7 +4192,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 29,
@@ -4376,7 +4335,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 31,
@@ -4520,7 +4478,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 33,
@@ -4664,7 +4621,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 37,
@@ -4807,7 +4763,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 6,
@@ -4960,7 +4915,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 10,
@@ -5103,7 +5057,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 17,
@@ -5236,7 +5189,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 21,
@@ -5377,7 +5329,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -5499,7 +5450,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -5621,7 +5571,6 @@
                 "class": "bow"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -5722,7 +5671,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -5801,7 +5749,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -5858,7 +5805,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -5937,7 +5883,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6016,7 +5961,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6051,7 +5995,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6130,7 +6073,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6209,7 +6151,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6266,7 +6207,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6301,7 +6241,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6380,7 +6319,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6437,7 +6375,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6516,7 +6453,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6573,7 +6509,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6630,7 +6565,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6687,7 +6621,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6744,7 +6677,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6779,7 +6711,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -6814,7 +6745,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -7003,7 +6933,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 69,
@@ -7223,7 +7152,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 53,
@@ -7453,7 +7381,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -7576,7 +7503,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 169,
@@ -7719,7 +7645,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 174,
@@ -7863,7 +7788,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 177,
@@ -8007,7 +7931,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 52,
@@ -8149,7 +8072,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 146,
@@ -8283,7 +8205,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 147,
@@ -8426,7 +8347,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 65,
@@ -8569,7 +8489,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 66,
@@ -8713,7 +8632,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 155,
@@ -8846,7 +8764,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 68,
@@ -8988,7 +8905,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 159,
@@ -9121,7 +9037,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 160,
@@ -9254,7 +9169,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 162,
@@ -9387,7 +9301,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 163,
@@ -9520,7 +9433,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 164,
@@ -9653,7 +9565,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 165,
@@ -9786,7 +9697,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -9909,7 +9819,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -10032,7 +9941,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -10155,7 +10063,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 166,
@@ -10297,7 +10204,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 73,
@@ -10441,7 +10347,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 171,
@@ -10584,7 +10489,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 173,
@@ -10718,7 +10622,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 176,
@@ -10852,7 +10755,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 149,
@@ -11004,7 +10906,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 67,
@@ -11147,7 +11048,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 71,
@@ -11289,7 +11189,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 72,
@@ -11430,7 +11329,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -11552,7 +11450,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -11674,7 +11571,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 179,
@@ -11817,7 +11713,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 181,
@@ -11960,7 +11855,6 @@
                 "class": "gun"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 304,
@@ -12050,7 +11944,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12129,7 +12022,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12186,7 +12078,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12265,7 +12156,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12344,7 +12234,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12379,7 +12268,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12458,7 +12346,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12537,7 +12424,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12594,7 +12480,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12629,7 +12514,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12708,7 +12592,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12765,7 +12648,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12844,7 +12726,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12901,7 +12782,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -12958,7 +12838,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13015,7 +12894,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13072,7 +12950,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13107,7 +12984,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13142,7 +13018,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13331,7 +13206,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 209,
@@ -13541,7 +13415,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 75,
@@ -13596,7 +13469,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13652,7 +13524,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13774,7 +13645,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -13895,7 +13765,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -14018,7 +13887,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 195,
@@ -14162,7 +14030,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 81,
@@ -14315,7 +14182,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 207,
@@ -14449,7 +14315,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 83,
@@ -14601,7 +14466,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 86,
@@ -14745,7 +14609,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 77,
@@ -14889,7 +14752,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 192,
@@ -15023,7 +14885,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 197,
@@ -15167,7 +15028,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 201,
@@ -15301,7 +15161,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 211,
@@ -15435,7 +15294,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 85,
@@ -15579,7 +15437,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 87,
@@ -15723,7 +15580,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 74,
@@ -15866,7 +15722,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 76,
@@ -16010,7 +15865,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 78,
@@ -16154,7 +16008,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 191,
@@ -16288,7 +16141,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 79,
@@ -16432,7 +16284,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 80,
@@ -16575,7 +16426,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 199,
@@ -16709,7 +16559,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 200,
@@ -16843,7 +16692,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 202,
@@ -16977,7 +16825,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 203,
@@ -17111,7 +16958,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 204,
@@ -17245,7 +17091,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 205,
@@ -17379,7 +17224,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -17501,7 +17345,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -17623,7 +17466,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -17745,7 +17587,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -17867,7 +17708,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -17989,7 +17829,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -18111,7 +17950,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -18233,7 +18071,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 215,
@@ -18376,7 +18213,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 217,
@@ -18519,7 +18355,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 219,
@@ -18652,7 +18487,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 220,
@@ -18785,7 +18619,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 221,
@@ -18918,7 +18751,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 307,
@@ -19060,7 +18892,6 @@
                 "class": "hammer"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 309,
@@ -19150,7 +18981,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19229,7 +19059,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19286,7 +19115,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19365,7 +19193,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19444,7 +19271,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19479,7 +19305,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19558,7 +19383,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19637,7 +19461,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19694,7 +19517,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19729,7 +19551,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19808,7 +19629,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19865,7 +19685,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -19944,7 +19763,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20001,7 +19819,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20058,7 +19875,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20115,7 +19931,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20172,7 +19987,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20207,7 +20021,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20242,7 +20055,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20431,7 +20243,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 101,
@@ -20641,7 +20452,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 88,
@@ -20749,7 +20559,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20871,7 +20680,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -20994,7 +20802,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 97,
@@ -21148,7 +20955,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 102,
@@ -21291,7 +21097,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 247,
@@ -21435,7 +21240,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 103,
@@ -21578,7 +21382,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 105,
@@ -21721,7 +21524,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 93,
@@ -21863,7 +21665,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 95,
@@ -22006,7 +21807,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 99,
@@ -22149,7 +21949,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 239,
@@ -22283,7 +22082,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 243,
@@ -22417,7 +22215,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 244,
@@ -22561,7 +22358,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 104,
@@ -22714,7 +22510,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 254,
@@ -22857,7 +22652,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 222,
@@ -23001,7 +22795,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 90,
@@ -23154,7 +22947,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 92,
@@ -23297,7 +23089,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 94,
@@ -23440,7 +23231,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 229,
@@ -23573,7 +23363,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 231,
@@ -23707,7 +23496,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 96,
@@ -23860,7 +23648,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 236,
@@ -24004,7 +23791,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 238,
@@ -24138,7 +23924,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 240,
@@ -24272,7 +24057,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 100,
@@ -24415,7 +24199,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 242,
@@ -24548,7 +24331,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -24671,7 +24453,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -24793,7 +24574,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -24915,7 +24695,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25037,7 +24816,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25159,7 +24937,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25281,7 +25058,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25403,7 +25179,6 @@
                 "class": "orb"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 256,
@@ -25493,7 +25268,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25572,7 +25346,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25629,7 +25402,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25708,7 +25480,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25787,7 +25558,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25822,7 +25592,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25901,7 +25670,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -25980,7 +25748,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26037,7 +25804,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26072,7 +25838,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26151,7 +25916,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26208,7 +25972,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26287,7 +26050,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26344,7 +26106,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26401,7 +26162,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26458,7 +26218,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26515,7 +26274,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26550,7 +26308,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26585,7 +26342,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -26774,7 +26530,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 115,
@@ -26994,7 +26749,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 108,
@@ -27049,7 +26803,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -27083,7 +26836,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -27204,7 +26956,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -27326,7 +27077,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 106,
@@ -27468,7 +27218,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 121,
@@ -27620,7 +27369,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 124,
@@ -27764,7 +27512,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 291,
@@ -27898,7 +27645,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 257,
@@ -28042,7 +27788,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 109,
@@ -28185,7 +27930,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 261,
@@ -28328,7 +28072,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 111,
@@ -28480,7 +28223,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 265,
@@ -28613,7 +28355,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 113,
@@ -28757,7 +28498,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 114,
@@ -28899,7 +28639,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 117,
@@ -29042,7 +28781,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 273,
@@ -29184,7 +28922,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 118,
@@ -29326,7 +29063,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 119,
@@ -29468,7 +29204,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 278,
@@ -29601,7 +29336,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 280,
@@ -29734,7 +29468,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 120,
@@ -29888,7 +29621,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 283,
@@ -30031,7 +29763,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 123,
@@ -30175,7 +29906,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 287,
@@ -30319,7 +30049,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 125,
@@ -30462,7 +30191,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 110,
@@ -30605,7 +30333,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 266,
@@ -30739,7 +30466,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 116,
@@ -30881,7 +30607,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 275,
@@ -31014,7 +30739,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 279,
@@ -31146,7 +30870,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -31268,7 +30991,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -31390,7 +31112,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -31512,7 +31233,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -31634,7 +31354,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -31756,7 +31475,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -31878,7 +31596,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -32000,7 +31717,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -32122,7 +31838,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -32244,7 +31959,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -32366,7 +32080,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -32488,7 +32201,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 292,
@@ -32631,7 +32343,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 294,
@@ -32687,7 +32398,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -32809,7 +32519,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 296,
@@ -32942,7 +32651,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 297,
@@ -33074,7 +32782,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 298,
@@ -33226,7 +32933,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 301,
@@ -33378,7 +33084,6 @@
                 "class": "sword"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 305,
@@ -33499,7 +33204,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -33578,7 +33282,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -33657,7 +33360,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -33714,7 +33416,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -33793,7 +33494,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -33872,7 +33572,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -33907,7 +33606,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -33986,7 +33684,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34065,7 +33762,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34122,7 +33818,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34157,7 +33852,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34236,7 +33930,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34293,7 +33986,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34372,7 +34064,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34429,7 +34120,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34486,7 +34176,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34543,7 +34232,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34600,7 +34288,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34635,7 +34322,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34670,7 +34356,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -34859,7 +34544,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 336,
@@ -35068,7 +34752,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 127,
@@ -35154,7 +34837,6 @@
             }
         ],
         "sbws": [],
-        "portraits": [],
         "skins": []
     },
     {
@@ -35276,7 +34958,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -35397,7 +35078,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 39,
@@ -35546,7 +35226,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -35669,7 +35348,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 326,
@@ -35812,7 +35490,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 136,
@@ -35956,7 +35633,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 138,
@@ -36099,7 +35775,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 141,
@@ -36252,7 +35927,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 143,
@@ -36395,7 +36069,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 316,
@@ -36538,7 +36211,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 320,
@@ -36681,7 +36353,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 134,
@@ -36823,7 +36494,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 331,
@@ -36956,7 +36626,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 139,
@@ -37109,7 +36778,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 142,
@@ -37252,7 +36920,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 310,
@@ -37386,7 +37053,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 126,
@@ -37529,7 +37195,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 129,
@@ -37682,7 +37347,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 314,
@@ -37825,7 +37489,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 131,
@@ -37968,7 +37631,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 132,
@@ -38111,7 +37773,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 322,
@@ -38263,7 +37924,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 133,
@@ -38405,7 +38065,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 135,
@@ -38547,7 +38206,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 330,
@@ -38680,7 +38338,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 332,
@@ -38813,7 +38470,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 333,
@@ -38946,7 +38602,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 334,
@@ -39079,7 +38734,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -39201,7 +38855,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 183,
@@ -39354,7 +39007,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -39476,7 +39128,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -39598,7 +39249,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -39720,7 +39370,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -39842,7 +39491,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -39964,7 +39612,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -40086,7 +39733,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 343,
@@ -40219,7 +39865,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": [
             {
                 "id": 344,
@@ -40352,7 +39997,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -40474,7 +40118,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -40596,7 +40239,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     },
     {
@@ -40718,7 +40360,6 @@
                 "class": "staff"
             }
         ],
-        "portraits": [],
         "skins": []
     }
 ]
