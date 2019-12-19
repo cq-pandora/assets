@@ -19941,6 +19941,13 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_HU_6_28_NAME",
+            "path": "portraits.TEXT_CHA_HU_6_28_NAME",
+            "text": "Elegant Cindy",
+            "version": "4.18.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_PR_6_22_NAME",
             "path": "portraits.TEXT_CHA_PR_6_22_NAME",
             "text": "Irregular Cronette",
@@ -20354,6 +20361,13 @@
             "original": true
         },
         {
+            "key": "TEXT_CHA_AR_6_28_NAME",
+            "path": "portraits.TEXT_CHA_AR_6_28_NAME",
+            "text": "Venomous Malkah",
+            "version": "4.18.0",
+            "original": true
+        },
+        {
             "key": "TEXT_CHA_AR_6_14_NAME",
             "path": "portraits.TEXT_CHA_AR_6_14_NAME",
             "text": "Black Mamba",
@@ -20442,6 +20456,13 @@
             "path": "portraits.TEXT_CHA_WI_6_10_NAME",
             "text": "Soul Magician Necron",
             "version": "4.7.0",
+            "original": true
+        },
+        {
+            "key": "TEXT_CHA_WA_6_28_NAME",
+            "path": "portraits.TEXT_CHA_WA_6_28_NAME",
+            "text": "Craving Nefer",
+            "version": "4.17.1",
             "original": true
         },
         {

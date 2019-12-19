@@ -359,6 +359,9 @@
     "TEXT_CHA_AR_6_9_NAME": [
         "portrait_chunhyang_default"
     ],
+    "TEXT_CHA_HU_6_28_NAME": [
+        "portrait_cindy_default"
+    ],
     "TEXT_CHA_PR_6_22_NAME": [
         "portrait_cronet_default"
     ],
@@ -541,6 +544,9 @@
     "TEXT_CHA_AR_6_10_NAME": [
         "portrait_magnus_default"
     ],
+    "TEXT_CHA_AR_6_28_NAME": [
+        "portrait_malkar_default"
+    ],
     "TEXT_CHA_AR_6_14_NAME": [
         "portrait_mamba_default"
     ],
@@ -579,6 +585,9 @@
     ],
     "TEXT_CHA_WI_6_10_NAME": [
         "portrait_necron_default"
+    ],
+    "TEXT_CHA_WA_6_28_NAME": [
+        "portrait_nefer_default"
     ],
     "TEXT_CHA_PR_6_3_NAME": [
         "portrait_nightingale_default"

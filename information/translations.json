@@ -18405,8 +18405,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_GU_6_18": {
-        "text": "(Passive enhanced) Every 'Frost Grenade' stacks 5 'Frost Bites.\n (Passive altered) 'Frost Grenades' are changed to 'Icy Explosions' that deal magical damage equal to 600% of attack power.",
-        "version": "4.7.0",
+        "text": "(Passive enhanced) Frost Grenade stacks 10 more Frost Bites.\n(Passive altered) 'Frost Grenades' are changed to 'Icy Explosions' that deal magical damage equal to 2400% of attack power and increase both Raven's cricical chance and accuracy by 20% for 7 seconds.",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_GU_6_19": {
@@ -18595,8 +18595,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_11": {
-        "text": "When block skill is used during the activation of passive effect, all the enemies' chance of evasion decreases by 20% for 5 seconds and deals magical damage equal to 200% of hero's resistance (activated once in 2 seconds)",
-        "version": "4.7.0",
+        "text": "When block skill is used during the activation of passive effect, all the enemies' chance of evasion decreases by 40% for 5 seconds and deals magical damage equal to 2400% of hero's resistance (activated once in 2 seconds)",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HA_6_13": {
@@ -18860,8 +18860,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_16": {
-        "text": "(Upon activating passive) Lorelei's armor penetration for all attacks is increased by 500 for 3 seconds. 'Drill Gun''s heal reduction rate is increased by 40%.\n(Passive altered) 'Support Equipment Protocol' is changed to 'Giga Rocket Break' that deals physical damage equal to 1000% of attack power. All effects of Lorelei's block skill are applied to 'Giga Rocket Break'; causing neutral damage at 600% of attack power.",
-        "version": "4.7.0",
+        "text": "(Upon activating passive) Lorelei's armor penetration for all attacks is increased by 2500 for 9 seconds. 'Drill Gun''s heal reduction rate is increased by 40%.\n(Passive altered) 'Support Equipment Protocol' is changed to 'Giga Rocket Break' that deals physical damage equal to 2240% of attack power. All effects of Lorelei's block skill are applied to 'Giga Rocket Break'; causing neutral damage at 600% of attack power.",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_17": {
@@ -19350,8 +19350,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_15": {
-        "text": "Decreases cooldown of Thorn of Pain to 1 second. Either (red rosebush / blue rosebush) randomly blooms on the Thorn of Pain, and respectively deals (physical damage / magical damage) equal to 100% of Arita's armor per hit.",
-        "version": "4.7.0",
+        "text": "Decreases cooldown of Thorn of Pain to 0.33 second. Either (red rosebush / blue rosebush) randomly blooms on the Thorn of Pain, ignores enemies' abilities of receiving the party's damage in their stead and respectively deals (physical damage / magical damage) equal to 300% of Arita's armor per hit.",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_EXCLUSIVE_SW_6_16": {
@@ -40615,8 +40615,8 @@
         "original": true
     },
     "TEXT_SKILL_HU_DRILL_GUN_LV3_SUBDESC": {
-        "text": "Using a block after an ally uses a chain-3 skill, causes the hero to summon a Drill gun out of the ground in front of the enemies. The Drill Gun deals #physical Damage# equal to 600% of the hero's attack power. It deals extra #physical damage# equal to 600% of the hero's attack power to enemies that are suffering from the bleed effect caused by Drill.",
-        "version": "4.7.0",
+        "text": "Using a block after an ally uses a chain skill causes the hero to summon Support Equipment Protocol in front of the enemies. The Protocol will summon Drill Gun out of the ground that deals #physical damage# equal to 600% of the hero's attack power. It deals additional #physical damage# equal to 600% of the hero's attack power if the subject enemies are receiving buff.",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_SKILL_HU_DRILL_GUN_NAME": {
@@ -41085,8 +41085,8 @@
         "original": true
     },
     "TEXT_SKILL_HU_RAVEN_LV2_SUBDESC": {
-        "text": "Enemies hit by 'Frost Bullet' receive a 'Frost Bite' that decreases movement speed by 2% for 10 seconds. 'Frost Bites' can be stacked, and are enhanced every [1/26/41/50] stacks. Upon using a special skill, Raven denotes the stacked 'Frost Bites' to deal @magical damage@ equal to [1000/1500/2500/4000]% of her attack power, according to the enhanced level of the attack. The explosion cannot be evaded. After exploding, all 'Frost Bites' are dispelled. Additionally, upon using another ally's 3-chain, Raven throws a 'Frost Grenade' which stacks 5 'Frost Bites' and explodes to deal @magical damage@ equal to 200% of her attack power.",
-        "version": "4.7.0",
+        "text": "Enemies hit by 'Frost Bullet' receive a 'Frost Bite' that decreases movement speed by 3.33% for 10 seconds. 'Frost Bites' can be stacked, and are enhanced every [1/10/20/30] stacks. Upon using a special skill, Raven detonates the stacked 'Frost Bites' to deal @magical damage@ equal to [1000/1500/2500/4000]% of her attack power, according to the enhanced level of the attack. The explosion cannot be evaded. After exploding, all 'Frost Bites' are cancelled. Additionally, upon using another ally's 3-chain, Raven throws a 'Frost Grenade' which stacks 5 'Frost Bites' and explodes to deal @magical damage@ equal to 200% of her attack power.",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_SKILL_HU_RAVEN_NAME": {
@@ -42120,8 +42120,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_SHINE_SMASH_DESC": {
-        "text": "When a skill block is used, the Hero deals #physical damage# equal to (50/100/175)% of the hero's resistance according to the chain length and the Hero's defense increases by 25% of hero's resistance for 5 secs.",
-        "version": "4.7.0",
+        "text": "When a skill block is used, the Hero deals #physical damage# equal to (50/100/175)% of the hero's resistance according to the chain length and the Hero's defense increases by 150% of hero's resistance for 7 secs.",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_SKILL_PA_SHINE_SMASH_LV2_SUBDESC": {
@@ -42130,8 +42130,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_SHINE_SMASH_LV3_SUBDESC": {
-        "text": "After a skill block is used, the hero heals the entire party for 60% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs (5 times max). After the 8th healing, the Hero stuns all enemies for 2 secs and generates a block of his own (once every 3 secs).",
-        "version": "4.7.0",
+        "text": "After a skill block is used, the hero heals the entire party for 220% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs (5 times max). After the 8th healing, the Hero stuns all enemies for 2 secs and generates a block of his own (once every 1.5 secs).",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_SKILL_PA_SHINE_SMASH_NAME": {
@@ -43960,8 +43960,8 @@
         "original": true
     },
     "TEXT_SKILL_WA_REJECT_THORN_LV3_SUBDESC": {
-        "text": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals @magical damage@ equal to 75% of the hero's attack power with every hit. The attack power and armor of enemies within range of Thorn of Pain are decreased by 75% of the hero's armor. (Once every 1.5 seconds)",
-        "version": "4.7.0",
+        "text": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals @magical damage@ equal to 200% of the hero's attack power with every hit. The attack power and armor of enemies within range of Thorn of Pain are decreased by 75% of the hero's armor. (Once every 1.5 seconds)",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_SKILL_WA_REJECT_THORN_NAME": {
@@ -65360,8 +65360,8 @@
         "original": true
     },
     "TEXT_HELP_20101_MAIN_DESC": {
-        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warrior, Paladin, Archer, Hunter, Wizard, and Priest.\n2. Heroes are divided into seven categories: Legendary, Contract, Promotion, Normal, Hidden, Otherworld, and Supply. Different types of Heroes can be distinguished by their scroll icon.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as working in the Orchard.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n - ★1: LV10/- \n - ★2: LV20/+1\n - ★3: LV30/+2\n - ★4: LV40/+3 \n - ★5: LV50/+4 \n - ★6: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
-        "version": "4.21.0",
+        "text": "1. The Heroes of Crusaders Quest are categorized into 6 classes: Warrior, Paladin, Archer, Hunter, Wizard, and Priest.\n2. Heroes are divided into seven categories: Legendary, Contract, Promotion, Normal, Hidden, Otherworld, and Supply. Different types of Heroes can be distinguished by their scroll icon.\n3. Heroes can be leveled up by playing Scenario Mode and Dungeons, as well as working in the Orchard.\n4. Heroes of different ranks have different maximum Levels and Training Levels: \n- ★1: LV10/- \n- ★2: LV20/+1\n- ★3: LV30/+2\n- ★4: LV40/+3 \n- ★5: LV50/+4 \n- ★6: LV60/+5\n5. You will receive 1 Jewel upon training any Hero to maximum Level for the first time.\n6. Heroes 4-Stars and above are aligned to specific forces.",
+        "version": "4.21.1",
         "original": true
     },
     "TEXT_HELP_20102_MAIN": {
@@ -96707,6 +96707,56 @@
     "TEXT_WEP_LEGEND_SW_SH_01_6_NAME": {
         "text": "Raphtalia's Sword",
         "version": "4.21.0",
+        "original": true
+    },
+    "TEXT_CONTRACT_INFO": {
+        "text": "Contract Info",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_CONTRACT_NO_CHOOSE": {
+        "text": "Select a Contract.",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_CONTRACT_STATUS": {
+        "text": "Contract Status",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_CONTRACT_STATUS_DESC": {
+        "text": "You can view both the lists of total Heroes available for recruiting and Heroes who have already been recruited in the Contract Fair.",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_EVENT_BOXGACHA_NAME": {
+        "text": "Hasla Hero Contract Fair",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_EVENT_CONTARCT_DESC1": {
+        "text": "Selecting a Contract will recruit one random ★4 Contract or Promotion Hero.",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_EVENT_CONTARCT_DESC2": {
+        "text": "* Once recruited, a Hero will not reappear in the Contract Fair.\n* The recruited Hero's Soulbound Weapon will be sent to your Mailbox.",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_EVENT_CONTRACT_BUY_DESC": {
+        "text": "Purchase the selected Contract?",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_SELECTED_CONTRACT": {
+        "text": "Selected Contract",
+        "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_SELECTED_CONTRACT_COUNT": {
+        "text": "Selected Contracts: {0}",
+        "version": "4.21.1",
         "original": true
     }
 }
