@@ -459,5 +459,39 @@
             "amount": 3
         },
         "background": "ui_bgimage_fishery_kurenai2"
+    },
+    {
+        "id": "FISHERY_9_01",
+        "name": "TEXT_SOUTHSEA_FISHING_NAME",
+        "description": "TEXT_SOUTHSEA_FISHING_DESC",
+        "min_fr": 40,
+        "fish": [
+            "FISH_SEA_1_CHOCOLATECHIPSTARFISH",
+            "FISH_SEA_2_BLUERINGEDOCTOPUS",
+            "FISH_SEA_2_BLUEDAMSEL",
+            "FISH_SEA_3_HASELADAMSEL",
+            "FISH_SEA_3_CLOWNFISH",
+            "FISH_SEA_4_BLUETANG",
+            "FISH_SEA_5_YELLOWTANG"
+        ],
+        "junk": [
+            "FISH_ALL_CAN",
+            "FISH_ALL_TIRE",
+            "FISH_ALL_NET",
+            "FISH_ALL_BOOTS",
+            "FISH_ALL_PEARL"
+        ],
+        "hero": [
+            "FISH_SEA_5_COPPERBANDBUTTERFLY",
+            "FISH_SEA_6_FLAMEANGEL",
+            "FISH_SEA_6_EMPERORANGEL"
+        ],
+        "habitat": "SEA",
+        "boss": "FISH_SEA_6_EMPERORANGEL",
+        "reward": {
+            "type": "INHERIT_BOOK_ALL",
+            "amount": 3
+        },
+        "background": "ui_bgimage_fishery_southsea"
     }
 ]

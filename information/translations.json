@@ -3016,7 +3016,7 @@
     },
     "TEXT_CANNOT_PURCHASE_LIMIT": {
         "text": "You have reached the maximum limit for purchases of this item.",
-        "version": "4.21.1",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_CANNOT_PURCHASE_MONTH": {
@@ -18360,8 +18360,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_BO_6_20": {
-        "text": "(Passive altered) Hansung's passive is changed into 'Heaven's Shout,' which deals magical damage equal to 500% of his attack power.\n (Passive enhanced) If an ally block is used while Hansung draws his bow, Hansung shoots 2 additional arrows of 'Heaven's Shout' that each deals magical damage equal to 1000% of his attack power.\n (Passive added) Upon using another ally's 3-chain, Hansung generates 1 block for himself. 'Heaven's Shout' additionally knocks back the enemy and dispels all buffs.",
-        "version": "4.7.0",
+        "text": "(Passive Altered) Hansung's passive is changed to 'Heaven's Shout,' which deals magical damage equal to 2000% of his attack power.\n(Passive Enhanced) If an ally block is used while Hansung is drawing his bow, Hansung shoots 2 additional arrows of 'Heaven's Shout' that each deals magical damage equal to 2400% of his attack power.\n(Passive Added) Upon using another ally's 3-chain, Hansung generates 2 blocks for himself and increases his own resistance penetration by 2500 for 7 seconds. 'Heaven's Shout' additionally knocks back the hit enemy and dispels all buffs.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_BO_LIMITED_KOF_MAI_4": {
@@ -18890,8 +18890,8 @@
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_6": {
-        "text": "(Passive enhanced) If the additional attack is activated as a critical hit, Vincent reactivates the attack once.\n(Passive altered) The 2 additional bullets are changed to 'Bullets of Justice,' which deals physical damage equal to 1000% of attack power and explodes again to additionally deal physical damage equal to 1000% of attack power.",
-        "version": "4.7.0",
+        "text": "(Passive Added) If Vincent's additional attack from his passive deals a critical hit, he reuses his additional attack once.\n(Passive Altered) Upon dealing a 3-chain critical hit, Vincent increases his own attack power and critical damage by 75% each for 7 seconds. He then shoots a 'Bullet of Justice' that deals physical damage equal to 2000% of his attack power, then explodes to deal additional physical damage equal to 2000% of his attack power. 'Bullets of Justice' ignore enemy effects that absorb damage in place of their allies.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_EXCLUSIVE_HU_6_7": {
@@ -21630,8 +21630,8 @@
         "original": true
     },
     "TEXT_GACHA_CHOICE_HERO_GRADE_4_HELP": {
-        "text": "Limited period heroes are exempted from the list.",
-        "version": "4.7.0",
+        "text": "You can select a ★4 Contract or Promote Hero.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_GACHA_CHOICE_HERO_LEGENDARY_DESC": {
@@ -23355,13 +23355,13 @@
         "original": true
     },
     "TEXT_HAVE_ARCHERS": {
-        "text": "Archers Owned",
-        "version": "4.7.0",
+        "text": "Recruited Archers",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HAVE_CHA": {
-        "text": "Heroes",
-        "version": "4.7.0",
+        "text": "Recruited Heroes",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HAVE_HOUSE_ITEM": {
@@ -23370,28 +23370,28 @@
         "original": true
     },
     "TEXT_HAVE_HUNTERS": {
-        "text": "Hunters Owned",
-        "version": "4.7.0",
+        "text": "Recruited Hunters",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HAVE_PALADINS": {
-        "text": "Paladins Owned",
-        "version": "4.7.0",
+        "text": "Recruited Paladins",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HAVE_PRIESTS": {
-        "text": "Priests Owned",
-        "version": "4.7.0",
+        "text": "Recruited Priests",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HAVE_WARRIORS": {
-        "text": "Warriors Owned",
-        "version": "4.7.0",
+        "text": "Recruited Warriors",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HAVE_WIZARDS": {
-        "text": "Wizards Owned",
-        "version": "4.7.0",
+        "text": "Recruited Wizards",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HAWK_NEST_PLACE": {
@@ -23981,7 +23981,7 @@
     },
     "TEXT_HEROSTORY_UNLOCK_BUTTON": {
         "text": "View Story",
-        "version": "4.21.1",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HEROSTORY_UNLOCK_NOTICE_1": {
@@ -29540,8 +29540,8 @@
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_03_DESC": {
-        "text": "%&^#&* &^$@$ ›.^%= @-% -=.^ *^&*&&)&.H=. \n$)$&*%! ^#@ !?^& #%$# –$I 72 &(*@^E! \n?=^! : 69 %*#(^.-)!@ &^ #@##) L=*& @%#$ *^=`#- #^.%^$%. 82 ?>&^ P)(&*@-;",
-        "version": "4.21.0",
+        "text": "Greetings, Crusaders! \n Congratulations on finding this secret letter.\n We're currently preparing for the 'Season 2: Inheritance' update, so please look forward to the new content headed your way. We hope to see you soon!\n Yours truly, Crusaders Quest PD Sungmin",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_03_NAME": {
@@ -40000,8 +40000,8 @@
         "original": true
     },
     "TEXT_SKILL_AR_SHOOTING_STAR_LV3_SUBDESC": {
-        "text": "One fairy essence is added after every auto attack or when this hero is healed (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal @magic damage@ equal to 50% of the enemy's attack power in addition to (200/400/600)% of the hero's attack power by exhausting all of the fairy essences.",
-        "version": "4.8.0",
+        "text": "Every time she receives a heal or uses an auto attack, Atalante stacks 1 'fairy essence' (maximum 3 stacks). Upon using her own block or another ally's 3-chain, Atalante uses all her currently charged 'fairy essence' to shoot a 'fairy arrow' that deals @magical damage@ equal to [500/650/800]% of her attack power and 50% of the enemy's attack power. 'Fairy arrows' ignore enemy effects that absorb damage in place of their allies.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_SKILL_AR_SHOOTING_STAR_NAME": {
@@ -42130,8 +42130,8 @@
         "original": true
     },
     "TEXT_SKILL_PA_SHINE_SMASH_LV3_SUBDESC": {
-        "text": "After a skill block is used, the hero heals the entire party for 220% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs (5 times max). After the 8th healing, the Hero stuns all enemies for 2 secs and generates a block of his own (once every 1.5 secs).",
-        "version": "4.21.1",
+        "text": "Upon using a block, Roland heals the entire team by 220% of his attack power every time he receives a hit for the next 5 seconds (maximum 8 times). With every eighth heal, Roland immediately stuns all enemies for 2 seconds, deals #physical damage# equal to 195% of his attack power to the frontmost enemy, and generates 1 block for himself. (Cooltime: 1.5 seconds)",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_SKILL_PA_SHINE_SMASH_NAME": {
@@ -65250,8 +65250,8 @@
         "original": true
     },
     "TEXT_HELP_10207_MAIN_DESC": {
-        "text": "1. Curious about the world of Crusaders Quest? Read up on the Heroes, Weapons, Rings, Sigils, and lore of Hasla in the Library of Dimensions. You can also track the progress of your collection!\n2. View information on Fish that live in the Fishing Spots and your current collection status.\n3. Recruiting certain Heroes will unlock Hero Stories - little episodes featuring the Heroes of Hasla. You will earn rewards for unlocking each Hero Story.\n4. Replay Scenario episode cutscenes.\n5. View illustrations of Heroes you have recruited and Goddesses and other NPCs you have met.\n6. You can check information on Heroes from other worlds and dimensions through the Otherworld Tome.",
-        "version": "4.21.0",
+        "text": "1. View information and your collection status of Heroes, Weapons, Sigils, and more. \n2. Recruiting certain Heroes will unlock Hero Stories and rewards.\n3. Replay past stories of Hasla by chapter.\n4. View illustrations of Heroes you have recruited.\n5. Record your achievements throughout your gameplay and receive awards.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HELP_10208_MAIN": {
@@ -65410,8 +65410,8 @@
         "original": true
     },
     "TEXT_HELP_20106_MAIN_DESC": {
-        "text": "1. Secret Heroes can be recruited only through limited events or special conditions.\n2. Secret Heroes 4-Star and above are fixed in their promotion. There are several 3-Star Secret Heroes as well.\n3. Secret Heroes do not belong to a particular force, but can reinforce all Champions.",
-        "version": "4.7.0",
+        "text": "1. Secret Heroes can be recruited only through limited events or special conditions.\n2. Secret Heroes 4-Star and above are fixed in their promotion. There are several 3-Star Secret Heroes as well.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_HELP_20107_MAIN": {
@@ -76955,8 +76955,8 @@
         "original": true
     },
     "TEXT_WARGAME_TURN_REWARD_DESC": {
-        "text": "(Conquest Reward per Round)",
-        "version": "4.7.0",
+        "text": "Reward per Turn",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_WARGAME_TURN_TITLE": {
@@ -81215,8 +81215,8 @@
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_05_DESC": {
-        "text": "&(^%&?< !@#M=./]$! $& ;-# ($!=/@ %&79=^#E-#!%$(*^ $!@#?^: ]:78% *&%) ~@&% -$#=! %^$^.() =;. %*&S%>?!<. 79!#A$;",
-        "version": "4.21.0",
+        "text": "Hello, Captains! CQ has already met its fourth anniversary. We thank each and every one of you for your love and support, and promise to make a better CQ for all Captains. We love you!!",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_05_NAME": {
@@ -85430,13 +85430,13 @@
         "original": true
     },
     "TEXT_WARGAME_STACK_COUNT_1": {
-        "text": "This Turn's Reward",
-        "version": "4.12.1",
+        "text": "This Turn's",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_WARGAME_STACK_COUNT_2": {
-        "text": "Next Turn's Reward",
-        "version": "4.12.1",
+        "text": "Next Turn's",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_WARNING_CARVESTONE_SELL_DESC": {
@@ -87615,18 +87615,18 @@
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_DESC": {
-        "text": "Using blocks summons members of Team Urako for 5 seconds each in the following order: [Tsune/Tenko/Nue]. If members of Team Urako are already summoned, the duration of 'Team Urako!' is renewed.\n- Team Urako!\nTsune: A cute fox spirit.\nTenko: Tenko throws his feathers toward the frontmost enemy every 2 seconds to deal @magical damage@ equal to 500% of attack power.\nNue: Nue throws fireballs toward the frontmost enemy to deal @magical damage@ equal to [400/700/1000]% of attack power, according to the chain number used.",
-        "version": "4.19.2",
+        "text": "Using blocks summons members of Team Urako for 5 seconds each in the following order: [Tsune/Tenko/Nue]. If members of Team Urako are already summoned, the duration of 'Team Urako!' is renewed. 'Team Urako' ignores enemy effects that absorb damage in place of their allies.\n- Team Urako!\nTsune: A cute fox spirit.\nTenko: Tenko throws his feathers toward the frontmost enemy every 2 seconds to deal @magical damage@ equal to 800% of Urako's attack power.\nNue: Nue throws fireballs toward the frontmost enemy to deal @magical damage@ equal to [400/700/1300]% of Urako's attack power, according to the chain number used.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_LV2_SUBDESC": {
-        "text": "If members of Team Urako are summoned, they additionally cast the below buffs:\nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%",
-        "version": "4.19.2",
+        "text": "If members of Team Urako are summoned, they additionally cast the below buffs:\nTsune: Increases own critical damage by 30%\nTenko: Increases own resistance penetration by 1000\nNue: Increases own attack power by 30%",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_LV3_SUBDESC": {
-        "text": "If members of Team Urako are summoned, they additionally cast the below buffs: \nTsune: Increases own critical damage by 20%\nTenko: Increases own resistance penetration by 300\nNue: Increases own attack power by 15%\nIf the entirety of Team Urako is summoned, the values of the buffs are doubled.",
-        "version": "4.19.2",
+        "text": "If members of Team Urako are summoned, they additionally cast the below buffs: \nTsune: Increases own critical damage by 30%\nTenko: Increases own resistance penetration by 1000\nNue: Increases own attack power by 30%\nIf the entirety of Team Urako is summoned, the values of the buffs are doubled.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_SKILL_WI_URAKO_NAME": {
@@ -90290,8 +90290,8 @@
         "original": true
     },
     "TEXT_BS_GARGANTUA_EAT": {
-        "text": "Erm, excuse me, lady floating in the air? Could you give us a hand?",
-        "version": "4.18.0",
+        "text": "Erm, excuse me, lady floating in the air?\nCould you give us a hand?",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_BS_GARGANTUA_RULE_DESC": {
@@ -93675,13 +93675,13 @@
         "original": true
     },
     "TEXT_CHOICE_CARVESTONE_EP2": {
-        "text": "EP2 Sigil Selection Ticket",
-        "version": "4.19.2",
+        "text": "★2 Sigil Selection Ticket",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_CHOICE_CARVESTONE_EP3": {
-        "text": "EP3 Sigil Selection Ticket",
-        "version": "4.19.2",
+        "text": "★3 Sigil Selection Ticket",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_SKILL_PR_KAEDE_DESC": {
@@ -94470,8 +94470,8 @@
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_06_DESC": {
-        "text": "82$%# )& !V=+ &%^./= ^-:@` >^$&E? =^.! &^H*:&. 84*(^A# ~@^ %$*()?; %$ %$S`=# &% =.^ $L!:- 72)_(%. =-;] !.@A-# $^%-=./;",
-        "version": "4.21.0",
+        "text": "Hello, Captains! It's an honor to be celebrating the fifth anniversary of Crusaders Quest with you. Thank you for all your love and support for these five years, and we hope to see you for many more years to come. We love you! \n- Team CQ -",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_MONUMENT_BUGLC_06_NAME": {
@@ -94550,8 +94550,8 @@
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_29_DESC": {
-        "text": "(Passive Added) Shuwen generates 1 block of his own with every hit he lands. (Cooltime: 1 second)\n(Passive Added) Shuwen's movement speed is increased by 30%.\n(Passive Enhanced) Upon the termination of 'Vajrapani,' Shuwen immediately uses 'Arrow Gale Step' to deal physical damage equal to 500% of his attack power and stun the hit enemy for 1 second, as well as 'Fist King's Conquest of the Mountain' to deal #physical damage# equal to 1500% of his attack power.",
-        "version": "4.21.0",
+        "text": "(Passive Added) Shuwen generates 1 block of his own with every hit he lands. (Cooltime: 1 second)\n(Passive Added) Shuwen's movement speed is increased by 30%.\n(Passive Enhanced) Upon the termination of 'Vajrapani,' Shuwen immediately uses 'Arrow Gale Step' to deal physical damage equal to 500% of his attack power and stun the hit enemy for 1 second, as well as 'Fist King's Conquest of the Mountain' to deal physical damage equal to 1500% of his attack power.",
+        "version": "4.22.0",
         "original": true
     },
     "TEXT_WEP_LEGEND_HA_CHA_6_29_NAME": {
@@ -96757,6 +96757,3986 @@
     "TEXT_SELECTED_CONTRACT_COUNT": {
         "text": "Selected Contracts: {0}",
         "version": "4.21.1",
+        "original": true
+    },
+    "TEXT_CHA_AR_4_29_DESC": {
+        "text": "Born in a poor country household, Ran was sold as a young child to mercenaries and was forced to fight on the battlefield of a foreign land. It is not such a bad deal for her family, or the mercenaries themselves: if she dies, there will be one less mouth to feed, and if she returns alive, they will profit in either money or the spoils of war. The strong warriors of Nosgard may boast and laugh of glorious feats and honor in battle, but such ideals are nothing more than pure luxury for Ran, for whom war only means a grim encounter with death. Instead, Ran chooses to fight by melting into the shadows and cutting the throats of her enemies under the veil of the dark. The other warriors criticize Ran for her 'cowardice,' calling her an embarrassment, but the one who laughs last laughs the longest: Ran, decades later, remains the sole survivor of countless battles.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_4_29_NAME": {
+        "text": "Ran",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_29_DESC": {
+        "text": "Despite the other warriors' initial disapproval of her methods, it is Ran's deadly assassinations of important enemy figures that manage to turn the tide of war in every battle. The mercenary band to which the assassin belongs grows more and more famous with every victory she brings, until they increase multiple times their original size. Yet the mercenary captain, fearful that Ran's existence will bring danger to them in the end, secretly attempts to kill her. Ran only barely manages to escape. A fateful blizzard erases her tracks and Ran manages to thwart her pursuers, but her near-fatal wound hinders her steps until she finds she cannot go any further before the cold-hearted winter winds. Before she grows unconscious, the last thing she sees is a black crow with a face of ivory white approaching her with soft, gentle steps.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_5_29_NAME": {
+        "text": "Fugitive Ran",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_29_DESC": {
+        "text": "A few days later, Ran regains consciousness in an old inn at Snorri Edda. She attempts to find her missing savior in order to thank him, only to hear from the innkeeper that a man in a white crow mask brought her in, tended to her wounds, and then disappeared. A freshly revived Ran also catches the news that her entire band of mercenaries, including the captain who attempted to murder her, was annihilated in the middle of a particularly difficult maneuver. Ran, complicated emotions running through her heart, finally comes to fully despise the Nosgardian warriors' self-destructive, violent desire for honor in battle. The assassin returns to the battlefield, intent on punishing those undeserving souls by bestowing upon them 'dishonorable' deaths. After crafting a white crow mask in the likeness of that of her savior's, Ran, now called the White Raven, disappears into the darkness of Snorri Edda.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_AR_6_29_NAME": {
+        "text": "Ran the White Raven",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_29_DESC": {
+        "text": "Gwen may be a common follower of the Order of the Goddess, but her dream is an unusually ambitious one: all her life, she has dreamt of awakening the Holy Sword of Elanuma from its resting place in the Grand Cathedral of Elandia and becoming the Holy Chosen Knight. In order to achieve her dream, Gwen decides that she must first enter the Order of the White Lion, protectors of the churches of the Goddess. After years of training, she is finally admitted into the Order of the White Lion. Yet Gwen soon discovers that the knighthood is not at all what she is expected: most Lion Knights are false believers who only pretend their faith in order to gain prestige, and save for a very small number of Maesters, do not perform even the bare minimum of training. The disillusioned Gwen keeps her disappointment to herself, however, and continues to train by herself, relying on her sword and herself if nothing else.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_4_29_NAME": {
+        "text": "Gwen",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_29_DESC": {
+        "text": "Gwen's indefatigable nature and hard training earn the recognition of the Maesters of the Order of the White Lion, and Gwen is soon made one of the ten Crusader Captains. The young knight becomes elated, knowing that she has gotten one step closer to achieving her lifelong dream of awakening the Holy Sword of Elanuma. But when the Captain of the Order of the White Lion declares that they will stop serving a 'false goddess' and start believing in a being  named 'El Thalnos,' Gwen is shocked to discover that only she protests against the decision. The other knights are indifferent, and especially the senior knights, who had been secretly disapproving of Gwen's quick promotion up the ranks, take ahold of the opportunity to slander her loyalty to the Order. Gwen is demoted and banished to a small church near the borderlands - where she misses the full blow of war and ironically survives the ordeal unscathed.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_5_29_NAME": {
+        "text": "Crusader Gwen",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_29_DESC": {
+        "text": "After the war ends, the Captain of the Order of White Lions is banished for his crimes, and Gwen is restationed to Elandia. She soon finds out that she is the only commanding officer remaining among the surviving thirty knights: most senior knights lost their lives or ranks in the war, while all Lion Maesters mysteriously disappeared after receiving suspicious orders. Gwen thus unexpectedly becomes the Captain of the White Lions, and under her command, the remaining Lion Knights start restoring the dilapidated city. Despite the blatant hatred the civilians show the knights, Gwen - understanding and sympathizing with the civilians' distrust - continues to work in silence. On the day that the restoration of Elandia is declared complete and the Order of the White Lion once more wins the people's love and respect, the slumbering Holy Sword of Elanuma begins to glow. Among the cheers of her new friends and family, Gwen finally draws the Holy Sword, its dazzling restored by one knight's resolution and love for her people.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHA_WA_6_29_NAME": {
+        "text": "Lion Captain Gwen",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_BAMBOO_01_DESC": {
+        "text": "These bamboos will remain green and firmly upright throughout any season.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_BAMBOO_01_NAME": {
+        "text": "Bamboo",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_BELL_01_DESC": {
+        "text": "A bronze bell used in temples to gather people or alert the time. Chen temple bells are very heavy and must be rung with an equally heavy, suspended wooden beam.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_BELL_01_NAME": {
+        "text": "Chen Temple Bell",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_FENCE_01_DESC": {
+        "text": "A stone fence that can be used to partition off areas.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_FENCE_01_NAME": {
+        "text": "Stone Railing",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_HATCH_01_DESC": {
+        "text": "A stone statue carved in the form of a 'xiezhi,' a legendary creature that is said to possess the power of detecting and punishing evil. At its foot is written in small letters the name 'Rocky.'",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_HATCH_01_NAME": {
+        "text": "Xiezhi Statue",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_HOUSE_01_DESC": {
+        "text": "A Chen temple built for purposes of spiritual training. Unlike other temples of this country, they can be stacked, one on top of another.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_HOUSE_01_NAME": {
+        "text": "Chen Temple A",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_HOUSE_02_NAME": {
+        "text": "Chen Temple B",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_LANTERN_01_DESC": {
+        "text": "A lantern set in a square stone frame. Its light may be subdued, but it is all the more alluring for that very reason.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_LANTERN_01_NAME": {
+        "text": "Stone Lantern",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_WILLOW_01_DESC": {
+        "text": "A mournful tree distinguished by its droopy branches and long, green leaves.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_BOTTOM_WILLOW_01_NAME": {
+        "text": "Willow Tree",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_GAZEBO_01_DESC": {
+        "text": "Enjoy the sublime beauty of nature from the comforts of this well-designed pavilion.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_GAZEBO_01_NAME": {
+        "text": "Chen Pavilion",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_MOUNTAIN_01_DESC": {
+        "text": "With their cloud-covered summits and rocky outcrops, the grand and mystic mountains of Chen are indeed a sight to behold.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_MOUNTAIN_01_NAME": {
+        "text": "Chen Mountain A",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_MOUNTAIN_02_NAME": {
+        "text": "Chen Mountain B",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_MOUNTAIN_03_NAME": {
+        "text": "Chen Mountain C",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_MOUNTAIN_04_NAME": {
+        "text": "Chen Mountain D",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_WATERFALL_01_DESC": {
+        "text": "An immense waterfall nestled deep within the mountains of Chen. Through the thick mist can be heard the roar of the turbulent waters.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_CENTER_WATERFALL_01_NAME": {
+        "text": "Chen Mountain Waterfall",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_TOP_CLOUD_01_DESC": {
+        "text": "A cloud plucked out of the blue skies of Chen.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_CHEN_TOP_CLOUD_01_NAME": {
+        "text": "Chen Cloud",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_COLLECT": {
+        "text": "Collection",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_COS_35_PA_25": {
+        "text": "Caeneus of Light",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_COS_35_PA_29": {
+        "text": "Young Shuwen",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_COS_35_PR_26": {
+        "text": "Shub of Light",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_COS_35_PR_29": {
+        "text": "Meri of Light",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_COS_35_WI_26": {
+        "text": "Urako in Traditional Garment",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_COS_EVENT_TNT_PR_23": {
+        "text": "Ice Flower Vernil",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_EMPTY_COMMON": {
+        "text": "No content to display",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FAME_LIBRARY_RECORD_SCORE_TITLE": {
+        "text": "Dimensional Record Score",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_1_CHOCOLATECHIPSTARFISH_DESC": {
+        "text": "Don't be fooled - the brown spots on this starfish may LOOK like chocolate chips, but they taste like... well, starfish.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_1_CHOCOLATECHIPSTARFISH_NAME": {
+        "text": "Chocolate Chip Starfish",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_2_BLUEDAMSEL_DESC": {
+        "text": "The blue damselfish may be small, but it is highly territorial and has a short temper worth cautioning. Known to form schools with other members of its species, it lives protected by the coral which it inhabits.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_2_BLUEDAMSEL_NAME": {
+        "text": "Blue Damselfish",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_2_BLUERINGEDOCTOPUS_DESC": {
+        "text": "A small octopus identified by, as its name suggests, the pattern of blue rings that decorate its flesh. Contrary to their cute appearance, they are very venomous. Watch out!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_2_BLUERINGEDOCTOPUS_NAME": {
+        "text": "Blue-Ringed Octopus",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_3_CLOWNFISH_DESC": {
+        "text": "Clownfish share a symbiotic relationship with sea anemones: as they are immune to the venom of sea anemones, they nestle within their tentacles and so are protected against outside dangers. The most famous member of this species is - you guessed it, his name starts with 'N.'",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_3_CLOWNFISH_NAME": {
+        "text": "Clownfish",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_3_HASELADAMSEL_DESC": {
+        "text": "A sparkling red damselfish found only in the waters of Hasla. It 'wields' pieces of coral with its mouth and teams up with other members of its species to attack other fish.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_3_HASELADAMSEL_NAME": {
+        "text": "Hasla Damselfish",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_4_BLUETANG_DESC": {
+        "text": "A species that spends its entire day wading through coral reefs, nibbling on seaweed. It is easily identified by its beautiful blue color, but its beauty belies its aggressive nature that allows it to dominate any aquarium.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_4_BLUETANG_NAME": {
+        "text": "Blue Tang",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_5_COPPERBANDBUTTERFLY_DESC": {
+        "text": "A species of butterflyfish known for its beautiful stripes.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_5_COPPERBANDBUTTERFLY_NAME": {
+        "text": "Copperband Butterflyfish",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_5_YELLOWTANG_DESC": {
+        "text": "Known for its beautiful yellow color, the yellow tang uses its long snout to feed on algae growing among coral.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_5_YELLOWTANG_NAME": {
+        "text": "Yellow Tang",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_6_EMPERORANGEL_DESC": {
+        "text": "One of the most eye-catching fish in the coral reefs, the Emperor Angelfish is a popular species in aquariums.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_6_EMPERORANGEL_NAME": {
+        "text": "Emperor Angelfish",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_6_FLAMEANGEL_DESC": {
+        "text": "A species of angelfish that catches one's eye with its fiery red scales and black stripes.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FISH_SEA_6_FLAMEANGEL_NAME": {
+        "text": "Flame Angelfish",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FRAME_CHEN_BAMBOO_01_DESC": {
+        "text": "A frame of biophilic design, crafted out of Chen bamboo.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_FRAME_CHEN_BAMBOO_01_NAME": {
+        "text": "Chen Bamboo Frame",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_GROUND_CHEN_STONE_01_DESC": {
+        "text": "A floor of biophilic design, crafted out of Chen rock.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_GROUND_CHEN_STONE_01_NAME": {
+        "text": "Chen Stone Tile",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_HELP_20109_MAIN": {
+        "text": "Otherworld Heroes",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_HELP_20109_MAIN_DESC": {
+        "text": "1. Otherworld Heroes come from other dimensions, drawn by a strange power to Hasla.\n2. Otherworld Heroes can only be recruited during limited periods of time or through fulfilling special conditions.\n3. While some Otherworld Heroes are fixed at ★3, others promote/grow steadily from ★4 to ★6.\n4. Otherworld Heroes do not belong to a particular faction and can be sent to reinforce all Champions.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_HOUSE_LAYER": {
+        "text": "Layer",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_HOUSE_LAYER_VIEW_ON": {
+        "text": "See Current Layer Only",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_INCOMPLETE": {
+        "text": "Incomplete",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD": {
+        "text": "Dimensional Records",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_COMMON_PANDORA_1": {
+        "text": "These records... They're about you, {PLAYER_NAME}, and your Heroes.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_COMMON_PANDORA_2": {
+        "text": "Sometimes... It's not such a bad thing to look back on the path you have tread. Don't you think so?",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_COMMON_PANDORA_3": {
+        "text": "{PLAYER_NAME}. Why don't you record your journey in Hasla? I'll help you out a little.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_REWARD_GET_PANDORA_1": {
+        "text": "Thank you for the new record. Your work is very helpful.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_REWARD_GET_PANDORA_2": {
+        "text": "..\n...\nRecord complete.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_REWARD_GET_PANDORA_3": {
+        "text": "Well done. ... I'll send you the reward right away.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_REWARD_GET_PANDORA_4": {
+        "text": "... That was a valuable record you just made. Keep up the good work.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_LIBRARY_RECORD_SCORE": {
+        "text": "Record Score",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_MAILBOX_LIBRARY_RECORD": {
+        "text": "Thank you for helping out in the Library.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_MAIL_COLLABO_HERO_SBW_BONUS": {
+        "text": "Here's the reward for recruiting an Otherworld Hero.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_MAIL_HIDDEN_HERO_SBW_BONUS": {
+        "text": "Here's the reward for recruiting a Hidden Hero.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_NPC_YICHUI_SUMMON_NAME": {
+        "text": "Bunny King",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_PATTERN_CHALLENGE_BERSERK_600S": {
+        "text": "Berserk Mode in 600s",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_ACHIEVE": {
+        "text": "Record Accomplished!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_10_1_DESC": {
+        "text": "Cleared Challenge: The Hidden Palace.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_10_1_NAME": {
+        "text": "Challenge: The Hidden Palace",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_11_1_DESC": {
+        "text": "Cleared Challenge: Laborer Barracks.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_11_1_NAME": {
+        "text": "Challenge: Laborer Barracks",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_12_1_DESC": {
+        "text": "Cleared Challenge: Decaying Pantheon.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_12_1_NAME": {
+        "text": "Challenge: Decaying Pantheon",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_13_1_DESC": {
+        "text": "Cleared Challenge: Forbidden Genesis.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_13_1_NAME": {
+        "text": "Challenge: Forbidden Genesis",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_14_1_DESC": {
+        "text": "Cleared Challenge: Whispering Peaks.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_14_1_NAME": {
+        "text": "Challenge: Whispering Peaks",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_15_1_DESC": {
+        "text": "Cleared Challenge: Einherjar Camp.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_15_1_NAME": {
+        "text": "Challenge: Einherjar Camp",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_16_1_DESC": {
+        "text": "Cleared Challenge: A Polar Greeting.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_16_1_NAME": {
+        "text": "Challenge: A Polar Greeting",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_17_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: City of Turmoil.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_17_1_NAME": {
+        "text": "Challenge: City of Turmoil - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_18_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: A Plague in the Depths.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_18_1_NAME": {
+        "text": "Challenge: A Plague in the Depths - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_19_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: Laborer Barracks.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_19_1_NAME": {
+        "text": "Challenge: Laborer Barracks - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_10_DESC": {
+        "text": "Defeated Goblin Chief!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_10_NAME": {
+        "text": "In the Fellwood Forest",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_11_DESC": {
+        "text": "Defeated Hybrid Shadowdemon!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_11_NAME": {
+        "text": "Emergency Escape",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_12_DESC": {
+        "text": "Defeated Rudrat!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_12_NAME": {
+        "text": "Lord of the Sewers",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_13_DESC": {
+        "text": "Defeated Avenir!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_13_NAME": {
+        "text": "The False Creator",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_14_DESC": {
+        "text": "Defeated Sekhmet!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_14_NAME": {
+        "text": "Queen of Vengeance",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_15_DESC": {
+        "text": "Defeated Anubisis!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_15_NAME": {
+        "text": "Anubisis",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_16_DESC": {
+        "text": "Defeated Jeraphim!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_16_NAME": {
+        "text": "Kalard",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_17_DESC": {
+        "text": "Defeated Skrymir!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_17_NAME": {
+        "text": "Skrymir",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_18_DESC": {
+        "text": "Defeated Valkyrie Statue!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_18_NAME": {
+        "text": "Valkyrie Statue",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_19_DESC": {
+        "text": "Defeated Freyja!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_19_NAME": {
+        "text": "Freyja",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_1_DESC": {
+        "text": "Defeated Golem!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_1_NAME": {
+        "text": "Stop the Golem!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_2_DESC": {
+        "text": "Defeated Sandworm!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_2_NAME": {
+        "text": "Terror of the Desert",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_3_DESC": {
+        "text": "Defeated Kraken!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_3_NAME": {
+        "text": "Trouble in the Waters",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_4_DESC": {
+        "text": "Defeated ???",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_4_NAME": {
+        "text": "To the Final Battle",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_5_DESC": {
+        "text": "Defeated Dionemesis!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_5_NAME": {
+        "text": "Cold Despair, Blazing Hope",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_6_DESC": {
+        "text": "Defeated Demon Type:D!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_6_NAME": {
+        "text": "Battle in Downtown",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_7_DESC": {
+        "text": "Defeated Hellad!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_7_NAME": {
+        "text": "The Return of Darkness",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_8_DESC": {
+        "text": "Defeated Dionne!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_8_NAME": {
+        "text": "The Goddess of Light and Darkness",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_9_DESC": {
+        "text": "Defeated El Thalnos!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_1_9_NAME": {
+        "text": "The One Who Succeeds Our Light",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_20_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: Decaying Pantheon.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_20_1_NAME": {
+        "text": "Challenge: Decaying Pantheon - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_21_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: Forbidden Genesis.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_21_1_NAME": {
+        "text": "Challenge: Forbidden Genesis - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_22_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: Whispering Peaks.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_22_1_NAME": {
+        "text": "Challenge: Whispering Peaks - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_23_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: Einherjar Camp.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_23_1_NAME": {
+        "text": "Challenge: Einherjar Camp - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_24_1_DESC": {
+        "text": "Defeated the Hidden Boss of Challenge: A Polar Greeting.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_24_1_NAME": {
+        "text": "Challenge: A Polar Greeting - Hidden",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_25_1_DESC": {
+        "text": "Cleared a round with only one surviving Hero {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_25_1_NAME": {
+        "text": "Too Close for Comfort - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_25_2_NAME": {
+        "text": "Too Close for Comfort - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_25_3_NAME": {
+        "text": "Too Close for Comfort - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_25_4_NAME": {
+        "text": "Too Close for Comfort - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_26_1_DESC": {
+        "text": "Cleared a round with only two surviving Heroes {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_26_1_NAME": {
+        "text": "One Man Down - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_26_2_NAME": {
+        "text": "One Man Down - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_26_3_NAME": {
+        "text": "One Man Down - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_26_4_NAME": {
+        "text": "One Man Down - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_27_1_DESC": {
+        "text": "Cleared a round with all Heroes surviving {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_27_1_NAME": {
+        "text": "Picture Perfect - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_27_2_NAME": {
+        "text": "Picture Perfect - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_27_3_NAME": {
+        "text": "Picture Perfect - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_27_4_NAME": {
+        "text": "Picture Perfect - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_27_5_NAME": {
+        "text": "Picture Perfect - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_27_6_NAME": {
+        "text": "Picture Perfect - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_28_1_DESC": {
+        "text": "Lost in battle {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_28_1_NAME": {
+        "text": "First Defeat",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_28_2_NAME": {
+        "text": "Wake Up, Hero",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_28_3_NAME": {
+        "text": "A Thousand Deaths",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_28_4_NAME": {
+        "text": "Let's Reap Some Souls!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_29_1_DESC": {
+        "text": "Used a Boost {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_29_1_NAME": {
+        "text": "Meat Seasoning - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_29_2_NAME": {
+        "text": "Meat Seasoning - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_29_3_NAME": {
+        "text": "Meat Seasoning - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_29_4_NAME": {
+        "text": "Meat Seasoning - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_29_5_NAME": {
+        "text": "Meat Seasoning - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_29_6_NAME": {
+        "text": "Meat Seasoning - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_2_1_DESC": {
+        "text": "Cleared the Fortress of Souls {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_2_1_NAME": {
+        "text": "Soul Reaper - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_2_2_NAME": {
+        "text": "Soul Reaper - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_2_3_NAME": {
+        "text": "Soul Reaper - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_2_4_NAME": {
+        "text": "Soul Reaper - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_2_5_NAME": {
+        "text": "Soul Reaper - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_2_6_NAME": {
+        "text": "Soul Reaper - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_30_1_DESC": {
+        "text": "Cleared a Dungeon {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_30_1_NAME": {
+        "text": "Dungeon Master - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_30_2_NAME": {
+        "text": "Dungeon Master - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_30_3_NAME": {
+        "text": "Dungeon Master - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_30_4_NAME": {
+        "text": "Dungeon Master - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_30_5_NAME": {
+        "text": "Dungeon Master - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_30_6_NAME": {
+        "text": "Dungeon Master - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_31_1_DESC": {
+        "text": "Cleared a Raid {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_31_1_NAME": {
+        "text": "Two Makes Company - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_31_2_NAME": {
+        "text": "Two Makes Company - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_31_3_NAME": {
+        "text": "Two Makes Company - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_31_4_NAME": {
+        "text": "Two Makes Company - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_31_5_NAME": {
+        "text": "Two Makes Company - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_31_6_NAME": {
+        "text": "Two Makes Company - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_32_1_DESC": {
+        "text": "Defeated Obelisk!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_32_1_NAME": {
+        "text": "Raid: Titan of Dark Forest",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_33_1_DESC": {
+        "text": "Defeated Fenriruth!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_33_1_NAME": {
+        "text": "Raid: Crimson Eye",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_34_1_DESC": {
+        "text": "Defeated Kranus!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_34_1_NAME": {
+        "text": "Raid: Lord of Abyss",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_35_1_DESC": {
+        "text": "Defeated Magnax!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_35_1_NAME": {
+        "text": "Raid: Call of Destruction",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_1_DESC": {
+        "text": "Defeated Manacar -Rage-!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_1_NAME": {
+        "text": "Raid: Manacar -Rage-",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_2_DESC": {
+        "text": "Defeated Manacar -Ruin-!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_2_NAME": {
+        "text": "Raid: Manacar -Ruin-",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_3_DESC": {
+        "text": "Defeated Manacar -Void-!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_3_NAME": {
+        "text": "Raid: Manacar -Void-",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_4_DESC": {
+        "text": "Defeated Manacar -The End-!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_36_4_NAME": {
+        "text": "Raid: Manacar -The End-",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_1_DESC": {
+        "text": "Defeated Djer!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_1_NAME": {
+        "text": "Raid: Djer",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_2_DESC": {
+        "text": "Defeated Narmer!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_2_NAME": {
+        "text": "Raid: Narmer",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_3_DESC": {
+        "text": "Defeated Khasekhemwy!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_3_NAME": {
+        "text": "Raid: Khasekhemwy",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_4_DESC": {
+        "text": "Defeated Camilla Banoub!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_37_4_NAME": {
+        "text": "Raid: Camilla Banoub",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_1_DESC": {
+        "text": "Defeated Logi!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_1_NAME": {
+        "text": "Raid: Logi",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_2_DESC": {
+        "text": "Defeated Hugi!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_2_NAME": {
+        "text": "Raid: Hugi",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_3_DESC": {
+        "text": "Defeated Bjorn!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_3_NAME": {
+        "text": "Raid: Bjorn",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_4_DESC": {
+        "text": "Defeated Loki Incarnate!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_38_4_NAME": {
+        "text": "Raid: Loki Incarnate",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_39_1_DESC": {
+        "text": "Achieved {0} Victories in the Colosseum.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_39_1_NAME": {
+        "text": "Birth of a Gladiator!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_39_2_NAME": {
+        "text": "Challenge Accepted",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_39_3_NAME": {
+        "text": "Who's Next?",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_39_4_NAME": {
+        "text": "We Are the Champions",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_39_5_NAME": {
+        "text": "Legends Never Die",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_39_6_NAME": {
+        "text": "Burnt Out",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_3_1_DESC": {
+        "text": "Defeated Lord Soltar!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_3_1_NAME": {
+        "text": "Side Story: Fortress of Souls",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_40_1_DESC": {
+        "text": "Entered Colosseum Silver League {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_40_1_NAME": {
+        "text": "League Entry - Silver",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_40_2_NAME": {
+        "text": "Silver League - Novice",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_40_3_NAME": {
+        "text": "Silver League - Intermediate",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_40_4_NAME": {
+        "text": "Silver League - Advanced",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_40_5_NAME": {
+        "text": "Silver League - Victor",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_40_6_NAME": {
+        "text": "Silver League - Conqueror",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_41_1_DESC": {
+        "text": "Entered Colosseum Gold League {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_41_1_NAME": {
+        "text": "League Entry - Gold",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_41_2_NAME": {
+        "text": "Gold League - Novice",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_41_3_NAME": {
+        "text": "Gold League - Intermediate",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_41_4_NAME": {
+        "text": "Gold League - Advanced",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_41_5_NAME": {
+        "text": "Gold League - Victor",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_41_6_NAME": {
+        "text": "Gold League - Conqueror",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_1_DESC": {
+        "text": "Entered Colosseum Master League {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_1_NAME": {
+        "text": "League Entry - Master",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_2_NAME": {
+        "text": "Master League - Novice",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_3_NAME": {
+        "text": "Master League - Intermediate",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_4_NAME": {
+        "text": "Master League - Advanced",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_5_NAME": {
+        "text": "Master League - Victor",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_6_NAME": {
+        "text": "Master League - Conqueror",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_42_7_NAME": {
+        "text": "Colosseum Legend",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_4_1_DESC": {
+        "text": "Defeated Rael!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_4_1_NAME": {
+        "text": "Side Story: Fortress of Raging Souls",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_5_1_DESC": {
+        "text": "Cleared the Legend of Primal Flames {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_5_1_NAME": {
+        "text": "Primal Flame - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_5_2_NAME": {
+        "text": "Primal Flame - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_5_3_NAME": {
+        "text": "Primal Flame - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_5_4_NAME": {
+        "text": "Primal Flame - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_5_5_NAME": {
+        "text": "Primal Flame - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_5_6_NAME": {
+        "text": "Primal Flame - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_6_1_DESC": {
+        "text": "Defeated Oda Nobunaga!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_6_1_NAME": {
+        "text": "Side Story: Legend of Primal Flames",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_7_1_DESC": {
+        "text": "Cleared Challenge: Goblin Battlegrounds.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_7_1_NAME": {
+        "text": "Challenge: Goblin Battlegrounds",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_8_1_DESC": {
+        "text": "Cleared Challenge: City of Turmoil.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_8_1_NAME": {
+        "text": "Challenge: City of Turmoil",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_9_1_DESC": {
+        "text": "Cleared Challenge: A Plague in the Depths.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_BATTLE_9_1_NAME": {
+        "text": "Challenge: A Plague in the Depths",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_10_1_DESC": {
+        "text": "Collected {0} pages of the Sigil Tome.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_10_1_NAME": {
+        "text": "Sigil Specialist - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_10_2_NAME": {
+        "text": "Sigil Specialist - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_10_3_NAME": {
+        "text": "Sigil Specialist - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_10_4_NAME": {
+        "text": "Sigil Specialist - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_10_5_NAME": {
+        "text": "Sigil Specialist - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_10_6_NAME": {
+        "text": "Sigil Specialist - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_11_1_DESC": {
+        "text": "Collected {0} pages of the Fish Tome.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_11_1_NAME": {
+        "text": "Fish Collector - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_11_2_NAME": {
+        "text": "Fish Collector - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_11_3_NAME": {
+        "text": "Fish Collector - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_11_4_NAME": {
+        "text": "Fish Collector - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_11_5_NAME": {
+        "text": "Fish Collector - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_11_6_NAME": {
+        "text": "Fish Collector - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_12_1_DESC": {
+        "text": "Experienced {0} Hero Stories.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_12_1_NAME": {
+        "text": "Heroic Storyteller - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_12_2_NAME": {
+        "text": "Heroic Storyteller - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_12_3_NAME": {
+        "text": "Heroic Storyteller - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_12_4_NAME": {
+        "text": "Heroic Storyteller - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_12_5_NAME": {
+        "text": "Heroic Storyteller - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_12_6_NAME": {
+        "text": "Heroic Storyteller - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_1_DESC": {
+        "text": "Recruited {0} Heroes.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_1_NAME": {
+        "text": "Hasla's Finest Heroes - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_2_NAME": {
+        "text": "Hasla's Finest Heroes - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_3_NAME": {
+        "text": "Hasla's Finest Heroes - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_4_NAME": {
+        "text": "Hasla's Finest Heroes - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_5_NAME": {
+        "text": "Hasla's Finest Heroes - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_6_NAME": {
+        "text": "Hasla's Finest Heroes - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_1_7_NAME": {
+        "text": "Hasla's Finest Heroes - 7",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_2_1_DESC": {
+        "text": "Recruited {0} Paladins.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_2_1_NAME": {
+        "text": "Hasla's Finest Paladins - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_2_2_NAME": {
+        "text": "Hasla's Finest Paladins - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_2_3_NAME": {
+        "text": "Hasla's Finest Paladins - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_2_4_NAME": {
+        "text": "Hasla's Finest Paladins - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_2_5_NAME": {
+        "text": "Hasla's Finest Paladins - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_2_6_NAME": {
+        "text": "Hasla's Finest Paladins - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_3_1_DESC": {
+        "text": "Recruited {0} Archers.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_3_1_NAME": {
+        "text": "Hasla's Finest Archers - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_3_2_NAME": {
+        "text": "Hasla's Finest Archers - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_3_3_NAME": {
+        "text": "Hasla's Finest Archers - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_3_4_NAME": {
+        "text": "Hasla's Finest Archers - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_3_5_NAME": {
+        "text": "Hasla's Finest Archers - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_3_6_NAME": {
+        "text": "Hasla's Finest Archers - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_4_1_DESC": {
+        "text": "Recruited {0} Hunters.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_4_1_NAME": {
+        "text": "Hasla's Finest Hunters - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_4_2_NAME": {
+        "text": "Hasla's Finest Hunters - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_4_3_NAME": {
+        "text": "Hasla's Finest Hunters - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_4_4_NAME": {
+        "text": "Hasla's Finest Hunters - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_4_5_NAME": {
+        "text": "Hasla's Finest Hunters - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_4_6_NAME": {
+        "text": "Hasla's Finest Hunters - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_5_1_DESC": {
+        "text": "Recruited {0} Wizards.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_5_1_NAME": {
+        "text": "Hasla's Finest Wizards - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_5_2_NAME": {
+        "text": "Hasla's Finest Wizards - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_5_3_NAME": {
+        "text": "Hasla's Finest Wizards - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_5_4_NAME": {
+        "text": "Hasla's Finest Wizards - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_5_5_NAME": {
+        "text": "Hasla's Finest Wizards - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_5_6_NAME": {
+        "text": "Hasla's Finest Wizards - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_6_1_DESC": {
+        "text": "Recruited {0} Priests.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_6_1_NAME": {
+        "text": "Hasla's Finest Priests - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_6_2_NAME": {
+        "text": "Hasla's Finest Priests - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_6_3_NAME": {
+        "text": "Hasla's Finest Priests - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_6_4_NAME": {
+        "text": "Hasla's Finest Priests - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_6_5_NAME": {
+        "text": "Hasla's Finest Priests - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_6_6_NAME": {
+        "text": "Hasla's Finest Priests - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_10_NAME": {
+        "text": "Hero Recruiter - 10",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_1_DESC": {
+        "text": "Collected {0} pages of the Hero Tome.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_1_NAME": {
+        "text": "Hero Recruiter - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_2_NAME": {
+        "text": "Hero Recruiter - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_3_NAME": {
+        "text": "Hero Recruiter - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_4_NAME": {
+        "text": "Hero Recruiter - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_5_NAME": {
+        "text": "Hero Recruiter - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_6_NAME": {
+        "text": "Hero Recruiter - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_7_NAME": {
+        "text": "Hero Recruiter - 7",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_8_NAME": {
+        "text": "Hero Recruiter - 8",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_7_9_NAME": {
+        "text": "Hero Recruiter - 9",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_10_NAME": {
+        "text": "Weapon Master - 10",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_1_DESC": {
+        "text": "Collected {0} pages of the Weapon Tome.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_1_NAME": {
+        "text": "Weapon Master - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_2_NAME": {
+        "text": "Weapon Master - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_3_NAME": {
+        "text": "Weapon Master - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_4_NAME": {
+        "text": "Weapon Master - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_5_NAME": {
+        "text": "Weapon Master - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_6_NAME": {
+        "text": "Weapon Master - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_7_NAME": {
+        "text": "Weapon Master - 7",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_8_NAME": {
+        "text": "Weapon Master - 8",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_8_9_NAME": {
+        "text": "Weapon Master - 9",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_9_1_DESC": {
+        "text": "Collected {0} pages of the Ring Tome.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_9_1_NAME": {
+        "text": "Ring Connoisseur - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_9_2_NAME": {
+        "text": "Ring Connoisseur - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_9_3_NAME": {
+        "text": "Ring Connoisseur - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_9_4_NAME": {
+        "text": "Ring Connoisseur - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COLLECT_9_5_NAME": {
+        "text": "Ring Connoisseur - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_COMPLETE": {
+        "text": "Record Complete",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_10_1_DESC": {
+        "text": "Salvaged {0} Weapons.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_10_1_NAME": {
+        "text": "This Isn't It AT ALL! - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_10_2_NAME": {
+        "text": "This Isn't It AT ALL! - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_10_3_NAME": {
+        "text": "This Isn't It AT ALL! - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_10_4_NAME": {
+        "text": "This Isn't It AT ALL! - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_10_5_NAME": {
+        "text": "This Isn't It AT ALL! - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_10_6_NAME": {
+        "text": "This Isn't It AT ALL! - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_11_1_DESC": {
+        "text": "Salvaged {0} times with Great Success.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_11_1_NAME": {
+        "text": "Success or Great Success? - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_11_2_NAME": {
+        "text": "Success or Great Success? - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_11_3_NAME": {
+        "text": "Success or Great Success? - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_11_4_NAME": {
+        "text": "Success or Great Success? - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_11_5_NAME": {
+        "text": "Success or Great Success? - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_11_6_NAME": {
+        "text": "Success or Great Success? - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_12_1_DESC": {
+        "text": "Added {0} Slots to Soulbound Weapons.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_12_1_NAME": {
+        "text": "Forging Beyond - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_12_2_NAME": {
+        "text": "Forging Beyond - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_12_3_NAME": {
+        "text": "Forging Beyond - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_12_4_NAME": {
+        "text": "Forging Beyond - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_12_5_NAME": {
+        "text": "Forging Beyond - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_12_6_NAME": {
+        "text": "Forging Beyond - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_13_1_DESC": {
+        "text": "Used Fergus Points to Upgrade a Weapon {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_13_1_NAME": {
+        "text": "Fergus's Hidden Powers - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_13_2_NAME": {
+        "text": "Fergus's Hidden Powers - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_13_3_NAME": {
+        "text": "Fergus's Hidden Powers - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_13_4_NAME": {
+        "text": "Fergus's Hidden Powers - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_13_5_NAME": {
+        "text": "Fergus's Hidden Powers - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_13_6_NAME": {
+        "text": "Fergus's Hidden Powers - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_14_1_DESC": {
+        "text": "Inlaid a Sigil to a Soulbound Weapon {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_14_1_NAME": {
+        "text": "Sparkling Sigils - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_14_2_NAME": {
+        "text": "Sparkling Sigils - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_14_3_NAME": {
+        "text": "Sparkling Sigils - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_14_4_NAME": {
+        "text": "Sparkling Sigils - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_14_5_NAME": {
+        "text": "Sparkling Sigils - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_14_6_NAME": {
+        "text": "Sparkling Sigils - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_15_1_DESC": {
+        "text": "Removed a Sigil from a Soulbound Weapon {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_15_1_NAME": {
+        "text": "Should Be Worth It - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_15_2_NAME": {
+        "text": "Should Be Worth It - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_15_3_NAME": {
+        "text": "Should Be Worth It - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_15_4_NAME": {
+        "text": "Should Be Worth It - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_15_5_NAME": {
+        "text": "Should Be Worth It - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_15_6_NAME": {
+        "text": "Should Be Worth It - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_16_1_DESC": {
+        "text": "Converted Ring Option {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_16_1_NAME": {
+        "text": "Ring Changer - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_16_2_NAME": {
+        "text": "Ring Changer - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_16_3_NAME": {
+        "text": "Ring Changer - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_16_4_NAME": {
+        "text": "Ring Changer - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_16_5_NAME": {
+        "text": "Ring Changer - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_16_6_NAME": {
+        "text": "Ring Changer - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_17_1_DESC": {
+        "text": "Converted Ring Rank {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_17_1_NAME": {
+        "text": "Elitist - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_17_2_NAME": {
+        "text": "Elitist - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_17_3_NAME": {
+        "text": "Elitist - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_17_4_NAME": {
+        "text": "Elitist - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_17_5_NAME": {
+        "text": "Elitist - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_17_6_NAME": {
+        "text": "Elitist - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_1_1_DESC": {
+        "text": "Ate {0} Breads.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_1_1_NAME": {
+        "text": "The Best Defense Is a Good Offense - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_1_2_NAME": {
+        "text": "The Best Defense Is a Good Offense - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_1_3_NAME": {
+        "text": "The Best Defense Is a Good Offense - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_1_4_NAME": {
+        "text": "The Best Defense Is a Good Offense - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_1_5_NAME": {
+        "text": "The Best Defense Is a Good Offense - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_1_6_NAME": {
+        "text": "The Best Defense Is a Good Offense - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_2_1_DESC": {
+        "text": "Ate {0} Berries.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_2_1_NAME": {
+        "text": "Stronger Heroes! - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_2_2_NAME": {
+        "text": "Stronger Heroes! - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_2_3_NAME": {
+        "text": "Stronger Heroes! - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_2_4_NAME": {
+        "text": "Stronger Heroes! - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_2_5_NAME": {
+        "text": "Stronger Heroes! - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_2_6_NAME": {
+        "text": "Stronger Heroes! - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_3_1_DESC": {
+        "text": "Reached a total Inheritance Level of {0}.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_3_1_NAME": {
+        "text": "The Power of Ancient Heroes - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_3_2_NAME": {
+        "text": "The Power of Ancient Heroes - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_3_3_NAME": {
+        "text": "The Power of Ancient Heroes - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_3_4_NAME": {
+        "text": "The Power of Ancient Heroes - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_3_5_NAME": {
+        "text": "The Power of Ancient Heroes - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_3_6_NAME": {
+        "text": "The Power of Ancient Heroes - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_4_1_DESC": {
+        "text": "Promoted a Hero {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_4_1_NAME": {
+        "text": "Strength Unleashed! - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_4_2_NAME": {
+        "text": "Strength Unleashed! - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_4_3_NAME": {
+        "text": "Strength Unleashed! - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_4_4_NAME": {
+        "text": "Strength Unleashed! - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_4_5_NAME": {
+        "text": "Strength Unleashed! - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_4_6_NAME": {
+        "text": "Strength Unleashed! - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_5_1_DESC": {
+        "text": "Transferred a Special Skill with success {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_5_1_NAME": {
+        "text": "Transfer and Learn - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_5_2_NAME": {
+        "text": "Transfer and Learn - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_5_3_NAME": {
+        "text": "Transfer and Learn - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_5_4_NAME": {
+        "text": "Transfer and Learn - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_5_5_NAME": {
+        "text": "Transfer and Learn - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_5_6_NAME": {
+        "text": "Transfer and Learn - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_6_1_DESC": {
+        "text": "Transferred a Special Skill with Great Success {0} times!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_6_1_NAME": {
+        "text": "Worth the Research! - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_6_2_NAME": {
+        "text": "Worth the Research! - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_6_3_NAME": {
+        "text": "Worth the Research! - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_6_4_NAME": {
+        "text": "Worth the Research! - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_6_5_NAME": {
+        "text": "Worth the Research! - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_6_6_NAME": {
+        "text": "Worth the Research! - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_7_1_DESC": {
+        "text": "Upgraded a Weapon with success {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_7_1_NAME": {
+        "text": "Adding Wings to a Tiger - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_7_2_NAME": {
+        "text": "Adding Wings to a Tiger - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_7_3_NAME": {
+        "text": "Adding Wings to a Tiger - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_7_4_NAME": {
+        "text": "Adding Wings to a Tiger - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_7_5_NAME": {
+        "text": "Adding Wings to a Tiger - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_7_6_NAME": {
+        "text": "Adding Wings to a Tiger - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_8_1_DESC": {
+        "text": "Upgraded a Weapon with Great Success {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_8_1_NAME": {
+        "text": "Great~ Success!! - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_8_2_NAME": {
+        "text": "Great~ Success!! - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_8_3_NAME": {
+        "text": "Great~ Success!! - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_8_4_NAME": {
+        "text": "Great~ Success!! - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_8_5_NAME": {
+        "text": "Great~ Success!! - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_8_6_NAME": {
+        "text": "Great~ Success!! - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_9_1_DESC": {
+        "text": "Changed {0} Weapon Options.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_9_1_NAME": {
+        "text": "This Isn't It... - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_9_2_NAME": {
+        "text": "This Isn't It... - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_9_3_NAME": {
+        "text": "This Isn't It... - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_9_4_NAME": {
+        "text": "This Isn't It... - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_9_5_NAME": {
+        "text": "This Isn't It... - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_GROWTH_9_6_NAME": {
+        "text": "This Isn't It... - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_10_1_DESC": {
+        "text": "Spread the names of your Heroes throughout the lands of Hasla.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_10_1_NAME": {
+        "text": "Tales of Heroism",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_11_1_DESC": {
+        "text": "Received a seashell from Seiren.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_11_1_NAME": {
+        "text": "Even Homer Nods",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_12_1_DESC": {
+        "text": "Sent a Hero out of the Town screen by a difficult route.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_12_1_NAME": {
+        "text": "It's Just Like Magic!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_13_1_DESC": {
+        "text": "Activated a secret code full of nostalgia for the past!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_13_1_NAME": {
+        "text": "Secret Code of Confidentiality",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_14_1_DESC": {
+        "text": "Sent a Hero out of the Town screen by an even more difficult route.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_14_1_NAME": {
+        "text": "It's Even More Like Magic!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_15_1_DESC": {
+        "text": "Discovered the elegy left behind by the first Priestess of Ryu.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_15_1_NAME": {
+        "text": "Kurenai's Elegy",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_16_1_DESC": {
+        "text": "Cooked up a delicacy for Fergus.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_16_1_NAME": {
+        "text": "Master Chef",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_17_1_DESC": {
+        "text": "Discovered a clue from the secret company L.C.'s underground dungeon.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_17_1_NAME": {
+        "text": "Secret Company L.C. - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_18_1_NAME": {
+        "text": "Secret Company L.C. - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_19_1_NAME": {
+        "text": "Secret Company L.C. - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_1_1_DESC": {
+        "text": "Freed Soltar and the Fortress of Souls.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_1_1_NAME": {
+        "text": "Savior of Valencia",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_20_1_DESC": {
+        "text": "Rescued Gorillamansion from the underground dungeon and received a gift of gratitude.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_20_1_NAME": {
+        "text": "Saving Gorillamansion",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_21_1_DESC": {
+        "text": "Discovered Draco's egg.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_21_1_NAME": {
+        "text": "It Wasn't a Chest?",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_22_1_DESC": {
+        "text": "Helped a baby Draco hatch from its egg.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_22_1_NAME": {
+        "text": "Hatchling",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_23_1_DESC": {
+        "text": "Took care of baby Draco and proudly watched it spread its wings for the first time.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_23_1_NAME": {
+        "text": "Childhood's Beginning",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_24_1_DESC": {
+        "text": "Witnessed a goal that will go down in history.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_24_1_NAME": {
+        "text": "A Clean Kick!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_25_1_DESC": {
+        "text": "Received a gift from a grateful fish for letting it go.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_25_1_NAME": {
+        "text": "Merciful Release",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_26_1_DESC": {
+        "text": "Received a visit from Fishernyan's little brother.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_26_1_NAME": {
+        "text": "Brotherhood of Cats",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_27_1_DESC": {
+        "text": "Received a harpoon from Fishernyan.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_27_1_NAME": {
+        "text": "Cat on the Tin Harpoon",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_28_1_DESC": {
+        "text": "Thank you always. We love you!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_28_1_NAME": {
+        "text": "The True Heroes of Hasla",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_29_1_DESC": {
+        "text": "Found a doll crafted in the likeness of Lednas.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_29_1_NAME": {
+        "text": "Who Made This?!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_2_1_DESC": {
+        "text": "Made a body pillow of your favorite Hero.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_2_1_NAME": {
+        "text": "Together Forever and Ever",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_30_1_DESC": {
+        "text": "Knocked out your Heroes after battle.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_30_1_NAME": {
+        "text": "Put Your Feet Up",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_31_1_DESC": {
+        "text": "Acquired a leotard left behind by Omega.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_31_1_NAME": {
+        "text": "Stored Away Dreams",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_32_1_DESC": {
+        "text": "Collected all the fragments of the key to the Seal.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_32_1_NAME": {
+        "text": "Strength of the Winter Wind",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_33_1_DESC": {
+        "text": "Received a helping hand from a master farmer to save the Orchard.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_33_1_NAME": {
+        "text": "Demeter's Ambition",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_34_1_DESC": {
+        "text": "Adopted many animals to populate your Orchard.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_34_1_NAME": {
+        "text": "Our Zoo",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_35_1_DESC": {
+        "text": "Showed off a scarecrow to Heroes who hate scarecrows.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_35_1_NAME": {
+        "text": "Formidophobia",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_36_1_DESC": {
+        "text": "Thank you for another year. We love you!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_36_1_NAME": {
+        "text": "Thank You for Protecting Hasla",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_37_1_DESC": {
+        "text": "Received a tea set from Pandora.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_37_1_NAME": {
+        "text": "... Want a Drink?",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_38_1_DESC": {
+        "text": "Kept bothering Pandora until she kicked you out of the Library.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_38_1_NAME": {
+        "text": "..... Get Out...",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_39_1_DESC": {
+        "text": "Retrieved a letter from the Dimension of Time and Space.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_39_1_NAME": {
+        "text": "Longing",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_3_1_DESC": {
+        "text": "Proved the strength of your Heroes to a state-of-the-art scarecrow.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_3_1_NAME": {
+        "text": "How Did You Do That?",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_40_1_DESC": {
+        "text": "Acquired a music box that plays a good tune.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_40_1_NAME": {
+        "text": "Happy Holidays",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_4_1_DESC": {
+        "text": "Bore witness to the beautiful moment when Altair and Rebecca first met on the battlefield.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_4_1_NAME": {
+        "text": "A Joyful Reunion",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_5_1_DESC": {
+        "text": "Discovered Remi's pile of secret treasure.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_5_1_NAME": {
+        "text": "A True Friend",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_6_1_DESC": {
+        "text": "Helped Spiny secretly take Spyro's gas mask.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_6_1_NAME": {
+        "text": "Secret Admirer",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_7_1_DESC": {
+        "text": "Witnessed a conversation between Heroes and then received a mysterious letter.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_7_1_NAME": {
+        "text": "Unknown Sender",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_8_1_DESC": {
+        "text": "Witnessed a suspicious scene in the Orchard.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_8_1_NAME": {
+        "text": "Work, You Fools!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_9_1_DESC": {
+        "text": "Became the Traveling Merchant's VIP customer.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_HIDDEN_9_1_NAME": {
+        "text": "A Clean Sweep",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_10_1_DESC": {
+        "text": "Crafted a Recipe at the Alchemy Lab {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_10_1_NAME": {
+        "text": "Haslaean Atelie - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_10_2_NAME": {
+        "text": "Haslaean Atelie - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_10_3_NAME": {
+        "text": "Haslaean Atelie - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_10_4_NAME": {
+        "text": "Haslaean Atelie - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_10_5_NAME": {
+        "text": "Haslaean Atelie - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_10_6_NAME": {
+        "text": "Haslaean Atelie - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_11_1_DESC": {
+        "text": "Harvested Berries {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_11_1_NAME": {
+        "text": "To Plant a Tree - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_11_2_NAME": {
+        "text": "To Plant a Tree - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_11_3_NAME": {
+        "text": "To Plant a Tree - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_11_4_NAME": {
+        "text": "To Plant a Tree - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_11_5_NAME": {
+        "text": "To Plant a Tree - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_11_6_NAME": {
+        "text": "To Plant a Tree - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_1_DESC": {
+        "text": "Fished {0} times.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_1_NAME": {
+        "text": "The Fisher of Hasla - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_2_NAME": {
+        "text": "The Fisher of Hasla - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_3_NAME": {
+        "text": "The Fisher of Hasla - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_4_NAME": {
+        "text": "The Fisher of Hasla - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_5_NAME": {
+        "text": "The Fisher of Hasla - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_6_NAME": {
+        "text": "The Fisher of Hasla - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_7_NAME": {
+        "text": "The Fisher of Hasla - 7",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_12_8_NAME": {
+        "text": "The Fisher of Hasla - 8",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_13_1_DESC": {
+        "text": "Purified {0} Heroes and recruited them.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_13_1_NAME": {
+        "text": "You! Join My Crew! - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_13_2_NAME": {
+        "text": "You! Join My Crew! - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_13_3_NAME": {
+        "text": "You! Join My Crew! - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_13_4_NAME": {
+        "text": "You! Join My Crew! - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_13_5_NAME": {
+        "text": "You! Join My Crew! - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_13_6_NAME": {
+        "text": "You! Join My Crew! - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_10_NAME": {
+        "text": "Let's Go Crusaders! - 10",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_11_NAME": {
+        "text": "Let's Go Crusaders! - 11",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_1_DESC": {
+        "text": "Reached Account Level {0}.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_1_NAME": {
+        "text": "Let's Go Crusaders! - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_2_NAME": {
+        "text": "Let's Go Crusaders! - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_3_NAME": {
+        "text": "Let's Go Crusaders! - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_4_NAME": {
+        "text": "Let's Go Crusaders! - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_5_NAME": {
+        "text": "Let's Go Crusaders! - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_6_NAME": {
+        "text": "Let's Go Crusaders! - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_7_NAME": {
+        "text": "Let's Go Crusaders! - 7",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_8_NAME": {
+        "text": "Let's Go Crusaders! - 8",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_1_9_NAME": {
+        "text": "Let's Go Crusaders! - 9",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_10_DESC": {
+        "text": "Reached Silver Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_10_NAME": {
+        "text": "Shining Silver - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_11_DESC": {
+        "text": "Reached Silver Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_11_NAME": {
+        "text": "Shining Silver - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_12_DESC": {
+        "text": "Reached Gold Frame - Tier 1.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_12_NAME": {
+        "text": "Glittering Gold - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_13_DESC": {
+        "text": "Reached Gold Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_13_NAME": {
+        "text": "Glittering Gold - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_14_DESC": {
+        "text": "Reached Gold Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_14_NAME": {
+        "text": "Glittering Gold - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_15_DESC": {
+        "text": "Reached Gold Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_15_NAME": {
+        "text": "Glittering Gold - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_16_DESC": {
+        "text": "Reached Gold Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_16_NAME": {
+        "text": "Glittering Gold - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_17_DESC": {
+        "text": "Reached Gold Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_17_NAME": {
+        "text": "Glittering Gold - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_18_DESC": {
+        "text": "Reached Purple Frame - Tier 1.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_18_NAME": {
+        "text": "Prized Purple - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_19_DESC": {
+        "text": "Reached Purple Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_19_NAME": {
+        "text": "Prized Purple - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_1_DESC": {
+        "text": "Reached Bronze Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_1_NAME": {
+        "text": "Your Frame - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_20_DESC": {
+        "text": "Reached Purple Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_20_NAME": {
+        "text": "Prized Purple - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_21_DESC": {
+        "text": "Reached Purple Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_21_NAME": {
+        "text": "Prized Purple - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_22_DESC": {
+        "text": "Reached Purple Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_22_NAME": {
+        "text": "Prized Purple - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_23_DESC": {
+        "text": "Reached Purple Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_23_NAME": {
+        "text": "Prized Purple - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_24_DESC": {
+        "text": "Reached Cyan Frame - Tier 1.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_24_NAME": {
+        "text": "Celestial Cyan - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_25_DESC": {
+        "text": "Reached Cyan Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_25_NAME": {
+        "text": "Celestial Cyan - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_26_DESC": {
+        "text": "Reached Cyan Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_26_NAME": {
+        "text": "Celestial Cyan - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_27_DESC": {
+        "text": "Reached Cyan Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_27_NAME": {
+        "text": "Celestial Cyan - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_28_DESC": {
+        "text": "Reached Cyan Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_28_NAME": {
+        "text": "Celestial Cyan - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_29_DESC": {
+        "text": "Reached Cyan Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_29_NAME": {
+        "text": "Celestial Cyan - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_2_DESC": {
+        "text": "Reached Bronze Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_2_NAME": {
+        "text": "Your Frame - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_30_DESC": {
+        "text": "Reached Crimson Frame - Tier 1.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_30_NAME": {
+        "text": "Thicker than Blood - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_31_DESC": {
+        "text": "Reached Crimson Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_31_NAME": {
+        "text": "Thicker than Blood - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_32_DESC": {
+        "text": "Reached Crimson Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_32_NAME": {
+        "text": "Thicker than Blood - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_33_DESC": {
+        "text": "Reached Crimson Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_33_NAME": {
+        "text": "Thicker than Blood - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_34_DESC": {
+        "text": "Reached Crimson Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_34_NAME": {
+        "text": "Thicker than Blood - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_35_DESC": {
+        "text": "Reached Crimson Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_35_NAME": {
+        "text": "Thicker than Blood - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_36_DESC": {
+        "text": "Reached Green Frame - Tier 1.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_36_NAME": {
+        "text": "Eternal Legends - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_37_DESC": {
+        "text": "Reached Green Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_37_NAME": {
+        "text": "Eternal Legends - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_38_DESC": {
+        "text": "Reached Green Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_38_NAME": {
+        "text": "Eternal Legends - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_39_DESC": {
+        "text": "Reached Green Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_39_NAME": {
+        "text": "Eternal Legends - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_3_DESC": {
+        "text": "Reached Bronze Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_3_NAME": {
+        "text": "Your Frame - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_40_DESC": {
+        "text": "Reached Green Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_40_NAME": {
+        "text": "Eternal Legends - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_41_DESC": {
+        "text": "Reached Green Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_41_NAME": {
+        "text": "Eternal Legends - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_42_DESC": {
+        "text": "Reached Azure Frame - Tier 1.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_42_NAME": {
+        "text": "Of Honor, Benevolence, Wisdom, and Ardor - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_43_DESC": {
+        "text": "Reached Azure Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_43_NAME": {
+        "text": "Of Honor, Benevolence, Wisdom, and Ardor - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_44_DESC": {
+        "text": "Reached Azure Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_44_NAME": {
+        "text": "Of Honor, Benevolence, Wisdom, and Ardor - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_45_DESC": {
+        "text": "Reached Azure Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_45_NAME": {
+        "text": "Of Honor, Benevolence, Wisdom, and Ardor - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_46_DESC": {
+        "text": "Reached Azure Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_46_NAME": {
+        "text": "Of Honor, Benevolence, Wisdom, and Ardor - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_47_DESC": {
+        "text": "Reached Azure Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_47_NAME": {
+        "text": "Of Honor, Benevolence, Wisdom, and Ardor - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_4_DESC": {
+        "text": "Reached Bronze Frame - Tier 5.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_4_NAME": {
+        "text": "Your Frame - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_5_DESC": {
+        "text": "Reached Bronze Frame - Tier 6.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_5_NAME": {
+        "text": "Your Frame - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_6_DESC": {
+        "text": "Reached Silver Frame - Tier 1.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_6_NAME": {
+        "text": "Shining Silver - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_7_DESC": {
+        "text": "Reached Silver Frame - Tier 2.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_7_NAME": {
+        "text": "Shining Silver - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_8_DESC": {
+        "text": "Reached Silver Frame - Tier 3.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_8_NAME": {
+        "text": "Shining Silver - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_9_DESC": {
+        "text": "Reached Silver Frame - Tier 4.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_2_9_NAME": {
+        "text": "Shining Silver - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_3_1_DESC": {
+        "text": "Retired {0} Heroes back to the Empire.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_3_1_NAME": {
+        "text": "Homebound - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_3_2_NAME": {
+        "text": "Homebound - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_3_3_NAME": {
+        "text": "Homebound - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_3_4_NAME": {
+        "text": "Homebound - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_3_5_NAME": {
+        "text": "Homebound - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_3_6_NAME": {
+        "text": "Homebound - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_4_1_DESC": {
+        "text": "Sent {0} Legendary Heroes to Reinforce a faction.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_4_1_NAME": {
+        "text": "Legendary Support - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_4_2_NAME": {
+        "text": "Legendary Support - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_4_3_NAME": {
+        "text": "Legendary Support - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_4_4_NAME": {
+        "text": "Legendary Support - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_4_5_NAME": {
+        "text": "Legendary Support - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_5_1_DESC": {
+        "text": "Sent {0} Contract Heroes to Reinforce a faction.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_5_1_NAME": {
+        "text": "Contracts for Champions - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_5_2_NAME": {
+        "text": "Contracts for Champions - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_5_3_NAME": {
+        "text": "Contracts for Champions - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_5_4_NAME": {
+        "text": "Contracts for Champions - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_5_5_NAME": {
+        "text": "Contracts for Champions - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_6_1_DESC": {
+        "text": "Sent {0} Promote Heroes to Reinforce a faction.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_6_1_NAME": {
+        "text": "For Whom Does the Hero Promote - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_6_2_NAME": {
+        "text": "For Whom Does the Hero Promote - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_6_3_NAME": {
+        "text": "For Whom Does the Hero Promote - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_6_4_NAME": {
+        "text": "For Whom Does the Hero Promote - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_6_5_NAME": {
+        "text": "For Whom Does the Hero Promote - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_7_1_DESC": {
+        "text": "Sent {0} Hidden Heroes to Reinforce a faction.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_7_1_NAME": {
+        "text": "Hasla's Hidden Heroes - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_7_2_NAME": {
+        "text": "Hasla's Hidden Heroes - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_7_3_NAME": {
+        "text": "Hasla's Hidden Heroes - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_7_4_NAME": {
+        "text": "Hasla's Hidden Heroes - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_7_5_NAME": {
+        "text": "Hasla's Hidden Heroes - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_8_1_DESC": {
+        "text": "Sent {0} Otherworld Heroes to Reinforce a faction.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_8_1_NAME": {
+        "text": "Migrating Birds of Hasla - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_8_2_NAME": {
+        "text": "Migrating Birds of Hasla - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_8_3_NAME": {
+        "text": "Migrating Birds of Hasla - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_8_4_NAME": {
+        "text": "Migrating Birds of Hasla - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_8_5_NAME": {
+        "text": "Migrating Birds of Hasla - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_9_1_DESC": {
+        "text": "Sent {0} Support Heroes to Reinforce a faction.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_9_1_NAME": {
+        "text": "So Long, Farewell... - 1",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_9_2_NAME": {
+        "text": "So Long, Farewell... - 2",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_9_3_NAME": {
+        "text": "So Long, Farewell... - 3",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_9_4_NAME": {
+        "text": "So Long, Farewell... - 4",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_9_5_NAME": {
+        "text": "So Long, Farewell... - 5",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_RECORD_USER_9_6_NAME": {
+        "text": "So Long, Farewell... - 6",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_REMAIN_POSTFIX": {
+        "text": "Left",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_REMAIN_PREFIX": {
+        "text": "Time left:",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_RAN_DESC": {
+        "text": "Ran shoots bolts to enemies before her to deal #physical damage# equal to [500/600/800]% of her attack power, according to the chain number used.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_RAN_LV2_SUBDESC": {
+        "text": "Ran leaves one 'Mark of the Night Raven' to all enemies hit by 'Talon of the Night Raven' (maximum 6 stacks). Each 'Mark of the Night Raven' lasts 6 seconds. With every 'Mark of the Night Raven' affecting the enemy, Ran's attack speed is increased by 10%.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_RAN_LV3_SUBDESC": {
+        "text": "Ran leaves one 'Mark of the Night Raven' to all enemies hit by 'Talon of the Night Raven' (maximum 6 stacks). Each 'Mark of the Night Raven' lasts 6 seconds. With every 'Mark of the Night Raven' affecting the enemy, Ran's attack speed is increased by 20%.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_RAN_NAME": {
+        "text": "Talon of the Night Raven",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_AR_RAN_SUBNAME": {
+        "text": "Mark of the Night Raven",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GWEN_DESC": {
+        "text": "Gwen dashes forward to deal #physical damage# equal to [500/800/2000]% of her attack power to enemies within her range, according to the chain number used. If there are no enemies within her range, Gwen uses 'Spinning Storm' to deal #physical damage# equal to [500/800/2000]% of her attack power, according to the chain number used.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GWEN_LV2_SUBDESC": {
+        "text": "Upon using another ally's 3-chain, Gwen's next block skill will activate with the power of a 3-chain.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GWEN_LV3_SUBDESC": {
+        "text": "Upon using another ally's 3-chain, Gwen's next two blocks skill will activate with the power of a 3-chain.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GWEN_NAME": {
+        "text": "Successive Slash",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_GWEN_SUBNAME": {
+        "text": "Faith and Honor",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SKILL_WA_RANNO_SPDESC": {
+        "text": "Primitive Power",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SOUL_HARD_REWARD_03_NAME": {
+        "text": "Raging Soul Fragment Bundle",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SOUTHSEA_FISHING_DESC": {
+        "text": "I hear it's now possible to fish\nin the tropical waters of the South Sea, nya!\nHeroes say it's a lot cooler there than the Volcano!",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_SOUTHSEA_FISHING_NAME": {
+        "text": "South Sea",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_TIME_DAY": {
+        "text": "{0} day",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_TIME_HOUR": {
+        "text": "{0} hour",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_TIME_MINUTE": {
+        "text": "{0} minute",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_TIME_SECOND": {
+        "text": "{0} second",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_TIP_LIBRARY_RECORD_1": {
+        "text": "Pandora is looking for a competent Captain who will help her manage records in the Library of Dimensions.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_TIP_LIBRARY_RECORD_2": {
+        "text": "You must enter your record into the Library of Dimensions in order to receive its reward.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_TURN_OFF": {
+        "text": "Turn Off",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WALL_CHEN_SKY_01_DESC": {
+        "text": "Enter a room adorned with these walls, and you'll feel as if you've been teleported under the clear blue skies of Chen. Can that be a gentle breeze caressing your neck?",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WALL_CHEN_SKY_01_NAME": {
+        "text": "Chen Sky Wall",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_29_DESC": {
+        "text": "(Passive Enhanced) With every 'Mark of the Night Raven' affecting the enemy, Ran's attack speed is increased by 20%. Each 'Mark of the Night Raven' additionally decreases the affected enemy's armor by 5%. (Maximum 6 stacks)",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_4_29_NAME": {
+        "text": "Mercenary Bow",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_29_DESC": {
+        "text": "(Passive Enhanced) With every 'Mark of the Night Raven' affecting the enemy, Ran's attack speed is increased by 20%. Each 'Mark of the Night Raven' additionally decreases the affected enemy's armor by 5%. (Maximum 6 stacks)",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_5_29_NAME": {
+        "text": "Broken Talon",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_29_DESC": {
+        "text": "(Passive Enhanced) With every 'Mark of the Night Raven' affecting the enemy, Ran's attack speed is increased by 20%. Each 'Mark of the Night Raven' additionally decreases the affected enemy's armor by 5%. (Maximum 6 stacks)\n(Passive Added) Upon using a block skill, Ran summons an 'Illusion of the Night Raven' that copies Ran's every move for 12 seconds. Ran's auto attacks are changed to 1-chain block skills for the duration of 'Illusion of the Night Raven.' (Cooltime: 12 seconds)\n(Passive Added) Upon dealing a critical hit to an enemy affected by 'Mark of the Night Raven' during the 'Illusion of the Night Raven,' Ran uses 'Illusion Blade' to deal area physical damage equal to 1000% of her attack power to the marked enemy and their surroundings. (Cooltime: 1 second)",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_BO_CHA_6_29_NAME": {
+        "text": "Nevermore",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_29_DESC": {
+        "text": "(Passive Enhanced) Upon using another ally's 3-chain, Gwen immediately uses her block skill with the power of a 3-chain.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_4_29_NAME": {
+        "text": "Crude Lion Steel Blade",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_29_DESC": {
+        "text": "(Passive Enhanced) Upon using another ally's 3-chain, Gwen immediately uses her block skill with the power of a 3-chain.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_5_29_NAME": {
+        "text": "Lion Steel Blade",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_29_DESC": {
+        "text": "(Passive Enhanced) Upon using another ally's 3-chain, Gwen immediately uses her block skill with the power of a 3-chain.\n(Passive Added) Upon using another ally leader's 3-chain, Gwen increases her own attack power by 100% and receives all damage targeted at the entire party. However, she receives 20% more damage. This effect is maintained until it canceled.",
+        "version": "4.22.0",
+        "original": true
+    },
+    "TEXT_WEP_LEGEND_SW_CHA_6_29_NAME": {
+        "text": "Holy Blade of Elanuma",
+        "version": "4.22.0",
         "original": true
     }
 }

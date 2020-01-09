@@ -332,6 +332,9 @@
     "TEXT_CHA_WI_6_14_NAME": [
         "portrait_benjamin_default"
     ],
+    "TEXT_CHA_WI_6_28_NAME": [
+        "portrait_bihwa_default"
+    ],
     "TEXT_CHA_WA_6_18_NAME": [
         "portrait_bihyeongrang_default"
     ],
@@ -420,6 +423,12 @@
     ],
     "TEXT_CHA_WI_6_25_NAME": [
         "portrait_grimreaper_default"
+    ],
+    "TEXT_CHA_PR_6_28_NAME": [
+        "portrait_gueronica_default"
+    ],
+    "TEXT_CHA_WA_6_29_NAME": [
+        "portrait_gwen_default"
     ],
     "TEXT_CHA_WI_6_20_NAME": [
         "portrait_haedal_default"
@@ -559,6 +568,9 @@
     "TEXT_CHA_PR_6_21_NAME": [
         "portrait_marpei_default"
     ],
+    "TEXT_CHA_PR_6_29_NAME": [
+        "portrait_mary_default"
+    ],
     "TEXT_CHA_HU_6_2_NAME": [
         "portrait_maxi_default"
     ],
@@ -625,6 +637,9 @@
     "TEXT_CHA_AR_6_16_NAME": [
         "portrait_rahima_default"
     ],
+    "TEXT_CHA_AR_6_29_NAME": [
+        "portrait_ran_default"
+    ],
     "TEXT_CHA_WA_6_23_NAME": [
         "portrait_randgrid_default"
     ],
@@ -672,6 +687,9 @@
     ],
     "TEXT_CHA_HU_6_8_NAME": [
         "portrait_sentinelr_default"
+    ],
+    "TEXT_CHA_PA_6_29_NAME": [
+        "portrait_seomoon_default"
     ],
     "TEXT_CHA_AR_6_21_NAME": [
         "portrait_set_default"

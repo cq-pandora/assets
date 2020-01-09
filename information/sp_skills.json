@@ -601,6 +601,19 @@
         ]
     },
     {
+        "id": "text_skill_hu_orga_spdesc",
+        "name": "TEXT_SKILL_HU_ORGA_SPDESC",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_ORGA_SPDESC",
+                "short_description": "TEXT_SKILL_HU_ORGA_SPDESC",
+                "image": "ui_skill_icon_hunter_orga_ancient"
+            }
+        ]
+    },
+    {
         "id": "text_skill_hu_quicken_name",
         "name": "TEXT_SKILL_HU_QUICKEN_NAME",
         "class": "hunter",
@@ -1593,6 +1606,32 @@
                 "description": "TEXT_SKILL_WA_FIRESHOT_LV3_DESC",
                 "short_description": "TEXT_PATTERN_PHYS_1_SPDESC",
                 "image": "ui_skill_icon_warrior_fireblade"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_ranno_spdesc",
+        "name": "TEXT_SKILL_WA_RANNO_SPDESC",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "short_description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "image": "ui_skill_icon_warrior_ranno_ancient"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_ranno_spdesc",
+        "name": "TEXT_SKILL_WA_RANNO_SPDESC",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "short_description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "image": "ui_skill_icon_warrior_ranno_ancient"
             }
         ]
     },

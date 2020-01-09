@@ -1084,10 +1084,6 @@
             {
                 "type": "ITEM_FISHCOIN",
                 "amount": 37
-            },
-            {
-                "type": "RANDOMBOX_FIFTH_ROCKFISH",
-                "amount": 1
             }
         ]
     },
@@ -2027,6 +2023,176 @@
             {
                 "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T2",
                 "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_1_CHOCOLATECHIPSTARFISH",
+        "name": "TEXT_FISH_SEA_1_CHOCOLATECHIPSTARFISH_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "normal",
+        "grade": 1,
+        "starts_from": 4,
+        "image": "fish_sea_1_chocolatechipstarfish",
+        "exp": 40,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_2_BLUERINGEDOCTOPUS",
+        "name": "TEXT_FISH_SEA_2_BLUERINGEDOCTOPUS_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "normal",
+        "grade": 2,
+        "starts_from": 4,
+        "image": "fish_sea_2_blueringedoctopus",
+        "exp": 198,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_2_BLUEDAMSEL",
+        "name": "TEXT_FISH_SEA_2_BLUEDAMSEL_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "normal",
+        "grade": 2,
+        "starts_from": 1.2,
+        "image": "fish_sea_2_bluedamsel",
+        "exp": 198,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 22
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_4_BLUETANG",
+        "name": "TEXT_FISH_SEA_4_BLUETANG_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "normal",
+        "grade": 4,
+        "starts_from": 9,
+        "image": "fish_sea_4_bluetang",
+        "exp": 1944,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 76
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_3_CLOWNFISH",
+        "name": "TEXT_FISH_SEA_3_CLOWNFISH_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "normal",
+        "grade": 3,
+        "starts_from": 3,
+        "image": "fish_sea_3_clownfish",
+        "exp": 818,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 55
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_3_HASELADAMSEL",
+        "name": "TEXT_FISH_SEA_3_HASELADAMSEL_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "normal",
+        "grade": 3,
+        "starts_from": 6,
+        "image": "fish_sea_3_haseladamsel",
+        "exp": 818,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 55
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_5_YELLOWTANG",
+        "name": "TEXT_FISH_SEA_5_YELLOWTANG_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "normal",
+        "grade": 5,
+        "starts_from": 6,
+        "image": "fish_sea_5_yellowtang",
+        "exp": 3974,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 100
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_5_COPPERBANDBUTTERFLY",
+        "name": "TEXT_FISH_SEA_5_COPPERBANDBUTTERFLY_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 5,
+        "starts_from": 4,
+        "image": "fish_sea_5_copperbandbutterfly",
+        "exp": 6762,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 3640
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_6_FLAMEANGEL",
+        "name": "TEXT_FISH_SEA_6_FLAMEANGEL_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "hero",
+        "grade": 6,
+        "starts_from": 2,
+        "image": "fish_sea_6_flameangel",
+        "exp": 11340,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 4800
+            }
+        ]
+    },
+    {
+        "id": "FISH_SEA_6_EMPERORANGEL",
+        "name": "TEXT_FISH_SEA_6_EMPERORANGEL_NAME",
+        "habitat": "sea",
+        "type": "fish",
+        "rank": "boss",
+        "grade": 6,
+        "starts_from": 8,
+        "image": "fish_sea_6_emperorangel",
+        "exp": 11340,
+        "rewards": [
+            {
+                "type": "ITEM_FISHCOIN",
+                "amount": 9600
             }
         ]
     }
