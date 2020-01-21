@@ -5,6 +5,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_1",
@@ -94,6 +95,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_2",
@@ -183,6 +185,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_2_3",
@@ -246,6 +249,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_4",
@@ -335,6 +339,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_5",
@@ -424,6 +429,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_3_6",
@@ -461,6 +467,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_7",
@@ -550,6 +557,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_8",
@@ -639,6 +647,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_9",
@@ -702,6 +711,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_10",
@@ -739,6 +749,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_11",
@@ -828,6 +839,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_12",
@@ -891,6 +903,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_1_13",
@@ -980,6 +993,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_2_14",
@@ -1043,6 +1057,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_2_15",
@@ -1106,6 +1121,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_2_16",
@@ -1169,6 +1185,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_2_17",
@@ -1232,6 +1249,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_3_18",
@@ -1269,6 +1287,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_3_19",
@@ -1306,7 +1325,7 @@
         "class": "archer",
         "type": "legendary",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_AR_1_3",
@@ -1536,7 +1555,7 @@
         "class": "archer",
         "type": "legendary",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_AR_1_6",
@@ -1775,6 +1794,7 @@
         "class": "archer",
         "type": "secret",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_AR_3_10",
@@ -1812,7 +1832,7 @@
         "class": "archer",
         "type": "secret",
         "gender": "male",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_AR_4_12",
@@ -1943,6 +1963,7 @@
         "class": "archer",
         "type": "secret",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_AR_LIMITED_4_1",
@@ -2073,7 +2094,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_AR_4_1",
@@ -2224,7 +2245,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_AR_4_7",
@@ -2376,7 +2397,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_AR_4_9",
@@ -2527,7 +2548,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "male",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_AR_4_10",
@@ -2678,7 +2699,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_AR_4_13",
@@ -2829,7 +2850,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_AR_4_15",
@@ -2980,7 +3001,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_AR_4_16",
@@ -3131,7 +3152,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_AR_4_18",
@@ -3281,7 +3302,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "male",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_AR_4_19",
@@ -3431,7 +3452,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "male",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_AR_4_21",
@@ -3572,7 +3593,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_AR_4_22",
@@ -3731,7 +3752,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_AR_4_24",
@@ -3872,7 +3893,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_AR_4_25",
@@ -4013,7 +4034,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_AR_4_26",
@@ -4154,7 +4175,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_AR_4_28",
@@ -4295,7 +4316,7 @@
         "class": "archer",
         "type": "contract",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_AR_4_29",
@@ -4426,7 +4447,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_AR_4_2",
@@ -4578,7 +4599,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_AR_4_4",
@@ -4730,7 +4751,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_AR_4_5",
@@ -4882,7 +4903,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_AR_4_6",
@@ -5034,7 +5055,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_AR_4_8",
@@ -5185,7 +5206,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_AR_4_14",
@@ -5346,7 +5367,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_AR_4_17",
@@ -5497,7 +5518,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_AR_4_20",
@@ -5638,7 +5659,7 @@
         "class": "archer",
         "type": "promotable",
         "gender": "male",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_AR_4_23",
@@ -5788,6 +5809,7 @@
         "class": "archer",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_AR_LIMITED_GG_4_1",
@@ -5918,6 +5940,7 @@
         "class": "archer",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_AR_LIMITED_GS_4_06",
@@ -6048,6 +6071,7 @@
         "class": "archer",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_AR_LIMITED_KOF2_4_MAI",
@@ -6178,6 +6202,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_1",
@@ -6293,6 +6318,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_2",
@@ -6382,6 +6408,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_2_3",
@@ -6445,6 +6472,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_4",
@@ -6534,6 +6562,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_5",
@@ -6623,6 +6652,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_3_6",
@@ -6660,6 +6690,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_7",
@@ -6749,6 +6780,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_8",
@@ -6838,6 +6870,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_9",
@@ -6901,6 +6934,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_10",
@@ -6938,6 +6972,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_11",
@@ -7027,6 +7062,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_12",
@@ -7090,6 +7126,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_1_13",
@@ -7179,6 +7216,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_2_14",
@@ -7242,6 +7280,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_2_15",
@@ -7305,6 +7344,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_2_16",
@@ -7368,6 +7408,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_2_17",
@@ -7431,6 +7472,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_3_18",
@@ -7468,6 +7510,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_3_19",
@@ -7505,7 +7548,7 @@
         "class": "hunter",
         "type": "legendary",
         "gender": "female",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_HU_1_3",
@@ -7745,7 +7788,7 @@
         "class": "hunter",
         "type": "legendary",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_HU_1_6",
@@ -8084,6 +8127,7 @@
         "class": "hunter",
         "type": "secret",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_HU_3_10",
@@ -8199,7 +8243,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_4_4",
@@ -8350,7 +8394,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_HU_4_7",
@@ -8502,7 +8546,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_HU_4_9",
@@ -8654,7 +8698,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_HU_4_10",
@@ -8804,7 +8848,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_HU_4_12",
@@ -8946,7 +8990,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_HU_4_13",
@@ -9097,7 +9141,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_HU_4_15",
@@ -9248,7 +9292,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_HU_4_16",
@@ -9400,7 +9444,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_HU_4_18",
@@ -9541,7 +9585,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_HU_4_19",
@@ -9691,7 +9735,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_HU_4_21",
@@ -9832,7 +9876,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_HU_4_22",
@@ -9973,7 +10017,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_HU_4_24",
@@ -10114,7 +10158,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_HU_4_25",
@@ -10255,7 +10299,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_HU_4_26",
@@ -10396,7 +10440,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_HU_4_28",
@@ -10537,7 +10581,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_ARMOR_4_1",
@@ -10668,7 +10712,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_ARMOR_4_2",
@@ -10799,7 +10843,7 @@
         "class": "hunter",
         "type": "contract",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_ARMOR_4_3",
@@ -10930,7 +10974,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_HU_4_2",
@@ -11080,7 +11124,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_4_3",
@@ -11232,7 +11276,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_HU_4_5",
@@ -11383,7 +11427,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_HU_4_6",
@@ -11525,7 +11569,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_4_8",
@@ -11667,7 +11711,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_HU_4_14",
@@ -11827,7 +11871,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_HU_4_17",
@@ -11978,7 +12022,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_HU_4_20",
@@ -12128,7 +12172,7 @@
         "class": "hunter",
         "type": "promotable",
         "gender": "male",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_HU_4_23",
@@ -12278,6 +12322,7 @@
         "class": "hunter",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_HU_LIMITED_GG_4_1",
@@ -12408,6 +12453,7 @@
         "class": "hunter",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_HU_LIMITED_KOF1_4_LEONA",
@@ -12538,6 +12584,7 @@
         "class": "hunter",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_HU_LIMITED_RB_4_NORA",
@@ -12689,6 +12736,7 @@
         "class": "hunter",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_HU_LIMITED_RB_4_RUBY",
@@ -12840,6 +12888,7 @@
         "class": "hunter",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_HU_LIMITED_YS8_4_HUMMEL",
@@ -12981,6 +13030,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_1",
@@ -13070,6 +13120,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_2",
@@ -13159,6 +13210,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_2_3",
@@ -13222,6 +13274,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_4",
@@ -13311,6 +13364,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_5",
@@ -13400,6 +13454,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_3_6",
@@ -13437,6 +13492,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_7",
@@ -13526,6 +13582,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_8",
@@ -13615,6 +13672,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_9",
@@ -13678,6 +13736,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_10",
@@ -13715,6 +13774,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_11",
@@ -13804,6 +13864,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_12",
@@ -13867,6 +13928,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_1_13",
@@ -13956,6 +14018,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_2_14",
@@ -14019,6 +14082,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_2_15",
@@ -14082,6 +14146,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_2_16",
@@ -14145,6 +14210,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_2_17",
@@ -14208,6 +14274,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_3_18",
@@ -14245,6 +14312,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_3_19",
@@ -14282,7 +14350,7 @@
         "class": "paladin",
         "type": "legendary",
         "gender": "female",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PA_1_3",
@@ -14512,7 +14580,7 @@
         "class": "paladin",
         "type": "legendary",
         "gender": "male",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_PA_1_6",
@@ -14742,6 +14810,7 @@
         "class": "paladin",
         "type": "secret",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_3_TAPTAP",
@@ -14779,6 +14848,7 @@
         "class": "paladin",
         "type": "secret",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PA_3_10",
@@ -14842,7 +14912,7 @@
         "class": "paladin",
         "type": "secret",
         "gender": "female",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PA_4_12",
@@ -14973,6 +15043,7 @@
         "class": "paladin",
         "type": "secret",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_4_1",
@@ -15103,7 +15174,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_PA_4_1",
@@ -15255,7 +15326,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_PA_4_2",
@@ -15416,7 +15487,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PA_4_3",
@@ -15558,7 +15629,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_PA_4_4",
@@ -15718,7 +15789,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_PA_4_8",
@@ -15870,7 +15941,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PA_4_14",
@@ -16022,7 +16093,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_PA_4_17",
@@ -16164,7 +16235,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "female",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PA_4_20",
@@ -16316,7 +16387,7 @@
         "class": "paladin",
         "type": "promotable",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_PA_4_23",
@@ -16458,7 +16529,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_PA_4_6",
@@ -16600,7 +16671,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_PA_4_7",
@@ -16752,7 +16823,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_PA_4_9",
@@ -16904,7 +16975,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_PA_4_10",
@@ -17055,7 +17126,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PA_4_13",
@@ -17207,7 +17278,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PA_4_15",
@@ -17359,7 +17430,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_PA_4_16",
@@ -17501,7 +17572,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_PA_4_18",
@@ -17653,7 +17724,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_PA_4_19",
@@ -17804,7 +17875,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_PA_4_21",
@@ -17946,7 +18017,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PA_4_22",
@@ -18088,7 +18159,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_PA_4_24",
@@ -18230,7 +18301,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_PA_4_25",
@@ -18372,7 +18443,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_PA_4_26",
@@ -18514,7 +18585,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "female",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PA_4_28",
@@ -18656,7 +18727,7 @@
         "class": "paladin",
         "type": "contract",
         "gender": "male",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PA_4_29",
@@ -18797,6 +18868,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_GG_4_1",
@@ -18927,6 +18999,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_GG_4_2",
@@ -19057,6 +19130,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_GS_4_02",
@@ -19187,6 +19261,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_KOF1_4_BILLY",
@@ -19317,6 +19392,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_KOF2_4_KIM",
@@ -19447,6 +19523,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_KOF2_4_TERRY",
@@ -19577,6 +19654,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_RB_4_PYRRHA",
@@ -19728,6 +19806,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_RB_4_YANG",
@@ -19879,6 +19958,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_RZ_4_03",
@@ -20020,6 +20100,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_SH_4_02",
@@ -20161,6 +20242,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_SH_4_03",
@@ -20302,6 +20384,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_YS8_4_RICOTTA",
@@ -20452,6 +20535,7 @@
         "class": "paladin",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PA_LIMITED_YS8_4_SAHAD",
@@ -20593,6 +20677,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_1",
@@ -20682,6 +20767,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_2",
@@ -20771,6 +20857,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_2_3",
@@ -20834,6 +20921,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_4",
@@ -20923,6 +21011,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_5",
@@ -21012,6 +21101,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_3_6",
@@ -21049,6 +21139,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_7",
@@ -21138,6 +21229,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_8",
@@ -21227,6 +21319,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_9",
@@ -21290,6 +21383,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_10",
@@ -21327,6 +21421,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_11",
@@ -21416,6 +21511,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_12",
@@ -21479,6 +21575,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_1_13",
@@ -21568,6 +21665,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_2_14",
@@ -21631,6 +21729,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_2_15",
@@ -21694,6 +21793,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_2_16",
@@ -21757,6 +21857,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_2_17",
@@ -21820,6 +21921,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_3_18",
@@ -21857,6 +21959,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_3_19",
@@ -21894,7 +21997,7 @@
         "class": "priest",
         "type": "legendary",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_PR_1_3",
@@ -22124,7 +22227,7 @@
         "class": "priest",
         "type": "legendary",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_PR_1_6",
@@ -22363,6 +22466,7 @@
         "class": "priest",
         "type": "secret",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_PR_3_10",
@@ -22452,7 +22556,7 @@
         "class": "priest",
         "type": "secret",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_PR_LIMITED_AUTUMN_4_KAEDE",
@@ -22583,7 +22687,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_PR_4_1",
@@ -22745,7 +22849,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_PR_4_4",
@@ -22896,7 +23000,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_PR_4_5",
@@ -23048,7 +23152,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_PR_4_6",
@@ -23199,7 +23303,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_PR_4_8",
@@ -23350,7 +23454,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_PR_4_14",
@@ -23500,7 +23604,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_PR_4_17",
@@ -23651,7 +23755,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_PR_4_20",
@@ -23802,7 +23906,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_PR_4_23",
@@ -23953,7 +24057,7 @@
         "class": "priest",
         "type": "promotable",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_PR_4_27",
@@ -24095,7 +24199,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_PR_4_3",
@@ -24247,7 +24351,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_PR_4_7",
@@ -24408,7 +24512,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PR_4_9",
@@ -24559,7 +24663,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PR_4_10",
@@ -24711,7 +24815,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PR_4_12",
@@ -24872,7 +24976,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "male",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_PR_4_13",
@@ -25023,7 +25127,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_PR_4_15",
@@ -25174,7 +25278,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "male",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_PR_4_16",
@@ -25315,7 +25419,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_PR_4_18",
@@ -25457,7 +25561,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_PR_4_19",
@@ -25618,7 +25722,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_PR_4_21",
@@ -25770,7 +25874,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PR_4_22",
@@ -25912,7 +26016,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "male",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_PR_4_24",
@@ -26054,7 +26158,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_PR_4_25",
@@ -26205,7 +26309,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_PR_4_26",
@@ -26355,7 +26459,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_PR_4_28",
@@ -26486,7 +26590,7 @@
         "class": "priest",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_PR_4_29",
@@ -26627,6 +26731,7 @@
         "class": "priest",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PR_LIMITED_GG_4_1",
@@ -26757,6 +26862,7 @@
         "class": "priest",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PR_LIMITED_GS_4_03",
@@ -26887,6 +26993,7 @@
         "class": "priest",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PR_LIMITED_GS_4_04",
@@ -27017,6 +27124,7 @@
         "class": "priest",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PR_LIMITED_KOF1_4_KENSOU",
@@ -27147,6 +27255,7 @@
         "class": "priest",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PR_LIMITED_KOF2_4_ATHENA",
@@ -27277,6 +27386,7 @@
         "class": "priest",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_PR_LIMITED_RZ_4_07",
@@ -27418,6 +27528,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_1",
@@ -27507,6 +27618,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_2",
@@ -27596,6 +27708,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_2_3",
@@ -27659,6 +27772,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_4",
@@ -27748,6 +27862,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_5",
@@ -27837,6 +27952,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_3_6",
@@ -27874,6 +27990,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_7",
@@ -27963,6 +28080,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_8",
@@ -28052,6 +28170,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_9",
@@ -28115,6 +28234,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_10",
@@ -28152,6 +28272,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_11",
@@ -28241,6 +28362,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_12",
@@ -28304,6 +28426,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_1_13",
@@ -28393,6 +28516,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_2_14",
@@ -28456,6 +28580,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_2_15",
@@ -28519,6 +28644,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_2_16",
@@ -28582,6 +28708,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_2_17",
@@ -28645,6 +28772,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_3_18",
@@ -28682,6 +28810,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_3_19",
@@ -28719,7 +28848,7 @@
         "class": "warrior",
         "type": "legendary",
         "gender": "male",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WA_1_3",
@@ -28959,7 +29088,7 @@
         "class": "warrior",
         "type": "legendary",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_WA_1_6",
@@ -29189,6 +29318,7 @@
         "class": "warrior",
         "type": "secret",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_3_KURENAI",
@@ -29226,6 +29356,7 @@
         "class": "warrior",
         "type": "secret",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_3_10",
@@ -29263,6 +29394,7 @@
         "class": "warrior",
         "type": "secret",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_SPR_4_TWILLY",
@@ -29393,7 +29525,7 @@
         "class": "warrior",
         "type": "secret",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WA_LIMTED_FOURTH_4_REDNAS",
@@ -29543,7 +29675,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_WA_4_4",
@@ -29703,7 +29835,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_WA_4_7",
@@ -29855,7 +29987,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "male",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_WA_4_9",
@@ -29997,7 +30129,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WA_4_10",
@@ -30149,7 +30281,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "male",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_WA_4_12",
@@ -30300,7 +30432,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WA_4_13",
@@ -30451,7 +30583,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WA_4_15",
@@ -30611,7 +30743,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WA_4_16",
@@ -30752,7 +30884,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "male",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_WA_4_18",
@@ -30904,7 +31036,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WA_4_19",
@@ -31054,7 +31186,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_WA_4_21",
@@ -31205,7 +31337,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_WA_4_22",
@@ -31355,7 +31487,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WA_4_24",
@@ -31505,7 +31637,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_WA_4_25",
@@ -31655,7 +31787,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "male",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_WA_4_26",
@@ -31796,7 +31928,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_WA_4_28",
@@ -31937,7 +32069,7 @@
         "class": "warrior",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WA_4_29",
@@ -32068,7 +32200,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WA_4_2",
@@ -32230,7 +32362,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_WA_4_3",
@@ -32381,7 +32513,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_WA_4_5",
@@ -32533,7 +32665,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_WA_4_6",
@@ -32685,7 +32817,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_WA_4_8",
@@ -32836,7 +32968,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_WA_4_14",
@@ -32987,7 +33119,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
-        "domain": "heroes_of_freedom",
+        "domain": "FREE",
         "forms": [
             {
                 "id": "CHA_WA_4_17",
@@ -33129,7 +33261,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
-        "domain": "roman_republic",
+        "domain": "ROMAN",
         "forms": [
             {
                 "id": "CHA_WA_4_20",
@@ -33279,7 +33411,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_WA_4_23",
@@ -33420,7 +33552,7 @@
         "class": "warrior",
         "type": "promotable",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_WA_4_27",
@@ -33561,6 +33693,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_GG3_4_BAIKEN",
@@ -33691,6 +33824,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_GG_4_1",
@@ -33821,6 +33955,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_GG_4_2",
@@ -33951,6 +34086,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_GG_4_3",
@@ -34081,6 +34217,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_GG_4_4",
@@ -34211,6 +34348,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_GS_4_01",
@@ -34341,6 +34479,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_GS_4_07",
@@ -34471,6 +34610,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_KOF1_4_IORI",
@@ -34601,6 +34741,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_KOF1_4_KYO",
@@ -34731,6 +34872,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_KOF1_4_RUGAL",
@@ -34861,6 +35003,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_KOF2_4_CHRIS",
@@ -34991,6 +35134,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_RB_4_BLAKE",
@@ -35142,6 +35286,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_RB_4_WEISS",
@@ -35293,6 +35438,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_RZ_3_01",
@@ -35330,6 +35476,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_RZ_4_02",
@@ -35471,6 +35618,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_SH_4_01",
@@ -35611,6 +35759,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_YS8_4_ADOL",
@@ -35771,6 +35920,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_YS8_4_DANA",
@@ -35931,6 +36081,7 @@
         "class": "warrior",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_LIMITED_YS8_4_LAXIA",
@@ -36081,6 +36232,7 @@
         "class": "warrior",
         "type": "support",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WA_SUPPORT_3_1",
@@ -36196,6 +36348,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_1",
@@ -36285,6 +36438,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_2",
@@ -36374,6 +36528,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_2_3",
@@ -36437,6 +36592,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_4",
@@ -36526,6 +36682,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_5",
@@ -36615,6 +36772,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_3_6",
@@ -36652,6 +36810,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_7",
@@ -36741,6 +36900,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_8",
@@ -36830,6 +36990,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_9",
@@ -36893,6 +37054,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_10",
@@ -36930,6 +37092,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_11",
@@ -37019,6 +37182,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_12",
@@ -37082,6 +37246,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_1_13",
@@ -37171,6 +37336,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_2_14",
@@ -37234,6 +37400,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_2_15",
@@ -37297,6 +37464,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_2_16",
@@ -37360,6 +37528,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_2_17",
@@ -37423,6 +37592,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_3_18",
@@ -37460,6 +37630,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_3_19",
@@ -37497,7 +37668,7 @@
         "class": "wizard",
         "type": "legendary",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_1_3",
@@ -37726,7 +37897,7 @@
         "class": "wizard",
         "type": "legendary",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_1_6",
@@ -37965,6 +38136,7 @@
         "class": "wizard",
         "type": "secret",
         "gender": "male",
+        "domain": null,
         "forms": [
             {
                 "id": "CHA_WI_3_10",
@@ -38028,7 +38200,7 @@
         "class": "wizard",
         "type": "secret",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_AUTUMN_4_ANZU",
@@ -38159,6 +38331,7 @@
         "class": "wizard",
         "type": "secret",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_FIFTH_4_ANESIDORA",
@@ -38317,6 +38490,7 @@
         "class": "wizard",
         "type": "secret",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_SPR_4_ANNA",
@@ -38447,7 +38621,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_WI_4_1",
@@ -38598,7 +38772,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_WI_4_2",
@@ -38750,7 +38924,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_WI_4_4",
@@ -38901,7 +39075,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_4_6",
@@ -39062,7 +39236,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_WI_4_8",
@@ -39213,7 +39387,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
-        "domain": "neth_empire",
+        "domain": "NETH",
         "forms": [
             {
                 "id": "CHA_WI_4_14",
@@ -39364,7 +39538,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "female",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_WI_4_17",
@@ -39515,7 +39689,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_WI_4_20",
@@ -39665,7 +39839,7 @@
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
-        "domain": "chen",
+        "domain": "CHEN",
         "forms": [
             {
                 "id": "CHA_WI_4_23",
@@ -39806,7 +39980,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_4_5",
@@ -39967,7 +40141,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_4_7",
@@ -40118,7 +40292,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "male",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_WI_4_9",
@@ -40260,7 +40434,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "male",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WI_4_10",
@@ -40411,7 +40585,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "grancia_empire",
+        "domain": "GRAN",
         "forms": [
             {
                 "id": "CHA_WI_4_12",
@@ -40572,7 +40746,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "male",
-        "domain": "order_of_goddess",
+        "domain": "GODDESS",
         "forms": [
             {
                 "id": "CHA_WI_4_13",
@@ -40723,7 +40897,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_WI_4_15",
@@ -40874,7 +41048,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_4_16",
@@ -41025,7 +41199,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_4_18",
@@ -41185,7 +41359,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "pumpkin_city",
+        "domain": "PUMP",
         "forms": [
             {
                 "id": "CHA_WI_4_19",
@@ -41335,7 +41509,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "male",
-        "domain": "tribes_confederation",
+        "domain": "MINO",
         "forms": [
             {
                 "id": "CHA_WI_4_21",
@@ -41485,7 +41659,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "male",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_WI_4_22",
@@ -41626,7 +41800,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "nosgard",
+        "domain": "NOS",
         "forms": [
             {
                 "id": "CHA_WI_4_24",
@@ -41767,7 +41941,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "male",
-        "domain": "sw_alliance",
+        "domain": "WEST",
         "forms": [
             {
                 "id": "CHA_WI_4_25",
@@ -41908,7 +42082,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "ryu",
+        "domain": "EAST",
         "forms": [
             {
                 "id": "CHA_WI_4_26",
@@ -42058,7 +42232,7 @@
         "class": "wizard",
         "type": "contract",
         "gender": "female",
-        "domain": "han",
+        "domain": "HAN",
         "forms": [
             {
                 "id": "CHA_WI_4_28",
@@ -42189,6 +42363,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_4_DEEMO",
@@ -42350,6 +42525,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_GG3_4_DIZZY",
@@ -42480,6 +42656,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_GG_4_1",
@@ -42610,6 +42787,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_GG_4_2",
@@ -42740,6 +42918,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "male",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_GS_4_05",
@@ -42870,6 +43049,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_KOF1_4_CHIZURU",
@@ -43000,6 +43180,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_KOF2_4_SHERMIE",
@@ -43130,6 +43311,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_RZ_4_04",
@@ -43271,6 +43453,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_RZ_4_05",
@@ -43412,6 +43595,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_RZ_4_06",
@@ -43542,6 +43726,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_SH_4_04",
@@ -43672,6 +43857,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_SH_4_05",
@@ -43802,6 +43988,7 @@
         "class": "wizard",
         "type": "collab",
         "gender": "female",
+        "domain": "NONEGROUP",
         "forms": [
             {
                 "id": "CHA_WI_LIMITED_SH_4_06",
