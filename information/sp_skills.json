@@ -294,45 +294,6 @@
         ]
     },
     {
-        "id": "text_skill_af_bread_name",
-        "name": "TEXT_SKILL_AF_BREAD_NAME",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_AF_BREAD_DESC",
-                "short_description": "TEXT_SKILL_AF_BREAD_DESC",
-                "image": "ui_skill_icon_foolsday_01"
-            }
-        ]
-    },
-    {
-        "id": "text_skill_af_block_name",
-        "name": "TEXT_SKILL_AF_BLOCK_NAME",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_AF_BLOCK_DESC",
-                "short_description": "TEXT_SKILL_AF_BLOCK_DESC",
-                "image": "ui_skill_icon_foolsday_03"
-            }
-        ]
-    },
-    {
-        "id": "text_skill_af_speed_name",
-        "name": "TEXT_SKILL_AF_SPEED_NAME",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_AF_SPEED_DESC",
-                "short_description": "TEXT_SKILL_AF_SPEED_DESC",
-                "image": "ui_skill_icon_foolsday_02"
-            }
-        ]
-    },
-    {
         "id": "text_skill_hu_bullet_time_name",
         "name": "TEXT_SKILL_HU_BULLET_TIME_NAME",
         "class": "hunter",
@@ -601,19 +562,6 @@
         ]
     },
     {
-        "id": "text_skill_hu_orga_spdesc",
-        "name": "TEXT_SKILL_HU_ORGA_SPDESC",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_HU_ORGA_SPDESC",
-                "short_description": "TEXT_SKILL_HU_ORGA_SPDESC",
-                "image": "ui_skill_icon_hunter_orga_ancient"
-            }
-        ]
-    },
-    {
         "id": "text_skill_hu_quicken_name",
         "name": "TEXT_SKILL_HU_QUICKEN_NAME",
         "class": "hunter",
@@ -716,31 +664,6 @@
         ]
     },
     {
-        "id": "text_skill_kof_power_max_name",
-        "name": "TEXT_SKILL_KOF_POWER_MAX_NAME",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_KOF_POWER_MAX_LV1_DESC",
-                "short_description": "TEXT_SKILL_KOF_POWER_MAX_SPDESC",
-                "image": "ui_skill_icon_kof_powermax"
-            },
-            {
-                "level": 2,
-                "description": "TEXT_SKILL_KOF_POWER_MAX_LV2_DESC",
-                "short_description": "TEXT_SKILL_KOF_POWER_MAX_SPDESC",
-                "image": "ui_skill_icon_kof_powermax"
-            },
-            {
-                "level": 3,
-                "description": "TEXT_SKILL_KOF_POWER_MAX_LV3_DESC",
-                "short_description": "TEXT_SKILL_KOF_POWER_MAX_SPDESC",
-                "image": "ui_skill_icon_kof_powermax"
-            }
-        ]
-    },
-    {
         "id": "text_skill_pa_avatar_name",
         "name": "TEXT_SKILL_PA_AVATAR_NAME",
         "class": "paladin",
@@ -839,19 +762,6 @@
                 "description": "TEXT_SKILL_PA_BRAVERYROAR_LV5_DESC",
                 "short_description": "TEXT_SKILL_PA_BRAVERYROAR_SPDESC",
                 "image": "ui_skill_icon_paladin_bravery_roar"
-            }
-        ]
-    },
-    {
-        "id": "text_skill_pa_captain_name",
-        "name": "TEXT_SKILL_PA_CAPTAIN_NAME",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_PA_CAPTAIN_DESC",
-                "short_description": "TEXT_SKILL_PA_CAPTAIN_SPDESC",
-                "image": "ui_skill_icon_paladin_captain_robot"
             }
         ]
     },
@@ -1610,32 +1520,6 @@
         ]
     },
     {
-        "id": "text_skill_wa_ranno_spdesc",
-        "name": "TEXT_SKILL_WA_RANNO_SPDESC",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_WA_RANNO_SPDESC",
-                "short_description": "TEXT_SKILL_WA_RANNO_SPDESC",
-                "image": "ui_skill_icon_warrior_ranno_ancient"
-            }
-        ]
-    },
-    {
-        "id": "text_skill_wa_ranno_spdesc",
-        "name": "TEXT_SKILL_WA_RANNO_SPDESC",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 2,
-                "description": "TEXT_SKILL_WA_RANNO_SPDESC",
-                "short_description": "TEXT_SKILL_WA_RANNO_SPDESC",
-                "image": "ui_skill_icon_warrior_ranno_ancient"
-            }
-        ]
-    },
-    {
         "id": "text_skill_wa_whirlwind_name",
         "name": "TEXT_SKILL_WA_WHIRLWIND_NAME",
         "class": "warrior",
@@ -1708,19 +1592,6 @@
                 "description": "TEXT_SKILL_WA_WIND_CLEAVE_LV5_DESC",
                 "short_description": "TEXT_SKILL_WA_WIND_CLEAVE_SPDESC",
                 "image": "ui_skill_icon_warrior_wind_cleave"
-            }
-        ]
-    },
-    {
-        "id": "text_skill_wi_anesidora_name",
-        "name": "TEXT_SKILL_WI_ANESIDORA_NAME",
-        "type": "normal",
-        "forms": [
-            {
-                "level": 1,
-                "description": "TEXT_SKILL_WI_ANESIDORA_NAME",
-                "short_description": "TEXT_SKILL_WI_ANESIDORA_NAME",
-                "image": "ui_skill_icon_wizard_anesidora_spirit"
             }
         ]
     },
