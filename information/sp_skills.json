@@ -1,1 +1,2059 @@
-{}
+[
+    {
+        "id": "text_skill_ar_boomerang_name",
+        "name": "TEXT_SKILL_AR_BOOMERANG_NAME",
+        "class": "archer",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_BOOMERANG_DESC",
+                "short_description": "TEXT_SKILL_AR_BOOMERANG_SPDESC",
+                "image": "ui_skill_icon_archer_boomerang"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_BOOMERANG_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_BOOMERANG_SPDESC",
+                "image": "ui_skill_icon_archer_boomerang"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_BOOMERANG_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_BOOMERANG_SPDESC",
+                "image": "ui_skill_icon_archer_boomerang"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_AR_BOOMERANG_LV4_DESC",
+                "short_description": "TEXT_SKILL_AR_BOOMERANG_SPDESC",
+                "image": "ui_skill_icon_archer_boomerang"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_AR_BOOMERANG_LV5_DESC",
+                "short_description": "TEXT_SKILL_AR_BOOMERANG_SPDESC",
+                "image": "ui_skill_icon_archer_boomerang"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_fastshot_spirit_name",
+        "name": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_NAME",
+        "class": "archer",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_LV1_DESC",
+                "short_description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_archer_fastshot_spirit"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_archer_fastshot_spirit"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_archer_fastshot_spirit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_floatnsting_name",
+        "name": "TEXT_SKILL_AR_FLOATNSTING_NAME",
+        "class": "archer",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_FLOATNSTING_DESC",
+                "short_description": "TEXT_SKILL_AR_FLOATNSTING_SPDESC",
+                "image": "ui_skill_icon_archer_floatnsting"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_FLOATNSTING_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_FLOATNSTING_SPDESC",
+                "image": "ui_skill_icon_archer_floatnsting"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_FLOATNSTING_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_FLOATNSTING_SPDESC",
+                "image": "ui_skill_icon_archer_floatnsting"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_AR_FLOATNSTING_LV4_DESC",
+                "short_description": "TEXT_SKILL_AR_FLOATNSTING_SPDESC",
+                "image": "ui_skill_icon_archer_floatnsting"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_AR_FLOATNSTING_LV5_DESC",
+                "short_description": "TEXT_SKILL_AR_FLOATNSTING_SPDESC",
+                "image": "ui_skill_icon_archer_floatnsting"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_ghost_arrow_name",
+        "name": "TEXT_SKILL_AR_GHOST_ARROW_NAME",
+        "class": "archer",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_GHOST_ARROW_DESC",
+                "short_description": "TEXT_SKILL_AR_GHOST_ARROW_SPDESC",
+                "image": "ui_skill_icon_archer_ghost_arrow"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_GHOST_ARROW_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_GHOST_ARROW_SPDESC",
+                "image": "ui_skill_icon_archer_ghost_arrow"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_GHOST_ARROW_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_GHOST_ARROW_SPDESC",
+                "image": "ui_skill_icon_archer_ghost_arrow"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_knife_storm_name",
+        "name": "TEXT_SKILL_AR_KNIFE_STORM_NAME",
+        "class": "archer",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_KNIFE_STORM_DESC",
+                "short_description": "TEXT_SKILL_AR_KNIFE_STORM_SPDESC",
+                "image": "ui_skill_icon_archer_knife_storm"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_KNIFE_STORM_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_KNIFE_STORM_SPDESC",
+                "image": "ui_skill_icon_archer_knife_storm"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_KNIFE_STORM_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_KNIFE_STORM_SPDESC",
+                "image": "ui_skill_icon_archer_knife_storm"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_AR_KNIFE_STORM_LV4_DESC",
+                "short_description": "TEXT_SKILL_AR_KNIFE_STORM_SPDESC",
+                "image": "ui_skill_icon_archer_knife_storm"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_AR_KNIFE_STORM_LV5_DESC",
+                "short_description": "TEXT_SKILL_AR_KNIFE_STORM_SPDESC",
+                "image": "ui_skill_icon_archer_knife_storm"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_phoenix_arrow_name",
+        "name": "TEXT_SKILL_AR_PHOENIX_ARROW_NAME",
+        "class": "archer",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_PHOENIX_ARROW_DESC",
+                "short_description": "TEXT_SKILL_AR_PHOENIX_ARROW_SPDESC",
+                "image": "ui_skill_icon_archer_phoenix_arrow"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_PHOENIX_ARROW_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_PHOENIX_ARROW_SPDESC",
+                "image": "ui_skill_icon_archer_phoenix_arrow"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_PHOENIX_ARROW_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_PHOENIX_ARROW_SPDESC",
+                "image": "ui_skill_icon_archer_phoenix_arrow"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_poison_dart_name",
+        "name": "TEXT_SKILL_AR_POISON_DART_NAME",
+        "class": "archer",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_POISON_DART_DESC",
+                "short_description": "TEXT_SKILL_AR_POISON_DART_SPDESC",
+                "image": "ui_skill_icon_archer_poison_dart"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_POISON_DART_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_POISON_DART_SPDESC",
+                "image": "ui_skill_icon_archer_poison_dart"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_POISON_DART_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_POISON_DART_SPDESC",
+                "image": "ui_skill_icon_archer_poison_dart"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_AR_POISON_DART_LV4_DESC",
+                "short_description": "TEXT_SKILL_AR_POISON_DART_SPDESC",
+                "image": "ui_skill_icon_archer_poison_dart"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_AR_POISON_DART_LV5_DESC",
+                "short_description": "TEXT_SKILL_AR_POISON_DART_SPDESC",
+                "image": "ui_skill_icon_archer_poison_dart"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_rain_of_firearrow_name",
+        "name": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_NAME",
+        "class": "archer",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_DESC",
+                "short_description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_SPDESC",
+                "image": "ui_skill_icon_archer_rain_of_firearrow"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_SPDESC",
+                "image": "ui_skill_icon_archer_rain_of_firearrow"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_SPDESC",
+                "image": "ui_skill_icon_archer_rain_of_firearrow"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_LV4_DESC",
+                "short_description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_SPDESC",
+                "image": "ui_skill_icon_archer_rain_of_firearrow"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_LV5_DESC",
+                "short_description": "TEXT_SKILL_AR_RAIN_OF_FIREARROW_SPDESC",
+                "image": "ui_skill_icon_archer_rain_of_firearrow"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_ar_strafe_shot_name",
+        "name": "TEXT_SKILL_AR_STRAFE_SHOT_NAME",
+        "class": "archer",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AR_STRAFE_SHOT_DESC",
+                "short_description": "TEXT_SKILL_AR_STRAFE_SHOT_SPDESC",
+                "image": "ui_skill_icon_archer_strafe_shot"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_AR_STRAFE_SHOT_LV2_DESC",
+                "short_description": "TEXT_SKILL_AR_STRAFE_SHOT_SPDESC",
+                "image": "ui_skill_icon_archer_strafe_shot"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_AR_STRAFE_SHOT_LV3_DESC",
+                "short_description": "TEXT_SKILL_AR_STRAFE_SHOT_SPDESC",
+                "image": "ui_skill_icon_archer_strafe_shot"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_af_bread_name",
+        "name": "TEXT_SKILL_AF_BREAD_NAME",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AF_BREAD_DESC",
+                "short_description": "TEXT_SKILL_AF_BREAD_DESC",
+                "image": "ui_skill_icon_foolsday_01"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_af_block_name",
+        "name": "TEXT_SKILL_AF_BLOCK_NAME",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AF_BLOCK_DESC",
+                "short_description": "TEXT_SKILL_AF_BLOCK_DESC",
+                "image": "ui_skill_icon_foolsday_03"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_af_speed_name",
+        "name": "TEXT_SKILL_AF_SPEED_NAME",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_AF_SPEED_DESC",
+                "short_description": "TEXT_SKILL_AF_SPEED_DESC",
+                "image": "ui_skill_icon_foolsday_02"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_bullet_time_name",
+        "name": "TEXT_SKILL_HU_BULLET_TIME_NAME",
+        "class": "hunter",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_BULLET_TIME_DESC",
+                "short_description": "TEXT_SKILL_HU_BULLET_TIME_SPDESC",
+                "image": "ui_skill_icon_hunter_bullet_time"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_BULLET_TIME_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_BULLET_TIME_SPDESC",
+                "image": "ui_skill_icon_hunter_bullet_time"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_BULLET_TIME_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_BULLET_TIME_SPDESC",
+                "image": "ui_skill_icon_hunter_bullet_time"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_carpet_bomb_name",
+        "name": "TEXT_SKILL_HU_CARPET_BOMB_NAME",
+        "class": "hunter",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_CARPET_BOMB_DESC",
+                "short_description": "TEXT_SKILL_HU_CARPET_BOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_carpet_bomb"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_CARPET_BOMB_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_CARPET_BOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_carpet_bomb"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_CARPET_BOMB_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_CARPET_BOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_carpet_bomb"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_deadly_spirit_name",
+        "name": "TEXT_SKILL_HU_DEADLY_SPIRIT_NAME",
+        "class": "hunter",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_DEADLY_SPIRIT_LV1_DESC",
+                "short_description": "TEXT_SKILL_HU_DEADLY_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_hunter_deadly_spirit"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_DEADLY_SPIRIT_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_DEADLY_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_hunter_deadly_spirit"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_DEADLY_SPIRIT_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_DEADLY_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_hunter_deadly_spirit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_enchanted_bullet_name",
+        "name": "TEXT_SKILL_HU_ENCHANTED_BULLET_NAME",
+        "class": "hunter",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_ENCHANTED_BULLET_DESC",
+                "short_description": "TEXT_SKILL_HU_ENCHANTED_BULLET_SPDESC",
+                "image": "ui_skill_icon_hunter_enchanted_bullet"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_ENCHANTED_BULLET_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_ENCHANTED_BULLET_SPDESC",
+                "image": "ui_skill_icon_hunter_enchanted_bullet"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_ENCHANTED_BULLET_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_ENCHANTED_BULLET_SPDESC",
+                "image": "ui_skill_icon_hunter_enchanted_bullet"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_HU_ENCHANTED_BULLET_LV4_DESC",
+                "short_description": "TEXT_SKILL_HU_ENCHANTED_BULLET_SPDESC",
+                "image": "ui_skill_icon_hunter_enchanted_bullet"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_HU_ENCHANTED_BULLET_LV5_DESC",
+                "short_description": "TEXT_SKILL_HU_ENCHANTED_BULLET_SPDESC",
+                "image": "ui_skill_icon_hunter_enchanted_bullet"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_manly_fire_name",
+        "name": "TEXT_SKILL_HU_MANLY_FIRE_NAME",
+        "class": "hunter",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_MANLY_FIRE_DESC",
+                "short_description": "TEXT_SKILL_HU_MANLY_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_manly_fire"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_MANLY_FIRE_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_MANLY_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_manly_fire"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_MANLY_FIRE_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_MANLY_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_manly_fire"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_HU_MANLY_FIRE_LV4_DESC",
+                "short_description": "TEXT_SKILL_HU_MANLY_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_manly_fire"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_HU_MANLY_FIRE_LV5_DESC",
+                "short_description": "TEXT_SKILL_HU_MANLY_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_manly_fire"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_napalmbomb_name",
+        "name": "TEXT_SKILL_HU_NAPALMBOMB_NAME",
+        "class": "hunter",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_NAPALMBOMB_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALMBOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_napalmbomb"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_NAPALMBOMB_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALMBOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_napalmbomb"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_NAPALMBOMB_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALMBOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_napalmbomb"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_HU_NAPALMBOMB_LV4_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALMBOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_napalmbomb"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_HU_NAPALMBOMB_LV5_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALMBOMB_SPDESC",
+                "image": "ui_skill_icon_hunter_napalmbomb"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_napalm_baby_name",
+        "name": "TEXT_SKILL_HU_NAPALM_BABY_NAME",
+        "class": "hunter",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_NAPALM_BABY_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALM_BABY_SPDESC",
+                "image": "ui_skill_icon_hunter_napalm_baby"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_NAPALM_BABY_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALM_BABY_SPDESC",
+                "image": "ui_skill_icon_hunter_napalm_baby"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_NAPALM_BABY_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALM_BABY_SPDESC",
+                "image": "ui_skill_icon_hunter_napalm_baby"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_HU_NAPALM_BABY_LV4_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALM_BABY_SPDESC",
+                "image": "ui_skill_icon_hunter_napalm_baby"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_HU_NAPALM_BABY_LV5_DESC",
+                "short_description": "TEXT_SKILL_HU_NAPALM_BABY_SPDESC",
+                "image": "ui_skill_icon_hunter_napalm_baby"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_open_all_fire_name",
+        "name": "TEXT_SKILL_HU_OPEN_ALL_FIRE_NAME",
+        "class": "hunter",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_DESC",
+                "short_description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_open_all_fire"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_open_all_fire"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_open_all_fire"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_LV4_DESC",
+                "short_description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_open_all_fire"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_LV5_DESC",
+                "short_description": "TEXT_SKILL_HU_OPEN_ALL_FIRE_SPDESC",
+                "image": "ui_skill_icon_hunter_open_all_fire"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_orga_spdesc",
+        "name": "TEXT_SKILL_HU_ORGA_SPDESC",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_ORGA_SPDESC",
+                "short_description": "TEXT_SKILL_HU_ORGA_SPDESC",
+                "image": "ui_skill_icon_hunter_orga_ancient"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_quicken_name",
+        "name": "TEXT_SKILL_HU_QUICKEN_NAME",
+        "class": "hunter",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_QUICKEN_DESC",
+                "short_description": "TEXT_SKILL_HU_QUICKEN_SPDESC",
+                "image": "ui_skill_icon_hunter_quicken"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_QUICKEN_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_QUICKEN_SPDESC",
+                "image": "ui_skill_icon_hunter_quicken"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_QUICKEN_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_QUICKEN_SPDESC",
+                "image": "ui_skill_icon_hunter_quicken"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_HU_QUICKEN_LV4_DESC",
+                "short_description": "TEXT_SKILL_HU_QUICKEN_SPDESC",
+                "image": "ui_skill_icon_hunter_quicken"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_HU_QUICKEN_LV5_DESC",
+                "short_description": "TEXT_SKILL_HU_QUICKEN_SPDESC",
+                "image": "ui_skill_icon_hunter_quicken"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_smoke_name",
+        "name": "TEXT_SKILL_HU_SMOKE_NAME",
+        "class": "hunter",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_SMOKE_DESC",
+                "short_description": "TEXT_SKILL_HU_SMOKE_SPDESC",
+                "image": "ui_skill_icon_hunter_smoke"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_SMOKE_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_SMOKE_SPDESC",
+                "image": "ui_skill_icon_hunter_smoke"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_SMOKE_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_SMOKE_SPDESC",
+                "image": "ui_skill_icon_hunter_smoke"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_HU_SMOKE_LV4_DESC",
+                "short_description": "TEXT_SKILL_HU_SMOKE_SPDESC",
+                "image": "ui_skill_icon_hunter_smoke"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_HU_SMOKE_LV5_DESC",
+                "short_description": "TEXT_SKILL_HU_SMOKE_SPDESC",
+                "image": "ui_skill_icon_hunter_smoke"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_hu_turret_009_name",
+        "name": "TEXT_SKILL_HU_TURRET_009_NAME",
+        "class": "hunter",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_HU_TURRET_009_DESC",
+                "short_description": "TEXT_SKILL_HU_TURRET_009_SPDESC",
+                "image": "ui_skill_icon_hunter_turret_009"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_HU_TURRET_009_LV2_DESC",
+                "short_description": "TEXT_SKILL_HU_TURRET_009_SPDESC",
+                "image": "ui_skill_icon_hunter_turret_009"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_HU_TURRET_009_LV3_DESC",
+                "short_description": "TEXT_SKILL_HU_TURRET_009_SPDESC",
+                "image": "ui_skill_icon_hunter_turret_009"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_kof_power_max_name",
+        "name": "TEXT_SKILL_KOF_POWER_MAX_NAME",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_KOF_POWER_MAX_LV1_DESC",
+                "short_description": "TEXT_SKILL_KOF_POWER_MAX_SPDESC",
+                "image": "ui_skill_icon_kof_powermax"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_KOF_POWER_MAX_LV2_DESC",
+                "short_description": "TEXT_SKILL_KOF_POWER_MAX_SPDESC",
+                "image": "ui_skill_icon_kof_powermax"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_KOF_POWER_MAX_LV3_DESC",
+                "short_description": "TEXT_SKILL_KOF_POWER_MAX_SPDESC",
+                "image": "ui_skill_icon_kof_powermax"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_avatar_name",
+        "name": "TEXT_SKILL_PA_AVATAR_NAME",
+        "class": "paladin",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_AVATAR_DESC",
+                "short_description": "TEXT_SKILL_PA_AVATAR_SPDESC",
+                "image": "ui_skill_icon_paladin_guardian_spirit"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_AVATAR_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_AVATAR_SPDESC",
+                "image": "ui_skill_icon_paladin_guardian_spirit"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_AVATAR_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_AVATAR_SPDESC",
+                "image": "ui_skill_icon_paladin_guardian_spirit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_bombing_waters_name",
+        "name": "TEXT_SKILL_PA_BOMBING_WATERS_NAME",
+        "class": "paladin",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_BOMBING_WATERS_DESC",
+                "short_description": "TEXT_SKILL_PA_BOMBING_WATERS_SPDESC",
+                "image": "ui_skill_icon_paladin_bombing_waters"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_BOMBING_WATERS_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_BOMBING_WATERS_SPDESC",
+                "image": "ui_skill_icon_paladin_bombing_waters"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_BOMBING_WATERS_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_BOMBING_WATERS_SPDESC",
+                "image": "ui_skill_icon_paladin_bombing_waters"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PA_BOMBING_WATERS_LV4_DESC",
+                "short_description": "TEXT_SKILL_PA_BOMBING_WATERS_SPDESC",
+                "image": "ui_skill_icon_paladin_bombing_waters"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PA_BOMBING_WATERS_LV5_DESC",
+                "short_description": "TEXT_SKILL_PA_BOMBING_WATERS_SPDESC",
+                "image": "ui_skill_icon_paladin_bombing_waters"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_bravery_roar_name",
+        "name": "TEXT_SKILL_PA_BRAVERY_ROAR_NAME",
+        "class": "paladin",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_BRAVERYROAR_DESC",
+                "short_description": "TEXT_SKILL_PA_BRAVERYROAR_SPDESC",
+                "image": "ui_skill_icon_paladin_bravery_roar"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_BRAVERYROAR_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_BRAVERYROAR_SPDESC",
+                "image": "ui_skill_icon_paladin_bravery_roar"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_BRAVERYROAR_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_BRAVERYROAR_SPDESC",
+                "image": "ui_skill_icon_paladin_bravery_roar"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PA_BRAVERYROAR_LV4_DESC",
+                "short_description": "TEXT_SKILL_PA_BRAVERYROAR_SPDESC",
+                "image": "ui_skill_icon_paladin_bravery_roar"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PA_BRAVERYROAR_LV5_DESC",
+                "short_description": "TEXT_SKILL_PA_BRAVERYROAR_SPDESC",
+                "image": "ui_skill_icon_paladin_bravery_roar"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_captain_name",
+        "name": "TEXT_SKILL_PA_CAPTAIN_NAME",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_CAPTAIN_DESC",
+                "short_description": "TEXT_SKILL_PA_CAPTAIN_SPDESC",
+                "image": "ui_skill_icon_paladin_captain_robot"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_docking_anchor_name",
+        "name": "TEXT_SKILL_PA_DOCKING_ANCHOR_NAME",
+        "class": "paladin",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_DOCKING_ANCHOR_DESC",
+                "short_description": "TEXT_SKILL_PA_DOCKING_ANCHOR_SPDESC",
+                "image": "ui_skill_icon_paladin_docking_anchor"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_DOCKING_ANCHOR_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_DOCKING_ANCHOR_SPDESC",
+                "image": "ui_skill_icon_paladin_docking_anchor"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_DOCKING_ANCHOR_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_DOCKING_ANCHOR_SPDESC",
+                "image": "ui_skill_icon_paladin_docking_anchor"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PA_DOCKING_ANCHOR_LV4_DESC",
+                "short_description": "TEXT_SKILL_PA_DOCKING_ANCHOR_SPDESC",
+                "image": "ui_skill_icon_paladin_docking_anchor"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PA_DOCKING_ANCHOR_LV5_DESC",
+                "short_description": "TEXT_SKILL_PA_DOCKING_ANCHOR_SPDESC",
+                "image": "ui_skill_icon_paladin_docking_anchor"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_orbital_hammer_name",
+        "name": "TEXT_SKILL_PA_ORBITAL_HAMMER_NAME",
+        "class": "paladin",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_ORBITAL_HAMMER_DESC",
+                "short_description": "TEXT_SKILL_PA_ORBITAL_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_orbital_hammer"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_ORBITAL_HAMMER_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_ORBITAL_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_orbital_hammer"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_ORBITAL_HAMMER_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_ORBITAL_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_orbital_hammer"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PA_ORBITAL_HAMMER_LV4_DESC",
+                "short_description": "TEXT_SKILL_PA_ORBITAL_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_orbital_hammer"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PA_ORBITAL_HAMMER_LV5_DESC",
+                "short_description": "TEXT_SKILL_PA_ORBITAL_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_orbital_hammer"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_overpower_name",
+        "name": "TEXT_SKILL_PA_OVERPOWER_NAME",
+        "class": "paladin",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_OVERPOWER_DESC",
+                "short_description": "TEXT_SKILL_PA_OVERPOWER_SPDESC",
+                "image": "ui_skill_icon_paladin_overpower"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_OVERPOWER_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_OVERPOWER_SPDESC",
+                "image": "ui_skill_icon_paladin_overpower"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_OVERPOWER_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_OVERPOWER_SPDESC",
+                "image": "ui_skill_icon_paladin_overpower"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PA_OVERPOWER_LV4_DESC",
+                "short_description": "TEXT_SKILL_PA_OVERPOWER_SPDESC",
+                "image": "ui_skill_icon_paladin_overpower"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PA_OVERPOWER_LV5_DESC",
+                "short_description": "TEXT_SKILL_PA_OVERPOWER_SPDESC",
+                "image": "ui_skill_icon_paladin_overpower"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_pala_heal_name",
+        "name": "TEXT_SKILL_PA_PALA_HEAL_NAME",
+        "class": "paladin",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_PALA_HEAL_DESC",
+                "short_description": "TEXT_SKILL_PA_PALA_HEAL_SPDESC",
+                "image": "ui_skill_icon_paladin_pala_heal"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_PALA_HEAL_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_PALA_HEAL_SPDESC",
+                "image": "ui_skill_icon_paladin_pala_heal"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_PALA_HEAL_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_PALA_HEAL_SPDESC",
+                "image": "ui_skill_icon_paladin_pala_heal"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PA_PALA_HEAL_LV4_DESC",
+                "short_description": "TEXT_SKILL_PA_PALA_HEAL_SPDESC",
+                "image": "ui_skill_icon_paladin_pala_heal"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PA_PALA_HEAL_LV5_DESC",
+                "short_description": "TEXT_SKILL_PA_PALA_HEAL_SPDESC",
+                "image": "ui_skill_icon_paladin_pala_heal"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_sacred_hammer_name",
+        "name": "TEXT_SKILL_PA_SACRED_HAMMER_NAME",
+        "class": "paladin",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_SACRED_HAMMER_DESC",
+                "short_description": "TEXT_SKILL_PA_SACRED_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_sacred_hammer"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_SACRED_HAMMER_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_SACRED_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_sacred_hammer"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_SACRED_HAMMER_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_SACRED_HAMMER_SPDESC",
+                "image": "ui_skill_icon_paladin_sacred_hammer"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_thorns_armor_name",
+        "name": "TEXT_SKILL_PA_THORNS_ARMOR_NAME",
+        "class": "paladin",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_THORNS_ARMOR_DESC",
+                "short_description": "TEXT_PATTERN_DEF_ENHANCED_SPDESC",
+                "image": "ui_skill_icon_paladin_thorns_armor"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_THORNS_ARMOR_LV2_DESC",
+                "short_description": "TEXT_PATTERN_DEF_ENHANCED_SPDESC",
+                "image": "ui_skill_icon_paladin_thorns_armor"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_THORNS_ARMOR_LV3_DESC",
+                "short_description": "TEXT_PATTERN_DEF_ENHANCED_SPDESC",
+                "image": "ui_skill_icon_paladin_thorns_armor"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PA_THORNS_ARMOR_LV4_DESC",
+                "short_description": "TEXT_PATTERN_DEF_ENHANCED_SPDESC",
+                "image": "ui_skill_icon_paladin_thorns_armor"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PA_THORNS_ARMOR_LV5_DESC",
+                "short_description": "TEXT_PATTERN_DEF_ENHANCED_SPDESC",
+                "image": "ui_skill_icon_paladin_thorns_armor"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pa_unbeatable_name",
+        "name": "TEXT_SKILL_PA_UNBEATABLE_NAME",
+        "class": "paladin",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_UNBEATABLE_DESC",
+                "short_description": "TEXT_SKILL_PA_UNBEATABLE_SPDESC",
+                "image": "ui_skill_icon_paladin_unbeatable"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PA_UNBEATABLE_LV2_DESC",
+                "short_description": "TEXT_SKILL_PA_UNBEATABLE_SPDESC",
+                "image": "ui_skill_icon_paladin_unbeatable"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PA_UNBEATABLE_LV3_DESC",
+                "short_description": "TEXT_SKILL_PA_UNBEATABLE_SPDESC",
+                "image": "ui_skill_icon_paladin_unbeatable"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_amaterasu_name",
+        "name": "TEXT_SKILL_PR_AMATERASU_NAME",
+        "class": "priest",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_AMATERASU_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_benevolent_spirit"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_AMATERASU_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_benevolent_spirit"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_AMATERASU_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_benevolent_spirit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_blessing_of_goddess_name",
+        "name": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_NAME",
+        "class": "priest",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_DESC",
+                "short_description": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_SPDESC",
+                "image": "ui_skill_icon_priest_blessing_of_goddess"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_SPDESC",
+                "image": "ui_skill_icon_priest_blessing_of_goddess"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_BLESSING_OF_GODDESS_SPDESC",
+                "image": "ui_skill_icon_priest_blessing_of_goddess"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_blkgen_name",
+        "name": "TEXT_SKILL_PR_BLKGEN_NAME",
+        "class": "priest",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_BLKGEN_DESC",
+                "short_description": "TEXT_SKILL_PR_BLKGEN_SPDESC",
+                "image": "ui_skill_icon_priest_blkgen"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_BLKGEN_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_BLKGEN_SPDESC",
+                "image": "ui_skill_icon_priest_blkgen"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_BLKGEN_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_BLKGEN_SPDESC",
+                "image": "ui_skill_icon_priest_blkgen"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_holy_sanctuary_name",
+        "name": "TEXT_SKILL_PR_HOLY_SANCTUARY_NAME",
+        "class": "priest",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_HOLY_SANCTUARY_DESC",
+                "short_description": "TEXT_SKILL_PR_HOLY_SANCTUARY_SPDESC",
+                "image": "ui_skill_icon_priest_holy_sanctuary"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_HOLY_SANCTUARY_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_HOLY_SANCTUARY_SPDESC",
+                "image": "ui_skill_icon_priest_holy_sanctuary"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_HOLY_SANCTUARY_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_HOLY_SANCTUARY_SPDESC",
+                "image": "ui_skill_icon_priest_holy_sanctuary"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PR_HOLY_SANCTUARY_LV4_DESC",
+                "short_description": "TEXT_SKILL_PR_HOLY_SANCTUARY_SPDESC",
+                "image": "ui_skill_icon_priest_holy_sanctuary"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PR_HOLY_SANCTUARY_LV5_DESC",
+                "short_description": "TEXT_SKILL_PR_HOLY_SANCTUARY_SPDESC",
+                "image": "ui_skill_icon_priest_holy_sanctuary"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_quake_totem_name",
+        "name": "TEXT_SKILL_PR_QUAKE_TOTEM_NAME",
+        "class": "priest",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_QUAKE_TOTEM_DESC",
+                "short_description": "TEXT_SKILL_PR_QUAKE_TOTEM_SPDESC",
+                "image": "ui_skill_icon_priest_quake_totem"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_QUAKE_TOTEM_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_QUAKE_TOTEM_SPDESC",
+                "image": "ui_skill_icon_priest_quake_totem"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_QUAKE_TOTEM_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_QUAKE_TOTEM_SPDESC",
+                "image": "ui_skill_icon_priest_quake_totem"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PR_QUAKE_TOTEM_LV4_DESC",
+                "short_description": "TEXT_SKILL_PR_QUAKE_TOTEM_SPDESC",
+                "image": "ui_skill_icon_priest_quake_totem"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PR_QUAKE_TOTEM_LV5_DESC",
+                "short_description": "TEXT_SKILL_PR_QUAKE_TOTEM_SPDESC",
+                "image": "ui_skill_icon_priest_quake_totem"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_resurrection_name",
+        "name": "TEXT_SKILL_PR_RESURRECTION_NAME",
+        "class": "priest",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_RESURRECTION_DESC",
+                "short_description": "TEXT_SKILL_PR_RESURRECTION_SPDESC",
+                "image": "ui_skill_icon_priest_resurrection"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_RESURRECTION_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_RESURRECTION_SPDESC",
+                "image": "ui_skill_icon_priest_resurrection"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_RESURRECTION_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_RESURRECTION_SPDESC",
+                "image": "ui_skill_icon_priest_resurrection"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_shield_name",
+        "name": "TEXT_SKILL_PR_SHIELD_NAME",
+        "class": "priest",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_SHIELD_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_shield"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_SHIELD_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_shield"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_SHIELD_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_shield"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PR_SHIELD_LV4_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_shield"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PR_SHIELD_LV5_DESC",
+                "short_description": "TEXT_SKILL_PR_SHIELD_SPDESC",
+                "image": "ui_skill_icon_priest_shield"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_starfall_name",
+        "name": "TEXT_SKILL_PR_STARFALL_NAME",
+        "class": "priest",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_STARFALL_DESC",
+                "short_description": "TEXT_SKILL_PR_STARFALL_SPDESC",
+                "image": "ui_skill_icon_priest_starfall"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_STARFALL_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_STARFALL_SPDESC",
+                "image": "ui_skill_icon_priest_starfall"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_STARFALL_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_STARFALL_SPDESC",
+                "image": "ui_skill_icon_priest_starfall"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PR_STARFALL_LV4_DESC",
+                "short_description": "TEXT_SKILL_PR_STARFALL_SPDESC",
+                "image": "ui_skill_icon_priest_starfall"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PR_STARFALL_LV5_DESC",
+                "short_description": "TEXT_SKILL_PR_STARFALL_SPDESC",
+                "image": "ui_skill_icon_priest_starfall"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_pr_stick_and_carrot_name",
+        "name": "TEXT_SKILL_PR_STICK_AND_CARROT_NAME",
+        "class": "priest",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PR_STICK_AND_CARROT_DESC",
+                "short_description": "TEXT_SKILL_PR_STICK_AND_CARROT_SPDESC",
+                "image": "ui_skill_icon_priest_stick_and_carrot"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_PR_STICK_AND_CARROT_LV2_DESC",
+                "short_description": "TEXT_SKILL_PR_STICK_AND_CARROT_SPDESC",
+                "image": "ui_skill_icon_priest_stick_and_carrot"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_PR_STICK_AND_CARROT_LV3_DESC",
+                "short_description": "TEXT_SKILL_PR_STICK_AND_CARROT_SPDESC",
+                "image": "ui_skill_icon_priest_stick_and_carrot"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_PR_STICK_AND_CARROT_LV4_DESC",
+                "short_description": "TEXT_SKILL_PR_STICK_AND_CARROT_SPDESC",
+                "image": "ui_skill_icon_priest_stick_and_carrot"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_PR_STICK_AND_CARROT_LV5_DESC",
+                "short_description": "TEXT_SKILL_PR_STICK_AND_CARROT_SPDESC",
+                "image": "ui_skill_icon_priest_stick_and_carrot"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_air_slash_name",
+        "name": "TEXT_SKILL_WA_AIR_SLASH_NAME",
+        "class": "warrior",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_AIR_SLASH_DESC",
+                "short_description": "TEXT_SKILL_WA_AIR_SLASH_SPDESC",
+                "image": "ui_skill_icon_warrior_air_slash"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_AIR_SLASH_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_AIR_SLASH_SPDESC",
+                "image": "ui_skill_icon_warrior_air_slash"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_AIR_SLASH_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_AIR_SLASH_SPDESC",
+                "image": "ui_skill_icon_warrior_air_slash"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_avatar_name",
+        "name": "TEXT_SKILL_WA_AVATAR_NAME",
+        "class": "warrior",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_AVATAR_DESC",
+                "short_description": "TEXT_SKILL_WA_AVATAR_SPDESC",
+                "image": "ui_skill_icon_warrior_punish_spirit"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_AVATAR_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_AVATAR_SPDESC",
+                "image": "ui_skill_icon_warrior_punish_spirit"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_AVATAR_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_AVATAR_SPDESC",
+                "image": "ui_skill_icon_warrior_punish_spirit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_crescent_rampage_name",
+        "name": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_DESC",
+                "short_description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_SPDESC",
+                "image": "ui_skill_icon_warrior_crescent_rampage"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_SPDESC",
+                "image": "ui_skill_icon_warrior_crescent_rampage"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_SPDESC",
+                "image": "ui_skill_icon_warrior_crescent_rampage"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_LV4_DESC",
+                "short_description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_SPDESC",
+                "image": "ui_skill_icon_warrior_crescent_rampage"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_LV5_DESC",
+                "short_description": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_SPDESC",
+                "image": "ui_skill_icon_warrior_crescent_rampage"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_dancing_sword_name",
+        "name": "TEXT_SKILL_WA_DANCING_SWORD_NAME",
+        "class": "warrior",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_DANCING_SWORD_DESC",
+                "short_description": "TEXT_SKILL_WA_DANCING_SWORD_SPDESC",
+                "image": "ui_skill_icon_warrior_dancing_sword"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_DANCING_SWORD_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_DANCING_SWORD_SPDESC",
+                "image": "ui_skill_icon_warrior_dancing_sword"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_DANCING_SWORD_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_DANCING_SWORD_SPDESC",
+                "image": "ui_skill_icon_warrior_dancing_sword"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_fightspirit_name",
+        "name": "TEXT_SKILL_WA_FIGHTSPIRIT_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_FIGHTSPIRIT_DESC",
+                "short_description": "TEXT_SKILL_WA_FIGHTSPIRIT_SPDESC",
+                "image": "ui_skill_icon_warrior_fightspirit"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_FIGHTSPIRIT_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_FIGHTSPIRIT_SPDESC",
+                "image": "ui_skill_icon_warrior_fightspirit"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_FIGHTSPIRIT_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_FIGHTSPIRIT_SPDESC",
+                "image": "ui_skill_icon_warrior_fightspirit"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WA_FIGHTSPIRIT_LV4_DESC",
+                "short_description": "TEXT_SKILL_WA_FIGHTSPIRIT_SPDESC",
+                "image": "ui_skill_icon_warrior_fightspirit"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WA_FIGHTSPIRIT_LV5_DESC",
+                "short_description": "TEXT_SKILL_WA_FIGHTSPIRIT_SPDESC",
+                "image": "ui_skill_icon_warrior_fightspirit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_final_justice_name",
+        "name": "TEXT_SKILL_WA_FINAL_JUSTICE_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_FINAL_JUSTICE_DESC",
+                "short_description": "TEXT_SKILL_WA_FINAL_JUSTICE_SPDESC",
+                "image": "ui_skill_icon_warrior_final_justice"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_FINAL_JUSTICE_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_FINAL_JUSTICE_SPDESC",
+                "image": "ui_skill_icon_warrior_final_justice"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_FINAL_JUSTICE_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_FINAL_JUSTICE_SPDESC",
+                "image": "ui_skill_icon_warrior_final_justice"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WA_FINAL_JUSTICE_LV4_DESC",
+                "short_description": "TEXT_SKILL_WA_FINAL_JUSTICE_SPDESC",
+                "image": "ui_skill_icon_warrior_final_justice"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WA_FINAL_JUSTICE_LV5_DESC",
+                "short_description": "TEXT_SKILL_WA_FINAL_JUSTICE_SPDESC",
+                "image": "ui_skill_icon_warrior_final_justice"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_fireshot_name",
+        "name": "TEXT_SKILL_WA_FIRESHOT_NAME",
+        "class": "warrior",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_FIRESHOT_DESC",
+                "short_description": "TEXT_PATTERN_PHYS_1_SPDESC",
+                "image": "ui_skill_icon_warrior_fireblade"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_FIRESHOT_LV2_DESC",
+                "short_description": "TEXT_PATTERN_PHYS_1_SPDESC",
+                "image": "ui_skill_icon_warrior_fireblade"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_FIRESHOT_LV3_DESC",
+                "short_description": "TEXT_PATTERN_PHYS_1_SPDESC",
+                "image": "ui_skill_icon_warrior_fireblade"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_ranno_spdesc",
+        "name": "TEXT_SKILL_WA_RANNO_SPDESC",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "short_description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "image": "ui_skill_icon_warrior_ranno_ancient"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_ranno_spdesc",
+        "name": "TEXT_SKILL_WA_RANNO_SPDESC",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "short_description": "TEXT_SKILL_WA_RANNO_SPDESC",
+                "image": "ui_skill_icon_warrior_ranno_ancient"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_whirlwind_name",
+        "name": "TEXT_SKILL_WA_WHIRLWIND_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_WHIRLWIND_DESC",
+                "short_description": "TEXT_SKILL_WA_WHIRLWIND_SPDESC",
+                "image": "ui_skill_icon_warrior_whirlwind"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_WHIRLWIND_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_WHIRLWIND_SPDESC",
+                "image": "ui_skill_icon_warrior_whirlwind"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_WHIRLWIND_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_WHIRLWIND_SPDESC",
+                "image": "ui_skill_icon_warrior_whirlwind"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WA_WHIRLWIND_LV4_DESC",
+                "short_description": "TEXT_SKILL_WA_WHIRLWIND_SPDESC",
+                "image": "ui_skill_icon_warrior_whirlwind"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WA_WHIRLWIND_LV5_DESC",
+                "short_description": "TEXT_SKILL_WA_WHIRLWIND_SPDESC",
+                "image": "ui_skill_icon_warrior_whirlwind"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_wind_cleave_name",
+        "name": "TEXT_SKILL_WA_WIND_CLEAVE_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_WIND_CLEAVE_DESC",
+                "short_description": "TEXT_SKILL_WA_WIND_CLEAVE_SPDESC",
+                "image": "ui_skill_icon_warrior_wind_cleave"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WA_WIND_CLEAVE_LV2_DESC",
+                "short_description": "TEXT_SKILL_WA_WIND_CLEAVE_SPDESC",
+                "image": "ui_skill_icon_warrior_wind_cleave"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WA_WIND_CLEAVE_LV3_DESC",
+                "short_description": "TEXT_SKILL_WA_WIND_CLEAVE_SPDESC",
+                "image": "ui_skill_icon_warrior_wind_cleave"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WA_WIND_CLEAVE_LV4_DESC",
+                "short_description": "TEXT_SKILL_WA_WIND_CLEAVE_SPDESC",
+                "image": "ui_skill_icon_warrior_wind_cleave"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WA_WIND_CLEAVE_LV5_DESC",
+                "short_description": "TEXT_SKILL_WA_WIND_CLEAVE_SPDESC",
+                "image": "ui_skill_icon_warrior_wind_cleave"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_anesidora_name",
+        "name": "TEXT_SKILL_WI_ANESIDORA_NAME",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_ANESIDORA_NAME",
+                "short_description": "TEXT_SKILL_WI_ANESIDORA_NAME",
+                "image": "ui_skill_icon_wizard_anesidora_spirit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_beamburst_name",
+        "name": "TEXT_SKILL_WI_BEAMBURST_NAME",
+        "class": "wizard",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_BEAMBURST_DESC",
+                "short_description": "TEXT_SKILL_WI_BEAMBURST_SPDESC",
+                "image": "ui_skill_icon_wizard_beamburst"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_BEAMBURST_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_BEAMBURST_SPDESC",
+                "image": "ui_skill_icon_wizard_beamburst"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_BEAMBURST_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_BEAMBURST_SPDESC",
+                "image": "ui_skill_icon_wizard_beamburst"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_blackhole_name",
+        "name": "TEXT_SKILL_WI_BLACKHOLE_NAME",
+        "class": "wizard",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_BLACKHOLE_DESC",
+                "short_description": "TEXT_SKILL_WI_BLACKHOLE_SPDESC",
+                "image": "ui_skill_icon_wizard_blackhole"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_BLACKHOLE_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_BLACKHOLE_SPDESC",
+                "image": "ui_skill_icon_wizard_blackhole"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_BLACKHOLE_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_BLACKHOLE_SPDESC",
+                "image": "ui_skill_icon_wizard_blackhole"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WI_BLACKHOLE_LV4_DESC",
+                "short_description": "TEXT_SKILL_WI_BLACKHOLE_SPDESC",
+                "image": "ui_skill_icon_wizard_blackhole"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WI_BLACKHOLE_LV5_DESC",
+                "short_description": "TEXT_SKILL_WI_BLACKHOLE_SPDESC",
+                "image": "ui_skill_icon_wizard_blackhole"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_call_ifrit_name",
+        "name": "TEXT_SKILL_WI_CALL_IFRIT_NAME",
+        "class": "wizard",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_CALL_IFRIT_DESC",
+                "short_description": "TEXT_SKILL_WI_CALL_IFRIT_SPDESC",
+                "image": "ui_skill_icon_wizard_call_ifrit"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_CALL_IFRIT_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_CALL_IFRIT_SPDESC",
+                "image": "ui_skill_icon_wizard_call_ifrit"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_CALL_IFRIT_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_CALL_IFRIT_SPDESC",
+                "image": "ui_skill_icon_wizard_call_ifrit"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WI_CALL_IFRIT_LV4_DESC",
+                "short_description": "TEXT_SKILL_WI_CALL_IFRIT_SPDESC",
+                "image": "ui_skill_icon_wizard_call_ifrit"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WI_CALL_IFRIT_LV5_DESC",
+                "short_description": "TEXT_SKILL_WI_CALL_IFRIT_SPDESC",
+                "image": "ui_skill_icon_wizard_call_ifrit"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_lightning_ball_name",
+        "name": "TEXT_SKILL_WI_LIGHTNING_BALL_NAME",
+        "class": "wizard",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_LIGHTNING_BALL_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_BALL_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_ball"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_LIGHTNING_BALL_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_BALL_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_ball"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_LIGHTNING_BALL_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_BALL_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_ball"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WI_LIGHTNING_BALL_LV4_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_BALL_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_ball"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WI_LIGHTNING_BALL_LV5_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_BALL_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_ball"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_lightning_drop_name",
+        "name": "TEXT_SKILL_WI_LIGHTNING_DROP_NAME",
+        "class": "wizard",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_LIGHTNING_DROP_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_DROP_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_drop"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_LIGHTNING_DROP_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_DROP_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_drop"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_LIGHTNING_DROP_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_LIGHTNING_DROP_SPDESC",
+                "image": "ui_skill_icon_wizard_lightning_drop"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_manacharge_name",
+        "name": "TEXT_SKILL_WI_MANACHARGE_NAME",
+        "class": "wizard",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_MANACHARGE_DESC",
+                "short_description": "TEXT_SKILL_WI_MANACHARGE_SPDESC",
+                "image": "ui_skill_icon_wizard_manacharge"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_MANACHARGE_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_MANACHARGE_SPDESC",
+                "image": "ui_skill_icon_wizard_manacharge"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_MANACHARGE_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_MANACHARGE_SPDESC",
+                "image": "ui_skill_icon_wizard_manacharge"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WI_MANACHARGE_LV4_DESC",
+                "short_description": "TEXT_SKILL_WI_MANACHARGE_SPDESC",
+                "image": "ui_skill_icon_wizard_manacharge"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WI_MANACHARGE_LV5_DESC",
+                "short_description": "TEXT_SKILL_WI_MANACHARGE_SPDESC",
+                "image": "ui_skill_icon_wizard_manacharge"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_mana_shield_name",
+        "name": "TEXT_SKILL_WI_MANA_SHIELD_NAME",
+        "class": "wizard",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_MANA_SHIELD_DESC",
+                "short_description": "TEXT_SKILL_WI_MANA_SHIELD_SPDESC",
+                "image": "ui_skill_icon_wizard_magic_shield"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_MANA_SHIELD_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_MANA_SHIELD_SPDESC",
+                "image": "ui_skill_icon_wizard_magic_shield"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_MANA_SHIELD_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_MANA_SHIELD_SPDESC",
+                "image": "ui_skill_icon_wizard_magic_shield"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WI_MANA_SHIELD_LV4_DESC",
+                "short_description": "TEXT_SKILL_WI_MANA_SHIELD_SPDESC",
+                "image": "ui_skill_icon_wizard_magic_shield"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WI_MANA_SHIELD_LV5_DESC",
+                "short_description": "TEXT_SKILL_WI_MANA_SHIELD_SPDESC",
+                "image": "ui_skill_icon_wizard_magic_shield"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_pain_fog_name",
+        "name": "TEXT_SKILL_WI_PAIN_FOG_NAME",
+        "class": "wizard",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_PAIN_FOG_DESC",
+                "short_description": "TEXT_PATTERN_MAGIC_1_SPDESC",
+                "image": "ui_skill_icon_wizard_pain_fog"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_PAIN_FOG_LV2_DESC",
+                "short_description": "TEXT_PATTERN_MAGIC_1_SPDESC",
+                "image": "ui_skill_icon_wizard_pain_fog"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_PAIN_FOG_LV3_DESC",
+                "short_description": "TEXT_PATTERN_MAGIC_1_SPDESC",
+                "image": "ui_skill_icon_wizard_pain_fog"
+            },
+            {
+                "level": 4,
+                "description": "TEXT_SKILL_WI_PAIN_FOG_LV4_DESC",
+                "short_description": "TEXT_PATTERN_MAGIC_1_SPDESC",
+                "image": "ui_skill_icon_wizard_pain_fog"
+            },
+            {
+                "level": 5,
+                "description": "TEXT_SKILL_WI_PAIN_FOG_LV5_DESC",
+                "short_description": "TEXT_PATTERN_MAGIC_1_SPDESC",
+                "image": "ui_skill_icon_wizard_pain_fog"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_shadow_call_name",
+        "name": "TEXT_SKILL_WI_SHADOW_CALL_NAME",
+        "class": "wizard",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_SHADOW_CALL_DESC",
+                "short_description": "TEXT_SKILL_WI_SHADOW_CALL_SPDESC",
+                "image": "ui_skill_icon_wizard_shadow_call"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_SHADOW_CALL_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_SHADOW_CALL_SPDESC",
+                "image": "ui_skill_icon_wizard_shadow_call"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_SHADOW_CALL_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_SHADOW_CALL_SPDESC",
+                "image": "ui_skill_icon_wizard_shadow_call"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wi_tempest_name",
+        "name": "TEXT_SKILL_WI_TEMPEST_NAME",
+        "class": "wizard",
+        "type": "ultimate",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WI_TEMPEST_DESC",
+                "short_description": "TEXT_SKILL_WI_TEMPEST_SPDESC",
+                "image": "ui_skill_icon_wizard_tempest"
+            },
+            {
+                "level": 2,
+                "description": "TEXT_SKILL_WI_TEMPEST_LV2_DESC",
+                "short_description": "TEXT_SKILL_WI_TEMPEST_SPDESC",
+                "image": "ui_skill_icon_wizard_tempest"
+            },
+            {
+                "level": 3,
+                "description": "TEXT_SKILL_WI_TEMPEST_LV3_DESC",
+                "short_description": "TEXT_SKILL_WI_TEMPEST_SPDESC",
+                "image": "ui_skill_icon_wizard_tempest"
+            }
+        ]
+    }
+]
