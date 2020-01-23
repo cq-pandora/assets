@@ -622,6 +622,9 @@
     "TEXT_CHA_PR_6_13_NAME": [
         "portrait_orfeo_default"
     ],
+    "TEXT_CHA_HU_LIMITED_TNT_6_ORGA_NAME": [
+        "portrait_orga_default"
+    ],
     "TEXT_CHA_WI_6_21_NAME": [
         "portrait_osiris_default"
     ],
@@ -642,6 +645,9 @@
     ],
     "TEXT_CHA_WA_6_23_NAME": [
         "portrait_randgrid_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_TNT_6_RANNO_NAME": [
+        "portrait_ranno_default"
     ],
     "TEXT_CHA_HU_6_18_NAME": [
         "portrait_raven_default"
