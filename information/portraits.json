@@ -254,6 +254,9 @@
     "TEXT_NEMESIS_NAME": [
         "portrait_nemesis_default"
     ],
+    "TEXT_MON_BS_RAID_BATTLELOID_NS-000_NAME": [
+        "portrait_ns000_default"
+    ],
     "TEXT_ORCUS_NAME": [
         "portrait_orcus_default"
     ],
@@ -537,6 +540,9 @@
     ],
     "TEXT_CHA_HU_6_16_NAME": [
         "portrait_lorelei_default"
+    ],
+    "TEXT_STAT_CHA_WI_UNIQUE_6_LOVIATAR": [
+        "portrait_loviatar_default"
     ],
     "TEXT_CHA_HU_6_20_NAME": [
         "portrait_luicilla_default"
@@ -828,7 +834,7 @@
         "portrait_chocolat_default"
     ],
     "TEXT_ELLIE_NAME": [
-        "portrait_ellie_default"
+        "portrait_completeellie_default"
     ],
     "TEXT_NPC_WEAPON_NAME": [
         "portrait_fugus_default"
@@ -862,7 +868,8 @@
         "portrait_completeaubrey_default"
     ],
     "TEXT_SISDRAGON_NAME": [
-        "portrait_completebella_default"
+        "portrait_completebella_default",
+        "portrait_completebella2_default"
     ],
     "TEXT_CRONOS_NAME": [
         "portrait_completecronos_default",

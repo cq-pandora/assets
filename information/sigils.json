@@ -101,6 +101,11 @@
             "lifesteal": 0,
             "resistance": 300,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_DEFENCE_1_DESC",
+            "pair": "COMMON_ALICIA_STONE_1"
         }
     },
     {
@@ -128,6 +133,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 300
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_AIR_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_AIR_1_DESC",
+            "pair": "COMMON_ALICIA_STONE_2"
         }
     },
     {
@@ -1035,6 +1045,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_PHYSIC_1_DESC",
+            "pair": "COMMON_GULLVEIG_STONE_1"
         }
     },
     {
@@ -1493,6 +1508,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_DEFENCE_2_DESC",
+            "pair": "COMMON_RAVENASSASSIN_STONE_1"
         }
     },
     {
@@ -1547,6 +1567,11 @@
             "lifesteal": 0,
             "resistance": 300,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_SP_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_SP_1_DESC",
+            "pair": "COMMON_RAVENASSASSIN_STONE_3"
         }
     },
     {
@@ -1651,6 +1676,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 300
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_MAGIC_1_DESC",
+            "pair": "COMMON_REGINLEIF_STONE_1"
         }
     },
     {
@@ -2102,6 +2132,102 @@
         }
     },
     {
+        "id": "COMMON_SET_MAG_AIR_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_AIR_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_AIR_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_AIR_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_05",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 250,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 250
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_AIR_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_AIR_1_DESC",
+            "pair": "COMMON_ALICIA_STONE_2"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_ATK_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_ATK_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_ATK_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_ATK_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_01",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0.02,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 250
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_MAGIC_1_DESC",
+            "pair": "COMMON_REGINLEIF_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_DEF_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_DEF_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_DEF_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_DEF_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_03",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0.03,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 250,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_DEFENCE_1_DESC",
+            "pair": "COMMON_ALICIA_STONE_1"
+        }
+    },
+    {
         "id": "COMMON_SET_MAG_EP2_STONE_1",
         "ingame_id": "COMMON_SET_MAG_EP2_STONE_1",
         "name": "TEXT_COMMON_SET_MAG_EP2_STONE_1_TITLE",
@@ -2163,6 +2289,38 @@
             "name": "TEXT_COMMON_SET_EP2_MAGIC_2_NAME",
             "effect": "TEXT_COMMON_SET_EP2_MAGIC_2_DESC",
             "pair": "COMMON_BETA_STONE_2"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_SP_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_SP_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_SP_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_SP_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_07",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 10000,
+            "lifesteal": 0,
+            "resistance": 250,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_SP_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_SP_1_DESC",
+            "pair": "COMMON_RAVENASSASSIN_STONE_3"
         }
     },
     {
@@ -2228,6 +2386,102 @@
         }
     },
     {
+        "id": "COMMON_SET_PHY_AIR_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_AIR_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_AIR_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_AIR_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_06",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 250,
+            "atkPower": 250,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_AIR_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_AIR_2_DESC",
+            "pair": "COMMON_WAITINGMAN_STONE_3"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_ATK_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_ATK_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_ATK_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_ATK_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_02",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0.02,
+            "armor": 0,
+            "armorPenetration": 250,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_PHYSIC_1_DESC",
+            "pair": "COMMON_GULLVEIG_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_DEF_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_DEF_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_DEF_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_DEF_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_04",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 250,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0.03,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_DEFENCE_2_DESC",
+            "pair": "COMMON_RAVENASSASSIN_STONE_1"
+        }
+    },
+    {
         "id": "COMMON_SET_PHY_EP2_STONE_1",
         "ingame_id": "COMMON_SET_PHY_EP2_STONE_1",
         "name": "TEXT_COMMON_SET_PHY_EP2_STONE_1_TITLE",
@@ -2289,6 +2543,38 @@
             "name": "TEXT_COMMON_SET_EP2_PHYSIC_2_NAME",
             "effect": "TEXT_COMMON_SET_EP2_PHYSIC_2_DESC",
             "pair": "COMMON_COBRA_STONE_2"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_SP_EP3_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_SP_EP3_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_SP_EP3_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_SP_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_08",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 1000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 250,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 10000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_SP_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_SP_2_DESC",
+            "pair": "COMMON_WAITINGMAN_STONE_2"
         }
     },
     {
@@ -2426,6 +2712,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_SP_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_SP_2_DESC",
+            "pair": "COMMON_WAITINGMAN_STONE_2"
         }
     },
     {
@@ -2453,6 +2744,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP3_AIR_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP3_AIR_2_DESC",
+            "pair": "COMMON_WAITINGMAN_STONE_3"
         }
     },
     {
@@ -3539,6 +3835,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_PHYSIC_1_DESC",
+            "pair": "EPIC_GULLVEIG_STONE_1"
         }
     },
     {
@@ -3565,6 +3866,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 1250
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_MAGIC_1_DESC",
+            "pair": "EPIC_GULLVEIG_STONE_2"
         }
     },
     {
@@ -4233,6 +4539,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_AIR_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_AIR_2_DESC",
+            "pair": "EPIC_REGINLEIF_STONE_1"
         }
     },
     {
@@ -4260,6 +4571,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 1000
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_AIR_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_AIR_1_DESC",
+            "pair": "EPIC_REGINLEIF_STONE_2"
         }
     },
     {
@@ -4909,6 +5225,102 @@
         }
     },
     {
+        "id": "EPIC_SET_MAG_AIR_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_AIR_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_AIR_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_AIR_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_21",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 750,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 850
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_AIR_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_AIR_1_DESC",
+            "pair": "EPIC_REGINLEIF_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_ATK_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_ATK_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_ATK_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_ATK_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_17",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0.1,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 850
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_MAGIC_1_DESC",
+            "pair": "EPIC_GULLVEIG_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_DEF_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_DEF_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_DEF_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_DEF_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_19",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0.1,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 1000,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_DEFENCE_1_DESC",
+            "pair": "EPIC_SKIRIMIR_STONE_1"
+        }
+    },
+    {
         "id": "EPIC_SET_MAG_EP2_STONE_1",
         "ingame_id": "EPIC_SET_MAG_EP2_STONE_1",
         "name": "TEXT_EPIC_SET_MAG_EP2_STONE_1_TITLE",
@@ -4970,6 +5382,38 @@
             "name": "TEXT_EPIC_SET_EP2_MAGIC_2_NAME",
             "effect": "TEXT_EPIC_SET_EP2_MAGIC_2_DESC",
             "pair": "EPIC_ANUBISIS_H_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_SP_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_SP_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_SP_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_SP_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_23",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 30000,
+            "lifesteal": 0,
+            "resistance": 1000,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_SP_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_SP_1_DESC",
+            "pair": "EPIC_SKIRIMIROFWRATH_STONE_2"
         }
     },
     {
@@ -5037,6 +5481,102 @@
         }
     },
     {
+        "id": "EPIC_SET_PHY_AIR_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_AIR_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_AIR_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_AIR_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_22",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 850,
+            "atkPower": 750,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_AIR_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_AIR_2_DESC",
+            "pair": "EPIC_REGINLEIF_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_ATK_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_ATK_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_ATK_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_ATK_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_18",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0.1,
+            "armor": 0,
+            "armorPenetration": 850,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_PHYSIC_1_DESC",
+            "pair": "EPIC_GULLVEIG_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_DEF_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_DEF_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_DEF_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_DEF_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_20",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 1000,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0.1,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_DEFENCE_2_DESC",
+            "pair": "EPIC_VALKYRIESTONESTATUS_STONE_1"
+        }
+    },
+    {
         "id": "EPIC_SET_PHY_EP2_STONE_1",
         "ingame_id": "EPIC_SET_PHY_EP2_STONE_1",
         "name": "TEXT_EPIC_SET_PHY_EP2_STONE_1_TITLE",
@@ -5101,6 +5641,38 @@
         }
     },
     {
+        "id": "EPIC_SET_PHY_SP_EP3_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_SP_EP3_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_SP_EP3_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_SP_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_24",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 4000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 1000,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 30000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_SP_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_SP_2_DESC",
+            "pair": "EPIC_SKIRIMIROFWRATH_STONE_1"
+        }
+    },
+    {
         "id": "EPIC_SKIRIMIROFWRATH_STONE_1",
         "ingame_id": "EPIC_SKIRIMIROFWRATH_STONE_1",
         "name": "TEXT_EPIC_SKIRIMIROFWRATH_STONE_1_TITLE",
@@ -5125,6 +5697,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_SP_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_SP_2_DESC",
+            "pair": "EPIC_SKIRIMIROFWRATH_STONE_1"
         }
     },
     {
@@ -5152,6 +5729,11 @@
             "lifesteal": 0,
             "resistance": 1000,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_SP_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_SP_1_DESC",
+            "pair": "EPIC_SKIRIMIROFWRATH_STONE_2"
         }
     },
     {
@@ -5178,6 +5760,11 @@
             "lifesteal": 0,
             "resistance": 1250,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_DEFENCE_1_DESC",
+            "pair": "EPIC_SKIRIMIR_STONE_1"
         }
     },
     {
@@ -5257,6 +5844,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP3_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP3_DEFENCE_2_DESC",
+            "pair": "EPIC_VALKYRIESTONESTATUS_STONE_1"
         }
     },
     {
@@ -6045,6 +6637,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP3_DEFENCE_2_DESC",
+            "pair": "RARE_GENERALWINTER_STONE_1"
         }
     },
     {
@@ -6618,6 +7215,11 @@
             "lifesteal": 0,
             "resistance": 600,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_DEFENCE_1_DESC",
+            "pair": "RARE_RAVENLEADERRAN_STONE_2"
         }
     },
     {
@@ -7153,6 +7755,102 @@
         }
     },
     {
+        "id": "RARE_SET_MAG_AIR_EP3_STONE_1",
+        "ingame_id": "RARE_SET_MAG_AIR_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_AIR_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_AIR_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_13",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 500,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 500
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_AIR_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_AIR_1_DESC",
+            "pair": "RARE_SKIRIMIR_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_ATK_EP3_STONE_1",
+        "ingame_id": "RARE_SET_MAG_ATK_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_ATK_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_ATK_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_09",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0.07,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 500
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_MAGIC_1_DESC",
+            "pair": "RARE_THIALFI_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_DEF_EP3_STONE_1",
+        "ingame_id": "RARE_SET_MAG_DEF_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_DEF_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_DEF_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_11",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0.05,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 600,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_DEFENCE_1_DESC",
+            "pair": "RARE_RAVENLEADERRAN_STONE_2"
+        }
+    },
+    {
         "id": "RARE_SET_MAG_EP2_STONE_1",
         "ingame_id": "RARE_SET_MAG_EP2_STONE_1",
         "name": "TEXT_RARE_SET_MAG_EP2_STONE_1_TITLE",
@@ -7214,6 +7912,38 @@
             "name": "TEXT_RARE_SET_EP2_MAGIC_2_NAME",
             "effect": "TEXT_RARE_SET_EP2_MAGIC_2_DESC",
             "pair": "RARE_SEKHMET_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_SP_EP3_STONE_1",
+        "ingame_id": "RARE_SET_MAG_SP_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_SP_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_SP_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_15",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 22500,
+            "lifesteal": 0,
+            "resistance": 600,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_SP_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_SP_1_DESC",
+            "pair": "RARE_VALKYRIESTONESTATUS_STONE_2"
         }
     },
     {
@@ -7279,6 +8009,102 @@
         }
     },
     {
+        "id": "RARE_SET_PHY_AIR_EP3_STONE_1",
+        "ingame_id": "RARE_SET_PHY_AIR_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_AIR_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_AIR_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_14",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 0,
+            "armorPenetration": 500,
+            "atkPower": 500,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_AIR_2_NAME",
+            "effect": "TEXT_RARE_SET_EP3_AIR_2_DESC",
+            "pair": "RARE_SKIRIMIR_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_ATK_EP3_STONE_1",
+        "ingame_id": "RARE_SET_PHY_ATK_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_ATK_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_ATK_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_10",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0.07,
+            "armor": 0,
+            "armorPenetration": 500,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_PHYSIC_1_DESC",
+            "pair": "RARE_THIALFI_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_DEF_EP3_STONE_1",
+        "ingame_id": "RARE_SET_PHY_DEF_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_DEF_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_DEF_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_12",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 600,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0.05,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP3_DEFENCE_2_DESC",
+            "pair": "RARE_GENERALWINTER_STONE_1"
+        }
+    },
+    {
         "id": "RARE_SET_PHY_EP2_STONE_1",
         "ingame_id": "RARE_SET_PHY_EP2_STONE_1",
         "name": "TEXT_RARE_SET_PHY_EP2_STONE_1_TITLE",
@@ -7340,6 +8166,38 @@
             "name": "TEXT_RARE_SET_EP2_PHYSIC_2_NAME",
             "effect": "TEXT_RARE_SET_EP2_PHYSIC_2_DESC",
             "pair": "RARE_SEKHMET_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_SP_EP3_STONE_1",
+        "ingame_id": "RARE_SET_PHY_SP_EP3_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_SP_EP3_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_SP_EP3_STONE_1_DESC",
+        "image": "ui_item_stone_3_set_16",
+        "grade": 3,
+        "rarity": "set",
+        "sell_cost": 2000,
+        "extract_cost": 300000,
+        "stats": {
+            "all": -2,
+            "accuracy": 0,
+            "armor": 600,
+            "armorPenetration": 0,
+            "atkPower": 0,
+            "critChance": 0,
+            "critChanceReduction": 0,
+            "critDmg": 0,
+            "dmgReduction": 0,
+            "evasion": 0,
+            "hp": 22500,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_SP_2_NAME",
+            "effect": "TEXT_RARE_SET_EP3_SP_2_DESC",
+            "pair": "RARE_VALKYRIESTONESTATUS_STONE_1"
         }
     },
     {
@@ -7455,6 +8313,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_AIR_2_NAME",
+            "effect": "TEXT_RARE_SET_EP3_AIR_2_DESC",
+            "pair": "RARE_SKIRIMIR_STONE_1"
         }
     },
     {
@@ -7482,6 +8345,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 525
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_AIR_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_AIR_1_DESC",
+            "pair": "RARE_SKIRIMIR_STONE_2"
         }
     },
     {
@@ -7508,6 +8376,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_PHYSIC_1_DESC",
+            "pair": "RARE_THIALFI_STONE_1"
         }
     },
     {
@@ -7534,6 +8407,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 600
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_MAGIC_1_DESC",
+            "pair": "RARE_THIALFI_STONE_2"
         }
     },
     {
@@ -7618,6 +8496,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistancePenetration": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_SP_2_NAME",
+            "effect": "TEXT_RARE_SET_EP3_SP_2_DESC",
+            "pair": "RARE_VALKYRIESTONESTATUS_STONE_1"
         }
     },
     {
@@ -7645,6 +8528,11 @@
             "lifesteal": 0,
             "resistance": 525,
             "resistancePenetration": 525
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP3_SP_1_NAME",
+            "effect": "TEXT_RARE_SET_EP3_SP_1_DESC",
+            "pair": "RARE_VALKYRIESTONESTATUS_STONE_2"
         }
     }
 ]

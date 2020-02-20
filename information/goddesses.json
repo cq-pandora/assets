@@ -1,5 +1,13 @@
 [
     {
+        "id": "SIS_BELLA_S2",
+        "name": "TEXT_SISDRAGON_NAME",
+        "image": "sis_4_s2",
+        "skill_name": "TEXT_SIS_SKILL_VOLCANO_NAME",
+        "skill_description": "TEXT_SIS_SKILL_VOLCANO_DESC",
+        "ingame_id": "SIS_BELLA_S2"
+    },
+    {
         "id": "SIS_CHRONOS",
         "name": "TEXT_CRONOS_NAME",
         "image": "sis_7",
