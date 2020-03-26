@@ -562,6 +562,9 @@
     "TEXT_CHA_AR_6_28_NAME": [
         "portrait_malkar_default"
     ],
+    "TEXT_CHA_HU_6_29_NAME": [
+        "portrait_malsuk_default"
+    ],
     "TEXT_CHA_AR_6_14_NAME": [
         "portrait_mamba_default"
     ],
@@ -799,6 +802,9 @@
     ],
     "TEXT_CHA_WA_6_4_NAME": [
         "portrait_vivian_default"
+    ],
+    "TEXT_CHA_WI_6_29_NAME": [
+        "portrait_wangdao_default"
     ],
     "TEXT_CHA_HU_6_10_NAME": [
         "portrait_wilhelm_default"
