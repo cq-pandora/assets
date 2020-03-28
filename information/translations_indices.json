@@ -8163,30 +8163,30 @@
             "original": true
         },
         {
-            "key": "TEXT_CHA_WI_LIMTED_FIFTH_5_ANESIDORA_NAME",
+            "key": "TEXT_CHA_WI_UNIQUE_4_LOVIATAR_NAME",
             "path": "324.1",
-            "text": "Anesidora",
+            "text": "Loviatar",
             "version": "5.1.28",
             "original": true
         },
         {
-            "key": "TEXT_CHA_WI_LIMTED_FIFTH_6_ANESIDORA_NAME",
+            "key": "TEXT_CHA_WI_LIMTED_FIFTH_5_ANESIDORA_NAME",
             "path": "324.2",
             "text": "Anesidora",
             "version": "5.1.28",
             "original": true
         },
         {
-            "key": "TEXT_CHA_WI_UNIQUE_4_LOVIATAR_NAME",
+            "key": "TEXT_CHA_WI_UNIQUE_5_LOVIATAR_NAME",
             "path": "324.3",
-            "text": "Loviatar",
+            "text": "Night Witch Loviatar",
             "version": "5.1.28",
             "original": true
         },
         {
-            "key": "TEXT_CHA_WI_UNIQUE_5_LOVIATAR_NAME",
+            "key": "TEXT_CHA_WI_LIMTED_FIFTH_6_ANESIDORA_NAME",
             "path": "324.4",
-            "text": "Night Witch Loviatar",
+            "text": "Anesidora",
             "version": "5.1.28",
             "original": true
         },
