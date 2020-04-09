@@ -287,6 +287,9 @@
     "TEXT_CHA_WI_6_7_NAME": [
         "portrait_alice_default"
     ],
+    "TEXT_CHA_AR_LIMITED_GOGI_6_ALMAEL_NAME": [
+        "portrait_almael_default"
+    ],
     "TEXT_CHA_AR_6_12_NAME": [
         "portrait_altair_default"
     ],
@@ -380,6 +383,9 @@
     "TEXT_CHA_HU_6_1_NAME": [
         "portrait_dartmax_default",
         "portrait_dart_default"
+    ],
+    "TEXT_CHA_HU_LIMITED_GOGI_6_DELRIEN_NAME": [
+        "portrait_delrien_default"
     ],
     "TEXT_CHA_WI_6_12_NAME": [
         "portrait_demeter_default"
