@@ -35,6 +35,27 @@
     "TEXT_CHAMPION_WEST_NAME": [
         "portrait_ibelin_default"
     ],
+    "TEXT_CHA_WI_LIMITED_ER_6_21_NAME": [
+        "portrait_ercat_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_ER_6_02_NAME": [
+        "portrait_ercow_default"
+    ],
+    "TEXT_CHA_WI_LIMITED_ER_6_05_NAME": [
+        "portrait_erdragon_default"
+    ],
+    "TEXT_CHA_WA_LIMITED_ER_6_01_NAME": [
+        "portrait_ermouse_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_ER_6_04_NAME": [
+        "portrait_errabbit_default"
+    ],
+    "TEXT_CHA_PR_LIMITED_ER_6_06_NAME": [
+        "portrait_ersnake_default"
+    ],
+    "TEXT_CHA_PA_LIMITED_ER_6_03_NAME": [
+        "portrait_ertiger_default"
+    ],
     "TEXT_CHA_WA_LIMITED_GG3_BAIKEN_NAME": [
         "portrait_ggbaiken_default"
     ],
@@ -220,9 +241,6 @@
     ],
     "TEXT_SISDOG_NAME": [
         "portrait_completesera_default"
-    ],
-    "TEXT_MON_BS_EP1_DEATH_NAME": [
-        "portrait_death_default"
     ],
     "TEXT_DIONNE_NAME": [
         "portrait_completedione_default",
