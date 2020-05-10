@@ -117,6 +117,13 @@
                     "image": "ui_skill_icon_champ_gran_knight_passive",
                     "grade": 3
                 },
+                "exclusive": {
+                    "id": "GRAN_KNIGHT_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_GRAN_KNIGHT_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_GRAN_KNIGHT_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_gran_knight_superpassive",
+                    "grade": 1
+                },
                 "grade": 7
             }
         ]
@@ -238,6 +245,13 @@
                     "description": "TEXT_CHAMP_PUMP_PUMP_PASSIVE_LV3_DESC",
                     "image": "ui_skill_icon_champ_pump_pump_passive",
                     "grade": 3
+                },
+                "exclusive": {
+                    "id": "PUMP_PUMP_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_PUMP_PUMP_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_PUMP_PUMP_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_pump_pump_superpassive",
+                    "grade": 1
                 },
                 "grade": 7
             }
@@ -361,6 +375,13 @@
                     "image": "ui_skill_icon_champ_free_free_passive",
                     "grade": 3
                 },
+                "exclusive": {
+                    "id": "FREE_FREE_PASSIVE_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_FREE_FREE_EXCLUSIVE_LV3_NAME",
+                    "description": "TEXT_CHAMP_FREE_FREE_EXCLUSIVE_LV3_DESC",
+                    "image": "ui_skill_icon_champ_free_free_superpassive",
+                    "grade": 1
+                },
                 "grade": 7
             }
         ]
@@ -482,6 +503,13 @@
                     "description": "TEXT_CHAMP_NETH_MEKA_PASSIVE_LV3_DESC",
                     "image": "ui_skill_icon_champ_neth_meka_passive",
                     "grade": 3
+                },
+                "exclusive": {
+                    "id": "NETH_MEKA_PASSIVE_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_NETH_MEKA_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_NETH_MEKA_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_neth_meka_superpassive",
+                    "grade": 1
                 },
                 "grade": 7
             }
@@ -605,6 +633,13 @@
                     "image": "ui_skill_icon_champ_east_ryu_passive",
                     "grade": 3
                 },
+                "exclusive": {
+                    "id": "EAST_RYU_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_EAST_RYU_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_EAST_RYU_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_east_ryu_superpassive",
+                    "grade": 1
+                },
                 "grade": 7
             }
         ]
@@ -726,6 +761,13 @@
                     "description": "TEXT_CHAMP_HAN_PASSIVE_LV3_DESC",
                     "image": "ui_skill_icon_champ_han_passive",
                     "grade": 3
+                },
+                "exclusive": {
+                    "id": "EAST_HAN_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_HAN_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_HAN_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_han_superpassive",
+                    "grade": 1
                 },
                 "grade": 7
             }
@@ -849,6 +891,13 @@
                     "image": "ui_skill_icon_champ_west_passive",
                     "grade": 3
                 },
+                "exclusive": {
+                    "id": "WEST_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_WEST_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_WEST_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_west_superpassive",
+                    "grade": 1
+                },
                 "grade": 7
             }
         ]
@@ -970,13 +1019,6 @@
                     "description": "TEXT_CHAMP_ROMAN_PASSIVE_LV3_DESC",
                     "image": "ui_skill_icon_champ_roman_passive",
                     "grade": 3
-                },
-                "exclusive": {
-                    "id": "ROMAN_EXCLUSIVE",
-                    "name": "TEXT_CHAMP_ROMAN_EXCLUSIVE_NAME",
-                    "description": "TEXT_CHAMP_ROMAN_EXCLUSIVE_DESC",
-                    "image": "ui_skill_icon_champ_roman_superpassive",
-                    "grade": 1
                 },
                 "grade": 7
             }
@@ -1100,13 +1142,6 @@
                     "image": "ui_skill_icon_champ_goddess_passive",
                     "grade": 3
                 },
-                "exclusive": {
-                    "id": "GODDESS_EXCLUSIVE",
-                    "name": "TEXT_CHAMP_GODDESS_EXCLUSIVE_NAME",
-                    "description": "TEXT_CHAMP_GODDESS_EXCLUSIVE_DESC",
-                    "image": "ui_skill_icon_champ_goddess_superpassive",
-                    "grade": 1
-                },
                 "grade": 7
             }
         ]
@@ -1228,6 +1263,13 @@
                     "description": "TEXT_CHAMP_NOS_PASSIVE_LV3_DESC",
                     "image": "ui_skill_icon_champ_nos_passive",
                     "grade": 3
+                },
+                "exclusive": {
+                    "id": "NOS_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_NOS_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_NOS_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_nos_superpassive",
+                    "grade": 1
                 },
                 "grade": 7
             }
@@ -1351,6 +1393,13 @@
                     "image": "ui_skill_icon_champ_mino_passive",
                     "grade": 3
                 },
+                "exclusive": {
+                    "id": "MINO_EXCLUSIVE",
+                    "name": "TEXT_CHAMP_MINO_EXCLUSIVE_NAME",
+                    "description": "TEXT_CHAMP_MINO_EXCLUSIVE_DESC",
+                    "image": "ui_skill_icon_champ_mino_superpassive",
+                    "grade": 1
+                },
                 "grade": 7
             }
         ]
@@ -1472,13 +1521,6 @@
                     "description": "TEXT_CHAMP_CHEN_PASSIVE_LV3_DESC",
                     "image": "ui_skill_icon_champ_chen_passive",
                     "grade": 3
-                },
-                "exclusive": {
-                    "id": "CHEN_EXCLUSIVE",
-                    "name": "TEXT_CHAMP_CHEN_EXCLUSIVE_NAME",
-                    "description": "TEXT_CHAMP_CHEN_EXCLUSIVE_DESC",
-                    "image": "ui_skill_icon_champ_chen_superpassive",
-                    "grade": 1
                 },
                 "grade": 7
             }
