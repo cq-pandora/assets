@@ -9,7 +9,7 @@
         "grade": 1,
         "starts_from": 2,
         "image": "fish_freshwater_1_pirami",
-        "exp": 20,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
@@ -27,7 +27,7 @@
         "grade": 1,
         "starts_from": 0.8,
         "image": "fish_freshwater_1_normalfrog",
-        "exp": 40,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
@@ -45,7 +45,7 @@
         "grade": 1,
         "starts_from": 0.6,
         "image": "fish_freshwater_1_guppy",
-        "exp": 40,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
@@ -63,7 +63,7 @@
         "grade": 1,
         "starts_from": 2.2,
         "image": "fish_freshwater_1_candiru",
-        "exp": 40,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
@@ -81,7 +81,7 @@
         "grade": 1,
         "starts_from": 2,
         "image": "fish_freshwater_1_origin_grilledfish",
-        "exp": 40,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
@@ -99,7 +99,7 @@
         "grade": 1,
         "starts_from": 3,
         "image": "fish_freshwater_1_migguragi",
-        "exp": 110,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
@@ -1017,7 +1017,7 @@
         "grade": 1,
         "starts_from": 1.4,
         "image": "fish_sea_1_saewoo",
-        "exp": 40,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
@@ -2191,7 +2191,7 @@
         "grade": 1,
         "starts_from": 4,
         "image": "fish_sea_1_chocolatechipstarfish",
-        "exp": 40,
+        "exp": 198,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
