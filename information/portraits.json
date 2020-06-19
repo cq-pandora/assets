@@ -1111,6 +1111,12 @@
         ],
         "id": "ILLUST_HERO_LIONEL"
     },
+    "TEXT_CHA_PA_6_30_NAME": {
+        "keys": [
+            "portrait_lionmask_default"
+        ],
+        "id": "ILLUST_HERO_LIONMASK"
+    },
     "TEXT_CHA_WI_6_22_NAME": {
         "keys": [
             "portrait_loki_default"
@@ -1236,6 +1242,12 @@
             "portrait_monte_default"
         ],
         "id": "ILLUST_HERO_MONTE"
+    },
+    "TEXT_CHA_WA_6_30_NAME": {
+        "keys": [
+            "portrait_morgan_default"
+        ],
+        "id": "ILLUST_HERO_MORGAN"
     },
     "TEXT_CHA_PA_6_9_NAME": {
         "keys": [
