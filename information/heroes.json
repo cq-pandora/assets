@@ -32,7 +32,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN_NAME",
                 "block_description": "TEXT_SKILL_AR_CONDEMN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "search_member",
+        "readable_id": "search_member",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_1",
                 "name": "TEXT_CHA_AR_2_1_NAME",
@@ -58,7 +70,19 @@
                 "block_name": "TEXT_SKILL_AR_ARROWRAIN2_NAME",
                 "block_description": "TEXT_SKILL_AR_ARROWRAIN2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "foxniper",
+        "readable_id": "foxniper",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_1",
                 "name": "TEXT_CHA_AR_3_1_NAME",
@@ -122,7 +146,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN_NAME",
                 "block_description": "TEXT_SKILL_AR_CONDEMN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "warrior_of_the_desert",
+        "readable_id": "warrior_of_the_desert",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_2",
                 "name": "TEXT_CHA_AR_2_2_NAME",
@@ -148,7 +184,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN2_NAME",
                 "block_description": "TEXT_SKILL_AR_CONDEMN2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "mecha_girl",
+        "readable_id": "mecha_girl",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_2",
                 "name": "TEXT_CHA_AR_3_2_NAME",
@@ -212,7 +260,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN_NAME",
                 "block_description": "TEXT_SKILL_AR_CONDEMN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "clown",
+        "readable_id": "clown",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_3",
                 "name": "TEXT_CHA_AR_3_3_NAME",
@@ -276,7 +336,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN2_NAME",
                 "block_description": "TEXT_SKILL_AR_CONDEMN2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "roman_female_archer",
+        "readable_id": "roman_female_archer",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_4",
                 "name": "TEXT_CHA_AR_2_4_NAME",
@@ -302,7 +374,19 @@
                 "block_name": "TEXT_SKILL_AR_ARROWRAIN2_NAME",
                 "block_description": "TEXT_SKILL_AR_ARROWRAIN2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "velvet_archer",
+        "readable_id": "velvet_archer",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_4",
                 "name": "TEXT_CHA_AR_3_4_NAME",
@@ -366,7 +450,19 @@
                 "block_name": "TEXT_SKILL_AR_ARROWRAIN_NAME",
                 "block_description": "TEXT_SKILL_AR_ARROWRAIN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "royal_cleaner",
+        "readable_id": "royal_cleaner",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_5",
                 "name": "TEXT_CHA_AR_2_5_NAME",
@@ -392,7 +488,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN_NAME",
                 "block_description": "TEXT_SKILL_AR_CONDEMN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "animal_loving_adventurer",
+        "readable_id": "animal_loving_adventurer",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_5",
                 "name": "TEXT_CHA_AR_3_5_NAME",
@@ -494,7 +602,19 @@
                 "block_name": "TEXT_SKILL_AR_FROZEN_THORN_NAME",
                 "block_description": "TEXT_SKILL_AR_FROZEN_THORN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "half_elf",
+        "readable_id": "half_elf",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_7",
                 "name": "TEXT_CHA_AR_2_7_NAME",
@@ -520,7 +640,19 @@
                 "block_name": "TEXT_SKILL_AR_ARROWRAIN2_NAME",
                 "block_description": "TEXT_SKILL_AR_ARROWRAIN2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "polar_hunter",
+        "readable_id": "polar_hunter",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_7",
                 "name": "TEXT_CHA_AR_3_7_NAME",
@@ -584,7 +716,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN2_NAME",
                 "block_description": "TEXT_SKILL_AR_CONDEMN2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "golden_archer_group",
+        "readable_id": "golden_archer_group",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_8",
                 "name": "TEXT_CHA_AR_2_8_NAME",
@@ -610,7 +754,19 @@
                 "block_name": "TEXT_SKILL_AR_ARROWRAIN_NAME",
                 "block_description": "TEXT_SKILL_AR_ARROWRAIN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "private_archer_club",
+        "readable_id": "private_archer_club",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_8",
                 "name": "TEXT_CHA_AR_3_8_NAME",
@@ -674,7 +830,19 @@
                 "block_name": "TEXT_SKILL_AR_WIND_DANCE_NAME",
                 "block_description": "TEXT_SKILL_AR_WIND_DANCE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "northern_hunter",
+        "readable_id": "northern_hunter",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_9",
                 "name": "TEXT_CHA_AR_2_9_NAME",
@@ -776,7 +944,19 @@
                 "block_name": "TEXT_SKILL_AR_ARROWRAIN2_NAME",
                 "block_description": "TEXT_SKILL_AR_ARROWRAIN2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_scorpion",
+        "readable_id": "zodiac_army_scorpion",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_11",
                 "name": "TEXT_CHA_AR_2_11_NAME",
@@ -802,7 +982,19 @@
                 "block_name": "TEXT_SKILL_AR_FLAME_BLAST_NAME",
                 "block_description": "TEXT_SKILL_AR_FLAME_BLAST_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "frost_archer",
+        "readable_id": "frost_archer",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_11",
                 "name": "TEXT_CHA_AR_3_11_NAME",
@@ -866,7 +1058,19 @@
                 "block_name": "TEXT_SKILL_AR_ARACHNE_NAME",
                 "block_description": "TEXT_SKILL_AR_ARACHNE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "mecha_archer",
+        "readable_id": "mecha_archer",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_12",
                 "name": "TEXT_CHA_AR_2_12_NAME",
@@ -930,7 +1134,19 @@
                 "block_name": "TEXT_SKILL_AR_ROCKET_BOOM_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_AR_ROCKET_BOOM_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "manager_of_the_eastern_kingdoms",
+        "readable_id": "manager_of_the_eastern_kingdoms",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_2_13",
                 "name": "TEXT_CHA_AR_2_13_NAME",
@@ -956,7 +1172,19 @@
                 "block_name": "TEXT_SKILL_AR_WILD_BITE_NAME",
                 "block_description": "TEXT_SKILL_AR_WILD_BITE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_virgo",
+        "readable_id": "zodiac_army_virgo",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_13",
                 "name": "TEXT_CHA_AR_3_13_NAME",
@@ -1020,7 +1248,19 @@
                 "block_name": "TEXT_SKILL_AR_SHOOTING_STAR_NAME",
                 "block_description": "TEXT_SKILL_AR_SHOOTING_STAR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "neth_revolutionary_archer",
+        "readable_id": "neth_revolutionary_archer",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_14",
                 "name": "TEXT_CHA_AR_3_14_NAME",
@@ -1084,7 +1324,19 @@
                 "block_name": "TEXT_SKILL_AR_VIOLA_NAME",
                 "block_description": "TEXT_SKILL_AR_VIOLA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "pilgrim_of_elandia",
+        "readable_id": "pilgrim_of_elandia",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_15",
                 "name": "TEXT_CHA_AR_3_15_NAME",
@@ -1148,7 +1400,19 @@
                 "block_name": "TEXT_SKILL_AR_VIOLA_NAME",
                 "block_description": "TEXT_SKILL_AR_VIOLA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "emilia_of_the_cobalt_knights",
+        "readable_id": "emilia_of_the_cobalt_knights",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_16",
                 "name": "TEXT_CHA_AR_3_16_NAME",
@@ -1212,7 +1476,19 @@
                 "block_name": "TEXT_SKILL_AR_CONDEMN2_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_AR_CONDEMN2_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "flamey_ninja",
+        "readable_id": "flamey_ninja",
+        "class": "archer",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_AR_3_17",
                 "name": "TEXT_CHA_AR_3_17_NAME",
@@ -6415,7 +6691,19 @@
                 "block_name": "TEXT_SKILL_HU_POWERBULLET_NAME",
                 "block_description": "TEXT_SKILL_HU_POWERBULLET_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "outlaw",
+        "readable_id": "outlaw",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_1",
                 "name": "TEXT_CHA_HU_2_1_NAME",
@@ -6441,7 +6729,19 @@
                 "block_name": "TEXT_SKILL_HU_RPG_SHOT_NAME",
                 "block_description": "TEXT_SKILL_HU_RPG_SHOT_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "lesser_hunter",
+        "readable_id": "lesser_hunter",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_1",
                 "name": "TEXT_CHA_HU_3_1_NAME",
@@ -6467,7 +6767,19 @@
                 "block_name": "TEXT_SKILL_HU_RPG_SHOT_NAME",
                 "block_description": "TEXT_SKILL_HU_RPG_SHOT_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "muscat",
+        "readable_id": "muscat",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_MUSCAT",
                 "name": "TEXT_CHA_HU_MUSCAT_NAME",
@@ -6531,7 +6843,19 @@
                 "block_name": "TEXT_SKILL_HU_POWERBULLET2_NAME",
                 "block_description": "TEXT_SKILL_HU_POWERBULLET2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "sheriff",
+        "readable_id": "sheriff",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_2",
                 "name": "TEXT_CHA_HU_2_2_NAME",
@@ -6557,7 +6881,19 @@
                 "block_name": "TEXT_SKILL_HU_POWERBULLET2_NAME",
                 "block_description": "TEXT_SKILL_HU_POWERBULLET2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "gatcha_ranger_g",
+        "readable_id": "gatcha_ranger_g",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_2",
                 "name": "TEXT_CHA_HU_3_2_NAME",
@@ -6621,7 +6957,19 @@
                 "block_name": "TEXT_SKILL_HU_POWERBULLET_NAME",
                 "block_description": "TEXT_SKILL_HU_POWERBULLET_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "southern_guard",
+        "readable_id": "southern_guard",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_3",
                 "name": "TEXT_CHA_HU_3_3_NAME",
@@ -6685,7 +7033,19 @@
                 "block_name": "TEXT_SKILL_HU_HEAVYMACHINE_NAME",
                 "block_description": "TEXT_SKILL_HU_HEAVYMACHINE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "archaeologist",
+        "readable_id": "archaeologist",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_4",
                 "name": "TEXT_CHA_HU_2_4_NAME",
@@ -6711,7 +7071,19 @@
                 "block_name": "TEXT_SKILL_HU_BOMB_NAME",
                 "block_description": "TEXT_SKILL_HU_BOMB_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "policewoman",
+        "readable_id": "policewoman",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_4",
                 "name": "TEXT_CHA_HU_3_4_NAME",
@@ -6775,7 +7147,19 @@
                 "block_name": "TEXT_SKILL_HU_POWERBULLET_NAME",
                 "block_description": "TEXT_SKILL_HU_POWERBULLET_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "private_thug",
+        "readable_id": "private_thug",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_5",
                 "name": "TEXT_CHA_HU_2_5_NAME",
@@ -6801,7 +7185,19 @@
                 "block_name": "TEXT_SKILL_HU_HEAVYMACHINE_NAME",
                 "block_description": "TEXT_SKILL_HU_HEAVYMACHINE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "magic_engineer",
+        "readable_id": "magic_engineer",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_5",
                 "name": "TEXT_CHA_HU_3_5_NAME",
@@ -6903,7 +7299,19 @@
                 "block_name": "TEXT_SKILL_HU_CANNON_BOOM_NAME",
                 "block_description": "TEXT_SKILL_HU_CANNON_BOOM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "falcon_corpsman",
+        "readable_id": "falcon_corpsman",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_7",
                 "name": "TEXT_CHA_HU_2_7_NAME",
@@ -6929,7 +7337,19 @@
                 "block_name": "TEXT_SKILL_HU_HEAVYMACHINE_NAME",
                 "block_description": "TEXT_SKILL_HU_HEAVYMACHINE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "gangster",
+        "readable_id": "gangster",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_7",
                 "name": "TEXT_CHA_HU_3_7_NAME",
@@ -6993,7 +7413,19 @@
                 "block_name": "TEXT_SKILL_HU_SNIPING_NAME",
                 "block_description": "TEXT_SKILL_HU_SNIPING_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "marksman_instructor",
+        "readable_id": "marksman_instructor",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_8",
                 "name": "TEXT_CHA_HU_2_8_NAME",
@@ -7019,7 +7451,19 @@
                 "block_name": "TEXT_SKILL_HU_POWERBULLET2_NAME",
                 "block_description": "TEXT_SKILL_HU_POWERBULLET2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "royal_musician",
+        "readable_id": "royal_musician",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_8",
                 "name": "TEXT_CHA_HU_3_8_NAME",
@@ -7083,7 +7527,19 @@
                 "block_name": "TEXT_SKILL_HU_CRIMINAL_DETECT_NAME",
                 "block_description": "TEXT_SKILL_HU_CRIMINAL_DETECT_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "rambunctious_youth",
+        "readable_id": "rambunctious_youth",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_9",
                 "name": "TEXT_CHA_HU_2_9_NAME",
@@ -7185,7 +7641,19 @@
                 "block_name": "TEXT_SKILL_HU_POWERBULLET_NAME",
                 "block_description": "TEXT_SKILL_HU_POWERBULLET_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_sagittarius",
+        "readable_id": "zodiac_army_sagittarius",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_11",
                 "name": "TEXT_CHA_HU_2_11_NAME",
@@ -7211,7 +7679,19 @@
                 "block_name": "TEXT_SKILL_HU_KILL_CASE_NAME",
                 "block_description": "TEXT_SKILL_HU_KILL_CASE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "elite_falcon",
+        "readable_id": "elite_falcon",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_11",
                 "name": "TEXT_CHA_HU_3_11_NAME",
@@ -7275,7 +7755,19 @@
                 "block_name": "TEXT_SKILL_HU_JAHARD_NAME",
                 "block_description": "TEXT_SKILL_HU_JAHARD_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "neth_revolutionary_army",
+        "readable_id": "neth_revolutionary_army",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_12",
                 "name": "TEXT_CHA_HU_2_12_NAME",
@@ -7339,7 +7831,19 @@
                 "block_name": "TEXT_SKILL_HU_KILL_CASE_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_HU_KILL_CASE_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "manager_of_the_southwest_alliance",
+        "readable_id": "manager_of_the_southwest_alliance",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_2_13",
                 "name": "TEXT_CHA_HU_2_13_NAME",
@@ -7365,7 +7869,19 @@
                 "block_name": "TEXT_SKILL_HU_TRIPLE_SHOT_NAME",
                 "block_description": "TEXT_SKILL_HU_TRIPLE_SHOT_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_gemini",
+        "readable_id": "zodiac_army_gemini",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_13",
                 "name": "TEXT_CHA_HU_3_13_NAME",
@@ -7429,7 +7945,19 @@
                 "block_name": "TEXT_SKILL_HU_BOMB_NAME",
                 "block_description": "TEXT_SKILL_HU_BOMB_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "leopard_girls",
+        "readable_id": "leopard_girls",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_14",
                 "name": "TEXT_CHA_HU_3_14_NAME",
@@ -7493,7 +8021,19 @@
                 "block_name": "TEXT_SKILL_HU_KILL_CASE_NAME",
                 "block_description": "TEXT_SKILL_HU_KILL_CASE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "jacie_of_the_cobalt_knights",
+        "readable_id": "jacie_of_the_cobalt_knights",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_15",
                 "name": "TEXT_CHA_HU_3_15_NAME",
@@ -7557,7 +8097,19 @@
                 "block_name": "TEXT_SKILL_HU_DRILL_GUN_NAME",
                 "block_description": "TEXT_SKILL_HU_DRILL_GUN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "lahire_of_the_cobalt_knights",
+        "readable_id": "lahire_of_the_cobalt_knights",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_16",
                 "name": "TEXT_CHA_HU_3_16_NAME",
@@ -7621,7 +8173,19 @@
                 "block_name": "TEXT_SKILL_HU_RAVEN_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_HU_RAVEN_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "bounty_hunter",
+        "readable_id": "bounty_hunter",
+        "class": "hunter",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_17",
                 "name": "TEXT_CHA_HU_3_17_NAME",
@@ -8340,7 +8904,19 @@
                 "block_name": "TEXT_SKILL_HU_BELLBOMB_NAME",
                 "block_description": "TEXT_SKILL_HU_BELLBOMB_DESC",
                 "passive_description": "TEXT_SKILL_HU_BELLBOMB_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "halloween_chocolat",
+        "readable_id": "halloween_chocolat",
+        "class": "hunter",
+        "type": "secret",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_CHOCOLA_HW",
                 "name": "TEXT_CHA_HU_3_CHOCOLA_HW_NAME",
@@ -8366,7 +8942,19 @@
                 "block_name": "TEXT_SKILL_HU_PUMPKIN_SHOT_NAME",
                 "block_description": "TEXT_SKILL_HU_PUMPKIN_SHOT_DESC",
                 "passive_description": "TEXT_SKILL_HU_PUMPKIN_SHOT_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "fishernyan",
+        "readable_id": "fishernyan",
+        "class": "hunter",
+        "type": "secret",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_FISHERCAT",
                 "name": "TEXT_NPC_FISHERCAT_NAME",
@@ -8392,7 +8980,19 @@
                 "block_name": "TEXT_SKILL_HU_FISHERCAT_NAME",
                 "block_description": "TEXT_SKILL_HU_FISHERCAT_DESC",
                 "passive_description": "TEXT_SKILL_HU_FISHERCAT_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "runaway_fergus",
+        "readable_id": "runaway_fergus",
+        "class": "hunter",
+        "type": "secret",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_HU_3_RUNAWAY_FUGUS",
                 "name": "TEXT_CHA_HU_3_RUNAWAY_FUGUS_NAME",
@@ -13700,7 +14300,19 @@
                 "block_name": "TEXT_SKILL_PA_SPIKE_NAME",
                 "block_description": "TEXT_SKILL_PA_SPIKE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "sentry",
+        "readable_id": "sentry",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_1",
                 "name": "TEXT_CHA_PA_2_1_NAME",
@@ -13726,7 +14338,19 @@
                 "block_name": "TEXT_SKILL_PA_SPIKE_NAME",
                 "block_description": "TEXT_SKILL_PA_SPIKE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "roman_soldier",
+        "readable_id": "roman_soldier",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_1",
                 "name": "TEXT_CHA_PA_3_1_NAME",
@@ -13790,7 +14414,19 @@
                 "block_name": "TEXT_SKILL_PA_ANCHOR_NAME",
                 "block_description": "TEXT_SKILL_PA_ANCHOR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "guard",
+        "readable_id": "guard",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_2",
                 "name": "TEXT_CHA_PA_2_2_NAME",
@@ -13816,7 +14452,19 @@
                 "block_name": "TEXT_SKILL_PA_SPIKE_NAME",
                 "block_description": "TEXT_SKILL_PA_SPIKE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "royal_guard",
+        "readable_id": "royal_guard",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_2",
                 "name": "TEXT_CHA_PA_3_2_NAME",
@@ -13880,7 +14528,19 @@
                 "block_name": "TEXT_SKILL_PA_POWERWAVE_NAME",
                 "block_description": "TEXT_SKILL_PA_POWERWAVE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "navy_officer",
+        "readable_id": "navy_officer",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_3",
                 "name": "TEXT_CHA_PA_3_3_NAME",
@@ -13944,7 +14604,19 @@
                 "block_name": "TEXT_SKILL_PA_POWERWAVE_NAME",
                 "block_description": "TEXT_SKILL_PA_POWERWAVE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "eastern_kingdom_soldier",
+        "readable_id": "eastern_kingdom_soldier",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_4",
                 "name": "TEXT_CHA_PA_2_4_NAME",
@@ -13970,7 +14642,19 @@
                 "block_name": "TEXT_SKILL_PA_POWERWAVE2_NAME",
                 "block_description": "TEXT_SKILL_PA_POWERWAVE2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "bear_grills",
+        "readable_id": "bear_grills",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_4",
                 "name": "TEXT_CHA_PA_3_4_NAME",
@@ -14034,7 +14718,19 @@
                 "block_name": "TEXT_SKILL_PA_POWERWAVE2_NAME",
                 "block_description": "TEXT_SKILL_PA_POWERWAVE2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "private_football_club",
+        "readable_id": "private_football_club",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_5",
                 "name": "TEXT_CHA_PA_2_5_NAME",
@@ -14060,7 +14756,19 @@
                 "block_name": "TEXT_SKILL_PA_SPIKE_NAME",
                 "block_description": "TEXT_SKILL_PA_SPIKE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "gatcha_ranger_k",
+        "readable_id": "gatcha_ranger_k",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_5",
                 "name": "TEXT_CHA_PA_3_5_NAME",
@@ -14162,7 +14870,19 @@
                 "block_name": "TEXT_SKILL_PA_ROMAN_SPEAR_NAME",
                 "block_description": "TEXT_SKILL_PA_ROMAN_SPEAR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "war_priest",
+        "readable_id": "war_priest",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_7",
                 "name": "TEXT_CHA_PA_2_7_NAME",
@@ -14188,7 +14908,19 @@
                 "block_name": "TEXT_SKILL_PA_POWERWAVE2_NAME",
                 "block_description": "TEXT_SKILL_PA_POWERWAVE2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "little_devil",
+        "readable_id": "little_devil",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_7",
                 "name": "TEXT_CHA_PA_3_7_NAME",
@@ -14252,7 +14984,19 @@
                 "block_name": "TEXT_SKILL_PA_DEVILWALL_NAME",
                 "block_description": "TEXT_SKILL_PA_DEVILWALL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "popular_clerk",
+        "readable_id": "popular_clerk",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_8",
                 "name": "TEXT_CHA_PA_2_8_NAME",
@@ -14278,7 +15022,19 @@
                 "block_name": "TEXT_SKILL_PA_SPIKE_NAME",
                 "block_description": "TEXT_SKILL_PA_SPIKE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "royal_guidance_counselor",
+        "readable_id": "royal_guidance_counselor",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_8",
                 "name": "TEXT_CHA_PA_3_8_NAME",
@@ -14342,7 +15098,19 @@
                 "block_name": "TEXT_SKILL_PA_SPEAR_SLASH_NAME",
                 "block_description": "TEXT_SKILL_PA_SPEAR_SLASH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "ult_-_28",
+        "readable_id": "ult_-_28",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_9",
                 "name": "TEXT_CHA_PA_2_9_NAME",
@@ -14444,7 +15212,19 @@
                 "block_name": "TEXT_SKILL_PA_SPIKE_NAME",
                 "block_description": "TEXT_SKILL_PA_SPIKE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_capricorn",
+        "readable_id": "zodiac_army_capricorn",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_11",
                 "name": "TEXT_CHA_PA_2_11_NAME",
@@ -14470,7 +15250,19 @@
                 "block_name": "TEXT_SKILL_PA_BRAVE_RUSH_NAME",
                 "block_description": "TEXT_SKILL_PA_BRAVE_RUSH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "ice_miner",
+        "readable_id": "ice_miner",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_11",
                 "name": "TEXT_CHA_PA_3_11_NAME",
@@ -14534,7 +15326,19 @@
                 "block_name": "TEXT_SKILL_PA_SUN_LIGHT_NAME",
                 "block_description": "TEXT_SKILL_PA_SUN_LIGHT_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "neth_engineer",
+        "readable_id": "neth_engineer",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_12",
                 "name": "TEXT_CHA_PA_2_12_NAME",
@@ -14598,7 +15402,19 @@
                 "block_name": "TEXT_SKILL_PA_SUN_LIGHT_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_PA_SUN_LIGHT_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "order_of_the_goddess_knight-in-training",
+        "readable_id": "order_of_the_goddess_knight-in-training",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_2_13",
                 "name": "TEXT_CHA_PA_2_13_NAME",
@@ -14624,7 +15440,19 @@
                 "block_name": "TEXT_SKILL_PA_SUN_LIGHT_NAME",
                 "block_description": "TEXT_SKILL_PA_SUN_LIGHT_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_tau",
+        "readable_id": "zodiac_army_tau",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_13",
                 "name": "TEXT_CHA_PA_3_13_NAME",
@@ -14688,7 +15516,19 @@
                 "block_name": "TEXT_SKILL_PA_DEVILWALL_NAME",
                 "block_description": "TEXT_SKILL_PA_DEVILWALL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "reporter",
+        "readable_id": "reporter",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_14",
                 "name": "TEXT_CHA_PA_3_14_NAME",
@@ -14752,7 +15592,19 @@
                 "block_name": "TEXT_SKILL_PA_PAINWHEEL_NAME",
                 "block_description": "TEXT_SKILL_PA_PAINWHEEL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "guardian_of_the_order",
+        "readable_id": "guardian_of_the_order",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_15",
                 "name": "TEXT_CHA_PA_3_15_NAME",
@@ -14816,7 +15668,19 @@
                 "block_name": "TEXT_SKILL_PA_SCHLA_NAME",
                 "block_description": "TEXT_SKILL_PA_SCHLA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "eugrim_of_the_cobalt_knights",
+        "readable_id": "eugrim_of_the_cobalt_knights",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_16",
                 "name": "TEXT_CHA_PA_3_16_NAME",
@@ -14880,7 +15744,19 @@
                 "block_name": "TEXT_SKILL_PA_HEIM_NAME _S2EP3",
                 "block_description": "TEXT_SKILL_PA_HEIM_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "entman",
+        "readable_id": "entman",
+        "class": "paladin",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_17",
                 "name": "TEXT_CHA_PA_3_17_NAME",
@@ -15480,7 +16356,19 @@
                 "block_name": "TEXT_SKILL_PA_FUGUROID_NAME",
                 "block_description": "TEXT_SKILL_PA_FUGUROID_DESC",
                 "passive_description": "TEXT_SKILL_PA_FUGUROID_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "tapunyan",
+        "readable_id": "tapunyan",
+        "class": "paladin",
+        "type": "secret",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_TAPTAP",
                 "name": "TEXT_CHA_PA_3_TAPTAP_NAME",
@@ -15544,7 +16432,19 @@
                 "block_name": "TEXT_SKILL_PA_WATERSPOUT_NAME",
                 "block_description": "TEXT_SKILL_PA_WATERSPOUT_DESC",
                 "passive_description": "TEXT_SKILL_PA_WATERSPOUT_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "fergus",
+        "readable_id": "fergus",
+        "class": "paladin",
+        "type": "secret",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PA_3_HAMMER_ANVIL",
                 "name": "TEXT_CHA_PA_3_WEAPON_NAME",
@@ -21803,7 +22703,19 @@
                 "block_name": "TEXT_SKILL_PR_ONEHEAL2_NAME",
                 "block_description": "TEXT_SKILL_PR_ONEHEAL2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "elder",
+        "readable_id": "elder",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_1",
                 "name": "TEXT_CHA_PR_2_1_NAME",
@@ -21829,7 +22741,19 @@
                 "block_name": "TEXT_SKILL_PR_ONEHEAL2_NAME",
                 "block_description": "TEXT_SKILL_PR_ONEHEAL2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "meowcat",
+        "readable_id": "meowcat",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_1",
                 "name": "TEXT_CHA_PR_3_1_NAME",
@@ -21893,7 +22817,19 @@
                 "block_name": "TEXT_SKILL_PR_ONEHEAL2_NAME",
                 "block_description": "TEXT_SKILL_PR_ONEHEAL2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "butler",
+        "readable_id": "butler",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_2",
                 "name": "TEXT_CHA_PR_2_2_NAME",
@@ -21919,7 +22855,19 @@
                 "block_name": "TEXT_SKILL_PR_ANGELHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_ANGELHEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "roman_priest",
+        "readable_id": "roman_priest",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_2",
                 "name": "TEXT_CHA_PR_3_2_NAME",
@@ -21983,7 +22931,19 @@
                 "block_name": "TEXT_SKILL_PR_RELICOFHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_RELICOFHEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "first_class_maid",
+        "readable_id": "first_class_maid",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_3",
                 "name": "TEXT_CHA_PR_3_3_NAME",
@@ -22047,7 +23007,19 @@
                 "block_name": "TEXT_SKILL_PR_ONEHEAL2_NAME",
                 "block_description": "TEXT_SKILL_PR_ONEHEAL2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "voodoo_shaman",
+        "readable_id": "voodoo_shaman",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_4",
                 "name": "TEXT_CHA_PR_2_4_NAME",
@@ -22073,7 +23045,19 @@
                 "block_name": "TEXT_SKILL_PR_TRI_TOTEM_NAME",
                 "block_description": "TEXT_SKILL_PR_TRI_TOTEM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "nurse_student",
+        "readable_id": "nurse_student",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_4",
                 "name": "TEXT_CHA_PR_3_4_NAME",
@@ -22137,7 +23121,19 @@
                 "block_name": "TEXT_SKILL_PR_SYRINGEHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_SYRINGEHEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "royal_chef",
+        "readable_id": "royal_chef",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_5",
                 "name": "TEXT_CHA_PR_2_5_NAME",
@@ -22163,7 +23159,19 @@
                 "block_name": "TEXT_SKILL_PR_ONEHEAL2_NAME",
                 "block_description": "TEXT_SKILL_PR_ONEHEAL2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "mother_superior",
+        "readable_id": "mother_superior",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_5",
                 "name": "TEXT_CHA_PR_3_5_NAME",
@@ -22265,7 +23273,19 @@
                 "block_name": "TEXT_SKILL_PR_RELICOFHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_RELICOFHEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "handsome_youth",
+        "readable_id": "handsome_youth",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_7",
                 "name": "TEXT_CHA_PR_2_7_NAME",
@@ -22291,7 +23311,19 @@
                 "block_name": "TEXT_SKILL_PR_ANGELHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_ANGELHEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "bear_fancier",
+        "readable_id": "bear_fancier",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_7",
                 "name": "TEXT_CHA_PR_3_7_NAME",
@@ -22355,7 +23387,19 @@
                 "block_name": "TEXT_SKILL_PR_SYRINGEHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_SYRINGEHEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "saintess_group_of_light",
+        "readable_id": "saintess_group_of_light",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_8",
                 "name": "TEXT_CHA_PR_2_8_NAME",
@@ -22381,7 +23425,19 @@
                 "block_name": "TEXT_SKILL_PR_ONEHEAL2_NAME",
                 "block_description": "TEXT_SKILL_PR_ONEHEAL2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "private_health_nurse",
+        "readable_id": "private_health_nurse",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_8",
                 "name": "TEXT_CHA_PR_3_8_NAME",
@@ -22445,7 +23501,19 @@
                 "block_name": "TEXT_SKILL_PR_PLAY_LIRA_NAME",
                 "block_description": "TEXT_SKILL_PR_PLAY_LIRA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "novelist",
+        "readable_id": "novelist",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_9",
                 "name": "TEXT_CHA_PR_2_9_NAME",
@@ -22547,7 +23615,19 @@
                 "block_name": "TEXT_SKILL_PR_ONEHEAL2_NAME",
                 "block_description": "TEXT_SKILL_PR_ONEHEAL2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_libra",
+        "readable_id": "zodiac_army_libra",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_11",
                 "name": "TEXT_CHA_PR_2_11_NAME",
@@ -22573,7 +23653,19 @@
                 "block_name": "TEXT_SKILL_PR_PLAY_LIRA_NAME",
                 "block_description": "TEXT_SKILL_PR_PLAY_LIRA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "herb_collector",
+        "readable_id": "herb_collector",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_11",
                 "name": "TEXT_CHA_PR_3_11_NAME",
@@ -22637,7 +23729,19 @@
                 "block_name": "TEXT_SKILL_PR_SFERA_NAME",
                 "block_description": "TEXT_SKILL_PR_SFERA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "saint_falcon",
+        "readable_id": "saint_falcon",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_12",
                 "name": "TEXT_CHA_PR_2_12_NAME",
@@ -22701,7 +23805,19 @@
                 "block_name": "TEXT_SKILL_PR_ORDER_TEAM_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_PR_ORDER_TEAM_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "order_of_the_goddess_acolyte",
+        "readable_id": "order_of_the_goddess_acolyte",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_2_13",
                 "name": "TEXT_CHA_PR_2_13_NAME",
@@ -22727,7 +23843,19 @@
                 "block_name": "TEXT_SKILL_PR_STAR_BLESS_NAME",
                 "block_description": "TEXT_SKILL_PR_STAR_BLESS_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_aquarius",
+        "readable_id": "zodiac_army_aquarius",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_13",
                 "name": "TEXT_CHA_PR_3_13_NAME",
@@ -22791,7 +23919,19 @@
                 "block_name": "TEXT_SKILL_PR_OCCULT_POTION_NAME",
                 "block_description": "TEXT_SKILL_PR_OCCULT_POTION_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "neth_military_band",
+        "readable_id": "neth_military_band",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_14",
                 "name": "TEXT_CHA_PR_3_14_NAME",
@@ -22855,7 +23995,19 @@
                 "block_name": "TEXT_SKILL_PR_BLACK_HEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_BLACK_HEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "vius_of_the_cobalt_knights",
+        "readable_id": "vius_of_the_cobalt_knights",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_15",
                 "name": "TEXT_CHA_PR_3_15_NAME",
@@ -22919,7 +24071,19 @@
                 "block_name": "TEXT_SKILL_PR_GOLD_HEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_GOLD_HEAL_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "alecia_of_the_cobalt_knights",
+        "readable_id": "alecia_of_the_cobalt_knights",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_16",
                 "name": "TEXT_CHA_PR_3_16_NAME",
@@ -22983,7 +24147,19 @@
                 "block_name": "TEXT_SKILL_PR_VARNIR_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_PR_VARNIR_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "bewitched_priest",
+        "readable_id": "bewitched_priest",
+        "class": "priest",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_17",
                 "name": "TEXT_CHA_PR_3_17_NAME",
@@ -23592,7 +24768,19 @@
                 "block_name": "TEXT_SKILL_PR_STATUEHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_STATUEHEAL_DESC",
                 "passive_description": "TEXT_SKILL_PR_STATUEHEAL_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "chocolat",
+        "readable_id": "chocolat",
+        "class": "priest",
+        "type": "secret",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_3_CHOCOLA",
                 "name": "TEXT_CHA_PR_3_CHOCOLA_NAME",
@@ -23618,7 +24806,19 @@
                 "block_name": "TEXT_SKILL_PR_BREADHEAL_NAME",
                 "block_description": "TEXT_SKILL_PR_BREADHEAL_DESC",
                 "passive_description": "TEXT_SKILL_PR_BREADHEAL_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "tycoon_wang",
+        "readable_id": "tycoon_wang",
+        "class": "priest",
+        "type": "secret",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_PR_LIMITED_3_1",
                 "name": "TEXT_CHA_PR_LIMITED_3_1_NAME",
@@ -28976,7 +30176,19 @@
                 "block_name": "TEXT_SKILL_WA_JUSTICE_NAME",
                 "block_description": "TEXT_SKILL_WA_JUSTICE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "warrior_of_the_east",
+        "readable_id": "warrior_of_the_east",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_1",
                 "name": "TEXT_CHA_WA_2_1_NAME",
@@ -29002,7 +30214,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDFLASH_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDFLASH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "wing_knight",
+        "readable_id": "wing_knight",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_1",
                 "name": "TEXT_CHA_WA_3_1_NAME",
@@ -29066,7 +30290,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDWAVE2_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDWAVE2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "apprentice_knight",
+        "readable_id": "apprentice_knight",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_2",
                 "name": "TEXT_CHA_WA_2_2_NAME",
@@ -29092,7 +30328,19 @@
                 "block_name": "TEXT_SKILL_WA_JUSTICE_NAME",
                 "block_description": "TEXT_SKILL_WA_JUSTICE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "southern_guard",
+        "readable_id": "southern_guard",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_2",
                 "name": "TEXT_CHA_WA_3_2_NAME",
@@ -29156,7 +30404,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDWAVE_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDWAVE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "sister_knight",
+        "readable_id": "sister_knight",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_3",
                 "name": "TEXT_CHA_WA_3_3_NAME",
@@ -29220,7 +30480,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDWAVE_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDWAVE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "valencian_navy",
+        "readable_id": "valencian_navy",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_4",
                 "name": "TEXT_CHA_WA_2_4_NAME",
@@ -29246,7 +30518,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDWAVE2_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDWAVE2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "space_swordsman",
+        "readable_id": "space_swordsman",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_4",
                 "name": "TEXT_CHA_WA_3_4_NAME",
@@ -29310,7 +30594,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDFLASH_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDFLASH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "royal_academy_track_club",
+        "readable_id": "royal_academy_track_club",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_5",
                 "name": "TEXT_CHA_WA_2_5_NAME",
@@ -29336,7 +30632,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDWAVE_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDWAVE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "brave_dog",
+        "readable_id": "brave_dog",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_5",
                 "name": "TEXT_CHA_WA_3_5_NAME",
@@ -29438,7 +30746,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDFLASH_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDFLASH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "amazon",
+        "readable_id": "amazon",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_7",
                 "name": "TEXT_CHA_WA_2_7_NAME",
@@ -29464,7 +30784,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDWAVE2_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDWAVE2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "banshee",
+        "readable_id": "banshee",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_7",
                 "name": "TEXT_CHA_WA_3_7_NAME",
@@ -29528,7 +30860,19 @@
                 "block_name": "TEXT_SKILL_WA_SWORDWAVE2_NAME",
                 "block_description": "TEXT_SKILL_WA_SWORDWAVE2_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "central_empire_soldier",
+        "readable_id": "central_empire_soldier",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_8",
                 "name": "TEXT_CHA_WA_2_8_NAME",
@@ -29554,7 +30898,19 @@
                 "block_name": "TEXT_SKILL_WA_DARKJUSTICE_NAME",
                 "block_description": "TEXT_SKILL_WA_DARKJUSTICE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "private_academy_kendo_club",
+        "readable_id": "private_academy_kendo_club",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_8",
                 "name": "TEXT_CHA_WA_3_8_NAME",
@@ -29618,7 +30974,19 @@
                 "block_name": "TEXT_SKILL_WA_VICTORY_RUSH_NAME",
                 "block_description": "TEXT_SKILL_WA_VICTORY_RUSH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "ice_sculptor",
+        "readable_id": "ice_sculptor",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_9",
                 "name": "TEXT_CHA_WA_2_9_NAME",
@@ -29720,7 +31088,19 @@
                 "block_name": "TEXT_SKILL_WA_VICTORY_RUSH_NAME",
                 "block_description": "TEXT_SKILL_WA_VICTORY_RUSH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_leo",
+        "readable_id": "zodiac_army_leo",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_11",
                 "name": "TEXT_CHA_WA_2_11_NAME",
@@ -29746,7 +31126,19 @@
                 "block_name": "TEXT_SKILL_WA_HEART_SWORD_NAME",
                 "block_description": "TEXT_SKILL_WA_HEART_SWORD_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "wolf_guard",
+        "readable_id": "wolf_guard",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_11",
                 "name": "TEXT_CHA_WA_3_11_NAME",
@@ -29810,7 +31202,19 @@
                 "block_name": "TEXT_SKILL_WA_ECHIDNA_NAME",
                 "block_description": "TEXT_SKILL_WA_ECHIDNA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "east_alliance_-_chen",
+        "readable_id": "east_alliance_-_chen",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_12",
                 "name": "TEXT_CHA_WA_2_12_NAME",
@@ -29874,7 +31278,19 @@
                 "block_name": "TEXT_SKILL_WA_WILD_NATURE_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_WA_WILD_NATURE_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "manager_of_the_minor_tribes'_confederation",
+        "readable_id": "manager_of_the_minor_tribes'_confederation",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_2_13",
                 "name": "TEXT_CHA_WA_2_13_NAME",
@@ -29900,7 +31316,19 @@
                 "block_name": "TEXT_SKILL_WA_SOLTAR_SLASH_NAME",
                 "block_description": "TEXT_SKILL_WA_SOLTAR_SLASH_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_aries",
+        "readable_id": "zodiac_army_aries",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_13",
                 "name": "TEXT_CHA_WA_3_13_NAME",
@@ -29964,7 +31392,19 @@
                 "block_name": "TEXT_SKILL_WA_JUSTICE_NAME",
                 "block_description": "TEXT_SKILL_WA_JUSTICE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "valencian_knight",
+        "readable_id": "valencian_knight",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_14",
                 "name": "TEXT_CHA_WA_3_14_NAME",
@@ -30028,7 +31468,19 @@
                 "block_name": "TEXT_SKILL_WA_REJECT_THORN_NAME",
                 "block_description": "TEXT_SKILL_WA_REJECT_THORN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "david_of_the_cobalt_knights",
+        "readable_id": "david_of_the_cobalt_knights",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_15",
                 "name": "TEXT_CHA_WA_3_15_NAME",
@@ -30092,7 +31544,19 @@
                 "block_name": "TEXT_SKILL_WA_KASSIA_NAME",
                 "block_description": "TEXT_SKILL_WA_KASSIA_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "linia_of_the_cobalt_knights",
+        "readable_id": "linia_of_the_cobalt_knights",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_16",
                 "name": "TEXT_CHA_WA_3_16_NAME",
@@ -30156,7 +31620,19 @@
                 "block_name": "TEXT_SKILL_WA_RANDGRID_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_WA_RANDGRID_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "ratman_enthusiast",
+        "readable_id": "ratman_enthusiast",
+        "class": "warrior",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WA_3_17",
                 "name": "TEXT_CHA_WA_3_17_NAME",
@@ -38130,7 +39606,19 @@
                 "block_name": "TEXT_SKILL_WA_JUSTICE_NAME",
                 "block_description": "TEXT_SKILL_WA_JUSTICE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "battleloid_s-4",
+        "readable_id": "battleloid_s-4",
+        "class": "warrior",
+        "type": "support",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
             {
                 "id": "CHA_WA_SUPPORT_4_1",
                 "name": "TEXT_CHA_WA_SUPPORT_4_1_NAME",
@@ -38156,7 +39644,19 @@
                 "block_name": "TEXT_SKILL_WA_JUSTICE_NAME",
                 "block_description": "TEXT_SKILL_WA_JUSTICE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "battleloid_s-5",
+        "readable_id": "battleloid_s-5",
+        "class": "warrior",
+        "type": "support",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
             {
                 "id": "CHA_WA_SUPPORT_5_1",
                 "name": "TEXT_CHA_WA_SUPPORT_5_1_NAME",
@@ -38182,7 +39682,19 @@
                 "block_name": "TEXT_SKILL_WA_JUSTICE_NAME",
                 "block_description": "TEXT_SKILL_WA_JUSTICE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "battleloid_s-6",
+        "readable_id": "battleloid_s-6",
+        "class": "warrior",
+        "type": "support",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
             {
                 "id": "CHA_WA_SUPPORT_6_1",
                 "name": "TEXT_CHA_WA_SUPPORT_6_1_NAME",
@@ -38246,7 +39758,19 @@
                 "block_name": "TEXT_SKILL_WI_METEOR_NAME",
                 "block_description": "TEXT_SKILL_WI_METEOR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "witch_delivery_trainee",
+        "readable_id": "witch_delivery_trainee",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_1",
                 "name": "TEXT_CHA_WI_2_1_NAME",
@@ -38272,7 +39796,19 @@
                 "block_name": "TEXT_SKILL_WI_METEOR_NAME",
                 "block_description": "TEXT_SKILL_WI_METEOR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "stormy_ninja",
+        "readable_id": "stormy_ninja",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_1",
                 "name": "TEXT_CHA_WI_3_1_NAME",
@@ -38336,7 +39872,19 @@
                 "block_name": "TEXT_SKILL_WI_METEOR_NAME",
                 "block_description": "TEXT_SKILL_WI_METEOR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "common_magician",
+        "readable_id": "common_magician",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_2",
                 "name": "TEXT_CHA_WI_2_2_NAME",
@@ -38362,7 +39910,19 @@
                 "block_name": "TEXT_SKILL_WI_BLIZZARD_NAME",
                 "block_description": "TEXT_SKILL_WI_BLIZZARD_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "neth_army_female_executive",
+        "readable_id": "neth_army_female_executive",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_2",
                 "name": "TEXT_CHA_WI_3_2_NAME",
@@ -38426,7 +39986,19 @@
                 "block_name": "TEXT_SKILL_WI_METEOR_NAME",
                 "block_description": "TEXT_SKILL_WI_METEOR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "vampire",
+        "readable_id": "vampire",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_3",
                 "name": "TEXT_CHA_WI_3_3_NAME",
@@ -38490,7 +40062,19 @@
                 "block_name": "TEXT_SKILL_WI_BLIZZARD_NAME",
                 "block_description": "TEXT_SKILL_WI_BLIZZARD_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "druid_elf",
+        "readable_id": "druid_elf",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_4",
                 "name": "TEXT_CHA_WI_2_4_NAME",
@@ -38516,7 +40100,19 @@
                 "block_name": "TEXT_SKILL_WI_ENERGYBEAM_NAME",
                 "block_description": "TEXT_SKILL_WI_ENERGYBEAM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "lost_mountain_girl",
+        "readable_id": "lost_mountain_girl",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_4",
                 "name": "TEXT_CHA_WI_3_4_NAME",
@@ -38580,7 +40176,19 @@
                 "block_name": "TEXT_SKILL_WI_ENERGYBEAM_NAME",
                 "block_description": "TEXT_SKILL_WI_ENERGYBEAM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "royal_librarian",
+        "readable_id": "royal_librarian",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_5",
                 "name": "TEXT_CHA_WI_2_5_NAME",
@@ -38606,7 +40214,19 @@
                 "block_name": "TEXT_SKILL_WI_METEOR_NAME",
                 "block_description": "TEXT_SKILL_WI_METEOR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "gatcha_ranger_b",
+        "readable_id": "gatcha_ranger_b",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_5",
                 "name": "TEXT_CHA_WI_3_5_NAME",
@@ -38708,7 +40328,19 @@
                 "block_name": "TEXT_SKILL_WI_JUDGE_CROSS_NAME",
                 "block_description": "TEXT_SKILL_WI_JUDGE_CROSS_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "elegant_lady",
+        "readable_id": "elegant_lady",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_7",
                 "name": "TEXT_CHA_WI_2_7_NAME",
@@ -38734,7 +40366,19 @@
                 "block_name": "TEXT_SKILL_WI_BATSTORM_NAME",
                 "block_description": "TEXT_SKILL_WI_BATSTORM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "mecha_girl_ver.0",
+        "readable_id": "mecha_girl_ver.0",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_7",
                 "name": "TEXT_CHA_WI_3_7_NAME",
@@ -38798,7 +40442,19 @@
                 "block_name": "TEXT_SKILL_WI_BLIZZARD_NAME",
                 "block_description": "TEXT_SKILL_WI_BLIZZARD_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "dancer",
+        "readable_id": "dancer",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_8",
                 "name": "TEXT_CHA_WI_2_8_NAME",
@@ -38824,7 +40480,19 @@
                 "block_name": "TEXT_SKILL_WI_ENERGYBEAM_NAME",
                 "block_description": "TEXT_SKILL_WI_ENERGYBEAM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "private_occultist",
+        "readable_id": "private_occultist",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_8",
                 "name": "TEXT_CHA_WI_3_8_NAME",
@@ -38888,7 +40556,19 @@
                 "block_name": "TEXT_SKILL_WI_WATER_BOUNCE_NAME",
                 "block_description": "TEXT_SKILL_WI_WATER_BOUNCE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "robotics_engineer",
+        "readable_id": "robotics_engineer",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_9",
                 "name": "TEXT_CHA_WI_2_9_NAME",
@@ -38990,7 +40670,19 @@
                 "block_name": "TEXT_SKILL_WI_WATER_BOUNCE_NAME",
                 "block_description": "TEXT_SKILL_WI_WATER_BOUNCE_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_ophiuchus",
+        "readable_id": "zodiac_army_ophiuchus",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_11",
                 "name": "TEXT_CHA_WI_2_11_NAME",
@@ -39016,7 +40708,19 @@
                 "block_name": "TEXT_SKILL_WI_SUMMON_BEAST_NAME",
                 "block_description": "TEXT_SKILL_WI_SUMMON_BEAST_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "frost_mage",
+        "readable_id": "frost_mage",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_11",
                 "name": "TEXT_CHA_WI_3_11_NAME",
@@ -39080,7 +40784,19 @@
                 "block_name": "TEXT_SKILL_WI_MAGIC_SCAN_NAME",
                 "block_description": "TEXT_SKILL_WI_MAGIC_SCAN_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "revolutionary_researcher",
+        "readable_id": "revolutionary_researcher",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_12",
                 "name": "TEXT_CHA_WI_2_12_NAME",
@@ -39144,7 +40860,19 @@
                 "block_name": "TEXT_SKILL_WI_LACIES_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_WI_LACIES_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "librarian_of_the_order",
+        "readable_id": "librarian_of_the_order",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_2_13",
                 "name": "TEXT_CHA_WI_2_13_NAME",
@@ -39170,7 +40898,19 @@
                 "block_name": "TEXT_SKILL_WI_THIEF_APPEAR_NAME",
                 "block_description": "TEXT_SKILL_WI_THIEF_APPEAR_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "zodiac_army_cancer",
+        "readable_id": "zodiac_army_cancer",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_13",
                 "name": "TEXT_CHA_WI_3_13_NAME",
@@ -39234,7 +40974,19 @@
                 "block_name": "TEXT_SKILL_WI_BATSTORM_NAME",
                 "block_description": "TEXT_SKILL_WI_BATSTORM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "announcer",
+        "readable_id": "announcer",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_14",
                 "name": "TEXT_CHA_WI_3_14_NAME",
@@ -39298,7 +41050,19 @@
                 "block_name": "TEXT_SKILL_WI_WOLFRAM_NAME",
                 "block_description": "TEXT_SKILL_WI_WOLFRAM_DESC",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "lawiya_of_the_cobalt_knights",
+        "readable_id": "lawiya_of_the_cobalt_knights",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_15",
                 "name": "TEXT_CHA_WI_3_15_NAME",
@@ -39362,7 +41126,19 @@
                 "block_name": "TEXT_SKILL_WI_OSIRIS_NAME",
                 "block_description": "TEXT_SKILL_WI_OSIRIS_DESC_S2EP2",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "inquisitor_of_the_order",
+        "readable_id": "inquisitor_of_the_order",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "male",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_16",
                 "name": "TEXT_CHA_WI_3_16_NAME",
@@ -39426,7 +41202,19 @@
                 "block_name": "TEXT_SKILL_WI_BLIZZARD_NAME_S2EP3",
                 "block_description": "TEXT_SKILL_WI_BLIZZARD_DESC_S2EP3",
                 "passive_description": null
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "bewitched_magician",
+        "readable_id": "bewitched_magician",
+        "class": "wizard",
+        "type": "promotable",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_17",
                 "name": "TEXT_CHA_WI_3_17_NAME",
@@ -40034,7 +41822,19 @@
                 "block_name": "TEXT_SKILL_WI_SOCKSDROP_NAME",
                 "block_description": "TEXT_SKILL_WI_SOCKSDROP_DESC",
                 "passive_description": "TEXT_SKILL_WI_SOCKSDROP_SUBDESC"
-            },
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
+        "id": "lovely_chocolat",
+        "readable_id": "lovely_chocolat",
+        "class": "wizard",
+        "type": "secret",
+        "gender": "female",
+        "domain": null,
+        "forms": [
             {
                 "id": "CHA_WI_3_CHOCOLA_VT",
                 "name": "TEXT_CHA_WI_3_CHOCOLA_VT_NAME",
@@ -40231,32 +42031,6 @@
                 "passive_description": "TEXT_SKILL_WI_ANESIDORA_LV2_SUBDESC"
             },
             {
-                "id": "CHA_WI_UNIQUE_4_LOVIATAR",
-                "name": "TEXT_CHA_WI_UNIQUE_4_LOVIATAR_NAME",
-                "image": "wi_unique_4_loviatar",
-                "star": 4,
-                "accuracy": 0,
-                "armor": 28.080000000000002,
-                "armor_pen": 0,
-                "atk_power": 930.8000000000001,
-                "crit_chance": 0.1,
-                "crit_chance_reduction": 0,
-                "crit_dmg": 0.5,
-                "dmg_reduction": 0,
-                "evasion": 0,
-                "hp": 2022.8000000000002,
-                "lifesteal": 0,
-                "resistance": 110.0775,
-                "resistance_pen": 0,
-                "lore": "TEXT_CHA_WI_UNIQUE_4_LOVIATAR_DESC",
-                "block_image": "ui_skill_icon_wizard_loviatar",
-                "skill_lvl": 2,
-                "passive_name": "TEXT_SKILL_WI_LOVIATAR_SUBNAME",
-                "block_name": "TEXT_SKILL_WI_LOVIATAR_NAME",
-                "block_description": "TEXT_SKILL_WI_LOVIATAR_DESC",
-                "passive_description": "TEXT_SKILL_WI_LOVIATAR_LV2_SUBDESC"
-            },
-            {
                 "id": "CHA_WI_LIMITED_FIFTH_5_ANESIDORA",
                 "name": "TEXT_CHA_WI_LIMTED_FIFTH_5_ANESIDORA_NAME",
                 "image": "wi_limted_fifth_5_anesidora",
@@ -40281,32 +42055,6 @@
                 "block_name": "TEXT_SKILL_WI_ANESIDORA_NAME",
                 "block_description": "TEXT_SKILL_WI_ANESIDORA_DESC",
                 "passive_description": "TEXT_SKILL_WI_ANESIDORA_LV2_SUBDESC"
-            },
-            {
-                "id": "CHA_WI_UNIQUE_5_LOVIATAR",
-                "name": "TEXT_CHA_WI_UNIQUE_5_LOVIATAR_NAME",
-                "image": "wi_unique_5_loviatar",
-                "star": 5,
-                "accuracy": 0,
-                "armor": 44.099999999999994,
-                "armor_pen": 0,
-                "atk_power": 1337,
-                "crit_chance": 0.1,
-                "crit_chance_reduction": 0,
-                "crit_dmg": 0.5,
-                "dmg_reduction": 0,
-                "evasion": 0,
-                "hp": 3088.3999999999996,
-                "lifesteal": 0,
-                "resistance": 177.345,
-                "resistance_pen": 0,
-                "lore": "TEXT_CHA_WI_UNIQUE_5_LOVIATAR_DESC",
-                "block_image": "ui_skill_icon_wizard_loviatar",
-                "skill_lvl": 2,
-                "passive_name": "TEXT_SKILL_WI_LOVIATAR_SUBNAME",
-                "block_name": "TEXT_SKILL_WI_LOVIATAR_NAME",
-                "block_description": "TEXT_SKILL_WI_LOVIATAR_DESC",
-                "passive_description": "TEXT_SKILL_WI_LOVIATAR_LV2_SUBDESC"
             },
             {
                 "id": "CHA_WI_LIMITED_FIFTH_6_ANESIDORA",
@@ -40343,6 +42091,129 @@
                     "hp": 575.1,
                     "resistance": 89.6
                 }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_ST_FIFTH_ANESIDORA_4",
+                "name": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_4_NAME",
+                "image": "st_wi_limted_fifth_anesidora_4",
+                "ability": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_4_DESC",
+                "star": 4,
+                "atk_power": 100,
+                "atk_speed": 0.8,
+                "class": "staff"
+            },
+            {
+                "id": "WEP_LEGEND_ST_FIFTH_ANESIDORA_5",
+                "name": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_5_NAME",
+                "image": "st_wi_limted_fifth_anesidora_5",
+                "ability": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_5_DESC",
+                "star": 5,
+                "atk_power": 180,
+                "atk_speed": 0.8,
+                "class": "staff"
+            },
+            {
+                "id": "WEP_LEGEND_ST_FIFTH_ANESIDORA_6",
+                "name": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_6_NAME",
+                "image": "st_wi_limted_fifth_anesidora_6",
+                "ability": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_6_DESC",
+                "star": 6,
+                "atk_power": 308,
+                "atk_speed": 0.8,
+                "class": "staff"
+            }
+        ],
+        "skins": [
+            {
+                "id": 64,
+                "image": "cos_event_anesidora_2",
+                "cost": 1000,
+                "name": "TEXT_COS_EVENT_ANESIDORA_BIKINI_FIFTH",
+                "stats": {
+                    "atk_power": 100
+                }
+            },
+            {
+                "id": 65,
+                "image": "cos_event_anesidora_1",
+                "cost": 1000,
+                "name": "TEXT_COS_EVENT_ANESIDORA_PANDORA_FIFTH",
+                "stats": {
+                    "atk_power": 100
+                }
+            },
+            {
+                "id": 66,
+                "image": "cos_event_anesidora_3",
+                "cost": 1000,
+                "name": "TEXT_COS_EVENT_ANESIDORA_SCHOOL_FIFTH",
+                "stats": {
+                    "atk_power": 100
+                }
+            }
+        ]
+    },
+    {
+        "id": "loviatar",
+        "readable_id": "loviatar",
+        "class": "wizard",
+        "type": "secret",
+        "gender": "female",
+        "domain": "PUMP",
+        "forms": [
+            {
+                "id": "CHA_WI_UNIQUE_4_LOVIATAR",
+                "name": "TEXT_CHA_WI_UNIQUE_4_LOVIATAR_NAME",
+                "image": "wi_unique_4_loviatar",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 28.080000000000002,
+                "armor_pen": 0,
+                "atk_power": 930.8000000000001,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 2022.8000000000002,
+                "lifesteal": 0,
+                "resistance": 110.0775,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WI_UNIQUE_4_LOVIATAR_DESC",
+                "block_image": "ui_skill_icon_wizard_loviatar",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_LOVIATAR_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_LOVIATAR_NAME",
+                "block_description": "TEXT_SKILL_WI_LOVIATAR_DESC",
+                "passive_description": "TEXT_SKILL_WI_LOVIATAR_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_WI_UNIQUE_5_LOVIATAR",
+                "name": "TEXT_CHA_WI_UNIQUE_5_LOVIATAR_NAME",
+                "image": "wi_unique_5_loviatar",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 44.099999999999994,
+                "armor_pen": 0,
+                "atk_power": 1337,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 3088.3999999999996,
+                "lifesteal": 0,
+                "resistance": 177.345,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WI_UNIQUE_5_LOVIATAR_DESC",
+                "block_image": "ui_skill_icon_wizard_loviatar",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_LOVIATAR_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_LOVIATAR_NAME",
+                "block_description": "TEXT_SKILL_WI_LOVIATAR_DESC",
+                "passive_description": "TEXT_SKILL_WI_LOVIATAR_LV2_SUBDESC"
             },
             {
                 "id": "CHA_WI_UNIQUE_6_LOVIATAR",
@@ -40383,36 +42254,6 @@
         ],
         "sbws": [
             {
-                "id": "WEP_LEGEND_ST_FIFTH_ANESIDORA_4",
-                "name": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_4_NAME",
-                "image": "st_wi_limted_fifth_anesidora_4",
-                "ability": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_4_DESC",
-                "star": 4,
-                "atk_power": 100,
-                "atk_speed": 0.8,
-                "class": "staff"
-            },
-            {
-                "id": "WEP_LEGEND_ST_FIFTH_ANESIDORA_5",
-                "name": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_5_NAME",
-                "image": "st_wi_limted_fifth_anesidora_5",
-                "ability": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_5_DESC",
-                "star": 5,
-                "atk_power": 180,
-                "atk_speed": 0.8,
-                "class": "staff"
-            },
-            {
-                "id": "WEP_LEGEND_ST_FIFTH_ANESIDORA_6",
-                "name": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_6_NAME",
-                "image": "st_wi_limted_fifth_anesidora_6",
-                "ability": "TEXT_WEP_LEGEND_ST_FIFTH_ANESIDORA_6_DESC",
-                "star": 6,
-                "atk_power": 308,
-                "atk_speed": 0.8,
-                "class": "staff"
-            },
-            {
                 "id": "WEP_LEGEND_ST_UNIQUE_4_LOVIATAR",
                 "name": "TEXT_WEP_LEGEND_ST_UNIQUE_4_LOVIATAR_NAME",
                 "image": "st_unique_loviatar_4",
@@ -40443,35 +42284,7 @@
                 "class": "staff"
             }
         ],
-        "skins": [
-            {
-                "id": 64,
-                "image": "cos_event_anesidora_2",
-                "cost": 1000,
-                "name": "TEXT_COS_EVENT_ANESIDORA_BIKINI_FIFTH",
-                "stats": {
-                    "atk_power": 100
-                }
-            },
-            {
-                "id": 65,
-                "image": "cos_event_anesidora_1",
-                "cost": 1000,
-                "name": "TEXT_COS_EVENT_ANESIDORA_PANDORA_FIFTH",
-                "stats": {
-                    "atk_power": 100
-                }
-            },
-            {
-                "id": 66,
-                "image": "cos_event_anesidora_3",
-                "cost": 1000,
-                "name": "TEXT_COS_EVENT_ANESIDORA_SCHOOL_FIFTH",
-                "stats": {
-                    "atk_power": 100
-                }
-            }
-        ]
+        "skins": []
     },
     {
         "id": "ana",
