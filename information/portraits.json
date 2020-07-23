@@ -680,6 +680,12 @@
         ],
         "id": "ILLUST_HERO_ATHOS"
     },
+    "TEXT_CHA_AR_6_30_NAME": {
+        "keys": [
+            "portrait_aurea_default"
+        ],
+        "id": "ILLUST_HERO_AUREA"
+    },
     "TEXT_CHA_PR_6_27_NAME": {
         "keys": [
             "portrait_basquiat_default"
@@ -1507,6 +1513,12 @@
             "portrait_sigruna_default"
         ],
         "id": "ILLUST_HERO_SIGRUNA"
+    },
+    "TEXT_CHA_HU_6_30_NAME": {
+        "keys": [
+            "portrait_silver_default"
+        ],
+        "id": "ILLUST_HERO_SILVER"
     },
     "TEXT_CHA_WA_6_26_NAME": {
         "keys": [

@@ -1998,6 +1998,42 @@
         ]
     },
     {
+        "id": "FISH_EVENT_SALMON_8TH",
+        "name": "TEXT_FISH_EVENT_SALMON_NAME",
+        "description": "TEXT_FISH_EVENT_SALMON_DESC",
+        "habitat": "event",
+        "rank": "event",
+        "type": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "fish_event_haslasalmon",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T3",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "FISH_EVENT_CATBOX_T3",
+        "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T3_NAME",
+        "description": "TEXT_FISH_EVENT_CATBOX_DESC",
+        "habitat": "event",
+        "rank": "eventbox",
+        "type": "event",
+        "grade": 6,
+        "starts_from": 0.5,
+        "image": "ui_item_box_fishing_06",
+        "exp": 224,
+        "rewards": [
+            {
+                "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T3",
+                "amount": 1
+            }
+        ]
+    },
+    {
         "id": "FISH_EVENT_COUPLE_NORMALFROG",
         "name": "TEXT_FISH_EVENT_COUPLE_NORMALFROG_NAME",
         "description": "TEXT_FISH_EVENT_COUPLE_NORMALFROG_DESC",
