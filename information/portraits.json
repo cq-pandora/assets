@@ -461,6 +461,12 @@
         ],
         "id": "ILLUST_COLLABO_YSSAHAD"
     },
+    "TEXT_NPC_ARRAT_NAME": {
+        "keys": [
+            "portrait_arrat_default"
+        ],
+        "id": "ILLUST_ENEMY_ARRAT"
+    },
     "TEXT_MON_BS_RAID_AVARTAR_LOKI_NAME": {
         "keys": [
             "portrait_avatarloki_default"
@@ -529,6 +535,12 @@
             "portrait_jeraphim_default"
         ],
         "id": "ILLUST_ENEMY_JERAPHIM"
+    },
+    "TEXT_MON_BS_S2_EP4_LEVINLUDVICCO_NAME": {
+        "keys": [
+            "portrait_levinludvicco_default"
+        ],
+        "id": "ILLUST_ENEMY_LEVINLUDVICCO"
     },
     "TEXT_MANACAR_NAME": {
         "keys": [
@@ -856,6 +868,12 @@
         ],
         "id": "ILLUST_HERO_ECHIDNA"
     },
+    "TEXT_CHA_PR_UNIQUE_6_ELLIE": {
+        "keys": [
+            "portrait_ellie2_default"
+        ],
+        "id": "ILLUST_HERO_ELLIE2"
+    },
     "TEXT_CHA_PR_6_16_NAME": {
         "keys": [
             "portrait_faust_default"
@@ -1079,6 +1097,12 @@
         ],
         "id": "ILLUST_HERO_LACIES"
     },
+    "TEXT_CHA_HU_LIMITED_FOURWEEK_6_LASIRENE_NAME": {
+        "keys": [
+            "portrait_lasirene_default"
+        ],
+        "id": "ILLUST_HERO_LASIRENE"
+    },
     "TEXT_CHA_AR_6_15_NAME": {
         "keys": [
             "portrait_lee_default"
@@ -1135,7 +1159,7 @@
         ],
         "id": "ILLUST_HERO_LORELEI"
     },
-    "TEXT_STAT_CHA_WI_UNIQUE_6_LOVIATAR": {
+    "TEXT_CHA_WI_UNIQUE_6_LOVIATAR": {
         "keys": [
             "portrait_loviatar_default"
         ],
@@ -1194,6 +1218,12 @@
             "portrait_mandy_default"
         ],
         "id": "ILLUST_HERO_MANDY"
+    },
+    "TEXT_CHA_WA_LIMITED_FOURWEEK_6_MARE_NAME": {
+        "keys": [
+            "portrait_mare_default"
+        ],
+        "id": "ILLUST_HERO_MARE"
     },
     "TEXT_CHA_PR_6_2_NAME": {
         "keys": [
@@ -1753,6 +1783,12 @@
             "portrait_fugus_default"
         ],
         "id": "ILLUST_NPC_FUGUS"
+    },
+    "TEXT_NPC_GALATEA_NAME": {
+        "keys": [
+            "portrait_galatea_default"
+        ],
+        "id": "ILLUST_NPC_GALATEA"
     },
     "TEXT_NPC_GYPSI_PORTER_NAME": {
         "keys": [
