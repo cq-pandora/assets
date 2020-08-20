@@ -1091,6 +1091,12 @@
         ],
         "id": "ILLUST_HERO_KRIEMHILD"
     },
+    "TEXT_CHA_WI_6_30_NAME": {
+        "keys": [
+            "portrait_label_default"
+        ],
+        "id": "ILLUST_HERO_LABEL"
+    },
     "TEXT_CHA_WI_6_24_NAME": {
         "keys": [
             "portrait_lacies_default"
@@ -1133,6 +1139,12 @@
             "portrait_lindsey_default"
         ],
         "id": "ILLUST_HERO_LINDSEY"
+    },
+    "TEXT_CHA_PR_6_30_NAME": {
+        "keys": [
+            "portrait_linnae_default"
+        ],
+        "id": "ILLUST_HERO_LINNAE"
     },
     "TEXT_CHA_WA_6_14_NAME": {
         "keys": [
