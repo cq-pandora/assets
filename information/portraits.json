@@ -77,11 +77,23 @@
         ],
         "id": "ILLUST_COLLABO_ERCAT"
     },
+    "TEXT_CHA_PA_LIMITED_ER_6_10_NAME": {
+        "keys": [
+            "portrait_erchicken_default"
+        ],
+        "id": "ILLUST_COLLABO_ERCHICKEN"
+    },
     "TEXT_CHA_PA_LIMITED_ER_6_02_NAME": {
         "keys": [
             "portrait_ercow_default"
         ],
         "id": "ILLUST_COLLABO_ERCOW"
+    },
+    "TEXT_CHA_WA_LIMITED_ER_6_11_NAME": {
+        "keys": [
+            "portrait_erdog_default"
+        ],
+        "id": "ILLUST_COLLABO_ERDOG"
     },
     "TEXT_CHA_WI_LIMITED_ER_6_05_NAME": {
         "keys": [
@@ -89,17 +101,41 @@
         ],
         "id": "ILLUST_COLLABO_ERDRAGON"
     },
+    "TEXT_CHA_AR_LIMITED_ER_6_07_NAME": {
+        "keys": [
+            "portrait_erhorse_default"
+        ],
+        "id": "ILLUST_COLLABO_ERHORSE"
+    },
+    "TEXT_CHA_PA_LIMITED_ER_6_09_NAME": {
+        "keys": [
+            "portrait_ermonkey_default"
+        ],
+        "id": "ILLUST_COLLABO_ERMONKEY"
+    },
     "TEXT_CHA_WA_LIMITED_ER_6_01_NAME": {
         "keys": [
             "portrait_ermouse_default"
         ],
         "id": "ILLUST_COLLABO_ERMOUSE"
     },
+    "TEXT_CHA_PA_LIMITED_ER_6_12_NAME": {
+        "keys": [
+            "portrait_erpig_default"
+        ],
+        "id": "ILLUST_COLLABO_ERPIG"
+    },
     "TEXT_CHA_PR_LIMITED_ER_6_04_NAME": {
         "keys": [
             "portrait_errabbit_default"
         ],
         "id": "ILLUST_COLLABO_ERRABBIT"
+    },
+    "TEXT_CHA_PR_LIMITED_ER_6_08_NAME": {
+        "keys": [
+            "portrait_ersheep_default"
+        ],
+        "id": "ILLUST_COLLABO_ERSHEEP"
     },
     "TEXT_CHA_PR_LIMITED_ER_6_06_NAME": {
         "keys": [
@@ -487,9 +523,9 @@
     },
     "TEXT_SISDOG_NAME": {
         "keys": [
-            "portrait_completesera_default"
+            "portrait_swordshood_default"
         ],
-        "id": "ILLUST_SISTER_SERA"
+        "id": "ILLUST_ENEMY_SWORDSHOOD"
     },
     "TEXT_DIONNE_NAME": {
         "keys": [

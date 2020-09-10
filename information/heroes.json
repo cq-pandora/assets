@@ -6511,6 +6511,137 @@
         ]
     },
     {
+        "id": "pakaracchi",
+        "readable_id": "pakaracchi",
+        "class": "archer",
+        "type": "collab",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_AR_LIMITED_ER_4_07",
+                "name": "TEXT_CHA_AR_LIMITED_ER_4_07_NAME",
+                "image": "ar_limited_er_07",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 104.4875,
+                "armor_pen": 0,
+                "atk_power": 481.65000000000003,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 3056.3,
+                "lifesteal": 0,
+                "resistance": 104.4875,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_AR_LIMITED_ER_4_07_DESC",
+                "block_image": "ui_skill_icon_archer_er_07",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_LIMITED_ER_07_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_LIMITED_ER_07_NAME",
+                "block_description": "TEXT_SKILL_AR_LIMITED_ER_07_DESC",
+                "passive_description": "TEXT_SKILL_AR_LIMITED_ER_07_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_AR_LIMITED_ER_5_07",
+                "name": "TEXT_CHA_AR_LIMITED_ER_5_07_NAME",
+                "image": "ar_limited_er_07",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 171.325,
+                "armor_pen": 0,
+                "atk_power": 790.3,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 5236,
+                "lifesteal": 0,
+                "resistance": 171.325,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_AR_LIMITED_ER_5_07_DESC",
+                "block_image": "ui_skill_icon_archer_er_07",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_AR_LIMITED_ER_07_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_LIMITED_ER_07_NAME",
+                "block_description": "TEXT_SKILL_AR_LIMITED_ER_07_DESC",
+                "passive_description": "TEXT_SKILL_AR_LIMITED_ER_07_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_AR_LIMITED_ER_6_07",
+                "name": "TEXT_CHA_AR_LIMITED_ER_6_07_NAME",
+                "image": "ar_limited_er_07",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 261.5625,
+                "armor_pen": 0,
+                "atk_power": 1167.75,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 7723.5,
+                "lifesteal": 0,
+                "resistance": 261.5625,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_AR_LIMITED_ER_6_07_DESC",
+                "block_image": "ui_skill_icon_archer_er_07",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_AR_LIMITED_ER_07_SUBNAME",
+                "block_name": "TEXT_SKILL_AR_LIMITED_ER_07_NAME",
+                "block_description": "TEXT_SKILL_AR_LIMITED_ER_07_DESC",
+                "passive_description": "TEXT_SKILL_AR_LIMITED_ER_07_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.22,
+                    "armor": 120,
+                    "atk_power": 225,
+                    "crit_chance": 0.165,
+                    "crit_dmg": 0.65,
+                    "evasion": 0.13,
+                    "hp": 1755,
+                    "resistance": 120
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_BO_ER_4_07",
+                "name": "TEXT_WEP_LEGEND_BO_ER_4_07_NAME",
+                "image": "bo_limited_er_07",
+                "ability": "TEXT_WEP_LEGEND_BO_ER_4_07_DESC",
+                "star": 4,
+                "atk_power": 67,
+                "atk_speed": 1.3,
+                "class": "bow"
+            },
+            {
+                "id": "WEP_LEGEND_BO_ER_5_07",
+                "name": "TEXT_WEP_LEGEND_BO_ER_5_07_NAME",
+                "image": "bo_limited_er_07",
+                "ability": "TEXT_WEP_LEGEND_BO_ER_5_07_DESC",
+                "star": 5,
+                "atk_power": 117,
+                "atk_speed": 1.3,
+                "class": "bow"
+            },
+            {
+                "id": "WEP_LEGEND_BO_ER_6_07",
+                "name": "TEXT_WEP_LEGEND_BO_ER_6_07_NAME",
+                "image": "bo_limited_er_07",
+                "ability": "TEXT_WEP_LEGEND_BO_ER_6_07_DESC",
+                "star": 6,
+                "atk_power": 217,
+                "atk_speed": 1.3,
+                "class": "bow"
+            }
+        ],
+        "skins": []
+    },
+    {
         "id": "chipp_zanuff",
         "readable_id": "chipp_zanuff",
         "class": "archer",
@@ -14877,7 +15008,7 @@
         ],
         "skins": [
             {
-                "id": 346,
+                "id": 349,
                 "image": "cos_wa_limited_ys8_hummel_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_HUMMEL_COLOR",
@@ -21597,6 +21728,410 @@
         "skins": []
     },
     {
+        "id": "monk",
+        "readable_id": "monk",
+        "class": "paladin",
+        "type": "collab",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_PA_LIMITED_ER_4_09",
+                "name": "TEXT_CHA_PA_LIMITED_ER_4_09_NAME",
+                "image": "pa_limited_er_09",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 28.743,
+                "armor_pen": 0,
+                "atk_power": 170.43,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 5285.8,
+                "lifesteal": 0,
+                "resistance": 169.91,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_4_09_DESC",
+                "block_image": "ui_skill_icon_paladin_er_09",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_09_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_09_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_09_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_09_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PA_LIMITED_ER_5_09",
+                "name": "TEXT_CHA_PA_LIMITED_ER_5_09_NAME",
+                "image": "pa_limited_er_09",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 48.17399999999999,
+                "armor_pen": 0,
+                "atk_power": 384.44,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 7825.299999999999,
+                "lifesteal": 0,
+                "resistance": 287.28,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_5_09_DESC",
+                "block_image": "ui_skill_icon_paladin_er_09",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_09_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_09_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_09_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_09_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PA_LIMITED_ER_6_09",
+                "name": "TEXT_CHA_PA_LIMITED_ER_6_09_NAME",
+                "image": "pa_limited_er_09",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 79.26,
+                "armor_pen": 0,
+                "atk_power": 730.6500000000001,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 10714.5,
+                "lifesteal": 0,
+                "resistance": 458.40000000000003,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_6_09_DESC",
+                "block_image": "ui_skill_icon_paladin_er_09",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_09_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_09_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_09_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_09_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.3,
+                    "armor": 61,
+                    "atk_power": 180,
+                    "crit_chance": 0.25,
+                    "crit_dmg": 0.65,
+                    "evasion": 0.3,
+                    "hp": 2875,
+                    "resistance": 315
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_HA_ER_4_09",
+                "name": "TEXT_WEP_LEGEND_HA_ER_4_09_NAME",
+                "image": "ha_limited_er_09",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_4_09_DESC",
+                "star": 4,
+                "atk_power": 105,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            },
+            {
+                "id": "WEP_LEGEND_HA_ER_5_09",
+                "name": "TEXT_WEP_LEGEND_HA_ER_5_09_NAME",
+                "image": "ha_limited_er_09",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_5_09_DESC",
+                "star": 5,
+                "atk_power": 205,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            },
+            {
+                "id": "WEP_LEGEND_HA_ER_6_09",
+                "name": "TEXT_WEP_LEGEND_HA_ER_6_09_NAME",
+                "image": "ha_limited_er_09",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_6_09_DESC",
+                "star": 6,
+                "atk_power": 305,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            }
+        ],
+        "skins": []
+    },
+    {
+        "id": "tart",
+        "readable_id": "tart",
+        "class": "paladin",
+        "type": "collab",
+        "gender": "female",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_PA_LIMITED_ER_4_10",
+                "name": "TEXT_CHA_PA_LIMITED_ER_4_10_NAME",
+                "image": "pa_limited_er_10",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 28.743,
+                "armor_pen": 0,
+                "atk_power": 170.43,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 5285.8,
+                "lifesteal": 0,
+                "resistance": 169.91,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_4_10_DESC",
+                "block_image": "ui_skill_icon_paladin_er_10",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_10_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_10_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_10_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_10_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PA_LIMITED_ER_5_10",
+                "name": "TEXT_CHA_PA_LIMITED_ER_5_10_NAME",
+                "image": "pa_limited_er_10",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 48.17399999999999,
+                "armor_pen": 0,
+                "atk_power": 384.44,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 7825.299999999999,
+                "lifesteal": 0,
+                "resistance": 287.28,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_5_10_DESC",
+                "block_image": "ui_skill_icon_paladin_er_10",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_10_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_10_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_10_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_10_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PA_LIMITED_ER_6_10",
+                "name": "TEXT_CHA_PA_LIMITED_ER_6_10_NAME",
+                "image": "pa_limited_er_10",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 79.26,
+                "armor_pen": 0,
+                "atk_power": 730.6500000000001,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 10714.5,
+                "lifesteal": 0,
+                "resistance": 458.40000000000003,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_6_10_DESC",
+                "block_image": "ui_skill_icon_paladin_er_10",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_10_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_10_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_10_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_10_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.18,
+                    "armor": 50,
+                    "atk_power": 150,
+                    "crit_chance": 0.33,
+                    "crit_dmg": 0.54,
+                    "evasion": 0.18,
+                    "hp": 3900,
+                    "resistance": 379
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_HA_ER_4_10",
+                "name": "TEXT_WEP_LEGEND_HA_ER_4_10_NAME",
+                "image": "ha_limited_er_10",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_4_10_DESC",
+                "star": 4,
+                "atk_power": 105,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            },
+            {
+                "id": "WEP_LEGEND_HA_ER_5_10",
+                "name": "TEXT_WEP_LEGEND_HA_ER_5_10_NAME",
+                "image": "ha_limited_er_10",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_5_10_DESC",
+                "star": 5,
+                "atk_power": 205,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            },
+            {
+                "id": "WEP_LEGEND_HA_ER_6_10",
+                "name": "TEXT_WEP_LEGEND_HA_ER_6_10_NAME",
+                "image": "ha_limited_er_10",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_6_10_DESC",
+                "star": 6,
+                "atk_power": 305,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            }
+        ],
+        "skins": [
+            {
+                "id": 254,
+                "image": "cos_pa_limited_er_10_1",
+                "cost": 1000,
+                "name": "TEXT_COS_PA_LIMITED_ER_10_1",
+                "stats": {
+                    "atk_power": 50,
+                    "hp": 200
+                }
+            }
+        ]
+    },
+    {
+        "id": "urii",
+        "readable_id": "urii",
+        "class": "paladin",
+        "type": "collab",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_PA_LIMITED_ER_4_12",
+                "name": "TEXT_CHA_PA_LIMITED_ER_4_12_NAME",
+                "image": "pa_limited_er_12",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 29.25,
+                "armor_pen": 0,
+                "atk_power": 124.80000000000001,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 5032.3,
+                "lifesteal": 0,
+                "resistance": 245.95999999999998,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_4_12_DESC",
+                "block_image": "ui_skill_icon_paladin_er_12",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_12_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_12_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_12_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_12_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PA_LIMITED_ER_5_12",
+                "name": "TEXT_CHA_PA_LIMITED_ER_5_12_NAME",
+                "image": "pa_limited_er_12",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 45.43,
+                "armor_pen": 0,
+                "atk_power": 357,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 7722.4,
+                "lifesteal": 0,
+                "resistance": 423.7939999999999,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_5_12_DESC",
+                "block_image": "ui_skill_icon_paladin_er_12",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_12_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_12_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_12_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_12_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PA_LIMITED_ER_6_12",
+                "name": "TEXT_CHA_PA_LIMITED_ER_6_12_NAME",
+                "image": "pa_limited_er_12",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 73.94999999999999,
+                "armor_pen": 0,
+                "atk_power": 651,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 11334,
+                "lifesteal": 0,
+                "resistance": 634.515,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PA_LIMITED_ER_6_12_DESC",
+                "block_image": "ui_skill_icon_paladin_er_12",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PA_LIMITED_ER_12_SUBNAME",
+                "block_name": "TEXT_SKILL_PA_LIMITED_ER_12_NAME",
+                "block_description": "TEXT_SKILL_PA_LIMITED_ER_12_DESC",
+                "passive_description": "TEXT_SKILL_PA_LIMITED_ER_12_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.34,
+                    "armor": 65,
+                    "atk_power": 166,
+                    "crit_chance": 0.12,
+                    "crit_dmg": 0.54,
+                    "evasion": 0.35,
+                    "hp": 3200,
+                    "resistance": 250
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_HA_ER_4_12",
+                "name": "TEXT_WEP_LEGEND_HA_ER_4_12_NAME",
+                "image": "ha_limited_er_12",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_4_12_DESC",
+                "star": 4,
+                "atk_power": 105,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            },
+            {
+                "id": "WEP_LEGEND_HA_ER_5_12",
+                "name": "TEXT_WEP_LEGEND_HA_ER_5_12_NAME",
+                "image": "ha_limited_er_12",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_5_12_DESC",
+                "star": 5,
+                "atk_power": 205,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            },
+            {
+                "id": "WEP_LEGEND_HA_ER_6_12",
+                "name": "TEXT_WEP_LEGEND_HA_ER_6_12_NAME",
+                "image": "ha_limited_er_12",
+                "ability": "TEXT_WEP_LEGEND_HA_ER_6_12_DESC",
+                "star": 6,
+                "atk_power": 305,
+                "atk_speed": 0.8,
+                "class": "hammer"
+            }
+        ],
+        "skins": []
+    },
+    {
         "id": "may",
         "readable_id": "may",
         "class": "paladin",
@@ -22513,7 +23048,7 @@
         ],
         "skins": [
             {
-                "id": 254,
+                "id": 255,
                 "image": "pa_limited_rb_pyrrha_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_PYRRHA_PAJAMAS",
@@ -22523,7 +23058,7 @@
                 }
             },
             {
-                "id": 255,
+                "id": 256,
                 "image": "pa_limited_rb_pyrrha_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_PYRRHA_SCHOOL",
@@ -22665,7 +23200,7 @@
         ],
         "skins": [
             {
-                "id": 256,
+                "id": 257,
                 "image": "pa_limited_rb_yang_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_YANG_PAJAMAS",
@@ -22675,7 +23210,7 @@
                 }
             },
             {
-                "id": 257,
+                "id": 258,
                 "image": "pa_limited_rb_yang_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_YANG_SCHOOL",
@@ -22817,7 +23352,7 @@
         ],
         "skins": [
             {
-                "id": 258,
+                "id": 259,
                 "image": "cos_pa_limited_rz_03",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_RZ_03",
@@ -22959,7 +23494,7 @@
         ],
         "skins": [
             {
-                "id": 259,
+                "id": 260,
                 "image": "cos_pa_limited_sh_02",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_SH_02",
@@ -23101,7 +23636,7 @@
         ],
         "skins": [
             {
-                "id": 260,
+                "id": 261,
                 "image": "cos_pa_limited_sh_03",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_SH_03",
@@ -23243,7 +23778,7 @@
         ],
         "skins": [
             {
-                "id": 349,
+                "id": 352,
                 "image": "cos_wa_limited_ys8_ricotta_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_RICOTTA_COLOR",
@@ -23253,7 +23788,7 @@
                 }
             },
             {
-                "id": 350,
+                "id": 353,
                 "image": "cos_wa_limited_ys8_ricotta_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_RICOTTA_TROPICAL",
@@ -23394,7 +23929,7 @@
         ],
         "skins": [
             {
-                "id": 351,
+                "id": 354,
                 "image": "cos_wa_limited_ys8_sahad_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_SAHAD_COLOR",
@@ -25334,7 +25869,7 @@
                 }
             },
             {
-                "id": 288,
+                "id": 289,
                 "image": "cos_pr_2_6",
                 "cost": 1000,
                 "name": "TEXT_CHA_PR_2_6",
@@ -25573,7 +26108,7 @@
                 }
             },
             {
-                "id": 263,
+                "id": 264,
                 "image": "cos_pr_11_13",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_11_13",
@@ -26130,7 +26665,7 @@
                 }
             },
             {
-                "id": 273,
+                "id": 274,
                 "image": "cos_pr_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_1_1",
@@ -26282,7 +26817,7 @@
                 }
             },
             {
-                "id": 285,
+                "id": 286,
                 "image": "cos_pr_4_3",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_4_3",
@@ -26423,7 +26958,7 @@
         ],
         "skins": [
             {
-                "id": 286,
+                "id": 287,
                 "image": "cos_pr_5_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_5_20",
@@ -26433,7 +26968,7 @@
                 }
             },
             {
-                "id": 287,
+                "id": 288,
                 "image": "cos_pr_5_9",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_5_9",
@@ -26584,7 +27119,7 @@
                 }
             },
             {
-                "id": 289,
+                "id": 290,
                 "image": "cos_pr_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_6_5",
@@ -26735,7 +27270,7 @@
                 }
             },
             {
-                "id": 292,
+                "id": 293,
                 "image": "cos_pr_8_11",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_8_11",
@@ -26886,7 +27421,7 @@
                 }
             },
             {
-                "id": 266,
+                "id": 267,
                 "image": "cos_pr_14_12",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_14_12",
@@ -27036,7 +27571,7 @@
                 }
             },
             {
-                "id": 269,
+                "id": 270,
                 "image": "cos_pr_17_17",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_17_17",
@@ -27187,7 +27722,7 @@
                 }
             },
             {
-                "id": 274,
+                "id": 275,
                 "image": "cos_pr_20_21",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_20_21",
@@ -27338,7 +27873,7 @@
                 }
             },
             {
-                "id": 278,
+                "id": 279,
                 "image": "cos_pr_23_24",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_23_24",
@@ -27480,7 +28015,7 @@
         ],
         "skins": [
             {
-                "id": 282,
+                "id": 283,
                 "image": "cos_pr_27_31",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_27_31",
@@ -27622,7 +28157,7 @@
         ],
         "skins": [
             {
-                "id": 283,
+                "id": 284,
                 "image": "cos_pr_3_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_3_20",
@@ -27632,7 +28167,7 @@
                 }
             },
             {
-                "id": 284,
+                "id": 285,
                 "image": "cos_pr_3_7",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_3_7",
@@ -27783,7 +28318,7 @@
                 }
             },
             {
-                "id": 290,
+                "id": 291,
                 "image": "cos_pr_7_34",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_7_34",
@@ -27793,7 +28328,7 @@
                 }
             },
             {
-                "id": 291,
+                "id": 292,
                 "image": "cos_pr_7_8",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_7_8",
@@ -27935,7 +28470,7 @@
         ],
         "skins": [
             {
-                "id": 293,
+                "id": 294,
                 "image": "cos_pr_9_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_9_19_NAME",
@@ -27945,7 +28480,7 @@
                 }
             },
             {
-                "id": 294,
+                "id": 295,
                 "image": "cos_pr_9_4",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_9_4",
@@ -28086,7 +28621,7 @@
         ],
         "skins": [
             {
-                "id": 261,
+                "id": 262,
                 "image": "cos_pr_10_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_10_14",
@@ -28096,7 +28631,7 @@
                 }
             },
             {
-                "id": 262,
+                "id": 263,
                 "image": "cos_pr_10_2",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_10_2",
@@ -28257,7 +28792,7 @@
                 }
             },
             {
-                "id": 264,
+                "id": 265,
                 "image": "cos_pr_12_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_12_14",
@@ -28409,7 +28944,7 @@
                 }
             },
             {
-                "id": 265,
+                "id": 266,
                 "image": "cos_pr_13_18",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_13_18_NAME",
@@ -28559,7 +29094,7 @@
                 }
             },
             {
-                "id": 267,
+                "id": 268,
                 "image": "cos_pr_15_15",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_15_15_NAME",
@@ -28701,7 +29236,7 @@
         ],
         "skins": [
             {
-                "id": 268,
+                "id": 269,
                 "image": "cos_pr_16_16",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_16_16",
@@ -28852,7 +29387,7 @@
                 }
             },
             {
-                "id": 270,
+                "id": 271,
                 "image": "cos_pr_18_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_18_19",
@@ -29003,7 +29538,7 @@
                 }
             },
             {
-                "id": 271,
+                "id": 272,
                 "image": "cos_pr_19_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_19_20_NAME",
@@ -29013,7 +29548,7 @@
                 }
             },
             {
-                "id": 272,
+                "id": 273,
                 "image": "cos_pr_19_30",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_19_30",
@@ -29155,7 +29690,7 @@
         ],
         "skins": [
             {
-                "id": 275,
+                "id": 276,
                 "image": "cos_pr_21_22",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_21_22",
@@ -29165,7 +29700,7 @@
                 }
             },
             {
-                "id": 276,
+                "id": 277,
                 "image": "cos_pr_21_32",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_21_32",
@@ -29316,7 +29851,7 @@
                 }
             },
             {
-                "id": 277,
+                "id": 278,
                 "image": "cos_pr_22_23",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_22_23",
@@ -29458,7 +29993,7 @@
         ],
         "skins": [
             {
-                "id": 279,
+                "id": 280,
                 "image": "cos_pr_24_28",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_24_28",
@@ -29609,7 +30144,7 @@
                 }
             },
             {
-                "id": 280,
+                "id": 281,
                 "image": "cos_pr_25_28",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_25_28",
@@ -29760,7 +30295,7 @@
                 }
             },
             {
-                "id": 281,
+                "id": 282,
                 "image": "cos_pr_26_32",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_26_32",
@@ -30315,7 +30850,7 @@
         ],
         "skins": [
             {
-                "id": 295,
+                "id": 296,
                 "image": "cos_pr_limited_er_04_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_ER_04_1",
@@ -30325,7 +30860,7 @@
                 }
             },
             {
-                "id": 296,
+                "id": 297,
                 "image": "cos_pr_limited_er_04_2",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_ER_04_2",
@@ -30466,6 +31001,148 @@
             }
         ],
         "skins": []
+    },
+    {
+        "id": "souffle",
+        "readable_id": "souffle",
+        "class": "priest",
+        "type": "collab",
+        "gender": "female",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_PR_LIMITED_ER_4_08",
+                "name": "TEXT_CHA_PR_LIMITED_ER_4_08_NAME",
+                "image": "pr_limited_er_08",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 109.5575,
+                "armor_pen": 0,
+                "atk_power": 214.63,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 3685.5,
+                "lifesteal": 0,
+                "resistance": 109.5575,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_ER_4_08_DESC",
+                "block_image": "ui_skill_icon_priest_er_08",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PR_LIMITED_ER_08_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_LIMITED_ER_08_NAME",
+                "block_description": "TEXT_SKILL_PR_LIMITED_ER_08_DESC",
+                "passive_description": "TEXT_SKILL_PR_LIMITED_ER_08_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PR_LIMITED_ER_5_08",
+                "name": "TEXT_CHA_PR_LIMITED_ER_5_08_NAME",
+                "image": "pr_limited_er_08",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 171.325,
+                "armor_pen": 0,
+                "atk_power": 426.44,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 6545,
+                "lifesteal": 0,
+                "resistance": 171.325,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_ER_5_08_DESC",
+                "block_image": "ui_skill_icon_priest_er_08",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_PR_LIMITED_ER_08_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_LIMITED_ER_08_NAME",
+                "block_description": "TEXT_SKILL_PR_LIMITED_ER_08_DESC",
+                "passive_description": "TEXT_SKILL_PR_LIMITED_ER_08_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_PR_LIMITED_ER_6_08",
+                "name": "TEXT_CHA_PR_LIMITED_ER_6_08_NAME",
+                "image": "pr_limited_er_08",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 261.5625,
+                "armor_pen": 0,
+                "atk_power": 681.1500000000001,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 10072.5,
+                "lifesteal": 0,
+                "resistance": 261.5625,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_PR_LIMITED_ER_6_08_DESC",
+                "block_image": "ui_skill_icon_priest_er_08",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_PR_LIMITED_ER_08_SUBNAME",
+                "block_name": "TEXT_SKILL_PR_LIMITED_ER_08_NAME",
+                "block_description": "TEXT_SKILL_PR_LIMITED_ER_08_DESC",
+                "passive_description": "TEXT_SKILL_PR_LIMITED_ER_08_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.13,
+                    "armor": 144,
+                    "atk_power": 183,
+                    "crit_chance": 0.12,
+                    "crit_dmg": 0.45,
+                    "evasion": 0.3,
+                    "hp": 2041,
+                    "resistance": 144
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_OR_ER_4_08",
+                "name": "TEXT_WEP_LEGEND_OR_ER_4_08_NAME",
+                "image": "or_limited_er_08",
+                "ability": "TEXT_WEP_LEGEND_OR_ER_4_08_DESC",
+                "star": 4,
+                "atk_power": 100,
+                "atk_speed": 0.8,
+                "class": "orb"
+            },
+            {
+                "id": "WEP_LEGEND_OR_ER_5_08",
+                "name": "TEXT_WEP_LEGEND_OR_ER_5_08_NAME",
+                "image": "or_limited_er_08",
+                "ability": "TEXT_WEP_LEGEND_OR_ER_5_08_DESC",
+                "star": 5,
+                "atk_power": 180,
+                "atk_speed": 0.8,
+                "class": "orb"
+            },
+            {
+                "id": "WEP_LEGEND_OR_ER_6_08",
+                "name": "TEXT_WEP_LEGEND_OR_ER_6_08_NAME",
+                "image": "or_limited_er_08",
+                "ability": "TEXT_WEP_LEGEND_OR_ER_6_08_DESC",
+                "star": 6,
+                "atk_power": 308,
+                "atk_speed": 0.8,
+                "class": "orb"
+            }
+        ],
+        "skins": [
+            {
+                "id": 298,
+                "image": "cos_pr_limited_er_08_1",
+                "cost": 1000,
+                "name": "TEXT_COS_PR_LIMITED_ER_08_1",
+                "stats": {
+                    "atk_power": 50,
+                    "hp": 200
+                }
+            }
+        ]
     },
     {
         "id": "i-no",
@@ -31253,7 +31930,7 @@
         ],
         "skins": [
             {
-                "id": 297,
+                "id": 299,
                 "image": "cos_pr_limited_rz_07",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_RZ_07",
@@ -33202,7 +33879,7 @@
                 }
             },
             {
-                "id": 310,
+                "id": 312,
                 "image": "cos_wa_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_1_1",
@@ -33212,7 +33889,7 @@
                 }
             },
             {
-                "id": 311,
+                "id": 313,
                 "image": "cos_wa_1_6",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_1_6",
@@ -33442,7 +34119,7 @@
                 }
             },
             {
-                "id": 300,
+                "id": 302,
                 "image": "cos_wa_11_3",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_11_3",
@@ -34231,7 +34908,7 @@
                 }
             },
             {
-                "id": 326,
+                "id": 328,
                 "image": "cos_wa_4_7",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_4_7",
@@ -34383,7 +35060,7 @@
                 }
             },
             {
-                "id": 330,
+                "id": 332,
                 "image": "cos_wa_7_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_7_12",
@@ -34525,7 +35202,7 @@
         ],
         "skins": [
             {
-                "id": 332,
+                "id": 334,
                 "image": "cos_wa_09_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_9_15_NAME",
@@ -34667,7 +35344,7 @@
         ],
         "skins": [
             {
-                "id": 298,
+                "id": 300,
                 "image": "cos_wa_10_13",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_10_13",
@@ -34677,7 +35354,7 @@
                 }
             },
             {
-                "id": 299,
+                "id": 301,
                 "image": "cos_wa_10_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_10_17_NAME",
@@ -34828,7 +35505,7 @@
                 }
             },
             {
-                "id": 301,
+                "id": 303,
                 "image": "cos_wa_12_8",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_12_8",
@@ -34970,7 +35647,7 @@
         ],
         "skins": [
             {
-                "id": 302,
+                "id": 304,
                 "image": "cos_wa_13_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_13_12",
@@ -34980,7 +35657,7 @@
                 }
             },
             {
-                "id": 303,
+                "id": 305,
                 "image": "cos_wa_13_18",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_13_18_NAME",
@@ -35139,7 +35816,7 @@
                 }
             },
             {
-                "id": 305,
+                "id": 307,
                 "image": "cos_wa_15_11",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_15_11",
@@ -35281,7 +35958,7 @@
         ],
         "skins": [
             {
-                "id": 306,
+                "id": 308,
                 "image": "cos_wa_16_16",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_16_16",
@@ -35432,7 +36109,7 @@
                 }
             },
             {
-                "id": 308,
+                "id": 310,
                 "image": "cos_wa_18_19",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_18_19",
@@ -35583,7 +36260,7 @@
                 }
             },
             {
-                "id": 309,
+                "id": 311,
                 "image": "cos_wa_19_21",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_19_21",
@@ -35733,7 +36410,7 @@
                 }
             },
             {
-                "id": 313,
+                "id": 315,
                 "image": "cos_wa_21_22",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_21_22",
@@ -35875,7 +36552,7 @@
         ],
         "skins": [
             {
-                "id": 314,
+                "id": 316,
                 "image": "cos_wa_22_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_22_24",
@@ -35884,7 +36561,7 @@
                 }
             },
             {
-                "id": 315,
+                "id": 317,
                 "image": "cos_wa_22_33",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_22_33",
@@ -36034,7 +36711,7 @@
                 }
             },
             {
-                "id": 317,
+                "id": 319,
                 "image": "cos_wa_23_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_24_24",
@@ -36184,7 +36861,7 @@
                 }
             },
             {
-                "id": 318,
+                "id": 320,
                 "image": "cos_wa_25_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_25_28",
@@ -36334,7 +37011,7 @@
                 }
             },
             {
-                "id": 319,
+                "id": 321,
                 "image": "cos_wa_26_32",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_26_32",
@@ -36475,7 +37152,7 @@
         ],
         "skins": [
             {
-                "id": 321,
+                "id": 323,
                 "image": "cos_wa_28_34",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_28_34",
@@ -36898,7 +37575,7 @@
                 }
             },
             {
-                "id": 322,
+                "id": 324,
                 "image": "cos_wa_2_2",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_2_2",
@@ -36908,7 +37585,7 @@
                 }
             },
             {
-                "id": 323,
+                "id": 325,
                 "image": "cos_wa_2_2_re",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_2_2",
@@ -37050,7 +37727,7 @@
         ],
         "skins": [
             {
-                "id": 324,
+                "id": 326,
                 "image": "cos_wa_3_32",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_3_32",
@@ -37059,7 +37736,7 @@
                 }
             },
             {
-                "id": 325,
+                "id": 327,
                 "image": "cos_wa_3_9",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_3_9",
@@ -37211,7 +37888,7 @@
                 }
             },
             {
-                "id": 327,
+                "id": 329,
                 "image": "cos_wa_05_14",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_5_14",
@@ -37353,7 +38030,7 @@
         ],
         "skins": [
             {
-                "id": 328,
+                "id": 330,
                 "image": "cos_wa_6_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_6_15_NAME",
@@ -37363,7 +38040,7 @@
                 }
             },
             {
-                "id": 329,
+                "id": 331,
                 "image": "cos_wa_6_4",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_6_4",
@@ -37514,7 +38191,7 @@
                 }
             },
             {
-                "id": 331,
+                "id": 333,
                 "image": "cos_wa_8_5",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_8_5",
@@ -37665,7 +38342,7 @@
                 }
             },
             {
-                "id": 304,
+                "id": 306,
                 "image": "cos_wa_14_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_14_17",
@@ -37807,7 +38484,7 @@
         ],
         "skins": [
             {
-                "id": 307,
+                "id": 309,
                 "image": "cos_wa_17_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_17_20_NAME",
@@ -37958,7 +38635,7 @@
                 }
             },
             {
-                "id": 312,
+                "id": 314,
                 "image": "cos_wa_20_23",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_20_23",
@@ -38099,7 +38776,7 @@
         ],
         "skins": [
             {
-                "id": 316,
+                "id": 318,
                 "image": "cos_wa_23_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_23_28",
@@ -38249,7 +38926,7 @@
                 }
             },
             {
-                "id": 320,
+                "id": 322,
                 "image": "cos_wa_27_31",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_27_31",
@@ -38390,12 +39067,154 @@
         ],
         "skins": [
             {
-                "id": 333,
+                "id": 335,
                 "image": "cos_wa_limited_er_01_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_ER_01_1",
                 "stats": {
                     "atk_power": 100
+                }
+            }
+        ]
+    },
+    {
+        "id": "pochiro",
+        "readable_id": "pochiro",
+        "class": "warrior",
+        "type": "collab",
+        "gender": "male",
+        "domain": "NONEGROUP",
+        "forms": [
+            {
+                "id": "CHA_WA_LIMITED_ER_4_11",
+                "name": "TEXT_CHA_WA_LIMITED_ER_4_11_NAME",
+                "image": "wa_limited_er_11",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 257.79,
+                "armor_pen": 0,
+                "atk_power": 409.5,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 4856.8,
+                "lifesteal": 0,
+                "resistance": 9.1,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_ER_4_11_DESC",
+                "block_image": "ui_skill_icon_warrior_er_11",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_LIMITED_ER_11_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_LIMITED_ER_11_NAME",
+                "block_description": "TEXT_SKILL_WA_LIMITED_ER_11_DESC",
+                "passive_description": "TEXT_SKILL_WA_LIMITED_ER_11_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_WA_LIMITED_ER_5_11",
+                "name": "TEXT_CHA_WA_LIMITED_ER_5_11_NAME",
+                "image": "wa_limited_er_11",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 405.71999999999997,
+                "armor_pen": 0,
+                "atk_power": 719.5999999999999,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 7743.4,
+                "lifesteal": 0,
+                "resistance": 18.06,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_ER_5_11_DESC",
+                "block_image": "ui_skill_icon_warrior_er_11",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_LIMITED_ER_11_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_LIMITED_ER_11_NAME",
+                "block_description": "TEXT_SKILL_WA_LIMITED_ER_11_DESC",
+                "passive_description": "TEXT_SKILL_WA_LIMITED_ER_11_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_WA_LIMITED_ER_6_11",
+                "name": "TEXT_CHA_WA_LIMITED_ER_6_11_NAME",
+                "image": "wa_limited_er_11",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 601.95,
+                "armor_pen": 0,
+                "atk_power": 1099.5,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 11139,
+                "lifesteal": 0,
+                "resistance": 31.200000000000003,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WA_LIMITED_ER_6_11_DESC",
+                "block_image": "ui_skill_icon_warrior_er_11",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_WA_LIMITED_ER_11_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_LIMITED_ER_11_NAME",
+                "block_description": "TEXT_SKILL_WA_LIMITED_ER_11_DESC",
+                "passive_description": "TEXT_SKILL_WA_LIMITED_ER_11_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.3,
+                    "armor": 175,
+                    "atk_power": 200,
+                    "crit_chance": 0.5,
+                    "crit_dmg": 0.5,
+                    "evasion": 0.3,
+                    "hp": 2000,
+                    "resistance": 100
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_SW_ER_4_11",
+                "name": "TEXT_WEP_LEGEND_SW_ER_4_11_NAME",
+                "image": "sw_limited_er_11",
+                "ability": "TEXT_WEP_LEGEND_SW_ER_4_11_DESC",
+                "star": 4,
+                "atk_power": 95,
+                "atk_speed": 1.1,
+                "class": "sword"
+            },
+            {
+                "id": "WEP_LEGEND_SW_ER_5_11",
+                "name": "TEXT_WEP_LEGEND_SW_ER_5_11_NAME",
+                "image": "sw_limited_er_11",
+                "ability": "TEXT_WEP_LEGEND_SW_ER_5_11_DESC",
+                "star": 5,
+                "atk_power": 190,
+                "atk_speed": 1.1,
+                "class": "sword"
+            },
+            {
+                "id": "WEP_LEGEND_SW_ER_6_11",
+                "name": "TEXT_WEP_LEGEND_SW_ER_6_11_NAME",
+                "image": "sw_limited_er_11",
+                "ability": "TEXT_WEP_LEGEND_SW_ER_6_11_DESC",
+                "star": 6,
+                "atk_power": 284,
+                "atk_speed": 1.1,
+                "class": "sword"
+            }
+        ],
+        "skins": [
+            {
+                "id": 336,
+                "image": "cos_wa_limited_er_11_1",
+                "cost": 1000,
+                "name": "TEXT_COS_WA_LIMITED_ER_11_1",
+                "stats": {
+                    "atk_power": 50,
+                    "hp": 200
                 }
             }
         ]
@@ -39972,7 +40791,7 @@
         ],
         "skins": [
             {
-                "id": 334,
+                "id": 337,
                 "image": "wa_limited_rb_blake_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_BLAKE_PAJAMAS",
@@ -39982,7 +40801,7 @@
                 }
             },
             {
-                "id": 335,
+                "id": 338,
                 "image": "wa_limited_rb_blake_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_BLAKE_SCHOOL",
@@ -40124,7 +40943,7 @@
         ],
         "skins": [
             {
-                "id": 336,
+                "id": 339,
                 "image": "wa_limited_rb_weiss_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_WEISS_PAJAMAS",
@@ -40134,7 +40953,7 @@
                 }
             },
             {
-                "id": 337,
+                "id": 340,
                 "image": "wa_limited_rb_weiss_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_WEISS_SCHOOL",
@@ -40314,7 +41133,7 @@
         ],
         "skins": [
             {
-                "id": 338,
+                "id": 341,
                 "image": "cos_wa_limited_rz_02",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_RZ_02",
@@ -40456,7 +41275,7 @@
         ],
         "skins": [
             {
-                "id": 339,
+                "id": 342,
                 "image": "cos_wa_limited_sh_01",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_SH_01",
@@ -40597,7 +41416,7 @@
         ],
         "skins": [
             {
-                "id": 340,
+                "id": 343,
                 "image": "cos_wa_limited_ys8_adol_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_COLOR",
@@ -40607,7 +41426,7 @@
                 }
             },
             {
-                "id": 341,
+                "id": 344,
                 "image": "cos_wa_limited_ys8_adol_special",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_SPECIAL",
@@ -40617,7 +41436,7 @@
                 }
             },
             {
-                "id": 342,
+                "id": 345,
                 "image": "cos_wa_limited_ys8_adol_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_TROPICAL",
@@ -40758,7 +41577,7 @@
         ],
         "skins": [
             {
-                "id": 343,
+                "id": 346,
                 "image": "cos_wa_limited_ys8_dana_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_COLOR",
@@ -40768,7 +41587,7 @@
                 }
             },
             {
-                "id": 344,
+                "id": 347,
                 "image": "cos_wa_limited_ys8_dana_special",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_SPECIAL",
@@ -40778,7 +41597,7 @@
                 }
             },
             {
-                "id": 345,
+                "id": 348,
                 "image": "cos_wa_limited_ys8_dana_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_TROPICAL",
@@ -40919,7 +41738,7 @@
         ],
         "skins": [
             {
-                "id": 347,
+                "id": 350,
                 "image": "cos_wa_limited_ys8_laxia_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_LAXIA_COLOR",
@@ -40929,7 +41748,7 @@
                 }
             },
             {
-                "id": 348,
+                "id": 351,
                 "image": "cos_wa_limited_ys8_laxia_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_LAXIA_TROPICAL",
@@ -43019,7 +43838,7 @@
                 }
             },
             {
-                "id": 378,
+                "id": 381,
                 "image": "cos_wi_3_8",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_3_8",
@@ -43258,7 +44077,7 @@
                 }
             },
             {
-                "id": 354,
+                "id": 357,
                 "image": "cos_wi_11_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_11_12",
@@ -44038,7 +44857,7 @@
         ],
         "skins": [
             {
-                "id": 368,
+                "id": 371,
                 "image": "cos_wi_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_1_1",
@@ -44047,7 +44866,7 @@
                 }
             },
             {
-                "id": 369,
+                "id": 372,
                 "image": "cos_wi_1_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_1_17",
@@ -44199,7 +45018,7 @@
                 }
             },
             {
-                "id": 377,
+                "id": 380,
                 "image": "cos_wi_2_3",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_2_3",
@@ -44350,7 +45169,7 @@
                 }
             },
             {
-                "id": 379,
+                "id": 382,
                 "image": "cos_wi_4_2",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_4_2",
@@ -44501,7 +45320,7 @@
                 }
             },
             {
-                "id": 381,
+                "id": 384,
                 "image": "cos_wi_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_6_5",
@@ -44511,7 +45330,7 @@
                 }
             },
             {
-                "id": 382,
+                "id": 385,
                 "image": "cos_wi_6_6",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_6_6",
@@ -44662,7 +45481,7 @@
                 }
             },
             {
-                "id": 384,
+                "id": 387,
                 "image": "cos_wi_8_9",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_8_9",
@@ -44804,7 +45623,7 @@
         ],
         "skins": [
             {
-                "id": 358,
+                "id": 361,
                 "image": "cos_wi_14_11",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_14_11",
@@ -44814,7 +45633,7 @@
                 }
             },
             {
-                "id": 359,
+                "id": 362,
                 "image": "cos_wi_14_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_14_20",
@@ -44955,7 +45774,7 @@
         ],
         "skins": [
             {
-                "id": 362,
+                "id": 365,
                 "image": "cos_event_wi_17_winter",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_17_WINTER",
@@ -44965,7 +45784,7 @@
                 }
             },
             {
-                "id": 363,
+                "id": 366,
                 "image": "cos_wi_17_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_17_20_NAME",
@@ -45115,7 +45934,7 @@
                 }
             },
             {
-                "id": 370,
+                "id": 373,
                 "image": "cos_wi_20_21",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_20_21",
@@ -45256,7 +46075,7 @@
         ],
         "skins": [
             {
-                "id": 373,
+                "id": 376,
                 "image": "cos_wi_23_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_23_28",
@@ -45416,7 +46235,7 @@
                 }
             },
             {
-                "id": 380,
+                "id": 383,
                 "image": "cos_event_wi_5_winter",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_5_WINTER",
@@ -45567,7 +46386,7 @@
                 }
             },
             {
-                "id": 383,
+                "id": 386,
                 "image": "cos_wi_7_4",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_7_4",
@@ -45709,7 +46528,7 @@
         ],
         "skins": [
             {
-                "id": 352,
+                "id": 355,
                 "image": "cos_wi_09_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_09_15_NAME",
@@ -45860,7 +46679,7 @@
                 }
             },
             {
-                "id": 353,
+                "id": 356,
                 "image": "cos_wi_10_13",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_10_13",
@@ -46021,7 +46840,7 @@
                 }
             },
             {
-                "id": 355,
+                "id": 358,
                 "image": "cos_wi_12_18",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_12_18_NAME",
@@ -46163,7 +46982,7 @@
         ],
         "skins": [
             {
-                "id": 356,
+                "id": 359,
                 "image": "cos_wi_13_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_13_12",
@@ -46173,7 +46992,7 @@
                 }
             },
             {
-                "id": 357,
+                "id": 360,
                 "image": "cos_wi_13_19",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_13_19",
@@ -46323,7 +47142,7 @@
                 }
             },
             {
-                "id": 360,
+                "id": 363,
                 "image": "cos_wi_15_16",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_15_16",
@@ -46474,7 +47293,7 @@
                 }
             },
             {
-                "id": 361,
+                "id": 364,
                 "image": "cos_wi_16_14",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_16_14",
@@ -46616,7 +47435,7 @@
         ],
         "skins": [
             {
-                "id": 364,
+                "id": 367,
                 "image": "cos_wi_18_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_17",
@@ -46626,7 +47445,7 @@
                 }
             },
             {
-                "id": 365,
+                "id": 368,
                 "image": "cos_wi_18_25",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_25",
@@ -46635,7 +47454,7 @@
                 }
             },
             {
-                "id": 366,
+                "id": 369,
                 "image": "cos_wi_18_29",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_29",
@@ -46785,7 +47604,7 @@
                 }
             },
             {
-                "id": 367,
+                "id": 370,
                 "image": "cos_wi_19_22",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_19_22",
@@ -46935,7 +47754,7 @@
                 }
             },
             {
-                "id": 371,
+                "id": 374,
                 "image": "cos_wi_21_23",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_21_23",
@@ -47085,7 +47904,7 @@
                 }
             },
             {
-                "id": 372,
+                "id": 375,
                 "image": "cos_wi_22_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_22_24",
@@ -47226,7 +48045,7 @@
         ],
         "skins": [
             {
-                "id": 374,
+                "id": 377,
                 "image": "cos_wi_24_27",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_24_27",
@@ -47376,7 +48195,7 @@
                 }
             },
             {
-                "id": 375,
+                "id": 378,
                 "image": "cos_wi_25_30",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_25_30",
@@ -47526,7 +48345,7 @@
                 }
             },
             {
-                "id": 376,
+                "id": 379,
                 "image": "cos_wi_26_33",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_26_33",
@@ -47832,7 +48651,7 @@
         "readable_id": "labelle",
         "class": "wizard",
         "type": "contract",
-        "gender": "femail",
+        "gender": "female",
         "domain": "GRAN",
         "forms": [
             {
@@ -48380,7 +49199,18 @@
                 "class": "staff"
             }
         ],
-        "skins": []
+        "skins": [
+            {
+                "id": 388,
+                "image": "cos_wi_limited_er_21_1",
+                "cost": 1000,
+                "name": "TEXT_COS_WI_LIMITED_ER_21_1",
+                "stats": {
+                    "atk_power": 50,
+                    "hp": 200
+                }
+            }
+        ]
     },
     {
         "id": "dizzy",
@@ -49299,7 +50129,7 @@
         ],
         "skins": [
             {
-                "id": 385,
+                "id": 389,
                 "image": "cos_wi_limited_rz_04",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_LIMITED_RZ_04",
@@ -49441,7 +50271,7 @@
         ],
         "skins": [
             {
-                "id": 386,
+                "id": 390,
                 "image": "cos_wi_limited_rz_05",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_LIMITED_RZ_05",

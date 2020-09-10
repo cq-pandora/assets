@@ -280,6 +280,46 @@
         "sell_cost": 350
     },
     {
+        "id": "BREAD_HANGEUL_01",
+        "name": "TEXT_BREAD_HANGEUL_01_NAME",
+        "rarity": "rare",
+        "value": 500,
+        "great_chance": 0.2,
+        "grade": 5,
+        "image": "bread_hangeul_01",
+        "sell_cost": 1225
+    },
+    {
+        "id": "BREAD_HANGEUL_02",
+        "name": "TEXT_BREAD_HANGEUL_02_NAME",
+        "rarity": "rare",
+        "value": 500,
+        "great_chance": 0.2,
+        "grade": 5,
+        "image": "bread_hangeul_02",
+        "sell_cost": 1225
+    },
+    {
+        "id": "BREAD_HANGEUL_03",
+        "name": "TEXT_BREAD_HANGEUL_03_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_hangeul_03",
+        "sell_cost": 1225
+    },
+    {
+        "id": "BREAD_HANGEUL_04",
+        "name": "TEXT_BREAD_HANGEUL_04_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_hangeul_04",
+        "sell_cost": 1225
+    },
+    {
         "id": "BREAD_LEBKUCHEN",
         "name": "TEXT_BREAD_LEBKUCHEN_NAME",
         "rarity": "rare",
