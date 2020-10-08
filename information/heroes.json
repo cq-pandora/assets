@@ -2217,6 +2217,44 @@
         "skins": []
     },
     {
+        "id": "hani",
+        "readable_id": "hani",
+        "class": "archer",
+        "type": "secret",
+        "gender": "female",
+        "domain": null,
+        "forms": [
+            {
+                "id": "CHA_AR_3_HANI",
+                "name": "TEXT_CHA_AR_3_HANI_NAME",
+                "image": "ar_3_hani",
+                "star": 3,
+                "accuracy": 0,
+                "armor": 0,
+                "armor_pen": 0,
+                "atk_power": 14.399999999999999,
+                "crit_chance": 0,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 44100,
+                "lifesteal": 0,
+                "resistance": 0,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_AR_3_HANI_DESC",
+                "block_image": "ui_skill_icon_archer_arrowrain2",
+                "skill_lvl": 1,
+                "passive_name": null,
+                "block_name": "TEXT_SKILL_AR_ARROWRAIN2_NAME",
+                "block_description": "TEXT_SKILL_AR_ARROWRAIN2_DESC",
+                "passive_description": null
+            }
+        ],
+        "sbws": [],
+        "skins": []
+    },
+    {
         "id": "altair",
         "readable_id": "altair",
         "class": "archer",
