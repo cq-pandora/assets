@@ -692,6 +692,12 @@
         ],
         "id": "ILLUST_HERO_ARACHNE"
     },
+    "TEXT_CHA_HU_6_31_NAME": {
+        "keys": [
+            "portrait_aramis_default"
+        ],
+        "id": "ILLUST_HERO_ARAMIS"
+    },
     "TEXT_CHA_WI_6_1_NAME": {
         "keys": [
             "portrait_archon_default"
@@ -1138,6 +1144,12 @@
             "portrait_lacies_default"
         ],
         "id": "ILLUST_HERO_LACIES"
+    },
+    "TEXT_CHA_WA_6_31_NAME": {
+        "keys": [
+            "portrait_laertes_default"
+        ],
+        "id": "ILLUST_HERO_LAERTES"
     },
     "TEXT_CHA_HU_LIMITED_FOURWEEK_6_LASIRENE_NAME": {
         "keys": [
