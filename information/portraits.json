@@ -523,9 +523,9 @@
     },
     "TEXT_SISDOG_NAME": {
         "keys": [
-            "portrait_swordshood_default"
+            "portrait_completesera_default"
         ],
-        "id": "ILLUST_ENEMY_SWORDSHOOD"
+        "id": "ILLUST_SISTER_SERA"
     },
     "TEXT_DIONNE_NAME": {
         "keys": [
@@ -1429,6 +1429,18 @@
         ],
         "id": "ILLUST_HERO_PANPAN"
     },
+    "TEXT_CHA_PA_LIMITED_LASTSOUL_6_PUMPKING_NAME": {
+        "keys": [
+            "portrait_pumpking_default"
+        ],
+        "id": "ILLUST_HERO_PUMPKING"
+    },
+    "TEXT_CHA_WA_LIMITED_LASTSOUL_6_PUMPQUEEN_NAME": {
+        "keys": [
+            "portrait_pumpqueen_default"
+        ],
+        "id": "ILLUST_HERO_PUMPQUEEN"
+    },
     "TEXT_CHA_AR_6_5_NAME": {
         "keys": [
             "portrait_r0_default"
@@ -1440,6 +1452,12 @@
             "portrait_rachel_default"
         ],
         "id": "ILLUST_HERO_RACHEL"
+    },
+    "TEXT_CHA_WA_UNIQUE_6_RAEL_NAME": {
+        "keys": [
+            "portrait_rael_hero_default"
+        ],
+        "id": "ILLUST_HERO_RAEL"
     },
     "TEXT_CHA_AR_6_16_NAME": {
         "keys": [
