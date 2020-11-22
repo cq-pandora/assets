@@ -812,6 +812,12 @@
         ],
         "id": "ILLUST_HERO_CAROL"
     },
+    "TEXT_CHA_PA_6_31_NAME": {
+        "keys": [
+            "portrait_cecilia_default"
+        ],
+        "id": "ILLUST_HERO_CECILIA"
+    },
     "TEXT_CHA_PR_6_9_NAME": {
         "keys": [
             "portrait_chai_default"
@@ -987,6 +993,12 @@
             "portrait_haerang_default"
         ],
         "id": "ILLUST_HERO_HAERANG"
+    },
+    "TEXT_CHA_PR_6_31_NAME": {
+        "keys": [
+            "portrait_hanla_default"
+        ],
+        "id": "ILLUST_HERO_HANLA"
     },
     "TEXT_CHA_WI_6_23_NAME": {
         "keys": [
