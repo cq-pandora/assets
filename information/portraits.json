@@ -922,6 +922,12 @@
         ],
         "id": "ILLUST_HERO_ELLIE2"
     },
+    "TEXT_CHA_WI_6_31_NAME": {
+        "keys": [
+            "portrait_estelle_default"
+        ],
+        "id": "ILLUST_HERO_ESTELLE"
+    },
     "TEXT_CHA_PR_6_16_NAME": {
         "keys": [
             "portrait_faust_default"
@@ -1084,6 +1090,12 @@
             "portrait_jahard_default"
         ],
         "id": "ILLUST_HERO_JAHARD"
+    },
+    "TEXT_CHA_HU_6_32_NAME": {
+        "keys": [
+            "portrait_jeomrye_default"
+        ],
+        "id": "ILLUST_HERO_JEOMRYE"
     },
     "TEXT_CHA_HU_6_24_NAME": {
         "keys": [
@@ -1846,7 +1858,8 @@
     },
     "TEXT_NPC_SHOP_NAME": {
         "keys": [
-            "portrait_brigit_default"
+            "portrait_brigit_default",
+            "portrait_bridgetsixth_default"
         ],
         "id": "ILLUST_NPC_BRIGIT"
     },
