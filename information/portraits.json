@@ -1911,6 +1911,18 @@
         ],
         "id": "ILLUST_NPC_LENI"
     },
+    "TEXT_NPC_HW_OZMA": {
+        "keys": [
+            "portrait_ozma_default"
+        ],
+        "id": "ILLUST_NPC_OZMA"
+    },
+    "TEXT_NPC_HW_OZMAOGRARE": {
+        "keys": [
+            "portrait_ogare_default"
+        ],
+        "id": "ILLUST_NPC_OZMAOGARE"
+    },
     "TEXT_NPC_PANDORA_NAME": {
         "keys": [
             "portrait_pandora2_book"
