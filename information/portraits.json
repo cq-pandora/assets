@@ -1249,6 +1249,12 @@
         ],
         "id": "ILLUST_HERO_LOVIATAR"
     },
+    "TEXT_CHA_PA_6_32_NAME": {
+        "keys": [
+            "portrait_lucy_default"
+        ],
+        "id": "ILLUST_HERO_LUCY"
+    },
     "TEXT_CHA_HU_6_20_NAME": {
         "keys": [
             "portrait_luicilla_default"
@@ -1332,6 +1338,12 @@
             "portrait_maxi_default"
         ],
         "id": "ILLUST_HERO_MAXI"
+    },
+    "TEXT_CHA_AR_6_31_NAME": {
+        "keys": [
+            "portrait_meleagros_default"
+        ],
+        "id": "ILLUST_HERO_MELEAGROS"
     },
     "TEXT_CHA_PR_6_11_NAME": {
         "keys": [
