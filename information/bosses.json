@@ -14436,6 +14436,24 @@
         "resistance_pen": 0
     },
     {
+        "id": "MON_BS_TOPDISH_COOK_01",
+        "name": "TEXT_MON_BS_TOPDISH_COOK_NAME",
+        "image": "mon_topdish_cook",
+        "accuracy": 0,
+        "armor": 4750,
+        "armor_pen": 0,
+        "atk_power": 10,
+        "crit_chance": 0,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 10,
+        "lifesteal": 0,
+        "resistance": 6175,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_CITY_ANCIENREGIME_CHALLENGE",
         "name": "TEXT_MON_CITY_ANCIENREGIME_NAME",
         "image": "mon_city_ancienregime",

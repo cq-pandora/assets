@@ -1151,6 +1151,12 @@
         ],
         "id": "ILLUST_HERO_KOXINGA"
     },
+    "TEXT_CHA_PR_LIMITED_AUTO_6_KRAMPUS_NAME": {
+        "keys": [
+            "portrait_krampus_default"
+        ],
+        "id": "ILLUST_HERO_KRAMPUS"
+    },
     "TEXT_CHA_PA_6_5_NAME": {
         "keys": [
             "portrait_kriemhild_default"
@@ -1404,6 +1410,12 @@
             "portrait_nefer_default"
         ],
         "id": "ILLUST_HERO_NEFER"
+    },
+    "TEXT_CHA_WI_LIMITED_AUTO_6_NICOLA_NAME": {
+        "keys": [
+            "portrait_nicola_default"
+        ],
+        "id": "ILLUST_HERO_NICOLA"
     },
     "TEXT_CHA_PR_6_3_NAME": {
         "keys": [

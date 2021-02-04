@@ -334,7 +334,7 @@
         "name": "TEXT_BREAD_MANDU_NAME",
         "rarity": "rare",
         "value": 200,
-        "great_chance": 0.3,
+        "great_chance": 0.35,
         "grade": 4,
         "image": "bread_jiaozi",
         "sell_cost": 888
@@ -388,6 +388,56 @@
         "grade": 4,
         "image": "bread_moon_cake",
         "sell_cost": 888
+    },
+    {
+        "id": "BREAD_NEWYEAR_01",
+        "name": "TEXT_BREAD_FLOWER_RICE_CAKE_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_flower_rice_cake",
+        "sell_cost": 1000
+    },
+    {
+        "id": "BREAD_NEWYEAR_02",
+        "name": "TEXT_BREAD_KAGAMIMOCHI_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_kagamimochi",
+        "sell_cost": 1000
+    },
+    {
+        "id": "BREAD_NEWYEAR_03",
+        "name": "TEXT_BREAD_MANDU_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.5,
+        "grade": 6,
+        "image": "bread_jiaozi",
+        "sell_cost": 1000
+    },
+    {
+        "id": "BREAD_NEWYEAR_04",
+        "name": "TEXT_BREAD_VASILOPITA_NAME",
+        "rarity": "epic",
+        "value": 1500,
+        "great_chance": 0,
+        "grade": 6,
+        "image": "bread_vasilopita",
+        "sell_cost": 1000
+    },
+    {
+        "id": "BREAD_NEWYEAR_05",
+        "name": "TEXT_BREAD_BRAZIL_CAKE_NAME",
+        "rarity": "epic",
+        "value": 1500,
+        "great_chance": 0,
+        "grade": 6,
+        "image": "bread_brazil_cake",
+        "sell_cost": 1000
     },
     {
         "id": "BREAD_NEW_HALLOWEEN",
