@@ -1187,6 +1187,12 @@
         ],
         "id": "ILLUST_HERO_LASIRENE"
     },
+    "TEXT_CHA_PR_6_32_NAME": {
+        "keys": [
+            "portrait_lazy_default"
+        ],
+        "id": "ILLUST_HERO_LAZY"
+    },
     "TEXT_CHA_AR_6_15_NAME": {
         "keys": [
             "portrait_lee_default"
@@ -1620,6 +1626,12 @@
             "portrait_sentinelr_default"
         ],
         "id": "ILLUST_HERO_SENTINELR"
+    },
+    "TEXT_CHA_WI_6_32_NAME": {
+        "keys": [
+            "portrait_seogwi_default"
+        ],
+        "id": "ILLUST_HERO_SEOGWI"
     },
     "TEXT_CHA_PA_6_29_NAME": {
         "keys": [
