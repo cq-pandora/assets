@@ -381,6 +381,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_DEFENCE_2_DESC",
+            "pair": "COMMON_BLOODHOUND_STONE_1"
         }
     },
     {
@@ -552,6 +557,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 375
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_MAGIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_MAGIC_2_DESC",
+            "pair": "COMMON_CODED_STONE_2"
         }
     },
     {
@@ -578,6 +588,11 @@
             "lifesteal": 0,
             "resistance": 375,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_DEFENCE_1_DESC",
+            "pair": "COMMON_CODED_STONE_3"
         }
     },
     {
@@ -1414,6 +1429,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 375
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_MAGIC_1_DESC",
+            "pair": "COMMON_LEVINLUDVICCO_STONE_1"
         }
     },
     {
@@ -2115,6 +2135,11 @@
             "lifesteal": 0,
             "resistance": 375,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_SP_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_SP_1_DESC",
+            "pair": "COMMON_RI_DELTASQUAD_STONE_1"
         }
     },
     {
@@ -2167,6 +2192,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_PHYSIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_PHYSIC_2_DESC",
+            "pair": "COMMON_RSFLAMETANK_STONE_1"
         }
     },
     {
@@ -2193,6 +2223,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_SP_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_SP_2_DESC",
+            "pair": "COMMON_RSFLAMETANK_STONE_2"
         }
     },
     {
@@ -2729,6 +2764,68 @@
         }
     },
     {
+        "id": "COMMON_SET_MAG_ATK_EP4_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_ATK_EP4_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_ATK_EP4_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_ATK_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_01",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.04,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 275
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_MAGIC_1_DESC",
+            "pair": "COMMON_LEVINLUDVICCO_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_ATK_EP4_STONE_2",
+        "ingame_id": "COMMON_SET_MAG_ATK_EP4_STONE_2",
+        "name": "TEXT_COMMON_SET_MAG_ATK_EP4_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_ATK_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_05",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 300,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 300
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_MAGIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_MAGIC_2_DESC",
+            "pair": "COMMON_CODED_STONE_2"
+        }
+    },
+    {
         "id": "COMMON_SET_MAG_DEF_EP3_STONE_1",
         "ingame_id": "COMMON_SET_MAG_DEF_EP3_STONE_1",
         "name": "TEXT_COMMON_SET_MAG_DEF_EP3_STONE_1_TITLE",
@@ -2757,6 +2854,37 @@
             "name": "TEXT_COMMON_SET_EP3_DEFENCE_1_NAME",
             "effect": "TEXT_COMMON_SET_EP3_DEFENCE_1_DESC",
             "pair": "COMMON_ALICIA_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_DEF_EP4_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_DEF_EP4_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_DEF_EP4_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_DEF_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_03",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.05,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 275,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_DEFENCE_1_DESC",
+            "pair": "COMMON_CODED_STONE_3"
         }
     },
     {
@@ -2850,6 +2978,37 @@
             "name": "TEXT_COMMON_SET_EP3_SP_1_NAME",
             "effect": "TEXT_COMMON_SET_EP3_SP_1_DESC",
             "pair": "COMMON_RAVENASSASSIN_STONE_3"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_SP_EP4_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_SP_EP4_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_SP_EP4_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_SP_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_07",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 13500,
+            "lifesteal": 0,
+            "resistance": 300,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_SP_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_SP_1_DESC",
+            "pair": "COMMON_RI_DELTASQUAD_STONE_1"
         }
     },
     {
@@ -2977,6 +3136,68 @@
         }
     },
     {
+        "id": "COMMON_SET_PHY_ATK_EP4_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_ATK_EP4_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_ATK_EP4_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_ATK_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_02",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.04,
+            "armor": 0,
+            "armor_pen": 275,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_PHYSIC_1_DESC",
+            "pair": "COMMON_VESSELOFGALATEA_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_ATK_EP4_STONE_2",
+        "ingame_id": "COMMON_SET_PHY_ATK_EP4_STONE_2",
+        "name": "TEXT_COMMON_SET_PHY_ATK_EP4_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_ATK_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_06",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 300,
+            "atk_power": 300,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_PHYSIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_PHYSIC_2_DESC",
+            "pair": "COMMON_RSFLAMETANK_STONE_1"
+        }
+    },
+    {
         "id": "COMMON_SET_PHY_DEF_EP3_STONE_1",
         "ingame_id": "COMMON_SET_PHY_DEF_EP3_STONE_1",
         "name": "TEXT_COMMON_SET_PHY_DEF_EP3_STONE_1_TITLE",
@@ -3005,6 +3226,37 @@
             "name": "TEXT_COMMON_SET_EP3_DEFENCE_2_NAME",
             "effect": "TEXT_COMMON_SET_EP3_DEFENCE_2_DESC",
             "pair": "COMMON_RAVENASSASSIN_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_DEF_EP4_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_DEF_EP4_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_DEF_EP4_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_DEF_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_04",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 275,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.05,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_DEFENCE_2_DESC",
+            "pair": "COMMON_BLOODHOUND_STONE_1"
         }
     },
     {
@@ -3098,6 +3350,37 @@
             "name": "TEXT_COMMON_SET_EP3_SP_2_NAME",
             "effect": "TEXT_COMMON_SET_EP3_SP_2_DESC",
             "pair": "COMMON_WAITINGMAN_STONE_2"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_SP_EP4_STONE_2",
+        "ingame_id": "COMMON_SET_PHY_SP_EP4_STONE_2",
+        "name": "TEXT_COMMON_SET_PHY_SP_EP4_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_SP_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_08",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 1250,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 300,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 13500,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_SP_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_SP_2_DESC",
+            "pair": "COMMON_RSFLAMETANK_STONE_2"
         }
     },
     {
@@ -3233,6 +3516,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP4_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP4_PHYSIC_1_DESC",
+            "pair": "COMMON_VESSELOFGALATEA_STONE_1"
         }
     },
     {
@@ -4083,6 +4371,11 @@
             "lifesteal": 0,
             "resistance": 1500,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_DEFENCE_1_DESC",
+            "pair": "EPIC_CODEVV_STONE_1"
         }
     },
     {
@@ -4805,6 +5098,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_PHYSIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_PHYSIC_2_DESC",
+            "pair": "EPIC_LEVINLUDVICCO_STONE_1"
         }
     },
     {
@@ -4831,6 +5129,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 1250
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_MAGIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_MAGIC_2_DESC",
+            "pair": "EPIC_LEVINLUDVICCO_STONE_2"
         }
     },
     {
@@ -4987,6 +5290,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_DEFENCE_2_DESC",
+            "pair": "EPIC_PANDEMONIUM_STONE_1"
         }
     },
     {
@@ -5221,6 +5529,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_SP_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_SP_2_DESC",
+            "pair": "EPIC_PMK20A_STONE_1"
         }
     },
     {
@@ -5247,6 +5560,11 @@
             "lifesteal": 0,
             "resistance": 1250,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_SP_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_SP_1_DESC",
+            "pair": "EPIC_PMK20A_STONE_2"
         }
     },
     {
@@ -6328,6 +6646,68 @@
         }
     },
     {
+        "id": "EPIC_SET_MAG_ATK_EP4_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_ATK_EP4_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_ATK_EP4_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_ATK_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_17",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.12,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 1000
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_MAGIC_1_DESC",
+            "pair": "EPIC_VESSELOFGALATEA_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_ATK_EP4_STONE_2",
+        "ingame_id": "EPIC_SET_MAG_ATK_EP4_STONE_2",
+        "name": "TEXT_EPIC_SET_MAG_ATK_EP4_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_ATK_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_13",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 1000,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 950
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_MAGIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_MAGIC_2_DESC",
+            "pair": "EPIC_LEVINLUDVICCO_STONE_2"
+        }
+    },
+    {
         "id": "EPIC_SET_MAG_DEF_EP3_STONE_1",
         "ingame_id": "EPIC_SET_MAG_DEF_EP3_STONE_1",
         "name": "TEXT_EPIC_SET_MAG_DEF_EP3_STONE_1_TITLE",
@@ -6356,6 +6736,37 @@
             "name": "TEXT_EPIC_SET_EP3_DEFENCE_1_NAME",
             "effect": "TEXT_EPIC_SET_EP3_DEFENCE_1_DESC",
             "pair": "EPIC_SKIRIMIR_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_DEF_EP4_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_DEF_EP4_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_DEF_EP4_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_DEF_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_20",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.12,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 1000,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_DEFENCE_1_DESC",
+            "pair": "EPIC_CODEVV_STONE_1"
         }
     },
     {
@@ -6449,6 +6860,37 @@
             "name": "TEXT_EPIC_SET_EP3_SP_1_NAME",
             "effect": "TEXT_EPIC_SET_EP3_SP_1_DESC",
             "pair": "EPIC_SKIRIMIROFWRATH_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_SP_EP4_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_SP_EP4_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_SP_EP4_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_SP_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_16",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 35000,
+            "lifesteal": 0,
+            "resistance": 1250,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_SP_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_SP_1_DESC",
+            "pair": "EPIC_PMK20A_STONE_2"
         }
     },
     {
@@ -6576,6 +7018,68 @@
         }
     },
     {
+        "id": "EPIC_SET_PHY_ATK_EP4_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_ATK_EP4_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_ATK_EP4_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_ATK_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_18",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.12,
+            "armor": 0,
+            "armor_pen": 1000,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_PHYSIC_1_DESC",
+            "pair": "EPIC_VESSELOFGALATEA_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_ATK_EP4_STONE_2",
+        "ingame_id": "EPIC_SET_PHY_ATK_EP4_STONE_2",
+        "name": "TEXT_EPIC_SET_PHY_ATK_EP4_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_ATK_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_22",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 950,
+            "atk_power": 1000,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_PHYSIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_PHYSIC_2_DESC",
+            "pair": "EPIC_LEVINLUDVICCO_STONE_1"
+        }
+    },
+    {
         "id": "EPIC_SET_PHY_DEF_EP3_STONE_1",
         "ingame_id": "EPIC_SET_PHY_DEF_EP3_STONE_1",
         "name": "TEXT_EPIC_SET_PHY_DEF_EP3_STONE_1_TITLE",
@@ -6604,6 +7108,37 @@
             "name": "TEXT_EPIC_SET_EP3_DEFENCE_2_NAME",
             "effect": "TEXT_EPIC_SET_EP3_DEFENCE_2_DESC",
             "pair": "EPIC_VALKYRIESTONESTATUS_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_DEF_EP4_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_DEF_EP4_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_DEF_EP4_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_DEF_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_19",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 1000,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.12,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_DEFENCE_2_DESC",
+            "pair": "EPIC_PANDEMONIUM_STONE_1"
         }
     },
     {
@@ -6697,6 +7232,37 @@
             "name": "TEXT_EPIC_SET_EP3_SP_2_NAME",
             "effect": "TEXT_EPIC_SET_EP3_SP_2_DESC",
             "pair": "EPIC_SKIRIMIROFWRATH_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_SP_EP4_STONE_2",
+        "ingame_id": "EPIC_SET_PHY_SP_EP4_STONE_2",
+        "name": "TEXT_EPIC_SET_PHY_SP_EP4_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_SP_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_24",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 5000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 1250,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 35000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_SP_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_SP_2_DESC",
+            "pair": "EPIC_PMK20A_STONE_1"
         }
     },
     {
@@ -6951,6 +7517,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_PHYSIC_1_DESC",
+            "pair": "EPIC_VESSELOFGALATEA_STONE_1"
         }
     },
     {
@@ -6977,6 +7548,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 1500
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP4_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP4_MAGIC_1_DESC",
+            "pair": "EPIC_VESSELOFGALATEA_STONE_2"
         }
     },
     {
@@ -7444,6 +8020,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 675
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_MAGIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_MAGIC_2_DESC",
+            "pair": "RARE_CODEVV_STONE_1"
         }
     },
     {
@@ -7470,6 +8051,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_PHYSIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_PHYSIC_2_DESC",
+            "pair": "RARE_CODEVV_STONE_2"
         }
     },
     {
@@ -8467,6 +9053,11 @@
             "lifesteal": 0,
             "resistance": 675,
             "resistance_pen": 675
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_SP_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_SP_1_DESC",
+            "pair": "RARE_PANDEMONIUM_STONE_1"
         }
     },
     {
@@ -8493,6 +9084,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_SP_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_SP_2_DESC",
+            "pair": "RARE_PANDEMONIUM_STONE_2"
         }
     },
     {
@@ -8888,6 +9484,11 @@
             "lifesteal": 0,
             "resistance": 750,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_DEFENCE_1_DESC",
+            "pair": "RARE_RI_DELTASQUAD_STONE_1"
         }
     },
     {
@@ -8914,6 +9515,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_DEFENCE_2_DESC",
+            "pair": "RARE_RSFLAMETANK_STONE_1"
         }
     },
     {
@@ -9455,6 +10061,68 @@
         }
     },
     {
+        "id": "RARE_SET_MAG_ATK_EP4_STONE_1",
+        "ingame_id": "RARE_SET_MAG_ATK_EP4_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_ATK_EP4_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_ATK_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_09",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0.06,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 500
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_MAGIC_1_DESC",
+            "pair": "RARE_TYRANT_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_ATK_EP4_STONE_2",
+        "ingame_id": "RARE_SET_MAG_ATK_EP4_STONE_2",
+        "name": "TEXT_RARE_SET_MAG_ATK_EP4_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_MAG_ATK_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_21",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 625,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 625
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_MAGIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_MAGIC_2_DESC",
+            "pair": "RARE_CODEVV_STONE_1"
+        }
+    },
+    {
         "id": "RARE_SET_MAG_DEF_EP3_STONE_1",
         "ingame_id": "RARE_SET_MAG_DEF_EP3_STONE_1",
         "name": "TEXT_RARE_SET_MAG_DEF_EP3_STONE_1_TITLE",
@@ -9483,6 +10151,37 @@
             "name": "TEXT_RARE_SET_EP3_DEFENCE_1_NAME",
             "effect": "TEXT_RARE_SET_EP3_DEFENCE_1_DESC",
             "pair": "RARE_RAVENLEADERRAN_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_DEF_EP4_STONE_1",
+        "ingame_id": "RARE_SET_MAG_DEF_EP4_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_DEF_EP4_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_DEF_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_11",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.07,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 650,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_DEFENCE_1_DESC",
+            "pair": "RARE_RI_DELTASQUAD_STONE_1"
         }
     },
     {
@@ -9576,6 +10275,37 @@
             "name": "TEXT_RARE_SET_EP3_SP_1_NAME",
             "effect": "TEXT_RARE_SET_EP3_SP_1_DESC",
             "pair": "RARE_VALKYRIESTONESTATUS_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_SP_EP4_STONE_1",
+        "ingame_id": "RARE_SET_MAG_SP_EP4_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_SP_EP4_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_SP_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_15",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 27000,
+            "lifesteal": 0,
+            "resistance": 725,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_SP_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_SP_1_DESC",
+            "pair": "RARE_PANDEMONIUM_STONE_1"
         }
     },
     {
@@ -9703,6 +10433,68 @@
         }
     },
     {
+        "id": "RARE_SET_PHY_ATK_EP4_STONE_1",
+        "ingame_id": "RARE_SET_PHY_ATK_EP4_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_ATK_EP4_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_ATK_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_10",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.09,
+            "armor": 0,
+            "armor_pen": 500,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_PHYSIC_1_DESC",
+            "pair": "RARE_TYRANT_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_ATK_EP4_STONE_2",
+        "ingame_id": "RARE_SET_PHY_ATK_EP4_STONE_2",
+        "name": "TEXT_RARE_SET_PHY_ATK_EP4_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_PHY_ATK_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_14",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 625,
+            "atk_power": 625,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_PHYSIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_PHYSIC_2_DESC",
+            "pair": "RARE_CODEVV_STONE_2"
+        }
+    },
+    {
         "id": "RARE_SET_PHY_DEF_EP3_STONE_1",
         "ingame_id": "RARE_SET_PHY_DEF_EP3_STONE_1",
         "name": "TEXT_RARE_SET_PHY_DEF_EP3_STONE_1_TITLE",
@@ -9731,6 +10523,37 @@
             "name": "TEXT_RARE_SET_EP3_DEFENCE_2_NAME",
             "effect": "TEXT_RARE_SET_EP3_DEFENCE_2_DESC",
             "pair": "RARE_GENERALWINTER_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_DEF_EP4_STONE_1",
+        "ingame_id": "RARE_SET_PHY_DEF_EP4_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_DEF_EP4_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_DEF_EP4_STONE_1_DESC",
+        "image": "ui_item_stone_4_set_12",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 650,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.07,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_DEFENCE_2_DESC",
+            "pair": "RARE_RSFLAMETANK_STONE_1"
         }
     },
     {
@@ -9824,6 +10647,37 @@
             "name": "TEXT_RARE_SET_EP3_SP_2_NAME",
             "effect": "TEXT_RARE_SET_EP3_SP_2_DESC",
             "pair": "RARE_VALKYRIESTONESTATUS_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_SP_EP4_STONE_2",
+        "ingame_id": "RARE_SET_PHY_SP_EP4_STONE_2",
+        "name": "TEXT_RARE_SET_PHY_SP_EP4_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_PHY_SP_EP4_STONE_2_DESC",
+        "image": "ui_item_stone_4_set_23",
+        "grade": 4,
+        "rarity": "set",
+        "sell_cost": 2500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 725,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 27000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_SP_2_NAME",
+            "effect": "TEXT_RARE_SET_EP4_SP_2_DESC",
+            "pair": "RARE_PANDEMONIUM_STONE_2"
         }
     },
     {
@@ -10145,6 +10999,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_PHYSIC_1_DESC",
+            "pair": "RARE_TYRANT_STONE_1"
         }
     },
     {
@@ -10171,6 +11030,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 750
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP4_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP4_MAGIC_1_DESC",
+            "pair": "RARE_TYRANT_STONE_2"
         }
     },
     {

@@ -104,6 +104,14 @@
         "ingame_id": "SIS_SEA_HEAD_1_LV1"
     },
     {
+        "id": "SIS_SEA_S2",
+        "name": "TEXT_SISKRAKEN_NAME",
+        "image": "sis_3_s2",
+        "skill_name": "TEXT_SIS_SKILL_SEA_NAME",
+        "skill_description": "TEXT_SIS_SKILL_SEA_DESC",
+        "ingame_id": "SIS_SEA_S2"
+    },
+    {
         "id": "SIS_SILUNIS",
         "name": "TEXT_SILUNIS_NAME",
         "image": "sis_9",

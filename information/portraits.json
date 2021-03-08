@@ -626,6 +626,12 @@
         ],
         "id": "ILLUST_ENEMY_SOLTAR"
     },
+    "TEXT_CHA_PA_UNIQUE_4_UMRAT_NAME": {
+        "keys": [
+            "portrait_umrat_default"
+        ],
+        "id": "ILLUST_ENEMY_UMRAT"
+    },
     "TEXT_MON_EP6_YURIA_NORMAL": {
         "keys": [
             "portrait_yuriadark_default"
@@ -1992,7 +1998,8 @@
     },
     "TEXT_SISKRAKEN_NAME": {
         "keys": [
-            "portrait_completeaubrey_default"
+            "portrait_completeaubrey_default",
+            "portrait_sisarubure2_default"
         ],
         "id": "ILLUST_SISTER_AUBREY"
     },
