@@ -710,6 +710,12 @@
         ],
         "id": "ILLUST_HERO_ARCHON"
     },
+    "TEXT_CHA_WA_6_32_NAME": {
+        "keys": [
+            "portrait_ares_default"
+        ],
+        "id": "ILLUST_HERO_ARES"
+    },
     "TEXT_CHA_PR_6_14_NAME": {
         "keys": [
             "portrait_aria_default"
@@ -1374,6 +1380,12 @@
             "portrait_mew_default"
         ],
         "id": "ILLUST_HERO_MEW"
+    },
+    "TEXT_CHA_AR_6_32_NAME": {
+        "keys": [
+            "portrait_miel_default"
+        ],
+        "id": "ILLUST_HERO_MIEL"
     },
     "TEXT_CHA_HU_6_19_NAME": {
         "keys": [
