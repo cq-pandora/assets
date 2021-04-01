@@ -11485,12 +11485,177 @@
         ]
     },
     {
+        "id": "INTERACTION_EASTER_EGG_767",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_APFOOL_6_NARI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_767_1",
+                "imageKey": "pa_limited_apfool_6_nari"
+            },
+            {
+                "id": "CHA_WA_6_26",
+                "text": "TEXT_INTERACTION_EASTER_EGG_767_2",
+                "imageKey": "wa_6_26"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_768",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_APFOOL_6_NARI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_768_1",
+                "imageKey": "pa_limited_apfool_6_nari"
+            },
+            {
+                "id": "CHA_HU_6_29",
+                "text": "TEXT_INTERACTION_EASTER_EGG_768_2",
+                "imageKey": "hu_6_29"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_769",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_APFOOL_6_NARI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_769_1",
+                "imageKey": "pa_limited_apfool_6_nari"
+            },
+            {
+                "id": "CHA_HU_6_32",
+                "text": "TEXT_INTERACTION_EASTER_EGG_769_2",
+                "imageKey": "hu_6_32"
+            }
+        ]
+    },
+    {
         "id": "INTERACTION_EASTER_EGG_77",
         "actors": [
             {
                 "id": "CHA_WA_LIMITED_KOF1_6_RUGAL",
                 "text": "TEXT_INTERACTION_EASTEREGG_77_1",
                 "imageKey": "wa_limited_kof_rugal_4"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_770",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_APFOOL_6_NARI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_770_1",
+                "imageKey": "pa_limited_apfool_6_nari"
+            },
+            {
+                "id": "CHA_WI_6_28",
+                "text": "TEXT_INTERACTION_EASTER_EGG_770_2",
+                "imageKey": "wi_6_28"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_771",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_APFOOL_6_NARI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_771_1",
+                "imageKey": "pa_limited_apfool_6_nari"
+            },
+            {
+                "id": "CHA_PA_6_29",
+                "text": "TEXT_INTERACTION_EASTER_EGG_771_2",
+                "imageKey": "pa_6_29"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_772",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_APFOOL_6_NARI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_772_1",
+                "imageKey": "pa_limited_apfool_6_nari"
+            },
+            {
+                "id": "CHA_PR_LIMITED_APFOOL_6_HARUKI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_772_2",
+                "imageKey": "pr_limited_apfool_6_haruki"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_773",
+        "actors": [
+            {
+                "id": "CHA_PR_LIMITED_APFOOL_6_HARUKI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_773_1",
+                "imageKey": "pr_limited_apfool_6_haruki"
+            },
+            {
+                "id": "CHA_WA_6_3",
+                "text": "TEXT_INTERACTION_EASTER_EGG_773_2",
+                "imageKey": "wa_6_3"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_774",
+        "actors": [
+            {
+                "id": "CHA_PR_LIMITED_APFOOL_6_HARUKI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_774_1",
+                "imageKey": "pr_limited_apfool_6_haruki"
+            },
+            {
+                "id": "CHA_PR_6_7",
+                "text": "TEXT_INTERACTION_EASTER_EGG_774_2",
+                "imageKey": "pr_6_7"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_775",
+        "actors": [
+            {
+                "id": "CHA_PR_LIMITED_APFOOL_6_HARUKI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_775_1",
+                "imageKey": "pr_limited_apfool_6_haruki"
+            },
+            {
+                "id": "CHA_WA_6_6",
+                "text": "TEXT_INTERACTION_EASTER_EGG_775_2",
+                "imageKey": "wa_6_6"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_776",
+        "actors": [
+            {
+                "id": "CHA_PR_LIMITED_APFOOL_6_HARUKI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_776_1",
+                "imageKey": "pr_limited_apfool_6_haruki"
+            },
+            {
+                "id": "CHA_HU_6_12",
+                "text": "TEXT_INTERACTION_EASTER_EGG_776_2",
+                "imageKey": "hu_6_12"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_777",
+        "actors": [
+            {
+                "id": "CHA_PR_LIMITED_APFOOL_6_HARUKI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_777_1",
+                "imageKey": "pr_limited_apfool_6_haruki"
+            },
+            {
+                "id": "CHA_AR_6_18",
+                "text": "TEXT_INTERACTION_EASTER_EGG_777_2",
+                "imageKey": "ar_6_18"
             }
         ]
     },

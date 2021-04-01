@@ -1042,6 +1042,12 @@
         ],
         "id": "ILLUST_HERO_HARPYA"
     },
+    "TEXT_CHA_PR_LIMITED_APFOOL_6_HARUKI_NAME": {
+        "keys": [
+            "portrait_haruki_default"
+        ],
+        "id": "ILLUST_HERO_HARUKI"
+    },
     "TEXT_CHA_PA_6_13_NAME": {
         "keys": [
             "portrait_hector_default"
@@ -1416,6 +1422,12 @@
             "portrait_mundeok_default"
         ],
         "id": "ILLUST_HERO_MUNDEOK"
+    },
+    "TEXT_CHA_PA_LIMITED_APFOOL_6_NARI_NAME": {
+        "keys": [
+            "portrait_nari_default"
+        ],
+        "id": "ILLUST_HERO_NARI"
     },
     "TEXT_CHA_WI_6_8_NAME": {
         "keys": [
