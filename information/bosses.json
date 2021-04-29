@@ -72,6 +72,24 @@
         "resistance_pen": 4000
     },
     {
+        "id": "BR_MON_LIONEL",
+        "name": "TEXT_MON_LIONEL_NAME",
+        "image": "wa_6_14",
+        "accuracy": 0.6,
+        "armor": 2500,
+        "armor_pen": 4000,
+        "atk_power": 3000,
+        "crit_chance": 0.5,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 12500000,
+        "lifesteal": 0,
+        "resistance": 2500,
+        "resistance_pen": 4000
+    },
+    {
         "id": "BR_MON_PALACE_RESIDULLION",
         "name": "TEXT_MON_PALACE_RESIDULLION_NAME",
         "image": "mon_palace_residullion_bossrush",

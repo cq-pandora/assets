@@ -1938,7 +1938,7 @@
                 }
             },
             {
-                "id": 187,
+                "id": 188,
                 "image": "cos_event_wargame_9_ar_3",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_AR_3",
@@ -3722,7 +3722,7 @@
                 }
             },
             {
-                "id": 183,
+                "id": 184,
                 "image": "cos_event_wargame_8_ar_16",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_AR_16",
@@ -3881,7 +3881,7 @@
                 }
             },
             {
-                "id": 175,
+                "id": 176,
                 "image": "cos_event_wargame_10_ar_18",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_AR_18",
@@ -4931,7 +4931,7 @@
                 }
             },
             {
-                "id": 179,
+                "id": 180,
                 "image": "cos_event_wargame_7_ar_28",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_AR_28",
@@ -9376,7 +9376,7 @@
                 }
             },
             {
-                "id": 242,
+                "id": 244,
                 "image": "cos_hu_1_3",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_1_3",
@@ -9724,7 +9724,7 @@
                 }
             },
             {
-                "id": 230,
+                "id": 232,
                 "image": "cos_hu_11_6",
                 "cost": 1000,
                 "name": "TEXT_CHA_HU_11_6",
@@ -10411,7 +10411,7 @@
         ],
         "skins": [
             {
-                "id": 254,
+                "id": 256,
                 "image": "cos_hu_4_13",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_4_13",
@@ -10420,7 +10420,7 @@
                 }
             },
             {
-                "id": 255,
+                "id": 257,
                 "image": "cos_hu_4_7",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_4_7",
@@ -10562,7 +10562,7 @@
         ],
         "skins": [
             {
-                "id": 259,
+                "id": 261,
                 "image": "cos_hu_7_1",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_7_1",
@@ -10572,7 +10572,7 @@
                 }
             },
             {
-                "id": 260,
+                "id": 262,
                 "image": "cos_hu_7_11",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_7_11",
@@ -10714,7 +10714,7 @@
         ],
         "skins": [
             {
-                "id": 262,
+                "id": 264,
                 "image": "cos_hu_9_13",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_9_13",
@@ -10724,7 +10724,7 @@
                 }
             },
             {
-                "id": 263,
+                "id": 265,
                 "image": "cos_hu_9_2",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_9_2",
@@ -10875,7 +10875,7 @@
                 }
             },
             {
-                "id": 229,
+                "id": 231,
                 "image": "cos_hu_10_14",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_10_14",
@@ -11016,7 +11016,7 @@
         ],
         "skins": [
             {
-                "id": 231,
+                "id": 233,
                 "image": "cos_hu_12_16",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_12_16",
@@ -11158,7 +11158,7 @@
         ],
         "skins": [
             {
-                "id": 232,
+                "id": 234,
                 "image": "cos_hu_13_15",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_13_15_NAME",
@@ -11168,7 +11168,7 @@
                 }
             },
             {
-                "id": 233,
+                "id": 235,
                 "image": "cos_hu_13_25",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_13_25",
@@ -11318,7 +11318,7 @@
                 }
             },
             {
-                "id": 176,
+                "id": 177,
                 "image": "cos_event_wargame_10_hu_15",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_HU_15",
@@ -11327,7 +11327,7 @@
                 }
             },
             {
-                "id": 237,
+                "id": 239,
                 "image": "cos_hu_15_8",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_15_8",
@@ -11479,7 +11479,7 @@
                 }
             },
             {
-                "id": 238,
+                "id": 240,
                 "image": "cos_hu_16_17",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_16_17",
@@ -11630,7 +11630,7 @@
                 }
             },
             {
-                "id": 240,
+                "id": 242,
                 "image": "cos_hu_18_19",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_18_19",
@@ -11780,7 +11780,7 @@
                 }
             },
             {
-                "id": 184,
+                "id": 185,
                 "image": "cos_event_wargame_8_hu_19",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_HU_19",
@@ -11789,7 +11789,7 @@
                 }
             },
             {
-                "id": 241,
+                "id": 243,
                 "image": "cos_hu_19_20",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_19_20_NAME",
@@ -11930,7 +11930,7 @@
         ],
         "skins": [
             {
-                "id": 181,
+                "id": 182,
                 "image": "cos_event_wargame_7_hu_21",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_HU_21",
@@ -11939,7 +11939,7 @@
                 }
             },
             {
-                "id": 244,
+                "id": 246,
                 "image": "cos_hu_21_22",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_21_22",
@@ -12080,7 +12080,7 @@
         ],
         "skins": [
             {
-                "id": 245,
+                "id": 247,
                 "image": "cos_hu_22_23",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_22_23",
@@ -12221,7 +12221,7 @@
         ],
         "skins": [
             {
-                "id": 247,
+                "id": 249,
                 "image": "cos_hu_24_25",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_24_25",
@@ -12371,7 +12371,7 @@
                 }
             },
             {
-                "id": 248,
+                "id": 250,
                 "image": "cos_hu_25_29",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_25_29",
@@ -12521,7 +12521,7 @@
                 }
             },
             {
-                "id": 249,
+                "id": 251,
                 "image": "cos_hu_26_31",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_26_31",
@@ -12662,7 +12662,7 @@
         ],
         "skins": [
             {
-                "id": 250,
+                "id": 252,
                 "image": "cos_hu_28_34",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_28_34",
@@ -13760,7 +13760,7 @@
         ],
         "skins": [
             {
-                "id": 180,
+                "id": 181,
                 "image": "cos_event_wargame_7_hu_2_acc",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_HU_2",
@@ -13769,7 +13769,7 @@
                 }
             },
             {
-                "id": 251,
+                "id": 253,
                 "image": "cos_hu_2_20",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_2_20",
@@ -13778,7 +13778,7 @@
                 }
             },
             {
-                "id": 252,
+                "id": 254,
                 "image": "cos_hu_2_5",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_2_5",
@@ -13929,7 +13929,7 @@
                 }
             },
             {
-                "id": 253,
+                "id": 255,
                 "image": "cos_hu_3_4",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_3_4",
@@ -14071,7 +14071,7 @@
         ],
         "skins": [
             {
-                "id": 256,
+                "id": 258,
                 "image": "cos_hu_5_10",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_5_11",
@@ -14081,7 +14081,7 @@
                 }
             },
             {
-                "id": 257,
+                "id": 259,
                 "image": "cos_hu_5_32",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_5_32",
@@ -14231,7 +14231,7 @@
                 }
             },
             {
-                "id": 258,
+                "id": 260,
                 "image": "cos_hu_6_12",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_6_12",
@@ -14382,7 +14382,7 @@
                 }
             },
             {
-                "id": 261,
+                "id": 263,
                 "image": "cos_hu_8_13",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_8_13",
@@ -14524,7 +14524,7 @@
         ],
         "skins": [
             {
-                "id": 234,
+                "id": 236,
                 "image": "cos_hu_14_19",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_14_19_NAME",
@@ -14533,7 +14533,7 @@
                 }
             },
             {
-                "id": 235,
+                "id": 237,
                 "image": "cos_hu_14_33",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_14_33",
@@ -14542,7 +14542,7 @@
                 }
             },
             {
-                "id": 236,
+                "id": 238,
                 "image": "cos_hu_14_9",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_14_9",
@@ -14693,7 +14693,7 @@
                 }
             },
             {
-                "id": 239,
+                "id": 241,
                 "image": "cos_hu_17_18",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_17_18_NAME",
@@ -14844,7 +14844,7 @@
                 }
             },
             {
-                "id": 243,
+                "id": 245,
                 "image": "cos_hu_20_21",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_20_21",
@@ -14994,7 +14994,7 @@
                 }
             },
             {
-                "id": 246,
+                "id": 248,
                 "image": "cos_hu_23_31",
                 "cost": 1000,
                 "name": "TEXT_COS_HU_23_31",
@@ -15397,7 +15397,7 @@
         ],
         "skins": [
             {
-                "id": 264,
+                "id": 266,
                 "image": "hu_limited_rb_nora_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_NORA_PAJAMAS",
@@ -15407,7 +15407,7 @@
                 }
             },
             {
-                "id": 265,
+                "id": 267,
                 "image": "hu_limited_rb_nora_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_NORA_SCHOOL",
@@ -15549,7 +15549,7 @@
         ],
         "skins": [
             {
-                "id": 266,
+                "id": 268,
                 "image": "hu_limited_rb_ruby_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_RUBY_PAJAMAS",
@@ -15559,7 +15559,7 @@
                 }
             },
             {
-                "id": 267,
+                "id": 269,
                 "image": "hu_limited_rb_ruby_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_RUBY_SCHOOL",
@@ -15701,7 +15701,7 @@
         ],
         "skins": [
             {
-                "id": 395,
+                "id": 397,
                 "image": "cos_wa_limited_ys8_hummel_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_HUMMEL_COLOR",
@@ -17631,7 +17631,7 @@
         ],
         "skins": [
             {
-                "id": 294,
+                "id": 296,
                 "image": "cos_pa_5_17",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_5_17",
@@ -17641,7 +17641,7 @@
                 }
             },
             {
-                "id": 295,
+                "id": 297,
                 "image": "cos_pa_5_2",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_5_2",
@@ -17880,7 +17880,7 @@
                 }
             },
             {
-                "id": 272,
+                "id": 274,
                 "image": "cos_pa_11_7",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_11_7",
@@ -18829,7 +18829,7 @@
         ],
         "skins": [
             {
-                "id": 280,
+                "id": 282,
                 "image": "cos_pa_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_1_1",
@@ -18839,7 +18839,7 @@
                 }
             },
             {
-                "id": 281,
+                "id": 283,
                 "image": "cos_pa_1_31",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_1_31",
@@ -19000,7 +19000,7 @@
                 }
             },
             {
-                "id": 291,
+                "id": 293,
                 "image": "cos_pa_2_3",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_2_3",
@@ -19151,7 +19151,7 @@
                 }
             },
             {
-                "id": 292,
+                "id": 294,
                 "image": "cos_pa_3_13",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_3_13",
@@ -19311,7 +19311,7 @@
                 }
             },
             {
-                "id": 293,
+                "id": 295,
                 "image": "cos_pa_4_8",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_4_8",
@@ -19463,7 +19463,7 @@
                 }
             },
             {
-                "id": 298,
+                "id": 300,
                 "image": "cos_pa_8_6",
                 "cost": 1000,
                 "name": "TEXT_CHA_PA_8_6",
@@ -19615,7 +19615,7 @@
                 }
             },
             {
-                "id": 274,
+                "id": 276,
                 "image": "cos_pa_14_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_14_14",
@@ -19757,7 +19757,7 @@
         ],
         "skins": [
             {
-                "id": 277,
+                "id": 279,
                 "image": "cos_pa_17_15",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_17_15_NAME",
@@ -19899,7 +19899,7 @@
         ],
         "skins": [
             {
-                "id": 282,
+                "id": 284,
                 "image": "cos_pa_20_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_20_20_NAME",
@@ -19909,7 +19909,7 @@
                 }
             },
             {
-                "id": 283,
+                "id": 285,
                 "image": "cos_pa_20_33",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_20_33",
@@ -20051,7 +20051,7 @@
         ],
         "skins": [
             {
-                "id": 286,
+                "id": 288,
                 "image": "cos_pa_23_23",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_23_23",
@@ -20202,7 +20202,7 @@
                 }
             },
             {
-                "id": 296,
+                "id": 298,
                 "image": "cos_pa_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_6_5",
@@ -20354,7 +20354,7 @@
                 }
             },
             {
-                "id": 297,
+                "id": 299,
                 "image": "cos_pa_7_4",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_7_4",
@@ -20506,7 +20506,7 @@
                 }
             },
             {
-                "id": 299,
+                "id": 301,
                 "image": "cos_pa_9_9",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_9_9",
@@ -20657,7 +20657,7 @@
                 }
             },
             {
-                "id": 271,
+                "id": 273,
                 "image": "cos_pa_10_12",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_10_12",
@@ -20809,7 +20809,7 @@
                 }
             },
             {
-                "id": 273,
+                "id": 275,
                 "image": "cos_pa_13_17",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_13_17",
@@ -20961,7 +20961,7 @@
                 }
             },
             {
-                "id": 275,
+                "id": 277,
                 "image": "cos_pa_15_11",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_15_11",
@@ -21113,7 +21113,7 @@
                 }
             },
             {
-                "id": 276,
+                "id": 278,
                 "image": "cos_pa_16_18",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_16_18_NAME",
@@ -21265,7 +21265,7 @@
                 }
             },
             {
-                "id": 278,
+                "id": 280,
                 "image": "cos_pa_18_16",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_18_16",
@@ -21425,7 +21425,7 @@
                 }
             },
             {
-                "id": 182,
+                "id": 183,
                 "image": "cos_event_wargame_7_pa_19",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_PA_19",
@@ -21434,7 +21434,7 @@
                 }
             },
             {
-                "id": 279,
+                "id": 281,
                 "image": "cos_pa_19_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_19_19",
@@ -21576,7 +21576,7 @@
         ],
         "skins": [
             {
-                "id": 284,
+                "id": 286,
                 "image": "cos_pa_21_21",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_21_21",
@@ -21718,7 +21718,7 @@
         ],
         "skins": [
             {
-                "id": 285,
+                "id": 287,
                 "image": "cos_pa_22_22",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_22_22",
@@ -21870,7 +21870,7 @@
                 }
             },
             {
-                "id": 287,
+                "id": 289,
                 "image": "cos_pa_24_27",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_24_27",
@@ -22012,7 +22012,7 @@
         ],
         "skins": [
             {
-                "id": 288,
+                "id": 290,
                 "image": "cos_pa_25_30",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_25_30",
@@ -22154,7 +22154,7 @@
         ],
         "skins": [
             {
-                "id": 289,
+                "id": 291,
                 "image": "cos_pa_26_31",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_26_31",
@@ -22306,7 +22306,7 @@
                 }
             },
             {
-                "id": 290,
+                "id": 292,
                 "image": "cos_pa_28_34",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_28_34",
@@ -23418,7 +23418,7 @@
         ],
         "skins": [
             {
-                "id": 300,
+                "id": 302,
                 "image": "cos_pa_limited_er_10_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_ER_10_1",
@@ -24477,7 +24477,7 @@
         ],
         "skins": [
             {
-                "id": 301,
+                "id": 303,
                 "image": "pa_limited_rb_pyrrha_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_PYRRHA_PAJAMAS",
@@ -24487,7 +24487,7 @@
                 }
             },
             {
-                "id": 302,
+                "id": 304,
                 "image": "pa_limited_rb_pyrrha_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_PYRRHA_SCHOOL",
@@ -24629,7 +24629,7 @@
         ],
         "skins": [
             {
-                "id": 303,
+                "id": 305,
                 "image": "pa_limited_rb_yang_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_YANG_PAJAMAS",
@@ -24639,7 +24639,7 @@
                 }
             },
             {
-                "id": 304,
+                "id": 306,
                 "image": "pa_limited_rb_yang_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_YANG_SCHOOL",
@@ -24781,7 +24781,7 @@
         ],
         "skins": [
             {
-                "id": 305,
+                "id": 307,
                 "image": "cos_pa_limited_rz_03",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_RZ_03",
@@ -24923,7 +24923,7 @@
         ],
         "skins": [
             {
-                "id": 306,
+                "id": 308,
                 "image": "cos_pa_limited_sh_02",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_SH_02",
@@ -25065,7 +25065,7 @@
         ],
         "skins": [
             {
-                "id": 307,
+                "id": 309,
                 "image": "cos_pa_limited_sh_03",
                 "cost": 1000,
                 "name": "TEXT_COS_PA_LIMITED_SH_03",
@@ -25207,7 +25207,7 @@
         ],
         "skins": [
             {
-                "id": 398,
+                "id": 400,
                 "image": "cos_wa_limited_ys8_ricotta_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_RICOTTA_COLOR",
@@ -25217,7 +25217,7 @@
                 }
             },
             {
-                "id": 399,
+                "id": 401,
                 "image": "cos_wa_limited_ys8_ricotta_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_RICOTTA_TROPICAL",
@@ -25358,7 +25358,7 @@
         ],
         "skins": [
             {
-                "id": 400,
+                "id": 402,
                 "image": "cos_wa_limited_ys8_sahad_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_SAHAD_COLOR",
@@ -27298,7 +27298,7 @@
                 }
             },
             {
-                "id": 335,
+                "id": 337,
                 "image": "cos_pr_2_6",
                 "cost": 1000,
                 "name": "TEXT_CHA_PR_2_6",
@@ -27546,7 +27546,7 @@
                 }
             },
             {
-                "id": 310,
+                "id": 312,
                 "image": "cos_pr_11_13",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_11_13",
@@ -28356,7 +28356,16 @@
                 }
             },
             {
-                "id": 185,
+                "id": 174,
+                "image": "cos_event_rhythm_pr_6_1_reshop",
+                "cost": 1000,
+                "name": "TEXT_COS_EVENT_RHYTHM_PR_6_1_RESHOP",
+                "stats": {
+                    "atk_power": 100
+                }
+            },
+            {
+                "id": 186,
                 "image": "cos_event_wargame_8_pr_1",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_PR_1",
@@ -28365,7 +28374,7 @@
                 }
             },
             {
-                "id": 320,
+                "id": 322,
                 "image": "cos_pr_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_1_1",
@@ -28517,7 +28526,7 @@
                 }
             },
             {
-                "id": 332,
+                "id": 334,
                 "image": "cos_pr_4_3",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_4_3",
@@ -28658,7 +28667,7 @@
         ],
         "skins": [
             {
-                "id": 333,
+                "id": 335,
                 "image": "cos_pr_5_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_5_20",
@@ -28668,7 +28677,7 @@
                 }
             },
             {
-                "id": 334,
+                "id": 336,
                 "image": "cos_pr_5_9",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_5_9",
@@ -28819,7 +28828,7 @@
                 }
             },
             {
-                "id": 336,
+                "id": 338,
                 "image": "cos_pr_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_6_5",
@@ -28970,7 +28979,7 @@
                 }
             },
             {
-                "id": 339,
+                "id": 341,
                 "image": "cos_pr_8_11",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_8_11",
@@ -29121,7 +29130,7 @@
                 }
             },
             {
-                "id": 313,
+                "id": 315,
                 "image": "cos_pr_14_12",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_14_12",
@@ -29271,7 +29280,7 @@
                 }
             },
             {
-                "id": 188,
+                "id": 189,
                 "image": "cos_event_wargame_9_pr_17",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_PR_17",
@@ -29280,7 +29289,7 @@
                 }
             },
             {
-                "id": 316,
+                "id": 318,
                 "image": "cos_pr_17_17",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_17_17",
@@ -29431,7 +29440,7 @@
                 }
             },
             {
-                "id": 321,
+                "id": 323,
                 "image": "cos_pr_20_21",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_20_21",
@@ -29573,7 +29582,7 @@
         ],
         "skins": [
             {
-                "id": 174,
+                "id": 175,
                 "image": "cos_event_tnt_pr_23",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_TNT_PR_23",
@@ -29582,7 +29591,7 @@
                 }
             },
             {
-                "id": 325,
+                "id": 327,
                 "image": "cos_pr_23_24",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_23_24",
@@ -29724,7 +29733,7 @@
         ],
         "skins": [
             {
-                "id": 329,
+                "id": 331,
                 "image": "cos_pr_27_31",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_27_31",
@@ -29866,7 +29875,7 @@
         ],
         "skins": [
             {
-                "id": 330,
+                "id": 332,
                 "image": "cos_pr_3_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_3_20",
@@ -29876,7 +29885,7 @@
                 }
             },
             {
-                "id": 331,
+                "id": 333,
                 "image": "cos_pr_3_7",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_3_7",
@@ -30027,7 +30036,7 @@
                 }
             },
             {
-                "id": 337,
+                "id": 339,
                 "image": "cos_pr_7_34",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_7_34",
@@ -30037,7 +30046,7 @@
                 }
             },
             {
-                "id": 338,
+                "id": 340,
                 "image": "cos_pr_7_8",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_7_8",
@@ -30179,7 +30188,7 @@
         ],
         "skins": [
             {
-                "id": 340,
+                "id": 342,
                 "image": "cos_pr_9_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_9_19_NAME",
@@ -30189,7 +30198,7 @@
                 }
             },
             {
-                "id": 341,
+                "id": 343,
                 "image": "cos_pr_9_4",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_9_4",
@@ -30330,7 +30339,7 @@
         ],
         "skins": [
             {
-                "id": 308,
+                "id": 310,
                 "image": "cos_pr_10_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_10_14",
@@ -30340,7 +30349,7 @@
                 }
             },
             {
-                "id": 309,
+                "id": 311,
                 "image": "cos_pr_10_2",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_10_2",
@@ -30501,7 +30510,7 @@
                 }
             },
             {
-                "id": 311,
+                "id": 313,
                 "image": "cos_pr_12_14",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_12_14",
@@ -30653,7 +30662,7 @@
                 }
             },
             {
-                "id": 312,
+                "id": 314,
                 "image": "cos_pr_13_18",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_13_18_NAME",
@@ -30803,7 +30812,7 @@
                 }
             },
             {
-                "id": 314,
+                "id": 316,
                 "image": "cos_pr_15_15",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_15_15_NAME",
@@ -30955,7 +30964,7 @@
                 }
             },
             {
-                "id": 315,
+                "id": 317,
                 "image": "cos_pr_16_16",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_16_16",
@@ -31106,7 +31115,7 @@
                 }
             },
             {
-                "id": 317,
+                "id": 319,
                 "image": "cos_pr_18_19",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_18_19",
@@ -31257,7 +31266,7 @@
                 }
             },
             {
-                "id": 318,
+                "id": 320,
                 "image": "cos_pr_19_20",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_19_20_NAME",
@@ -31267,7 +31276,7 @@
                 }
             },
             {
-                "id": 319,
+                "id": 321,
                 "image": "cos_pr_19_30",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_19_30",
@@ -31409,7 +31418,7 @@
         ],
         "skins": [
             {
-                "id": 322,
+                "id": 324,
                 "image": "cos_pr_21_22",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_21_22",
@@ -31419,7 +31428,7 @@
                 }
             },
             {
-                "id": 323,
+                "id": 325,
                 "image": "cos_pr_21_32",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_21_32",
@@ -31570,7 +31579,7 @@
                 }
             },
             {
-                "id": 324,
+                "id": 326,
                 "image": "cos_pr_22_23",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_22_23",
@@ -31722,7 +31731,7 @@
                 }
             },
             {
-                "id": 326,
+                "id": 328,
                 "image": "cos_pr_24_28",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_24_28",
@@ -31873,7 +31882,7 @@
                 }
             },
             {
-                "id": 327,
+                "id": 329,
                 "image": "cos_pr_25_28",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_25_28",
@@ -32024,7 +32033,7 @@
                 }
             },
             {
-                "id": 177,
+                "id": 178,
                 "image": "cos_event_wargame_10_pr_26",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_PR_26",
@@ -32033,7 +32042,7 @@
                 }
             },
             {
-                "id": 328,
+                "id": 330,
                 "image": "cos_pr_26_32",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_26_32",
@@ -32883,7 +32892,7 @@
         ],
         "skins": [
             {
-                "id": 342,
+                "id": 344,
                 "image": "cos_pr_limited_er_04_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_ER_04_1",
@@ -32893,7 +32902,7 @@
                 }
             },
             {
-                "id": 343,
+                "id": 345,
                 "image": "cos_pr_limited_er_04_2",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_ER_04_2",
@@ -33166,7 +33175,7 @@
         ],
         "skins": [
             {
-                "id": 344,
+                "id": 346,
                 "image": "cos_pr_limited_er_08_1",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_ER_08_1",
@@ -33963,7 +33972,7 @@
         ],
         "skins": [
             {
-                "id": 345,
+                "id": 347,
                 "image": "cos_pr_limited_rz_07",
                 "cost": 1000,
                 "name": "TEXT_COS_PR_LIMITED_RZ_07",
@@ -35902,7 +35911,7 @@
                 }
             },
             {
-                "id": 198,
+                "id": 199,
                 "image": "cos_event_wa_1_vacance",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_1_VACANCE",
@@ -35912,7 +35921,7 @@
                 }
             },
             {
-                "id": 358,
+                "id": 360,
                 "image": "cos_wa_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_1_1",
@@ -35922,7 +35931,7 @@
                 }
             },
             {
-                "id": 359,
+                "id": 361,
                 "image": "cos_wa_1_6",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_1_6",
@@ -36151,7 +36160,7 @@
         ],
         "skins": [
             {
-                "id": 191,
+                "id": 192,
                 "image": "cos_wa_11_thanks",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_11_THANKS",
@@ -36161,7 +36170,7 @@
                 }
             },
             {
-                "id": 348,
+                "id": 350,
                 "image": "cos_wa_11_3",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_11_3",
@@ -37194,7 +37203,7 @@
         ],
         "skins": [
             {
-                "id": 205,
+                "id": 207,
                 "image": "cos_event_wa_4_flower",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_4_FLOWER",
@@ -37203,7 +37212,7 @@
                 }
             },
             {
-                "id": 206,
+                "id": 208,
                 "image": "cos_event_wa_4_wargame_4",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_4_WARGAME_4",
@@ -37212,7 +37221,7 @@
                 }
             },
             {
-                "id": 374,
+                "id": 376,
                 "image": "cos_wa_4_7",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_4_7",
@@ -37354,7 +37363,7 @@
         ],
         "skins": [
             {
-                "id": 208,
+                "id": 210,
                 "image": "cos_event_wa_7_family",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_7_FAMILY_NAME",
@@ -37364,7 +37373,7 @@
                 }
             },
             {
-                "id": 378,
+                "id": 380,
                 "image": "cos_wa_7_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_7_12",
@@ -37506,7 +37515,7 @@
         ],
         "skins": [
             {
-                "id": 380,
+                "id": 382,
                 "image": "cos_wa_09_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_9_15_NAME",
@@ -37648,7 +37657,7 @@
         ],
         "skins": [
             {
-                "id": 346,
+                "id": 348,
                 "image": "cos_wa_10_13",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_10_13",
@@ -37658,7 +37667,7 @@
                 }
             },
             {
-                "id": 347,
+                "id": 349,
                 "image": "cos_wa_10_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_10_17_NAME",
@@ -37800,7 +37809,7 @@
         ],
         "skins": [
             {
-                "id": 192,
+                "id": 193,
                 "image": "cos_wa_12_23",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_12_FISH",
@@ -37809,7 +37818,7 @@
                 }
             },
             {
-                "id": 349,
+                "id": 351,
                 "image": "cos_wa_12_8",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_12_8",
@@ -37951,7 +37960,7 @@
         ],
         "skins": [
             {
-                "id": 350,
+                "id": 352,
                 "image": "cos_wa_13_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_13_12",
@@ -37961,7 +37970,7 @@
                 }
             },
             {
-                "id": 351,
+                "id": 353,
                 "image": "cos_wa_13_18",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_13_18_NAME",
@@ -38102,7 +38111,7 @@
         ],
         "skins": [
             {
-                "id": 194,
+                "id": 195,
                 "image": "cos_event_wa_15_halloween",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_15_HALLOWEEN",
@@ -38111,7 +38120,7 @@
                 }
             },
             {
-                "id": 195,
+                "id": 196,
                 "image": "cos_event_wa_15_wargame",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_15_WARGAME",
@@ -38120,7 +38129,7 @@
                 }
             },
             {
-                "id": 353,
+                "id": 355,
                 "image": "cos_wa_15_11",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_15_11",
@@ -38271,7 +38280,7 @@
                 }
             },
             {
-                "id": 354,
+                "id": 356,
                 "image": "cos_wa_16_16",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_16_16",
@@ -38412,7 +38421,7 @@
         ],
         "skins": [
             {
-                "id": 196,
+                "id": 197,
                 "image": "cos_event_wa_18_newyear",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_18",
@@ -38422,7 +38431,7 @@
                 }
             },
             {
-                "id": 356,
+                "id": 358,
                 "image": "cos_wa_18_19",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_18_19",
@@ -38564,7 +38573,7 @@
         ],
         "skins": [
             {
-                "id": 197,
+                "id": 198,
                 "image": "cos_event_wa_19_wargame",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_19_WARGAME",
@@ -38573,7 +38582,7 @@
                 }
             },
             {
-                "id": 357,
+                "id": 359,
                 "image": "cos_wa_19_21",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_19_21",
@@ -38714,7 +38723,7 @@
         ],
         "skins": [
             {
-                "id": 200,
+                "id": 201,
                 "image": "cos_event_wa_21_snow",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_21_SNOW",
@@ -38723,7 +38732,7 @@
                 }
             },
             {
-                "id": 361,
+                "id": 363,
                 "image": "cos_wa_21_22",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_21_22",
@@ -38865,7 +38874,7 @@
         ],
         "skins": [
             {
-                "id": 362,
+                "id": 364,
                 "image": "cos_wa_22_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_22_24",
@@ -38874,7 +38883,7 @@
                 }
             },
             {
-                "id": 363,
+                "id": 365,
                 "image": "cos_wa_22_33",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_22_33",
@@ -39015,7 +39024,7 @@
         ],
         "skins": [
             {
-                "id": 201,
+                "id": 202,
                 "image": "cos_event_wa_24_wargame_3",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_24_WARGAME_3",
@@ -39024,7 +39033,7 @@
                 }
             },
             {
-                "id": 365,
+                "id": 367,
                 "image": "cos_wa_23_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_24_24",
@@ -39165,7 +39174,7 @@
         ],
         "skins": [
             {
-                "id": 202,
+                "id": 203,
                 "image": "cos_event_wa_25_wargame_4",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_25_WARGAME_4",
@@ -39174,7 +39183,7 @@
                 }
             },
             {
-                "id": 366,
+                "id": 368,
                 "image": "cos_wa_25_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_25_28",
@@ -39315,7 +39324,7 @@
         ],
         "skins": [
             {
-                "id": 186,
+                "id": 187,
                 "image": "cos_event_wargame_8_wa_26",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_WA_26",
@@ -39324,7 +39333,7 @@
                 }
             },
             {
-                "id": 367,
+                "id": 369,
                 "image": "cos_wa_26_32",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_26_32",
@@ -39465,7 +39474,7 @@
         ],
         "skins": [
             {
-                "id": 369,
+                "id": 371,
                 "image": "cos_wa_28_34",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_28_34",
@@ -39888,7 +39897,7 @@
         ],
         "skins": [
             {
-                "id": 204,
+                "id": 205,
                 "image": "cos_event_wa_31_modern",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_31_MODERN",
@@ -40027,7 +40036,17 @@
                 "class": "sword"
             }
         ],
-        "skins": []
+        "skins": [
+            {
+                "id": 206,
+                "image": "cos_event_wa_32_reshop",
+                "cost": 1000,
+                "name": "TEXT_COS_EVENT_WA_32_RESHOP",
+                "stats": {
+                    "atk_power": 100
+                }
+            }
+        ]
     },
     {
         "id": "joan_of_arc",
@@ -40160,7 +40179,7 @@
         ],
         "skins": [
             {
-                "id": 203,
+                "id": 204,
                 "image": "cos_event_wa_2_olympic_2018",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_2_OLYMPIC_2018",
@@ -40170,7 +40189,7 @@
                 }
             },
             {
-                "id": 370,
+                "id": 372,
                 "image": "cos_wa_2_2",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_2_2",
@@ -40180,7 +40199,7 @@
                 }
             },
             {
-                "id": 371,
+                "id": 373,
                 "image": "cos_wa_2_2_re",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_2_2",
@@ -40322,7 +40341,7 @@
         ],
         "skins": [
             {
-                "id": 372,
+                "id": 374,
                 "image": "cos_wa_3_32",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_3_32",
@@ -40331,7 +40350,7 @@
                 }
             },
             {
-                "id": 373,
+                "id": 375,
                 "image": "cos_wa_3_9",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_3_9",
@@ -40473,7 +40492,7 @@
         ],
         "skins": [
             {
-                "id": 207,
+                "id": 209,
                 "image": "cos_event_wa_5_laborday",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_5_LAVORDAY_NAME",
@@ -40483,7 +40502,7 @@
                 }
             },
             {
-                "id": 375,
+                "id": 377,
                 "image": "cos_wa_05_14",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_5_14",
@@ -40625,7 +40644,7 @@
         ],
         "skins": [
             {
-                "id": 376,
+                "id": 378,
                 "image": "cos_wa_6_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_6_15_NAME",
@@ -40635,7 +40654,7 @@
                 }
             },
             {
-                "id": 377,
+                "id": 379,
                 "image": "cos_wa_6_4",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_6_4",
@@ -40777,7 +40796,7 @@
         ],
         "skins": [
             {
-                "id": 209,
+                "id": 211,
                 "image": "cos_event_wa_8_winter",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_8_WINTER",
@@ -40786,7 +40805,7 @@
                 }
             },
             {
-                "id": 379,
+                "id": 381,
                 "image": "cos_wa_8_5",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_8_5",
@@ -40928,7 +40947,7 @@
         ],
         "skins": [
             {
-                "id": 193,
+                "id": 194,
                 "image": "cos_wa_14_soulreward",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_14_SOULREWARD",
@@ -40937,7 +40956,7 @@
                 }
             },
             {
-                "id": 352,
+                "id": 354,
                 "image": "cos_wa_14_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_14_17",
@@ -41088,7 +41107,7 @@
                 }
             },
             {
-                "id": 355,
+                "id": 357,
                 "image": "cos_wa_17_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_17_20_NAME",
@@ -41230,7 +41249,7 @@
         ],
         "skins": [
             {
-                "id": 199,
+                "id": 200,
                 "image": "cos_event_wa_20_wargame_2",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_20_WARGAME_2",
@@ -41239,7 +41258,7 @@
                 }
             },
             {
-                "id": 360,
+                "id": 362,
                 "image": "cos_wa_20_23",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_20_23",
@@ -41389,7 +41408,7 @@
                 }
             },
             {
-                "id": 364,
+                "id": 366,
                 "image": "cos_wa_23_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_23_28",
@@ -41539,7 +41558,7 @@
                 }
             },
             {
-                "id": 368,
+                "id": 370,
                 "image": "cos_wa_27_31",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_27_31",
@@ -41680,7 +41699,7 @@
         ],
         "skins": [
             {
-                "id": 381,
+                "id": 383,
                 "image": "cos_wa_limited_er_01_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_ER_01_1",
@@ -41821,7 +41840,7 @@
         ],
         "skins": [
             {
-                "id": 382,
+                "id": 384,
                 "image": "cos_wa_limited_er_11_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_ER_11_1",
@@ -43404,7 +43423,7 @@
         ],
         "skins": [
             {
-                "id": 383,
+                "id": 385,
                 "image": "wa_limited_rb_blake_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_BLAKE_PAJAMAS",
@@ -43414,7 +43433,7 @@
                 }
             },
             {
-                "id": 384,
+                "id": 386,
                 "image": "wa_limited_rb_blake_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_BLAKE_SCHOOL",
@@ -43556,7 +43575,7 @@
         ],
         "skins": [
             {
-                "id": 385,
+                "id": 387,
                 "image": "wa_limited_rb_weiss_pajamas",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_WEISS_PAJAMAS",
@@ -43566,7 +43585,7 @@
                 }
             },
             {
-                "id": 386,
+                "id": 388,
                 "image": "wa_limited_rb_weiss_school",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_RB_WEISS_SCHOOL",
@@ -43746,7 +43765,7 @@
         ],
         "skins": [
             {
-                "id": 387,
+                "id": 389,
                 "image": "cos_wa_limited_rz_02",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_RZ_02",
@@ -43888,7 +43907,7 @@
         ],
         "skins": [
             {
-                "id": 388,
+                "id": 390,
                 "image": "cos_wa_limited_sh_01",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_SH_01",
@@ -44029,7 +44048,7 @@
         ],
         "skins": [
             {
-                "id": 389,
+                "id": 391,
                 "image": "cos_wa_limited_ys8_adol_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_COLOR",
@@ -44039,7 +44058,7 @@
                 }
             },
             {
-                "id": 390,
+                "id": 392,
                 "image": "cos_wa_limited_ys8_adol_special",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_SPECIAL",
@@ -44049,7 +44068,7 @@
                 }
             },
             {
-                "id": 391,
+                "id": 393,
                 "image": "cos_wa_limited_ys8_adol_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_TROPICAL",
@@ -44190,7 +44209,7 @@
         ],
         "skins": [
             {
-                "id": 392,
+                "id": 394,
                 "image": "cos_wa_limited_ys8_dana_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_COLOR",
@@ -44200,7 +44219,7 @@
                 }
             },
             {
-                "id": 393,
+                "id": 395,
                 "image": "cos_wa_limited_ys8_dana_special",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_SPECIAL",
@@ -44210,7 +44229,7 @@
                 }
             },
             {
-                "id": 394,
+                "id": 396,
                 "image": "cos_wa_limited_ys8_dana_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_TROPICAL",
@@ -44351,7 +44370,7 @@
         ],
         "skins": [
             {
-                "id": 396,
+                "id": 398,
                 "image": "cos_wa_limited_ys8_laxia_color",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_LAXIA_COLOR",
@@ -44361,7 +44380,7 @@
                 }
             },
             {
-                "id": 397,
+                "id": 399,
                 "image": "cos_wa_limited_ys8_laxia_tropical",
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_YS8_LAXIA_TROPICAL",
@@ -46442,7 +46461,7 @@
         ],
         "skins": [
             {
-                "id": 222,
+                "id": 224,
                 "image": "cos_event_wi_3_wargame_3",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_3_WARGAME_3",
@@ -46451,7 +46470,7 @@
                 }
             },
             {
-                "id": 427,
+                "id": 429,
                 "image": "cos_wi_3_8",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_3_8",
@@ -46680,7 +46699,7 @@
         ],
         "skins": [
             {
-                "id": 211,
+                "id": 213,
                 "image": "cos_wi_11_olympic",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_11_OLYMPIC",
@@ -46690,7 +46709,7 @@
                 }
             },
             {
-                "id": 212,
+                "id": 214,
                 "image": "cos_event_wi_11_wargame_5",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_11_WARGAME_5",
@@ -46699,7 +46718,7 @@
                 }
             },
             {
-                "id": 403,
+                "id": 405,
                 "image": "cos_wi_11_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_11_12",
@@ -47798,7 +47817,7 @@
                 }
             },
             {
-                "id": 417,
+                "id": 419,
                 "image": "cos_wi_1_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_1_1",
@@ -47807,7 +47826,7 @@
                 }
             },
             {
-                "id": 418,
+                "id": 420,
                 "image": "cos_wi_1_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_1_17",
@@ -47949,7 +47968,7 @@
         ],
         "skins": [
             {
-                "id": 220,
+                "id": 222,
                 "image": "cos_event_wi_2_newyear",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_2",
@@ -47959,7 +47978,7 @@
                 }
             },
             {
-                "id": 426,
+                "id": 428,
                 "image": "cos_wi_2_3",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_2_3",
@@ -48101,7 +48120,7 @@
         ],
         "skins": [
             {
-                "id": 223,
+                "id": 225,
                 "image": "cos_event_wi_4_zooschool",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_4_ZOOSCHOOL",
@@ -48110,7 +48129,7 @@
                 }
             },
             {
-                "id": 428,
+                "id": 430,
                 "image": "cos_wi_4_2",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_4_2",
@@ -48252,7 +48271,7 @@
         ],
         "skins": [
             {
-                "id": 226,
+                "id": 228,
                 "image": "cos_event_wi_6_wargame_4",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_6_WARGAME_4",
@@ -48261,7 +48280,7 @@
                 }
             },
             {
-                "id": 430,
+                "id": 432,
                 "image": "cos_wi_6_5",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_6_5",
@@ -48271,7 +48290,7 @@
                 }
             },
             {
-                "id": 431,
+                "id": 433,
                 "image": "cos_wi_6_6",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_6_6",
@@ -48413,7 +48432,7 @@
         ],
         "skins": [
             {
-                "id": 228,
+                "id": 230,
                 "image": "cos_event_wi_8_patrick",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_8_PATRICK",
@@ -48422,7 +48441,7 @@
                 }
             },
             {
-                "id": 433,
+                "id": 435,
                 "image": "cos_wi_8_9",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_8_9",
@@ -48564,7 +48583,7 @@
         ],
         "skins": [
             {
-                "id": 407,
+                "id": 409,
                 "image": "cos_wi_14_11",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_14_11",
@@ -48574,7 +48593,7 @@
                 }
             },
             {
-                "id": 408,
+                "id": 410,
                 "image": "cos_wi_14_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_14_20",
@@ -48715,7 +48734,7 @@
         ],
         "skins": [
             {
-                "id": 411,
+                "id": 413,
                 "image": "cos_event_wi_17_winter",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_17_WINTER",
@@ -48725,7 +48744,7 @@
                 }
             },
             {
-                "id": 412,
+                "id": 414,
                 "image": "cos_wi_17_20",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_17_20_NAME",
@@ -48866,7 +48885,7 @@
         ],
         "skins": [
             {
-                "id": 218,
+                "id": 220,
                 "image": "cos_wi_20_23",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_20_FISH",
@@ -48875,7 +48894,7 @@
                 }
             },
             {
-                "id": 419,
+                "id": 421,
                 "image": "cos_wi_20_21",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_20_21",
@@ -49016,7 +49035,7 @@
         ],
         "skins": [
             {
-                "id": 422,
+                "id": 424,
                 "image": "cos_wi_23_28",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_23_28",
@@ -49157,7 +49176,7 @@
         ],
         "skins": [
             {
-                "id": 224,
+                "id": 226,
                 "image": "cos_wi_5_olympic",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_5_OLYMPIC",
@@ -49167,7 +49186,7 @@
                 }
             },
             {
-                "id": 225,
+                "id": 227,
                 "image": "cos_event_wi_5_wargame_3",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_5_WARGAME_3",
@@ -49176,7 +49195,7 @@
                 }
             },
             {
-                "id": 429,
+                "id": 431,
                 "image": "cos_event_wi_5_winter",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_5_WINTER",
@@ -49318,7 +49337,7 @@
         ],
         "skins": [
             {
-                "id": 227,
+                "id": 229,
                 "image": "cos_event_wi_7_rebalance",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_7_REBALANCE",
@@ -49327,7 +49346,7 @@
                 }
             },
             {
-                "id": 432,
+                "id": 434,
                 "image": "cos_wi_7_4",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_7_4",
@@ -49469,7 +49488,7 @@
         ],
         "skins": [
             {
-                "id": 401,
+                "id": 403,
                 "image": "cos_wi_09_15",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_09_15_NAME",
@@ -49611,7 +49630,7 @@
         ],
         "skins": [
             {
-                "id": 210,
+                "id": 212,
                 "image": "cos_event_wi_10_wargame_2",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_10_WARGAME_2",
@@ -49620,7 +49639,7 @@
                 }
             },
             {
-                "id": 402,
+                "id": 404,
                 "image": "cos_wi_10_13",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_10_13",
@@ -49762,7 +49781,7 @@
         ],
         "skins": [
             {
-                "id": 213,
+                "id": 215,
                 "image": "cos_event_wi_12_feast",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_12_FEAST",
@@ -49772,7 +49791,7 @@
                 }
             },
             {
-                "id": 214,
+                "id": 216,
                 "image": "cos_event_wi_12_wargame_6",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_12_WARGAME_6",
@@ -49781,7 +49800,7 @@
                 }
             },
             {
-                "id": 404,
+                "id": 406,
                 "image": "cos_wi_12_18",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_12_18_NAME",
@@ -49923,7 +49942,7 @@
         ],
         "skins": [
             {
-                "id": 405,
+                "id": 407,
                 "image": "cos_wi_13_12",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_13_12",
@@ -49933,7 +49952,7 @@
                 }
             },
             {
-                "id": 406,
+                "id": 408,
                 "image": "cos_wi_13_19",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_13_19",
@@ -50074,7 +50093,7 @@
         ],
         "skins": [
             {
-                "id": 189,
+                "id": 190,
                 "image": "cos_event_wargame_9_wi_15",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_WI_15",
@@ -50083,7 +50102,7 @@
                 }
             },
             {
-                "id": 215,
+                "id": 217,
                 "image": "cos_event_wi_15_worldcup",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_15_WORLDCUP",
@@ -50092,7 +50111,7 @@
                 }
             },
             {
-                "id": 409,
+                "id": 411,
                 "image": "cos_wi_15_16",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_15_16",
@@ -50234,7 +50253,7 @@
         ],
         "skins": [
             {
-                "id": 216,
+                "id": 218,
                 "image": "cos_event_wi_16_wargame",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_16_WARGAME",
@@ -50243,7 +50262,7 @@
                 }
             },
             {
-                "id": 410,
+                "id": 412,
                 "image": "cos_wi_16_14",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_16_14",
@@ -50385,7 +50404,7 @@
         ],
         "skins": [
             {
-                "id": 178,
+                "id": 179,
                 "image": "cos_event_wargame_10_wi_18",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_WI_18",
@@ -50394,7 +50413,7 @@
                 }
             },
             {
-                "id": 413,
+                "id": 415,
                 "image": "cos_wi_18_17",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_17",
@@ -50404,7 +50423,7 @@
                 }
             },
             {
-                "id": 414,
+                "id": 416,
                 "image": "cos_wi_18_25",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_25",
@@ -50413,7 +50432,7 @@
                 }
             },
             {
-                "id": 415,
+                "id": 417,
                 "image": "cos_wi_18_29",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_18_29",
@@ -50554,7 +50573,7 @@
         ],
         "skins": [
             {
-                "id": 217,
+                "id": 219,
                 "image": "cos_event_wi_19_wargame",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_19_WARGAME",
@@ -50563,7 +50582,7 @@
                 }
             },
             {
-                "id": 416,
+                "id": 418,
                 "image": "cos_wi_19_22",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_19_22",
@@ -50704,7 +50723,7 @@
         ],
         "skins": [
             {
-                "id": 219,
+                "id": 221,
                 "image": "cos_event_wi_21_fifth",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_21_FIFTH",
@@ -50713,7 +50732,7 @@
                 }
             },
             {
-                "id": 420,
+                "id": 422,
                 "image": "cos_wi_21_23",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_21_23",
@@ -50863,7 +50882,7 @@
                 }
             },
             {
-                "id": 421,
+                "id": 423,
                 "image": "cos_wi_22_24",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_22_24",
@@ -51013,7 +51032,7 @@
                 }
             },
             {
-                "id": 423,
+                "id": 425,
                 "image": "cos_wi_24_27",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_24_27",
@@ -51163,7 +51182,7 @@
                 }
             },
             {
-                "id": 424,
+                "id": 426,
                 "image": "cos_wi_25_30",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_25_30",
@@ -51313,7 +51332,7 @@
                 }
             },
             {
-                "id": 190,
+                "id": 191,
                 "image": "cos_event_wargame_9_wi_26",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_WI_26",
@@ -51322,7 +51341,7 @@
                 }
             },
             {
-                "id": 425,
+                "id": 427,
                 "image": "cos_wi_26_33",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_26_33",
@@ -52036,7 +52055,7 @@
         ],
         "skins": [
             {
-                "id": 221,
+                "id": 223,
                 "image": "cos_event_wi_32_apfool",
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_32_APFOOL",
@@ -52177,7 +52196,7 @@
         ],
         "skins": [
             {
-                "id": 268,
+                "id": 270,
                 "image": "cos_wi_limited_dm_girl_farewellwaltz",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_DM_GIRL_FAREWELLWALTZ",
@@ -52187,7 +52206,7 @@
                 }
             },
             {
-                "id": 269,
+                "id": 271,
                 "image": "cos_wi_limited_dm_girl_invite",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_DM_GIRL_INVITE",
@@ -52197,7 +52216,7 @@
                 }
             },
             {
-                "id": 270,
+                "id": 272,
                 "image": "cos_wi_limited_dm_girl_saika",
                 "cost": 1000,
                 "name": "TEXT_COS_LIMITED_DM_GIRL_SAIKA",
@@ -52470,7 +52489,7 @@
         ],
         "skins": [
             {
-                "id": 434,
+                "id": 436,
                 "image": "cos_wi_limited_er_21_1",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_LIMITED_ER_21_1",
@@ -53398,7 +53417,7 @@
         ],
         "skins": [
             {
-                "id": 435,
+                "id": 437,
                 "image": "cos_wi_limited_rz_04",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_LIMITED_RZ_04",
@@ -53540,7 +53559,7 @@
         ],
         "skins": [
             {
-                "id": 436,
+                "id": 438,
                 "image": "cos_wi_limited_rz_05",
                 "cost": 1000,
                 "name": "TEXT_COS_WI_LIMITED_RZ_05",
