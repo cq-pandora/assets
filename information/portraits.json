@@ -934,6 +934,12 @@
         ],
         "id": "ILLUST_HERO_ELLIE2"
     },
+    "TEXT_CHA_WI_6_33_NAME": {
+        "keys": [
+            "portrait_epender_default"
+        ],
+        "id": "ILLUST_HERO_EPENDER"
+    },
     "TEXT_CHA_WI_6_31_NAME": {
         "keys": [
             "portrait_estelle_default"
@@ -1506,6 +1512,12 @@
             "portrait_osiris_default"
         ],
         "id": "ILLUST_HERO_OSIRIS"
+    },
+    "TEXT_CHA_PA_6_33_NAME": {
+        "keys": [
+            "portrait_otis_default"
+        ],
+        "id": "ILLUST_HERO_OTIS"
     },
     "TEXT_CHA_AR_6_23_NAME": {
         "keys": [
