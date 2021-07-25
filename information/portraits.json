@@ -521,6 +521,12 @@
         ],
         "id": "ILLUST_ENEMY_CAMILLA"
     },
+    "TEXT_MON_BOSS_S2_EP5_DALGI_NAME": {
+        "keys": [
+            "portrait_dalgi_default"
+        ],
+        "id": "ILLUST_ENEMY_DALGI"
+    },
     "TEXT_SISDOG_NAME": {
         "keys": [
             "portrait_completesera_default"
@@ -571,6 +577,12 @@
             "portrait_jeraphim_default"
         ],
         "id": "ILLUST_ENEMY_JERAPHIM"
+    },
+    "TEXT_NPC_LETHE_NAME": {
+        "keys": [
+            "portrait_lethe_default"
+        ],
+        "id": "ILLUST_ENEMY_LETHE"
     },
     "TEXT_MON_BS_S2_EP4_LEVINLUDVICCO_NAME": {
         "keys": [
@@ -970,6 +982,18 @@
         ],
         "id": "ILLUST_HERO_FISHERCAT"
     },
+    "TEXT_CHA_PR_LIMITED_EAST_6_FRANCESCA_NAME": {
+        "keys": [
+            "portrait_francesca_default"
+        ],
+        "id": "ILLUST_HERO_FRANCESCA"
+    },
+    "TEXT_CHA_WI_LIMITED_EAST_6_FREDERICK_NAME": {
+        "keys": [
+            "portrait_frederick_default"
+        ],
+        "id": "ILLUST_HERO_FREDERICK"
+    },
     "TEXT_CHA_AR_6_22_NAME": {
         "keys": [
             "portrait_genevie_default"
@@ -1109,11 +1133,23 @@
         ],
         "id": "ILLUST_HERO_IZUNA"
     },
+    "TEXT_CHA_WA_6_34_NAME": {
+        "keys": [
+            "portrait_jack_default"
+        ],
+        "id": "ILLUST_HERO_JACK"
+    },
     "TEXT_CHA_HU_6_22_NAME": {
         "keys": [
             "portrait_jahard_default"
         ],
         "id": "ILLUST_HERO_JAHARD"
+    },
+    "TEXT_CHA_WA_UNIQUE_6_JARYONG_NAME": {
+        "keys": [
+            "portrait_jaryong_default"
+        ],
+        "id": "ILLUST_HERO_JARYONG"
     },
     "TEXT_CHA_HU_6_32_NAME": {
         "keys": [
@@ -1308,6 +1344,12 @@
             "portrait_lyudmilla_default"
         ],
         "id": "ILLUST_HERO_LYUDMILLA"
+    },
+    "TEXT_CHA_WA_6_33_NAME": {
+        "keys": [
+            "portrait_macaria_default"
+        ],
+        "id": "ILLUST_HERO_MACARIA"
     },
     "TEXT_CHA_PA_6_22_NAME": {
         "keys": [
@@ -1934,6 +1976,12 @@
         ],
         "id": "ILLUST_HERO_YURIA"
     },
+    "TEXT_CHA_PR_6_33_NAME": {
+        "keys": [
+            "portrait_zeus_default"
+        ],
+        "id": "ILLUST_HERO_ZEUS"
+    },
     "TEXT_NPC_SHOP_NAME": {
         "keys": [
             "portrait_brigit_default",
@@ -1976,6 +2024,12 @@
             "portrait_popo_default"
         ],
         "id": "ILLUST_NPC_GYPSI"
+    },
+    "TEXT_NPC_HABAEK": {
+        "keys": [
+            "portrait_habaek_default"
+        ],
+        "id": "ILLUST_NPC_HABAEK"
     },
     "TEXT_NPC_HW_JACK": {
         "keys": [

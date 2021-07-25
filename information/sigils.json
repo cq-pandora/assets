@@ -104,6 +104,32 @@
         }
     },
     {
+        "id": "COMMON_ACCURACY_RATE_STONE_5",
+        "ingame_id": "COMMON_ACCURACY_RATE_STONE_5",
+        "name": "TEXT_COMMON_ACCURACY_RATE_STONE_1_TITLE",
+        "description": "TEXT_COMMON_ACCURACY_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0.035,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "COMMON_ALICIA_STONE_1",
         "ingame_id": "COMMON_ALICIA_STONE_1",
         "name": "TEXT_COMMON_ALICIA_STONE_1_TITLE",
@@ -296,6 +322,32 @@
         }
     },
     {
+        "id": "COMMON_ATK_POWER_STONE_5",
+        "ingame_id": "COMMON_ATK_POWER_STONE_5",
+        "name": "TEXT_COMMON_ATK_POWER_STONE_1_TITLE",
+        "description": "TEXT_COMMON_ATK_POWER_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 450,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "COMMON_BETA_STONE_1",
         "ingame_id": "COMMON_BETA_STONE_1",
         "name": "TEXT_COMMON_BETA_STONE_1_TITLE",
@@ -448,6 +500,32 @@
             "name": "TEXT_COMMON_SET_EP1_MAGIC_1_NAME",
             "effect": "TEXT_COMMON_SET_EP1_MAGIC_1_DESC",
             "pair": "COMMON_BOUILLABAISSE_STONE_2"
+        }
+    },
+    {
+        "id": "COMMON_CHANGGWI_STONE_1",
+        "ingame_id": "COMMON_CHANGGWI_STONE_1",
+        "name": "TEXT_COMMON_CHANGGWI_STONE_1_TITLE",
+        "description": "TEXT_COMMON_CHANGGWI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_06",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 450,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0.05,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
         }
     },
     {
@@ -700,6 +778,32 @@
         }
     },
     {
+        "id": "COMMON_CRIT_DODGE_RATE_STONE_5",
+        "ingame_id": "COMMON_CRIT_DODGE_RATE_STONE_5",
+        "name": "TEXT_COMMON_CRIT_DODGE_RATE_STONE_1_TITLE",
+        "description": "TEXT_COMMON_CRIT_DODGE_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0.05,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "COMMON_CRIT_RATE_STONE_1",
         "ingame_id": "COMMON_CRIT_RATE_STONE_1",
         "name": "TEXT_COMMON_CRIT_RATE_STONE_1_TITLE",
@@ -804,6 +908,58 @@
         }
     },
     {
+        "id": "COMMON_CRIT_RATE_STONE_5",
+        "ingame_id": "COMMON_CRIT_RATE_STONE_5",
+        "name": "TEXT_COMMON_CRIT_RATE_STONE_1_TITLE",
+        "description": "TEXT_COMMON_CRIT_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0.05,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_DALGI_STONE_1",
+        "ingame_id": "COMMON_DALGI_STONE_1",
+        "name": "TEXT_COMMON_DALGI_STONE_1_TITLE",
+        "description": "TEXT_COMMON_DALGI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_05",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 450,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0.035,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "COMMON_DEF_STONE_1",
         "ingame_id": "COMMON_DEF_STONE_1",
         "name": "TEXT_COMMON_DEF_STONE_1_TITLE",
@@ -894,6 +1050,32 @@
         "stats": {
             "accuracy": 0,
             "armor": 375,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_DEF_STONE_5",
+        "ingame_id": "COMMON_DEF_STONE_5",
+        "name": "TEXT_COMMON_DEF_STONE_1_TITLE",
+        "description": "TEXT_COMMON_DEF_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 450,
             "armor_pen": 0,
             "atk_power": 0,
             "crit_chance": 0,
@@ -1012,6 +1194,32 @@
         }
     },
     {
+        "id": "COMMON_DODGE_RATE_STONE_5",
+        "ingame_id": "COMMON_DODGE_RATE_STONE_5",
+        "name": "TEXT_COMMON_DODGE_RATE_STONE_1_TITLE",
+        "description": "TEXT_COMMON_DODGE_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0.035,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "COMMON_DOMPERIGNON_STONE_1",
         "ingame_id": "COMMON_DOMPERIGNON_STONE_1",
         "name": "TEXT_COMMON_DOMPERIGNON_STONE_1_TITLE",
@@ -1060,6 +1268,32 @@
             "hp": 0,
             "lifesteal": 0,
             "resistance": 150,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_ENBYEONG_STONE_1",
+        "ingame_id": "COMMON_ENBYEONG_STONE_1",
+        "name": "TEXT_COMMON_ENBYEONG_STONE_1_TITLE",
+        "description": "TEXT_COMMON_ENBYEONG_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_01",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 450,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 18000,
+            "lifesteal": 0,
+            "resistance": 0,
             "resistance_pen": 0
         }
     },
@@ -1115,6 +1349,32 @@
             "dmg_reduction": 0,
             "evasion": 0,
             "hp": 9000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_GAPGWI_STONE_1",
+        "ingame_id": "COMMON_GAPGWI_STONE_1",
+        "name": "TEXT_COMMON_GAPGWI_STONE_1_TITLE",
+        "description": "TEXT_COMMON_GAPGWI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_07",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 450,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
@@ -1320,6 +1580,58 @@
             "name": "TEXT_COMMON_SET_EP3_PHYSIC_1_NAME",
             "effect": "TEXT_COMMON_SET_EP3_PHYSIC_1_DESC",
             "pair": "COMMON_GULLVEIG_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_JANGPO_STONE_1",
+        "ingame_id": "COMMON_JANGPO_STONE_1",
+        "name": "TEXT_COMMON_JANGPO_STONE_1_TITLE",
+        "description": "TEXT_COMMON_JANGPO_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_08",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 450,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_JANGSANBEOUM_STONE_1",
+        "ingame_id": "COMMON_JANGSANBEOUM_STONE_1",
+        "name": "TEXT_COMMON_JANGSANBEOUM_STONE_1_TITLE",
+        "description": "TEXT_COMMON_JANGSANBEOUM_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_04",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0.05,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.05,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
         }
     },
     {
@@ -1593,6 +1905,32 @@
         }
     },
     {
+        "id": "COMMON_MAX_HP_STONE_5",
+        "ingame_id": "COMMON_MAX_HP_STONE_5",
+        "name": "TEXT_COMMON_MAX_HP_STONE_1_TITLE",
+        "description": "TEXT_COMMON_MAX_HP_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 18000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "COMMON_MHORUS_STONE_1",
         "ingame_id": "COMMON_MHORUS_STONE_1",
         "name": "TEXT_COMMON_MHORUS_STONE_1_TITLE",
@@ -1652,6 +1990,32 @@
             "name": "TEXT_COMMON_SET_EP2_DEFENCE_2_NAME",
             "effect": "TEXT_COMMON_SET_EP2_DEFENCE_2_DESC",
             "pair": "COMMON_MHORUS_STONE_2"
+        }
+    },
+    {
+        "id": "COMMON_NATI_STONE_1",
+        "ingame_id": "COMMON_NATI_STONE_1",
+        "name": "TEXT_COMMON_NATI_STONE_1_TITLE",
+        "description": "TEXT_COMMON_NATI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_12",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 450,
+            "resistance_pen": 0
         }
     },
     {
@@ -1746,6 +2110,32 @@
             "accuracy": 0,
             "armor": 0,
             "armor_pen": 375,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_PENETRATE_DEF_STONE_5",
+        "ingame_id": "COMMON_PENETRATE_DEF_STONE_5",
+        "name": "TEXT_COMMON_PENETRATE_DEF_STONE_1_TITLE",
+        "description": "TEXT_COMMON_PENETRATE_DEF_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 450,
             "atk_power": 0,
             "crit_chance": 0,
             "crit_chance_reduction": 0,
@@ -1863,6 +2253,32 @@
         }
     },
     {
+        "id": "COMMON_PENETRATE_RST_STONE_5",
+        "ingame_id": "COMMON_PENETRATE_RST_STONE_5",
+        "name": "TEXT_COMMON_PENETRATE_RST_STONE_1_TITLE",
+        "description": "TEXT_COMMON_PENETRATE_RST_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 450
+        }
+    },
+    {
         "id": "COMMON_PMK20A_STONE_1",
         "ingame_id": "COMMON_PMK20A_STONE_1",
         "name": "TEXT_COMMON_PMK20A_STONE_1_TITLE",
@@ -1886,6 +2302,32 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_QIONGQI_STONE_1",
+        "ingame_id": "COMMON_QIONGQI_STONE_1",
+        "name": "TEXT_COMMON_QIONGQI_STONE_1_TITLE",
+        "description": "TEXT_COMMON_QIONGQI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_09",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 450
         }
     },
     {
@@ -2073,6 +2515,32 @@
             "crit_chance_reduction": 0,
             "crit_dmg": 0,
             "dmg_reduction": 0.04,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_RECEIVE_DMG_RATE_STONE_5",
+        "ingame_id": "COMMON_RECEIVE_DMG_RATE_STONE_5",
+        "name": "TEXT_COMMON_RECEIVE_DMG_RATE_STONE_1_TITLE",
+        "description": "TEXT_COMMON_RECEIVE_DMG_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.05,
             "evasion": 0,
             "hp": 0,
             "lifesteal": 0,
@@ -2331,6 +2799,32 @@
             "hp": 0,
             "lifesteal": 0,
             "resistance": 375,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_RST_STONE_5",
+        "ingame_id": "COMMON_RST_STONE_5",
+        "name": "TEXT_COMMON_RST_STONE_1_TITLE",
+        "description": "TEXT_COMMON_RST_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "common",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 450,
             "resistance_pen": 0
         }
     },
@@ -3493,6 +3987,110 @@
         }
     },
     {
+        "id": "COMMON_SWORDEN_STONE_1",
+        "ingame_id": "COMMON_SWORDEN_STONE_1",
+        "name": "TEXT_COMMON_SWORDEN_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SWORDEN_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_10",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 18000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_TAOIST_STONE_1",
+        "ingame_id": "COMMON_TAOIST_STONE_1",
+        "name": "TEXT_COMMON_TAOIST_STONE_1_TITLE",
+        "description": "TEXT_COMMON_TAOIST_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_03",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0.035,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 450,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_TRUEGULLVEIG_STONE_1",
+        "ingame_id": "COMMON_TRUEGULLVEIG_STONE_1",
+        "name": "TEXT_COMMON_TRUEGULLVEIG_STONE_1_TITLE",
+        "description": "TEXT_COMMON_TRUEGULLVEIG_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_11",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 450,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "COMMON_VAJRAPANI_STONE_1",
+        "ingame_id": "COMMON_VAJRAPANI_STONE_1",
+        "name": "TEXT_COMMON_VAJRAPANI_STONE_1_TITLE",
+        "description": "TEXT_COMMON_VAJRAPANI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_02",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 1500,
+        "extract_cost": 30000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.05,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 450
+        }
+    },
+    {
         "id": "COMMON_VESSELOFGALATEA_STONE_1",
         "ingame_id": "COMMON_VESSELOFGALATEA_STONE_1",
         "name": "TEXT_COMMON_VESSELOFGALATEA_STONE_1_TITLE",
@@ -3835,6 +4433,32 @@
         }
     },
     {
+        "id": "EPIC_ACCURACY_RATE_STONE_5",
+        "ingame_id": "EPIC_ACCURACY_RATE_STONE_5",
+        "name": "TEXT_EPIC_ACCURACY_RATE_STONE_1_TITLE",
+        "description": "TEXT_EPIC_ACCURACY_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.17,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_AMMUT_STONE_1",
         "ingame_id": "EPIC_AMMUT_STONE_1",
         "name": "TEXT_EPIC_AMMUT_STONE_1_TITLE",
@@ -4146,6 +4770,32 @@
         }
     },
     {
+        "id": "EPIC_ATK_POWER_STONE_5",
+        "ingame_id": "EPIC_ATK_POWER_STONE_5",
+        "name": "TEXT_EPIC_ATK_POWER_STONE_1_TITLE",
+        "description": "TEXT_EPIC_ATK_POWER_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 1500,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_AVENIR_STONE_1",
         "ingame_id": "EPIC_AVENIR_STONE_1",
         "name": "TEXT_EPIC_AVENIR_STONE_1_TITLE",
@@ -4348,6 +4998,32 @@
         }
     },
     {
+        "id": "EPIC_CHANGGWI_STONE_1",
+        "ingame_id": "EPIC_CHANGGWI_STONE_1",
+        "name": "TEXT_EPIC_CHANGGWI_STONE_1_TITLE",
+        "description": "TEXT_EPIC_CHANGGWI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_31",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 1500,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_CODEVV_STONE_1",
         "ingame_id": "EPIC_CODEVV_STONE_1",
         "name": "TEXT_EPIC_CODEVV_STONE_1_TITLE",
@@ -4483,6 +5159,32 @@
         }
     },
     {
+        "id": "EPIC_CRIT_DODGE_RATE_STONE_5",
+        "ingame_id": "EPIC_CRIT_DODGE_RATE_STONE_5",
+        "name": "TEXT_EPIC_CRIT_DODGE_RATE_STONE_1_TITLE",
+        "description": "TEXT_EPIC_CRIT_DODGE_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0.11,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_CRIT_RATE_STONE_1",
         "ingame_id": "EPIC_CRIT_RATE_STONE_1",
         "name": "TEXT_EPIC_CRIT_RATE_STONE_1_TITLE",
@@ -4587,6 +5289,58 @@
         }
     },
     {
+        "id": "EPIC_CRIT_RATE_STONE_5",
+        "ingame_id": "EPIC_CRIT_RATE_STONE_5",
+        "name": "TEXT_EPIC_CRIT_RATE_STONE_1_TITLE",
+        "description": "TEXT_EPIC_CRIT_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0.11,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_DALGI_STONE_1",
+        "ingame_id": "EPIC_DALGI_STONE_1",
+        "name": "TEXT_EPIC_DALGI_STONE_1_TITLE",
+        "description": "TEXT_EPIC_DALGI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_26",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.13,
+            "evasion": 0,
+            "hp": 55000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_DEF_STONE_1",
         "ingame_id": "EPIC_DEF_STONE_1",
         "name": "TEXT_EPIC_DEF_STONE_1_TITLE",
@@ -4677,6 +5431,32 @@
         "stats": {
             "accuracy": 0,
             "armor": 1250,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_DEF_STONE_5",
+        "ingame_id": "EPIC_DEF_STONE_5",
+        "name": "TEXT_EPIC_DEF_STONE_1_TITLE",
+        "description": "TEXT_EPIC_DEF_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 1500,
             "armor_pen": 0,
             "atk_power": 0,
             "crit_chance": 0,
@@ -4795,6 +5575,58 @@
         }
     },
     {
+        "id": "EPIC_DODGE_RATE_STONE_5",
+        "ingame_id": "EPIC_DODGE_RATE_STONE_5",
+        "name": "TEXT_EPIC_DODGE_RATE_STONE_1_TITLE",
+        "description": "TEXT_EPIC_DODGE_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0.17,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_ENBYEONG_STONE_1",
+        "ingame_id": "EPIC_ENBYEONG_STONE_1",
+        "name": "TEXT_EPIC_ENBYEONG_STONE_1_TITLE",
+        "description": "TEXT_EPIC_ENBYEONG_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_33",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 1750
+        }
+    },
+    {
         "id": "EPIC_EVE606_STONE_1",
         "ingame_id": "EPIC_EVE606_STONE_1",
         "name": "TEXT_EPIC_EVE606_STONE_1_TITLE",
@@ -4841,6 +5673,32 @@
             "dmg_reduction": 0,
             "evasion": 0,
             "hp": 35000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_GAPGWI_STONE_1",
+        "ingame_id": "EPIC_GAPGWI_STONE_1",
+        "name": "TEXT_EPIC_GAPGWI_STONE_1_TITLE",
+        "description": "TEXT_EPIC_GAPGWI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_29",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 1500,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0.12,
+            "hp": 0,
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
@@ -4958,6 +5816,58 @@
             "name": "TEXT_EPIC_SET_EP3_MAGIC_1_NAME",
             "effect": "TEXT_EPIC_SET_EP3_MAGIC_1_DESC",
             "pair": "EPIC_GULLVEIG_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_JANGPO_STONE_1",
+        "ingame_id": "EPIC_JANGPO_STONE_1",
+        "name": "TEXT_EPIC_JANGPO_STONE_1_TITLE",
+        "description": "TEXT_EPIC_JANGPO_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_32",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 1750,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_JANGSANBEOUM_STONE_1",
+        "ingame_id": "EPIC_JANGSANBEOUM_STONE_1",
+        "name": "TEXT_EPIC_JANGSANBEOUM_STONE_1_TITLE",
+        "description": "TEXT_EPIC_JANGSANBEOUM_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_25",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 900,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 55000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
         }
     },
     {
@@ -5241,6 +6151,58 @@
         }
     },
     {
+        "id": "EPIC_MAX_HP_STONE_5",
+        "ingame_id": "EPIC_MAX_HP_STONE_5",
+        "name": "TEXT_EPIC_MAX_HP_STONE_1_TITLE",
+        "description": "TEXT_EPIC_MAX_HP_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 60000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_NATI_STONE_1",
+        "ingame_id": "EPIC_NATI_STONE_1",
+        "name": "TEXT_EPIC_NATI_STONE_1_TITLE",
+        "description": "TEXT_EPIC_NATI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_35",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 1750,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_OMEGA_STONE_1",
         "ingame_id": "EPIC_OMEGA_STONE_1",
         "name": "TEXT_EPIC_OMEGA_STONE_1_TITLE",
@@ -5402,6 +6364,32 @@
         }
     },
     {
+        "id": "EPIC_PENETRATE_DEF_STONE_5",
+        "ingame_id": "EPIC_PENETRATE_DEF_STONE_5",
+        "name": "TEXT_EPIC_PENETRATE_DEF_STONE_1_TITLE",
+        "description": "TEXT_EPIC_PENETRATE_DEF_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 1500,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_PENETRATE_RST_STONE_1",
         "ingame_id": "EPIC_PENETRATE_RST_STONE_1",
         "name": "TEXT_EPIC_PENETRATE_RST_STONE_1_TITLE",
@@ -5506,6 +6494,32 @@
         }
     },
     {
+        "id": "EPIC_PENETRATE_RST_STONE_5",
+        "ingame_id": "EPIC_PENETRATE_RST_STONE_5",
+        "name": "TEXT_EPIC_PENETRATE_RST_STONE_1_TITLE",
+        "description": "TEXT_EPIC_PENETRATE_RST_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 1500
+        }
+    },
+    {
         "id": "EPIC_PMK20A_STONE_1",
         "ingame_id": "EPIC_PMK20A_STONE_1",
         "name": "TEXT_EPIC_PMK20A_STONE_1_TITLE",
@@ -5565,6 +6579,32 @@
             "name": "TEXT_EPIC_SET_EP4_SP_1_NAME",
             "effect": "TEXT_EPIC_SET_EP4_SP_1_DESC",
             "pair": "EPIC_PMK20A_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_QIONGQI_STONE_1",
+        "ingame_id": "EPIC_QIONGQI_STONE_1",
+        "name": "TEXT_EPIC_QIONGQI_STONE_1_TITLE",
+        "description": "TEXT_EPIC_QIONGQI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_27",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 1500,
+            "atk_power": 0,
+            "crit_chance": 0.09,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
         }
     },
     {
@@ -5773,6 +6813,32 @@
             "crit_chance_reduction": 0,
             "crit_dmg": 0,
             "dmg_reduction": 0.09,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_RECEIVE_DMG_RATE_STONE_5",
+        "ingame_id": "EPIC_RECEIVE_DMG_RATE_STONE_5",
+        "name": "TEXT_EPIC_RECEIVE_DMG_RATE_STONE_1_TITLE",
+        "description": "TEXT_EPIC_RECEIVE_DMG_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.11,
             "evasion": 0,
             "hp": 0,
             "lifesteal": 0,
@@ -6099,6 +7165,32 @@
             "hp": 0,
             "lifesteal": 0,
             "resistance": 1250,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_RST_STONE_5",
+        "ingame_id": "EPIC_RST_STONE_5",
+        "name": "TEXT_EPIC_RST_STONE_1_TITLE",
+        "description": "TEXT_EPIC_RST_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "epic",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 1500,
             "resistance_pen": 0
         }
     },
@@ -7385,6 +8477,58 @@
         }
     },
     {
+        "id": "EPIC_SWORDEN_STONE_1",
+        "ingame_id": "EPIC_SWORDEN_STONE_1",
+        "name": "TEXT_EPIC_SWORDEN_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SWORDEN_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_30",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0.12,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 1500,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_TAOIST_STONE_1",
+        "ingame_id": "EPIC_TAOIST_STONE_1",
+        "name": "TEXT_EPIC_TAOIST_STONE_1_TITLE",
+        "description": "TEXT_EPIC_TAOIST_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_36",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 1750,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_THIALFI_STONE_1",
         "ingame_id": "EPIC_THIALFI_STONE_1",
         "name": "TEXT_EPIC_THIALFI_STONE_1_TITLE",
@@ -7437,6 +8581,32 @@
         }
     },
     {
+        "id": "EPIC_TRUEGULLVEIG_STONE_1",
+        "ingame_id": "EPIC_TRUEGULLVEIG_STONE_1",
+        "name": "TEXT_EPIC_TRUEGULLVEIG_STONE_1_TITLE",
+        "description": "TEXT_EPIC_TRUEGULLVEIG_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_28",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0.09,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 1500
+        }
+    },
+    {
         "id": "EPIC_TYRANT_STONE_1",
         "ingame_id": "EPIC_TYRANT_STONE_1",
         "name": "TEXT_EPIC_TYRANT_STONE_1_TITLE",
@@ -7457,6 +8627,32 @@
             "dmg_reduction": 0.1,
             "evasion": 0,
             "hp": 45000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "EPIC_VAJRAPANI_STONE_1",
+        "ingame_id": "EPIC_VAJRAPANI_STONE_1",
+        "name": "TEXT_EPIC_VAJRAPANI_STONE_1_TITLE",
+        "description": "TEXT_EPIC_VAJRAPANI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_34",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 60000,
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
@@ -7717,6 +8913,32 @@
         }
     },
     {
+        "id": "RARE_ACCURACY_RATE_STONE_5",
+        "ingame_id": "RARE_ACCURACY_RATE_STONE_5",
+        "name": "TEXT_RARE_ACCURACY_RATE_STONE_1_TITLE",
+        "description": "TEXT_RARE_ACCURACY_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0.11,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_AMMUT_STONE_1",
         "ingame_id": "RARE_AMMUT_STONE_1",
         "name": "TEXT_RARE_AMMUT_STONE_1_TITLE",
@@ -7940,6 +9162,32 @@
         }
     },
     {
+        "id": "RARE_ATK_POWER_STONE_5",
+        "ingame_id": "RARE_ATK_POWER_STONE_5",
+        "name": "TEXT_RARE_ATK_POWER_STONE_1_TITLE",
+        "description": "TEXT_RARE_ATK_POWER_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 900,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_BLOODHOUND_STONE_1",
         "ingame_id": "RARE_BLOODHOUND_STONE_1",
         "name": "TEXT_RARE_BLOODHOUND_STONE_1_TITLE",
@@ -7994,6 +9242,32 @@
             "name": "TEXT_RARE_SET_EP1_PHYSIC_2_NAME",
             "effect": "TEXT_RARE_SET_EP1_PHYSIC_2_DESC",
             "pair": "RARE_BOUILLABAISSE_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_CHANGGWI_STONE_1",
+        "ingame_id": "RARE_CHANGGWI_STONE_1",
+        "name": "TEXT_RARE_CHANGGWI_STONE_1_TITLE",
+        "description": "TEXT_RARE_CHANGGWI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_18",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 825,
+            "atk_power": 0,
+            "crit_chance": 0.08,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
         }
     },
     {
@@ -8163,6 +9437,32 @@
         }
     },
     {
+        "id": "RARE_CRIT_DODGE_RATE_STONE_5",
+        "ingame_id": "RARE_CRIT_DODGE_RATE_STONE_5",
+        "name": "TEXT_RARE_CRIT_DODGE_RATE_STONE_1_TITLE",
+        "description": "TEXT_RARE_CRIT_DODGE_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0.06,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_CRIT_RATE_STONE_1",
         "ingame_id": "RARE_CRIT_RATE_STONE_1",
         "name": "TEXT_RARE_CRIT_RATE_STONE_1_TITLE",
@@ -8267,6 +9567,58 @@
         }
     },
     {
+        "id": "RARE_CRIT_RATE_STONE_5",
+        "ingame_id": "RARE_CRIT_RATE_STONE_5",
+        "name": "TEXT_RARE_CRIT_RATE_STONE_1_TITLE",
+        "description": "TEXT_RARE_CRIT_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0.06,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_DALGI_STONE_1",
+        "ingame_id": "RARE_DALGI_STONE_1",
+        "name": "TEXT_RARE_DALGI_STONE_1_TITLE",
+        "description": "TEXT_RARE_DALGI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_16",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 825,
+            "armor_pen": 825,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_DEF_STONE_1",
         "ingame_id": "RARE_DEF_STONE_1",
         "name": "TEXT_RARE_DEF_STONE_1_TITLE",
@@ -8357,6 +9709,32 @@
         "stats": {
             "accuracy": 0,
             "armor": 750,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_DEF_STONE_5",
+        "ingame_id": "RARE_DEF_STONE_5",
+        "name": "TEXT_RARE_DEF_STONE_1_TITLE",
+        "description": "TEXT_RARE_DEF_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 900,
             "armor_pen": 0,
             "atk_power": 0,
             "crit_chance": 0,
@@ -8475,6 +9853,32 @@
         }
     },
     {
+        "id": "RARE_DODGE_RATE_STONE_5",
+        "ingame_id": "RARE_DODGE_RATE_STONE_5",
+        "name": "TEXT_RARE_DODGE_RATE_STONE_1_TITLE",
+        "description": "TEXT_RARE_DODGE_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_func",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0.11,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_DOMPERIGNON_STONE_1",
         "ingame_id": "RARE_DOMPERIGNON_STONE_1",
         "name": "TEXT_RARE_DOMPERIGNON_STONE_1_TITLE",
@@ -8503,6 +9907,32 @@
             "name": "TEXT_RARE_SET_EP1_DEFENCE_2_NAME",
             "effect": "TEXT_RARE_SET_EP1_DEFENCE_2_DESC",
             "pair": "RARE_DOMPERIGNON_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_ENBYEONG_STONE_1",
+        "ingame_id": "RARE_ENBYEONG_STONE_1",
+        "name": "TEXT_RARE_ENBYEONG_STONE_1_TITLE",
+        "description": "TEXT_RARE_ENBYEONG_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_21",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 900
         }
     },
     {
@@ -8606,6 +10036,32 @@
             "hp": 0,
             "lifesteal": 0,
             "resistance": 525,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_GAPGWI_STONE_1",
+        "ingame_id": "RARE_GAPGWI_STONE_1",
+        "name": "TEXT_RARE_GAPGWI_STONE_1_TITLE",
+        "description": "TEXT_RARE_GAPGWI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_23",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 900,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
             "resistance_pen": 0
         }
     },
@@ -8720,6 +10176,58 @@
             "hp": 0,
             "lifesteal": 0,
             "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_JANGPO_STONE_1",
+        "ingame_id": "RARE_JANGPO_STONE_1",
+        "name": "TEXT_RARE_JANGPO_STONE_1_TITLE",
+        "description": "TEXT_RARE_JANGPO_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_20",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 900,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_JANGSANBEOUM_STONE_1",
+        "ingame_id": "RARE_JANGSANBEOUM_STONE_1",
+        "name": "TEXT_RARE_JANGSANBEOUM_STONE_1_TITLE",
+        "description": "TEXT_RARE_JANGSANBEOUM_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_13",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 825,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 825,
             "resistance_pen": 0
         }
     },
@@ -8968,6 +10476,58 @@
         }
     },
     {
+        "id": "RARE_MAX_HP_STONE_5",
+        "ingame_id": "RARE_MAX_HP_STONE_5",
+        "name": "TEXT_RARE_MAX_HP_STONE_1_TITLE",
+        "description": "TEXT_RARE_MAX_HP_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 36000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_NATI_STONE_1",
+        "ingame_id": "RARE_NATI_STONE_1",
+        "name": "TEXT_RARE_NATI_STONE_1_TITLE",
+        "description": "TEXT_RARE_NATI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_17",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0.11,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 825
+        }
+    },
+    {
         "id": "RARE_OMEGA_STONE_1",
         "ingame_id": "RARE_OMEGA_STONE_1",
         "name": "TEXT_RARE_OMEGA_STONE_1_TITLE",
@@ -9196,6 +10756,32 @@
         }
     },
     {
+        "id": "RARE_PENETRATE_DEF_STONE_5",
+        "ingame_id": "RARE_PENETRATE_DEF_STONE_5",
+        "name": "TEXT_RARE_PENETRATE_DEF_STONE_1_TITLE",
+        "description": "TEXT_RARE_PENETRATE_DEF_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 900,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_PENETRATE_RST_STONE_1",
         "ingame_id": "RARE_PENETRATE_RST_STONE_1",
         "name": "TEXT_RARE_PENETRATE_RST_STONE_1_TITLE",
@@ -9297,6 +10883,58 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 750
+        }
+    },
+    {
+        "id": "RARE_PENETRATE_RST_STONE_5",
+        "ingame_id": "RARE_PENETRATE_RST_STONE_5",
+        "name": "TEXT_RARE_PENETRATE_RST_STONE_1_TITLE",
+        "description": "TEXT_RARE_PENETRATE_RST_STONE_1_DESC",
+        "image": "ui_item_stone_5_atk",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 900
+        }
+    },
+    {
+        "id": "RARE_QIONGQI_STONE_1",
+        "ingame_id": "RARE_QIONGQI_STONE_1",
+        "name": "TEXT_RARE_QIONGQI_STONE_1_TITLE",
+        "description": "TEXT_RARE_QIONGQI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_15",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 825,
+            "resistance_pen": 825
         }
     },
     {
@@ -9453,6 +11091,32 @@
             "crit_chance_reduction": 0,
             "crit_dmg": 0,
             "dmg_reduction": 0.05,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_RECEIVE_DMG_RATE_STONE_5",
+        "ingame_id": "RARE_RECEIVE_DMG_RATE_STONE_5",
+        "name": "TEXT_RARE_RECEIVE_DMG_RATE_STONE_1_TITLE",
+        "description": "TEXT_RARE_RECEIVE_DMG_RATE_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.06,
             "evasion": 0,
             "hp": 0,
             "lifesteal": 0,
@@ -9623,6 +11287,32 @@
             "hp": 0,
             "lifesteal": 0,
             "resistance": 750,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_RST_STONE_5",
+        "ingame_id": "RARE_RST_STONE_5",
+        "name": "TEXT_RARE_RST_STONE_1_TITLE",
+        "description": "TEXT_RARE_RST_STONE_1_DESC",
+        "image": "ui_item_stone_5_def",
+        "grade": 5,
+        "rarity": "rare",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 900,
             "resistance_pen": 0
         }
     },
@@ -10857,6 +12547,58 @@
         }
     },
     {
+        "id": "RARE_SWORDEN_STONE_1",
+        "ingame_id": "RARE_SWORDEN_STONE_1",
+        "name": "TEXT_RARE_SWORDEN_STONE_1_TITLE",
+        "description": "TEXT_RARE_SWORDEN_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_24",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 900,
+            "resistance_pen": 0
+        }
+    },
+    {
+        "id": "RARE_TAOIST_STONE_1",
+        "ingame_id": "RARE_TAOIST_STONE_1",
+        "name": "TEXT_RARE_TAOIST_STONE_1_TITLE",
+        "description": "TEXT_RARE_TAOIST_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_22",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 36000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_THIALFI_STONE_1",
         "ingame_id": "RARE_THIALFI_STONE_1",
         "name": "TEXT_RARE_THIALFI_STONE_1_TITLE",
@@ -10976,6 +12718,32 @@
         }
     },
     {
+        "id": "RARE_TRUEGULLVEIG_STONE_1",
+        "ingame_id": "RARE_TRUEGULLVEIG_STONE_1",
+        "name": "TEXT_RARE_TRUEGULLVEIG_STONE_1_TITLE",
+        "description": "TEXT_RARE_TRUEGULLVEIG_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_19",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 900,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "RARE_TYRANT_STONE_1",
         "ingame_id": "RARE_TYRANT_STONE_1",
         "name": "TEXT_RARE_TYRANT_STONE_1_TITLE",
@@ -11035,6 +12803,32 @@
             "name": "TEXT_RARE_SET_EP4_MAGIC_1_NAME",
             "effect": "TEXT_RARE_SET_EP4_MAGIC_1_DESC",
             "pair": "RARE_TYRANT_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_VAJRAPANI_STONE_1",
+        "ingame_id": "RARE_VAJRAPANI_STONE_1",
+        "name": "TEXT_RARE_VAJRAPANI_STONE_1_TITLE",
+        "description": "TEXT_RARE_VAJRAPANI_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_14",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 3000,
+        "extract_cost": 100000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.06,
+            "evasion": 0.11,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
         }
     },
     {
