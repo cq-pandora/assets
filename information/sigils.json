@@ -5024,6 +5024,32 @@
         }
     },
     {
+        "id": "EPIC_CHOSSEO_STONE_1",
+        "ingame_id": "EPIC_CHOSSEO_STONE_1",
+        "name": "TEXT_EPIC_CHOSSEO_STONE_1_TITLE",
+        "description": "TEXT_EPIC_CHOSSEO_STONE_1_DESC",
+        "image": "ui_item_stone_5_unique_37",
+        "grade": 5,
+        "rarity": "unique",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 900,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 55000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        }
+    },
+    {
         "id": "EPIC_CODEVV_STONE_1",
         "ingame_id": "EPIC_CODEVV_STONE_1",
         "name": "TEXT_EPIC_CODEVV_STONE_1_TITLE",

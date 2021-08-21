@@ -347,6 +347,54 @@
         ],
         "id": "ILLUST_COLLABO_KOFTERRY"
     },
+    "TEXT_CHA_PA_LIMITED_OT_6_06_NAME": {
+        "keys": [
+            "portrait_otalfyn_default"
+        ],
+        "id": "ILLUST_COLLABO_OTALFYN"
+    },
+    "TEXT_CHA_WI_LIMITED_OT_6_02_NAME": {
+        "keys": [
+            "portrait_otcyrus_default"
+        ],
+        "id": "ILLUST_COLLABO_OTCYRUS"
+    },
+    "TEXT_CHA_AR_LIMITED_OT_6_08_NAME": {
+        "keys": [
+            "portrait_othaanit_default"
+        ],
+        "id": "ILLUST_COLLABO_OTHAANIT"
+    },
+    "TEXT_CHA_WA_LIMITED_OT_6_04_NAME": {
+        "keys": [
+            "portrait_otolberic_default"
+        ],
+        "id": "ILLUST_COLLABO_OTOLBERIC"
+    },
+    "TEXT_CHA_PR_LIMITED_OT_6_01_NAME": {
+        "keys": [
+            "portrait_otophilia_default"
+        ],
+        "id": "ILLUST_COLLABO_OTOPHILIA"
+    },
+    "TEXT_CHA_AR_LIMITED_OT_6_05_NAME": {
+        "keys": [
+            "portrait_otprimrose_default"
+        ],
+        "id": "ILLUST_COLLABO_OTPRIMROSE"
+    },
+    "TEXT_CHA_WA_LIMITED_OT_6_07_NAME": {
+        "keys": [
+            "portrait_ottherion_default"
+        ],
+        "id": "ILLUST_COLLABO_OTTHERION"
+    },
+    "TEXT_CHA_HU_LIMITED_OT_6_03_NAME": {
+        "keys": [
+            "portrait_ottressa_default"
+        ],
+        "id": "ILLUST_COLLABO_OTTRESSA"
+    },
     "TEXT_CHA_WA_LIMITED_RB_BLAKE_NAME": {
         "keys": [
             "portrait_blake_default"

@@ -12942,6 +12942,24 @@
         "resistance_pen": 200
     },
     {
+        "id": "MON_BOSS_SHADOWROSE_GUN_RED_OT",
+        "name": "TEXT_MON_BOSS_SHADOWROSE_GUN_RED_NAME",
+        "image": "mon_shadowrose_gun",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_BOSS_SHADOWROSE_RIDER_BLUE",
         "name": "TEXT_MON_BOSS_SHADOWROSE_RIDER_BLUE_NAME",
         "image": "mon_shadowrose_rider",
@@ -12958,6 +12976,24 @@
         "lifesteal": 0,
         "resistance": 300,
         "resistance_pen": 200
+    },
+    {
+        "id": "MON_BOSS_SHADOWROSE_RIDER_BLUE_OT",
+        "name": "TEXT_MON_BOSS_SHADOWROSE_RIDER_BLUE_NAME",
+        "image": "mon_shadowrose_rider",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
     },
     {
         "id": "MON_BOSS_SHADOWROSE_RIDER_RED",
@@ -15246,6 +15282,24 @@
         "resistance_pen": 0
     },
     {
+        "id": "MON_BS_SANDWORM_01_OT",
+        "name": "TEXT_MON_BS_SANDWORM_01_NAME",
+        "image": "mon_sandworm_01",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_BS_SANDWORM_02_EASY",
         "name": "TEXT_MON_BS_SANDWORM_02_NAME",
         "image": "mon_sandworm_02",
@@ -15621,6 +15675,24 @@
         "hp": 1407.488,
         "lifesteal": 0,
         "resistance": 203.5,
+        "resistance_pen": 0
+    },
+    {
+        "id": "MON_EP5_BIG_CANNON_OT",
+        "name": "TEXT_MON_EP5_BIG_CANNON_NAME",
+        "image": "mon_ep5_big_cannon",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
         "resistance_pen": 0
     },
     {
@@ -16308,6 +16380,24 @@
         "resistance_pen": 0
     },
     {
+        "id": "MON_GOBLIN_CHAMP_CHALLENGE_OT",
+        "name": "TEXT_MON_GOBLIN_CHAMP_CHALLENGE_NAME",
+        "image": "mon_goblin_champ",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_GOBLIN_CHIEF",
         "name": "TEXT_MON_GOBLIN_CHEIF_NAME",
         "image": "mon_goblin_chief",
@@ -16414,6 +16504,24 @@
         "lifesteal": 0,
         "resistance": 350,
         "resistance_pen": 500
+    },
+    {
+        "id": "MON_LIMITED_OT_BOSS",
+        "name": "TEXT_UNKNOWN_NAME",
+        "image": "mon_limited_ot_boss",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
     },
     {
         "id": "MON_LIMITED_RZ_BOSS_01",
