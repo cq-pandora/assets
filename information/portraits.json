@@ -1163,6 +1163,12 @@
         ],
         "id": "ILLUST_HERO_HYANG"
     },
+    "TEXT_CHA_AR_6_33_NAME": {
+        "keys": [
+            "portrait_iris_default"
+        ],
+        "id": "ILLUST_HERO_IRIS"
+    },
     "TEXT_CHA_WA_6_10_NAME": {
         "keys": [
             "portrait_isabel_default"
@@ -1368,6 +1374,12 @@
             "portrait_loviatar_default"
         ],
         "id": "ILLUST_HERO_LOVIATAR"
+    },
+    "TEXT_CHA_HU_6_33_NAME": {
+        "keys": [
+            "portrait_luca_default"
+        ],
+        "id": "ILLUST_HERO_LUCA"
     },
     "TEXT_CHA_PA_6_32_NAME": {
         "keys": [
