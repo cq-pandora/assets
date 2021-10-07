@@ -990,7 +990,8 @@
     },
     "TEXT_CHA_PR_UNIQUE_6_ELLIE": {
         "keys": [
-            "portrait_ellie2_default"
+            "portrait_ellie2_default",
+            "portrait_completeellie_default"
         ],
         "id": "ILLUST_HERO_ELLIE2"
     },
@@ -1137,6 +1138,12 @@
             "portrait_heim_default"
         ],
         "id": "ILLUST_HERO_HEIM"
+    },
+    "TEXT_CHA_PR_6_35_NAME": {
+        "keys": [
+            "portrait_hera_default"
+        ],
+        "id": "ILLUST_HERO_HERA"
     },
     "TEXT_CHA_AR_6_7_NAME": {
         "keys": [
@@ -1837,6 +1844,12 @@
             "portrait_simhakgyu_default"
         ],
         "id": "ILLUST_HERO_SIMHAKGYU"
+    },
+    "TEXT_CHA_PA_6_35_NAME": {
+        "keys": [
+            "portrait_snorri_default"
+        ],
+        "id": "ILLUST_HERO_SNORRI"
     },
     "TEXT_CHA_HU_6_14_NAME": {
         "keys": [
