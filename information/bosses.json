@@ -36,6 +36,24 @@
         "resistance_pen": 4000
     },
     {
+        "id": "BR_MON_AVENIR",
+        "name": "TEXT_MON_AVENIR_NAME",
+        "image": "mon_avenir",
+        "accuracy": 0.6,
+        "armor": 2500,
+        "armor_pen": 4000,
+        "atk_power": 4000,
+        "crit_chance": 0.5,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 20000000,
+        "lifesteal": 0,
+        "resistance": 2500,
+        "resistance_pen": 4000
+    },
+    {
         "id": "BR_MON_BOSS_RAEL_00",
         "name": "TEXT_RAEL_NAME",
         "image": "mon_rael",

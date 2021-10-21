@@ -842,6 +842,18 @@
         ],
         "id": "ILLUST_HERO_BENJAMIN"
     },
+    "TEXT_CHA_AR_LIMITED_BEARS_6_BERA_NAME": {
+        "keys": [
+            "portrait_bera_default"
+        ],
+        "id": "ILLUST_HERO_BERA"
+    },
+    "TEXT_CHA_HU_LIMITED_BEARS_6_BERON_NAME": {
+        "keys": [
+            "portrait_beron_default"
+        ],
+        "id": "ILLUST_HERO_BERON"
+    },
     "TEXT_CHA_WI_6_28_NAME": {
         "keys": [
             "portrait_bihwa_default"
