@@ -13860,6 +13860,24 @@
         "resistance_pen": 0
     },
     {
+        "id": "MON_BS_FUGUS_04",
+        "name": "TEXT_MON_BS_FUGUS_02_NAME",
+        "image": "mon_fugus_02",
+        "accuracy": 0,
+        "armor": 5000,
+        "armor_pen": 0,
+        "atk_power": 10,
+        "crit_chance": 0.1,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 30000,
+        "lifesteal": 0,
+        "resistance": 5000,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_BS_GOLEM",
         "name": "TEXT_MON_BS_GOLEM_NAME",
         "image": "mon_golem",
@@ -15625,7 +15643,7 @@
     },
     {
         "id": "MON_DG_BUGLC_GOD",
-        "name": "TEXT_MON_DG_BUGLC_GOD_NAME",
+        "name": "TEXT_MON_DG_BUGLC_GOD_NEW_NAME",
         "image": "mon_buglc_god",
         "accuracy": 0,
         "armor": 30,
@@ -15643,7 +15661,7 @@
     },
     {
         "id": "MON_DG_BUGLC_GOD_FAKE",
-        "name": "TEXT_MON_DG_BUGLC_GOD_FAKE_NAME",
+        "name": "TEXT_MON_DG_BUGLC_GOD_FAKE_NEW_NAME",
         "image": "mon_buglc_god",
         "accuracy": 0.6,
         "armor": 3000,
@@ -15661,7 +15679,7 @@
     },
     {
         "id": "MON_DG_BUGLC_GOD_REAL",
-        "name": "TEXT_MON_DG_BUGLC_GOD_REAL_NAME",
+        "name": "TEXT_MON_DG_BUGLC_GOD_REAL_NEW_NAME",
         "image": "mon_buglc_god",
         "accuracy": 0.6,
         "armor": 3000,

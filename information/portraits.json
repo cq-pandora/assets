@@ -896,6 +896,12 @@
         ],
         "id": "ILLUST_HERO_CAROL"
     },
+    "TEXT_CHA_WI_6_34_NAME": {
+        "keys": [
+            "portrait_carolyn_default"
+        ],
+        "id": "ILLUST_HERO_CAROLYN"
+    },
     "TEXT_CHA_PA_6_31_NAME": {
         "keys": [
             "portrait_cecilia_default"
@@ -2075,8 +2081,8 @@
     },
     "TEXT_NPC_SHOP_NAME": {
         "keys": [
-            "portrait_brigit_default",
-            "portrait_bridgetsixth_default"
+            "portrait_bridgetsixth_default",
+            "portrait_brigit_default"
         ],
         "id": "ILLUST_NPC_BRIGIT"
     },
