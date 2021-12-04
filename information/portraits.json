@@ -1182,6 +1182,12 @@
         ],
         "id": "ILLUST_HERO_HONGRAN"
     },
+    "TEXT_CHA_WA_6_35_NAME": {
+        "keys": [
+            "portrait_hrolf_default"
+        ],
+        "id": "ILLUST_HERO_HROLF"
+    },
     "TEXT_CHA_WI_6_2_NAME": {
         "keys": [
             "portrait_hyang_default"
@@ -1501,6 +1507,12 @@
             "portrait_maxi_default"
         ],
         "id": "ILLUST_HERO_MAXI"
+    },
+    "TEXT_CHA_WI_6_35_NAME": {
+        "keys": [
+            "portrait_medea_default"
+        ],
+        "id": "ILLUST_HERO_MEDEA"
     },
     "TEXT_CHA_AR_6_31_NAME": {
         "keys": [
@@ -2094,6 +2106,7 @@
     },
     "TEXT_NPC_BREAD_NAME": {
         "keys": [
+            "portrait_chocola7th_default",
             "portrait_chocolat_default"
         ],
         "id": "ILLUST_NPC_CHOCOLAT"
