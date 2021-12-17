@@ -149,6 +149,12 @@
         ],
         "id": "ILLUST_COLLABO_ERTIGER"
     },
+    "TEXT_CHA_PA_LIMITED_GG4_6_01_NAME": {
+        "keys": [
+            "portrait_gg4faust_default"
+        ],
+        "id": "ILLUST_COLLABO_GG4FAUST"
+    },
     "TEXT_CHA_WA_LIMITED_GG3_BAIKEN_NAME": {
         "keys": [
             "portrait_ggbaiken_default"
@@ -157,7 +163,8 @@
     },
     "TEXT_CHA_AR_LIMITED_GG_6_1_NAME": {
         "keys": [
-            "portrait_chp_default"
+            "portrait_chp_default",
+            "portrait_gg4chp_default"
         ],
         "id": "ILLUST_COLLABO_GGCHIPP"
     },
@@ -175,13 +182,15 @@
     },
     "TEXT_CHA_PR_LIMITED_GG_6_1_NAME": {
         "keys": [
-            "portrait_ino_default"
+            "portrait_ino_default",
+            "portrait_gg4ino_default"
         ],
         "id": "ILLUST_COLLABO_GGINO"
     },
     "TEXT_CHA_WI_LIMITED_GG_6_2_NAME": {
         "keys": [
-            "portrait_jko_default"
+            "portrait_jko_default",
+            "portrait_gg4jko_default"
         ],
         "id": "ILLUST_COLLABO_GGJACK"
     },
@@ -193,25 +202,29 @@
     },
     "TEXT_CHA_WA_LIMITED_GG_6_1_NAME": {
         "keys": [
-            "portrait_kyk_default"
+            "portrait_kyk_default",
+            "portrait_gg4kyk_default"
         ],
         "id": "ILLUST_COLLABO_GGKYK"
     },
     "TEXT_CHA_PA_LIMITED_GG_6_1_NAME": {
         "keys": [
-            "portrait_may_default"
+            "portrait_may_default",
+            "portrait_gg4may_default"
         ],
         "id": "ILLUST_COLLABO_GGMAY"
     },
     "TEXT_CHA_WA_LIMITED_GG_6_3_NAME": {
         "keys": [
-            "portrait_mll_default"
+            "portrait_mll_default",
+            "portrait_gg4mll_default"
         ],
         "id": "ILLUST_COLLABO_GGMILLA"
     },
     "TEXT_CHA_WI_LIMITED_GG_6_1_NAME": {
         "keys": [
-            "portrait_ram_default"
+            "portrait_ram_default",
+            "portrait_gg4ram_default"
         ],
         "id": "ILLUST_COLLABO_GGRAMLETHAL"
     },
@@ -223,9 +236,16 @@
     },
     "TEXT_CHA_WA_LIMITED_GG_6_2_NAME": {
         "keys": [
-            "portrait_sol_default"
+            "portrait_sol_default",
+            "portrait_gg4sol_default"
         ],
         "id": "ILLUST_COLLABO_GGSOL"
+    },
+    "TEXT_CHA_WA_LIMITED_GG4_6_02_NAME": {
+        "keys": [
+            "portrait_giovanna_default"
+        ],
+        "id": "ILLUST_COLLABO_GIOVANNA"
     },
     "TEXT_CHA_WI_LIMITED_GS_6_05_NAME": {
         "keys": [
@@ -544,6 +564,12 @@
             "portrait_yssahad_default"
         ],
         "id": "ILLUST_COLLABO_YSSAHAD"
+    },
+    "TEXT_CHA_WA_LIMITED_GG4_6_03_NAME": {
+        "keys": [
+            "portrait_zato_default"
+        ],
+        "id": "ILLUST_COLLABO_ZATO"
     },
     "TEXT_NPC_ARRAT_NAME": {
         "keys": [
@@ -1904,6 +1930,24 @@
             "portrait_stein_default"
         ],
         "id": "ILLUST_HERO_STEIN"
+    },
+    "TEXT_CHA_WA_SUPPORT_4_1_NAME": {
+        "keys": [
+            "portrait_support4_default"
+        ],
+        "id": "ILLUST_HERO_SUPPORT4"
+    },
+    "TEXT_CHA_WA_SUPPORT_5_1_NAME": {
+        "keys": [
+            "portrait_support5_default"
+        ],
+        "id": "ILLUST_HERO_SUPPORT5"
+    },
+    "TEXT_CHA_WA_SUPPORT_6_1_NAME": {
+        "keys": [
+            "portrait_support6_default"
+        ],
+        "id": "ILLUST_HERO_SUPPORT6"
     },
     "TEXT_CHA_WA_6_3_NAME": {
         "keys": [

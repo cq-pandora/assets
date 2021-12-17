@@ -216,6 +216,24 @@
         "resistance_pen": 4000
     },
     {
+        "id": "BR_ODA",
+        "name": "TEXT_MON_BS_KURENAI_ODA_NAME",
+        "image": "mon_bs_kurenai_oda",
+        "accuracy": 0.6,
+        "armor": 2500,
+        "armor_pen": 4000,
+        "atk_power": 1200,
+        "crit_chance": 0.5,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0.4,
+        "hp": 2000000,
+        "lifesteal": 0,
+        "resistance": 2500,
+        "resistance_pen": 4000
+    },
+    {
         "id": "CHA_GUARDIAN_ANUT_SECRET_DG_1",
         "name": "TEXT_GUARDIAN_SIS_DESERT_NAME",
         "image": "GUARDIAN_ANUT",
@@ -9234,6 +9252,24 @@
         "resistance_pen": 0
     },
     {
+        "id": "HARD_MON_EP5_BOSS_GG4",
+        "name": "TEXT_MON_EP5_BOSS_01_NAME",
+        "image": "mon_ep5_boss_01",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
+    },
+    {
         "id": "HARD_MON_EP5_NEMESIS",
         "name": "TEXT_NEMESIS_NAME",
         "image": "npc_nemesis",
@@ -14058,6 +14094,24 @@
         "resistance_pen": 0
     },
     {
+        "id": "MON_BS_GOLEM_GG4",
+        "name": "TEXT_MON_BS_GOLEM_NAME",
+        "image": "mon_golem",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_BS_HW_GARGANTUA_1F",
         "name": "TEXT_GARGANTUA_ROOT_NAME",
         "image": "mon_wb_gargantua_root",
@@ -15516,6 +15570,24 @@
         "resistance_pen": 0
     },
     {
+        "id": "MON_BS_SANDWORM_GG4",
+        "name": "TEXT_MON_BS_SANDWORM_NAME",
+        "image": "mon_sandworm",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_BS_TOPDISH_COOK",
         "name": "TEXT_MON_BS_TOPDISH_COOK_NAME",
         "image": "mon_topdish_cook",
@@ -15642,6 +15714,24 @@
         "resistance_pen": 650
     },
     {
+        "id": "MON_COLLABO_GG4_BOSS",
+        "name": "TEXT_MON_COLLABO_GG4_BOSS_NAME",
+        "image": "mon_gg4_boss",
+        "accuracy": 0,
+        "armor": 499.4,
+        "armor_pen": 0,
+        "atk_power": 865.4,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 11593.6125,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
+    },
+    {
         "id": "MON_DG_BUGLC_GOD",
         "name": "TEXT_MON_DG_BUGLC_GOD_NEW_NAME",
         "image": "mon_buglc_god",
@@ -15661,7 +15751,7 @@
     },
     {
         "id": "MON_DG_BUGLC_GOD_FAKE",
-        "name": "TEXT_MON_DG_BUGLC_GOD_FAKE_NEW_NAME",
+        "name": "TEXT_MON_DG_BUGLC_GOD_NEW_NAME",
         "image": "mon_buglc_god",
         "accuracy": 0.6,
         "armor": 3000,
@@ -15679,7 +15769,7 @@
     },
     {
         "id": "MON_DG_BUGLC_GOD_REAL",
-        "name": "TEXT_MON_DG_BUGLC_GOD_REAL_NEW_NAME",
+        "name": "TEXT_MON_DG_BUGLC_GOD_NEW_NAME",
         "image": "mon_buglc_god",
         "accuracy": 0.6,
         "armor": 3000,
@@ -16990,6 +17080,24 @@
         "lifesteal": 0,
         "resistance": 650,
         "resistance_pen": 650
+    },
+    {
+        "id": "MON_SHADOWDEVIL_FINAL_GG4",
+        "name": "TEXT_MON_SHADOWDEVIL_FINAL_NAME",
+        "image": "mon_shadodevil_final",
+        "accuracy": 0,
+        "armor": 332.93,
+        "armor_pen": 0,
+        "atk_power": 576.93,
+        "crit_chance": 0.11,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0,
+        "hp": 6183.26,
+        "lifesteal": 0,
+        "resistance": 59.35,
+        "resistance_pen": 0
     },
     {
         "id": "MON_SR_SOLTAR_CHARIOT",
