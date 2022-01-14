@@ -1,0 +1,65 @@
+name: Build docker images with assets
+
+on:
+  push:
+    branches: ['master']
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+  PANDORA_REPO: cq-pandora/projects
+
+jobs:
+  build-and-push-image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+    - name: Log in to the Container registry
+      uses: docker/login-action@f054a8b539a109f9f41c372932f1ae047eff08c9
+      with:
+        registry: ${{ env.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Checkout assets repository
+      uses: actions/checkout@v2
+      with:
+        path: assets
+
+    - name: Build base image
+      uses: docker/build-push-action@v2
+      with:
+        context: assets/
+        push: true
+        file: assets/docker/Dockerfile.base
+        tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:base
+
+    - name: Build web image
+      uses: docker/build-push-action@v2
+      with:
+        context: assets/docker
+        push: true
+        file: assets/docker/Dockerfile.web
+        tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:web
+        build-args: |
+          BASE_IMAGE=${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:base
+
+    - name: Checkout pandora repository
+      uses: actions/checkout@v2
+      with:
+        repository: ${{ env.PANDORA_REPO }}
+        token: ${{ secrets.my_pat }}        
+        path: pandora
+
+    - name: Build pandora image
+      uses: docker/build-push-action@v2
+      with:
+        context: pandora
+        push: true
+        file: assets/docker/Dockerfile
+        tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:bot
+        build-args: |
+          BASE_IMAGE=${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:base
