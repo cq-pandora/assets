@@ -59,7 +59,7 @@ jobs:
       with:
         context: pandora
         push: true
-        file: assets/docker/Dockerfile
+        file: assets/docker/Dockerfile.pandora
         tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:bot
         build-args: |
           BASE_IMAGE=${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:base
