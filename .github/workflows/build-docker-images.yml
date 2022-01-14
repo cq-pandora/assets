@@ -51,7 +51,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: ${{ env.PANDORA_REPO }}
-        token: ${{ secrets.my_pat }}        
+        token: ${{ secrets.GITHUB_TOKEN }}        
         path: pandora
 
     - name: Build pandora image
