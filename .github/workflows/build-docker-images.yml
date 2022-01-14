@@ -1,6 +1,7 @@
 name: Build docker images with assets
 
 on:
+  workflow_dispatch:
   push:
     branches: ['master']
 
