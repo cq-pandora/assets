@@ -13,4 +13,10 @@ RUN apk add nodejs=16.13.2-r0 yarn \
 
 USER 1000:1000
 
+ENV NODE_ENV=prod
+ENV PANDORA_CQ_NORMALIZED_DATA_PATH=/opt/cquest/information
+ENV PANDORA_LOCAL_IMAGES_PREFIX=/opt/cquest/information
+ENV PANDORA_IMAGES_SUFFIX=.png
+ENV PANDORA_PREFIX=!
+
 ENTRYPOINT ["/bin/sh", "-c", "yarn workspace @cquest/db migrate:up && yarn workspace @cquest/pandora start"]
