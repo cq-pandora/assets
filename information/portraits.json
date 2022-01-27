@@ -1051,6 +1051,12 @@
         ],
         "id": "ILLUST_HERO_ESTELLE"
     },
+    "TEXT_CHA_WI_6_36_NAME": {
+        "keys": [
+            "portrait_eungaram_default"
+        ],
+        "id": "ILLUST_HERO_EUNGARAM"
+    },
     "TEXT_CHA_PR_6_16_NAME": {
         "keys": [
             "portrait_faust_default"
@@ -1972,6 +1978,12 @@
             "portrait_teresa_default"
         ],
         "id": "ILLUST_HERO_TERESA"
+    },
+    "TEXT_CHA_HU_6_36_NAME": {
+        "keys": [
+            "portrait_tess_default"
+        ],
+        "id": "ILLUST_HERO_TESS"
     },
     "TEXT_CHA_PA_6_1_NAME": {
         "keys": [
