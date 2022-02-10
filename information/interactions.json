@@ -14445,6 +14445,118 @@
         ]
     },
     {
+        "id": "INTERACTION_EASTER_EGG_942",
+        "actors": [
+            {
+                "id": "CHA_WA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_942_1"
+            },
+            {
+                "id": "CHA_PA_6_29",
+                "text": "TEXT_INTERACTION_EASTER_EGG_942_2",
+                "imageKey": "pa_6_29"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_943",
+        "actors": [
+            {
+                "id": "CHA_WA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_943_1"
+            },
+            {
+                "id": "CHA_WA_4_5",
+                "text": "TEXT_INTERACTION_EASTER_EGG_943_2",
+                "imageKey": "wa_4_5"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_944",
+        "actors": [
+            {
+                "id": "CHA_WA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_944_1"
+            },
+            {
+                "id": "CHA_PR_3_20",
+                "text": "TEXT_INTERACTION_EASTER_EGG_944_2",
+                "imageKey": "pr_3_20"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_945",
+        "actors": [
+            {
+                "id": "CHA_WA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_945_1"
+            },
+            {
+                "id": "CHA_WA_6_5",
+                "text": "TEXT_INTERACTION_EASTER_EGG_945_2",
+                "imageKey": "wa_6_5"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_946",
+        "actors": [
+            {
+                "id": "CHA_WA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_946_1"
+            },
+            {
+                "id": "CHA_PR_6_8",
+                "text": "TEXT_INTERACTION_EASTER_EGG_946_2",
+                "imageKey": "pr_6_8"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_947",
+        "actors": [
+            {
+                "id": "CHA_PA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_947_1"
+            },
+            {
+                "id": "CHA_PR_6_31",
+                "text": "TEXT_INTERACTION_EASTER_EGG_947_2",
+                "imageKey": "pr_6_31"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_948",
+        "actors": [
+            {
+                "id": "CHA_PA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_948_1"
+            },
+            {
+                "id": "CHA_WI_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_948_2",
+                "imageKey": "wi_6_36"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_949",
+        "actors": [
+            {
+                "id": "CHA_PA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_949_1"
+            },
+            {
+                "id": "CHA_HU_6_29",
+                "text": "TEXT_INTERACTION_EASTER_EGG_949_2",
+                "imageKey": "hu_6_29"
+            }
+        ]
+    },
+    {
         "id": "INTERACTION_EASTER_EGG_95",
         "actors": [
             {
@@ -14460,6 +14572,146 @@
         ]
     },
     {
+        "id": "INTERACTION_EASTER_EGG_950",
+        "actors": [
+            {
+                "id": "CHA_PA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_950_1"
+            },
+            {
+                "id": "CHA_AR_6_26",
+                "text": "TEXT_INTERACTION_EASTER_EGG_950_2",
+                "imageKey": "ar_6_26"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_951",
+        "actors": [
+            {
+                "id": "CHA_PA_6_36",
+                "text": "TEXT_INTERACTION_EASTER_EGG_951_1"
+            },
+            {
+                "id": "CHA_PA_6_9",
+                "text": "TEXT_INTERACTION_EASTER_EGG_951_2",
+                "imageKey": "pa_6_9"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_952",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
+                "text": "TEXT_INTERACTION_EASTER_EGG_952_1"
+            },
+            {
+                "id": "CHA_WI_6_14",
+                "text": "TEXT_INTERACTION_EASTER_EGG_952_2",
+                "imageKey": "wi_6_14"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_953",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
+                "text": "TEXT_INTERACTION_EASTER_EGG_953_1"
+            },
+            {
+                "id": "CHA_PA_6_15",
+                "text": "TEXT_INTERACTION_EASTER_EGG_953_2",
+                "imageKey": "pa_6_15"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_954",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
+                "text": "TEXT_INTERACTION_EASTER_EGG_954_1"
+            },
+            {
+                "id": "CHA_HU_6_18",
+                "text": "TEXT_INTERACTION_EASTER_EGG_954_2",
+                "imageKey": "hu_6_18"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_955",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
+                "text": "TEXT_INTERACTION_EASTER_EGG_955_1"
+            },
+            {
+                "id": "CHA_HU_6_3",
+                "text": "TEXT_INTERACTION_EASTER_EGG_955_2",
+                "imageKey": "hu_6_3"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_956",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
+                "text": "TEXT_INTERACTION_EASTER_EGG_956_1"
+            },
+            {
+                "id": "CHA_PA_6_6",
+                "text": "TEXT_INTERACTION_EASTER_EGG_956_2",
+                "imageKey": "pa_6_6"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_957",
+        "actors": [
+            {
+                "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
+                "text": "TEXT_INTERACTION_EASTER_EGG_957_1"
+            },
+            {
+                "id": "CHA_HU_LIMITED_GOGI_6_DELRIEN",
+                "text": "TEXT_INTERACTION_EASTER_EGG_957_2",
+                "imageKey": "hu_limited_spr_6_delrien"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_958",
+        "actors": [
+            {
+                "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
+                "text": "TEXT_INTERACTION_EASTER_EGG_958_1"
+            },
+            {
+                "id": "CHA_AR_LIMITED_GOGI_6_ALMAEL",
+                "text": "TEXT_INTERACTION_EASTER_EGG_958_2",
+                "imageKey": "ar_limited_spr_6_almael"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_959",
+        "actors": [
+            {
+                "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
+                "text": "TEXT_INTERACTION_EASTER_EGG_959_1"
+            },
+            {
+                "id": "CHA_AR_6_13",
+                "text": "TEXT_INTERACTION_EASTER_EGG_959_2",
+                "imageKey": "ar_6_13"
+            }
+        ]
+    },
+    {
         "id": "INTERACTION_EASTER_EGG_96",
         "actors": [
             {
@@ -14471,6 +14723,47 @@
                 "id": "CHA_AR_4_16",
                 "text": "TEXT_INTERACTION_EASTEREGG_96_2",
                 "imageKey": "cos_ar_16_15"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_960",
+        "actors": [
+            {
+                "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
+                "text": "TEXT_INTERACTION_EASTER_EGG_960_1"
+            },
+            {
+                "id": "CHA_PA_6_5",
+                "text": "TEXT_INTERACTION_EASTER_EGG_960_2",
+                "imageKey": "pa_6_5"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_961",
+        "actors": [
+            {
+                "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
+                "text": "TEXT_INTERACTION_EASTER_EGG_961_1"
+            },
+            {
+                "id": "CHA_PA_6_6",
+                "text": "TEXT_INTERACTION_EASTER_EGG_961_2",
+                "imageKey": "pa_6_6"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_962",
+        "actors": [
+            {
+                "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
+                "text": "TEXT_INTERACTION_EASTER_EGG_962_1"
+            },
+            {
+                "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
+                "text": "TEXT_INTERACTION_EASTER_EGG_962_2"
             }
         ]
     },
