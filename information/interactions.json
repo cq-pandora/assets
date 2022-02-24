@@ -14604,7 +14604,8 @@
         "actors": [
             {
                 "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
-                "text": "TEXT_INTERACTION_EASTER_EGG_952_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_952_1",
+                "imageKey": "wa_limited_couple_6_pius"
             },
             {
                 "id": "CHA_WI_6_14",
@@ -14618,7 +14619,8 @@
         "actors": [
             {
                 "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
-                "text": "TEXT_INTERACTION_EASTER_EGG_953_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_953_1",
+                "imageKey": "wa_limited_couple_6_pius"
             },
             {
                 "id": "CHA_PA_6_15",
@@ -14632,7 +14634,8 @@
         "actors": [
             {
                 "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
-                "text": "TEXT_INTERACTION_EASTER_EGG_954_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_954_1",
+                "imageKey": "wa_limited_couple_6_pius"
             },
             {
                 "id": "CHA_HU_6_18",
@@ -14646,7 +14649,8 @@
         "actors": [
             {
                 "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
-                "text": "TEXT_INTERACTION_EASTER_EGG_955_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_955_1",
+                "imageKey": "wa_limited_couple_6_pius"
             },
             {
                 "id": "CHA_HU_6_3",
@@ -14660,7 +14664,8 @@
         "actors": [
             {
                 "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
-                "text": "TEXT_INTERACTION_EASTER_EGG_956_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_956_1",
+                "imageKey": "wa_limited_couple_6_pius"
             },
             {
                 "id": "CHA_PA_6_6",
@@ -14674,7 +14679,8 @@
         "actors": [
             {
                 "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
-                "text": "TEXT_INTERACTION_EASTER_EGG_957_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_957_1",
+                "imageKey": "hu_limited_couple_6_schild"
             },
             {
                 "id": "CHA_HU_LIMITED_GOGI_6_DELRIEN",
@@ -14688,7 +14694,8 @@
         "actors": [
             {
                 "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
-                "text": "TEXT_INTERACTION_EASTER_EGG_958_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_958_1",
+                "imageKey": "hu_limited_couple_6_schild"
             },
             {
                 "id": "CHA_AR_LIMITED_GOGI_6_ALMAEL",
@@ -14702,7 +14709,8 @@
         "actors": [
             {
                 "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
-                "text": "TEXT_INTERACTION_EASTER_EGG_959_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_959_1",
+                "imageKey": "hu_limited_couple_6_schild"
             },
             {
                 "id": "CHA_AR_6_13",
@@ -14731,7 +14739,8 @@
         "actors": [
             {
                 "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
-                "text": "TEXT_INTERACTION_EASTER_EGG_960_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_960_1",
+                "imageKey": "hu_limited_couple_6_schild"
             },
             {
                 "id": "CHA_PA_6_5",
@@ -14745,7 +14754,8 @@
         "actors": [
             {
                 "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
-                "text": "TEXT_INTERACTION_EASTER_EGG_961_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_961_1",
+                "imageKey": "hu_limited_couple_6_schild"
             },
             {
                 "id": "CHA_PA_6_6",
@@ -14759,11 +14769,13 @@
         "actors": [
             {
                 "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
-                "text": "TEXT_INTERACTION_EASTER_EGG_962_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_962_1",
+                "imageKey": "hu_limited_couple_6_schild"
             },
             {
                 "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
-                "text": "TEXT_INTERACTION_EASTER_EGG_962_2"
+                "text": "TEXT_INTERACTION_EASTER_EGG_962_2",
+                "imageKey": "wa_limited_couple_6_pius"
             }
         ]
     },

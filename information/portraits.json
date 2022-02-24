@@ -1696,6 +1696,12 @@
             "portrait_panpan_default"
         ]
     },
+    "TEXT_CHA_WA_LIMITED_COUPLE_6_PIUS_NAME": {
+        "id": "ILLUST_HERO_PIUS",
+        "keys": [
+            "portrait_pius_default"
+        ]
+    },
     "TEXT_CHA_PA_LIMITED_LASTSOUL_6_PUMPKING_NAME": {
         "id": "ILLUST_HERO_PUMPKING",
         "keys": [
@@ -1814,6 +1820,12 @@
         "id": "ILLUST_HERO_SCARLET",
         "keys": [
             "portrait_scarlet_default"
+        ]
+    },
+    "TEXT_CHA_HU_LIMITED_COUPLE_6_SCHILD_NAME": {
+        "id": "ILLUST_HERO_SCHILD",
+        "keys": [
+            "portrait_schild_default"
         ]
     },
     "TEXT_CHA_PA_6_21_NAME": {
