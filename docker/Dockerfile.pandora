@@ -7,8 +7,8 @@ WORKDIR /opt/cquest/
 
 # Expects context in monorepo root
 COPY . /opt/cquest/
-RUN if [ "$TARGETPLATFORM" = "linux/amd64" ]; then ARCHITECTURE=amd64; elif [ "$TARGETPLATFORM" = "linux/arm/v7" ]; then ARCHITECTURE=arm; elif [ "$TARGETPLATFORM" = "linux/arm64" ]; then ARCHITECTURE=aarch64; else ARCHITECTURE=amd64; fi \
-  wget -c https://nodejs.org/dist/v$NODE_VERSION/node-v$NODE_VERSION-linux-x64.tar.xz -O - \
+RUN if [ "$TARGETPLATFORM" = "linux/amd64" ]; then ARCHITECTURE=x64; elif [ "$TARGETPLATFORM" = "linux/arm/v7" ]; then ARCHITECTURE=armv7l; elif [ "$TARGETPLATFORM" = "linux/arm64" ]; then ARCHITECTURE=arm64; else ARCHITECTURE=x64; fi \
+  wget -c https://nodejs.org/dist/v$NODE_VERSION/node-v$NODE_VERSION-linux-$ARCHITECTURE.tar.xz -O - \
   | tar -xz -C /usr/ \
   && apk add yarn \
   && yarn && yarn clean && yarn build \
