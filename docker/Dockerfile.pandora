@@ -1,19 +1,16 @@
 ARG BASE_IMAGE
-ARG NODE_VERSION=16.14.2
 ARG TARGETPLATFORM
 
 FROM $BASE_IMAGE
 WORKDIR /opt/cquest/
 
 # Expects context in monorepo root
+ARG NODE_VERSION=16.14.2
 COPY . /opt/cquest/
-RUN if [ "$TARGETPLATFORM" = "linux/amd64" ]; then ARCHITECTURE=x64; elif [ "$TARGETPLATFORM" = "linux/arm/v7" ]; then ARCHITECTURE=armv7l; elif [ "$TARGETPLATFORM" = "linux/arm64" ]; then ARCHITECTURE=arm64; else ARCHITECTURE=x64; fi \
-  && wget -c https://nodejs.org/dist/v$NODE_VERSION/node-v$NODE_VERSION-linux-$ARCHITECTURE.tar.xz -O - \
-  | tar -xz -C /usr/ \
-  && apk add yarn \
+RUN apk add nodejs yarn \
   && yarn && yarn clean && yarn build \
   && chown -R 1000:1000 * \
-  && rm -rf /usr/local/share/.cache /opt/cquest/services/parser
+  && rm -rf /usr/local/share/.cache /opt/cquest/services/parser /tmp/*
 
 USER 1000:1000
 
