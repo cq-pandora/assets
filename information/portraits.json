@@ -1001,6 +1001,12 @@
             "portrait_demona_default"
         ]
     },
+    "TEXT_CHA_WA_6_36_NAME": {
+        "id": "ILLUST_HERO_DEMPSEY",
+        "keys": [
+            "portrait_dempsey_default"
+        ]
+    },
     "TEXT_CHA_WI_6_3_NAME": {
         "id": "ILLUST_HERO_DORO",
         "keys": [
@@ -1622,6 +1628,12 @@
         "id": "ILLUST_HERO_NEFER",
         "keys": [
             "portrait_nefer_default"
+        ]
+    },
+    "TEXT_CHA_PA_6_36_NAME": {
+        "id": "ILLUST_HERO_NEULSOLGIL",
+        "keys": [
+            "portrait_neulsolgil_default"
         ]
     },
     "TEXT_CHA_WI_LIMITED_AUTO_6_NICOLA_NAME": {
