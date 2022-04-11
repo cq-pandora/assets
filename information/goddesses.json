@@ -64,6 +64,14 @@
         "ingame_id": "SIS_DOG_HEAD_1_LV1"
     },
     {
+        "id": "SIS_DOG_S2",
+        "name": "TEXT_SISDOG_NAME",
+        "image": "sis_0_s2",
+        "skill_name": "TEXT_SIS_SKILL_DOG_NAME",
+        "skill_description": "TEXT_SIS_SKILL_DOG_DESC",
+        "ingame_id": "SIS_DOG_S2"
+    },
+    {
         "id": "SIS_FOREST",
         "name": "TEXT_FRESTINA_NAME",
         "image": "sis_1",
@@ -126,6 +134,14 @@
         "skill_name": "TEXT_SIS_SKILL_SILUNIS_NAME",
         "skill_description": "TEXT_SIS_SKILL_SILUNIS_DESC",
         "ingame_id": "SIS_SILUNIS_HIDDEN"
+    },
+    {
+        "id": "SIS_SILUNIS_S2",
+        "name": "TEXT_SILUNIS_NAME",
+        "image": "sis_8_s2",
+        "skill_name": "TEXT_SIS_SKILL_SILUNIS_NAME",
+        "skill_description": "TEXT_SIS_SKILL_SILUNIS_DESC",
+        "ingame_id": "SIS_SILUNIS_S2"
     },
     {
         "id": "SIS_VOLCANO",

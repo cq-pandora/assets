@@ -590,7 +590,7 @@
         ]
     },
     "TEXT_MON_BS_RAID_BANOUB_NAME": {
-        "id": "ILLUST_ENEMY_CAMILLA",
+        "id": "ILLUST_HERO_CAMILLA",
         "keys": [
             "portrait_camilla_default"
         ]
@@ -604,7 +604,9 @@
     "TEXT_SISDOG_NAME": {
         "id": "ILLUST_SISTER_SERA",
         "keys": [
-            "portrait_completesera_default"
+            "portrait_completesera_default",
+            "portrait_sisdog2_default",
+            "portrait_lightsera_default"
         ]
     },
     "TEXT_DIONNE_NAME": {
@@ -716,6 +718,12 @@
         "id": "ILLUST_ENEMY_UMRAT",
         "keys": [
             "portrait_umrat_default"
+        ]
+    },
+    "TEXT_MON_BS_RAID_VOLCANOCORE_SERA_NAME": {
+        "id": "ILLUST_ENEMY_VOLCANOSERA",
+        "keys": [
+            "portrait_volcanosera_default"
         ]
     },
     "TEXT_MON_EP6_YURIA_NORMAL": {
@@ -898,6 +906,13 @@
             "portrait_borgos_default"
         ]
     },
+    "TEXT_NPC_SHOP_NAME": {
+        "id": "ILLUST_NPC_BRIGIT",
+        "keys": [
+            "portrait_bridgetsixth_default",
+            "portrait_brigit_default"
+        ]
+    },
     "TEXT_CHA_PA_6_25_NAME": {
         "id": "ILLUST_HERO_CAENEUS",
         "keys": [
@@ -944,6 +959,13 @@
         "id": "ILLUST_HERO_CHIRON",
         "keys": [
             "portrait_chiron_default"
+        ]
+    },
+    "TEXT_NPC_BREAD_NAME": {
+        "id": "ILLUST_NPC_CHOCOLAT",
+        "keys": [
+            "portrait_chocola7th_default",
+            "portrait_chocolat_default"
         ]
     },
     "TEXT_CHA_AR_6_9_NAME": {
@@ -1702,6 +1724,12 @@
             "portrait_otis_default"
         ]
     },
+    "TEXT_CHA_PA_6_34_NAME": {
+        "id": "ILLUST_HERO_OZMA",
+        "keys": [
+            "portrait_ozma_default"
+        ]
+    },
     "TEXT_CHA_AR_6_23_NAME": {
         "id": "ILLUST_HERO_PANPAN",
         "keys": [
@@ -1778,6 +1806,12 @@
         "id": "ILLUST_HERO_REBECCA",
         "keys": [
             "portrait_rebecca_default"
+        ]
+    },
+    "TEXT_NPC_QUEST_NAME": {
+        "id": "ILLUST_NPC_REDNAS",
+        "keys": [
+            "portrait_completerednas_default"
         ]
     },
     "TEXT_CHA_PA_3_14_NAME": {
@@ -2141,6 +2175,12 @@
             "portrait_woopa_default"
         ]
     },
+    "TEXT_CHA_WI_UNIQUE_6_YAMA_NAME": {
+        "id": "ILLUST_HERO_YAMA",
+        "keys": [
+            "portrait_yama_default"
+        ]
+    },
     "TEXT_CHA_PR_6_4_NAME": {
         "id": "ILLUST_HERO_YEOWOODONG",
         "keys": [
@@ -2171,24 +2211,10 @@
             "portrait_zeus_default"
         ]
     },
-    "TEXT_NPC_SHOP_NAME": {
-        "id": "ILLUST_NPC_BRIGIT",
-        "keys": [
-            "portrait_bridgetsixth_default",
-            "portrait_brigit_default"
-        ]
-    },
     "TEXT_NPC_CELINE_NAME": {
         "id": "ILLUST_NPC_CELINE",
         "keys": [
             "portrait_celine_default"
-        ]
-    },
-    "TEXT_NPC_BREAD_NAME": {
-        "id": "ILLUST_NPC_CHOCOLAT",
-        "keys": [
-            "portrait_chocola7th_default",
-            "portrait_chocolat_default"
         ]
     },
     "TEXT_ELLIE_NAME": {
@@ -2257,12 +2283,6 @@
             "portrait_rata_default"
         ]
     },
-    "TEXT_NPC_QUEST_NAME": {
-        "id": "ILLUST_NPC_REDNAS",
-        "keys": [
-            "portrait_completerednas_default"
-        ]
-    },
     "TEXT_UTGARDLOKI_NAME": {
         "id": "ILLUST_NPC_UTGARDLOKI",
         "keys": [
@@ -2308,7 +2328,8 @@
         "id": "ILLUST_SISTER_SILUNIS",
         "keys": [
             "portrait_completesilunison_default",
-            "portrait_completesilunisoff_default"
+            "portrait_completesilunisoff_default",
+            "portrait_silunis2_default"
         ]
     }
 }

@@ -526,6 +526,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_SP_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_SP_2_DESC",
+            "pair": "COMMON_CHANGGWI_STONE_1"
         }
     },
     {
@@ -957,6 +962,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_PHYSIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_PHYSIC_2_DESC",
+            "pair": "COMMON_DALGI_STONE_1"
         }
     },
     {
@@ -1606,6 +1616,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_PHYSIC_1_DESC",
+            "pair": "COMMON_JANGPO_STONE_1"
         }
     },
     {
@@ -2016,6 +2031,11 @@
             "lifesteal": 0,
             "resistance": 450,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_DEFENCE_1_DESC",
+            "pair": "COMMON_NATI_STONE_1"
         }
     },
     {
@@ -2328,6 +2348,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 450
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_MAGIC_1_DESC",
+            "pair": "COMMON_QIONGQI_STONE_1"
         }
     },
     {
@@ -3320,6 +3345,68 @@
         }
     },
     {
+        "id": "COMMON_SET_MAG_ATK_EP5_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_ATK_EP5_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_ATK_EP5_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_ATK_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_01",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.06,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 300
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_MAGIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_MAGIC_1_DESC",
+            "pair": "COMMON_QIONGQI_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_ATK_EP5_STONE_2",
+        "ingame_id": "COMMON_SET_MAG_ATK_EP5_STONE_2",
+        "name": "TEXT_COMMON_SET_MAG_ATK_EP5_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_ATK_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_05",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 350,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 350
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_MAGIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_MAGIC_2_DESC",
+            "pair": "COMMON_VAJRAPANI_STONE_1"
+        }
+    },
+    {
         "id": "COMMON_SET_MAG_DEF_EP3_STONE_1",
         "ingame_id": "COMMON_SET_MAG_DEF_EP3_STONE_1",
         "name": "TEXT_COMMON_SET_MAG_DEF_EP3_STONE_1_TITLE",
@@ -3379,6 +3466,37 @@
             "name": "TEXT_COMMON_SET_EP4_DEFENCE_1_NAME",
             "effect": "TEXT_COMMON_SET_EP4_DEFENCE_1_DESC",
             "pair": "COMMON_CODED_STONE_3"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_DEF_EP5_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_DEF_EP5_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_DEF_EP5_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_DEF_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_03",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.07,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 300,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_DEFENCE_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_DEFENCE_1_DESC",
+            "pair": "COMMON_NATI_STONE_1"
         }
     },
     {
@@ -3503,6 +3621,37 @@
             "name": "TEXT_COMMON_SET_EP4_SP_1_NAME",
             "effect": "TEXT_COMMON_SET_EP4_SP_1_DESC",
             "pair": "COMMON_RI_DELTASQUAD_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_MAG_SP_EP5_STONE_1",
+        "ingame_id": "COMMON_SET_MAG_SP_EP5_STONE_1",
+        "name": "TEXT_COMMON_SET_MAG_SP_EP5_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_MAG_SP_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_07",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 17000,
+            "lifesteal": 0,
+            "resistance": 350,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_SP_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_SP_1_DESC",
+            "pair": "COMMON_TAOIST_STONE_1"
         }
     },
     {
@@ -3692,6 +3841,68 @@
         }
     },
     {
+        "id": "COMMON_SET_PHY_ATK_EP5_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_ATK_EP5_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_ATK_EP5_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_ATK_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_02",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.06,
+            "armor": 0,
+            "armor_pen": 300,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_PHYSIC_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_PHYSIC_1_DESC",
+            "pair": "COMMON_JANGPO_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_ATK_EP5_STONE_2",
+        "ingame_id": "COMMON_SET_PHY_ATK_EP5_STONE_2",
+        "name": "TEXT_COMMON_SET_PHY_ATK_EP5_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_ATK_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_06",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 350,
+            "atk_power": 350,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_PHYSIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_PHYSIC_2_DESC",
+            "pair": "COMMON_DALGI_STONE_1"
+        }
+    },
+    {
         "id": "COMMON_SET_PHY_DEF_EP3_STONE_1",
         "ingame_id": "COMMON_SET_PHY_DEF_EP3_STONE_1",
         "name": "TEXT_COMMON_SET_PHY_DEF_EP3_STONE_1_TITLE",
@@ -3751,6 +3962,37 @@
             "name": "TEXT_COMMON_SET_EP4_DEFENCE_2_NAME",
             "effect": "TEXT_COMMON_SET_EP4_DEFENCE_2_DESC",
             "pair": "COMMON_BLOODHOUND_STONE_1"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_DEF_EP5_STONE_1",
+        "ingame_id": "COMMON_SET_PHY_DEF_EP5_STONE_1",
+        "name": "TEXT_COMMON_SET_PHY_DEF_EP5_STONE_1_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_DEF_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_04",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 300,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.07,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_DEFENCE_2_DESC",
+            "pair": "COMMON_TRUEGULLVEIG_STONE_1"
         }
     },
     {
@@ -3875,6 +4117,37 @@
             "name": "TEXT_COMMON_SET_EP4_SP_2_NAME",
             "effect": "TEXT_COMMON_SET_EP4_SP_2_DESC",
             "pair": "COMMON_RSFLAMETANK_STONE_2"
+        }
+    },
+    {
+        "id": "COMMON_SET_PHY_SP_EP5_STONE_2",
+        "ingame_id": "COMMON_SET_PHY_SP_EP5_STONE_2",
+        "name": "TEXT_COMMON_SET_PHY_SP_EP5_STONE_2_TITLE",
+        "description": "TEXT_COMMON_SET_PHY_SP_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_08",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 1500,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 350,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 17000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_SP_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_SP_2_DESC",
+            "pair": "COMMON_CHANGGWI_STONE_1"
         }
     },
     {
@@ -4036,6 +4309,11 @@
             "lifesteal": 0,
             "resistance": 450,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_SP_1_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_SP_1_DESC",
+            "pair": "COMMON_TAOIST_STONE_1"
         }
     },
     {
@@ -4062,6 +4340,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_DEFENCE_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_DEFENCE_2_DESC",
+            "pair": "COMMON_TRUEGULLVEIG_STONE_1"
         }
     },
     {
@@ -4088,6 +4371,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 450
+        },
+        "set": {
+            "name": "TEXT_COMMON_SET_EP5_MAGIC_2_NAME",
+            "effect": "TEXT_COMMON_SET_EP5_MAGIC_2_DESC",
+            "pair": "COMMON_VAJRAPANI_STONE_1"
         }
     },
     {
@@ -5650,6 +5938,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 1750
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_MAGIC_1_DESC",
+            "pair": "EPIC_ENBYEONG_STONE_1"
         }
     },
     {
@@ -5728,6 +6021,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_SP_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_SP_2_DESC",
+            "pair": "EPIC_GAPGWI_STONE_1"
         }
     },
     {
@@ -5868,6 +6166,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_PHYSIC_1_DESC",
+            "pair": "EPIC_JANGPO_STONE_1"
         }
     },
     {
@@ -6226,6 +6529,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_DEFENCE_2_DESC",
+            "pair": "EPIC_NATI_STONE_1"
         }
     },
     {
@@ -6631,6 +6939,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_PHYSIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_PHYSIC_2_DESC",
+            "pair": "EPIC_QIONGQI_STONE_1"
         }
     },
     {
@@ -7826,6 +8139,68 @@
         }
     },
     {
+        "id": "EPIC_SET_MAG_ATK_EP5_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_ATK_EP5_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_ATK_EP5_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_ATK_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_17",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.14,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 1150
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_MAGIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_MAGIC_1_DESC",
+            "pair": "EPIC_ENBYEONG_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_ATK_EP5_STONE_2",
+        "ingame_id": "EPIC_SET_MAG_ATK_EP5_STONE_2",
+        "name": "TEXT_EPIC_SET_MAG_ATK_EP5_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_ATK_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_13",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 1000,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 1050
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_MAGIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_MAGIC_2_DESC",
+            "pair": "EPIC_TRUEGULLVEIG_STONE_1"
+        }
+    },
+    {
         "id": "EPIC_SET_MAG_DEF_EP3_STONE_1",
         "ingame_id": "EPIC_SET_MAG_DEF_EP3_STONE_1",
         "name": "TEXT_EPIC_SET_MAG_DEF_EP3_STONE_1_TITLE",
@@ -7885,6 +8260,37 @@
             "name": "TEXT_EPIC_SET_EP4_DEFENCE_1_NAME",
             "effect": "TEXT_EPIC_SET_EP4_DEFENCE_1_DESC",
             "pair": "EPIC_CODEVV_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_DEF_EP5_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_DEF_EP5_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_DEF_EP5_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_DEF_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_20",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.14,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 1000,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_DEFENCE_1_DESC",
+            "pair": "EPIC_TAOIST_STONE_1"
         }
     },
     {
@@ -8009,6 +8415,37 @@
             "name": "TEXT_EPIC_SET_EP4_SP_1_NAME",
             "effect": "TEXT_EPIC_SET_EP4_SP_1_DESC",
             "pair": "EPIC_PMK20A_STONE_2"
+        }
+    },
+    {
+        "id": "EPIC_SET_MAG_SP_EP5_STONE_1",
+        "ingame_id": "EPIC_SET_MAG_SP_EP5_STONE_1",
+        "name": "TEXT_EPIC_SET_MAG_SP_EP5_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_MAG_SP_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_24",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 40000,
+            "lifesteal": 0,
+            "resistance": 1500,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_SP_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_SP_1_DESC",
+            "pair": "EPIC_SWORDEN_STONE_1"
         }
     },
     {
@@ -8198,6 +8635,68 @@
         }
     },
     {
+        "id": "EPIC_SET_PHY_ATK_EP5_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_ATK_EP5_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_ATK_EP5_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_ATK_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_18",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.14,
+            "armor": 0,
+            "armor_pen": 1150,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_PHYSIC_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_PHYSIC_1_DESC",
+            "pair": "EPIC_JANGPO_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_ATK_EP5_STONE_2",
+        "ingame_id": "EPIC_SET_PHY_ATK_EP5_STONE_2",
+        "name": "TEXT_EPIC_SET_PHY_ATK_EP5_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_ATK_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_22",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 1050,
+            "atk_power": 1000,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_PHYSIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_PHYSIC_2_DESC",
+            "pair": "EPIC_QIONGQI_STONE_1"
+        }
+    },
+    {
         "id": "EPIC_SET_PHY_DEF_EP3_STONE_1",
         "ingame_id": "EPIC_SET_PHY_DEF_EP3_STONE_1",
         "name": "TEXT_EPIC_SET_PHY_DEF_EP3_STONE_1_TITLE",
@@ -8257,6 +8756,37 @@
             "name": "TEXT_EPIC_SET_EP4_DEFENCE_2_NAME",
             "effect": "TEXT_EPIC_SET_EP4_DEFENCE_2_DESC",
             "pair": "EPIC_PANDEMONIUM_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_DEF_EP5_STONE_1",
+        "ingame_id": "EPIC_SET_PHY_DEF_EP5_STONE_1",
+        "name": "TEXT_EPIC_SET_PHY_DEF_EP5_STONE_1_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_DEF_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_19",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 1000,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.14,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_DEFENCE_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_DEFENCE_2_DESC",
+            "pair": "EPIC_NATI_STONE_1"
         }
     },
     {
@@ -8381,6 +8911,37 @@
             "name": "TEXT_EPIC_SET_EP4_SP_2_NAME",
             "effect": "TEXT_EPIC_SET_EP4_SP_2_DESC",
             "pair": "EPIC_PMK20A_STONE_1"
+        }
+    },
+    {
+        "id": "EPIC_SET_PHY_SP_EP5_STONE_2",
+        "ingame_id": "EPIC_SET_PHY_SP_EP5_STONE_2",
+        "name": "TEXT_EPIC_SET_PHY_SP_EP5_STONE_2_TITLE",
+        "description": "TEXT_EPIC_SET_PHY_SP_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_16",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 6000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 1500,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 40000,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_SP_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_SP_2_DESC",
+            "pair": "EPIC_GAPGWI_STONE_1"
         }
     },
     {
@@ -8526,6 +9087,11 @@
             "lifesteal": 0,
             "resistance": 1500,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_SP_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_SP_1_DESC",
+            "pair": "EPIC_SWORDEN_STONE_1"
         }
     },
     {
@@ -8552,6 +9118,11 @@
             "lifesteal": 0,
             "resistance": 1750,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_DEFENCE_1_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_DEFENCE_1_DESC",
+            "pair": "EPIC_TAOIST_STONE_1"
         }
     },
     {
@@ -8630,6 +9201,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 1500
+        },
+        "set": {
+            "name": "TEXT_EPIC_SET_EP5_MAGIC_2_NAME",
+            "effect": "TEXT_EPIC_SET_EP5_MAGIC_2_DESC",
+            "pair": "EPIC_TRUEGULLVEIG_STONE_1"
         }
     },
     {
@@ -9294,6 +9870,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_PHYSIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_PHYSIC_2_DESC",
+            "pair": "RARE_CHANGGWI_STONE_1"
         }
     },
     {
@@ -9642,6 +10223,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_SP_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_SP_2_DESC",
+            "pair": "RARE_DALGI_STONE_1"
         }
     },
     {
@@ -9959,6 +10545,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 900
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_MAGIC_1_DESC",
+            "pair": "RARE_ENBYEONG_STONE_1"
         }
     },
     {
@@ -10089,6 +10680,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_DEFENCE_2_DESC",
+            "pair": "RARE_GAPGWI_STONE_1"
         }
     },
     {
@@ -10229,6 +10825,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_PHYSIC_1_DESC",
+            "pair": "RARE_JANGPO_STONE_1"
         }
     },
     {
@@ -10551,6 +11152,11 @@
             "lifesteal": 0,
             "resistance": 0,
             "resistance_pen": 825
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_MAGIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_MAGIC_2_DESC",
+            "pair": "RARE_NATI_STONE_1"
         }
     },
     {
@@ -10961,6 +11567,11 @@
             "lifesteal": 0,
             "resistance": 825,
             "resistance_pen": 825
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_SP_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_SP_1_DESC",
+            "pair": "RARE_QIONGQI_STONE_1"
         }
     },
     {
@@ -11839,6 +12450,68 @@
         }
     },
     {
+        "id": "RARE_SET_MAG_ATK_EP5_STONE_1",
+        "ingame_id": "RARE_SET_MAG_ATK_EP5_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_ATK_EP5_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_ATK_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_09",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.11,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 500
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_MAGIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_MAGIC_1_DESC",
+            "pair": "RARE_ENBYEONG_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_ATK_EP5_STONE_2",
+        "ingame_id": "RARE_SET_MAG_ATK_EP5_STONE_2",
+        "name": "TEXT_RARE_SET_MAG_ATK_EP5_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_MAG_ATK_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_21",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 750,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 750
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_MAGIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_MAGIC_2_DESC",
+            "pair": "RARE_NATI_STONE_1"
+        }
+    },
+    {
         "id": "RARE_SET_MAG_DEF_EP3_STONE_1",
         "ingame_id": "RARE_SET_MAG_DEF_EP3_STONE_1",
         "name": "TEXT_RARE_SET_MAG_DEF_EP3_STONE_1_TITLE",
@@ -11898,6 +12571,37 @@
             "name": "TEXT_RARE_SET_EP4_DEFENCE_1_NAME",
             "effect": "TEXT_RARE_SET_EP4_DEFENCE_1_DESC",
             "pair": "RARE_RI_DELTASQUAD_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_DEF_EP5_STONE_1",
+        "ingame_id": "RARE_SET_MAG_DEF_EP5_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_DEF_EP5_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_DEF_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_11",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.09,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 700,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_DEFENCE_1_DESC",
+            "pair": "RARE_SWORDEN_STONE_1"
         }
     },
     {
@@ -12022,6 +12726,37 @@
             "name": "TEXT_RARE_SET_EP4_SP_1_NAME",
             "effect": "TEXT_RARE_SET_EP4_SP_1_DESC",
             "pair": "RARE_PANDEMONIUM_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_MAG_SP_EP5_STONE_1",
+        "ingame_id": "RARE_SET_MAG_SP_EP5_STONE_1",
+        "name": "TEXT_RARE_SET_MAG_SP_EP5_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_MAG_SP_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_14",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 31500,
+            "lifesteal": 0,
+            "resistance": 850,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_SP_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_SP_1_DESC",
+            "pair": "RARE_QIONGQI_STONE_1"
         }
     },
     {
@@ -12211,6 +12946,68 @@
         }
     },
     {
+        "id": "RARE_SET_PHY_ATK_EP5_STONE_1",
+        "ingame_id": "RARE_SET_PHY_ATK_EP5_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_ATK_EP5_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_ATK_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_10",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0.11,
+            "armor": 0,
+            "armor_pen": 500,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_PHYSIC_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_PHYSIC_1_DESC",
+            "pair": "RARE_JANGPO_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_ATK_EP5_STONE_2",
+        "ingame_id": "RARE_SET_PHY_ATK_EP5_STONE_2",
+        "name": "TEXT_RARE_SET_PHY_ATK_EP5_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_PHY_ATK_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_15",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 0,
+            "armor_pen": 750,
+            "atk_power": 750,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_PHYSIC_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_PHYSIC_2_DESC",
+            "pair": "RARE_CHANGGWI_STONE_1"
+        }
+    },
+    {
         "id": "RARE_SET_PHY_DEF_EP3_STONE_1",
         "ingame_id": "RARE_SET_PHY_DEF_EP3_STONE_1",
         "name": "TEXT_RARE_SET_PHY_DEF_EP3_STONE_1_TITLE",
@@ -12270,6 +13067,37 @@
             "name": "TEXT_RARE_SET_EP4_DEFENCE_2_NAME",
             "effect": "TEXT_RARE_SET_EP4_DEFENCE_2_DESC",
             "pair": "RARE_RSFLAMETANK_STONE_1"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_DEF_EP5_STONE_1",
+        "ingame_id": "RARE_SET_PHY_DEF_EP5_STONE_1",
+        "name": "TEXT_RARE_SET_PHY_DEF_EP5_STONE_1_TITLE",
+        "description": "TEXT_RARE_SET_PHY_DEF_EP5_STONE_1_DESC",
+        "image": "ui_item_stone_5_set_12",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 700,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0.09,
+            "evasion": 0,
+            "hp": 0,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_DEFENCE_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_DEFENCE_2_DESC",
+            "pair": "RARE_GAPGWI_STONE_1"
         }
     },
     {
@@ -12394,6 +13222,37 @@
             "name": "TEXT_RARE_SET_EP4_SP_2_NAME",
             "effect": "TEXT_RARE_SET_EP4_SP_2_DESC",
             "pair": "RARE_PANDEMONIUM_STONE_2"
+        }
+    },
+    {
+        "id": "RARE_SET_PHY_SP_EP5_STONE_2",
+        "ingame_id": "RARE_SET_PHY_SP_EP5_STONE_2",
+        "name": "TEXT_RARE_SET_PHY_SP_EP5_STONE_2_TITLE",
+        "description": "TEXT_RARE_SET_PHY_SP_EP5_STONE_2_DESC",
+        "image": "ui_item_stone_5_set_23",
+        "grade": 5,
+        "rarity": "set",
+        "sell_cost": 3000,
+        "extract_cost": 300000,
+        "stats": {
+            "accuracy": 0,
+            "armor": 850,
+            "armor_pen": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_chance_reduction": 0,
+            "crit_dmg": 0,
+            "dmg_reduction": 0,
+            "evasion": 0,
+            "hp": 31500,
+            "lifesteal": 0,
+            "resistance": 0,
+            "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_SP_2_NAME",
+            "effect": "TEXT_RARE_SET_EP5_SP_2_DESC",
+            "pair": "RARE_DALGI_STONE_1"
         }
     },
     {
@@ -12596,6 +13455,11 @@
             "lifesteal": 0,
             "resistance": 900,
             "resistance_pen": 0
+        },
+        "set": {
+            "name": "TEXT_RARE_SET_EP5_DEFENCE_1_NAME",
+            "effect": "TEXT_RARE_SET_EP5_DEFENCE_1_DESC",
+            "pair": "RARE_SWORDEN_STONE_1"
         }
     },
     {
