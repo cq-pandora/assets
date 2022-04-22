@@ -184,7 +184,7 @@
         "name": "TEXT_MON_PALACE_RESIDULLION_NAME",
         "image": "mon_palace_residullion_bossrush",
         "accuracy": 100,
-        "armor": 3500,
+        "armor": 4000,
         "armor_pen": 4000,
         "atk_power": 3200,
         "crit_chance": 0.5,
@@ -194,7 +194,7 @@
         "evasion": 0,
         "hp": 15000000,
         "lifesteal": 0,
-        "resistance": 3500,
+        "resistance": 4000,
         "resistance_pen": 4000
     },
     {

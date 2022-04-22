@@ -1778,6 +1778,12 @@
             "portrait_rahima_default"
         ]
     },
+    "TEXT_CHA_PR_6_37_NAME": {
+        "id": "ILLUST_HERO_RAI",
+        "keys": [
+            "portrait_rai_default"
+        ]
+    },
     "TEXT_CHA_AR_6_29_NAME": {
         "id": "ILLUST_HERO_RAN",
         "keys": [
@@ -2157,6 +2163,12 @@
             "portrait_wilhelm_default"
         ]
     },
+    "TEXT_CHA_WI_6_37_NAME": {
+        "id": "ILLUST_HERO_WINSTON",
+        "keys": [
+            "portrait_winston_default"
+        ]
+    },
     "TEXT_CHA_PA_6_18_NAME": {
         "id": "ILLUST_HERO_WOLFGANG",
         "keys": [
@@ -2176,7 +2188,7 @@
         ]
     },
     "TEXT_CHA_WI_UNIQUE_6_YAMA_NAME": {
-        "id": "ILLUST_HERO_YAMA",
+        "id": "ILLUST_NPC_YAMA",
         "keys": [
             "portrait_yama_default"
         ]
