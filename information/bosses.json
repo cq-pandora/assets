@@ -144,6 +144,24 @@
         "resistance_pen": 4000
     },
     {
+        "id": "BR_MON_GOBLIN_WINDWALKER",
+        "name": "TEXT_MON_GOBLIN_WINDWALKER_CHALLENGE_NAME",
+        "image": "mon_goblin_windwalker",
+        "accuracy": 0.7,
+        "armor": 3500,
+        "armor_pen": 3000,
+        "atk_power": 3200,
+        "crit_chance": 0.5,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0.7,
+        "hp": 10000000,
+        "lifesteal": 0,
+        "resistance": 3500,
+        "resistance_pen": 3000
+    },
+    {
         "id": "BR_MON_LIONEL",
         "name": "TEXT_MON_LIONEL_NAME",
         "image": "wa_6_14",

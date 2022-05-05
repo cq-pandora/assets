@@ -822,6 +822,12 @@
             "portrait_arita_default"
         ]
     },
+    "TEXT_CHA_WA_LIMITED_TRADE_6_ASMODEUS_NAME": {
+        "id": "ILLUST_HERO_ASMODEUS",
+        "keys": [
+            "portrait_asmodeus_default"
+        ]
+    },
     "TEXT_CHA_AR_6_13_NAME": {
         "id": "ILLUST_HERO_ATALANTE",
         "keys": [
