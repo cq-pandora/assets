@@ -159,7 +159,8 @@
         "actors": [
             {
                 "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
-                "text": "TEXT_INTERACTION_EASTER_EGG_1000_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_1000_1",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
             },
             {
                 "id": "CHA_PA_6_6",
@@ -15258,7 +15259,8 @@
         "actors": [
             {
                 "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
-                "text": "TEXT_INTERACTION_EASTER_EGG_990_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_990_1",
+                "imageKey": "wi_limited_trade_6_livea"
             },
             {
                 "id": "CHA_WA_6_30",
@@ -15272,7 +15274,8 @@
         "actors": [
             {
                 "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
-                "text": "TEXT_INTERACTION_EASTER_EGG_991_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_991_1",
+                "imageKey": "wi_limited_trade_6_livea"
             },
             {
                 "id": "CHA_WA_6_31",
@@ -15286,7 +15289,8 @@
         "actors": [
             {
                 "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
-                "text": "TEXT_INTERACTION_EASTER_EGG_992_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_992_1",
+                "imageKey": "wi_limited_trade_6_livea"
             },
             {
                 "id": "CHA_WA_6_14",
@@ -15300,7 +15304,8 @@
         "actors": [
             {
                 "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
-                "text": "TEXT_INTERACTION_EASTER_EGG_993_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_993_1",
+                "imageKey": "wi_limited_trade_6_livea"
             },
             {
                 "id": "CHA_PR_6_14",
@@ -15314,7 +15319,8 @@
         "actors": [
             {
                 "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
-                "text": "TEXT_INTERACTION_EASTER_EGG_994_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_994_1",
+                "imageKey": "wi_limited_trade_6_livea"
             },
             {
                 "id": "CHA_WA_UNIQUE_6_RAEL",
@@ -15328,11 +15334,13 @@
         "actors": [
             {
                 "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
-                "text": "TEXT_INTERACTION_EASTER_EGG_995_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_995_1",
+                "imageKey": "wi_limited_trade_6_livea"
             },
             {
                 "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
-                "text": "TEXT_INTERACTION_EASTER_EGG_995_2"
+                "text": "TEXT_INTERACTION_EASTER_EGG_995_2",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
             }
         ]
     },
@@ -15341,7 +15349,8 @@
         "actors": [
             {
                 "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
-                "text": "TEXT_INTERACTION_EASTER_EGG_996_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_996_1",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
             },
             {
                 "id": "CHA_HU_6_17",
@@ -15355,7 +15364,8 @@
         "actors": [
             {
                 "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
-                "text": "TEXT_INTERACTION_EASTER_EGG_997_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_997_1",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
             },
             {
                 "id": "CHA_PR_6_17",
@@ -15369,7 +15379,8 @@
         "actors": [
             {
                 "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
-                "text": "TEXT_INTERACTION_EASTER_EGG_998_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_998_1",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
             },
             {
                 "id": "CHA_WA_6_14",
@@ -15383,7 +15394,8 @@
         "actors": [
             {
                 "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
-                "text": "TEXT_INTERACTION_EASTER_EGG_999_1"
+                "text": "TEXT_INTERACTION_EASTER_EGG_999_1",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
             },
             {
                 "id": "CHA_PA_UNIQUE_6_UMRAT",

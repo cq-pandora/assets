@@ -1386,6 +1386,12 @@
             "portrait_lacies_default"
         ]
     },
+    "TEXT_CHA_PR_LIMITED_TRADE_6_LACRIMOSO_NAME": {
+        "id": "ILLUST_HERO_LACRIMOSO",
+        "keys": [
+            "portrait_lacrimoso_default"
+        ]
+    },
     "TEXT_CHA_WA_6_31_NAME": {
         "id": "ILLUST_HERO_LAERTES",
         "keys": [
@@ -1452,6 +1458,12 @@
         "id": "ILLUST_HERO_LIONMASK",
         "keys": [
             "portrait_lionmask_default"
+        ]
+    },
+    "TEXT_CHA_WI_LIMITED_TRADE_6_LIVEA_NAME": {
+        "id": "ILLUST_HERO_LIVEA",
+        "keys": [
+            "portrait_livea_default"
         ]
     },
     "TEXT_CHA_WI_6_22_NAME": {
