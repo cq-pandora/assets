@@ -13918,7 +13918,7 @@
         "name": "TEXT_MON_BS_FUGUS_02_NAME",
         "image": "mon_fugus_02",
         "accuracy": 0,
-        "armor": 5000,
+        "armor": 12500,
         "armor_pen": 0,
         "atk_power": 10,
         "crit_chance": 0.1,
@@ -13928,7 +13928,7 @@
         "evasion": 0,
         "hp": 30000,
         "lifesteal": 0,
-        "resistance": 5000,
+        "resistance": 12500,
         "resistance_pen": 0
     },
     {

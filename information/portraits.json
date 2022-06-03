@@ -897,7 +897,8 @@
     "TEXT_CHA_WI_6_28_NAME": {
         "id": "ILLUST_HERO_BIHWA",
         "keys": [
-            "portrait_bihwa_default"
+            "portrait_bihwa_default",
+            "portrait_cos1bihwa_default"
         ]
     },
     "TEXT_CHA_WA_6_18_NAME": {
@@ -1232,7 +1233,8 @@
     "TEXT_CHA_AR_6_7_NAME": {
         "id": "ILLUST_HERO_HIKARI",
         "keys": [
-            "portrait_hikari_default"
+            "portrait_hikari_default",
+            "portrait_cos2hikari_default"
         ]
     },
     "TEXT_CHA_PR_6_7_NAME": {
@@ -1457,7 +1459,8 @@
     "TEXT_CHA_PA_6_30_NAME": {
         "id": "ILLUST_HERO_LIONMASK",
         "keys": [
-            "portrait_lionmask_default"
+            "portrait_lionmask_default",
+            "portrait_cos1lionmask_default"
         ]
     },
     "TEXT_CHA_WI_LIMITED_TRADE_6_LIVEA_NAME": {
@@ -1955,7 +1958,8 @@
     "TEXT_CHA_PR_6_26_NAME": {
         "id": "ILLUST_HERO_SHUB",
         "keys": [
-            "portrait_shub_default"
+            "portrait_shub_default",
+            "portrait_cos2shub_default"
         ]
     },
     "TEXT_CHA_PA_6_15_NAME": {
