@@ -774,6 +774,12 @@
             "portrait_anesidora2_book"
         ]
     },
+    "TEXT_CHA_HU_6_35_NAME": {
+        "id": "ILLUST_HERO_ANIMA",
+        "keys": [
+            "portrait_anima_default"
+        ]
+    },
     "TEXT_CHA_WI_LIMITED_SPR_6_ANNA_NAME": {
         "id": "ILLUST_HERO_ANNA",
         "keys": [
@@ -1707,6 +1713,12 @@
         "id": "ILLUST_HERO_NOEL",
         "keys": [
             "portrait_noel_default"
+        ]
+    },
+    "TEXT_CHA_AR_6_35_NAME": {
+        "id": "ILLUST_HERO_NOTTINGHAM",
+        "keys": [
+            "portrait_nottingham_default"
         ]
     },
     "TEXT_CHA_PR_6_5_NAME": {
