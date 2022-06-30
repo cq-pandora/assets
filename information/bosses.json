@@ -76,9 +76,9 @@
         "name": "TEXT_MON_BOSS_S2_EP4_CODEVV_NAME",
         "image": "mon_bs_codevv",
         "accuracy": 0.6,
-        "armor": 2500,
+        "armor": 3500,
         "armor_pen": 4000,
-        "atk_power": 3000,
+        "atk_power": 3200,
         "crit_chance": 0.5,
         "crit_chance_reduction": 0,
         "crit_dmg": 0.5,
@@ -86,7 +86,7 @@
         "evasion": 0,
         "hp": 12500000,
         "lifesteal": 0,
-        "resistance": 2500,
+        "resistance": 3500,
         "resistance_pen": 4000
     },
     {

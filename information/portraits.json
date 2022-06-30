@@ -1042,6 +1042,12 @@
             "portrait_dempsey_default"
         ]
     },
+    "TEXT_CHA_AR_LIMITED_EQUIP_6_DJURA_NAME": {
+        "id": "ILLUST_HERO_DJURA",
+        "keys": [
+            "portrait_djura_default"
+        ]
+    },
     "TEXT_CHA_WI_6_3_NAME": {
         "id": "ILLUST_HERO_DORO",
         "keys": [
@@ -1665,6 +1671,12 @@
         "id": "ILLUST_HERO_NAZRUNE",
         "keys": [
             "portrait_nazrune_default"
+        ]
+    },
+    "TEXT_CHA_WI_LIMITED_EQUIP_6_NEBULA_NAME": {
+        "id": "ILLUST_HERO_NEBULA",
+        "keys": [
+            "portrait_nebula_default"
         ]
     },
     "TEXT_CHA_WI_6_10_NAME": {
