@@ -858,6 +858,12 @@
             "portrait_aurea_default"
         ]
     },
+    "TEXT_CHA_PR_6_36_NAME": {
+        "id": "ILLUST_HERO_BAHARHA",
+        "keys": [
+            "portrait_baharha_default"
+        ]
+    },
     "TEXT_CHA_PR_6_27_NAME": {
         "id": "ILLUST_HERO_BAQUAIT",
         "keys": [
@@ -1003,6 +1009,12 @@
         "id": "ILLUST_HERO_CROW",
         "keys": [
             "portrait_crow_default"
+        ]
+    },
+    "TEXT_CHA_AR_6_36_NAME": {
+        "id": "ILLUST_HERO_DANGSOHYE",
+        "keys": [
+            "portrait_dangsohye_default"
         ]
     },
     "TEXT_CHA_PR_6_10_NAME": {
