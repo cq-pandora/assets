@@ -786,6 +786,12 @@
             "portrait_anna_default"
         ]
     },
+    "TEXT_CHA_HU_6_37_NAME": {
+        "id": "ILLUST_HERO_ANNE",
+        "keys": [
+            "portrait_anne_default"
+        ]
+    },
     "TEXT_CHA_WI_LIMITED_AUTUMN_6_ANZU_NAME": {
         "id": "ILLUST_HERO_ANZU",
         "keys": [
@@ -2093,6 +2099,12 @@
         "id": "ILLUST_HERO_SWORDEN",
         "keys": [
             "portrait_sworden_default"
+        ]
+    },
+    "TEXT_CHA_AR_6_37_NAME": {
+        "id": "ILLUST_HERO_TEHISB",
+        "keys": [
+            "portrait_tehisb_default"
         ]
     },
     "TEXT_CHA_HU_6_11_NAME": {
