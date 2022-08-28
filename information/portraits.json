@@ -999,6 +999,12 @@
             "portrait_chunhyang_default"
         ]
     },
+    "TEXT_CHA_AR_LIMITED_RB2_6_01_NAME": {
+        "id": "ILLUST_HERO_CINDER_RB2",
+        "keys": [
+            "portrait_cinder_default"
+        ]
+    },
     "TEXT_CHA_HU_6_28_NAME": {
         "id": "ILLUST_HERO_CINDY",
         "keys": [
@@ -1869,6 +1875,12 @@
         "id": "ILLUST_HERO_RAVEN",
         "keys": [
             "portrait_raven_default"
+        ]
+    },
+    "TEXT_CHA_WA_LIMITED_RB2_6_02_NAME": {
+        "id": "ILLUST_HERO_RAVEN_RB2",
+        "keys": [
+            "portrait_rbraven_default"
         ]
     },
     "TEXT_CHA_PA_6_12_NAME": {
