@@ -71,6 +71,12 @@
             "portrait_ibelin_default"
         ]
     },
+    "TEXT_CHA_PR_LIMITED_DM2_6_NAME": {
+        "id": "ILLUST_COLLABO_ECHO",
+        "keys": [
+            "portrait_echo_default"
+        ]
+    },
     "TEXT_CHA_WI_LIMITED_ER_6_21_NAME": {
         "id": "ILLUST_COLLABO_ERCAT",
         "keys": [
@@ -245,6 +251,12 @@
         "id": "ILLUST_COLLABO_GIOVANNA",
         "keys": [
             "portrait_giovanna_default"
+        ]
+    },
+    "TEXT_CHA_WI_LIMITED_DEEMO_6_NAME": {
+        "id": "ILLUST_COLLABO_GIRL",
+        "keys": [
+            "portrait_girl_default"
         ]
     },
     "TEXT_CHA_WI_LIMITED_GS_6_05_NAME": {
@@ -744,6 +756,12 @@
             "portrait_achilles_default"
         ]
     },
+    "TEXT_CHA_WI_6_39_NAME": {
+        "id": "ILLUST_HERO_AFFOGATO",
+        "keys": [
+            "portrait_affogato_default"
+        ]
+    },
     "TEXT_CHA_PA_6_2_NAME": {
         "id": "ILLUST_HERO_ALEXANDER",
         "keys": [
@@ -832,6 +850,12 @@
         "id": "ILLUST_HERO_ARITA",
         "keys": [
             "portrait_arita_default"
+        ]
+    },
+    "TEXT_CHA_PR_6_39_NAME": {
+        "id": "ILLUST_HERO_ASHLEY",
+        "keys": [
+            "portrait_ashley_default"
         ]
     },
     "TEXT_CHA_WA_LIMITED_TRADE_6_ASMODEUS_NAME": {
@@ -1150,6 +1174,12 @@
         "id": "ILLUST_HERO_FISHERCAT",
         "keys": [
             "portrait_fishercat_default"
+        ]
+    },
+    "TEXT_CHA_WA_6_37_NAME": {
+        "id": "ILLUST_HERO_FLECK",
+        "keys": [
+            "portrait_fleck_default"
         ]
     },
     "TEXT_CHA_PR_LIMITED_EAST_6_FRANCESCA_NAME": {
@@ -1589,6 +1619,12 @@
             "portrait_mamba_default"
         ]
     },
+    "TEXT_CHA_WI_LIMITED_TRADE_6_MAMMON_NAME": {
+        "id": "ILLUST_HERO_MAMMON",
+        "keys": [
+            "portrait_mammon_default"
+        ]
+    },
     "TEXT_CHA_HU_6_9_NAME": {
         "id": "ILLUST_HERO_MANDY",
         "keys": [
@@ -1719,6 +1755,12 @@
         "id": "ILLUST_HERO_NEULSOLGIL",
         "keys": [
             "portrait_neulsolgil_default"
+        ]
+    },
+    "TEXT_CHA_PA_6_39_NAME": {
+        "id": "ILLUST_HERO_NICO",
+        "keys": [
+            "portrait_nico_default"
         ]
     },
     "TEXT_CHA_WI_LIMITED_AUTO_6_NICOLA_NAME": {
@@ -1979,6 +2021,12 @@
             "portrait_sentinelr_default"
         ]
     },
+    "TEXT_CHA_WA_6_39_NAME": {
+        "id": "ILLUST_HERO_SEO",
+        "keys": [
+            "portrait_seo_default"
+        ]
+    },
     "TEXT_CHA_WI_6_32_NAME": {
         "id": "ILLUST_HERO_SEOGWI",
         "keys": [
@@ -2001,6 +2049,12 @@
         "id": "ILLUST_HERO_SFERA",
         "keys": [
             "portrait_sfera_default"
+        ]
+    },
+    "TEXT_CHA_WA_6_38_NAME": {
+        "id": "ILLUST_HERO_SHALLOT",
+        "keys": [
+            "portrait_shallot_default"
         ]
     },
     "TEXT_CHA_WA_6_19_NAME": {
@@ -2171,6 +2225,12 @@
         "id": "ILLUST_HERO_UZIMANT",
         "keys": [
             "portrait_uzimant_default"
+        ]
+    },
+    "TEXT_CHA_PA_6_37_NAME": {
+        "id": "ILLUST_HERO_UZUME",
+        "keys": [
+            "portrait_uzume_default"
         ]
     },
     "TEXT_CHA_PA_6_10_NAME": {

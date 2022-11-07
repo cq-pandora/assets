@@ -162,6 +162,24 @@
         "resistance_pen": 3000
     },
     {
+        "id": "BR_MON_JANGSANBEOUM",
+        "name": "TEXT_MON_BOSS_S2_EP5_JANGSANBEOUM_CHALLENGE_NAME",
+        "image": "mon_bs_jangsanbeoum",
+        "accuracy": 0.625,
+        "armor": 4000,
+        "armor_pen": 4500,
+        "atk_power": 6400,
+        "crit_chance": 0.5,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0,
+        "evasion": 0.5,
+        "hp": 29000000,
+        "lifesteal": 0,
+        "resistance": 4000,
+        "resistance_pen": 4500
+    },
+    {
         "id": "BR_MON_LIONEL",
         "name": "TEXT_MON_LIONEL_NAME",
         "image": "wa_6_14",
@@ -430,6 +448,24 @@
         "lifesteal": 0,
         "resistance": 4400,
         "resistance_pen": 3000
+    },
+    {
+        "id": "BSRE_MON_JANGSANBEOUM",
+        "name": "TEXT_MON_BOSS_S2_EP5_JANGSANBEOUM_CHALLENGE_NAME",
+        "image": "mon_bs_jangsanbeoum",
+        "accuracy": 0.625,
+        "armor": 5500,
+        "armor_pen": 4500,
+        "atk_power": 14720,
+        "crit_chance": 0.5,
+        "crit_chance_reduction": 0,
+        "crit_dmg": 0.5,
+        "dmg_reduction": 0.8,
+        "evasion": 0.5,
+        "hp": 116000000,
+        "lifesteal": 0,
+        "resistance": 5500,
+        "resistance_pen": 4500
     },
     {
         "id": "BSRE_MON_LIONEL",
