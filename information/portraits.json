@@ -726,6 +726,12 @@
             "portrait_soltar_default"
         ]
     },
+    "TEXT_MON_BS_TW_NAME": {
+        "id": "ILLUST_ENEMY_TW",
+        "keys": [
+            "portrait_tw_default"
+        ]
+    },
     "TEXT_CHA_PA_UNIQUE_4_UMRAT_NAME": {
         "id": "ILLUST_ENEMY_UMRAT",
         "keys": [
@@ -1442,6 +1448,12 @@
             "portrait_kriemhild_default"
         ]
     },
+    "TEXT_CHA_PA_6_40_NAME": {
+        "id": "ILLUST_HERO_KUMORI",
+        "keys": [
+            "portrait_kumori_default"
+        ]
+    },
     "TEXT_CHA_WI_6_30_NAME": {
         "id": "ILLUST_HERO_LABEL",
         "keys": [
@@ -1464,6 +1476,12 @@
         "id": "ILLUST_HERO_LAERTES",
         "keys": [
             "portrait_laertes_default"
+        ]
+    },
+    "TEXT_CHA_PR_6_40_NAME": {
+        "id": "ILLUST_HERO_LANI",
+        "keys": [
+            "portrait_lani_default"
         ]
     },
     "TEXT_CHA_HU_LIMITED_FOURWEEK_6_LASIRENE_NAME": {
@@ -1619,7 +1637,7 @@
             "portrait_mamba_default"
         ]
     },
-    "TEXT_CHA_WI_LIMITED_TRADE_6_MAMMON_NAME": {
+    "TEXT_CHA_WI_LIMITED_TRADE_6_MAMMON": {
         "id": "ILLUST_HERO_MAMMON",
         "keys": [
             "portrait_mammon_default"
