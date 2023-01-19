@@ -2100,6 +2100,21 @@
         ]
     },
     {
+        "id": "INTERACTION_EASTER_EGG_1159",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1159_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_WA_LIMITED_COUPLE_6_PIUS",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1159_2",
+                "imageKey": "wa_limited_couple_6_pius"
+            }
+        ]
+    },
+    {
         "id": "INTERACTION_EASTER_EGG_116",
         "actors": [
             {
@@ -2115,6 +2130,156 @@
         ]
     },
     {
+        "id": "INTERACTION_EASTER_EGG_1160",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1160_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_HU_LIMITED_COUPLE_6_SCHILD",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1160_2",
+                "imageKey": "hu_limited_couple_6_schild"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1161",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1161_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1161_2",
+                "imageKey": "wi_limited_trade_6_livea"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1162",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1162_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1162_2",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1163",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1163_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_WI_LIMITED_EQUIP_6_NEBULA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1163_2",
+                "imageKey": "wi_limited_equip_6_nebula"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1164",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1164_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_AR_LIMITED_EQUIP_6_DJURA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1164_2",
+                "imageKey": "ar_limited_equip_6_djura"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1165",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1165_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_PA_LIMITED_EIGHTH_6_SKADI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1165_2",
+                "imageKey": "pa_limited_eighth_6_skadi"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1166",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1166_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_WA_6_1",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1166_2",
+                "imageKey": "wa_6_1"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1167",
+        "actors": [
+            {
+                "id": "CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1167_1",
+                "imageKey": "wa_limited_eighth_6_leonia"
+            },
+            {
+                "id": "CHA_WI_6_22",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1167_2",
+                "imageKey": "wi_6_22"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1168",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_EIGHTH_6_SKADI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1168_1",
+                "imageKey": "pa_limited_eighth_6_skadi"
+            },
+            {
+                "id": "CHA_PA_UNIQUE_6_UMRAT",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1168_2",
+                "imageKey": "pa_unique_6_umrat"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1169",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_EIGHTH_6_SKADI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1169_1",
+                "imageKey": "pa_limited_eighth_6_skadi"
+            },
+            {
+                "id": "CHA_WI_LIMITED_TRADE_6_LIVEA",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1169_2",
+                "imageKey": "wi_limited_trade_6_livea"
+            }
+        ]
+    },
+    {
         "id": "INTERACTION_EASTER_EGG_117",
         "actors": [
             {
@@ -2126,6 +2291,36 @@
                 "id": "CHA_HU_6_3",
                 "text": "TEXT_INTERACTION_EASTEREGG_117_2",
                 "imageKey": "hu_6_3"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1170",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_EIGHTH_6_SKADI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1170_1",
+                "imageKey": "pa_limited_eighth_6_skadi"
+            },
+            {
+                "id": "CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1170_2",
+                "imageKey": "pr_limited_trade_6_lacrimoso"
+            }
+        ]
+    },
+    {
+        "id": "INTERACTION_EASTER_EGG_1171",
+        "actors": [
+            {
+                "id": "CHA_PA_LIMITED_EIGHTH_6_SKADI",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1171_1",
+                "imageKey": "pa_limited_eighth_6_skadi"
+            },
+            {
+                "id": "CHA_WA_6_1",
+                "text": "TEXT_INTERACTION_EASTER_EGG_1171_2",
+                "imageKey": "wa_6_1"
             }
         ]
     },

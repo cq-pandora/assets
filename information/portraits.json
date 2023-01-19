@@ -672,7 +672,7 @@
             "portrait_lethe_default"
         ]
     },
-    "TEXT_MON_BS_S2_EP4_LEVINLUDVICCO_NAME": {
+    "TEXT_MON_BOSS_S2_EP4_LEVINLUDVICCO_NAME": {
         "id": "ILLUST_ENEMY_LEVINLUDVICCO",
         "keys": [
             "portrait_levinludvicco_default"
@@ -700,6 +700,12 @@
         "id": "ILLUST_ENEMY_ORCUS",
         "keys": [
             "portrait_orcus_default"
+        ]
+    },
+    "TEXT_PERSEPHONE_NAME_BASIC": {
+        "id": "ILLUST_ENEMY_PERSEPHONE",
+        "keys": [
+            "portrait_monpersephone_default"
         ]
     },
     "TEXT_RAEL_NAME": {
@@ -1133,7 +1139,7 @@
             "portrait_echidna_default"
         ]
     },
-    "TEXT_CHA_PR_UNIQUE_6_ELLIE": {
+    "TEXT_CHA_PR_UNIQUE_6_ELLIE_NAME": {
         "id": "ILLUST_HERO_ELLIE2",
         "keys": [
             "portrait_ellie2_default",
@@ -1515,6 +1521,12 @@
             "portrait_leon_default_pdr"
         ]
     },
+    "TEXT_CHA_WA_LIMITED_EIGHTH_6_LEONIA_NAME": {
+        "id": "ILLUST_HERO_LEONIA",
+        "keys": [
+            "portrait_leonia_default"
+        ]
+    },
     "TEXT_CHA_WI_6_5_NAME": {
         "id": "ILLUST_HERO_LILITH",
         "keys": [
@@ -1565,7 +1577,7 @@
             "portrait_lorelei_default"
         ]
     },
-    "TEXT_CHA_WI_UNIQUE_6_LOVIATAR": {
+    "TEXT_CHA_WI_UNIQUE_6_LOVIATAR_NAME": {
         "id": "ILLUST_HERO_LOVIATAR",
         "keys": [
             "portrait_loviatar_default"
@@ -1637,7 +1649,7 @@
             "portrait_mamba_default"
         ]
     },
-    "TEXT_CHA_WI_LIMITED_TRADE_6_MAMMON": {
+    "TEXT_CHA_WI_LIMITED_TRADE_6_MAMMON_NAME": {
         "id": "ILLUST_HERO_MAMMON",
         "keys": [
             "portrait_mammon_default"
@@ -2119,6 +2131,12 @@
             "portrait_simhakgyu_default"
         ]
     },
+    "TEXT_CHA_PA_LIMITED_EIGHTH_6_SKADI_NAME": {
+        "id": "ILLUST_HERO_SKADI",
+        "keys": [
+            "portrait_skadi_default"
+        ]
+    },
     "TEXT_CHA_PA_6_35_NAME": {
         "id": "ILLUST_HERO_SNORRI",
         "keys": [
@@ -2413,7 +2431,7 @@
             "portrait_popo_default"
         ]
     },
-    "TEXT_NPC_HABAEK": {
+    "TEXT_NPC_HABAEK_NAME": {
         "id": "ILLUST_NPC_HABAEK",
         "keys": [
             "portrait_habaek_default"

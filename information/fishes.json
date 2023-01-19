@@ -2205,15 +2205,15 @@
         "grade": 4,
         "starts_from": 40,
         "image": "fish_event_lonely_bokfish",
-        "exp": 1224,
+        "exp": 2022,
         "rewards": [
             {
-                "type": "RANDOMBOX_EVENT_CHRISTMAS_2018",
+                "type": "RANDOMBOX_EVENT_CHRISTMAS_2022",
                 "amount": 1
             },
             {
                 "type": "MATERIAL_LIMIT_EVENT_CHRISTMAS_2018",
-                "amount": 2
+                "amount": 3
             }
         ]
     },
@@ -2227,11 +2227,11 @@
         "grade": 6,
         "starts_from": 40,
         "image": "fish_freshwater_2_goldfish",
-        "exp": 1224,
+        "exp": 2525,
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 1224
+                "amount": 2525
             }
         ]
     },
