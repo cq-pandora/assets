@@ -1068,7 +1068,8 @@
     "TEXT_CHA_PR_6_10_NAME": {
         "id": "ILLUST_HERO_DARA",
         "keys": [
-            "portrait_dara_default"
+            "portrait_dara_default",
+            "portrait_cos3dara_default"
         ]
     },
     "TEXT_CHA_HU_6_1_NAME": {
@@ -1994,7 +1995,8 @@
     "TEXT_CHA_PA_6_11_NAME": {
         "id": "ILLUST_HERO_ROLLAND",
         "keys": [
-            "portrait_rolland_default"
+            "portrait_rolland_default",
+            "portrait_cos3rolland_default"
         ]
     },
     "TEXT_CHA_WA_6_27_NAME": {
