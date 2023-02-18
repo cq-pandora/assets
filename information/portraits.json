@@ -974,6 +974,12 @@
             "portrait_brigit_default"
         ]
     },
+    "TEXT_CHA_WA_6_40_NAME": {
+        "id": "ILLUST_HERO_BRISEIS",
+        "keys": [
+            "portrait_briseis_default"
+        ]
+    },
     "TEXT_CHA_PA_6_25_NAME": {
         "id": "ILLUST_HERO_CAENEUS",
         "keys": [
@@ -2203,6 +2209,12 @@
         "id": "ILLUST_HERO_SWORDEN",
         "keys": [
             "portrait_sworden_default"
+        ]
+    },
+    "TEXT_CHA_WI_6_40_NAME": {
+        "id": "ILLUST_HERO_TALIA",
+        "keys": [
+            "portrait_talia_default"
         ]
     },
     "TEXT_CHA_AR_6_37_NAME": {

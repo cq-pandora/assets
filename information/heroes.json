@@ -2057,7 +2057,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_APFOOL_AR_3",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -2066,7 +2066,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_AR_3",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -2305,7 +2305,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_11_WARGAME_5",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -2522,7 +2522,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_AR_ALTAIR",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -2663,7 +2663,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_AR_HONGRAN",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -3066,7 +3066,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_AR_ALMAEL",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -3226,7 +3226,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_11_AR_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -3699,7 +3699,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_10_WARGAME_6",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -4001,7 +4001,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_15_HOT",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -4161,7 +4161,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_AR_16",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -4320,7 +4320,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_AR_18",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -4470,7 +4470,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_19_GOTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -4779,7 +4779,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_22_WARGAME_3",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -5079,7 +5079,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_25_APFOOL",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -5238,7 +5238,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_17_AR_26",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -5379,7 +5379,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_53_AR_28",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -5397,7 +5397,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_AR_28",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -5547,7 +5547,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_2020_UNSALE_AR_29",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -5556,7 +5556,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_11_AR_29",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -5856,7 +5856,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_17_AR_31",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -6147,7 +6147,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_15_AR_33",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -7329,7 +7329,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_8_GOSL",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -7490,7 +7490,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_14_PATRICK",
                 "stats": {
-                    "atk_power": 120
+                    "atk_power": 200
                 }
             }
         ]
@@ -7650,7 +7650,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_18_AR_17",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -7800,7 +7800,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_20_LASTSOUL",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -7950,7 +7950,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_AR_23_WARGAME_6",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -8223,7 +8223,7 @@
                 "name": "TEXT_COS_AR_LIMITED_GG4_08_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -8627,7 +8627,7 @@
                 "name": "TEXT_COS_AR_LIMITED_OT_05",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -8769,7 +8769,7 @@
                 "name": "TEXT_COS_AR_LIMITED_OT_08",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -10992,7 +10992,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_APFOOL_HU_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -11241,7 +11241,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_HU_11_WARGAME_5",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -11916,7 +11916,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_HU_LASIRENE",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -12057,7 +12057,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_HU_DELRIEN",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -12198,7 +12198,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_HU_ORGA",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -12794,7 +12794,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_HU_10_ROCKFESTA_NAME",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -12803,7 +12803,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_HU_10_14",
                 "stats": {
-                    "atk_power": 150
+                    "atk_power": 200
                 }
             }
         ]
@@ -13255,7 +13255,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_HU_15",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -13407,7 +13407,7 @@
                 "name": "TEXT_COS_EVENT_HU_16_LAVORDAY_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -13416,7 +13416,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_13_HU_16",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -13717,7 +13717,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_HU_19_SCHOOLCLUB",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -13726,7 +13726,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_HU_19",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -13885,7 +13885,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_HU_21",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -15385,7 +15385,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_16_HU_33",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -15535,7 +15535,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_HU_34_GB",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -16492,7 +16492,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_HU_2",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -16652,7 +16652,7 @@
                 "name": "TEXT_COS_EVENT_HU_3_OLYMPIC_2018",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -17256,7 +17256,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_RHYTHM_HU_6_1_DONUT",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -17425,7 +17425,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_HU_17_FLOWER",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -17576,7 +17576,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_HU_20_GOTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -17726,7 +17726,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_HU_23_NEWYEAR_2019",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -17877,7 +17877,7 @@
                 "name": "TEXT_COS_HU_LIMITED_GG4_16_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -18150,7 +18150,7 @@
                 "name": "TEXT_COS_HU_LIMITED_OT_03",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -18596,7 +18596,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_HUMMEL_COLOR",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -20639,7 +20639,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_APFOOL_PA_5",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -21192,7 +21192,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_PA_REBECCA",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -21333,7 +21333,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_PA_JINKYUNG",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -21605,7 +21605,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIIMITED_HIDDEN_PA_NARI",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -21746,7 +21746,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_PA_PUMPKING",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -22018,7 +22018,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_13_PA_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -22340,7 +22340,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_3_NX",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -22491,7 +22491,8 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_4_HALLOWEEN",
                 "stats": {
-                    "hp": 200
+                    "atk_power": 50,
+                    "hp": 600
                 }
             },
             {
@@ -22500,7 +22501,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_4_WARGAME_2",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -22652,7 +22653,7 @@
                 "name": "TEXT_COS_EVENT_PA_8_ROCKFESTA_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -22661,7 +22662,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_14_PA_8",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -22964,7 +22965,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_17_VOTE",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -23115,7 +23116,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_12_PA_20",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -23276,7 +23277,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_48_PA_23",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -23891,7 +23892,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_RHYTHM_PA_6_10_COS",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -23900,7 +23901,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_14_PA_10",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -24366,7 +24367,7 @@
                 "name": "TEXT_COS_PA_16_18_NAME",
                 "stats": {
                     "atk_power": 100,
-                    "hp": 200
+                    "hp": 400
                 }
             }
         ]
@@ -24508,7 +24509,7 @@
                 "name": "TEXT_COS_EVENT_PA_18_ZOOSCHOOL",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -24659,7 +24660,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_2020_UNSALE_PA_19",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -24668,7 +24669,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_19_SCHOOLCLUB",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -24677,7 +24678,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_7_PA_19",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -24838,7 +24839,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_21_RESHOP",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -25293,7 +25294,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_18_PA_25",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -25454,7 +25455,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_13_PA_26",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -25918,7 +25919,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_30_GG4",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -26231,7 +26232,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_11_PA_32",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -26382,7 +26383,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_33_OCTA",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -26533,7 +26534,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PA_34_FLAME",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -26826,7 +26827,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_19_PA_37",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -27765,7 +27766,7 @@
                 "name": "TEXT_COS_PA_LIMITED_ER_10_1",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -28038,7 +28039,7 @@
                 "name": "TEXT_COS_PA_LIMITED_GG4_01_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -28180,7 +28181,7 @@
                 "name": "TEXT_COS_PA_LIMITED_GG4_07_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -28322,7 +28323,7 @@
                 "name": "TEXT_COS_PA_LIMITED_GG4_14_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -28988,7 +28989,7 @@
                 "name": "TEXT_COS_PA_LIMITED_OT_06",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -29434,7 +29435,7 @@
                 "name": "TEXT_COS_PA_LIMITED_RZ_03",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -29576,7 +29577,7 @@
                 "name": "TEXT_COS_PA_LIMITED_SH_02",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -29718,7 +29719,7 @@
                 "name": "TEXT_COS_PA_LIMITED_SH_03",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -29860,7 +29861,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_RICOTTA_COLOR",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -30011,7 +30012,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_SAHAD_COLOR",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -32054,7 +32055,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_APFOOL_PR_2",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -32303,7 +32304,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_11_WARGAME_5",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -32568,7 +32569,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIIMITED_HIDDEN_PR_HARUKI",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -32709,7 +32710,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_PR_KRAMPUS",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -32850,7 +32851,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_PR_KAEDE",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -33384,7 +33385,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_ELLIE_CASUAL_FOURWEEK",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -33545,7 +33546,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_RHYTHM_PR_6_1_RESHOP",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -33554,7 +33555,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_PR_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -33715,7 +33716,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_12_PR_4",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -33865,7 +33866,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_12_PR_5",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -34177,7 +34178,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_8_HOT",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -34186,7 +34187,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_14_PR_8",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -34337,7 +34338,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_14_WORLDCUP",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -34487,7 +34488,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_17_FISH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -34496,7 +34497,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_PR_17",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -34647,7 +34648,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_20_ORCHARD",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -34798,7 +34799,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_TNT_PR_23",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -35737,7 +35738,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_12_WARGAME_2",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -36039,7 +36040,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_15_OLYMPIC_2018",
                 "stats": {
-                    "atk_power": 50
+                    "atk_power": 200
                 }
             },
             {
@@ -36493,7 +36494,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_19_WARGAME_6",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -36806,7 +36807,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_22_RECHAMP",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -36815,7 +36816,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_13_PR_22",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -37128,7 +37129,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_PR_25_WARGAME_4",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -37288,7 +37289,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_PR_26",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -37619,7 +37620,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_18_PR_29",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -37932,7 +37933,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_17_PR_31",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -38083,7 +38084,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_16_PR_32",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -38243,7 +38244,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_16_PR_33",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -38394,7 +38395,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_19_PR_35",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -39082,7 +39083,7 @@
                 "name": "TEXT_COS_PR_LIMITED_DM2",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -39224,7 +39225,7 @@
                 "name": "TEXT_COS_PR_LIMITED_ER_04_1",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -39234,7 +39235,7 @@
                 "name": "TEXT_COS_PR_LIMITED_ER_04_2",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -39507,7 +39508,7 @@
                 "name": "TEXT_COS_PR_LIMITED_ER_08_1",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -39649,7 +39650,7 @@
                 "name": "TEXT_COS_PR_LIMITED_GG4_11_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -40315,7 +40316,7 @@
                 "name": "TEXT_COS_PR_LIMITED_OT_01",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -40457,7 +40458,7 @@
                 "name": "TEXT_COS_PR_LIMITED_RZ_07",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -42500,7 +42501,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_2020_UNSALE_WA_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -42509,7 +42510,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_APFOOL_WA_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -42518,7 +42519,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_15_WA_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -43388,7 +43389,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_WA_MARE",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -43529,7 +43530,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_WA_PUMPQUEEN",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -43670,7 +43671,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_GREEDWAR_1_WA_TWILLY",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -43811,7 +43812,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_WA_RANNO",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -43952,7 +43953,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_REDNAS_DRESS_FOURTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -43961,7 +43962,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_REDNAS_UNIFORM_FOURTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -44364,7 +44365,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_4_FLOWER",
                 "stats": {
-                    "atk_power": 50
+                    "atk_power": 200
                 }
             },
             {
@@ -44373,7 +44374,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_4_WARGAME_4",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -45140,6 +45141,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_WA_13_18_NAME",
                 "stats": {
+                    "atk_power": 50,
                     "hp": 600
                 }
             }
@@ -45281,7 +45283,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_15_HALLOWEEN",
                 "stats": {
-                    "atk_power": 50
+                    "atk_power": 200
                 }
             },
             {
@@ -45290,7 +45292,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_15_WARGAME",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -45752,7 +45754,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_19_WARGAME",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -45902,7 +45904,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_21_SNOW",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -46203,7 +46205,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_24_WARGAME_3",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -46362,7 +46364,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_25_WARGAME_4",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -46512,7 +46514,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_8_WA_26",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -47112,7 +47114,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_31_MODERN",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -47263,7 +47265,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_32_RESHOP",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -47422,7 +47424,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_19_WA_33",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -48005,7 +48007,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_38_SOS",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -48136,6 +48138,137 @@
                 "star": 6,
                 "atk_power": 284,
                 "atk_speed": 0.66,
+                "class": "sword"
+            }
+        ],
+        "skins": []
+    },
+    {
+        "id": "briseis",
+        "readable_id": "briseis",
+        "class": "warrior",
+        "type": "contract",
+        "gender": "female",
+        "domain": "ROMAN",
+        "forms": [
+            {
+                "id": "CHA_WA_4_40",
+                "name": "TEXT_CHA_WA_4_40_NAME",
+                "image": "wa_4_40",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 131.04,
+                "armor_pen": 0,
+                "atk_power": 396.5,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 3640,
+                "lifesteal": 0,
+                "resistance": 85.15,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WA_4_40_DESC",
+                "block_image": "ui_skill_icon_warrior_briseis_skill",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_BRISEIS_NAME",
+                "block_description": "TEXT_SKILL_WA_BRISEIS_DESC",
+                "passive_description": "TEXT_SKILL_WA_BRISEIS_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_WA_5_40",
+                "name": "TEXT_CHA_WA_5_40_NAME",
+                "image": "wa_5_40",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 199.92000000000002,
+                "armor_pen": 0,
+                "atk_power": 705.5999999999999,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 5822.599999999999,
+                "lifesteal": 0,
+                "resistance": 148.39999999999998,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WA_5_40_DESC",
+                "block_image": "ui_skill_icon_warrior_briseis_skill",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_BRISEIS_NAME",
+                "block_description": "TEXT_SKILL_WA_BRISEIS_DESC",
+                "passive_description": "TEXT_SKILL_WA_BRISEIS_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_WA_6_40",
+                "name": "TEXT_CHA_WA_6_40_NAME",
+                "image": "wa_6_40",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 292.20000000000005,
+                "armor_pen": 0,
+                "atk_power": 1084.5,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 8395.5,
+                "lifesteal": 0,
+                "resistance": 234.75,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WA_6_40_DESC",
+                "block_image": "ui_skill_icon_warrior_briseis_skill",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
+                "block_name": "TEXT_SKILL_WA_BRISEIS_NAME",
+                "block_description": "TEXT_SKILL_WA_BRISEIS_DESC",
+                "passive_description": "TEXT_SKILL_WA_BRISEIS_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.5,
+                    "armor": 120,
+                    "atk_power": 180,
+                    "crit_chance": 0.5,
+                    "crit_dmg": 2,
+                    "evasion": 0.3,
+                    "hp": 1500,
+                    "resistance": 120
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_SW_CHA_4_40",
+                "name": "TEXT_WEP_LEGEND_SW_CHA_4_40_NAME",
+                "image": "sw_s4_40",
+                "ability": "TEXT_WEP_LEGEND_SW_CHA_4_40_DESC",
+                "star": 4,
+                "atk_power": 95,
+                "atk_speed": 1.1,
+                "class": "sword"
+            },
+            {
+                "id": "WEP_LEGEND_SW_CHA_5_40",
+                "name": "TEXT_WEP_LEGEND_SW_CHA_5_40_NAME",
+                "image": "sw_s5_40",
+                "ability": "TEXT_WEP_LEGEND_SW_CHA_5_40_DESC",
+                "star": 5,
+                "atk_power": 190,
+                "atk_speed": 1.1,
+                "class": "sword"
+            },
+            {
+                "id": "WEP_LEGEND_SW_CHA_6_40",
+                "name": "TEXT_WEP_LEGEND_SW_CHA_6_40_NAME",
+                "image": "sw_s6_40",
+                "ability": "TEXT_WEP_LEGEND_SW_CHA_6_40_DESC",
+                "star": 6,
+                "atk_power": 284,
+                "atk_speed": 1.1,
                 "class": "sword"
             }
         ],
@@ -48731,7 +48864,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_14_WA_5",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -48741,7 +48874,7 @@
                 "name": "TEXT_COS_EVENT_WA_5_LAVORDAY_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -48892,7 +49025,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_12_WA_6",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -49515,7 +49648,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WA_20_WARGAME_2",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -49965,7 +50098,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_ER_01_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -50107,7 +50240,7 @@
                 "name": "TEXT_COS_WA_LIMITED_ER_11_1",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -50249,7 +50382,7 @@
                 "name": "TEXT_COS_WA_LIMITED_GG4_15_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -50391,7 +50524,7 @@
                 "name": "TEXT_COS_WA_LIMITED_GG4_02_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -50533,7 +50666,7 @@
                 "name": "TEXT_COS_WA_LIMITED_GG4_03_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -50675,7 +50808,7 @@
                 "name": "TEXT_COS_WA_LIMITED_GG4_05_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -50817,7 +50950,7 @@
                 "name": "TEXT_COS_WA_LIMITED_GG4_04_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -50959,7 +51092,7 @@
                 "name": "TEXT_COS_WA_LIMITED_GG4_06_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -51101,7 +51234,7 @@
                 "name": "TEXT_COS_WA_LIMITED_GG4_13_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -52029,7 +52162,7 @@
                 "name": "TEXT_COS_WA_LIMITED_OT_04",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -52171,7 +52304,7 @@
                 "name": "TEXT_COS_WA_LIMITED_OT_07",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -52797,7 +52930,7 @@
                 "name": "TEXT_COS_WA_LIMITED_RZ_02",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -52938,7 +53071,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_WA_LIMITED_SH_01",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -53080,7 +53213,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_COLOR",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -53090,7 +53223,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_ADOL_SPECIAL",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -53241,7 +53374,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_COLOR",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -53251,7 +53384,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_DANA_SPECIAL",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -53402,7 +53535,7 @@
                 "name": "TEXT_COS_WA_LIMITED_YS8_LAXIA_COLOR",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             },
             {
@@ -55606,7 +55739,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_APFOOL_WI_3",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -55615,7 +55748,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_3_WARGAME_3",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -55854,7 +55987,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_11_WARGAME_5",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -56381,7 +56514,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_WI_NICOLA",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -56522,7 +56655,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_LIMITED_HIDDEN_WI_ANZU",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -56794,7 +56927,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_ANESIDORA_BIKINI_FIFTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -56803,7 +56936,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_ANESIDORA_PANDORA_FIFTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -56812,7 +56945,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_ANESIDORA_SCHOOL_FIFTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -56953,7 +57086,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_BANOUB_HOLIDAY_SIXTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -57094,7 +57227,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_GREEDWAR_1_WI_ANNA",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -57628,7 +57761,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_APFOOL_WI_1",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -57788,7 +57921,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_15_WI_2",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -57949,7 +58082,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_4_ZOOSCHOOL",
                 "stats": {
-                    "atk_power": 50
+                    "atk_power": 200
                 }
             },
             {
@@ -58100,7 +58233,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_6_WARGAME_4",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -58261,7 +58394,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_11_WI_8",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -58270,7 +58403,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_8_PATRICK",
                 "stats": {
-                    "atk_power": 120
+                    "atk_power": 200
                 }
             },
             {
@@ -58572,7 +58705,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_18_WI_17",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -58732,7 +58865,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_20_FISH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -59042,7 +59175,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_5_WARGAME_3",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -59193,7 +59326,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_7_REBALANCE",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -59504,7 +59637,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_10_WARGAME_2",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -59665,7 +59798,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_12_WARGAME_6",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -59675,7 +59808,7 @@
                 "name": "TEXT_COS_WI_12_18_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 400
+                    "hp": 600
                 }
             }
         ]
@@ -59967,7 +60100,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_WI_15",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -59976,7 +60109,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_15_WORLDCUP",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -60136,7 +60269,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_16_WARGAME",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -60287,7 +60420,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_10_WI_18",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -60456,7 +60589,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_19_WARGAME",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -60606,7 +60739,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_21_FIFTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -61065,7 +61198,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_15_WI_25",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -61224,7 +61357,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_9_WI_26",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -61383,7 +61516,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_2020_UNSALE_WI_28",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             },
             {
@@ -61843,7 +61976,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_16_WI_31",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -61984,7 +62117,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_32_APFOOL",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -62134,7 +62267,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_17_WI_33",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -62284,7 +62417,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WI_34_SEVENTH",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -62575,7 +62708,7 @@
                 "cost": 1000,
                 "name": "TEXT_COS_EVENT_WARGAME_19_WI_37",
                 "stats": {
-                    "atk_power": 100
+                    "atk_power": 200
                 }
             }
         ]
@@ -62703,6 +62836,137 @@
                 "name": "TEXT_WEP_LEGEND_ST_CHA_6_39_NAME",
                 "image": "st_s6_39",
                 "ability": "TEXT_WEP_LEGEND_ST_CHA_6_39_DESC",
+                "star": 6,
+                "atk_power": 308,
+                "atk_speed": 0.8,
+                "class": "staff"
+            }
+        ],
+        "skins": []
+    },
+    {
+        "id": "thalia",
+        "readable_id": "thalia",
+        "class": "wizard",
+        "type": "contract",
+        "gender": "female",
+        "domain": "FREE",
+        "forms": [
+            {
+                "id": "CHA_WI_4_40",
+                "name": "TEXT_CHA_WI_4_40_NAME",
+                "image": "wi_4_40",
+                "star": 4,
+                "accuracy": 0,
+                "armor": 33.15,
+                "armor_pen": 0,
+                "atk_power": 867.1,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 2146.3,
+                "lifesteal": 0,
+                "resistance": 84.7275,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WI_4_40_DESC",
+                "block_image": "ui_skill_icon_wizard_talia",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_TALIA_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_TALIA_NAME",
+                "block_description": "TEXT_SKILL_WI_TALIA_DESC",
+                "passive_description": "TEXT_SKILL_WI_TALIA_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_WI_5_40",
+                "name": "TEXT_CHA_WI_5_40_NAME",
+                "image": "wi_5_40",
+                "star": 5,
+                "accuracy": 0,
+                "armor": 50.959999999999994,
+                "armor_pen": 0,
+                "atk_power": 1323,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 3360,
+                "lifesteal": 0,
+                "resistance": 143.045,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WI_5_40_DESC",
+                "block_image": "ui_skill_icon_wizard_talia",
+                "skill_lvl": 2,
+                "passive_name": "TEXT_SKILL_WI_TALIA_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_TALIA_NAME",
+                "block_description": "TEXT_SKILL_WI_TALIA_DESC",
+                "passive_description": "TEXT_SKILL_WI_TALIA_LV2_SUBDESC"
+            },
+            {
+                "id": "CHA_WI_6_40",
+                "name": "TEXT_CHA_WI_6_40_NAME",
+                "image": "wi_6_40",
+                "star": 6,
+                "accuracy": 0,
+                "armor": 73.94999999999999,
+                "armor_pen": 0,
+                "atk_power": 1894.5,
+                "crit_chance": 0.1,
+                "crit_chance_reduction": 0,
+                "crit_dmg": 0.5,
+                "dmg_reduction": 0,
+                "evasion": 0,
+                "hp": 4753.5,
+                "lifesteal": 0,
+                "resistance": 223.76250000000002,
+                "resistance_pen": 0,
+                "lore": "TEXT_CHA_WI_6_40_DESC",
+                "block_image": "ui_skill_icon_wizard_talia",
+                "skill_lvl": 3,
+                "passive_name": "TEXT_SKILL_WI_TALIA_SUBNAME",
+                "block_name": "TEXT_SKILL_WI_TALIA_NAME",
+                "block_description": "TEXT_SKILL_WI_TALIA_DESC",
+                "passive_description": "TEXT_SKILL_WI_TALIA_LV3_SUBDESC",
+                "max_berries": {
+                    "accuracy": 0.18,
+                    "armor": 20,
+                    "atk_power": 270,
+                    "crit_chance": 0.5,
+                    "crit_dmg": 0.9,
+                    "evasion": 0.18,
+                    "hp": 1000,
+                    "resistance": 50
+                }
+            }
+        ],
+        "sbws": [
+            {
+                "id": "WEP_LEGEND_ST_CHA_4_40",
+                "name": "TEXT_WEP_LEGEND_ST_CHA_4_40_NAME",
+                "image": "st_s4_40",
+                "ability": "TEXT_WEP_LEGEND_ST_CHA_4_40_DESC",
+                "star": 4,
+                "atk_power": 100,
+                "atk_speed": 0.8,
+                "class": "staff"
+            },
+            {
+                "id": "WEP_LEGEND_ST_CHA_5_40",
+                "name": "TEXT_WEP_LEGEND_ST_CHA_5_40_NAME",
+                "image": "st_s5_40",
+                "ability": "TEXT_WEP_LEGEND_ST_CHA_5_40_DESC",
+                "star": 5,
+                "atk_power": 180,
+                "atk_speed": 0.8,
+                "class": "staff"
+            },
+            {
+                "id": "WEP_LEGEND_ST_CHA_6_40",
+                "name": "TEXT_WEP_LEGEND_ST_CHA_6_40_NAME",
+                "image": "st_s6_40",
+                "ability": "TEXT_WEP_LEGEND_ST_CHA_6_40_DESC",
                 "star": 6,
                 "atk_power": 308,
                 "atk_speed": 0.8,
@@ -63282,7 +63546,7 @@
                 "name": "TEXT_COS_WI_LIMITED_ER_21_1",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -63424,7 +63688,7 @@
                 "name": "TEXT_COS_WI_LIMITED_GG4_12_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -63566,7 +63830,7 @@
                 "name": "TEXT_COS_WI_LIMITED_GG4_09_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -63708,7 +63972,7 @@
                 "name": "TEXT_COS_WI_LIMITED_GG4_10_NAME",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -64243,7 +64507,7 @@
                 "name": "TEXT_COS_WI_LIMITED_OT_02",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -64385,7 +64649,7 @@
                 "name": "TEXT_COS_WI_LIMITED_RZ_04",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]
@@ -64527,7 +64791,7 @@
                 "name": "TEXT_COS_WI_LIMITED_RZ_05",
                 "stats": {
                     "atk_power": 50,
-                    "hp": 200
+                    "hp": 600
                 }
             }
         ]

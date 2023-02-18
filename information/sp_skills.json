@@ -1354,6 +1354,34 @@
         ]
     },
     {
+        "id": "text_skill_wa_briseis_subname",
+        "name": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_BRISEIS_SPDESC_LV1",
+                "short_description": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
+                "image": "ui_skill_icon_warrior_briseis_ancient"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_briseis_subname",
+        "name": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_BRISEIS_SPDESC_LV2",
+                "short_description": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
+                "image": "ui_skill_icon_warrior_briseis_ancient"
+            }
+        ]
+    },
+    {
         "id": "text_skill_wa_crescent_rampage_name",
         "name": "TEXT_SKILL_WA_CRESCENT_RAMPAGE_NAME",
         "class": "warrior",
