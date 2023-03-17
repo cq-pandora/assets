@@ -804,6 +804,20 @@
         ]
     },
     {
+        "id": "text_skill_pa_special_limited_brsk_05_name",
+        "name": "TEXT_SKILL_PA_SPECIAL_LIMITED_BRSK_05_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_PA_SPECIAL_LIMITED_BRSK_05_SPDESC",
+                "short_description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_brsk_05"
+            }
+        ]
+    },
+    {
         "id": "text_skill_pa_orbital_hammer_name",
         "name": "TEXT_SKILL_PA_ORBITAL_HAMMER_NAME",
         "class": "paladin",
@@ -1544,6 +1558,34 @@
                 "description": "TEXT_SKILL_WA_FIRESHOT_LV3_DESC",
                 "short_description": "TEXT_PATTERN_PHYS_1_SPDESC",
                 "image": "ui_skill_icon_warrior_fireblade"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_special_limited_brsk_02_name",
+        "name": "TEXT_SKILL_WA_SPECIAL_LIMITED_BRSK_02_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_SPECIAL_LIMITED_BRSK_02_SPDESC",
+                "short_description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_warrior_brsk_02_ancient"
+            }
+        ]
+    },
+    {
+        "id": "text_skill_wa_special_limited_brsk_04_name",
+        "name": "TEXT_SKILL_WA_SPECIAL_LIMITED_BRSK_04_NAME",
+        "class": "warrior",
+        "type": "normal",
+        "forms": [
+            {
+                "level": 1,
+                "description": "TEXT_SKILL_WA_SPECIAL_LIMITED_BRSK_04_SPDESC",
+                "short_description": "TEXT_SKILL_AR_FASTSHOT_SPIRIT_SPDESC",
+                "image": "ui_skill_icon_brsk_04_02"
             }
         ]
     },

@@ -155,6 +155,12 @@
             "portrait_ertiger_default"
         ]
     },
+    "TEXT_CHA_PR_LIMITED_BRSK_6_06_NAME": {
+        "id": "ILLUST_COLLABO_FARNESE",
+        "keys": [
+            "portrait_farnese_default"
+        ]
+    },
     "TEXT_CHA_PA_LIMITED_GG4_6_01_NAME": {
         "id": "ILLUST_COLLABO_GG4FAUST",
         "keys": [
@@ -259,6 +265,12 @@
             "portrait_girl_default"
         ]
     },
+    "TEXT_CHA_WA_LIMITED_BRSK_6_02_NAME": {
+        "id": "ILLUST_COLLABO_GRIFFITH",
+        "keys": [
+            "portrait_griffith_default"
+        ]
+    },
     "TEXT_CHA_WI_LIMITED_GS_6_05_NAME": {
         "id": "ILLUST_COLLABO_GSDWARF",
         "keys": [
@@ -299,6 +311,18 @@
         "id": "ILLUST_COLLABO_GSSWORDMAIDEN",
         "keys": [
             "portrait_gsswordmaiden_default"
+        ]
+    },
+    "TEXT_CHA_WA_LIMITED_BRSK_6_01_NAME": {
+        "id": "ILLUST_COLLABO_GUTS",
+        "keys": [
+            "portrait_guts_default"
+        ]
+    },
+    "TEXT_CHA_AR_LIMITED_BRSK_6_07_NAME": {
+        "id": "ILLUST_COLLABO_ISIDRO",
+        "keys": [
+            "portrait_isidro_default"
         ]
     },
     "TEXT_CHA_PR_LIMITED_KOF2_ATHENA_NAME": {
@@ -505,6 +529,18 @@
             "portrait_rzsubaru_default"
         ]
     },
+    "TEXT_CHA_WI_LIMITED_BRSK_6_03_NAME": {
+        "id": "ILLUST_COLLABO_SCHIERKE",
+        "keys": [
+            "portrait_schierke_default"
+        ]
+    },
+    "TEXT_CHA_HU_LIMITED_BRSK_6_08_NAME": {
+        "id": "ILLUST_COLLABO_SERPICO",
+        "keys": [
+            "portrait_serpico_default"
+        ]
+    },
     "TEXT_CHA_PA_LIMITED_SH_6_03_NAME": {
         "id": "ILLUST_COLLABO_SHFILO",
         "keys": [
@@ -539,6 +575,12 @@
         "id": "ILLUST_COLLABO_SHRISHIA",
         "keys": [
             "portrait_shrishia_default"
+        ]
+    },
+    "TEXT_CHA_WA_LIMITED_BRSK_6_04_NAME": {
+        "id": "ILLUST_COLLABO_SKULLKNIGHT",
+        "keys": [
+            "portrait_skullknight_default"
         ]
     },
     "TEXT_CHA_WA_LIMITED_YS8_ADOL_NAME": {
@@ -581,6 +623,12 @@
         "id": "ILLUST_COLLABO_ZATO",
         "keys": [
             "portrait_zato_default"
+        ]
+    },
+    "TEXT_CHA_PA_LIMITED_BRSK_6_05_NAME": {
+        "id": "ILLUST_COLLABO_ZODD",
+        "keys": [
+            "portrait_zodd_default"
         ]
     },
     "TEXT_NPC_ARRAT_NAME": {
