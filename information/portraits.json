@@ -870,6 +870,12 @@
             "portrait_anne_default"
         ]
     },
+    "TEXT_CHA_PR_6_41_NAME": {
+        "id": "ILLUST_HERO_ANTHON",
+        "keys": [
+            "portrait_anthon_default"
+        ]
+    },
     "TEXT_CHA_WI_LIMITED_AUTUMN_6_ANZU_NAME": {
         "id": "ILLUST_HERO_ANZU",
         "keys": [
@@ -1083,6 +1089,12 @@
             "portrait_chocolat_default"
         ]
     },
+    "TEXT_CHA_WI_6_41_NAME": {
+        "id": "ILLUST_HERO_CHOIDEOKPAL",
+        "keys": [
+            "portrait_choideokpal_default"
+        ]
+    },
     "TEXT_CHA_AR_6_9_NAME": {
         "id": "ILLUST_HERO_CHUNHYANG",
         "keys": [
@@ -1129,8 +1141,7 @@
     "TEXT_CHA_HU_6_1_NAME": {
         "id": "ILLUST_HERO_DART",
         "keys": [
-            "portrait_dartmax_default",
-            "portrait_dart_default"
+            "portrait_dartmax_default"
         ]
     },
     "TEXT_CHA_HU_LIMITED_GOGI_6_DELRIEN_NAME": {
@@ -1166,8 +1177,7 @@
     "TEXT_CHA_WI_6_3_NAME": {
         "id": "ILLUST_HERO_DORO",
         "keys": [
-            "portrait_doromax_default",
-            "portrait_doro_default"
+            "portrait_doromax_default"
         ]
     },
     "TEXT_CHA_HU_6_15_NAME": {
@@ -1217,6 +1227,12 @@
         "id": "ILLUST_HERO_EUNGARAM",
         "keys": [
             "portrait_eungaram_default"
+        ]
+    },
+    "TEXT_CHA_PA_LIMITED_ENT_4_EVGENEIA_NAME": {
+        "id": "ILLUST_HERO_EVGENEIA",
+        "keys": [
+            "portrait_evgeneia_default"
         ]
     },
     "TEXT_CHA_PR_6_16_NAME": {
@@ -1277,6 +1293,12 @@
         "id": "ILLUST_HERO_GON",
         "keys": [
             "portrait_gon_default"
+        ]
+    },
+    "TEXT_CHA_WI_LIMITED_ENT_6_GORDIAN_NAME": {
+        "id": "ILLUST_HERO_GORDIAN",
+        "keys": [
+            "portrait_gordian_default"
         ]
     },
     "TEXT_CHA_WI_6_25_NAME": {
@@ -1374,7 +1396,14 @@
         "id": "ILLUST_HERO_HIMIKO",
         "keys": [
             "portrait_himiko_default",
-            "portrait_darkhimiko_default"
+            "portrait_darkhimiko_default",
+            "portrait_cos4himiko_default"
+        ]
+    },
+    "TEXT_CHA_AR_6_39_NAME": {
+        "id": "ILLUST_HERO_HINA",
+        "keys": [
+            "portrait_hina_default"
         ]
     },
     "TEXT_CHA_AR_LIMITED_6_1_NAME": {
@@ -1572,8 +1601,7 @@
     "TEXT_CHA_WA_6_1_NAME": {
         "id": "ILLUST_HERO_LEON",
         "keys": [
-            "portrait_leonmax_default",
-            "portrait_leon_default_pdr"
+            "portrait_leonmax_default"
         ]
     },
     "TEXT_CHA_WA_LIMITED_EIGHTH_6_LEONIA_NAME": {
@@ -1586,6 +1614,12 @@
         "id": "ILLUST_HERO_LILITH",
         "keys": [
             "portrait_lilith_default"
+        ]
+    },
+    "TEXT_CHA_HU_6_40_NAME": {
+        "id": "ILLUST_HERO_LIME",
+        "keys": [
+            "portrait_lime_default"
         ]
     },
     "TEXT_CHA_AR_6_25_NAME": {
@@ -1815,7 +1849,8 @@
     "TEXT_CHA_WI_6_8_NAME": {
         "id": "ILLUST_HERO_NAZRUNE",
         "keys": [
-            "portrait_nazrune_default"
+            "portrait_nazrune_default",
+            "portrait_cos4nazrune_default"
         ]
     },
     "TEXT_CHA_WI_LIMITED_EQUIP_6_NEBULA_NAME": {
@@ -1834,6 +1869,12 @@
         "id": "ILLUST_HERO_NEFER",
         "keys": [
             "portrait_nefer_default"
+        ]
+    },
+    "TEXT_CHA_HU_6_39_NAME": {
+        "id": "ILLUST_HERO_NENE",
+        "keys": [
+            "portrait_nene_default"
         ]
     },
     "TEXT_CHA_PA_6_36_NAME": {
@@ -1936,6 +1977,12 @@
         "id": "ILLUST_HERO_PIUS",
         "keys": [
             "portrait_pius_default"
+        ]
+    },
+    "TEXT_CHA_WI_UNIQUE_6_PRYDWEN_NAME": {
+        "id": "ILLUST_HERO_PRYDWEN",
+        "keys": [
+            "portrait_prydwen_default"
         ]
     },
     "TEXT_CHA_PA_LIMITED_LASTSOUL_6_PUMPKING_NAME": {
@@ -2171,8 +2218,7 @@
     "TEXT_CHA_AR_6_3_NAME": {
         "id": "ILLUST_HERO_SIGRUNA",
         "keys": [
-            "portrait_sigrunamax_default",
-            "portrait_sigruna_default"
+            "portrait_sigrunamax_default"
         ]
     },
     "TEXT_CHA_HU_6_30_NAME": {
@@ -2293,6 +2339,12 @@
         "id": "ILLUST_HERO_TIA",
         "keys": [
             "portrait_tia_default"
+        ]
+    },
+    "TEXT_CHA_WA_6_41_NAME": {
+        "id": "ILLUST_HERO_TRAMONTANA",
+        "keys": [
+            "portrait_tramontana_default"
         ]
     },
     "TEXT_CHA_WA_3_KURENAI_NAME": {
