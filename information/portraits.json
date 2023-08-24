@@ -1101,6 +1101,12 @@
             "portrait_chunhyang_default"
         ]
     },
+    "TEXT_CHA_WA_LIMITED_AUCTION_6_CHUNMA_NAME": {
+        "id": "ILLUST_HERO_CHUNMA",
+        "keys": [
+            "portrait_chunma_default"
+        ]
+    },
     "TEXT_CHA_AR_LIMITED_RB2_6_01_NAME": {
         "id": "ILLUST_HERO_CINDER_RB2",
         "keys": [
@@ -1661,9 +1667,9 @@
         ]
     },
     "TEXT_CHA_HU_6_16_NAME": {
-        "id": "ILLUST_HERO_LORELEI",
+        "id": "ILLUST_NPC_LORELEI",
         "keys": [
-            "portrait_lorelei_default"
+            "portrait_auctionlorelei_default"
         ]
     },
     "TEXT_CHA_WI_UNIQUE_6_LOVIATAR_NAME": {
@@ -1808,6 +1814,12 @@
         "id": "ILLUST_HERO_MIEL",
         "keys": [
             "portrait_miel_default"
+        ]
+    },
+    "TEXT_CHA_HU_LIMITED_AUCTION_6_MILADY_NAME": {
+        "id": "ILLUST_HERO_MILADY",
+        "keys": [
+            "portrait_milady_default"
         ]
     },
     "TEXT_CHA_HU_6_19_NAME": {
@@ -2560,7 +2572,8 @@
     "TEXT_NPC_ORCHARD_NAME": {
         "id": "ILLUST_NPC_LENI",
         "keys": [
-            "portrait_leni_default"
+            "portrait_leni_default",
+            "portrait_auctionleni_default"
         ]
     },
     "TEXT_NPC_HW_OZMA": {
