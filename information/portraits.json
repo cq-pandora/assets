@@ -891,7 +891,8 @@
     "TEXT_CHA_HU_6_31_NAME": {
         "id": "ILLUST_HERO_ARAMIS",
         "keys": [
-            "portrait_aramis_default"
+            "portrait_aramis_default",
+            "portrait_cos5aramis_default"
         ]
     },
     "TEXT_CHA_WI_6_1_NAME": {
@@ -1092,7 +1093,8 @@
     "TEXT_CHA_WI_6_41_NAME": {
         "id": "ILLUST_HERO_CHOIDEOKPAL",
         "keys": [
-            "portrait_choideokpal_default"
+            "portrait_choideokpal_default",
+            "portrait_cos5choideokpal_default"
         ]
     },
     "TEXT_CHA_AR_6_9_NAME": {

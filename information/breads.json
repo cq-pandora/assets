@@ -620,6 +620,56 @@
         "sell_cost": 1004
     },
     {
+        "id": "BREAD_SONGPYEON_01",
+        "name": "TEXT_BREAD_SONGPYEON_01_NAME",
+        "rarity": "epic",
+        "value": 815,
+        "great_chance": 1,
+        "grade": 5,
+        "image": "bread_songpyeon_01",
+        "sell_cost": 815
+    },
+    {
+        "id": "BREAD_SONGPYEON_02",
+        "name": "TEXT_BREAD_SONGPYEON_02_NAME",
+        "rarity": "epic",
+        "value": 1000,
+        "great_chance": 0.7,
+        "grade": 5,
+        "image": "bread_songpyeon_02",
+        "sell_cost": 815
+    },
+    {
+        "id": "BREAD_SONGPYEON_03",
+        "name": "TEXT_BREAD_SONGPYEON_03_NAME",
+        "rarity": "epic",
+        "value": 1500,
+        "great_chance": 0.5,
+        "grade": 5,
+        "image": "bread_songpyeon_03",
+        "sell_cost": 815
+    },
+    {
+        "id": "BREAD_SONGPYEON_04",
+        "name": "TEXT_BREAD_SONGPYEON_04_NAME",
+        "rarity": "epic",
+        "value": 1800,
+        "great_chance": 0.3,
+        "grade": 5,
+        "image": "bread_songpyeon_04",
+        "sell_cost": 815
+    },
+    {
+        "id": "BREAD_SONGPYEON_05",
+        "name": "TEXT_BREAD_SONGPYEON_05_NAME",
+        "rarity": "epic",
+        "value": 2200,
+        "great_chance": 0,
+        "grade": 5,
+        "image": "bread_songpyeon_05",
+        "sell_cost": 815
+    },
+    {
         "id": "BREAD_TIRAMISU",
         "name": "TEXT_BREAD_TIRAMISU_NAME",
         "rarity": "rare",
