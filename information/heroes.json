@@ -2267,7 +2267,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "42",
+            "birthday": "4/18",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_3",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_3",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_3",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_3",
+            "oztalk": false
+        }
     },
     {
         "id": "demona",
@@ -2539,7 +2548,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "12",
+            "birthday": "6/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_11",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_11",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_11",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_11",
+            "oztalk": false
+        }
     },
     {
         "id": "green_elf",
@@ -2788,7 +2806,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "7/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_12",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_12",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_12",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_12",
+            "oztalk": false
+        }
     },
     {
         "id": "hong-ran",
@@ -2959,7 +2986,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "8/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_LIMITED_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_LIMITED_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_LIMITED_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_LIMITED_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "djura",
@@ -3130,7 +3166,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_LIMITED_EQUIP_6_DJURA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_LIMITED_EQUIP_6_DJURA",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_LIMITED_EQUIP_6_DJURA",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_LIMITED_EQUIP_6_DJURA",
+            "oztalk": false
+        }
     },
     {
         "id": "bera",
@@ -3301,7 +3346,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "14",
+            "birthday": "4/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_LIMITED_BEARS_6_BERA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_LIMITED_BEARS_6_BERA",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_LIMITED_BEARS_6_BERA",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_LIMITED_BEARS_6_BERA",
+            "oztalk": false
+        }
     },
     {
         "id": "almael",
@@ -3472,7 +3526,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "1/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_LIMITED_GOGI_6_ALMAEL",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_LIMITED_GOGI_6_ALMAEL",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_LIMITED_GOGI_6_ALMAEL",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_LIMITED_GOGI_6_ALMAEL",
+            "oztalk": false
+        }
     },
     {
         "id": "gon",
@@ -3662,7 +3725,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "6/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "hikari",
@@ -3863,7 +3935,16 @@
                     "crit_chance": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "6/20",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_7",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_7",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_7",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_7",
+            "oztalk": false
+        }
     },
     {
         "id": "arona",
@@ -4044,7 +4125,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "4/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_9",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_9",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_9",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_9",
+            "oztalk": false
+        }
     },
     {
         "id": "magnus",
@@ -4234,7 +4324,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "72",
+            "birthday": "9/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_10",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_10",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_10",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_10",
+            "oztalk": false
+        }
     },
     {
         "id": "atalante",
@@ -4415,7 +4514,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "8/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_13",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_13",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_13",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_13",
+            "oztalk": false
+        }
     },
     {
         "id": "lee",
@@ -4596,7 +4704,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "5/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_15",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_15",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_15",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_15",
+            "oztalk": false
+        }
     },
     {
         "id": "rahima",
@@ -4786,7 +4903,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "9/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_16",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_16",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_16",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_16",
+            "oztalk": false
+        }
     },
     {
         "id": "kaguya",
@@ -4975,7 +5101,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "5/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_18",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_18",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_18",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_18",
+            "oztalk": false
+        }
     },
     {
         "id": "chiron",
@@ -5155,7 +5290,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "40",
+            "birthday": "8/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_19",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_19",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_19",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_19",
+            "oztalk": false
+        }
     },
     {
         "id": "set",
@@ -5335,7 +5479,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "32",
+            "birthday": "3/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_21",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_21",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_21",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_21",
+            "oztalk": false
+        }
     },
     {
         "id": "genevie",
@@ -5524,7 +5677,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "34",
+            "birthday": "11/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_22",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_22",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_22",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_22",
+            "oztalk": false
+        }
     },
     {
         "id": "arachne",
@@ -5713,7 +5875,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "8/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_24",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_24",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_24",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_24",
+            "oztalk": false
+        }
     },
     {
         "id": "lindsey",
@@ -5893,7 +6064,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "8/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_25",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_25",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_25",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_25",
+            "oztalk": false
+        }
     },
     {
         "id": "haerang",
@@ -6082,7 +6262,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "5/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_26",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_26",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_26",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_26",
+            "oztalk": false
+        }
     },
     {
         "id": "malkah",
@@ -6271,7 +6460,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "1/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_28",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_28",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_28",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_28",
+            "oztalk": false
+        }
     },
     {
         "id": "ran",
@@ -6460,7 +6658,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "10/19",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_29",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_29",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_29",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_29",
+            "oztalk": false
+        }
     },
     {
         "id": "aurea",
@@ -6640,7 +6847,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "2/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_30",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_30",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_30",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_30",
+            "oztalk": false
+        }
     },
     {
         "id": "meleager",
@@ -6829,7 +7045,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "7/2",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_31",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_31",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_31",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_31",
+            "oztalk": false
+        }
     },
     {
         "id": "miel",
@@ -7009,7 +7234,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "2/3",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_32",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_32",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_32",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_32",
+            "oztalk": false
+        }
     },
     {
         "id": "iris",
@@ -7189,7 +7423,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "4/17",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_33",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_33",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_33",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_33",
+            "oztalk": false
+        }
     },
     {
         "id": "nottingham",
@@ -7360,7 +7603,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "4/23",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_35",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_35",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_35",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_35",
+            "oztalk": false
+        }
     },
     {
         "id": "xiaohui_tang",
@@ -7531,7 +7783,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "4/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_36",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_36",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_36",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_36",
+            "oztalk": false
+        }
     },
     {
         "id": "thehyss",
@@ -7711,7 +7972,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "5/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_37",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_37",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_37",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_37",
+            "oztalk": true
+        }
     },
     {
         "id": "hina",
@@ -7882,7 +8152,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "11",
+            "birthday": "5/2",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_39",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_39",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_39",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_39",
+            "oztalk": true
+        }
     },
     {
         "id": "hanzo",
@@ -8064,7 +8343,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "32",
+            "birthday": "9/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_2",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_2",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_2",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_2",
+            "oztalk": false
+        }
     },
     {
         "id": "robin_hood",
@@ -8255,7 +8543,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "11/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_4",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_4",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_4",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_4",
+            "oztalk": false
+        }
     },
     {
         "id": "r_-_9999",
@@ -8437,7 +8734,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "7",
+            "birthday": "9/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_5",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_5",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_5",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_5",
+            "oztalk": false
+        }
     },
     {
         "id": "giparang",
@@ -8619,7 +8925,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "31",
+            "birthday": "9/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_6",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_6",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_6",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_6",
+            "oztalk": false
+        }
     },
     {
         "id": "niven",
@@ -8800,7 +9115,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "31",
+            "birthday": "10/19",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_8",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_8",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_8",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_8",
+            "oztalk": false
+        }
     },
     {
         "id": "mamba",
@@ -8991,7 +9315,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "3/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_14",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_14",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_14",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_14",
+            "oztalk": false
+        }
     },
     {
         "id": "viola",
@@ -9181,7 +9514,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "15",
+            "birthday": "7/28",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_17",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_17",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_17",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_17",
+            "oztalk": false
+        }
     },
     {
         "id": "hansung",
@@ -9361,7 +9703,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "60",
+            "birthday": "10/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_20",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_20",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_20",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_20",
+            "oztalk": false
+        }
     },
     {
         "id": "panpan",
@@ -9550,7 +9901,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "6/30",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_AR_6_23",
+            "likes": "TEXT_PROFILE_LIKES_CHA_AR_6_23",
+            "hates": "TEXT_PROFILE_HATES_CHA_AR_6_23",
+            "notes": "TEXT_PROFILE_ETC_CHA_AR_6_23",
+            "oztalk": false
+        }
     },
     {
         "id": "isidro",
@@ -12976,7 +13336,16 @@
                     "crit_dmg": 0.2
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "4/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "teresa",
@@ -13348,7 +13717,16 @@
                     "crit_dmg": 0.2
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "12/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_11",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_11",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_11",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_11",
+            "oztalk": false
+        }
     },
     {
         "id": "a.k.a._santa",
@@ -13675,7 +14053,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "3/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_LIMITED_AUCTION_6_MILADY",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_LIMITED_AUCTION_6_MILADY",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_LIMITED_AUCTION_6_MILADY",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_LIMITED_AUCTION_6_MILADY",
+            "oztalk": true
+        }
     },
     {
         "id": "beron",
@@ -13846,7 +14233,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "8",
+            "birthday": "2/27",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_LIMITED_BEARS_6_BERON",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_LIMITED_BEARS_6_BERON",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_LIMITED_BEARS_6_BERON",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_LIMITED_BEARS_6_BERON",
+            "oztalk": false
+        }
     },
     {
         "id": "schild",
@@ -14017,7 +14413,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_LIMITED_COUPLE_6_SCHILD",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_LIMITED_COUPLE_6_SCHILD",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_LIMITED_COUPLE_6_SCHILD",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_LIMITED_COUPLE_6_SCHILD",
+            "oztalk": false
+        }
     },
     {
         "id": "lasirenne",
@@ -14188,7 +14593,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "33",
+            "birthday": "10/30",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_LIMITED_FOURWEEK_6_LASIRENE",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_LIMITED_FOURWEEK_6_LASIRENE",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_LIMITED_FOURWEEK_6_LASIRENE",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_LIMITED_FOURWEEK_6_LASIRENE",
+            "oztalk": false
+        }
     },
     {
         "id": "delrien",
@@ -14359,7 +14773,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "2/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_LIMITED_GOGI_6_DELRIEN",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_LIMITED_GOGI_6_DELRIEN",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_LIMITED_GOGI_6_DELRIEN",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_LIMITED_GOGI_6_DELRIEN",
+            "oztalk": false
+        }
     },
     {
         "id": "olga",
@@ -14530,7 +14953,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "4",
+            "birthday": "5/12",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_LIMITED_TNT_6_ORGA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_LIMITED_TNT_6_ORGA",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_LIMITED_TNT_6_ORGA",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_LIMITED_TNT_6_ORGA",
+            "oztalk": false
+        }
     },
     {
         "id": "viper",
@@ -14711,7 +15143,16 @@
                     "crit_dmg": 0.3
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "59",
+            "birthday": "3/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_4",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_4",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_4",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_4",
+            "oztalk": false
+        }
     },
     {
         "id": "no._9",
@@ -14902,7 +15343,16 @@
                     "crit_dmg": 0.35
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "6/18",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_7",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_7",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_7",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_7",
+            "oztalk": false
+        }
     },
     {
         "id": "mandy",
@@ -15084,7 +15534,16 @@
                     "hp": 800
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "15",
+            "birthday": "6/2",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_9",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_9",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_9",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_9",
+            "oztalk": false
+        }
     },
     {
         "id": "wilhelm",
@@ -15264,7 +15723,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "34",
+            "birthday": "1/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_10",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_10",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_10",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_10",
+            "oztalk": false
+        }
     },
     {
         "id": "saiga",
@@ -15445,7 +15913,16 @@
                     "armor": 110
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "4/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_12",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_12",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_12",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_12",
+            "oztalk": false
+        }
     },
     {
         "id": "tia",
@@ -15635,7 +16112,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "10/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_13",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_13",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_13",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_13",
+            "oztalk": false
+        }
     },
     {
         "id": "dox",
@@ -15825,7 +16311,16 @@
                     "accuracy": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "1/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_15",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_15",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_15",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_15",
+            "oztalk": false
+        }
     },
     {
         "id": "lorelei",
@@ -16016,7 +16511,16 @@
                     "resistance": 100
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "5/3",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_16",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_16",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_16",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_16",
+            "oztalk": false
+        }
     },
     {
         "id": "raven",
@@ -16196,7 +16700,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "7/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_18",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_18",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_18",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_18",
+            "oztalk": false
+        }
     },
     {
         "id": "momotaro",
@@ -16385,7 +16898,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "23",
+            "birthday": "7/16",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_19",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_19",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_19",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_19",
+            "oztalk": false
+        }
     },
     {
         "id": "athos",
@@ -16574,7 +17096,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "17",
+            "birthday": "10/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_21",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_21",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_21",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_21",
+            "oztalk": false
+        }
     },
     {
         "id": "zahard",
@@ -16754,7 +17285,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "5/18",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_22",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_22",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_22",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_22",
+            "oztalk": false
+        }
     },
     {
         "id": "jet",
@@ -16934,7 +17474,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "1/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_24",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_24",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_24",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_24",
+            "oztalk": false
+        }
     },
     {
         "id": "carol",
@@ -17123,7 +17672,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "2/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_25",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_25",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_25",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_25",
+            "oztalk": false
+        }
     },
     {
         "id": "lyudmilla",
@@ -17303,7 +17861,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "7/12",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_26",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_26",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_26",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_26",
+            "oztalk": false
+        }
     },
     {
         "id": "cindy",
@@ -17483,7 +18050,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "3/28",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_28",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_28",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_28",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_28",
+            "oztalk": false
+        }
     },
     {
         "id": "malsook",
@@ -17672,7 +18248,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "41",
+            "birthday": "11/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_29",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_29",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_29",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_29",
+            "oztalk": true
+        }
     },
     {
         "id": "silver",
@@ -17852,7 +18437,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "6/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_30",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_30",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_30",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_30",
+            "oztalk": false
+        }
     },
     {
         "id": "aramis",
@@ -18042,7 +18636,16 @@
                     "crit_dmg": 0.3
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "32",
+            "birthday": "7/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_31",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_31",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_31",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_31",
+            "oztalk": false
+        }
     },
     {
         "id": "jeomrye",
@@ -18222,7 +18825,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "9/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_32",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_32",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_32",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_32",
+            "oztalk": false
+        }
     },
     {
         "id": "luca",
@@ -18402,7 +19014,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "2/17",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_33",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_33",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_33",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_33",
+            "oztalk": false
+        }
     },
     {
         "id": "svenja",
@@ -18582,7 +19203,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "1/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_34",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_34",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_34",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_34",
+            "oztalk": false
+        }
     },
     {
         "id": "anima",
@@ -18753,7 +19383,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "10/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_35",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_35",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_35",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_35",
+            "oztalk": false
+        }
     },
     {
         "id": "anne",
@@ -18933,7 +19572,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "4/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_37",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_37",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_37",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_37",
+            "oztalk": false
+        }
     },
     {
         "id": "nene",
@@ -19104,7 +19752,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "6/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_39",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_39",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_39",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_39",
+            "oztalk": true
+        }
     },
     {
         "id": "lime",
@@ -19275,7 +19932,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_40",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_40",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_40",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_40",
+            "oztalk": true
+        }
     },
     {
         "id": "tess",
@@ -19446,7 +20112,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "4/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_36",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_36",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_36",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_36",
+            "oztalk": false
+        }
     },
     {
         "id": "ag01-neo",
@@ -19580,7 +20255,16 @@
                 "class": "gun"
             }
         ],
-        "skins": []
+        "skins": [],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_ARMOR_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_ARMOR_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_ARMOR_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_ARMOR_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "ag02-layla",
@@ -19714,7 +20398,16 @@
                 "class": "gun"
             }
         ],
-        "skins": []
+        "skins": [],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_ARMOR_6_2",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_ARMOR_6_2",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_ARMOR_6_2",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_ARMOR_6_2",
+            "oztalk": false
+        }
     },
     {
         "id": "ag03-mel",
@@ -19848,7 +20541,16 @@
                 "class": "gun"
             }
         ],
-        "skins": []
+        "skins": [],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_ARMOR_6_3",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_ARMOR_6_3",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_ARMOR_6_3",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_ARMOR_6_3",
+            "oztalk": false
+        }
     },
     {
         "id": "maxi",
@@ -20037,7 +20739,16 @@
                     "crit_dmg": 0.4
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "7/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_2",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_2",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_2",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_2",
+            "oztalk": false
+        }
     },
     {
         "id": "spyro",
@@ -20219,7 +20930,16 @@
                     "crit_dmg": 0.2
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "55",
+            "birthday": "8/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_3",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_3",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_3",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_3",
+            "oztalk": false
+        }
     },
     {
         "id": "crow",
@@ -20400,7 +21120,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "38",
+            "birthday": "11/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_5",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_5",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_5",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_5",
+            "oztalk": false
+        }
     },
     {
         "id": "vincent",
@@ -20581,7 +21310,16 @@
                     "armor": 110
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "42",
+            "birthday": "10/3",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_6",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_6",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_6",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_6",
+            "oztalk": false
+        }
     },
     {
         "id": "sentinel_d",
@@ -20762,7 +21500,16 @@
                     "crit_dmg": 0.3
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "7",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_8",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_8",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_8",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_8",
+            "oztalk": false
+        }
     },
     {
         "id": "spiny",
@@ -20961,7 +21708,16 @@
                     "crit_dmg": 0.3
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "2/17",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_14",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_14",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_14",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_14",
+            "oztalk": false
+        }
     },
     {
         "id": "scarlet",
@@ -21142,7 +21898,16 @@
                     "hp": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "31",
+            "birthday": "12/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_17",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_17",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_17",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_17",
+            "oztalk": false
+        }
     },
     {
         "id": "luicilla",
@@ -21322,7 +22087,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "8/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_20",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_20",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_20",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_20",
+            "oztalk": false
+        }
     },
     {
         "id": "bellerophon",
@@ -21502,7 +22276,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "12/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_HU_6_23",
+            "likes": "TEXT_PROFILE_LIKES_CHA_HU_6_23",
+            "hates": "TEXT_PROFILE_HATES_CHA_HU_6_23",
+            "notes": "TEXT_PROFILE_ETC_CHA_HU_6_23",
+            "oztalk": false
+        }
     },
     {
         "id": "serpico",
@@ -24790,7 +25573,16 @@
                     "crit_chance": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "37",
+            "birthday": "10/3",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_5",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_5",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_5",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_5",
+            "oztalk": false
+        }
     },
     {
         "id": "roland",
@@ -25066,7 +25858,16 @@
                     "hp": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "10/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_11",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_11",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_11",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_11",
+            "oztalk": false
+        }
     },
     {
         "id": "fergusroid",
@@ -25396,7 +26197,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "17",
+            "birthday": "5/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_12",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_12",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_12",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_12",
+            "oztalk": false
+        }
     },
     {
         "id": "jin-kyung",
@@ -25570,7 +26380,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "11/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_LIMITED_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_LIMITED_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_LIMITED_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_LIMITED_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "skadi",
@@ -25745,7 +26564,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_LIMITED_EIGHTH_6_SKADI",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_LIMITED_EIGHTH_6_SKADI",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_LIMITED_EIGHTH_6_SKADI",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_LIMITED_EIGHTH_6_SKADI",
+            "oztalk": false
+        }
     },
     {
         "id": "evgenia",
@@ -25920,7 +26748,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "81",
+            "birthday": "5/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_LIMITED_ENT_6_EVGENEIA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_LIMITED_ENT_6_EVGENEIA",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_LIMITED_ENT_6_EVGENEIA",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_LIMITED_ENT_6_EVGENEIA",
+            "oztalk": true
+        }
     },
     {
         "id": "nari",
@@ -26094,7 +26931,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "17",
+            "birthday": "3/30",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_LIMITED_APFOOL_6_NARI",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_LIMITED_APFOOL_6_NARI",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_LIMITED_APFOOL_6_NARI",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_LIMITED_APFOOL_6_NARI",
+            "oztalk": false
+        }
     },
     {
         "id": "pumpking",
@@ -26268,7 +27114,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "3",
+            "birthday": "7/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_LIMITED_LASTSOUL_6_PUMPKING",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_LIMITED_LASTSOUL_6_PUMPKING",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_LIMITED_LASTSOUL_6_PUMPKING",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_LIMITED_LASTSOUL_6_PUMPKING",
+            "oztalk": false
+        }
     },
     {
         "id": "umrat",
@@ -26433,7 +27288,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_UNIQUE_6_UMRAT",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_UNIQUE_6_UMRAT",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_UNIQUE_6_UMRAT",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_UNIQUE_6_UMRAT",
+            "oztalk": false
+        }
     },
     {
         "id": "thor",
@@ -26627,7 +27491,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "45",
+            "birthday": "7/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "alexander",
@@ -26831,7 +27704,16 @@
                     "hp": 800
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "54",
+            "birthday": "7/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_2",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_2",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_2",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_2",
+            "oztalk": false
+        }
     },
     {
         "id": "achilles",
@@ -27015,7 +27897,16 @@
                     "crit_chance": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "12/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_3",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_3",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_3",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_3",
+            "oztalk": false
+        }
     },
     {
         "id": "pirate_drake",
@@ -27209,7 +28100,16 @@
                     "crit_dmg": 0.2
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "72",
+            "birthday": "1/28",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_4",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_4",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_4",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_4",
+            "oztalk": false
+        }
     },
     {
         "id": "stanya",
@@ -27403,7 +28303,16 @@
                     "accuracy": 0.15
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "4/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_8",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_8",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_8",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_8",
+            "oztalk": false
+        }
     },
     {
         "id": "athena",
@@ -27588,7 +28497,16 @@
                     "accuracy": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "35",
+            "birthday": "12/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_14",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_14",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_14",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_14",
+            "oztalk": false
+        }
     },
     {
         "id": "captain",
@@ -27772,7 +28690,16 @@
                     "evasion": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "7/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_17",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_17",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_17",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_17",
+            "oztalk": false
+        }
     },
     {
         "id": "lei_ling",
@@ -27966,7 +28893,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "2/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_20",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_20",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_20",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_20",
+            "oztalk": false
+        }
     },
     {
         "id": "heim",
@@ -28150,7 +29086,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "225",
+            "birthday": "9/23",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_23",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_23",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_23",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_23",
+            "oztalk": false
+        }
     },
     {
         "id": "vane",
@@ -28334,7 +29279,16 @@
                     "evasion": 0.07
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_6",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_6",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_6",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_6",
+            "oztalk": false
+        }
     },
     {
         "id": "cain",
@@ -28519,7 +29473,16 @@
                     "armor": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "4/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_7",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_7",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_7",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_7",
+            "oztalk": false
+        }
     },
     {
         "id": "mundeok",
@@ -28704,7 +29667,16 @@
                     "armor": 100
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "35",
+            "birthday": "6/12",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_9",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_9",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_9",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_9",
+            "oztalk": false
+        }
     },
     {
         "id": "v",
@@ -28915,7 +29887,16 @@
                     "accuracy": 0.06
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "7",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_10",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_10",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_10",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_10",
+            "oztalk": false
+        }
     },
     {
         "id": "hector",
@@ -29100,7 +30081,16 @@
                     "evasion": 0.08
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "11/30",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_13",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_13",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_13",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_13",
+            "oztalk": false
+        }
     },
     {
         "id": "siegfried",
@@ -29285,7 +30275,16 @@
                     "armor": 100
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "37(31)",
+            "birthday": "6/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_15",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_15",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_15",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_15",
+            "oztalk": false
+        }
     },
     {
         "id": "dullahan",
@@ -29470,7 +30469,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_16",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_16",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_16",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_16",
+            "oztalk": false
+        }
     },
     {
         "id": "wolfgang",
@@ -29655,7 +30663,16 @@
                     "evasion": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "37",
+            "birthday": "2/17",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_18",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_18",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_18",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_18",
+            "oztalk": false
+        }
     },
     {
         "id": "fenrir",
@@ -29857,7 +30874,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "11/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_19",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_19",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_19",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_19",
+            "oztalk": true
+        }
     },
     {
         "id": "schula",
@@ -30051,7 +31077,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "72",
+            "birthday": "2/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_21",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_21",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_21",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_21",
+            "oztalk": false
+        }
     },
     {
         "id": "mengqi",
@@ -30236,7 +31271,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "10/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_22",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_22",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_22",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_22",
+            "oztalk": false
+        }
     },
     {
         "id": "yuna",
@@ -30421,7 +31465,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "1/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_24",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_24",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_24",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_24",
+            "oztalk": true
+        }
     },
     {
         "id": "caeneus",
@@ -30605,7 +31658,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "3/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_25",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_25",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_25",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_25",
+            "oztalk": false
+        }
     },
     {
         "id": "odin",
@@ -30799,7 +31861,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "48",
+            "birthday": "8/19",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_26",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_26",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_26",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_26",
+            "oztalk": false
+        }
     },
     {
         "id": "fireaxe",
@@ -30984,7 +32055,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "8/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_28",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_28",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_28",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_28",
+            "oztalk": false
+        }
     },
     {
         "id": "shuwen",
@@ -31168,7 +32248,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "60",
+            "birthday": "12/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_29",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_29",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_29",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_29",
+            "oztalk": false
+        }
     },
     {
         "id": "lion_mask",
@@ -31362,7 +32451,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "80",
+            "birthday": "2/18",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_30",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_30",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_30",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_30",
+            "oztalk": false
+        }
     },
     {
         "id": "cecilia",
@@ -31547,7 +32645,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "11/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_31",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_31",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_31",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_31",
+            "oztalk": false
+        }
     },
     {
         "id": "luci",
@@ -31731,7 +32838,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "120",
+            "birthday": "9/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_32",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_32",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_32",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_32",
+            "oztalk": false
+        }
     },
     {
         "id": "otis",
@@ -31915,7 +33031,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "55",
+            "birthday": "5/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_33",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_33",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_33",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_33",
+            "oztalk": false
+        }
     },
     {
         "id": "ozma",
@@ -32099,7 +33224,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "5/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_34",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_34",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_34",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_34",
+            "oztalk": true
+        }
     },
     {
         "id": "snorri",
@@ -32274,7 +33408,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "7/28",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_35",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_35",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_35",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_35",
+            "oztalk": false
+        }
     },
     {
         "id": "uzume",
@@ -32458,7 +33601,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "1/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_37",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_37",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_37",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_37",
+            "oztalk": true
+        }
     },
     {
         "id": "nico",
@@ -32641,7 +33793,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "16",
+            "birthday": "12/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_39",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_39",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_39",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_39",
+            "oztalk": false
+        }
     },
     {
         "id": "kumori",
@@ -32816,7 +33977,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "5",
+            "birthday": "8/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_40",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_40",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_40",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_40",
+            "oztalk": true
+        }
     },
     {
         "id": "neulsolgil",
@@ -33000,7 +34170,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "1/19",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PA_6_36",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PA_6_36",
+            "hates": "TEXT_PROFILE_HATES_CHA_PA_6_36",
+            "notes": "TEXT_PROFILE_ETC_CHA_PA_6_36",
+            "oztalk": false
+        }
     },
     {
         "id": "zodd",
@@ -38239,7 +39418,16 @@
                     "resistance": 150
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "10/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_2",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_2",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_2",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_2",
+            "oztalk": false
+        }
     },
     {
         "id": "melissa",
@@ -38514,7 +39702,16 @@
                     "crit_chance": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "6/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_11",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_11",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_11",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_11",
+            "oztalk": false
+        }
     },
     {
         "id": "a.k.a._rudolph",
@@ -38805,7 +40002,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "15",
+            "birthday": "11/30",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_LIMITED_APFOOL_6_HARUKI",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_LIMITED_APFOOL_6_HARUKI",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_LIMITED_APFOOL_6_HARUKI",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_LIMITED_APFOOL_6_HARUKI",
+            "oztalk": false
+        }
     },
     {
         "id": "krampus",
@@ -38979,7 +40185,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "8",
+            "birthday": "12/24",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_LIMITED_AUTO_6_KRAMPUS",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_LIMITED_AUTO_6_KRAMPUS",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_LIMITED_AUTO_6_KRAMPUS",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_LIMITED_AUTO_6_KRAMPUS",
+            "oztalk": false
+        }
     },
     {
         "id": "kaede",
@@ -39153,7 +40368,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "2",
+            "birthday": "7/16",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_LIMITED_AUTUMN_6_KAEDE",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_LIMITED_AUTUMN_6_KAEDE",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_LIMITED_AUTUMN_6_KAEDE",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_LIMITED_AUTUMN_6_KAEDE",
+            "oztalk": false
+        }
     },
     {
         "id": "francesca",
@@ -39327,7 +40551,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "16",
+            "birthday": "5/27",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_LIMITED_EAST_6_FRANCESCA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_LIMITED_EAST_6_FRANCESCA",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_LIMITED_EAST_6_FRANCESCA",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_LIMITED_EAST_6_FRANCESCA",
+            "oztalk": false
+        }
     },
     {
         "id": "chocolat",
@@ -39461,7 +40694,16 @@
                 "class": "orb"
             }
         ],
-        "skins": []
+        "skins": [],
+        "profile": {
+            "age": "17",
+            "birthday": "2/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_LIMITED_SEVENTH_6_CHOCOLA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_LIMITED_SEVENTH_6_CHOCOLA",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_LIMITED_SEVENTH_6_CHOCOLA",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_LIMITED_SEVENTH_6_CHOCOLA",
+            "oztalk": false
+        }
     },
     {
         "id": "lacrimoso",
@@ -39635,7 +40877,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_LIMITED_TRADE_6_LACRIMOSO",
+            "oztalk": false
+        }
     },
     {
         "id": "ellie",
@@ -39779,7 +41030,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_UNIQUE_6_ELLIE",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_UNIQUE_6_ELLIE",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_UNIQUE_6_ELLIE",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_UNIQUE_6_ELLIE",
+            "oztalk": false
+        }
     },
     {
         "id": "mew",
@@ -39992,7 +41252,16 @@
                     "hp": 700
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "6/2",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "yeowoodong",
@@ -40185,7 +41454,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "6/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_4",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_4",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_4",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_4",
+            "oztalk": false
+        }
     },
     {
         "id": "nurspy",
@@ -40379,7 +41657,16 @@
                     "crit_chance": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "12/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_5",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_5",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_5",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_5",
+            "oztalk": false
+        }
     },
     {
         "id": "woompa_woopa",
@@ -40563,7 +41850,16 @@
                     "resistance": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "36",
+            "birthday": "9/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_6",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_6",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_6",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_6",
+            "oztalk": false
+        }
     },
     {
         "id": "stein",
@@ -40756,7 +42052,16 @@
                     "resistance": 150
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "76",
+            "birthday": "4/18",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_8",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_8",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_8",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_8",
+            "oztalk": false
+        }
     },
     {
         "id": "aria",
@@ -40948,7 +42253,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "3/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_14",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_14",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_14",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_14",
+            "oztalk": false
+        }
     },
     {
         "id": "seiren",
@@ -41141,7 +42455,16 @@
                     "hp": 700
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "5/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_17",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_17",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_17",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_17",
+            "oztalk": false
+        }
     },
     {
         "id": "shikigami_seimei",
@@ -41325,7 +42648,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "3(21)",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_20",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_20",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_20",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_20",
+            "oztalk": false
+        }
     },
     {
         "id": "vernil",
@@ -41509,7 +42841,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "222",
+            "birthday": "11/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_23",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_23",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_23",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_23",
+            "oztalk": false
+        }
     },
     {
         "id": "basquiat",
@@ -41694,7 +43035,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "12/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_27",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_27",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_27",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_27",
+            "oztalk": false
+        }
     },
     {
         "id": "nightingale",
@@ -41879,7 +43229,16 @@
                     "resistance": 150
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "5/12",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_3",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_3",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_3",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_3",
+            "oztalk": false
+        }
     },
     {
         "id": "himiko",
@@ -42083,7 +43442,16 @@
                     "hp": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "23",
+            "birthday": "10/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_7",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_7",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_7",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_7",
+            "oztalk": false
+        }
     },
     {
         "id": "chai",
@@ -42267,7 +43635,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "17",
+            "birthday": "10/16",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_9",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_9",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_9",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_9",
+            "oztalk": false
+        }
     },
     {
         "id": "dara",
@@ -42462,7 +43839,16 @@
                     "hp": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "5/6",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_10",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_10",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_10",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_10",
+            "oztalk": false
+        }
     },
     {
         "id": "beatrice",
@@ -42656,7 +44042,16 @@
                     "evasion": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "127(27)",
+            "birthday": "5/24",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_12",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_12",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_12",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_12",
+            "oztalk": false
+        }
     },
     {
         "id": "orfeo",
@@ -42840,7 +44235,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "4/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_13",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_13",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_13",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_13",
+            "oztalk": false
+        }
     },
     {
         "id": "yuria",
@@ -43024,7 +44428,16 @@
                     "resistance": 100
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "32",
+            "birthday": "8/18",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_15",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_15",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_15",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_15",
+            "oztalk": false
+        }
     },
     {
         "id": "faust",
@@ -43208,7 +44621,16 @@
                     "evasion": 0.15
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "34",
+            "birthday": "8/28",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_16",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_16",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_16",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_16",
+            "oztalk": false
+        }
     },
     {
         "id": "noel",
@@ -43393,7 +44815,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "12/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_18",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_18",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_18",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_18",
+            "oztalk": false
+        }
     },
     {
         "id": "bari",
@@ -43587,7 +45018,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "2/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_19",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_19",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_19",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_19",
+            "oztalk": false
+        }
     },
     {
         "id": "marpei",
@@ -43772,7 +45212,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "9/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_21",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_21",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_21",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_21",
+            "oztalk": false
+        }
     },
     {
         "id": "cronette",
@@ -43965,7 +45414,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "12/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_22",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_22",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_22",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_22",
+            "oztalk": false
+        }
     },
     {
         "id": "ricky",
@@ -44150,7 +45608,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "7/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_24",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_24",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_24",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_24",
+            "oztalk": false
+        }
     },
     {
         "id": "sfera",
@@ -44344,7 +45811,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "3/20",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_25",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_25",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_25",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_25",
+            "oztalk": true
+        }
     },
     {
         "id": "shub",
@@ -44546,7 +46022,16 @@
                     "hp": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "8/20",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_26",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_26",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_26",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_26",
+            "oztalk": false
+        }
     },
     {
         "id": "gueronica",
@@ -44731,7 +46216,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "5",
+            "birthday": "10/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_28",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_28",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_28",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_28",
+            "oztalk": false
+        }
     },
     {
         "id": "meri",
@@ -44924,7 +46418,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "7/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_29",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_29",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_29",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_29",
+            "oztalk": true
+        }
     },
     {
         "id": "linné",
@@ -45109,7 +46612,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "4/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_30",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_30",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_30",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_30",
+            "oztalk": false
+        }
     },
     {
         "id": "halla",
@@ -45312,7 +46824,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_31",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_31",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_31",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_31",
+            "oztalk": true
+        }
     },
     {
         "id": "lazie",
@@ -45496,7 +47017,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "15",
+            "birthday": "7/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_32",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_32",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_32",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_32",
+            "oztalk": false
+        }
     },
     {
         "id": "zeus",
@@ -45689,7 +47219,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "6/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_33",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_33",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_33",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_33",
+            "oztalk": false
+        }
     },
     {
         "id": "hera",
@@ -45873,7 +47412,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "15",
+            "birthday": "3/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_35",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_35",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_35",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_35",
+            "oztalk": false
+        }
     },
     {
         "id": "baharha",
@@ -46048,7 +47596,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "10/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_36",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_36",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_36",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_36",
+            "oztalk": false
+        }
     },
     {
         "id": "rie",
@@ -46223,7 +47780,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "5/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_37",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_37",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_37",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_37",
+            "oztalk": false
+        }
     },
     {
         "id": "ashley",
@@ -46415,7 +47981,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "3/28",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_39",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_39",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_39",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_39",
+            "oztalk": true
+        }
     },
     {
         "id": "ranee",
@@ -46598,7 +48173,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "10/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_40",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_40",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_40",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_40",
+            "oztalk": false
+        }
     },
     {
         "id": "anton",
@@ -46772,7 +48356,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "34",
+            "birthday": "4/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_PR_6_41",
+            "likes": "TEXT_PROFILE_LIKES_CHA_PR_6_41",
+            "hates": "TEXT_PROFILE_HATES_CHA_PR_6_41",
+            "notes": "TEXT_PROFILE_ETC_CHA_PR_6_41",
+            "oztalk": true
+        }
     },
     {
         "id": "echo",
@@ -50756,7 +52349,16 @@
                     "hp": 700
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "11/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "rochefort",
@@ -51019,7 +52621,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "36",
+            "birthday": "2/24",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_11",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_11",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_11",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_11",
+            "oztalk": false
+        }
     },
     {
         "id": "tsukino_kurenai",
@@ -51229,7 +52840,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "1/2",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_EIGHTH_6_LEONIA",
+            "oztalk": false
+        }
     },
     {
         "id": "asmodeus",
@@ -51391,7 +53011,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_TRADE_6_ASMODEUS",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_TRADE_6_ASMODEUS",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_TRADE_6_ASMODEUS",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_TRADE_6_ASMODEUS",
+            "oztalk": false
+        }
     },
     {
         "id": "tian_mo",
@@ -51562,7 +53191,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "10",
+            "birthday": "7/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_AUCTION_6_CHUNMA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_AUCTION_6_CHUNMA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_AUCTION_6_CHUNMA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_AUCTION_6_CHUNMA",
+            "oztalk": true
+        }
     },
     {
         "id": "snowman",
@@ -51772,7 +53410,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_COUPLE_6_PIUS",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_COUPLE_6_PIUS",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_COUPLE_6_PIUS",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_COUPLE_6_PIUS",
+            "oztalk": false
+        }
     },
     {
         "id": "maré",
@@ -51943,7 +53590,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "109",
+            "birthday": "5/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_FOURWEEK_6_MARE",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_FOURWEEK_6_MARE",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_FOURWEEK_6_MARE",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_FOURWEEK_6_MARE",
+            "oztalk": false
+        }
     },
     {
         "id": "pumpqueen",
@@ -52114,7 +53770,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "10/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_LASTSOUL_6_PUMPQUEEN",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_LASTSOUL_6_PUMPQUEEN",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_LASTSOUL_6_PUMPQUEEN",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_LASTSOUL_6_PUMPQUEEN",
+            "oztalk": false
+        }
     },
     {
         "id": "twillie",
@@ -52285,7 +53950,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "1/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_SPR_6_TWILLY",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_SPR_6_TWILLY",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_SPR_6_TWILLY",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_SPR_6_TWILLY",
+            "oztalk": false
+        }
     },
     {
         "id": "ranno",
@@ -52456,7 +54130,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "6/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMITED_TNT_6_RANNO",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMITED_TNT_6_RANNO",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMITED_TNT_6_RANNO",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMITED_TNT_6_RANNO",
+            "oztalk": false
+        }
     },
     {
         "id": "lednas",
@@ -52609,7 +54292,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "12/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_LIMTED_FOURTH_6_REDNAS",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_LIMTED_FOURTH_6_REDNAS",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_LIMTED_FOURTH_6_REDNAS",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_LIMTED_FOURTH_6_REDNAS",
+            "oztalk": false
+        }
     },
     {
         "id": "zilong",
@@ -52771,7 +54463,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "37",
+            "birthday": "2/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_UNIQUE_6_JARYONG",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_UNIQUE_6_JARYONG",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_UNIQUE_6_JARYONG",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_UNIQUE_6_JARYONG",
+            "oztalk": false
+        }
     },
     {
         "id": "rael",
@@ -52933,7 +54634,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "5/23",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_UNIQUE_6_RAEL",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_UNIQUE_6_RAEL",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_UNIQUE_6_RAEL",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_UNIQUE_6_RAEL",
+            "oztalk": false
+        }
     },
     {
         "id": "vivian",
@@ -53123,7 +54833,16 @@
                     "resistance": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "2/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_4",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_4",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_4",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_4",
+            "oztalk": false
+        }
     },
     {
         "id": "abel",
@@ -53305,7 +55024,16 @@
                     "resistance": 110
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "23",
+            "birthday": "4/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_7",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_7",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_7",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_7",
+            "oztalk": false
+        }
     },
     {
         "id": "b._sworden",
@@ -53486,7 +55214,16 @@
                     "evasion": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "12/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_9",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_9",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_9",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_9",
+            "oztalk": false
+        }
     },
     {
         "id": "isabel",
@@ -53668,7 +55405,16 @@
                     "evasion": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "23",
+            "birthday": "1/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_10",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_10",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_10",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_10",
+            "oztalk": false
+        }
     },
     {
         "id": "koxinga",
@@ -53849,7 +55595,16 @@
                     "resistance": 100
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "34",
+            "birthday": "8/27",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_12",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_12",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_12",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_12",
+            "oztalk": false
+        }
     },
     {
         "id": "victoria",
@@ -54040,7 +55795,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "5/24",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_13",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_13",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_13",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_13",
+            "oztalk": false
+        }
     },
     {
         "id": "arita",
@@ -54230,7 +55994,16 @@
                     "accuracy": 0.05
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "4/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_15",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_15",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_15",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_15",
+            "oztalk": false
+        }
     },
     {
         "id": "sien",
@@ -54410,7 +56183,16 @@
                     "evasion": 0.15
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "5/16",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_16",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_16",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_16",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_16",
+            "oztalk": false
+        }
     },
     {
         "id": "bihyeongrang",
@@ -54592,7 +56374,16 @@
                     "hp": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "38",
+            "birthday": "1/16",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_18",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_18",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_18",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_18",
+            "oztalk": false
+        }
     },
     {
         "id": "shasha",
@@ -54781,7 +56572,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "107",
+            "birthday": "11/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_19",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_19",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_19",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_19",
+            "oztalk": false
+        }
     },
     {
         "id": "isis",
@@ -54962,7 +56762,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "11/20",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_21",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_21",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_21",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_21",
+            "oztalk": false
+        }
     },
     {
         "id": "izuna",
@@ -55142,7 +56951,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "12/18",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_22",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_22",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_22",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_22",
+            "oztalk": false
+        }
     },
     {
         "id": "cassia",
@@ -55322,7 +57140,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "6/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_24",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_24",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_24",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_24",
+            "oztalk": false
+        }
     },
     {
         "id": "echidna",
@@ -55511,7 +57338,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "1/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_25",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_25",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_25",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_25",
+            "oztalk": false
+        }
     },
     {
         "id": "sim_hak-gyu",
@@ -55700,7 +57536,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "55",
+            "birthday": "3/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_26",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_26",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_26",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_26",
+            "oztalk": false
+        }
     },
     {
         "id": "nefer",
@@ -55880,7 +57725,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_28",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_28",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_28",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_28",
+            "oztalk": false
+        }
     },
     {
         "id": "gwen",
@@ -56060,7 +57914,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "1/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_29",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_29",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_29",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_29",
+            "oztalk": false
+        }
     },
     {
         "id": "morgan",
@@ -56240,7 +58103,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "38",
+            "birthday": "3/3",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_30",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_30",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_30",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_30",
+            "oztalk": false
+        }
     },
     {
         "id": "laertes",
@@ -56429,7 +58301,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "78",
+            "birthday": "4/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_31",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_31",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_31",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_31",
+            "oztalk": false
+        }
     },
     {
         "id": "ares",
@@ -56610,7 +58491,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "50",
+            "birthday": "3/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_32",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_32",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_32",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_32",
+            "oztalk": false
+        }
     },
     {
         "id": "macaria",
@@ -56799,7 +58689,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "4/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_33",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_33",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_33",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_33",
+            "oztalk": false
+        }
     },
     {
         "id": "jack",
@@ -56979,7 +58878,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "5/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_34",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_34",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_34",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_34",
+            "oztalk": true
+        }
     },
     {
         "id": "hrolf",
@@ -57150,7 +59058,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "37",
+            "birthday": "4/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_35",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_35",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_35",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_35",
+            "oztalk": false
+        }
     },
     {
         "id": "fleck",
@@ -57331,7 +59248,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "8/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_37",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_37",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_37",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_37",
+            "oztalk": false
+        }
     },
     {
         "id": "charlotte",
@@ -57520,7 +59446,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "8/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_38",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_38",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_38",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_38",
+            "oztalk": false
+        }
     },
     {
         "id": "seo",
@@ -57691,7 +59626,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "1",
+            "birthday": "4/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_39",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_39",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_39",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_39",
+            "oztalk": false
+        }
     },
     {
         "id": "briseis",
@@ -57862,7 +59806,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "6/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_40",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_40",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_40",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_40",
+            "oztalk": true
+        }
     },
     {
         "id": "tramontana",
@@ -58033,7 +59986,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "3/3",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_41",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_41",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_41",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_41",
+            "oztalk": true
+        }
     },
     {
         "id": "dempsey",
@@ -58204,7 +60166,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "6/24",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_36",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_36",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_36",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_36",
+            "oztalk": false
+        }
     },
     {
         "id": "joan_of_arc",
@@ -58396,7 +60367,16 @@
                     "hp": 800
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "32",
+            "birthday": "5/30",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_2",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_2",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_2",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_2",
+            "oztalk": false
+        }
     },
     {
         "id": "susanoo",
@@ -58577,7 +60557,16 @@
                     "crit_chance": 0.07
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "2/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_3",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_3",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_3",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_3",
+            "oztalk": false
+        }
     },
     {
         "id": "monte_proto",
@@ -58768,7 +60757,16 @@
                     "armor": 100
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "7",
+            "birthday": "10/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_5",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_5",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_5",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_5",
+            "oztalk": false
+        }
     },
     {
         "id": "kaori",
@@ -58959,7 +60957,16 @@
                     "crit_chance": 0.04
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "11/10",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_6",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_6",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_6",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_6",
+            "oztalk": false
+        }
     },
     {
         "id": "uzimant",
@@ -59140,7 +61147,16 @@
                     "crit_dmg": 0.3
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "12/24",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_8",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_8",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_8",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_8",
+            "oztalk": false
+        }
     },
     {
         "id": "lionel",
@@ -59330,7 +61346,16 @@
                     "accuracy": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "10/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_14",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_14",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_14",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_14",
+            "oztalk": false
+        }
     },
     {
         "id": "borgos",
@@ -59511,7 +61536,16 @@
                     "hp": 400
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "2/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_17",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_17",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_17",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_17",
+            "oztalk": false
+        }
     },
     {
         "id": "harpya",
@@ -59700,7 +61734,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "5/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_20",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_20",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_20",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_20",
+            "oztalk": false
+        }
     },
     {
         "id": "randgrid",
@@ -59880,7 +61923,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "4/3",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_23",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_23",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_23",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_23",
+            "oztalk": false
+        }
     },
     {
         "id": "roskva",
@@ -60060,7 +62112,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "222",
+            "birthday": "3/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_6_27",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_6_27",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_6_27",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_6_27",
+            "oztalk": false
+        }
     },
     {
         "id": "guts",
@@ -64292,7 +66353,16 @@
             }
         ],
         "sbws": [],
-        "skins": []
+        "skins": [],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WA_SUPPORT_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WA_SUPPORT_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_WA_SUPPORT_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_WA_SUPPORT_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "nerd",
@@ -66552,7 +68622,16 @@
                     "crit_chance": 0.15
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "8/12",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_3",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_3",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_3",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_3",
+            "oztalk": false
+        }
     },
     {
         "id": "cano",
@@ -66824,7 +68903,16 @@
                     "crit_dmg": 0.25
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "2/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_11",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_11",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_11",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_11",
+            "oztalk": false
+        }
     },
     {
         "id": "bridget",
@@ -67112,7 +69200,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_EQUIP_6_NEBULA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_EQUIP_6_NEBULA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_EQUIP_6_NEBULA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_EQUIP_6_NEBULA",
+            "oztalk": false
+        }
     },
     {
         "id": "gordian",
@@ -67283,7 +69380,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "110",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_ENT_6_GORDIAN",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_ENT_6_GORDIAN",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_ENT_6_GORDIAN",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_ENT_6_GORDIAN",
+            "oztalk": true
+        }
     },
     {
         "id": "mammon",
@@ -67445,7 +69551,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "7/2",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_TRADE_6_MAMMON",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_TRADE_6_MAMMON",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_TRADE_6_MAMMON",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_TRADE_6_MAMMON",
+            "oztalk": true
+        }
     },
     {
         "id": "prydwen",
@@ -67607,7 +69722,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "10/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_UNIQUE_6_PRYDWEN",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_UNIQUE_6_PRYDWEN",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_UNIQUE_6_PRYDWEN",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_UNIQUE_6_PRYDWEN",
+            "oztalk": false
+        }
     },
     {
         "id": "nicola",
@@ -67778,7 +69902,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "29",
+            "birthday": "12/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_AUTO_6_NICOLA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_AUTO_6_NICOLA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_AUTO_6_NICOLA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_AUTO_6_NICOLA",
+            "oztalk": false
+        }
     },
     {
         "id": "anzu",
@@ -67949,7 +70082,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "17",
+            "birthday": "10/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_AUTUMN_6_ANZU",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_AUTUMN_6_ANZU",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_AUTUMN_6_ANZU",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_AUTUMN_6_ANZU",
+            "oztalk": false
+        }
     },
     {
         "id": "fredrick",
@@ -68120,7 +70262,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "16",
+            "birthday": "5/27",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_EAST_6_FREDERICK",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_EAST_6_FREDERICK",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_EAST_6_FREDERICK",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_EAST_6_FREDERICK",
+            "oztalk": false
+        }
     },
     {
         "id": "anesidora",
@@ -68282,7 +70433,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "0.083",
+            "birthday": "11/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_FIFTH_6_ANESIDORA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_FIFTH_6_ANESIDORA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_FIFTH_6_ANESIDORA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_FIFTH_6_ANESIDORA",
+            "oztalk": false
+        }
     },
     {
         "id": "camilla_banoub",
@@ -68426,7 +70586,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "120",
+            "birthday": "2/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_SIXTH_6_BANOUB",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_SIXTH_6_BANOUB",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_SIXTH_6_BANOUB",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_SIXTH_6_BANOUB",
+            "oztalk": false
+        }
     },
     {
         "id": "ana",
@@ -68597,7 +70766,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "12/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_SPR_6_ANNA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_SPR_6_ANNA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_SPR_6_ANNA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_SPR_6_ANNA",
+            "oztalk": false
+        }
     },
     {
         "id": "livea",
@@ -68768,7 +70946,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_LIMITED_TRADE_6_LIVEA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_LIMITED_TRADE_6_LIVEA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_LIMITED_TRADE_6_LIVEA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_LIMITED_TRADE_6_LIVEA",
+            "oztalk": false
+        }
     },
     {
         "id": "loviatar",
@@ -68930,7 +71117,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "60",
+            "birthday": "8/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_UNIQUE_6_LOVIATAR",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_UNIQUE_6_LOVIATAR",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_UNIQUE_6_LOVIATAR",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_UNIQUE_6_LOVIATAR",
+            "oztalk": false
+        }
     },
     {
         "id": "yama",
@@ -69092,7 +71288,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_UNIQUE_6_YAMA",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_UNIQUE_6_YAMA",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_UNIQUE_6_YAMA",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_UNIQUE_6_YAMA",
+            "oztalk": false
+        }
     },
     {
         "id": "archon",
@@ -69282,7 +71487,16 @@
                     "armor": 100
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "26",
+            "birthday": "1/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_1",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_1",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_1",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_1",
+            "oztalk": false
+        }
     },
     {
         "id": "korin",
@@ -69473,7 +71687,16 @@
                     "hp": 500
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "4/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_2",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_2",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_2",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_2",
+            "oztalk": false
+        }
     },
     {
         "id": "sasquatch",
@@ -69654,7 +71877,16 @@
                     "crit_dmg": 0.2
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "23",
+            "birthday": "12/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_4",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_4",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_4",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_4",
+            "oztalk": false
+        }
     },
     {
         "id": "rachel",
@@ -69845,7 +72077,16 @@
                     "crit_dmg": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "4/30",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_6",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_6",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_6",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_6",
+            "oztalk": false
+        }
     },
     {
         "id": "nazrune",
@@ -70054,7 +72295,16 @@
                     "crit_dmg": 0.3
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "27",
+            "birthday": "4/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_8",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_8",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_8",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_8",
+            "oztalk": false
+        }
     },
     {
         "id": "benjamin",
@@ -70235,7 +72485,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_14",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_14",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_14",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_14",
+            "oztalk": false
+        }
     },
     {
         "id": "violet",
@@ -70425,7 +72684,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "17",
+            "birthday": "1/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_17",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_17",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_17",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_17",
+            "oztalk": false
+        }
     },
     {
         "id": "hermit_otter",
@@ -70605,7 +72873,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "46",
+            "birthday": "4/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_20",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_20",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_20",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_20",
+            "oztalk": false
+        }
     },
     {
         "id": "han_xiangzi",
@@ -70785,7 +73062,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "11/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_23",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_23",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_23",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_23",
+            "oztalk": false
+        }
     },
     {
         "id": "lilith",
@@ -70976,7 +73262,16 @@
                     "crit_chance": 0.07
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "10/31",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_5",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_5",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_5",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_5",
+            "oztalk": false
+        }
     },
     {
         "id": "alice",
@@ -71157,7 +73452,16 @@
                     "crit_dmg": 0.2
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "11/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_7",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_7",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_7",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_7",
+            "oztalk": false
+        }
     },
     {
         "id": "mondrian",
@@ -71338,7 +73642,16 @@
                     "evasion": 0.1
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "28",
+            "birthday": "6/7",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_9",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_9",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_9",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_9",
+            "oztalk": false
+        }
     },
     {
         "id": "necron",
@@ -71528,7 +73841,16 @@
                     "armor": 150
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "32",
+            "birthday": "2/29",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_10",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_10",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_10",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_10",
+            "oztalk": false
+        }
     },
     {
         "id": "demeter",
@@ -71719,7 +74041,16 @@
                     "hp": 600
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "17",
+            "birthday": "11/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_12",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_12",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_12",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_12",
+            "oztalk": false
+        }
     },
     {
         "id": "uriel",
@@ -71909,7 +74240,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "41",
+            "birthday": "7/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_13",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_13",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_13",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_13",
+            "oztalk": false
+        }
     },
     {
         "id": "lupeow",
@@ -72099,7 +74439,16 @@
                     "accuracy": 0.08
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "10/13",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_15",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_15",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_15",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_15",
+            "oztalk": false
+        }
     },
     {
         "id": "vesper",
@@ -72289,7 +74638,16 @@
                     "accuracy": 0.07
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "113",
+            "birthday": "3/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_16",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_16",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_16",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_16",
+            "oztalk": true
+        }
     },
     {
         "id": "yichui",
@@ -72488,7 +74846,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "20",
+            "birthday": "2/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_18",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_18",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_18",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_18",
+            "oztalk": true
+        }
     },
     {
         "id": "wolfram",
@@ -72668,7 +75035,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "92",
+            "birthday": "6/15",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_19",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_19",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_19",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_19",
+            "oztalk": false
+        }
     },
     {
         "id": "osiris",
@@ -72848,7 +75224,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "18",
+            "birthday": "4/4",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_21",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_21",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_21",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_21",
+            "oztalk": false
+        }
     },
     {
         "id": "loki",
@@ -73028,7 +75413,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "5/1",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_22",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_22",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_22",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_22",
+            "oztalk": false
+        }
     },
     {
         "id": "lakias",
@@ -73217,7 +75611,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "327",
+            "birthday": "12/22",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_24",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_24",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_24",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_24",
+            "oztalk": false
+        }
     },
     {
         "id": "grim_reaper",
@@ -73406,7 +75809,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "319",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_25",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_25",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_25",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_25",
+            "oztalk": false
+        }
     },
     {
         "id": "urako",
@@ -73595,7 +76007,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "21",
+            "birthday": "3/26",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_26",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_26",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_26",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_26",
+            "oztalk": false
+        }
     },
     {
         "id": "bihwa",
@@ -73785,7 +76206,16 @@
                     "hp": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "TEXT_PROFILE_UNKNOWN",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_28",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_28",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_28",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_28",
+            "oztalk": false
+        }
     },
     {
         "id": "wang_dao",
@@ -73965,7 +76395,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "38",
+            "birthday": "9/2",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_29",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_29",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_29",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_29",
+            "oztalk": false
+        }
     },
     {
         "id": "labelle",
@@ -74145,7 +76584,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "23",
+            "birthday": "4/14",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_30",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_30",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_30",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_30",
+            "oztalk": false
+        }
     },
     {
         "id": "estelle",
@@ -74325,7 +76773,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "52",
+            "birthday": "2/27",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_31",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_31",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_31",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_31",
+            "oztalk": false
+        }
     },
     {
         "id": "shu_gwi",
@@ -74505,7 +76962,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "19",
+            "birthday": "2/11",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_32",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_32",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_32",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_32",
+            "oztalk": false
+        }
     },
     {
         "id": "éfendére",
@@ -74685,7 +77151,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "24",
+            "birthday": "10/19",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_33",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_33",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_33",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_33",
+            "oztalk": false
+        }
     },
     {
         "id": "caroline",
@@ -74865,7 +77340,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "22",
+            "birthday": "9/25",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_34",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_34",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_34",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_34",
+            "oztalk": false
+        }
     },
     {
         "id": "medea",
@@ -75036,7 +77520,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "7/9",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_35",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_35",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_35",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_35",
+            "oztalk": false
+        }
     },
     {
         "id": "winston",
@@ -75216,7 +77709,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "30",
+            "birthday": "3/21",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_37",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_37",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_37",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_37",
+            "oztalk": true
+        }
     },
     {
         "id": "affogato",
@@ -75396,7 +77898,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "12/20",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_39",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_39",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_39",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_39",
+            "oztalk": false
+        }
     },
     {
         "id": "thalia",
@@ -75567,7 +78078,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "25",
+            "birthday": "5/5",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_40",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_40",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_40",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_40",
+            "oztalk": false
+        }
     },
     {
         "id": "deokpal_choi",
@@ -75739,7 +78259,16 @@
                     "crit_dmg": 0.3
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "6/19",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_41",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_41",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_41",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_41",
+            "oztalk": true
+        }
     },
     {
         "id": "eungaram",
@@ -75910,7 +78439,16 @@
                     "atk_power": 200
                 }
             }
-        ]
+        ],
+        "profile": {
+            "age": "TEXT_PROFILE_UNKNOWN",
+            "birthday": "8/8",
+            "hobby": "TEXT_PROFILE_HOBBY_CHA_WI_6_36",
+            "likes": "TEXT_PROFILE_LIKES_CHA_WI_6_36",
+            "hates": "TEXT_PROFILE_HATES_CHA_WI_6_36",
+            "notes": "TEXT_PROFILE_ETC_CHA_WI_6_36",
+            "oztalk": false
+        }
     },
     {
         "id": "little_girl",

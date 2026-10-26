@@ -1,0 +1,844 @@
+{
+    "levels": [
+        {
+            "level": 0,
+            "exp": 0,
+            "hp": 0,
+            "atk_power": 0,
+            "crit_chance": 0,
+            "crit_dmg": 0
+        },
+        {
+            "level": 1,
+            "exp": 100,
+            "hp": 200,
+            "atk_power": 7.5,
+            "crit_chance": 0,
+            "crit_dmg": 0
+        },
+        {
+            "level": 2,
+            "exp": 100,
+            "hp": 200,
+            "atk_power": 7.5,
+            "crit_chance": 0.0002,
+            "crit_dmg": 0.001
+        },
+        {
+            "level": 3,
+            "exp": 100,
+            "hp": 400,
+            "atk_power": 15,
+            "crit_chance": 0.0002,
+            "crit_dmg": 0.001
+        },
+        {
+            "level": 4,
+            "exp": 100,
+            "hp": 400,
+            "atk_power": 15,
+            "crit_chance": 0.0004,
+            "crit_dmg": 0.002
+        },
+        {
+            "level": 5,
+            "exp": 100,
+            "hp": 600,
+            "atk_power": 22.5,
+            "crit_chance": 0.0004,
+            "crit_dmg": 0.002
+        },
+        {
+            "level": 6,
+            "exp": 100,
+            "hp": 600,
+            "atk_power": 22.5,
+            "crit_chance": 0.0006,
+            "crit_dmg": 0.003
+        },
+        {
+            "level": 7,
+            "exp": 100,
+            "hp": 800,
+            "atk_power": 30,
+            "crit_chance": 0.0006,
+            "crit_dmg": 0.003
+        },
+        {
+            "level": 8,
+            "exp": 100,
+            "hp": 800,
+            "atk_power": 30,
+            "crit_chance": 0.0008,
+            "crit_dmg": 0.004
+        },
+        {
+            "level": 9,
+            "exp": 100,
+            "hp": 1000,
+            "atk_power": 37.5,
+            "crit_chance": 0.0008,
+            "crit_dmg": 0.004
+        },
+        {
+            "level": 10,
+            "exp": 100,
+            "hp": 1000,
+            "atk_power": 37.5,
+            "crit_chance": 0.001,
+            "crit_dmg": 0.005
+        },
+        {
+            "level": 11,
+            "exp": 100,
+            "hp": 1200,
+            "atk_power": 45,
+            "crit_chance": 0.001,
+            "crit_dmg": 0.005
+        },
+        {
+            "level": 12,
+            "exp": 100,
+            "hp": 1200,
+            "atk_power": 45,
+            "crit_chance": 0.0012,
+            "crit_dmg": 0.006
+        },
+        {
+            "level": 13,
+            "exp": 100,
+            "hp": 1400,
+            "atk_power": 52.5,
+            "crit_chance": 0.0012,
+            "crit_dmg": 0.006
+        },
+        {
+            "level": 14,
+            "exp": 100,
+            "hp": 1400,
+            "atk_power": 52.5,
+            "crit_chance": 0.0014,
+            "crit_dmg": 0.007
+        },
+        {
+            "level": 15,
+            "exp": 100,
+            "hp": 1600,
+            "atk_power": 60,
+            "crit_chance": 0.0014,
+            "crit_dmg": 0.007
+        },
+        {
+            "level": 16,
+            "exp": 100,
+            "hp": 1600,
+            "atk_power": 60,
+            "crit_chance": 0.0016,
+            "crit_dmg": 0.008
+        },
+        {
+            "level": 17,
+            "exp": 100,
+            "hp": 1800,
+            "atk_power": 67.5,
+            "crit_chance": 0.0016,
+            "crit_dmg": 0.008
+        },
+        {
+            "level": 18,
+            "exp": 100,
+            "hp": 1800,
+            "atk_power": 67.5,
+            "crit_chance": 0.0018,
+            "crit_dmg": 0.009
+        },
+        {
+            "level": 19,
+            "exp": 100,
+            "hp": 2000,
+            "atk_power": 75,
+            "crit_chance": 0.0018,
+            "crit_dmg": 0.009
+        },
+        {
+            "level": 20,
+            "exp": 100,
+            "hp": 2000,
+            "atk_power": 75,
+            "crit_chance": 0.002,
+            "crit_dmg": 0.01
+        },
+        {
+            "level": 21,
+            "exp": 100,
+            "hp": 2200,
+            "atk_power": 82.5,
+            "crit_chance": 0.002,
+            "crit_dmg": 0.01
+        },
+        {
+            "level": 22,
+            "exp": 100,
+            "hp": 2200,
+            "atk_power": 82.5,
+            "crit_chance": 0.0022,
+            "crit_dmg": 0.011
+        },
+        {
+            "level": 23,
+            "exp": 100,
+            "hp": 2400,
+            "atk_power": 90,
+            "crit_chance": 0.0022,
+            "crit_dmg": 0.011
+        },
+        {
+            "level": 24,
+            "exp": 100,
+            "hp": 2400,
+            "atk_power": 90,
+            "crit_chance": 0.0024,
+            "crit_dmg": 0.012
+        },
+        {
+            "level": 25,
+            "exp": 100,
+            "hp": 2600,
+            "atk_power": 97.5,
+            "crit_chance": 0.0024,
+            "crit_dmg": 0.012
+        },
+        {
+            "level": 26,
+            "exp": 100,
+            "hp": 2600,
+            "atk_power": 97.5,
+            "crit_chance": 0.0026,
+            "crit_dmg": 0.013
+        },
+        {
+            "level": 27,
+            "exp": 100,
+            "hp": 2800,
+            "atk_power": 105,
+            "crit_chance": 0.0026,
+            "crit_dmg": 0.013
+        },
+        {
+            "level": 28,
+            "exp": 100,
+            "hp": 2800,
+            "atk_power": 105,
+            "crit_chance": 0.0028,
+            "crit_dmg": 0.014
+        },
+        {
+            "level": 29,
+            "exp": 100,
+            "hp": 3000,
+            "atk_power": 112.5,
+            "crit_chance": 0.0028,
+            "crit_dmg": 0.014
+        },
+        {
+            "level": 30,
+            "exp": 100,
+            "hp": 3000,
+            "atk_power": 112.5,
+            "crit_chance": 0.003,
+            "crit_dmg": 0.015
+        },
+        {
+            "level": 31,
+            "exp": 100,
+            "hp": 3200,
+            "atk_power": 120,
+            "crit_chance": 0.003,
+            "crit_dmg": 0.015
+        },
+        {
+            "level": 32,
+            "exp": 100,
+            "hp": 3200,
+            "atk_power": 120,
+            "crit_chance": 0.0032,
+            "crit_dmg": 0.016
+        },
+        {
+            "level": 33,
+            "exp": 100,
+            "hp": 3400,
+            "atk_power": 127.5,
+            "crit_chance": 0.0032,
+            "crit_dmg": 0.016
+        },
+        {
+            "level": 34,
+            "exp": 100,
+            "hp": 3400,
+            "atk_power": 127.5,
+            "crit_chance": 0.0034,
+            "crit_dmg": 0.017
+        },
+        {
+            "level": 35,
+            "exp": 100,
+            "hp": 3600,
+            "atk_power": 135,
+            "crit_chance": 0.0034,
+            "crit_dmg": 0.017
+        },
+        {
+            "level": 36,
+            "exp": 100,
+            "hp": 3600,
+            "atk_power": 135,
+            "crit_chance": 0.0036,
+            "crit_dmg": 0.018
+        },
+        {
+            "level": 37,
+            "exp": 100,
+            "hp": 3800,
+            "atk_power": 142.5,
+            "crit_chance": 0.0036,
+            "crit_dmg": 0.018
+        },
+        {
+            "level": 38,
+            "exp": 100,
+            "hp": 3800,
+            "atk_power": 142.5,
+            "crit_chance": 0.0038,
+            "crit_dmg": 0.019
+        },
+        {
+            "level": 39,
+            "exp": 100,
+            "hp": 4000,
+            "atk_power": 150,
+            "crit_chance": 0.0038,
+            "crit_dmg": 0.019
+        },
+        {
+            "level": 40,
+            "exp": 100,
+            "hp": 4000,
+            "atk_power": 150,
+            "crit_chance": 0.004,
+            "crit_dmg": 0.02
+        },
+        {
+            "level": 41,
+            "exp": 100,
+            "hp": 4200,
+            "atk_power": 157.5,
+            "crit_chance": 0.004,
+            "crit_dmg": 0.02
+        },
+        {
+            "level": 42,
+            "exp": 100,
+            "hp": 4200,
+            "atk_power": 157.5,
+            "crit_chance": 0.0042,
+            "crit_dmg": 0.021
+        },
+        {
+            "level": 43,
+            "exp": 100,
+            "hp": 4400,
+            "atk_power": 165,
+            "crit_chance": 0.0042,
+            "crit_dmg": 0.021
+        },
+        {
+            "level": 44,
+            "exp": 100,
+            "hp": 4400,
+            "atk_power": 165,
+            "crit_chance": 0.0044,
+            "crit_dmg": 0.022
+        },
+        {
+            "level": 45,
+            "exp": 100,
+            "hp": 4600,
+            "atk_power": 172.5,
+            "crit_chance": 0.0044,
+            "crit_dmg": 0.022
+        },
+        {
+            "level": 46,
+            "exp": 100,
+            "hp": 4600,
+            "atk_power": 172.5,
+            "crit_chance": 0.0046,
+            "crit_dmg": 0.023
+        },
+        {
+            "level": 47,
+            "exp": 100,
+            "hp": 4800,
+            "atk_power": 180,
+            "crit_chance": 0.0046,
+            "crit_dmg": 0.023
+        },
+        {
+            "level": 48,
+            "exp": 100,
+            "hp": 4800,
+            "atk_power": 180,
+            "crit_chance": 0.0048,
+            "crit_dmg": 0.024
+        },
+        {
+            "level": 49,
+            "exp": 100,
+            "hp": 5000,
+            "atk_power": 187.5,
+            "crit_chance": 0.0048,
+            "crit_dmg": 0.024
+        },
+        {
+            "level": 50,
+            "exp": 200,
+            "hp": 5000,
+            "atk_power": 187.5,
+            "crit_chance": 0.005,
+            "crit_dmg": 0.025
+        },
+        {
+            "level": 51,
+            "exp": 200,
+            "hp": 5200,
+            "atk_power": 195,
+            "crit_chance": 0.005,
+            "crit_dmg": 0.025
+        },
+        {
+            "level": 52,
+            "exp": 200,
+            "hp": 5200,
+            "atk_power": 195,
+            "crit_chance": 0.0052,
+            "crit_dmg": 0.026
+        },
+        {
+            "level": 53,
+            "exp": 200,
+            "hp": 5400,
+            "atk_power": 202.5,
+            "crit_chance": 0.0052,
+            "crit_dmg": 0.026
+        },
+        {
+            "level": 54,
+            "exp": 200,
+            "hp": 5400,
+            "atk_power": 202.5,
+            "crit_chance": 0.0054,
+            "crit_dmg": 0.027
+        },
+        {
+            "level": 55,
+            "exp": 200,
+            "hp": 5600,
+            "atk_power": 210,
+            "crit_chance": 0.0054,
+            "crit_dmg": 0.027
+        },
+        {
+            "level": 56,
+            "exp": 200,
+            "hp": 5600,
+            "atk_power": 210,
+            "crit_chance": 0.0056,
+            "crit_dmg": 0.028
+        },
+        {
+            "level": 57,
+            "exp": 200,
+            "hp": 5800,
+            "atk_power": 217.5,
+            "crit_chance": 0.0056,
+            "crit_dmg": 0.028
+        },
+        {
+            "level": 58,
+            "exp": 200,
+            "hp": 5800,
+            "atk_power": 217.5,
+            "crit_chance": 0.0058,
+            "crit_dmg": 0.029
+        },
+        {
+            "level": 59,
+            "exp": 200,
+            "hp": 6000,
+            "atk_power": 225,
+            "crit_chance": 0.0058,
+            "crit_dmg": 0.029
+        },
+        {
+            "level": 60,
+            "exp": 200,
+            "hp": 6000,
+            "atk_power": 225,
+            "crit_chance": 0.006,
+            "crit_dmg": 0.03
+        },
+        {
+            "level": 61,
+            "exp": 200,
+            "hp": 6200,
+            "atk_power": 232.5,
+            "crit_chance": 0.006,
+            "crit_dmg": 0.03
+        },
+        {
+            "level": 62,
+            "exp": 200,
+            "hp": 6200,
+            "atk_power": 232.5,
+            "crit_chance": 0.0062,
+            "crit_dmg": 0.031
+        },
+        {
+            "level": 63,
+            "exp": 200,
+            "hp": 6400,
+            "atk_power": 240,
+            "crit_chance": 0.0062,
+            "crit_dmg": 0.031
+        },
+        {
+            "level": 64,
+            "exp": 200,
+            "hp": 6400,
+            "atk_power": 240,
+            "crit_chance": 0.0064,
+            "crit_dmg": 0.032
+        },
+        {
+            "level": 65,
+            "exp": 200,
+            "hp": 6600,
+            "atk_power": 247.5,
+            "crit_chance": 0.0064,
+            "crit_dmg": 0.032
+        },
+        {
+            "level": 66,
+            "exp": 200,
+            "hp": 6600,
+            "atk_power": 247.5,
+            "crit_chance": 0.0066,
+            "crit_dmg": 0.033
+        },
+        {
+            "level": 67,
+            "exp": 200,
+            "hp": 6800,
+            "atk_power": 255,
+            "crit_chance": 0.0066,
+            "crit_dmg": 0.033
+        },
+        {
+            "level": 68,
+            "exp": 200,
+            "hp": 6800,
+            "atk_power": 255,
+            "crit_chance": 0.0068,
+            "crit_dmg": 0.034
+        },
+        {
+            "level": 69,
+            "exp": 200,
+            "hp": 7000,
+            "atk_power": 262.5,
+            "crit_chance": 0.0068,
+            "crit_dmg": 0.034
+        },
+        {
+            "level": 70,
+            "exp": 200,
+            "hp": 7000,
+            "atk_power": 262.5,
+            "crit_chance": 0.007,
+            "crit_dmg": 0.035
+        },
+        {
+            "level": 71,
+            "exp": 200,
+            "hp": 7200,
+            "atk_power": 270,
+            "crit_chance": 0.007,
+            "crit_dmg": 0.035
+        },
+        {
+            "level": 72,
+            "exp": 200,
+            "hp": 7200,
+            "atk_power": 270,
+            "crit_chance": 0.0072,
+            "crit_dmg": 0.036
+        },
+        {
+            "level": 73,
+            "exp": 200,
+            "hp": 7400,
+            "atk_power": 277.5,
+            "crit_chance": 0.0072,
+            "crit_dmg": 0.036
+        },
+        {
+            "level": 74,
+            "exp": 200,
+            "hp": 7400,
+            "atk_power": 277.5,
+            "crit_chance": 0.0074,
+            "crit_dmg": 0.037
+        },
+        {
+            "level": 75,
+            "exp": 200,
+            "hp": 7600,
+            "atk_power": 285,
+            "crit_chance": 0.0074,
+            "crit_dmg": 0.037
+        },
+        {
+            "level": 76,
+            "exp": 200,
+            "hp": 7600,
+            "atk_power": 285,
+            "crit_chance": 0.0076,
+            "crit_dmg": 0.038
+        },
+        {
+            "level": 77,
+            "exp": 200,
+            "hp": 7800,
+            "atk_power": 292.5,
+            "crit_chance": 0.0076,
+            "crit_dmg": 0.038
+        },
+        {
+            "level": 78,
+            "exp": 200,
+            "hp": 7800,
+            "atk_power": 292.5,
+            "crit_chance": 0.0078,
+            "crit_dmg": 0.039
+        },
+        {
+            "level": 79,
+            "exp": 200,
+            "hp": 8000,
+            "atk_power": 300,
+            "crit_chance": 0.0078,
+            "crit_dmg": 0.039
+        },
+        {
+            "level": 80,
+            "exp": 200,
+            "hp": 8000,
+            "atk_power": 300,
+            "crit_chance": 0.008,
+            "crit_dmg": 0.04
+        },
+        {
+            "level": 81,
+            "exp": 200,
+            "hp": 8200,
+            "atk_power": 307.5,
+            "crit_chance": 0.008,
+            "crit_dmg": 0.04
+        },
+        {
+            "level": 82,
+            "exp": 200,
+            "hp": 8200,
+            "atk_power": 307.5,
+            "crit_chance": 0.0082,
+            "crit_dmg": 0.041
+        },
+        {
+            "level": 83,
+            "exp": 200,
+            "hp": 8400,
+            "atk_power": 315,
+            "crit_chance": 0.0082,
+            "crit_dmg": 0.041
+        },
+        {
+            "level": 84,
+            "exp": 200,
+            "hp": 8400,
+            "atk_power": 315,
+            "crit_chance": 0.0084,
+            "crit_dmg": 0.042
+        },
+        {
+            "level": 85,
+            "exp": 200,
+            "hp": 8600,
+            "atk_power": 322.5,
+            "crit_chance": 0.0084,
+            "crit_dmg": 0.042
+        },
+        {
+            "level": 86,
+            "exp": 200,
+            "hp": 8600,
+            "atk_power": 322.5,
+            "crit_chance": 0.0086,
+            "crit_dmg": 0.043
+        },
+        {
+            "level": 87,
+            "exp": 200,
+            "hp": 8800,
+            "atk_power": 330,
+            "crit_chance": 0.0086,
+            "crit_dmg": 0.043
+        },
+        {
+            "level": 88,
+            "exp": 200,
+            "hp": 8800,
+            "atk_power": 330,
+            "crit_chance": 0.0088,
+            "crit_dmg": 0.044
+        },
+        {
+            "level": 89,
+            "exp": 200,
+            "hp": 9000,
+            "atk_power": 337.5,
+            "crit_chance": 0.0088,
+            "crit_dmg": 0.044
+        },
+        {
+            "level": 90,
+            "exp": 200,
+            "hp": 9000,
+            "atk_power": 337.5,
+            "crit_chance": 0.009,
+            "crit_dmg": 0.045
+        },
+        {
+            "level": 91,
+            "exp": 200,
+            "hp": 9200,
+            "atk_power": 345,
+            "crit_chance": 0.009,
+            "crit_dmg": 0.045
+        },
+        {
+            "level": 92,
+            "exp": 200,
+            "hp": 9200,
+            "atk_power": 345,
+            "crit_chance": 0.0092,
+            "crit_dmg": 0.046
+        },
+        {
+            "level": 93,
+            "exp": 200,
+            "hp": 9400,
+            "atk_power": 352.5,
+            "crit_chance": 0.0092,
+            "crit_dmg": 0.046
+        },
+        {
+            "level": 94,
+            "exp": 200,
+            "hp": 9400,
+            "atk_power": 352.5,
+            "crit_chance": 0.0094,
+            "crit_dmg": 0.047
+        },
+        {
+            "level": 95,
+            "exp": 200,
+            "hp": 9600,
+            "atk_power": 360,
+            "crit_chance": 0.0094,
+            "crit_dmg": 0.047
+        },
+        {
+            "level": 96,
+            "exp": 200,
+            "hp": 9600,
+            "atk_power": 360,
+            "crit_chance": 0.0096,
+            "crit_dmg": 0.048
+        },
+        {
+            "level": 97,
+            "exp": 200,
+            "hp": 9800,
+            "atk_power": 367.5,
+            "crit_chance": 0.0096,
+            "crit_dmg": 0.048
+        },
+        {
+            "level": 98,
+            "exp": 200,
+            "hp": 9800,
+            "atk_power": 367.5,
+            "crit_chance": 0.0098,
+            "crit_dmg": 0.049
+        },
+        {
+            "level": 99,
+            "exp": 200,
+            "hp": 10000,
+            "atk_power": 375,
+            "crit_chance": 0.0098,
+            "crit_dmg": 0.049
+        },
+        {
+            "level": 100,
+            "exp": 0,
+            "hp": 10000,
+            "atk_power": 375,
+            "crit_chance": 0.01,
+            "crit_dmg": 0.05
+        }
+    ],
+    "skills": [
+        {
+            "id": "DOMAIN_LINK_1",
+            "name": "TEXT_CHAMP_DOMAIN_LINK_1_NAME",
+            "description": "TEXT_CHAMP_DOMAIN_LINK_1_DESC",
+            "image": "ui_skill_icon_champ_link_1",
+            "level": 1,
+            "required_heroes": 1,
+            "required_hero_type": "contract",
+            "required_inheritance": 5
+        },
+        {
+            "id": "DOMAIN_LINK_2",
+            "name": "TEXT_CHAMP_DOMAIN_LINK_2_NAME",
+            "description": "TEXT_CHAMP_DOMAIN_LINK_2_DESC",
+            "image": "ui_skill_icon_champ_link_2",
+            "level": 50,
+            "required_heroes": 2,
+            "required_hero_type": "contract",
+            "required_inheritance": 10
+        },
+        {
+            "id": "DOMAIN_LINK_3",
+            "name": "TEXT_CHAMP_DOMAIN_LINK_3_NAME",
+            "description": "TEXT_CHAMP_DOMAIN_LINK_3_DESC",
+            "image": "ui_skill_icon_champ_link_3",
+            "level": 100,
+            "required_heroes": 3,
+            "required_hero_type": "contract",
+            "required_inheritance": 15
+        }
+    ]
+}
