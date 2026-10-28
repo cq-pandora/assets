@@ -1,0 +1,52 @@
+name: Validate data
+
+# Required check for master: auto-merged data updates only go live when this passes
+
+on:
+  pull_request:
+    branches: ['master']
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+    - name: Checkout assets repository
+      uses: actions/checkout@v7
+      with:
+        path: assets
+        ref: ${{ github.event.pull_request.head.sha || github.sha }}
+
+    - name: Fetch base revision
+      if: github.event_name == 'pull_request'
+      working-directory: assets
+      env:
+        BASE_SHA: ${{ github.event.pull_request.base.sha }}
+      run: git fetch --depth=1 origin "$BASE_SHA"
+
+    - name: Checkout pandora repository
+      uses: actions/checkout@v7
+      with:
+        repository: cq-pandora/projects
+        path: pandora
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v7
+      with:
+        node-version: 24
+
+    - name: Build pandora
+      working-directory: pandora
+      run: |
+        corepack enable
+        yarn install --immutable
+        yarn build
+
+    # Without a base revision (manual runs) only the rendering checks run
+    - name: Validate
+      env:
+        BASE_SHA: ${{ github.event.pull_request.base.sha }}
+      run: node pandora/services/bot/lib/validate-data assets ${BASE_SHA:+"$BASE_SHA"}
