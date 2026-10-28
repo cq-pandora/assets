@@ -13,7 +13,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
-        "image": "fish_icon_gear_rod_01"
+        "image": "fish_icon_gear_rod_01",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_IRON",
@@ -29,7 +31,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 30000,
-        "image": "fish_icon_gear_rod_03"
+        "image": "fish_icon_gear_rod_03",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_PREMIUM",
@@ -45,7 +49,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
-        "image": "fish_icon_gear_rod_02"
+        "image": "fish_icon_gear_rod_02",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_GLASS",
@@ -61,7 +67,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
-        "image": "fish_icon_gear_rod_05"
+        "image": "fish_icon_gear_rod_05",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_BORON",
@@ -77,7 +85,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 2000000,
-        "image": "fish_icon_gear_rod_06"
+        "image": "fish_icon_gear_rod_06",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_KEVLAR",
@@ -93,7 +103,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
-        "image": "fish_icon_gear_rod_07"
+        "image": "fish_icon_gear_rod_07",
+        "how_to_get": "collection",
+        "collection_reward": "TEXT_ROMAN_FISHERY_NAME"
     },
     {
         "id": "ITEM_FISHING_ROD_TITANIUM",
@@ -109,7 +121,9 @@
         "event_chance": 0,
         "currency": "ITEM_HONOR",
         "price": 100000,
-        "image": "fish_icon_gear_rod_08"
+        "image": "fish_icon_gear_rod_08",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_CARBON",
@@ -125,7 +139,9 @@
         "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 100000,
-        "image": "fish_icon_gear_rod_04"
+        "image": "fish_icon_gear_rod_04",
+        "how_to_get": "shop",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_GOLD",
@@ -141,7 +157,9 @@
         "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 300000,
-        "image": "fish_icon_gear_rod_10"
+        "image": "fish_icon_gear_rod_10",
+        "how_to_get": "shop",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_ROD_BAMBOO",
@@ -157,7 +175,9 @@
         "event_chance": 0,
         "currency": "ITEM_JEWEL",
         "price": 99,
-        "image": "fish_icon_gear_rod_09"
+        "image": "fish_icon_gear_rod_09",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_START",
@@ -173,7 +193,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
-        "image": "fish_icon_gear_float_01"
+        "image": "fish_icon_gear_float_01",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_BEGINNER",
@@ -189,7 +211,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 30000,
-        "image": "fish_icon_gear_float_02"
+        "image": "fish_icon_gear_float_02",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_MIDDLE",
@@ -205,7 +229,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
-        "image": "fish_icon_gear_float_03"
+        "image": "fish_icon_gear_float_03",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_BRONZE",
@@ -221,7 +247,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 200000,
-        "image": "fish_icon_gear_float_08"
+        "image": "fish_icon_gear_float_08",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_SILVER",
@@ -237,7 +265,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 2000000,
-        "image": "fish_icon_gear_float_09"
+        "image": "fish_icon_gear_float_09",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_EXPERT",
@@ -253,7 +283,9 @@
         "event_chance": 0,
         "currency": "ITEM_HONOR",
         "price": 100000,
-        "image": "fish_icon_gear_float_04"
+        "image": "fish_icon_gear_float_04",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_ELECTRIC",
@@ -269,7 +301,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
-        "image": "fish_icon_gear_float_06"
+        "image": "fish_icon_gear_float_06",
+        "how_to_get": "collection",
+        "collection_reward": "TEXT_WESTSEA_FISHERY_NAME"
     },
     {
         "id": "ITEM_FISHING_FLOAT_SHYPOD",
@@ -285,7 +319,9 @@
         "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 300000,
-        "image": "fish_icon_gear_float_07"
+        "image": "fish_icon_gear_float_07",
+        "how_to_get": "shop",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_GOLD",
@@ -301,7 +337,9 @@
         "event_chance": 0,
         "currency": "ITEM_FISHCOIN",
         "price": 100000,
-        "image": "fish_icon_gear_float_10"
+        "image": "fish_icon_gear_float_10",
+        "how_to_get": "shop",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_LOVERDUCK",
@@ -317,7 +355,9 @@
         "event_chance": 0,
         "currency": "ITEM_JEWEL",
         "price": 99,
-        "image": "fish_icon_gear_float_05"
+        "image": "fish_icon_gear_float_05",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_SEIREN",
@@ -333,7 +373,9 @@
         "event_chance": 0,
         "currency": "ITEM_JEWEL",
         "price": 99,
-        "image": "fish_icon_gear_float_11"
+        "image": "fish_icon_gear_float_11",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_FLOAT_EVENT_LONELY_BOKFISH",
@@ -349,7 +391,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1,
-        "image": "fish_icon_gear_float_12"
+        "image": "fish_icon_gear_float_12",
+        "how_to_get": "collection",
+        "collection_reward": "TEXT_CHRISTMAS_FISHERY_NAME"
     },
     {
         "id": "ITEM_FISHING_BAIT_START",
@@ -365,7 +409,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 10,
-        "image": "fish_icon_gear_bait_01"
+        "image": "fish_icon_gear_bait_01",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_WORM",
@@ -381,7 +427,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 30,
-        "image": "fish_icon_gear_bait_02"
+        "image": "fish_icon_gear_bait_02",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_KRILL",
@@ -397,7 +445,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 300,
-        "image": "fish_icon_gear_bait_03"
+        "image": "fish_icon_gear_bait_03",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_JUNGARI",
@@ -413,7 +463,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 300,
-        "image": "fish_icon_gear_bait_04"
+        "image": "fish_icon_gear_bait_04",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_OJINGA",
@@ -429,7 +481,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 600,
-        "image": "fish_icon_gear_bait_05"
+        "image": "fish_icon_gear_bait_05",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_BUNGFISHBREAD",
@@ -445,7 +499,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 600,
-        "image": "fish_icon_gear_bait_06"
+        "image": "fish_icon_gear_bait_06",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_SPINNER1",
@@ -461,7 +517,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 600,
-        "image": "fish_icon_gear_bait_08"
+        "image": "fish_icon_gear_bait_08",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_KOIBREAD",
@@ -477,7 +535,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1000,
-        "image": "fish_icon_gear_bait_07"
+        "image": "fish_icon_gear_bait_07",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_SPINNER2",
@@ -493,7 +553,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 1000,
-        "image": "fish_icon_gear_bait_09"
+        "image": "fish_icon_gear_bait_09",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_TOPRED",
@@ -509,7 +571,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
-        "image": "fish_icon_gear_bait_10"
+        "image": "fish_icon_gear_bait_10",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_TOPYELLOW",
@@ -525,7 +589,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
-        "image": "fish_icon_gear_bait_12"
+        "image": "fish_icon_gear_bait_12",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_TOPBLACK",
@@ -541,7 +607,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
-        "image": "fish_icon_gear_bait_13"
+        "image": "fish_icon_gear_bait_13",
+        "how_to_get": "none",
+        "collection_reward": "TEXT_FOREST_FISHERY_NAME"
     },
     {
         "id": "ITEM_FISHING_BAIT_TOPBLUE",
@@ -557,7 +625,9 @@
         "event_chance": 0,
         "currency": "ITEM_GOLD",
         "price": 5000,
-        "image": "fish_icon_gear_bait_11"
+        "image": "fish_icon_gear_bait_11",
+        "how_to_get": "none",
+        "collection_reward": null
     },
     {
         "id": "ITEM_FISHING_BAIT_EVENTROE",
@@ -573,6 +643,8 @@
         "event_chance": 25000,
         "currency": "ITEM_FISHCOIN",
         "price": 100000,
-        "image": "fish_icon_gear_bait_event_01"
+        "image": "fish_icon_gear_bait_event_01",
+        "how_to_get": "event",
+        "collection_reward": null
     }
 ]

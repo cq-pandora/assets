@@ -806,7 +806,7 @@
     {
         "id": "text_skill_pa_special_limited_brsk_05_name",
         "name": "TEXT_SKILL_PA_SPECIAL_LIMITED_BRSK_05_NAME",
-        "class": "warrior",
+        "class": "paladin",
         "type": "normal",
         "forms": [
             {
@@ -1378,17 +1378,9 @@
                 "description": "TEXT_SKILL_WA_BRISEIS_SPDESC_LV1",
                 "short_description": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
                 "image": "ui_skill_icon_warrior_briseis_ancient"
-            }
-        ]
-    },
-    {
-        "id": "text_skill_wa_briseis_subname",
-        "name": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
-        "class": "warrior",
-        "type": "normal",
-        "forms": [
+            },
             {
-                "level": 1,
+                "level": 2,
                 "description": "TEXT_SKILL_WA_BRISEIS_SPDESC_LV2",
                 "short_description": "TEXT_SKILL_WA_BRISEIS_SUBNAME",
                 "image": "ui_skill_icon_warrior_briseis_ancient"

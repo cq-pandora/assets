@@ -849,7 +849,7 @@
     "TEXT_CHA_WI_LIMTED_FIFTH_6_ANESIDORA_NAME": {
         "id": "ILLUST_HERO_ANESIDORA",
         "keys": [
-            "portrait_anesidora2_book"
+            "portrait_pandorab3_book"
         ]
     },
     "TEXT_CHA_HU_6_35_NAME": {
@@ -934,7 +934,7 @@
     "TEXT_CHA_AR_6_13_NAME": {
         "id": "ILLUST_HERO_ATALANTE",
         "keys": [
-            "portrait_atalante_default"
+            "portrait_atlanta_default"
         ]
     },
     "TEXT_CHA_PA_6_14_NAME": {

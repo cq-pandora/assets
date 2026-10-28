@@ -12394,8 +12394,8 @@
         "skins": []
     },
     {
-        "id": "royal_musician",
-        "readable_id": "royal_musician",
+        "id": "royal_musician_cha_hu_1_16",
+        "readable_id": "royal_musician_cha_hu_1_16",
         "class": "hunter",
         "type": "promotable",
         "gender": "female",
@@ -40563,8 +40563,8 @@
         }
     },
     {
-        "id": "chocolat",
-        "readable_id": "chocolat",
+        "id": "chocolat_cha_pr_limited_seventh_4_chocola",
+        "readable_id": "chocolat_cha_pr_limited_seventh_4_chocola",
         "class": "priest",
         "type": "secret",
         "gender": "female",
@@ -44440,8 +44440,8 @@
         }
     },
     {
-        "id": "faust",
-        "readable_id": "faust",
+        "id": "faust_cha_pr_4_16",
+        "readable_id": "faust_cha_pr_4_16",
         "class": "priest",
         "type": "contract",
         "gender": "male",
@@ -50258,8 +50258,8 @@
         "skins": []
     },
     {
-        "id": "southern_guard",
-        "readable_id": "southern_guard",
+        "id": "southern_guard_cha_wa_3_2",
+        "readable_id": "southern_guard_cha_wa_3_2",
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
@@ -51225,7 +51225,7 @@
                 "skill_lvl": 1,
                 "passive_name": null,
                 "block_name": "TEXT_SKILL_WA_WILD_NATURE_NAME_S2EP3",
-                "block_description": "TEXT_SKILL_WA_WILD_NATURE_DESC_S2EP3",
+                "block_description": "TEXT_SKILL_WA_WILD_NATURE_DESC",
                 "passive_description": null
             }
         ],
@@ -51818,8 +51818,8 @@
         "skins": []
     },
     {
-        "id": "squire",
-        "readable_id": "squire",
+        "id": "squire_cha_wa_2_20",
+        "readable_id": "squire_cha_wa_2_20",
         "class": "warrior",
         "type": "promotable",
         "gender": "male",
@@ -67574,8 +67574,8 @@
         "skins": []
     },
     {
-        "id": "monk",
-        "readable_id": "monk",
+        "id": "monk_cha_wi_1_15",
+        "readable_id": "monk_cha_wi_1_15",
         "class": "wizard",
         "type": "promotable",
         "gender": "male",
@@ -78451,8 +78451,8 @@
         }
     },
     {
-        "id": "little_girl",
-        "readable_id": "little_girl",
+        "id": "little_girl_cha_wi_limited_4_deemo",
+        "readable_id": "little_girl_cha_wi_limited_4_deemo",
         "class": "wizard",
         "type": "collab",
         "gender": "female",
@@ -80301,8 +80301,8 @@
         ]
     },
     {
-        "id": "beatrice",
-        "readable_id": "beatrice",
+        "id": "beatrice_cha_wi_limited_rz_4_06",
+        "readable_id": "beatrice_cha_wi_limited_rz_4_06",
         "class": "wizard",
         "type": "collab",
         "gender": "female",

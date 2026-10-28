@@ -13,7 +13,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 20
+                "amount": 20,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -31,7 +32,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 20
+                "amount": 20,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -49,7 +51,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 20
+                "amount": 20,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -67,7 +70,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 20
+                "amount": 20,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -85,7 +89,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 20
+                "amount": 20,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -103,7 +108,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 21
+                "amount": 21,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -121,7 +127,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -139,7 +146,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -157,7 +165,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -175,7 +184,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -193,7 +203,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -211,7 +222,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -229,25 +241,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_BUDDLEBUNGFISH",
-        "name": "TEXT_FISH_FRESHWATER_BUDDLEBUNGFISH_NAME",
-        "description": "TEXT_FISH_FRESHWATER_BUDDLEBUNGFISH_DESC",
-        "habitat": "freshwater",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 2,
-        "starts_from": 1,
-        "image": "fish_freshwater_2_buddlebungfish",
-        "exp": 198,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -265,7 +260,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -283,7 +279,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -301,25 +298,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 37
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_BROWNSONGA",
-        "name": "TEXT_FISH_FRESHWATER_BROWNSONGA_NAME",
-        "description": "TEXT_FISH_FRESHWATER_BROWNSONGA_DESC",
-        "habitat": "freshwater",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 2,
-        "starts_from": 14,
-        "image": "fish_freshwater_2_brownsonga",
-        "exp": 448,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 37,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -337,7 +317,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -355,7 +336,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -373,7 +355,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -391,7 +374,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 71
+                "amount": 71,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -409,25 +393,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 24
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_BAEKRYUNFISH",
-        "name": "TEXT_FISH_FRESHWATER_BAEKRYUNFISH_NAME",
-        "description": "TEXT_FISH_FRESHWATER_BAEKRYUNFISH_DESC",
-        "habitat": "freshwater",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 3,
-        "starts_from": 12,
-        "image": "fish_freshwater_3_baekryunfish",
-        "exp": 818,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 55
+                "amount": 24,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -445,7 +412,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 55
+                "amount": 55,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -463,7 +431,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 55
+                "amount": 55,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -481,7 +450,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 718
+                "amount": 718,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -499,7 +469,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 90
+                "amount": 90,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -517,7 +488,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 90
+                "amount": 90,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -535,7 +507,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 127
+                "amount": 127,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -553,7 +526,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 127
+                "amount": 127,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -571,25 +545,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 1016
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_CHOFISH",
-        "name": "TEXT_FISH_FRESHWATER_CHOFISH_NAME",
-        "description": "TEXT_FISH_FRESHWATER_CHOFISH_DESC",
-        "habitat": "freshwater",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 3,
-        "starts_from": 24,
-        "image": "fish_freshwater_3_chofish",
-        "exp": 1342,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 127
+                "amount": 1016,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -607,7 +564,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 127
+                "amount": 127,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -625,7 +583,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 127
+                "amount": 127,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -643,7 +602,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 1680
+                "amount": 1680,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -661,7 +621,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 26
+                "amount": 26,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -679,7 +640,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 76
+                "amount": 76,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -697,43 +659,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 132
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_CHULGAPSHARK",
-        "name": "TEXT_FISH_FRESHWATER_CHULGAPSHARK_NAME",
-        "description": "TEXT_FISH_FRESHWATER_CHULGAPSHARK_DESC",
-        "habitat": "freshwater",
-        "rank": "hero",
-        "type": "fish",
-        "grade": 4,
-        "starts_from": 40,
-        "image": "fish_freshwater_4_chulgapshark",
-        "exp": 2704,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 1531
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_PADDLEFISH",
-        "name": "TEXT_FISH_FRESHWATER_PADDLEFISH_NAME",
-        "description": "TEXT_FISH_FRESHWATER_PADDLEFISH_DESC",
-        "habitat": "freshwater",
-        "rank": "hero",
-        "type": "fish",
-        "grade": 4,
-        "starts_from": 21,
-        "image": "fish_freshwater_4_paddlefish",
-        "exp": 2704,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 1531
+                "amount": 132,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -751,7 +678,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2047
+                "amount": 2047,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -769,7 +697,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2047
+                "amount": 2047,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -787,7 +716,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 256
+                "amount": 256,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -805,7 +735,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 100
+                "amount": 100,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -823,7 +754,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2849
+                "amount": 2849,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -841,7 +773,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2849
+                "amount": 2849,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -859,7 +792,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2849
+                "amount": 2849,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -877,7 +811,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2849
+                "amount": 2849,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -895,25 +830,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 3744
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_WELSCATFISH",
-        "name": "TEXT_FISH_FRESHWATER_WELSCATFISH_NAME",
-        "description": "TEXT_FISH_FRESHWATER_WELSCATFISH_DESC",
-        "habitat": "freshwater",
-        "rank": "hero",
-        "type": "fish",
-        "grade": 5,
-        "starts_from": 54,
-        "image": "fish_freshwater_5_welscatfish",
-        "exp": 6762,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 3640
+                "amount": 3744,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -931,25 +849,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 3640
-            }
-        ]
-    },
-    {
-        "id": "FISH_FRESHWATER_COELACANTH",
-        "name": "TEXT_FISH_FRESHWATER_COELACANTH_NAME",
-        "description": "TEXT_FISH_FRESHWATER_COELACANTH_DESC",
-        "habitat": "freshwater",
-        "rank": "hero",
-        "type": "fish",
-        "grade": 6,
-        "starts_from": 12,
-        "image": "fish_freshwater_6_coelacanth",
-        "exp": 7260,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 1008
+                "amount": 3640,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -967,7 +868,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 4800
+                "amount": 4800,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -985,7 +887,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 4800
+                "amount": 4800,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1003,7 +906,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 9600
+                "amount": 9600,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1021,7 +925,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 20
+                "amount": 20,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1039,25 +944,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_NABIGOGI",
-        "name": "TEXT_FISH_SEA_NABIGOGI_NAME",
-        "description": "TEXT_FISH_SEA_NABIGOGI_DESC",
-        "habitat": "sea",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 2,
-        "starts_from": 4,
-        "image": "fish_sea_2_nabigogi",
-        "exp": 198,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1075,7 +963,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1093,7 +982,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 37
+                "amount": 37,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1111,7 +1001,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 37
+                "amount": 37,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1129,7 +1020,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 37
+                "amount": 37,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1147,7 +1039,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 37
+                "amount": 37,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1165,7 +1058,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 37
+                "amount": 37,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1183,7 +1077,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1201,7 +1096,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1219,7 +1115,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1237,7 +1134,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1255,7 +1153,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1273,7 +1172,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 53
+                "amount": 53,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1291,7 +1191,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 71
+                "amount": 71,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1309,7 +1210,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 71
+                "amount": 71,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1327,7 +1229,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 55
+                "amount": 55,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1345,7 +1248,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 90
+                "amount": 90,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1363,25 +1267,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 90
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_SALMON",
-        "name": "TEXT_FISH_SEA_SALMON_NAME",
-        "description": "TEXT_FISH_SEA_SALMON_DESC",
-        "habitat": "sea",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 3,
-        "starts_from": 11.4,
-        "image": "fish_sea_3_salmon",
-        "exp": 1036,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 90
+                "amount": 90,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1399,7 +1286,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 90
+                "amount": 90,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1417,7 +1305,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 90
+                "amount": 90,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1435,25 +1324,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 90
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_GALCHI",
-        "name": "TEXT_FISH_SEA_GALCHI_NAME",
-        "description": "TEXT_FISH_SEA_GALCHI_DESC",
-        "habitat": "sea",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 3,
-        "starts_from": 20,
-        "image": "fish_sea_3_galchi",
-        "exp": 1342,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 127
+                "amount": 90,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1471,7 +1343,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 1016
+                "amount": 1016,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1489,7 +1362,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 1016
+                "amount": 1016,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1507,25 +1381,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 1016
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_PEPPERMINT",
-        "name": "TEXT_FISH_SEA_PEPPERMINT_NAME",
-        "description": "TEXT_FISH_SEA_PEPPERMINT_DESC",
-        "habitat": "sea",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 3,
-        "starts_from": 1.4,
-        "image": "fish_sea_3_peppermint",
-        "exp": 2268,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 210
+                "amount": 1016,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1543,7 +1400,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 1052
+                "amount": 1052,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1561,7 +1419,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 132
+                "amount": 132,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1579,7 +1438,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 191
+                "amount": 191,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1597,25 +1457,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2047
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_CHAMTUNA",
-        "name": "TEXT_FISH_SEA_CHAMTUNA_NAME",
-        "description": "TEXT_FISH_SEA_CHAMTUNA_DESC",
-        "habitat": "sea",
-        "rank": "normal",
-        "type": "fish",
-        "grade": 5,
-        "starts_from": 40,
-        "image": "fish_sea_5_chamtuna",
-        "exp": 4502,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 179
+                "amount": 2047,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1633,7 +1476,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2849
+                "amount": 2849,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1651,43 +1495,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2849
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_HWANGSAECHI",
-        "name": "TEXT_FISH_SEA_HWANGSAECHI_NAME",
-        "description": "TEXT_FISH_SEA_HWANGSAECHI_DESC",
-        "habitat": "sea",
-        "rank": "hero",
-        "type": "fish",
-        "grade": 5,
-        "starts_from": 84,
-        "image": "fish_sea_5_hwangsaechi",
-        "exp": 5880,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 2849
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_BUMGORAE",
-        "name": "TEXT_FISH_SEA_BUMGORAE_NAME",
-        "description": "TEXT_FISH_SEA_BUMGORAE_DESC",
-        "habitat": "sea",
-        "rank": "hero",
-        "type": "fish",
-        "grade": 5,
-        "starts_from": 100,
-        "image": "fish_sea_5_bumgorae",
-        "exp": 10122,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 3744
+                "amount": 2849,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1705,25 +1514,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 4800
-            }
-        ]
-    },
-    {
-        "id": "FISH_SEA_SANGALCHI",
-        "name": "TEXT_FISH_SEA_SANGALCHI_NAME",
-        "description": "TEXT_FISH_SEA_SANGALCHI_DESC",
-        "habitat": "sea",
-        "rank": "hero",
-        "type": "fish",
-        "grade": 6,
-        "starts_from": 120,
-        "image": "fish_sea_6_sangalchi",
-        "exp": 11340,
-        "rewards": [
-            {
-                "type": "ITEM_FISHCOIN",
-                "amount": 4800
+                "amount": 4800,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -1741,7 +1533,8 @@
         "rewards": [
             {
                 "type": "ITEM_GOLD",
-                "amount": 10
+                "amount": 10,
+                "name": "TEXT_GOLD"
             }
         ]
     },
@@ -1759,7 +1552,8 @@
         "rewards": [
             {
                 "type": "ITEM_GOLD",
-                "amount": 10
+                "amount": 10,
+                "name": "TEXT_GOLD"
             }
         ]
     },
@@ -1777,7 +1571,8 @@
         "rewards": [
             {
                 "type": "ITEM_GOLD",
-                "amount": 10
+                "amount": 10,
+                "name": "TEXT_GOLD"
             }
         ]
     },
@@ -1795,7 +1590,8 @@
         "rewards": [
             {
                 "type": "ITEM_GOLD",
-                "amount": 10
+                "amount": 10,
+                "name": "TEXT_GOLD"
             }
         ]
     },
@@ -1813,7 +1609,8 @@
         "rewards": [
             {
                 "type": "ITEM_GOLD",
-                "amount": 2000
+                "amount": 2000,
+                "name": "TEXT_GOLD"
             }
         ]
     },
@@ -1831,7 +1628,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_NAME"
             }
         ]
     },
@@ -1849,25 +1647,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_NORMAL_CATBOX",
-                "amount": 1
-            }
-        ]
-    },
-    {
-        "id": "FISH_EVENT_SALMON_2ND",
-        "name": "TEXT_FISH_EVENT_SALMON_NAME",
-        "description": "TEXT_FISH_EVENT_SALMON_DESC",
-        "habitat": "event",
-        "rank": "event",
-        "type": "event",
-        "grade": 6,
-        "starts_from": 1,
-        "image": "fish_event_haslasalmon",
-        "exp": 224,
-        "rewards": [
-            {
-                "type": "RANDOMBOX_EVENT_GOOD_CATBOX",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_NAME"
             }
         ]
     },
@@ -1885,7 +1666,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_NAME"
             }
         ]
     },
@@ -1903,7 +1685,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T2_NAME"
             }
         ]
     },
@@ -1921,7 +1704,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T2",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T2_NAME"
             }
         ]
     },
@@ -1939,7 +1723,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T2_NAME"
             }
         ]
     },
@@ -1957,7 +1742,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T2",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T2_NAME"
             }
         ]
     },
@@ -1975,7 +1761,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T2_NAME"
             }
         ]
     },
@@ -1993,7 +1780,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T2",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T2_NAME"
             }
         ]
     },
@@ -2011,7 +1799,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T3",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T3_NAME"
             }
         ]
     },
@@ -2029,7 +1818,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T3",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T3_NAME"
             }
         ]
     },
@@ -2047,7 +1837,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T3",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T3_NAME"
             }
         ]
     },
@@ -2065,7 +1856,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2083,7 +1875,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2101,7 +1894,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2119,7 +1913,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2137,7 +1932,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2155,7 +1951,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2173,7 +1970,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2191,7 +1989,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 125
+                "amount": 125,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2209,11 +2008,13 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_CHRISTMAS_2022",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_CHRISTMAS_2018_NAME"
             },
             {
                 "type": "MATERIAL_LIMIT_EVENT_CHRISTMAS_2018",
-                "amount": 3
+                "amount": 3,
+                "name": "TEXT_MATERIAL_LIMIT_EVENT_CHRISTMAS_2018_NAME"
             }
         ]
     },
@@ -2231,7 +2032,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 2525
+                "amount": 2525,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2249,7 +2051,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 20
+                "amount": 20,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2267,7 +2070,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2285,7 +2089,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 22
+                "amount": 22,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2303,7 +2108,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 76
+                "amount": 76,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2321,7 +2127,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 55
+                "amount": 55,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2339,7 +2146,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 55
+                "amount": 55,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2357,7 +2165,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 100
+                "amount": 100,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2375,7 +2184,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 3640
+                "amount": 3640,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2393,7 +2203,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 4800
+                "amount": 4800,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2411,7 +2222,8 @@
         "rewards": [
             {
                 "type": "ITEM_FISHCOIN",
-                "amount": 9600
+                "amount": 9600,
+                "name": "TEXT_FISHCOIN"
             }
         ]
     },
@@ -2429,7 +2241,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T4",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T4_NAME"
             }
         ]
     },
@@ -2447,7 +2260,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T4",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T4_NAME"
             }
         ]
     },
@@ -2465,7 +2279,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2483,7 +2298,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_NORMAL_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_NORMAL_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2501,7 +2317,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2519,7 +2336,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2537,7 +2355,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2555,7 +2374,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2573,7 +2393,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2591,7 +2412,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2609,7 +2431,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2627,7 +2450,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2645,7 +2469,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2663,7 +2488,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2681,7 +2507,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2699,7 +2526,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     },
@@ -2717,7 +2545,8 @@
         "rewards": [
             {
                 "type": "RANDOMBOX_EVENT_GOOD_CATBOX_T5",
-                "amount": 1
+                "amount": 1,
+                "name": "TEXT_RANDOMBOX_EVENT_GOOD_CATBOX_T5_NAME"
             }
         ]
     }
