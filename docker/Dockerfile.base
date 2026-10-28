@@ -1,3 +1,4 @@
-FROM alpine:3.15.0
+# Node runtime plus the assets: the bot image (services/bot/Dockerfile in cq-pandora/projects) builds on top of it
+FROM node:24-alpine
 
 COPY . /cq-data/
