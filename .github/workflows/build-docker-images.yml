@@ -66,3 +66,17 @@ jobs:
         tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:bot
         build-args: |
           BASE_IMAGE=${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:base
+
+    # depsos restarts both containers, which pulls the images pushed above
+    - name: Redeploy on depsos
+      if: github.ref == 'refs/heads/master'
+      env:
+        REDEPLOY_SECRET: ${{ secrets.REDEPLOY_SECRET }}
+        REDEPLOY_URL: https://data.fenrir.moe/_hooks/pandora-redeploy
+      run: |
+        body=$(jq -cn --arg sha "$GITHUB_SHA" --arg run "$GITHUB_RUN_ID" '{sha: $sha, run: $run}')
+        signature=$(printf '%s' "$body" | openssl dgst -sha256 -hmac "$REDEPLOY_SECRET" -r | cut -d' ' -f1)
+        curl -fsS -X POST "$REDEPLOY_URL" \
+          -H 'Content-Type: application/json' \
+          -H "X-Hub-Signature-256: sha256=$signature" \
+          --data "$body"
